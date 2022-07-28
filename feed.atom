@@ -2,10 +2,495 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://olivedrop.github.io/drop/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-07-27T02:19:35.237Z</updated>
+    <updated>2022-07-28T02:07:54.175Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://olivedrop.github.io/drop/index.html"/>
     <link rel="self" href="https://olivedrop.github.io/drop/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Gmail: Neue Optik und bessere Suchergebnisse ab sofort]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1121711</id>
+        <link href="https://stadt-bremerhaven.de/gmail-neue-optik-und-bessere-suchergebnisse-ab-sofort/"/>
+        <updated>2022-07-27T19:45:35.000Z</updated>
+        <summary type="html"><![CDATA[Das neue Gmail-Design wurde schon vor langer Zeit angekündigt. Laut Google können es ab heute alle ausprobieren, die in den Einstellungen den Google Chat aktivieren. Dann gibt’s die neue Optik zu sehen, in der neuen Seitenleiste gibt’s dann unter anderem...
+Zum Beitrag: Gmail: Neue Optik und bessere Suchergebnisse ab sofort
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rockstar Games: GTA VI wohl mit Protagonistin und ohne Diskriminierung]]></title>
+        <id>https://www.computerbase.de/2022-07/rockstar-games-gta-vi-wohl-mit-protagonistin-und-ohne-diskriminierung/</id>
+        <link href="https://www.computerbase.de/2022-07/rockstar-games-gta-vi-wohl-mit-protagonistin-und-ohne-diskriminierung/"/>
+        <updated>2022-07-27T19:26:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/4/0/5-a322ac7dbc14fee7/article-640x360.06bd1a93.jpg"><p>Dass Rockstar Games an einem nächsten Teil der Grand-Theft-Auto-Reihe arbeitet, ist seit Februar dieses Jahres offiziell. Seither erblicken immer wieder Gerüchte das Licht der Welt. Einem Bericht zufolge verzögert sich das Spiel nun wegen eines Kulturwandels beim Entwickler: GTA VI soll keine Witze über Randgruppen beinhalten.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google: Privacy Sandbox benötigt mehr Zeit]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1121708</id>
+        <link href="https://stadt-bremerhaven.de/google-privacy-sandbox-benoetigt-mehr-zeit/"/>
+        <updated>2022-07-27T18:41:26.000Z</updated>
+        <summary type="html"><![CDATA[Es wird noch länger dauern, bis Google seine kontrovers diskutierte Privacy Sandbox im Web einführt und die Drittanbieter-Cookies komplett sperrt. Die Entwicklung von datenschutzfreundlichen Alternativen zu Drittanbieter-Cookies benötigt demnach mehr Zeit. Entwicklern können die Schnittstellen bereits heute testen, und von...
+Zum Beitrag: Google: Privacy Sandbox benötigt mehr Zeit
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Twitter: Spaces zeigen mehr Informationen]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1121697</id>
+        <link href="https://stadt-bremerhaven.de/twitter-spaces-zeigen-mehr-informationen/"/>
+        <updated>2022-07-27T18:08:19.000Z</updated>
+        <summary type="html"><![CDATA[Twitter ist nicht mehr nur das reine Kurznachrichten-Medium. Mit Spaces hat man einen Bereich für Menschen geschaffen, die sich untereinander in ihren Bereichen austauschen können. Ab heute hat man diesen Bereich noch einmal für seine Nutzer verbessert, so sehen Anwender...
+Zum Beitrag: Twitter: Spaces zeigen mehr Informationen
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iPhone: Nacktfotoscanner startet in Deutschland (iOS 16 Developer Beta 4)]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1121680</id>
+        <link href="https://stadt-bremerhaven.de/iphone-nacktfotoscanner-startet-in-deutschland/"/>
+        <updated>2022-07-27T17:28:26.000Z</updated>
+        <summary type="html"><![CDATA[Die Funktion ist bekannt, wird durch die Einführung in Deutschland aber sicherlich erneut kontrovers diskutiert werden. macOS 13 und iOS 16 können, ab sofort mit der Developer Beta beginnend, auch Nacktfotos in iMessage (wie genau Nacktheit definiert ist, verrät die...
+Zum Beitrag: iPhone: Nacktfotoscanner startet in Deutschland (iOS 16 Developer Beta 4)
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iOS 16: Vierte Beta für Entwickler erschienen]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1118959</id>
+        <link href="https://stadt-bremerhaven.de/ios-16-vierte-beta-fuer-entwickler-erschienen/"/>
+        <updated>2022-07-27T17:05:07.000Z</updated>
+        <summary type="html"><![CDATA[Apple ist gerade dabei, die nächsten großen Betriebssystemversionen für seine Geräte zu bauen und lässt wie üblich, registrierte Entwickler und Tester, die an das Profil gekommen sind, daran teilhaben. Nun hat man in Cupertino mal wieder einen Knopf gedrückt und...
+Zum Beitrag: iOS 16: Vierte Beta für Entwickler erschienen
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>Oliver Posselt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Prime Video zeigt Trailer zu „Samaritan“ mit Sylvester Stallone]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1121654</id>
+        <link href="https://stadt-bremerhaven.de/amazon-prime-video-zeigt-trailer-zu-samaritan-mit-sylvester-stallone/"/>
+        <updated>2022-07-27T17:00:08.000Z</updated>
+        <summary type="html"><![CDATA[Er ist wohl im Alleingang dafür verantwortlich, dass Tausende von Deutschen Silvester falsch schreiben: Sylvester Stallone. Nun kehrt der durch Filme wie „Rocky“ und „Rambo“ zur Legende gewordene Darsteller für einen Film bei Amazon Prime Video zurück: „Samaritan“. Der neue...
+Zum Beitrag: Amazon Prime Video zeigt Trailer zu „Samaritan“ mit Sylvester Stallone
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chromebooks: Neue Apps und Tools zur Videobearbeitung]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1121670</id>
+        <link href="https://stadt-bremerhaven.de/chromebooks-neue-apps-und-tools-zur-videobearbeitung/"/>
+        <updated>2022-07-27T16:21:00.000Z</updated>
+        <summary type="html"><![CDATA[In den nächsten Monaten wird Google neue Chromebook-Funktionen einführen, darunter Tools zur Videobearbeitung in der Google Fotos-App sowie erweiterte App-Funktionen und Funktionen. Die Erstellung eines kompletten Films, der aus mehreren Videoclips, Fotos, einer Titelkarte und Musik besteht, kann mit einer...
+Zum Beitrag: Chromebooks: Neue Apps und Tools zur Videobearbeitung
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Guillermo del Toros „Pinocchio“ zeigt sich im Trailer]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1121636</id>
+        <link href="https://stadt-bremerhaven.de/guillermo-del-toros-pinocchio-zeigt-sich-im-trailer/"/>
+        <updated>2022-07-27T15:30:33.000Z</updated>
+        <summary type="html"><![CDATA[Guillermo del Toros „Pinocchio“ hat einen ersten Trailer erhalten. Es handelt sich hier um einen Film für Netflix, bei dem del Toro nicht nur gemeinsam mit Mark Gustafson Regie geführt, sondern auch am Drehbuch mitgearbeitet hat. Zu den Sprechern im...
+Zum Beitrag: Guillermo del Toros „Pinocchio“ zeigt sich im Trailer
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AMD Software Adrenalin Edition 22.7.1 drivers bring optimizations for OpenGL]]></title>
+        <id>https://www.ghacks.net/?p=179958</id>
+        <link href="https://www.ghacks.net/2022/07/27/amd-software-adrenalin-edition-22-7-1-drivers-bring-optimizations-for-opengl/"/>
+        <updated>2022-07-27T15:26:01.000Z</updated>
+        <summary type="html"><![CDATA[The AMD Software Adrenalin Edition 22.7.1 drivers have been released. It has finally happened, AMD has fixed the OpenGL issues in its GPUs. What's new in AMD Software Adrenalin Edition 22.7.1 drivers […]
+Thank you for being a Ghacks reader. The post AMD Software Adrenalin Edition 22.7.1 drivers bring optimizations for OpenGL appeared first on gHacks Technology News.]]></summary>
+        <author>
+            <name>Ashwin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WhatsApp: Wellenform-Darstellung für Sprachnachrichten in der Desktop-Beta]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1121621</id>
+        <link href="https://stadt-bremerhaven.de/whatsapp-wellenform-darstellung-fuer-sprachnachrichten-in-der-desktop-beta/"/>
+        <updated>2022-07-27T15:00:10.000Z</updated>
+        <summary type="html"><![CDATA[WhatsApp nutzt in den Betaversionen für Android und Apple iOS sowie der Electron-App schon eine ganze Weile für Sprachnachrichten die Wellenform-Darstellung. Auch in meiner macOS-Version werden mir die Voice-Messages auf jene Weise angezeigt. Nun versorgt man laut WABetaInfo auch die...
+Zum Beitrag: WhatsApp: Wellenform-Darstellung für Sprachnachrichten in der Desktop-Beta
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft: Umsatz mit Xbox-Konsolen fällt um 11 Prozent]]></title>
+        <id>https://www.computerbase.de/2022-07/microsoft-umsatz-mit-xbox-konsolen-faellt-um-11-prozent/</id>
+        <link href="https://www.computerbase.de/2022-07/microsoft-umsatz-mit-xbox-konsolen-faellt-um-11-prozent/"/>
+        <updated>2022-07-27T14:52:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/4/0/4-105f2eaec3506f34/article-640x360.3ce4732b.jpg"><p>Die Xbox Series X und die kleinere Series S (Test) kamen Ende 2020 auf den Markt. Noch immer ist die leistungsstärkere Variante nicht ab Lager verfügbar, aber dennoch vermeldet Microsoft zur Bekanntgabe der Quartalszahlen zum zweiten Quartal 2022 nun einen gesunkenen Umsatz mit Spielkonsolen.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Umweltbonus für E-Autos wird fortgesetzt: Das sind die Details]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1121643</id>
+        <link href="https://stadt-bremerhaven.de/umweltbonus-fuer-e-autos-wird-fortgesetzt-das-sind-die-details/"/>
+        <updated>2022-07-27T14:24:01.000Z</updated>
+        <summary type="html"><![CDATA[Nachdem bereits gestern Details zur zukünftigen Förderung von Elektroautos durchgesickert waren, hat man heute seitens des Bundesministeriums für Wirtschaft und Klimaschutz eine umfassende Informationssseite zum Thema veröffentlicht. Wie im Koalitionsvertrag vereinbart, werde sich die Förderung für elektrische Fahrzeuge ab 1....
+Zum Beitrag: Umweltbonus für E-Autos wird fortgesetzt: Das sind die Details
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sky: „1972 – Münchens schwarzer September” startet im September]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1121578</id>
+        <link href="https://stadt-bremerhaven.de/sky-1972-muenchens-schwarzer-september-startet-im-september/"/>
+        <updated>2022-07-27T14:00:54.000Z</updated>
+        <summary type="html"><![CDATA[Der Starttermin von Skys neuer Serie scheint nicht willkürlich gewählt. Am 4. September läuft das Sky Original-Doku-Drama „1972 – Münchens schwarzer September“ auf Sky Documentaries und ist bereits ab dem 2. September mit Sky und WOW abrufbar. Vielschichtig wolle man...
+Zum Beitrag: Sky: „1972 – Münchens schwarzer September” startet im September
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Knights of the Old Republic: Star-Wars-Remake vorerst auf Eis gelegt]]></title>
+        <id>https://www.computerbase.de/2022-07/knights-of-the-old-republic-star-wars-remake-vorerst-auf-eis-gelegt/</id>
+        <link href="https://www.computerbase.de/2022-07/knights-of-the-old-republic-star-wars-remake-vorerst-auf-eis-gelegt/"/>
+        <updated>2022-07-27T13:40:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/3/9/8-3126423463dc7c6a/article-640x360.f2c00c40.jpg"><p>Das Remake des Star-Wars-Klassikers Knights of the Old Republic hat Probleme. Rund ein Jahr nach der vielversprechenden Ankündigung sind die Arbeiten Gerüchten zufolge unterbrochen worden. Die Fertigstellung wurde de facto auf unbestimmte Zeit verschoben, während sich das Team neu orientiere.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Roland Emmerich führt für Peacock bei „Those About To Die“ Regie]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1121584</id>
+        <link href="https://stadt-bremerhaven.de/roland-emmerich-fuehrt-fuer-peacock-bei-those-about-to-die-regie/"/>
+        <updated>2022-07-27T13:30:14.000Z</updated>
+        <summary type="html"><![CDATA[Roland Emmerich wird für den Streaming-Anbieter Peacock, zugehörig zu NBCUniversal, Regie bei der Serie „Those About To Die“ führen. Thematisch wird sie sich um Gladiatoren im alten Rom drehen. Die Serie wurde bereits bestellt und nimmt sich das gleichnamige Buch...
+Zum Beitrag: Roland Emmerich führt für Peacock bei „Those About To Die“ Regie
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LibreOffice security update fixes macro execution bypass and potential password leaking]]></title>
+        <id>https://www.ghacks.net/?p=179959</id>
+        <link href="https://www.ghacks.net/2022/07/27/libreoffice-security-update-fixes-macro-execution-bypass-and-potential-password-leaking/"/>
+        <updated>2022-07-27T13:19:14.000Z</updated>
+        <summary type="html"><![CDATA[The developers of LibreOffice have released updates for the open source Office suite to patch three security issues. LibreOffice is a popular cross-platform Microsoft Office alternative that is available for Windows, macOS […]
+Thank you for being a Ghacks reader. The post LibreOffice security update fixes macro execution bypass and potential password leaking appeared first on gHacks Technology News.]]></summary>
+        <author>
+            <name>Martin Brinkmann</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Innosilicon Fantasy I & II: 10 TFLOPS+ für Desktop, Server, Cloud und Metaverse]]></title>
+        <id>https://www.computerbase.de/2022-07/innosilicon-fantasy-one-grafikkarten/</id>
+        <link href="https://www.computerbase.de/2022-07/innosilicon-fantasy-one-grafikkarten/"/>
+        <updated>2022-07-27T13:19:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/4/0/0-3914c02bc5f948a3/article-640x360.5d6556c1.jpg"><p>Der chinesische Hersteller Innosilicon hat zwei Grafikkarten der Serie Fantasy One mit bis zu 10 TFLOPS und 16 GB GDDR6X für den Desktop-PC, Server, Cloud-Gaming und das Metaverse vorgestellt. Auf den hauseigenen Grafikprozessor „Fantasy I“, die Technik von Imagination Technologies, soll am 3. August der „Fantasy II“ folgen.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Opera GX bietet euch jetzt ebenfalls Gratis-Games]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1121593</id>
+        <link href="https://stadt-bremerhaven.de/opera-gx-bietet-euch-jetzt-ebenfalls-gratis-games/"/>
+        <updated>2022-07-27T13:00:03.000Z</updated>
+        <summary type="html"><![CDATA[Opera GX ist ein selbsternannter Gaming-Browser, der da auch einige Funktionen mitbringt, die speziell Spieler abholen sollen. Nun geht man einen weiteren Schritt: Im zweiwöchigen Rhythmus will Opera GX über die Website GX.games kostenlose Indie-Spiele unter die Leute bringen. Auch...
+Zum Beitrag: Opera GX bietet euch jetzt ebenfalls Gratis-Games
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Roccat Kone XP Air: Kabelloser RGB-Allrounder kostet den höchsten Preis]]></title>
+        <id>https://www.computerbase.de/2022-07/roccat-kone-xp-air-kabelloser-rgb-allrounder-kostet-den-hoechsten-preis/</id>
+        <link href="https://www.computerbase.de/2022-07/roccat-kone-xp-air-kabelloser-rgb-allrounder-kostet-den-hoechsten-preis/"/>
+        <updated>2022-07-27T12:31:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/4/0/2-a0ae9bcf410be7e6/article-640x360.f65e2548.jpg"><p>Roccat legt die im Test als gelungene Alternative zur G502 Hero (Test) oder Basilisk V3 (Test) aufgetretene Kone XP als kabellose Version auf. Erneut liegt der Fokus auch auf einer opulenten RGB-Beleuchtung, diesmal sogar bei der im Lieferumfang enthaltenen Ladestation. Höher als die Leuchtkraft der LEDs ist lediglich der Preis.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows 10: Optionales Update KB5015878 wird verteilt]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1121555</id>
+        <link href="https://stadt-bremerhaven.de/windows-10-optionales-update-kb5015878-wird-verteilt/"/>
+        <updated>2022-07-27T12:30:42.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft hat das optionale Update KB5015878 für Windows 10 Builds 19042.1865, 19043.1865 und 19044.1865 veröffentlicht. Das Update ohne Sicherheitsrelevanz gibt Nutzern unter anderem die Möglichkeit, dringende Benachrichtigungen zu erhalten, wenn der Fokus-Assistent aktiviert ist. Der Fokus-Assistent ist wie ein „Bitte...
+Zum Beitrag: Windows 10: Optionales Update KB5015878 wird verteilt
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ADAC SE und E.ON starten gemeinsames Elektromobilitäts-Angebot für Unternehmen]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1121569</id>
+        <link href="https://stadt-bremerhaven.de/adac-se-und-e-on-starten-gemeinsames-elektromobilitaets-angebot-fuer-unternehmen/"/>
+        <updated>2022-07-27T12:00:29.000Z</updated>
+        <summary type="html"><![CDATA[E.ON und die ADAC Service GmbH erweitern ihre Kooperation in Sachen Elektromobilität. Sie bieten ab sofort gemeinsam Ladestationen für Unternehmen an. Damit wollen die Partner die klimafreundliche Mobilität (Eigenaussage) in Deutschland weiter voranbringen – sicherlich macht man dies auch, um...
+Zum Beitrag: ADAC SE und E.ON starten gemeinsames Elektromobilitäts-Angebot für Unternehmen
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Maps stellt neue Funktionen für den Sommer vor]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1121554</id>
+        <link href="https://stadt-bremerhaven.de/google-maps-stellt-neue-funktionen-fuer-den-sommer-vor/"/>
+        <updated>2022-07-27T11:30:10.000Z</updated>
+        <summary type="html"><![CDATA[Google Maps soll Nutzer im Sommer 2022 mit neuen Features versorgen, um unter anderem die Urlaubsplanung zu erleichtern. So stehen für Android und iOS zukünftig etwa Luftaufnahmen von bis zu 100 weltweit beliebten Sehenswürdigkeiten sowie neue Fahrradrouten-Informationen in zahlreichen Städten...
+Zum Beitrag: Google Maps stellt neue Funktionen für den Sommer vor
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Car Thing: Spotify gibt das Geschäft auf]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1121589</id>
+        <link href="https://stadt-bremerhaven.de/car-thing-spotify-gibt-das-geschaeft-auf/"/>
+        <updated>2022-07-27T11:06:08.000Z</updated>
+        <summary type="html"><![CDATA[Spotify hat seine Quartalszahlen bekannt gegeben. Interessante Details aus dem Investoren-Gespräch: Die Hardware-Experimente gibt man auf, zumindest die bezüglich Car Thing. Car Thing ist ein Gerät, das im Auto an den Zigarettenanzünder angeschlossen wird und schnellen Zugriff auf die Inhalte...
+Zum Beitrag: Car Thing: Spotify gibt das Geschäft auf
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Asus ROG Strix XG32UQ: 4K-Monitor mit HDMI 2.1, HDR 600 und bis zu 160 Hz]]></title>
+        <id>https://www.computerbase.de/2022-07/asus-rog-strix-xg32uq-4k-monitor-mit-hdmi-2-1-hdr-600-und-bis-zu-160-hz/</id>
+        <link href="https://www.computerbase.de/2022-07/asus-rog-strix-xg32uq-4k-monitor-mit-hdmi-2-1-hdr-600-und-bis-zu-160-hz/"/>
+        <updated>2022-07-27T11:02:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/4/0/3-5a7fc64d64853b8a/article-640x360.72ae7080.jpg"><p>Die Klasse der 32-Zoll-Monitore mit UHD-Auflösung bereichert Asus bald mit einem neuen Modell für Spieler. Der ROG Strix XG32UQ arbeitet nativ mit 144 Hz und lässt sich auf 160 Hz via DisplayPort übertakten. Ein IPS-Panel mit 1 ms Reaktionszeit, HDMI 2.1 und DisplayHDR 600 sind weitere Merkmale.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spotify hat 188 Millionen zahlende Kunden]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1121581</id>
+        <link href="https://stadt-bremerhaven.de/spotify-hat-188-millionen-zahlende-kunden/"/>
+        <updated>2022-07-27T10:51:14.000Z</updated>
+        <summary type="html"><![CDATA[Spotify hat seine Quartalszahlen bekannt gegeben. Mittlerweile hat man ja nicht nur Musik im Angebot, es gibt Podcasts, bald noch mehr Videos und noch mehr. Q2 ‘22 $SPOT earnings results are out. A very strong quarter for @Spotify thanks to...
+Zum Beitrag: Spotify hat 188 Millionen zahlende Kunden
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rewe verzichtet ab Sommer 2023 auf ein Papier-Prospekt]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1121572</id>
+        <link href="https://stadt-bremerhaven.de/rewe-verzichtet-ab-sommer-2023-auf-ein-papier-prospekt/"/>
+        <updated>2022-07-27T10:30:25.000Z</updated>
+        <summary type="html"><![CDATA[Die Supermarkt-Kette gibt eine Neuerung bekannt, welche die Geister scheiden könnte: Ab Sommer 2023 wird man als laut eigenen Aussagen „erster Lebensmitteleinzelhändler den gedruckten Angebots-Prospekt“ einstellen. Begründet wird dies mit dem Klimaschutz. Doch die Realität dürfte komplexer sein. So spart...
+Zum Beitrag: Rewe verzichtet ab Sommer 2023 auf ein Papier-Prospekt
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nvidia Studio Treiber: Version 516.93 beschleunigt Chaos V-Ray 6 für 3ds Max [Notiz]]]></title>
+        <id>https://www.computerbase.de/2022-07/nvidia-studio-treiber-version-516-93-beschleunigt-chaos-v-ray-6-fuer-3ds-max/</id>
+        <link href="https://www.computerbase.de/2022-07/nvidia-studio-treiber-version-516-93-beschleunigt-chaos-v-ray-6-fuer-3ds-max/"/>
+        <updated>2022-07-27T10:23:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/4/0/1-d769e1f338afbdc6/article-640x360.d4c478f8.jpg"><p>Nvidia hat mit dem 516.93 einen neuen Studio-Treiber für die eigenen GeForce-Grafikkarten zum Download bereitgestellt. Dieser unterstützt erstmals Chaos V-Ray 6 für Autodesks 3ds Max, das laut den Entwicklern ein großes Update für photorealistisches Rendern darstellen soll.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mullvad VPN codes are now available on Amazon]]></title>
+        <id>https://www.ghacks.net/?p=179952</id>
+        <link href="https://www.ghacks.net/2022/07/27/mullvad-vpn-codes-are-now-available-on-amazon/"/>
+        <updated>2022-07-27T10:01:24.000Z</updated>
+        <summary type="html"><![CDATA[Swedish VPN provider Mullvad has expanded the accepted payment methods to include Mullvad VPN codes bought on Amazon to the list. Mullvad VPN is a privacy-first VPN provider that does several things […]
+Thank you for being a Ghacks reader. The post Mullvad VPN codes are now available on Amazon appeared first on gHacks Technology News.]]></summary>
+        <author>
+            <name>Martin Brinkmann</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Volvo schaltet Apple CarPlay via Update in neuen Regionen frei]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1121550</id>
+        <link href="https://stadt-bremerhaven.de/volvo-schaltet-apple-carplay-via-update-in-neuen-regionen-frei/"/>
+        <updated>2022-07-27T10:00:48.000Z</updated>
+        <summary type="html"><![CDATA[Volvo rollt aktuell ein Software-Update aus, das Apple CarPlay in 14 neuen Regionen freischalten soll, wie EV berichtet. Versorgt werden offenbar die Modelle, welche Android Automotive als Betriebssystem einsetzen. Die Fahrzeuge sollen auch die nächste Generation von CarPlay unterstützten, die...
+Zum Beitrag: Volvo schaltet Apple CarPlay via Update in neuen Regionen frei
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Enermax StarryKnight SK30 im Test: Die ARGB-Lichtanlage setzt noch auf Molex-Stecker]]></title>
+        <id>https://www.computerbase.de/2022-07/enermax-starryknight-sk30-test/</id>
+        <link href="https://www.computerbase.de/2022-07/enermax-starryknight-sk30-test/"/>
+        <updated>2022-07-27T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/2/6/7-c44746bbf2c5c1ea/article-640x360.64ffa050.jpg"><p>Mit dem StarryKnight SK30 setzt Enermax von Haus aus auf gleich vier ARGB-Lüfter und eine luftige Gitterfront. Zugunsten der Beleuchtung wird bei genauerem Blick jedoch an gleich mehreren Ecken teils erheblich gespart. Immerhin sind die Temperaturen im Test als überaus gut zu bezeichnen.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Samsung Galaxy Z Flip 4: Bilder, Daten und Preise zum neuen Foldable aufgetaucht]]></title>
+        <id>https://www.computerbase.de/2022-07/samsung-galaxy-z-flip-4/</id>
+        <link href="https://www.computerbase.de/2022-07/samsung-galaxy-z-flip-4/"/>
+        <updated>2022-07-27T09:05:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/3/9/9-d3cb51fd3f959b21/article-640x360.32abb3c7.jpg"><p>Der Nachfolger des Samsung Galaxy Z Flip 3 (Test) soll ab 1.080 Euro kosten und in drei Konfigurationen sowie vier Farben erscheinen. Einmal mehr stammt das jetzt vorab veröffentlichte Bildmaterial von @OnLeaks, welcher die auf Pressematerial basierenden Renderings über die Website Giznext veröffentlicht hat.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AMD Adrenalin Edition 22.7.1: Mit mehr OpenGL-FPS, Noise Suppression und VRS-Boost]]></title>
+        <id>https://www.computerbase.de/2022-07/amd-adrenalin-edition-22-7-1-mit-mehr-opengl-fps-noise-suppression-und-vrs-boost/</id>
+        <link href="https://www.computerbase.de/2022-07/amd-adrenalin-edition-22-7-1-mit-mehr-opengl-fps-noise-suppression-und-vrs-boost/"/>
+        <updated>2022-07-27T08:31:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/3/9/7-38ec40e48d841f16/article-640x360.de022da3.jpg"><p>Nach einigen Wochen „Pause“ hat AMD mit dem Adrenalin 22.7.1 einen neuen Treiber bereit gestellt, der als Ausgleich aber auch wieder ein größeres Update ist. Zwar wird mit dem Swordsman Remake ganz klassisch auch ein neues Spiel unterstützt, aber auch davon abgesehen hat sich so einiges getan.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Look Around („Umsehen“): Apple Maps überholt Google Street View bundesweit]]></title>
+        <id>https://www.computerbase.de/2022-07/apple-karten-umsehen-deutschland/</id>
+        <link href="https://www.computerbase.de/2022-07/apple-karten-umsehen-deutschland/"/>
+        <updated>2022-07-27T07:13:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/3/9/6-ffc13e5512e33155/article-640x360.446d73a5.jpg"><p>Das im Jahr 2020 in den USA eingeführte Feature „Umsehen“ der Kartenanwendung Apple Maps für iOS ist jetzt auch in ganz Deutschland verfügbar. Nachdem der Start in der San Francisco Bay Area, Los Angeles, Las Vegas, Houston und Oahu erfolgte, reihte sich München als erste deutsche Stadt gerade erst vor rund drei Monaten ein.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Which is right for you – Xbox Live Gold or Xbox Game Pass?]]></title>
+        <id>https://www.ghacks.net/?p=179846</id>
+        <link href="https://www.ghacks.net/2022/07/20/xbox-live-gold-or-xbox-game-pass-eneba/"/>
+        <updated>2022-07-27T07:00:34.000Z</updated>
+        <summary type="html"><![CDATA[Xbox like any other console has its own subscription services and like it or not, subscriptions have become a crucial part of any console owner’s life. While they are not threatening to […]
+Thank you for being a Ghacks reader. The post Which is right for you – Xbox Live Gold or Xbox Game Pass? appeared first on gHacks Technology News.]]></summary>
+        <author>
+            <name>Sponsored Content</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Firefox Translations: support for French, Polish and Ukrainian languages added]]></title>
+        <id>https://www.ghacks.net/?p=179949</id>
+        <link href="https://www.ghacks.net/2022/07/27/firefox-translations-support-for-french-polish-and-ukrainian-languages-added/"/>
+        <updated>2022-07-27T05:40:53.000Z</updated>
+        <summary type="html"><![CDATA[Mozilla released an update for Firefox Translations that is adding support for French, Polish and Ukrainian translations to the browser add-on for Firefox. Firefox Translations is Mozilla's answers to Google Translate, Microsoft […]
+Thank you for being a Ghacks reader. The post Firefox Translations: support for French, Polish and Ukrainian languages added appeared first on gHacks Technology News.]]></summary>
+        <author>
+            <name>Martin Brinkmann</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Googles Quartalszahlen: 69,7 Mrd. Dollar Umsatz]]></title>
         <id>https://stadt-bremerhaven.de/?p=1121507</id>
