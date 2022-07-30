@@ -2,10 +2,515 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://olivedrop.github.io/drop/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-07-29T02:21:55.341Z</updated>
+    <updated>2022-07-30T02:09:48.094Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://olivedrop.github.io/drop/index.html"/>
     <link rel="self" href="https://olivedrop.github.io/drop/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Amazon is retiring Amazon Drive in 2023]]></title>
+        <id>https://www.ghacks.net/?p=180014</id>
+        <link href="https://www.ghacks.net/2022/07/29/amazon-is-retiring-amazon-drive-in-2023/"/>
+        <updated>2022-07-29T19:27:57.000Z</updated>
+        <summary type="html"><![CDATA[Amazon is sending out emails to customers that use Amazon Drive currently to inform them that it plans to retire the cloud storage service in 2023. Customers need to download files from […]
+Thank you for being a Ghacks reader. The post Amazon is retiring Amazon Drive in 2023 appeared first on gHacks Technology News.]]></summary>
+        <author>
+            <name>Martin Brinkmann</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Steam Deck: Nachfrage kann schneller bedient werden]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1122116</id>
+        <link href="https://stadt-bremerhaven.de/steam-deck-nachfrage-kann-schneller-bedient-werden/"/>
+        <updated>2022-07-29T17:49:57.000Z</updated>
+        <summary type="html"><![CDATA[Gute Nachrichten für Steam-Deck-Besteller. Man werde die Nachfrage nach Steam Decks schneller als erwartet befriedigen können. Viele Lieferkettenausfälle, von denen das Steam Deck betroffen ist, klären sich nach und nach auf und man weite Schritt für Schritt die Produktion aus....
+Zum Beitrag: Steam Deck: Nachfrage kann schneller bedient werden
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Next Week on Xbox: Das sind die Games der Woche vom 1. bis 5. August 2022]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1122100</id>
+        <link href="https://stadt-bremerhaven.de/next-week-on-xbox-das-sind-die-games-der-woche-vom-1-bis-5-august-2022/"/>
+        <updated>2022-07-29T17:00:32.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft hat mal wieder in einem Blog-Post zusammengefasst, welche Spiele euch für die Xbox-Konsolen in der nächsten Woche vom 1. bis zum 5. August 2022 als Neuerscheinungen im Microsoft Store erwarten. Wer auf große Blockbuster hofft, muss sich aber noch...
+Zum Beitrag: Next Week on Xbox: Das sind die Games der Woche vom 1. bis 5. August 2022
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Annapurna Interactive: Drei PlayStation-Indie-Spiele finden ihren Weg auf Xbox]]></title>
+        <id>https://www.computerbase.de/2022-07/annapurna-interactive-drei-playstation-indie-spiele-finden-ihren-weg-auf-xbox/</id>
+        <link href="https://www.computerbase.de/2022-07/annapurna-interactive-drei-playstation-indie-spiele-finden-ihren-weg-auf-xbox/"/>
+        <updated>2022-07-29T16:33:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/4/3/5-130c65673b6d77f8/article-640x360.5d40a567.jpg"><p>Vor eineinhalb Monaten regnete es mehr oder minder Ankündigungen aus der Gaming-Welt: Im Rahmen des Summer Game Fest warfen vom 9. bis zum 14. Juni 2022 zahlreiche größere wie kleinere Publisher mit Vorstellungen, Trailern und Teasern zu Videospielen nur so um sich. Nicht dabei war allerdings Annapurna Interactive.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[„Tomb Raider“: MGM gibt die Rechte an der Marke auf]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1122094</id>
+        <link href="https://stadt-bremerhaven.de/tomb-raider-mgm-gibt-die-rechte-an-der-marke-auf/"/>
+        <updated>2022-07-29T16:30:30.000Z</updated>
+        <summary type="html"><![CDATA[Der Film kam und ging im Jahr 2018, ohne erheblichen Eindruck zu hinterlassen: „Tomb Raider“ spielte mit einem Budget von 94 Mio. US-Dollar rund 275 Mio. US-Dollar ein. Das ist kein Hit, aber auch kein Flop. Die Kritiken waren „ganz...
+Zum Beitrag: „Tomb Raider“: MGM gibt die Rechte an der Marke auf
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux-Gaming: Nobara Project baut Fedora für Streamer und Spieler um]]></title>
+        <id>https://www.computerbase.de/2022-07/nobara-project-fedora-linux-gaming/</id>
+        <link href="https://www.computerbase.de/2022-07/nobara-project-fedora-linux-gaming/"/>
+        <updated>2022-07-29T16:04:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/4/3/4-59efb83450d7494a/article-640x360.93214ccf.jpg"><p>Das „Nobara Project“ baut die populäre auf RPM basierende Linux-Distribution Fedora mit Wine, essentiellen Grafiktreibern, notwendigen Codecs und zusätzlicher Software insbesondere für Streamer und Spieler um. Das junge Projekt erweitert die als Workstation-Betriebssystem ausgelegte Distribution sinnvoll und mit viel Weitsicht.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple TV+: Baseball-Spiele der Major League live schauen]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1122076</id>
+        <link href="https://stadt-bremerhaven.de/apple-tv-baseball-spiele-der-major-league-live-schauen/"/>
+        <updated>2022-07-29T16:00:59.000Z</updated>
+        <summary type="html"><![CDATA[Solltet ihr in der Nacht noch nichts vorhaben und ein aktives Apple-Abo bezüglich Apple TV+ haben und zugleich auch noch Interesse an Baseball haben, dann gibt’s an diesem Wochenende was für euch. Apple zeigt Spiele der US-amerikanischen Major League im...
+Zum Beitrag: Apple TV+: Baseball-Spiele der Major League live schauen
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VMware Fusion 22H2 Tech Preview veröffentlicht]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1122068</id>
+        <link href="https://stadt-bremerhaven.de/vmware-fusion-22h2-tech-preview-veroeffentlicht/"/>
+        <updated>2022-07-29T15:30:51.000Z</updated>
+        <summary type="html"><![CDATA[VMware Fusion läuft bei vielen Anwendern unter dem Radar. Die Software erlaubt das Erstellen virtueller Maschinen auf dem Mac. Besonders interessant ist VMware Fusion dadurch, dass die Software als Version „VMware Fusion Player“ für den Privatanwender kostenlos ist. Auf dem...
+Zum Beitrag: VMware Fusion 22H2 Tech Preview veröffentlicht
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google verbietet bestimmte Werbearten in Apps]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1122048</id>
+        <link href="https://stadt-bremerhaven.de/google-verbietet-bestimmte-werbearten-in-apps/"/>
+        <updated>2022-07-29T15:00:42.000Z</updated>
+        <summary type="html"><![CDATA[Google hat neue Infos an Entwickler geschickt, wie diese künftig im Play Store mit ihren Apps bezüglich Werbung ums Eck kommen müssen. Das Ergebnis von Googles Ansagen betrifft natürlich auch den Nutzer. Eine Übersicht der Änderungen hat Google hier hinterlegt,...
+Zum Beitrag: Google verbietet bestimmte Werbearten in Apps
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sony: Die Produktion der PlayStation 5 lahmt weiterhin]]></title>
+        <id>https://www.computerbase.de/2022-07/sony-die-produktion-der-playstation-5-lahmt-weiterhin/</id>
+        <link href="https://www.computerbase.de/2022-07/sony-die-produktion-der-playstation-5-lahmt-weiterhin/"/>
+        <updated>2022-07-29T14:32:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/4/3/3-e365f6275fecf2bf/article-640x360.c72ce526.jpg"><p>Seit dem Start der PlayStation 5 (Test) im November 2020 hat Sony bis heute 21,7 Millionen Einheiten der Spielkonsole verkauft – und die Nachfrage ist dabei nach wie vor nicht der limitierende Faktor, ist die PlayStation 5 doch noch immer nur unbeständig verfügbar. Die Produktion lahmt weiter vor sich hin.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LG Display und Samsung Electronics stampfen Pläne für ein OLED-Abkommen ein]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1122019</id>
+        <link href="https://stadt-bremerhaven.de/lg-display-und-samsung-electronics-stampfen-plaene-fuer-ein-oled-abkommen-ein/"/>
+        <updated>2022-07-29T14:30:25.000Z</updated>
+        <summary type="html"><![CDATA[In den vergangenen Monaten flammten immer wieder Meldungen auf, laut denen LG Display und Samsung Electronics über einen OLED-Deal verhandelt haben sollen. Ziel des Abkommens soll es gewesen sein, dass LG Display WOLED-Panels an Samsung Electronics liefert. Nach einigen Rückschlägen...
+Zum Beitrag: LG Display und Samsung Electronics stampfen Pläne für ein OLED-Abkommen ein
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intel Q2 2022: Miese Quartalszahlen besiegeln das Aus von Optane]]></title>
+        <id>https://www.computerbase.de/2022-07/intel-q2-2022-miese-quartalszahlen-besiegeln-das-aus-von-optane/</id>
+        <link href="https://www.computerbase.de/2022-07/intel-q2-2022-miese-quartalszahlen-besiegeln-das-aus-von-optane/"/>
+        <updated>2022-07-29T14:07:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/4/3/0-2f7f7a06b73ec722/article-640x360.d29f76f6.jpg"><p>Intels jüngste Quartalszahlen enttäuschen: Erstmals seit Jahren muss der Halbleitergigant wieder einen Verlust ausweisen und der Umsatz ging im Jahresvergleich um ganze 22 Prozent zurück. Als Teil der Strategie zu besseren Finanzergebnissen wird jetzt das bisher verlustreiche Optane-Geschäft komplett eingestampft.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Netflix zeigt Trailer zu „Blonde“ mit Ana De Armas]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1121967</id>
+        <link href="https://stadt-bremerhaven.de/netflix-zeigt-trailer-zu-blonde-mit-ana-de-armas/"/>
+        <updated>2022-07-29T14:00:34.000Z</updated>
+        <summary type="html"><![CDATA[Am 28. September startet bei Netflix das neeue Drama „Blonde“, welches sich um Marilyn Monroe dreht. Die Hauptrolle verkörpert Ana de Armas, welche viele Leser sicherlich aus „Knives Out“ oder auch „Blade Runner 2049“ kennen. In den USA hat der...
+Zum Beitrag: Netflix zeigt Trailer zu „Blonde“ mit Ana De Armas
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Drive wird eingestellt]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1122087</id>
+        <link href="https://stadt-bremerhaven.de/amazon-drive-wird-eingestellt/"/>
+        <updated>2022-07-29T13:43:54.000Z</updated>
+        <summary type="html"><![CDATA[Amazon bietet auch Cloudspeicher an. Nicht nur den reinen für Fotos, da können Prime-Mitglieder bekanntlich unendliche Summen an Fotos lagern. Es gibt auch klassischen Speicher, ähnlich dem Google Drive. Damit ist bald Feierabend. Am 31. Dezember 2023 wird der Support...
+Zum Beitrag: Amazon Drive wird eingestellt
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Honor wird auf der IFA 2022 zahlreiche neue Produkte vorstellen]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1121973</id>
+        <link href="https://stadt-bremerhaven.de/honor-wird-auf-der-ifa-2022-zahlreiche-neue-produkte-vorstellen/"/>
+        <updated>2022-07-29T13:30:10.000Z</updated>
+        <summary type="html"><![CDATA[Honor wird in diesem Jahr auf der IFA 2022 Präsenz zeigen. Partner und Medienvertreter informiert der chinesische Hersteller dabei aktuell darüber, dass Honor in diesem Zuge in Berlin zahlreiche neue Produkte präsentieren möchte. Auch einen Livestream soll es dazu am...
+Zum Beitrag: Honor wird auf der IFA 2022 zahlreiche neue Produkte vorstellen
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Edge's Enhanced Security Mode explained]]></title>
+        <id>https://www.ghacks.net/?p=180008</id>
+        <link href="https://www.ghacks.net/2022/07/29/microsoft-edges-enhanced-security-mode-explained/"/>
+        <updated>2022-07-29T13:19:54.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft Edge's Enhanced Security Mode is an optional security feature of Microsoft's web browser that is designed to improve protection against attacks on the Internet. Called Super Super Secure Mode during its […]
+Thank you for being a Ghacks reader. The post Microsoft Edge's Enhanced Security Mode explained appeared first on gHacks Technology News.]]></summary>
+        <author>
+            <name>Martin Brinkmann</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Synology gibt Samba-Warnmeldung raus]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1121987</id>
+        <link href="https://stadt-bremerhaven.de/synology-gibt-samba-warnmeldung-raus/"/>
+        <updated>2022-07-29T13:00:50.000Z</updated>
+        <summary type="html"><![CDATA[Da steht vermutlich bald ein Update an – nicht nur bei Synology, sondern auch bei unzähligen anderen Herstellern, die betroffene Versionen einsetzen. Es sind ein paar Sicherheitslücken im Modul Samba gefunden worden. Das Samba-Team hat bereits Sicherheitsupdates veröffentlicht, um Sicherheitslücken...
+Zum Beitrag: Synology gibt Samba-Warnmeldung raus
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[YouTube vereinfacht die Erstellung von Shorts]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1121962</id>
+        <link href="https://stadt-bremerhaven.de/youtube-vereinfacht-die-erstellung-von-shorts/"/>
+        <updated>2022-07-29T12:30:28.000Z</updated>
+        <summary type="html"><![CDATA[YouTube erleichtert des Videomachern aus längeren Videos Shorts, also Kurzvideos im Stil von TikTok, zu ziehen. Nun steht nämlich in der regulären YouTube-App ein Tool zur Verfügung, dass es erlaubt, Shorts zu erstellen. Damit ergibt sich YouTube neben Instagram und...
+Zum Beitrag: YouTube vereinfacht die Erstellung von Shorts
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[„Rocky“: Franchise erhält mit „Drago“ ein weiteres Spin-off]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1121944</id>
+        <link href="https://stadt-bremerhaven.de/rocky-franchise-erhaelt-mit-drago-ein-weiteres-spin-off/"/>
+        <updated>2022-07-29T12:00:35.000Z</updated>
+        <summary type="html"><![CDATA[Das Franchise „Rocky“ wurde schon in den letzten Jahren durch zwei Spin-off-Filme rund um den Sohn von Apollo Creed, „Creed“ und „Creed II“, erweitert. Jetzt soll es mal um eine andere Figur gehen: Auch „Drago“ soll laut Variety einen eigenen...
+Zum Beitrag: „Rocky“: Franchise erhält mit „Drago“ ein weiteres Spin-off
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Colorful B660I Gaming (Frozen): Mini-ITX-Hauptplatine für Intel Core-i-12000 in zwei Farben]]></title>
+        <id>https://www.computerbase.de/2022-07/colorful-b660i-gaming-v20-intel-mainboard/</id>
+        <link href="https://www.computerbase.de/2022-07/colorful-b660i-gaming-v20-intel-mainboard/"/>
+        <updated>2022-07-29T11:34:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/4/2/7-33a20ec55035a1c2/article-640x360.a932e079.jpg"><p>Colorful hat mit dem B660I Gaming V20 und dem B660I Gaming Frozen V20 zwei weitere Mini-ITX-Hauptplatinen für die hybride Core-i-12000-Serie (Test) alias Intel Alder Lake vorgestellt. Die beiden mit 170 × 170 mm besonders kompakten Mainboards für den Sockel LGA1700 unterscheiden sich aber nicht nur hinsichtlich der Farbgebung.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vodafone: TV-Frequenz-Umbelegung im Sommer]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1122032</id>
+        <link href="https://stadt-bremerhaven.de/vodafone-tv-frequenz-umbelegung-im-sommer/"/>
+        <updated>2022-07-29T11:30:55.000Z</updated>
+        <summary type="html"><![CDATA[Ab Sommer 2022 verlegt Vodafone nach und nach einige TV-Sender im Kabelnetz auf andere Frequenzen. Im besten Fall bekommen Kunden nichts davon mit, da man nachts umstellt. Die Vodafone TV-Box (Receiver) macht nach der Umstellung automatisch einen Sendersuchlauf. Danach sehen...
+Zum Beitrag: Vodafone: TV-Frequenz-Umbelegung im Sommer
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[E-Mail: Thunderbird 102.1.0 veröffentlicht]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1122025</id>
+        <link href="https://stadt-bremerhaven.de/e-mail-thunderbird-102-1-0-veroeffentlicht/"/>
+        <updated>2022-07-29T11:15:19.000Z</updated>
+        <summary type="html"><![CDATA[Das Thunderbird-Projektteam hat die Version 102.1.0 des kostenlosen E-Mail-Programmes veröffentlicht. Thunderbird 102.1.0 hat ein paar Fehlerbehebungen spendiert bekommen, des Weiteren hat man 5 Sicherheitslücken geschlossen, davon eine, die den Status „Hoch“ hat. Einige dieser Fehler zeigten Anzeichen von Speicherkorruption und...
+Zum Beitrag: E-Mail: Thunderbird 102.1.0 veröffentlicht
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows 11 Insider Preview Build 25169 released to the Dev Channel]]></title>
+        <id>https://www.ghacks.net/?p=180001</id>
+        <link href="https://www.ghacks.net/2022/07/29/whats-new-in-windows-11-insider-preview-build-25169/"/>
+        <updated>2022-07-29T11:06:58.000Z</updated>
+        <summary type="html"><![CDATA[Windows 11 Insider Preview Build 25169 has been released to the Dev Channel. It adds a new way to use Windows Spotlight, a Multi-App Kiosk Mode, and fixes many bugs. What's new […]
+Thank you for being a Ghacks reader. The post Windows 11 Insider Preview Build 25169 released to the Dev Channel appeared first on gHacks Technology News.]]></summary>
+        <author>
+            <name>Ashwin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WhatsApp Beta für Android 2.22.17.10 bereitet offiziellen Chat vor]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1122013</id>
+        <link href="https://stadt-bremerhaven.de/whatsapp-beta-fuer-android-2-22-17-10-bereitet-offiziellen-chat-vor/"/>
+        <updated>2022-07-29T11:00:04.000Z</updated>
+        <summary type="html"><![CDATA[WhatsApp hat die neue Betaversion 2.22.17.10 für Android veröffentlicht. Vordergründig gibt es da zwar nichts Neues zu berichten, hinter den Kulissen bereitet man jedoch einen offiziellen Chat der Plattform vor. In diesem Chat soll es dann Ankündigungen zu neuen App-Features...
+Zum Beitrag: WhatsApp Beta für Android 2.22.17.10 bereitet offiziellen Chat vor
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Smartphone-Markt: Samsung und Apple trotzen dem Rückgang um 9 Prozent]]></title>
+        <id>https://www.computerbase.de/2022-07/smartphone-markt-samsung-und-apple-trotzen-dem-rueckgang-um-9-prozent/</id>
+        <link href="https://www.computerbase.de/2022-07/smartphone-markt-samsung-und-apple-trotzen-dem-rueckgang-um-9-prozent/"/>
+        <updated>2022-07-29T10:33:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/4/2/8-d4a3cee03d94f3a1/article-640x360.d3ca439a.jpg"><p>Die Marktanalysten von IDC bestätigen eine rückläufige Nachfrage nach Smartphones. Im Vergleich zum zweiten Quartal 2021 ist der Markt letztes Quartal um 9 Prozent eingebrochen. Das Feld führt wie die Jahre zuvor Samsung an, es folgen Apple und Xiaomi. Vivo und Oppo, die beide zu BBK Electronics gehören, landen auf Platz vier.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GOG.com mit großem „Find Your Indie“-Sale]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1122003</id>
+        <link href="https://stadt-bremerhaven.de/gog-com-mit-grossem-find-your-indie-sale/"/>
+        <updated>2022-07-29T10:30:55.000Z</updated>
+        <summary type="html"><![CDATA[Bei GOG.com, bekanntermaßen zugehörig zu CD Projekt, läuft aktuell im Web ein großer „Find Your Indie“-Sale. Dabei sind zahlreiche PC-Spiele zu reduzierten Preisen zu haben. Der Vorteil des Kaufs bei GOG.com: Der Anbieter verzichtet im Gegensatz zu anderen Plattformen wie...
+Zum Beitrag: GOG.com mit großem „Find Your Indie“-Sale
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GeForce Now: Command & Conquer steht ab sofort im Stream bereit]]></title>
+        <id>https://www.computerbase.de/2022-07/nvidia-geforce-now-command-and-conquer/</id>
+        <link href="https://www.computerbase.de/2022-07/nvidia-geforce-now-command-and-conquer/"/>
+        <updated>2022-07-29T10:14:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/4/2/6-a1b03a89a10fb141/article-640x360.75132628.jpg"><p>Wie Nvidia bekanntgegeben hat, ist die Command & Conquer Remastered Collection ab sofort in GeForce Now verfügbar. Neben der bereits im Juni 2020 erschienenen Sammlung überarbeiteter Strategie-Klassiker erhält die App des Streaming-Dienstes weitere Verbesserungen und insgesamt neun Neuzugänge in der Spiele-Bibliothek.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sony PlayStation im ersten Fiskalquartal 2022: Probleme mit den Games-Verkaufszahlen]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1121989</id>
+        <link href="https://stadt-bremerhaven.de/sony-playstation-im-ersten-fiskalquartal-2022-probleme-mit-den-games-verkaufszahlen/"/>
+        <updated>2022-07-29T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Sonys PlayStation-Sparte hat die Ergebnisse seines ersten Fiskalquartals 2022 verkündet. Dabei gibt es sowohl Erfolge als auch Enttäuschungen zu vermelden, wenn man mit dem Vorjahreszeitraum vergleicht. Beispielsweise konnte man 2,4 Mio. PlayStation 5 absetzen. Das entspricht einem Plus von 4...
+Zum Beitrag: Sony PlayStation im ersten Fiskalquartal 2022: Probleme mit den Games-Verkaufszahlen
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FRITZ!OS-Labor: FRITZ!Box 7590 AX, 7590 und 7530 mit Update]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1122006</id>
+        <link href="https://stadt-bremerhaven.de/fritzos-labor-fritzbox-7590-ax-7590-und-7530-mit-update-2/"/>
+        <updated>2022-07-29T09:45:00.000Z</updated>
+        <summary type="html"><![CDATA[AVM hat neue Software für die FRITZ!Box veröffentlicht. Ein aktualisiertes FRITZ!OS im Labor gibt’s gleich für drei Modelle, nämlich die FRITZ!Box 7530, 7590 und die 7590 AX. Nutzer, die bereits die Laborversion einsetzen, können das Update über ihre Box einspielen,...
+Zum Beitrag: FRITZ!OS-Labor: FRITZ!Box 7590 AX, 7590 und 7530 mit Update
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iOS 16 und iMessage: Apple nimmt Änderungen vor]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1121815</id>
+        <link href="https://stadt-bremerhaven.de/ios-16-und-imessage-apple-nimmt-aenderungen-vor/"/>
+        <updated>2022-07-29T09:30:06.000Z</updated>
+        <summary type="html"><![CDATA[Apple hatte mit der Ankündigung von iOS 16 verlauten lassen, dass man einige Neuerungen an iMessage vornehmen wird. So könnt ihr Nachrichten beispielsweise zurückrufen oder aber auch ändern. Mit der Developer Beta 4 von iOS hat Apple hier aber noch...
+Zum Beitrag: iOS 16 und iMessage: Apple nimmt Änderungen vor
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quartalszahlen: Apple steigert Umsatz trotz Engpässen bei Mac und iPad]]></title>
+        <id>https://www.computerbase.de/2022-07/quartalszahlen-apple-steigert-umsatz-trotz-engpaessen-bei-mac-und-ipad/</id>
+        <link href="https://www.computerbase.de/2022-07/quartalszahlen-apple-steigert-umsatz-trotz-engpaessen-bei-mac-und-ipad/"/>
+        <updated>2022-07-29T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/4/2/5-36139cc0704014ef/article-640x360.803f3541.jpg"><p>Apple hat das dritte Geschäftsquartal 2022 mit einem neuen Rekordumsatz von knapp 83 Milliarden US-Dollar abgeschlossen. Das Unternehmen hatte mit stärkeren Engpässen in den Lieferketten gerechnet, betroffen sind davon vor allem der Mac, das iPad und Wearables. Apples Nettogewinn ging im dritten Quartal um 10 Prozent zurück.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Teams: Native Version für Apple M1 und M2 soll auch Strom sparen]]></title>
+        <id>https://www.computerbase.de/2022-07/microsoft-teams-apple-m1-m2-macos/</id>
+        <link href="https://www.computerbase.de/2022-07/microsoft-teams-apple-m1-m2-macos/"/>
+        <updated>2022-07-29T08:38:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/4/2/4-dacbac99a0943d7f/article-640x360.6a28cd59.jpg"><p>Microsoft Teams für die M1-Familie und den neuen M2-Prozessor von Apple soll dank nativer Unterstützung effizienter laufen und dadurch Strom sparen und die Akkulaufzeit verbessern. Nachdem Microsoft bereits eine erste Beta der Kommunikationsplattform veröffentlicht hatte, ist jetzt die Preview v1.5 für Apple Silicon erschienen.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AMD RDNA 3: Navi 31 könnte mit 3 Modellen ab Oktober starten]]></title>
+        <id>https://www.computerbase.de/2022-07/amd-rdna-3-navi-31-koennte-mit-3-modellen-ab-oktober-starten/</id>
+        <link href="https://www.computerbase.de/2022-07/amd-rdna-3-navi-31-koennte-mit-3-modellen-ab-oktober-starten/"/>
+        <updated>2022-07-29T08:27:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/4/2/2-0c93d6c7ff81d084/article-640x360.dcee116c.jpg"><p>In den letzten Wochen hat es zahlreiche Gerüchte über Nvidias kommende Grafikkarten der Ada-Generation gegeben, die sich teils wöchentlich immer wieder mal geändert haben, mittlerweile aber auch erstmals Taktraten enthalten. Im Hinblick auf AMDs kommende RDNA-3-Produkte war es dagegen erstaunlich ruhig, was sich nun aber ändert.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ventoy 1.0.79: Multi-Boot-Tool unterstützt jetzt mehr als 940 ISO-Dateien]]></title>
+        <id>https://www.computerbase.de/2022-07/ventoy-1-0-79-fedora-coreos/</id>
+        <link href="https://www.computerbase.de/2022-07/ventoy-1-0-79-fedora-coreos/"/>
+        <updated>2022-07-29T07:56:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/4/2/0-e0b5287f7763591d/article-640x360.7011bdd4.jpg"><p>Das mächtige Multi-Boot-Tool Ventoy 1.0.79, welches unter anderem auch Installationsmedien für Windows 11 ohne TPM- und Kontopflicht erstellen kann, unterstützt jetzt auch das von Red Hat finanzierte Fedora CoreOS und damit insgesamt mehr als 940 Systemabbilder. Hinzu kommen Korrekturen unter anderem für openSUSE.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Update auf „22H2“: Microsoft veröffentlicht jetzt das „neueste“ Windows 10]]></title>
+        <id>https://www.computerbase.de/2022-07/windows-10-22h2-release/</id>
+        <link href="https://www.computerbase.de/2022-07/windows-10-22h2-release/"/>
+        <updated>2022-07-29T06:43:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/4/1/9-c7762f7e1a353d93/article-640x360.1c5652a6.jpg"><p>Microsoft hat die planmäßige und bislang jährliche erfolgende Produktpflege für sein Auslaufmodell Windows 10 auf Version 19045 alias „22H2“ als Juli 2022 Update veröffentlicht. Schon zuvor hatte sich das „neue“ Windows 10 22H2 über die Pakete in einem kumulativen Update zu erkennen gegeben. Echte Neuerungen gibt es nicht.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Showgehäuse EVGA E1: Analoge Anzeigen und Carbon fallen auf]]></title>
+        <id>https://www.computerbase.de/2022-07/showgehaeuse-evga-e1-analoge-anzeigen-und-carbon-fallen-auf/</id>
+        <link href="https://www.computerbase.de/2022-07/showgehaeuse-evga-e1-analoge-anzeigen-und-carbon-fallen-auf/"/>
+        <updated>2022-07-29T06:07:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/4/1/8-0089f700e32d1a3c/article-640x360.144d636a.jpg"><p>Wenn das Computergehäuse richtig auffallen soll, gibt es ab sofort eine veritable Alternative zu den extravaganten Kleinserien-Kreationen von In Win. Das E1 von EVGA ist dazu in vielerlei Hinsicht extrem ausgelegt: Beim Design mit Analoginstrumenten, beim Gewicht, Material und nicht zuletzt beim Preis.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows 10 version 22H2 reaches final stage before official release]]></title>
+        <id>https://www.ghacks.net/?p=179996</id>
+        <link href="https://www.ghacks.net/2022/07/29/windows-10-version-22h2-reaches-final-stage-before-official-release/"/>
+        <updated>2022-07-29T06:02:55.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft plans to release a feature update for Windows 10 in the second half of 2022. Windows 10 version 22H2 will be the first feature update for Windows 10 of the year, […]
+Thank you for being a Ghacks reader. The post Windows 10 version 22H2 reaches final stage before official release appeared first on gHacks Technology News.]]></summary>
+        <author>
+            <name>Martin Brinkmann</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Winamp 5.9 RC1 has been released]]></title>
+        <id>https://www.ghacks.net/?p=179988</id>
+        <link href="https://www.ghacks.net/2022/07/29/winamp-5-9-rc1-has-been-released/"/>
+        <updated>2022-07-29T04:11:38.000Z</updated>
+        <summary type="html"><![CDATA[Last year, we reported that Winamp would be making a comeback soon. And it's here, Winamp 5.9 RC1 has been released. This is the first update for the popular music player since […]
+Thank you for being a Ghacks reader. The post Winamp 5.9 RC1 has been released appeared first on gHacks Technology News.]]></summary>
+        <author>
+            <name>Ashwin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Apple Quartalszahlen Q3: 83 Mrd. US-Dollar Umsatz]]></title>
         <id>https://stadt-bremerhaven.de/?p=1121930</id>
@@ -5752,16 +6257,6 @@ Thank you for being a Ghacks reader. The post Apple's Lockdown Mode for iOS 16, 
         <link href="https://www.computerbase.de/2022-07/gnome-43-web-extensions-linux/"/>
         <updated>2022-07-04T08:22:00.000Z</updated>
         <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/0/8/8-177a95a2e2557c52/article-640x360.c1914556.jpg"><p>Neben einer optionalen Ausrichtung auf mobile Endgeräte, die sich nicht zuletzt im Gnome-Dateimanager Nautilus widerspiegelt, und noch mehr Konsistenz im GUI-Design erhält Gnome 43 respektive dessen Browser Gnome Web – ehemals Epiphany – erstmals auch Erweiterungen in Form der sogenannten Web Extensions.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Subventionen im US Chips Act: Industrie setzt US-Kongress die Pistole auf die Brust (2. Update)]]></title>
-        <id>https://www.computerbase.de/2022-06/subventionen-im-us-chips-act-industrie-setzt-us-kongress-die-pistole-auf-die-brust/</id>
-        <link href="https://www.computerbase.de/2022-06/subventionen-im-us-chips-act-industrie-setzt-us-kongress-die-pistole-auf-die-brust/"/>
-        <updated>2022-06-30T09:22:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/0/5/4-e3a7930fe77e6a33/article-640x360.af6d127c.jpg"><p>Gleiche mehrere „Drohungen“ in wenigen Tagen setzen Politiker in den USA unter Druck, den US Chips Act endlich durchzubringen. Denn nach großen Ankündigungen im Winter und Frühjahr ist ziemlicher Stillstand eingekehrt, da man sich in den beiden höchsten Gremien um die letzten Formalitäten streitet – primär um das Geld.</p>]]></summary>
         <author>
             <name>ComputerBase</name>
         </author>
