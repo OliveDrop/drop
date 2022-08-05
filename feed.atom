@@ -2,10 +2,504 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://olivedrop.github.io/drop/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-04T02:03:49.966Z</updated>
+    <updated>2022-08-05T02:05:30.328Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://olivedrop.github.io/drop/index.html"/>
     <link rel="self" href="https://olivedrop.github.io/drop/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[127 % Aufpreis: Tencent will größter Aktionär von Ubisoft werden]]></title>
+        <id>https://www.computerbase.de/2022-08/127-prozent-aufpreis-tencent-will-groesster-aktionaer-von-ubisoft-werden/</id>
+        <link href="https://www.computerbase.de/2022-08/127-prozent-aufpreis-tencent-will-groesster-aktionaer-von-ubisoft-werden/"/>
+        <updated>2022-08-04T19:12:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/5/0/3-48c389ac7d44c888/article-640x360.47b97ad7.jpg"><p>Einem Bericht von Reuters zufolge versucht Tencent seine Anteile am Spielepublisher Ubisoft deutlich aufzustocken. Im Jahr 2018 hatte Tencent bereits 5 Prozent der Ubisoft-Aktien erworben, nun möchte das chinesische Unternehmen größter Einzelaktionär von Ubisoft werden und sei bereit, dafür einen hohen Aufschlag zu zahlen.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Leak zum iPad (10. Gen.): Kantig, größeres Display und Touch-ID-Home-Button]]></title>
+        <id>https://www.computerbase.de/2022-08/leak-zum-ipad-10-gen-kantig-groesseres-display-und-touch-id-home-button/</id>
+        <link href="https://www.computerbase.de/2022-08/leak-zum-ipad-10-gen-kantig-groesseres-display-und-touch-id-home-button/"/>
+        <updated>2022-08-04T18:47:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/5/0/2-6b5d3577191b2862/article-640x360.e599b5d5.jpg"><p>Im Oktober wird mit einem neuen iPad (10. Generation) und iPad Pro gerechnet, die trotz Verzögerung dann mit dem neuen iPadOS 16 ausgeliefert werden sollen. Zum neuen iPad der 10. Generation sind nun weitere Details anhand von durchgesickerten CAD-Renderings bekannt geworden.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Silicon Motion: SSD-Controller-Quintett mit PCIe 4.0 für Notebooks]]></title>
+        <id>https://www.computerbase.de/2022-08/silicon-motion-ssd-controller-quintett-mit-pcie-4-0-fuer-notebooks/</id>
+        <link href="https://www.computerbase.de/2022-08/silicon-motion-ssd-controller-quintett-mit-pcie-4-0-fuer-notebooks/"/>
+        <updated>2022-08-04T18:35:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/5/0/1-98656ac08fb8cfd7/article-640x360.95117375.jpg"><p>Im Vergleich zum Erzrivalen Phison ist Silicon Motion (SMI) spät auf den Zug der SSD-Controller mit PCIe 4.0 aufgesprungen. Inzwischen ist das Aufgebot aber breit gefächert, wie der Hersteller auf dem Flash Memory Summit 2022 demonstriert. Neben neuen Eckdaten für bekannte Chips gibt es zwei neue Modelle ohne DRAM.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Xbox Game Pass: Familien-Abo wird getestet]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1122898</id>
+        <link href="https://stadt-bremerhaven.de/xbox-game-pass-familien-abo-wird-getestet/"/>
+        <updated>2022-08-04T18:29:48.000Z</updated>
+        <summary type="html"><![CDATA[Es ist zwar erst einmal nur ein Test in Kolumbien und Irland, aber dennoch werden viele Spieler sagen: „Na endlich!“ Ab heute können Xbox Insider dort ein Abo testen, das es mehreren Personen ermöglicht, die Vorteile von Game Pass Ultimate...
+Zum Beitrag: Xbox Game Pass: Familien-Abo wird getestet
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zusätzliches Update für Google Pixel 6, Pixel 6 Pro und Pixel 6a]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1122896</id>
+        <link href="https://stadt-bremerhaven.de/zusaetzliches-update-fuer-google-pixel-6-pixel-6-pro-und-pixel-6a/"/>
+        <updated>2022-08-04T18:17:38.000Z</updated>
+        <summary type="html"><![CDATA[Google muss noch einmal bezüglich der Updates nachlegen. So bekommen Google Pixel 6, Pixel 6 Pro und Pixel 6a ein weiteres Update abseits des August-Patches. Warum? Es handelt sich um die flotte Behebung des Fehlers bei der GPS-Ortung unter bestimmten...
+Zum Beitrag: Zusätzliches Update für Google Pixel 6, Pixel 6 Pro und Pixel 6a
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google-Suche: Suche mit Anführungszeichen wird verbessert]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1122890</id>
+        <link href="https://stadt-bremerhaven.de/google-suche-suche-mit-anfuehrungszeichen-wird-verbessert/"/>
+        <updated>2022-08-04T18:09:59.000Z</updated>
+        <summary type="html"><![CDATA[Google bohrt die Suche auf – zumindest in einem Teil. Will man nach einem genauen Ausdruck suchen, dann setzt man ihn in Anführungszeichen – zum Beispiel “BVB Trikot“. Die kleinen Snippets, (d. h. der Text, der den Webinhalt beschreibt), unter...
+Zum Beitrag: Google-Suche: Suche mit Anführungszeichen wird verbessert
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ghacks Deals: YeetDL Premium Multi-Device Plan: Lifetime Subscription]]></title>
+        <id>https://www.ghacks.net/?p=180099</id>
+        <link href="https://www.ghacks.net/2022/08/04/ghacks-deals-yeetdl-premium-multi-device-plan-lifetime-subscription-2/"/>
+        <updated>2022-08-04T18:03:49.000Z</updated>
+        <summary type="html"><![CDATA[YeetDL Premium is a download application for Windows that supports YouTube, Facebook, Instagram, Twitter and Vimeo. Unlike many other apps of its kind, it supports single and bulk downloads, including entire playlist […]
+Thank you for being a Ghacks reader. The post Ghacks Deals: YeetDL Premium Multi-Device Plan: Lifetime Subscription appeared first on gHacks Technology News.]]></summary>
+        <author>
+            <name>Martin Brinkmann</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple Studio Display bekommt Firmware-Update (15.5 Build 19F80)]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1122888</id>
+        <link href="https://stadt-bremerhaven.de/apple-studio-display-bekommt-firmware-update-15-5-build-19f80/"/>
+        <updated>2022-08-04T17:35:20.000Z</updated>
+        <summary type="html"><![CDATA[Neulich wurden Berichte laut, dass das Apple Studio Display (hier unser Test) Soundprobleme bei manchen Nutzern zeigt. Diese ließen sich durch einen Neustart des Monitors beheben. Nun verteilt Apple die Version 15.5 Build 19F80 der Software für das Display. Das...
+Zum Beitrag: Apple Studio Display bekommt Firmware-Update (15.5 Build 19F80)
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Location Spotlight für „Twitter Professional Accounts“ jetzt weltweit verfügbar]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1122884</id>
+        <link href="https://stadt-bremerhaven.de/location-spotlight-fuer-twitter-professional-accounts-jetzt-weltweit-verfuegbar/"/>
+        <updated>2022-08-04T17:02:41.000Z</updated>
+        <summary type="html"><![CDATA[Für alle Professionals – also von Entwicklern und Content-Erstellern über Non-Profit-Organisationen bis zu Kleinunternehmen und großen Marken -, die Twitter für ihr Geschäft einsetzen, stellt Twitter ab sofort weltweit das neue Feature Location Spotlight zur Verfügung. Gewerbetreibende mit physischem Standort...
+Zum Beitrag: Location Spotlight für „Twitter Professional Accounts“ jetzt weltweit verfügbar
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Samsung-Soundbars: Probleme mit Spotify Connect]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1122839</id>
+        <link href="https://stadt-bremerhaven.de/samsung-soundbars-probleme-mit-spotify-connect/"/>
+        <updated>2022-08-04T16:30:34.000Z</updated>
+        <summary type="html"><![CDATA[In den Community-Foren von Samsung haben sich einige Betroffene eingefunden, die bemängelten, dass sie nicht mehr direkt über Spotify Connect Musik an ihre Soundbars übergeben können. Noch ist der Fall nicht ganz klar – ein Community-Manager sprach auf der einen...
+Zum Beitrag: Samsung-Soundbars: Probleme mit Spotify Connect
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple TV+: Termine für „Friday Night Baseball“]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1122880</id>
+        <link href="https://stadt-bremerhaven.de/apple-tv-termine-fuer-friday-night-baseball/"/>
+        <updated>2022-08-04T16:16:53.000Z</updated>
+        <summary type="html"><![CDATA[Neulich tauchten schon Termine für die Major League Baseball (MLB) im deutschen Apple TV+ aus, nun gaben Apple und die MLB den Spielplan für „Friday Night Baseball“ für September 2022 bekannt – neben der Info, dass man auch in Deutschland...
+Zum Beitrag: Apple TV+: Termine für „Friday Night Baseball“
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GMX und Web.de stehen angeblich zum Verkauf]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1122871</id>
+        <link href="https://stadt-bremerhaven.de/gmx-und-web-de-stehen-angeblich-zum-verkauf/"/>
+        <updated>2022-08-04T15:55:32.000Z</updated>
+        <summary type="html"><![CDATA[United Internet will laut einem Bericht des »Handelsblatt« seine Sparte abstoßen, zu der auch GMX und Web.de gehören – dies erfuhr das Medium aus Finanz- und Branchenkreisen. Interessenten können sowohl für einen Minderheits- als auch einen Mehrheitsanteil der entsprechenden Sparte...
+Zum Beitrag: GMX und Web.de stehen angeblich zum Verkauf
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Proton Mail: Simple Login und Mail-Rückruf möglich]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1122828</id>
+        <link href="https://stadt-bremerhaven.de/proton-mail-simple-login-und-mail-rueckruf-moeglich/"/>
+        <updated>2022-08-04T15:30:17.000Z</updated>
+        <summary type="html"><![CDATA[Neue Funktionen gibt’s für Nutzer von Proton Mail. Seit April 2022 ist auch SimpleLogin Teil von Proton. Nutzer von Proton Unlimited-, Business- und Visionary-Konten können kostenpflichtige SimpleLogin-Funktionen nun kostenlos nutzen. SimpleLogin ist eine Browsererweiterung, Web-App und mobile App, die Nutzern...
+Zum Beitrag: Proton Mail: Simple Login und Mail-Rückruf möglich
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[XL-Flash Gen2: Kioxia verdoppelt die Kapazität des Turbo-NAND]]></title>
+        <id>https://www.computerbase.de/2022-08/xl-flash-gen-2-kioxia-verdoppelt-die-kapazitaet-des-turbo-nand/</id>
+        <link href="https://www.computerbase.de/2022-08/xl-flash-gen-2-kioxia-verdoppelt-die-kapazitaet-des-turbo-nand/"/>
+        <updated>2022-08-04T15:22:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/4/9/9-6e908ca537acb61f/article-640x360.fe3ab8fe.jpg"><p>Bei der zweiten Generation des auf hohe Leistung getrimmten NAND-Speichers XL-Flash erhöht Kioxia von 1 Bit auf 2 Bit pro Zelle. Die Speicherkapazität verdoppelt sich auf 256 Gbit (32 GB) pro Chip. Zudem wurde die Anzahl der Speichersegmente (Planes) weiter erhöht.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Epic Games Store: „Unrailed!“ kostenlos zu haben]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1122690</id>
+        <link href="https://stadt-bremerhaven.de/epic-games-store-unrailed-kostenlos-zu-haben/"/>
+        <updated>2022-08-04T15:00:20.000Z</updated>
+        <summary type="html"><![CDATA[Es ist Donnerstag und wie jede Woche heißt das für PC-Spieler, dass sich ein Blick in den Epic Games Store lohnen könnte. Dort haut Epic wöchentlich einen oder mehrere kostenlose Titel raus, die kostenlos zu haben sind. In dieser Woche...
+Zum Beitrag: Epic Games Store: „Unrailed!“ kostenlos zu haben
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>Oliver Posselt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MyFRITZ!App (Android): Update behebt VPN-Probleme]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1122861</id>
+        <link href="https://stadt-bremerhaven.de/myfritzapp-android-update-behebt-vpn-probleme/"/>
+        <updated>2022-08-04T14:45:40.000Z</updated>
+        <summary type="html"><![CDATA[Die kleine Service-Nachricht für Nutzer der MyFRITZ!App unter Android, die vielleicht in der nahen Vergangenheit Probleme mit ihrer VPN-Verbindung hatten. Das Unternehmen hat ein Update veröffentlicht, welches das Problem behebt, bei dem die Heimnetzverbindung teilweise bei der Benutzung zurückgesetzt wurde....
+Zum Beitrag: MyFRITZ!App (Android): Update behebt VPN-Probleme
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[fraenk führt SEPA-Lastschrift als weitere Zahlungsmöglichkeit ein]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1122862</id>
+        <link href="https://stadt-bremerhaven.de/fraenk-fuehrt-sepa-lastschrift-als-weitere-zahlungsmoeglichkeit-ein/"/>
+        <updated>2022-08-04T14:23:41.000Z</updated>
+        <summary type="html"><![CDATA[Ab Mitte August ist beim App-basierten Mobilfunktarif fraenk neben PayPal auch eine Zahlung mit SEPA-Lastschrifteinzug möglich. fraenk geht damit laut eigener Aussagen aktiv auf einen mehrfach geäußerten Kundenwunsch ein. Für alle Neukunden, die kein PayPal nutzen möchten, bietet sich damit...
+Zum Beitrag: fraenk führt SEPA-Lastschrift als weitere Zahlungsmöglichkeit ein
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nächstes iPad könnte eine Designänderung erfahren]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1122846</id>
+        <link href="https://stadt-bremerhaven.de/naechstes-ipad-koennte-eine-designaenderung-erfahren/"/>
+        <updated>2022-08-04T14:00:46.000Z</updated>
+        <summary type="html"><![CDATA[Neues aus der iPad-Gerüchteküche. Die zehnte Generation des normalen „Einsteiger-iPads“ könnte ein Redesign erhalten. Hergeleitet werden die Aussagen aus CAD-Rendern von Hüllenherstellern. Demnach würde das iPad der 10. Generation dem iPad mini ähnlicher werden. Flache Kanten, etwas herausstehende Kamera, vielleicht...
+Zum Beitrag: Nächstes iPad könnte eine Designänderung erfahren
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sabrent Rocket 4 Plus G: NVMe-SSD mit Gaming-Firmware für DirectStorage]]></title>
+        <id>https://www.computerbase.de/2022-08/sabrent-rocket-4-plus-g-nvme-ssd-mit-gaming-firmware-fuer-directstorage/</id>
+        <link href="https://www.computerbase.de/2022-08/sabrent-rocket-4-plus-g-nvme-ssd-mit-gaming-firmware-fuer-directstorage/"/>
+        <updated>2022-08-04T13:42:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/4/9/6-330cb56d5e130383/article-640x360.fe9a55ff.jpg"><p>Der US-Anbieter Sabrent hat eine neue SSD-Serie vorgestellt. Die Rocket 4 Plus G ist für Spieler konzipiert; das „G“ steht für Gaming. Dahinter soll mehr stecken als nur Marketing, denn die Firmware der schnellen PCIe-4.0-SSD im M.2-Format sei bereits für die DirectStorage-API von Microsoft optimiert.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NVIDIA GeForce NOW: Das sind die neuen Titel im August]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1122853</id>
+        <link href="https://stadt-bremerhaven.de/nvidia-geforce-now-das-sind-die-neuen-titel-im-august/"/>
+        <updated>2022-08-04T13:37:09.000Z</updated>
+        <summary type="html"><![CDATA[Bei NVIDIA GeForce NOW, dem Cloud-Dienst für gestreamte Spiele, gibt’s Neues. GFN-Mitglieder können unter anderem mit Saints Row und Rumbleverse das Beste aus ihrem August herausholen. Doch das sind nur zwei der insgesamt 38 Spielen, die diesen Monat zur GeForce-NOW-Bibliothek...
+Zum Beitrag: NVIDIA GeForce NOW: Das sind die neuen Titel im August
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Innosilicon Fantasy II: Low-Power-China-GPU mit bis zu 1,5 TFLOPS bei 15 Watt TDP]]></title>
+        <id>https://www.computerbase.de/2022-08/innosilicon-fantasy-ii-low-power-china-gpu/</id>
+        <link href="https://www.computerbase.de/2022-08/innosilicon-fantasy-ii-low-power-china-gpu/"/>
+        <updated>2022-08-04T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/4/9/8-66427cd5316bacd6/article-640x360.e00093ec.jpg"><p>Mit der Innosilicon Fantasy II ergänzt der chinesischer Halbleiter-Entwickler sein Portfolio an GPUs um einen Low-Power-Grafikprozessor für den Desktop, Cloud, Server und Metaverse. Während die Fantasy-I-GPU bis zu 10 TFLOPS bei einer TDP von 50 Watt liefert, sind es bei der Fantasy-II-GPU 1,5 TFLOPS bei lediglich 4 bis 15 Watt.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Corona-Sonderregelung: Telefonische Krankschreibung bei leichten Atemwegserkrankungen ab sofort wieder möglich]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1122836</id>
+        <link href="https://stadt-bremerhaven.de/corona-sonderregelung-telefonische-krankschreibung-bei-leichten-atemwegserkrankungen-ab-sofort-wieder-moeglich/"/>
+        <updated>2022-08-04T13:05:35.000Z</updated>
+        <summary type="html"><![CDATA[Der Gemeinsame Bundesausschuss (G-BA) hat angesichts steigender Infektionszahlen die Corona-Sonderregelung für eine telefonische Krankschreibung wieder aktiviert. Sie gilt laut Meldung vorerst befristet bis 30. November 2022. Durch die Sonderregelung können Versicherte, die an leichten Atemwegserkrankungen leiden, telefonisch bis zu 7...
+Zum Beitrag: Corona-Sonderregelung: Telefonische Krankschreibung bei leichten Atemwegserkrankungen ab sofort wieder möglich
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[7, 15 oder 25 GB: Angebote im Vodafone-Netz über Crash]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1122831</id>
+        <link href="https://stadt-bremerhaven.de/7-15-oder-25-gb-angebote-im-vodafone-netz-ueber-crash/"/>
+        <updated>2022-08-04T12:59:16.000Z</updated>
+        <summary type="html"><![CDATA[Gleich drei Angebote gibt’s ab sofort im Vodafone-Netz, realisiert über „crash powered by klarmobil“. Eines der Angebote ist gar monatlich kündbar, hierbei handelt es sich um den Tarif „Allnet Flat 7 GB LTE“. Wer mehr Volumen benötigt, der kann auch...
+Zum Beitrag: 7, 15 oder 25 GB: Angebote im Vodafone-Netz über Crash
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EcoFlow Power Kits: Das sind die deutschen Preise]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1122808</id>
+        <link href="https://stadt-bremerhaven.de/ecoflow-power-kits-das-sind-die-deutschen-preise/"/>
+        <updated>2022-08-04T12:30:11.000Z</updated>
+        <summary type="html"><![CDATA[EcoFlow, ein Unternehmen für tragbare Stromversorgung und Lösungen für erneuerbare Energien, hatte Ende Juni die EcoFlow Power Kits für Wohnmobile und Insellösungen vorgestellt. Die EcoFlow Power Kits sind laut Hersteller einfach einzurichten und vereinfachen den anspruchsvollen Installationsprozess bestehender benutzerdefinierter Stromversorgungslösungen....
+Zum Beitrag: EcoFlow Power Kits: Das sind die deutschen Preise
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AMD Ryzen 9 7950X („Raphael“): Gerüchteküche spricht von bis zu 5,7 GHz]]></title>
+        <id>https://www.computerbase.de/2022-08/amd-ryzen-9-7950x-5-7-ghz/</id>
+        <link href="https://www.computerbase.de/2022-08/amd-ryzen-9-7950x-5-7-ghz/"/>
+        <updated>2022-08-04T12:15:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/4/9/5-a87d716fa229c6a2/article-640x360.602bd7a6.jpg"><p>AMD Ryzen 7000 soll noch in diesem Quartal erscheinen, die Vorstellung der vier Modelle Ryzen 9 7950X und 7900X sowie Ryzen 7 7700X und Ryzen 5 7600X wird bereits für den 30. August erwartet. Die Gerüchteküche spricht von bis zu 5,7 GHz für das Spitzenmodell und nennt auch weitere Eckdaten der gesamten Prozessorfamilie.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Joker: Fortsetzung soll im Oktober 2024 erscheinen]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1122799</id>
+        <link href="https://stadt-bremerhaven.de/joker-fortsetzung-soll-im-oktober-2024-erscheinen/"/>
+        <updated>2022-08-04T12:00:42.000Z</updated>
+        <summary type="html"><![CDATA[Das wird hoffentlich ein Filmfest. Todd Phillips‘ Joker-Sequel Joker: Folie à Deux, hat einen Release-Termin bekommen. Bis es so weit ist, wird aber noch einige Zeit vergehen, derzeit plant man mit einer Veröffentlichung am 4. Oktober 2024. Warner hatte diesen...
+Zum Beitrag: Joker: Fortsetzung soll im Oktober 2024 erscheinen
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[She-Hulk: Die Anwältin: Serie startet am 18. August auf Disney+]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1122819</id>
+        <link href="https://stadt-bremerhaven.de/she-hulk-die-anwaeltin-serie-startet-am-18-august-auf-disney/"/>
+        <updated>2022-08-04T11:45:22.000Z</updated>
+        <summary type="html"><![CDATA[So wirr die Ideen und Titel manchmal auch wirken – Marvel weiß geschickt, Zielgruppen zu begeistern. Ob dies bei „She-Hulk: Die Anwältin“ auch der Fall ist? Darüber könnt ihr euch selbst eine Meinung bilden. Die neue Original-Serie startet am Donnerstag,...
+Zum Beitrag: She-Hulk: Die Anwältin: Serie startet am 18. August auf Disney+
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tactics Ogre: Reborn erscheint im November]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1122796</id>
+        <link href="https://stadt-bremerhaven.de/tactics-ogre-reborn-erscheint-im-november/"/>
+        <updated>2022-08-04T11:30:56.000Z</updated>
+        <summary type="html"><![CDATA[Mit Tactics Ogre: Reborn kehrt bald ein Rollenspiel in neuer Form zurück. Die Neuauflage von »Tactics Ogre« (2010) bietet Verbesserungen an Grafik und Sound sowie ein modernisiertes Spieldesign. Square Enix hat bekannt gegeben, dass das Spiel für die Nintendo Switch,...
+Zum Beitrag: Tactics Ogre: Reborn erscheint im November
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Die Sims 4: „Inzest-Bug“ des Highschool-Addons mit Patch behoben]]></title>
+        <id>https://www.computerbase.de/2022-08/die-sims-4-inzest-bug-des-highschool-addons-mit-patch-behoben/</id>
+        <link href="https://www.computerbase.de/2022-08/die-sims-4-inzest-bug-des-highschool-addons-mit-patch-behoben/"/>
+        <updated>2022-08-04T10:06:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/4/9/2-57bfb4f50228211f/article-640x360.0d96bc83.jpg"><p>Die jüngste Erweiterung „Highschool-Jahre“ für Die Sims 4 enthielt einen Fehler, durch den Familienmitglieder sexuelle Gefühle für andere Familienmitglieder entwickelt haben und beispielsweise ein Date mit ihnen haben wollten. Mit einem Patch hat EA dieses schnell als „Inzest-Bug“ bekannt gewordene Verhalten nun abgestellt.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Huawei MateBook 16s im Test: Schnelles 16-Zoll-Notebook von Format]]></title>
+        <id>https://www.computerbase.de/2022-08/huawei-matebook-16s-test/</id>
+        <link href="https://www.computerbase.de/2022-08/huawei-matebook-16s-test/"/>
+        <updated>2022-08-04T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/4/3/2-9901f9d4ab1387d9/article-640x360.e4110e12.jpg"><p>Im 16-Zoll-Segment geht Huawei mit dem aufgefrischten MateBook 16s an den Start, das sich vor allem über das Display im 3:2-Format profiliert und dessen Vorzüge im Alltag aufzeigt. Für sehr viel Leistung sorgt der Intel Core i9-12900H. Für ein rundes Gesamtpaket in allen Bereichen fehlt es dem Notebook noch an mancher Stelle.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WD Black SN850X: Marktstart der schnellen PCIe-4.0-SSD mit weiteren Details]]></title>
+        <id>https://www.computerbase.de/2022-08/wd-black-sn850x-marktstart-der-schnellen-pcie-4-0-ssd-mit-weiteren-details/</id>
+        <link href="https://www.computerbase.de/2022-08/wd-black-sn850x-marktstart-der-schnellen-pcie-4-0-ssd-mit-weiteren-details/"/>
+        <updated>2022-08-04T09:25:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/4/8/7-eb8daa75b2f8b3b2/article-640x360.1ecc9115.jpg"><p>Die im Mai nur knapp vorgestellte NVMe-SSD WD Black SN850X kommt jetzt mit weiteren Details und offiziellen Preisen auf den Markt. Die maximale Schreibrate steigt demnach um stolze 25 Prozent. Direkt beim Hersteller sind die Modelle mit 1 TB und 2 TB zeitnah verfügbar, das 4-TB-Modell hat eine längere Lieferzeit.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Multitasking-Probleme: iPadOS 16 soll nicht gleichzeitig mit iOS 16 erscheinen]]></title>
+        <id>https://www.computerbase.de/2022-08/multitasking-probleme-ipados-16-soll-nicht-zeitgleich-mit-ios-16-erscheinen/</id>
+        <link href="https://www.computerbase.de/2022-08/multitasking-probleme-ipados-16-soll-nicht-zeitgleich-mit-ios-16-erscheinen/"/>
+        <updated>2022-08-04T08:13:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/4/9/1-1ca4c88e332f343a/article-640x360.d6ab527b.jpg"><p>Mit iPadOS 16 erhalten einige iPad-Modelle eine neue Multitasking-Funktion, die Anwendern mit Hilfe des neuen Stage Managers einen besseren Überblick zu geöffneten Apps und Fenstern geben soll. Diese mache aber weiterhin Probleme, weshalb sich iPadOS 16 Gerüchten zufolge verspäten und nicht zusammen mit iOS 16 freigegeben wird.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft improves Windows 11's Smart App Control, but you may not be able to use it]]></title>
+        <id>https://www.ghacks.net/?p=180095</id>
+        <link href="https://www.ghacks.net/2022/08/04/microsoft-improves-windows-11s-smart-app-control-but-you-may-not-be-able-to-use-it/"/>
+        <updated>2022-08-04T07:19:35.000Z</updated>
+        <summary type="html"><![CDATA[The Windows 11 Security feature Smart App Control was unveiled earlier this year by Microsoft. Back then, Microsoft described it as a protective tool that "blocks untrusted or potentially dangerous applications". What […]
+Thank you for being a Ghacks reader. The post Microsoft improves Windows 11's Smart App Control, but you may not be able to use it appeared first on gHacks Technology News.]]></summary>
+        <author>
+            <name>Martin Brinkmann</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AMD Threadripper Pro 5995WX: 6.500-USD-HEDT-CPU bricht Weltrekord in Cinebench R23]]></title>
+        <id>https://www.computerbase.de/2022-08/amd-ryzen-threadripper-pro-5995wx-cinebench-r23-world-record/</id>
+        <link href="https://www.computerbase.de/2022-08/amd-ryzen-threadripper-pro-5995wx-cinebench-r23-world-record/"/>
+        <updated>2022-08-04T06:32:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/4/8/9-2e975c821912e70a/article-640x360.f3e67526.jpg"><p>Der 6.500 US-Dollar teure HEDT-Prozessor AMD Ryzen Threadripper Pro 5995WX hat einen neuen Weltrekord im Multi-Core-Test des bekannten Benchmarks Cinebench R23 aufgestellt. Damit verweist die Workstation-CPU, die ausschließlich als Pro-Version angeboten wird, den Threadripper 3990X (Test) und den Epyc 7763 auf die Plätze.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Internet Explorer: Der eingestellte Browser läuft doch unter Windows 11]]></title>
+        <id>https://www.computerbase.de/2022-08/windows-11-microsoft-internet-explorer/</id>
+        <link href="https://www.computerbase.de/2022-08/windows-11-microsoft-internet-explorer/"/>
+        <updated>2022-08-04T06:07:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/4/8/8-f7335b081d161ffd/article-640x360.146ad7b3.jpg"><p>Eigentlich hatte Microsoft seinen einst so erfolgreichen Browser, den Internet Explorer, am 15. Juni 2022 in den endgültigen Ruhestand verabschiedet, doch dieser ist zurück und erstmals überhaupt auch unter Windows 11 ausführbar.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Another phishing attack that bypasses multi-factor authentication targets Microsoft email users]]></title>
+        <id>https://www.ghacks.net/?p=180092</id>
+        <link href="https://www.ghacks.net/2022/08/04/another-phishing-attack-that-bypasses-multi-factor-authentication-targets-microsoft-email-users/"/>
+        <updated>2022-08-04T05:58:05.000Z</updated>
+        <summary type="html"><![CDATA[Cybersecurity research analysts at Zscaler have uncovered a new large-scale phishing campaign targeting Microsoft email users. The main targets of the campaign are corporate users, specifically end users in Enterprise environments that […]
+Thank you for being a Ghacks reader. The post Another phishing attack that bypasses multi-factor authentication targets Microsoft email users appeared first on gHacks Technology News.]]></summary>
+        <author>
+            <name>Martin Brinkmann</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows 11 Insider Preview Build 25174 introduces a Game Pass widget]]></title>
+        <id>https://www.ghacks.net/?p=180086</id>
+        <link href="https://www.ghacks.net/2022/08/04/whats-new-in-windows-11-insider-preview-build-25174/"/>
+        <updated>2022-08-04T05:22:38.000Z</updated>
+        <summary type="html"><![CDATA[Windows 11 Insider Preview Build 25174 is now available for users in the Dev Channel. It introduces a new widget, and fixes a handful of bugs. What's new in Windows 11 Insider […]
+Thank you for being a Ghacks reader. The post Windows 11 Insider Preview Build 25174 introduces a Game Pass widget appeared first on gHacks Technology News.]]></summary>
+        <author>
+            <name>Ashwin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Samsung: UFS 4.0 geht in Serie und Memory-semantic SSD geplant]]></title>
         <id>https://www.computerbase.de/2022-08/samsung-ufs-4-0-geht-in-serie-und-memory-semantic-ssd-geplant/</id>
@@ -8147,16 +8641,6 @@ Thank you for being a Ghacks reader. The post K-9 Mail (future Thunderbird for A
 Thank you for being a Ghacks reader. The post Apple's Lockdown Mode for iOS 16, iPadOS 16 and macOS Ventura 13 will protect users from targeted spyware attacks appeared first on gHacks Technology News.]]></summary>
         <author>
             <name>Ashwin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GPD Win Max 2: Ryzen 7 6800U schlägt Core i7-1260P im ersten Test deutlich (2. Update)]]></title>
-        <id>https://www.computerbase.de/2022-07/gpd-win-max-2-amd-r7-6800u-intel-i7-1260p/</id>
-        <link href="https://www.computerbase.de/2022-07/gpd-win-max-2-amd-r7-6800u-intel-i7-1260p/"/>
-        <updated>2022-07-05T14:12:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/1/1/1-9871945652978766/article-640x360.7c028f7d.jpg"><p>Der GPD Win Max 2 ist ein Handheld-Hybrid, bestehend aus einer mobilen Spielkonsole und einem 10,1"-Notebook, der wahlweise mit einem Ryzen 7 6800U alias „Rembrandt“ auf Basis von Zen 3+ oder einem Core i7-1260P alias „Alder Lake-P“ sowie mit bis zu 32 Gigabyte LPDDR5-6400 ausgestattet ist. Der Spaß beginnt ab 899 US-Dollar.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
         </author>
     </entry>
 </feed>
