@@ -2,10 +2,544 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://olivedrop.github.io/drop/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-11T01:57:00.358Z</updated>
+    <updated>2022-08-12T02:04:03.024Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://olivedrop.github.io/drop/index.html"/>
     <link rel="self" href="https://olivedrop.github.io/drop/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[So will Google die Suchergebnisse verbessern]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1123974</id>
+        <link href="https://stadt-bremerhaven.de/so-will-google-die-suchergebnisse-verbessern/"/>
+        <updated>2022-08-11T19:30:31.000Z</updated>
+        <summary type="html"><![CDATA[Google möchte seine Suchergebnisse verbessern. Man entwickele die Ranking-Systeme so, dass sie relevante Informationen aus den zuverlässigsten verfügbaren Quellen anzeigen – Quellen, die Fachwissen, Autorität und Vertrauenswürdigkeit demonstrieren – sagt Google. Nun sollen auch die Featured Snippets besser werden. Featured...
+Zum Beitrag: So will Google die Suchergebnisse verbessern
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shazam: Nun auch nativ für Apple Silicon]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1123969</id>
+        <link href="https://stadt-bremerhaven.de/shazam-nun-auch-nativ-fuer-apple-silicon/"/>
+        <updated>2022-08-11T19:13:19.000Z</updated>
+        <summary type="html"><![CDATA[Shazam, die Musikerkennungssoftware, die zu Apple gehört, gibt’s nicht nur mobil, sondern auch auf dem Mac. Nach langer Zeit hat Apple sich nun für ein Update der App entschlossen. Rein funktionell scheint nicht neu zu sein, aber immerhin hat man...
+Zum Beitrag: Shazam: Nun auch nativ für Apple Silicon
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ubuntu 22.04 LTS und 20.04 LTS: Canonical veröffentlicht Kernel Security Updates]]></title>
+        <id>https://www.computerbase.de/2022-08/ubuntu-22-04-lts-20-04-lts-security-updates/</id>
+        <link href="https://www.computerbase.de/2022-08/ubuntu-22-04-lts-20-04-lts-security-updates/"/>
+        <updated>2022-08-11T18:47:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/5/8/7-4328dcdf183d04a2/article-640x360.7fc61465.jpg"><p>Der britische Linux-Distributor Canonical veröffentlicht Linux Kernel Security Updates für Ubuntu 22.04 LTS („Jammy Jellyfish“) sowie Ubuntu 20.04 LTS („Focal Fossa“) und schließt damit Sicherheitslücken in seinen Betriebssystemen. Die behobenen Schwachstellen konnten zu einem Denial of Service (DoS) führen.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Xiaomi Pad 5 Pro 12.4: Tablet kommt mit einem 10.000-mAh-Akku]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1123918</id>
+        <link href="https://stadt-bremerhaven.de/xiaomi-pad-5-pro-12-4-tablet-kommt-mit-einem-10-000-mah-akku/"/>
+        <updated>2022-08-11T18:00:13.000Z</updated>
+        <summary type="html"><![CDATA[Ich hatte diese Woche bereits über das Xiaomi Pad 5 Pro 12.4 berichtet. Heute schließt sich der Kreis und das Tablet mit dem Qualcomm Snapdragon 870 als SoC wurde offiziell vorgestellt. Im Inneren sorgt ein Akku mit 10.000 mAh für...
+Zum Beitrag: Xiaomi Pad 5 Pro 12.4: Tablet kommt mit einem 10.000-mAh-Akku
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Office für iOS: Das sind die Neuerungen]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1123930</id>
+        <link href="https://stadt-bremerhaven.de/microsoft-office-fuer-ios-das-sind-die-neuerungen/"/>
+        <updated>2022-08-11T16:52:20.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft hat seinen mobilen Office-Apps für iPad und iPhone Neuerungen spendiert. Das Office-Paket ist für mich nach wie vor einer der Gründe, die bei mir den Desktop obsolet machen – entsprechend sind Neuerungen da immer willkommen, wenngleich diese aber nicht...
+Zum Beitrag: Microsoft Office für iOS: Das sind die Neuerungen
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>Felix Frank</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Xiaomi CyberOne: Humanoider Roboter soll dank Machine-Learning stets dazulernen]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1123912</id>
+        <link href="https://stadt-bremerhaven.de/xiaomi-cyberone-humanoider-roboter-soll-dank-machine-learning-stets-dazulernen/"/>
+        <updated>2022-08-11T15:30:38.000Z</updated>
+        <summary type="html"><![CDATA[Xiaomi hat nicht nur das neue Foldable Mix Fold 2 vorgestellt, sondern auch den humanoiden Roboter namens „CyberOne“. Letzterer soll Machine-Learning in den Fokus rücken. In einem Video zeigt der chinesische Hersteller, wie das in etwa laufen soll. Knallt CyberOne...
+Zum Beitrag: Xiaomi CyberOne: Humanoider Roboter soll dank Machine-Learning stets dazulernen
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Epic Games Store: „Cook, Serve, Delicious! 3?!“ kostenlos zu haben]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1123756</id>
+        <link href="https://stadt-bremerhaven.de/epic-games-store-cook-serve-delicious-3-kostenlos-zu-haben/"/>
+        <updated>2022-08-11T15:00:31.000Z</updated>
+        <summary type="html"><![CDATA[Epic Games haut jeden Donnerstag mindestens ein kostenloses Spiel raus. In dieser Woche sind es nicht zwei, sondern wieder einmal „nur“ ein Spiel, das ihr eurer Mediathek hinzufügen könnt. Es handelt sich um die Kochsimulation „Cook, Serve, Delicious! 3?!“, bei...
+Zum Beitrag: Epic Games Store: „Cook, Serve, Delicious! 3?!“ kostenlos zu haben
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>Oliver Posselt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DeathAdder V3 Pro: Razer gibt der ikonischen Maus eine neue Form]]></title>
+        <id>https://www.computerbase.de/2022-08/deathadder-v3-pro-razer-gibt-der-ikonischen-maus-eine-neue-form/</id>
+        <link href="https://www.computerbase.de/2022-08/deathadder-v3-pro-razer-gibt-der-ikonischen-maus-eine-neue-form/"/>
+        <updated>2022-08-11T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/5/8/1-4e3d98ce5ebf6ad7/article-640x360.37e9366d.jpg"><p>Auf die Viper V2 Pro (Test) folgt die DeathAdder V3 Pro mit identischer Technik. Gerüchte kündigten den Schritt bereits seit Wochen an, nun ergänzt Razer die populäre DeathAdder-Familie um eine E-Sport-Variante mit abgeänderter, weniger ausladender Formgebung und Unterstützung für 4.000 Hertz via HyperPolling Wireless Dongle.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Galaxy Z Fold und Z Flip: Samsung will 500.000 faltbare Smartphones verkaufen]]></title>
+        <id>https://www.computerbase.de/2022-08/galaxy-z-fold-und-z-flip-samsung-will-500-000-faltbare-smartphones-verkaufen/</id>
+        <link href="https://www.computerbase.de/2022-08/galaxy-z-fold-und-z-flip-samsung-will-500-000-faltbare-smartphones-verkaufen/"/>
+        <updated>2022-08-11T14:45:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/5/8/4-dd77c081533aa8c4/article-640x360.243ccc61.jpg"><p>Mit den faltbaren Smartphones der vierten Generation will Samsung dieses Jahr auf dem deutschen Markt durchstarten und die Anzahl der verkauften Geräte beinahe um den Faktor drei steigern. Der Hersteller prognostiziert in Deutschland für 2022 einen Absatz von 500.000 Geräten. Hierzulande dominiert Samsung das faltbare Segment.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Bing's annotation feature: price history, coupons and ethical choice]]></title>
+        <id>https://www.ghacks.net/?p=180194</id>
+        <link href="https://www.ghacks.net/2022/08/11/microsoft-bings-annotation-fefature-price-history-coupons-and-ethical-choice/"/>
+        <updated>2022-08-11T14:27:05.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft added a ton of new features to its Bing search engine over the past couple of years. The latest addition to Bing is an annotations feature that adds information directly to […]
+Thank you for being a Ghacks reader. The post Microsoft Bing's annotation feature: price history, coupons and ethical choice appeared first on gHacks Technology News.]]></summary>
+        <author>
+            <name>Martin Brinkmann</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MemTest86: Neue Version erkennt defekte Module und sogar Chips]]></title>
+        <id>https://www.computerbase.de/2022-08/memtest86-neue-version-erkennt-defekte-module-und-sogar-chips/</id>
+        <link href="https://www.computerbase.de/2022-08/memtest86-neue-version-erkennt-defekte-module-und-sogar-chips/"/>
+        <updated>2022-08-11T14:18:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/5/8/3-ef11d9cb628305cb/article-640x360.690933fe.jpg"><p>PassMark, die Firma hinter dem populären RAM-Diagnose-Tool MemTest86, liefert einen Ausblick auf eine kommende Version mit großer Neuerung. So soll die Software künftig nicht nur ermitteln, welches Modul Fehler aufweist, sondern sogar auch, welcher Speicherchip genau betroffen ist. Allerdings funktioniert dies nur mit DDR5.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Xiaomi Mix Fold 2 vorgestellt, das steckt drin]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1123887</id>
+        <link href="https://stadt-bremerhaven.de/xiaomi-mix-fold-2-vorgestellt-das-steckt-drin/"/>
+        <updated>2022-08-11T14:16:58.000Z</updated>
+        <summary type="html"><![CDATA[Xiaomi hat in China das Mix Fold 2, ein faltbares Smartphone. Nicht bekannt ist, ob es auch nach Deutschland kommt – bei den am 10. August vorgestellten Samsung-Foldables stellt sich die Frage ja gar nicht erst. Beim Mix Fold 2...
+Zum Beitrag: Xiaomi Mix Fold 2 vorgestellt, das steckt drin
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Facebook Messenger: E2E-verschlüsselte Backups und mehr]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1123862</id>
+        <link href="https://stadt-bremerhaven.de/facebook-messenger-e2e-verschluesselte-backups-und-mehr/"/>
+        <updated>2022-08-11T13:45:55.000Z</updated>
+        <summary type="html"><![CDATA[Facebook hat sich mal wieder zu seinen Messenger-Ambitionen geäußert. Zum Unternehmen Meta gehören Facebook, Instagram und auch WhatsApp, sie alle bieten Messaging-Funktionen an. Beim Facebook Messenger beginnen nun Testläufe. Man teste die sichere Speicherung im Messenger, eine neue Funktion, mit...
+Zum Beitrag: Facebook Messenger: E2E-verschlüsselte Backups und mehr
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IPS Black im Test: LG verspricht bei Schwarz und Kontrast nicht zu viel]]></title>
+        <id>https://www.computerbase.de/2022-08/ips-black-im-test-lg-verspricht-bei-schwarz-und-kontrast-nicht-zu-viel/</id>
+        <link href="https://www.computerbase.de/2022-08/ips-black-im-test-lg-verspricht-bei-schwarz-und-kontrast-nicht-zu-viel/"/>
+        <updated>2022-08-11T13:25:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/5/7/9-82e56fc74f8169e6/article-640x360.e0f25d97.jpg"><p>Nicht weniger als einen verdoppelten Kontrast hat LG mit neuen Display-Panels vom Typ „IPS Black“ versprochen. Ein erster Test des entsprechend bestückten Monitors Dell U3223QE zeigt, dass dies nicht gelogen war. Die Erwartungen bei der Blickwinkelstabilität werden aber nicht ganz erfüllt.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hetzner hebt die Preise an]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1123874</id>
+        <link href="https://stadt-bremerhaven.de/hetzner-hebt-die-preise-an/"/>
+        <updated>2022-08-11T13:18:19.000Z</updated>
+        <summary type="html"><![CDATA[Kunden beim Hoster Hetzner müssen sich auf höhere Preise einstellen. Laut Hetzner habe man auch mit dem Problem zu kämpfen, dass die Energiepreise der Versorger seit Ende letzten Jahres drastisch gestiegen sind. Da die Preise in naher Zukunft weder sinken...
+Zum Beitrag: Hetzner hebt die Preise an
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NVIDIA GeForce NOW: Rumbleverse und sieben weitere Titel]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1123691</id>
+        <link href="https://stadt-bremerhaven.de/nvidia-geforce-now-rumbleverse-und-sieben-weitere-titel/"/>
+        <updated>2022-08-11T13:00:55.000Z</updated>
+        <summary type="html"><![CDATA[NVIDIA informiert fast schon traditionell am Donnerstag über Spiele, die man über GeForce Now, den Cloud-Dienst des Unternehmens, spielen kann – entsprechendes Abo und (gekauftes) Spiel vorausgesetzt. GeForce-NOW-Mitglieder können sofort und ohne Download spielen: Die neuen „GET“-Buttons in der App...
+Zum Beitrag: NVIDIA GeForce NOW: Rumbleverse und sieben weitere Titel
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Praxissoftware: Daten von über 1 Mio. Patienten ungeschützt im Netz]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1123856</id>
+        <link href="https://stadt-bremerhaven.de/praxissoftware-daten-von-ueber-1-mio-patienten-ungeschuetzt-im-netz/"/>
+        <updated>2022-08-11T12:41:40.000Z</updated>
+        <summary type="html"><![CDATA[Die Nachrichten der letzten Zeit zeichnen kein gutes Bild für eine Digitalisierung. Sicherheitsforscher zeigen uns oftmals auf, wie einfach es ist, vermeintliche Sicherheit zu umgehen. Nun haben die Sicherheitsforscher rund um zerforschung einmal Praxissoftware bei Ärzten unter die Lupe genommen....
+Zum Beitrag: Praxissoftware: Daten von über 1 Mio. Patienten ungeschützt im Netz
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TV-Streaming: waipu: 2 Monate Perfect Paket kostenlos]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1119061</id>
+        <link href="https://stadt-bremerhaven.de/tv-streaming-waipu-2-monate-perfect-paket-kostenlos/"/>
+        <updated>2022-08-11T12:40:51.000Z</updated>
+        <summary type="html"><![CDATA[(Update: Bis zum 15.8. verlängert) Es gab schon Angebote, da lockte waipu.tv mit 3 Monaten kostenloser Testphase, derzeit gibt’s lediglich – oder immerhin – 2 Monate das „Perfect Paket“ für Neukunden kostenlos. Das Paket kostet ansonsten 12,99 Euro und bringt...
+Zum Beitrag: TV-Streaming: waipu: 2 Monate Perfect Paket kostenlos
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kommentar: Wenn Hersteller „Group Buy“ für ihre Zwecke missbrauchen]]></title>
+        <id>https://www.computerbase.de/2022-08/glorious-model-d-pro-torschlusspanik-kommentar/</id>
+        <link href="https://www.computerbase.de/2022-08/glorious-model-d-pro-torschlusspanik-kommentar/"/>
+        <updated>2022-08-11T12:30:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/5/5/3-be726b06d70ba9d0/article-640x360.806477e3.jpg"><p>Ein weiteres Mal missbraucht Glorious PC Gaming Race den Begriff des Group-Buys, um mit künstlicher Verknappung und Pseudoexklusivität zu Vorbestellungen einer bis dato lediglich auf Renderbildern existenten Maus anzuregen. Das klingt bereits fadenscheinig, ist aber überdies völlig unnötig: Die Model D Pro hätte es nicht nötig.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Verbraucherzentrale: Vorschlag zu Nutzungsgebühren gefährdet offenes und freies Internet]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1123851</id>
+        <link href="https://stadt-bremerhaven.de/verbraucherzentrale-vorschlag-zu-nutzungsgebuehren-gefaehrdet-offenes-und-freies-internet/"/>
+        <updated>2022-08-11T12:15:46.000Z</updated>
+        <summary type="html"><![CDATA[Ihr erinnert euch sicher noch an das viele Jahre alte Thema: Telekommunikationsanbieter sehen die Großen im Internet (Netflix, Amazon, etc.) in der Pflicht, auch einmal etwas dafür zu tun, dass Daten von A nach B kommen. Datenmengen, die transportiert werden,...
+Zum Beitrag: Verbraucherzentrale: Vorschlag zu Nutzungsgebühren gefährdet offenes und freies Internet
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[9-Euro-Ticket sorgt vor allem in  ländlichen, touristischen Regionen für mehr Bahnverkehr]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1123843</id>
+        <link href="https://stadt-bremerhaven.de/9-euro-ticket-sorgt-vor-allem-in-laendlichen-touristischen-regionen-fuer-mehr-bahnverkehr/"/>
+        <updated>2022-08-11T11:30:54.000Z</updated>
+        <summary type="html"><![CDATA[Das Statistische Bundesamt hat (unter anderem) Zahlen zum Thema Mobilität veröffentlicht, was auch das 9-Euro-Ticket betrifft. Man geht davon aus, dass das Ticket auch den Tourismus „beflügelt“ hat. Deutlich mehr Bewegungen im Eisenbahnverkehr in ländlichen, touristischen Gebieten habe man da...
+Zum Beitrag: 9-Euro-Ticket sorgt vor allem in  ländlichen, touristischen Regionen für mehr Bahnverkehr
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Digital gift cards are excellent for online shopping]]></title>
+        <id>https://www.ghacks.net/?p=180182</id>
+        <link href="https://www.ghacks.net/2022/08/11/digital-gift-cards-are-excellent-for-online-shopping/"/>
+        <updated>2022-08-11T11:30:32.000Z</updated>
+        <summary type="html"><![CDATA[Online shopping has risen in popularity since the start of the Pandemic. Even people who used to shop locally most of the time have seen the benefits of making some purchases online: […]
+Thank you for being a Ghacks reader. The post Digital gift cards are excellent for online shopping appeared first on gHacks Technology News.]]></summary>
+        <author>
+            <name>Martin Brinkmann</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows 11 Insider Preview Build 25179 brings File Explorer tabs for all users in the Dev Channel]]></title>
+        <id>https://www.ghacks.net/?p=180175</id>
+        <link href="https://www.ghacks.net/2022/08/11/whats-new-in-windows-11-insider-preview-build-25179/"/>
+        <updated>2022-08-11T11:16:33.000Z</updated>
+        <summary type="html"><![CDATA[Windows 11 Insider Preview Build 25179 has been released to the Dev Channel. The update enables File Explorer Tabs, adds a new language pack, and ships with fixes for several issues. What's […]
+Thank you for being a Ghacks reader. The post Windows 11 Insider Preview Build 25179 brings File Explorer tabs for all users in the Dev Channel appeared first on gHacks Technology News.]]></summary>
+        <author>
+            <name>Ashwin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EcoFlow DELTA 2: Neue Powerstation  setzt auf LiFePO4]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1123836</id>
+        <link href="https://stadt-bremerhaven.de/ecoflow-delta-2-neue-powerstation-setzt-auf-lifepo4/"/>
+        <updated>2022-08-11T11:00:07.000Z</updated>
+        <summary type="html"><![CDATA[Das Unternehmen EcoFlow stellt diverse Energiespeicher her. Darunter einige Powerstations, die sich auch über Solarpanels aufladen lassen, aber auch große Powerkits für Häuser oder Wohnwagen. Zur IFA will man auch das neueste Produkt nach Deutschland mitbringen, welches jetzt schon in...
+Zum Beitrag: EcoFlow DELTA 2: Neue Powerstation  setzt auf LiFePO4
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple TV+: Dokumentation über Steve Martin angeblich in Arbeit]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1123760</id>
+        <link href="https://stadt-bremerhaven.de/apple-tv-dokumentation-ueber-steve-martin-angeblich-in-arbeit/"/>
+        <updated>2022-08-11T10:30:33.000Z</updated>
+        <summary type="html"><![CDATA[Steve Martin ist ein Tausendsassa. Er ist nicht nur ein amerikanischer Schauspieler, sondern auch Schriftsteller, Musiker, Produzent und Komiker. Bekannt wurde er vor allem mit der Moderation der Sendung Saturday Night Live und Filmen wie Roxanne, Ein Ticket für Zwei...
+Zum Beitrag: Apple TV+: Dokumentation über Steve Martin angeblich in Arbeit
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>Oliver Posselt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nothing Phone (1): Hersteller erwägt Software-Update für helleres Display (Update)]]></title>
+        <id>https://www.computerbase.de/2022-08/nothing-phone-1-hersteller-erwaegt-software-update-fuer-helleres-display/</id>
+        <link href="https://www.computerbase.de/2022-08/nothing-phone-1-hersteller-erwaegt-software-update-fuer-helleres-display/"/>
+        <updated>2022-08-11T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/5/7/6-455e263af84c5df3/article-640x360.70dac150.jpg"><p>Das OLED-Display des Nothing Phone (1) bewirbt der Hersteller seit kurzem mit einer Peak-Helligkeit von 700 cd/m² („Nits“), nachdem zum Start noch 1.200 cd/m² genannt wurden. In Tests unter anderem von ComputerBase konnte dieser Wert aber nicht erreicht werden. Nothing erwägt jetzt allerdings ein Update, um mehr freizuschalten.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PlayStation Plus Extra und Premium: Das sind die neuen Spiele im August 2022]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1123813</id>
+        <link href="https://stadt-bremerhaven.de/playstation-plus-extra-und-premium-das-sind-die-neuen-spiele-im-august-2022/"/>
+        <updated>2022-08-11T10:00:59.000Z</updated>
+        <summary type="html"><![CDATA[Sony hatte die Neuzugänge für PlayStation Plus Essential im August 2022 natürlich schon bestätigt. Jetzt ist auch bekannt, mit welchen Titeln man den Spielekatalog für Abonnenten von PlayStation Plus Extra und Premium in diesem Monat erweitert. Unter anderem sind „Yakuza...
+Zum Beitrag: PlayStation Plus Extra und Premium: Das sind die neuen Spiele im August 2022
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Asus Zenfone 9 im Test: Kompaktes Kraftpaket klotzt statt zu kleckern]]></title>
+        <id>https://www.computerbase.de/2022-08/asus-zenfone-9-test/</id>
+        <link href="https://www.computerbase.de/2022-08/asus-zenfone-9-test/"/>
+        <updated>2022-08-11T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/5/3/4-6a6b127a8671637a/article-640x360.05ab4680.jpg"><p>Asus ist einer der wenigen Hersteller, der noch kompakte Android-Smartphones im Premiumsegment anbietet. Das neue Zenfone 9 punktet mit Größe, Leistung, Kamera und Akkulaufzeit. Der Preis ist mit 799 Euro aber deutlich gegenüber dem Vorjahr angestiegen und im Segment der kompakten Smartphones gibt es durchaus starke Mitbewerber.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Open Source: Microsoft gibt eigene Emojis für jedermann frei]]></title>
+        <id>https://www.computerbase.de/2022-08/microsoft-emoji-fluent-design-open-source/</id>
+        <link href="https://www.computerbase.de/2022-08/microsoft-emoji-fluent-design-open-source/"/>
+        <updated>2022-08-11T09:55:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/5/7/4-ba34b98a3b4bddec/article-640x360.92b61424.jpg"><p>Microsoft hat die seit Februar in Windows 11 und Windows 10 vertretenen 3D-Emojis im Fluent Design jetzt als Open Source unter MIT-Lizenz für jedermann zum Download freigegeben. Die Icons können nicht nur verwendet, sondern auch bearbeitet und veröffentlicht werden.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Arbeitsspeicher: Hohe Bestände sorgen für deutlicheren Preisrutsch]]></title>
+        <id>https://www.computerbase.de/2022-08/arbeitsspeicherpreise-hohe-bestaende-sorgen-fuer-deutlicheren-preisrutsch/</id>
+        <link href="https://www.computerbase.de/2022-08/arbeitsspeicherpreise-hohe-bestaende-sorgen-fuer-deutlicheren-preisrutsch/"/>
+        <updated>2022-08-11T09:50:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/5/7/7-ec86033ce0d97c0f/article-640x360.75bc1b25.jpg"><p>Micron hat es bereits angedeutet, jetzt ziehen Marktforscher nach. Die Preise für DRAM-Chips sollen in diesem Quartal deutlich fallen: statt zuvor bereits prognostizierten rund zehn Prozent im schlimmsten Fall nun um fast das Doppelte. Auch für das vierte Quartal ist die Prognose schlechter.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[E-Bikes bei Lidl und Kaufland ausleihen]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1123831</id>
+        <link href="https://stadt-bremerhaven.de/e-bikes-bei-lidl-und-kaufland-ausleihen/"/>
+        <updated>2022-08-11T09:44:04.000Z</updated>
+        <summary type="html"><![CDATA[Lidl und Kaufland, beide zur Schwarz Gruppe gehörend, bauen ihr Mobilitätsangebot aus. Ab sofort kooperieren die Handelssparten der Unternehmensgruppe mit nextbike und stellen Mietfahrräder an 18 Lidl- und zwei Kaufland-Filialen in Nordrhein-Westfalen zur Verfügung. Die Stationen von nextbike, dem Anbieter...
+Zum Beitrag: E-Bikes bei Lidl und Kaufland ausleihen
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nothing Phone (1): Das steckt hinter der reduzierten Bildschirmhelligkeit]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1123825</id>
+        <link href="https://stadt-bremerhaven.de/nothing-phone-1-das-steckt-hinter-der-reduzierten-bildschirmhelligkeit/"/>
+        <updated>2022-08-11T09:27:54.000Z</updated>
+        <summary type="html"><![CDATA[Wir berichteten neulich darüber, dass das neue Nothing Phone (1) (hier unser Test) anfangs erst mit einer höheren Display-Helligkeit beworben wurde als es aktuell der Fall ist. Von bis zu 1.200 cd/m² ging es runter auf „nur noch“ bis zu...
+Zum Beitrag: Nothing Phone (1): Das steckt hinter der reduzierten Bildschirmhelligkeit
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Disney+: Werbe-Tarif und Preiserhöhung im Dezember (Update)]]></title>
+        <id>https://www.computerbase.de/2022-08/disney-plus-werbe-tarif-und-preiserhoehung-im-dezember/</id>
+        <link href="https://www.computerbase.de/2022-08/disney-plus-werbe-tarif-und-preiserhoehung-im-dezember/"/>
+        <updated>2022-08-11T09:11:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/5/7/5-b154cc40eb3b6ef1/article-640x360.51a3095b.jpg"><p>Im Rahmen der Bekanntgabe der Quartalszahlen hat Disney nicht nur bekannt gegeben wie viele Abonnenten der Streaming-Dienst Disney+ inzwischen aufweist, sondern auch die Pläne zu einem werbefinanzierten Tarif und eine Preiserhöhung bekannt gegeben.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Oppo Watch 3 und Watch 3 Pro offiziell vorgestellt]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1123805</id>
+        <link href="https://stadt-bremerhaven.de/oppo-watch-3-und-watch-3-pro-offiziell-vorgestellt/"/>
+        <updated>2022-08-11T09:00:55.000Z</updated>
+        <summary type="html"><![CDATA[Oppo hat, wie erwartet, seine beiden neuen Smartwatches Watch 3 und Watch 3 Pro vorgestellt. Beide nutzen erstmals den Qualcomm Snapdragon W5 Gen 1 als Prozessor. Dem Chip stehen 1 GByte RAM und 32 GByte Speicherplatz zur Seite. Die Oppo...
+Zum Beitrag: Oppo Watch 3 und Watch 3 Pro offiziell vorgestellt
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LattePanda 3 Delta: Bastelplatine mit Intel- und Arduino-CPU verfügbar]]></title>
+        <id>https://www.computerbase.de/2022-08/lattepanda-3-delta-bastelplatine-mit-intel-und-arduino-cpu-verfuegbar/</id>
+        <link href="https://www.computerbase.de/2022-08/lattepanda-3-delta-bastelplatine-mit-intel-und-arduino-cpu-verfuegbar/"/>
+        <updated>2022-08-11T08:57:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/5/7/2-62b3edbe79201a0c/article-640x360.c93d8777.jpg"><p>Der Single-Board-Computer LattePanda 3 Delta mit Intel Celeron N5105 der 11. Generation und einem Arduino Leonardo Co-Prozessor ist nach einer erfolgreichen Crowdfunding-Kampagne nun weltweit verfügbar. Auf 125 × 78 × 16 mm bietet er CPU, RAM, eMMC, M.2-Slot, WLAN, Bluetooth, USB und HDMI.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tower of Fantasy: Konkurrenz zu Genshin Impact startet außerhalb Chinas]]></title>
+        <id>https://www.computerbase.de/2022-08/tower-of-fantasy-konkurrenz-zu-genshin-impact-startet-ausserhalb-chinas/</id>
+        <link href="https://www.computerbase.de/2022-08/tower-of-fantasy-konkurrenz-zu-genshin-impact-startet-ausserhalb-chinas/"/>
+        <updated>2022-08-11T08:16:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/5/6/7-e25b0d9988787bdb/article-640x360.c81ef3c4.jpg"><p>Tower of Fantasy ist seit Ende 2021 auf dem chinesischen Markt verfügbar, doch schlug es sich dort nicht gut gegen das von HoYoverse entwickelte Genshin Impact. Heute ist Tower of Fantasy weltweit veröffentlicht worden und bei über 4,1 Millionen registrierten Interessenten beweist das Spiel, dass es konkurrenzfähig ist.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Maps: Kraftstoffsparende Routen starten in Deutschland]]></title>
+        <id>https://www.computerbase.de/2022-08/google-maps-kraftstoffsparende-routen-starten-in-deutschland/</id>
+        <link href="https://www.computerbase.de/2022-08/google-maps-kraftstoffsparende-routen-starten-in-deutschland/"/>
+        <updated>2022-08-11T08:02:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/5/6/8-2e47a21fe25f91bc/article-640x360.a8f9f286.jpg"><p>Nach dem Rollout in Nordamerika bringt Google die kraftstoffsparenden Routen in Google Maps jetzt auch nach Deutschland. Anwender können in den Einstellungen festlegen, ob alternative Routen mit einem niedrigeren Kraftstoffverbrauch vorgeschlagen werden sollen. Das neue Feature funktioniert auch bei Elektroautos und Hybriden.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CPU-Marktanteile: AMD gewinnt gegenüber Intel weiter an Boden]]></title>
+        <id>https://www.computerbase.de/2022-08/cpu-marktanteile-amd-gewinnt-gegenueber-intel-weiter-an-boden/</id>
+        <link href="https://www.computerbase.de/2022-08/cpu-marktanteile-amd-gewinnt-gegenueber-intel-weiter-an-boden/"/>
+        <updated>2022-08-11T07:19:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/5/7/1-dd1f46939f254acf/article-640x360.8f852449.jpg"><p>Die Quartalsberichte der Unternehmen ließen es bereits erahnen, nun folgte die Bestätigung: AMD knabbert weiter an Intels Marktanteil, gewinnt im kompletten CPU-Markt gegenüber dem vorangegangen Jahr deutlich und steht mittlerweile bei 28,1 Prozent Marktanteil gemessen am Umsatz – ein neuer Rekord für das Unternehmen.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Opinion: Disney+ with Ads pricing disappoints]]></title>
+        <id>https://www.ghacks.net/?p=180179</id>
+        <link href="https://www.ghacks.net/2022/08/11/opinion-disney-with-ads-pricing-disappoints/"/>
+        <updated>2022-08-11T07:17:43.000Z</updated>
+        <summary type="html"><![CDATA[Disney unveiled upcoming price changes to its streaming service Disney+, Hulu, and ESPN this week. The company announced plans to increase the price of a Disney+ subscription by $3 to $10.99 per […]
+Thank you for being a Ghacks reader. The post Opinion: Disney+ with Ads pricing disappoints appeared first on gHacks Technology News.]]></summary>
+        <author>
+            <name>Martin Brinkmann</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[YunoHost 11.0 („Bullseye“): Server-Betriebssystem mit 350 Diensten für Einsteiger]]></title>
+        <id>https://www.computerbase.de/2022-08/yunohost-11-0-bullseye-linux-server/</id>
+        <link href="https://www.computerbase.de/2022-08/yunohost-11-0-bullseye-linux-server/"/>
+        <updated>2022-08-11T06:49:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/5/7/0-f52ac684c5c04e53/article-640x360.6094dede.jpg"><p>YunoHost, ein insbesondere auch an Einsteiger adressiertes Server-Betriebssystem auf Basis von Debian GNU/Linux, bietet rund 350 Dienste für das Self-Hosting auf dem heimischen Computersystem an. Dienste wie Nextcloud, WordPress, GitLab oder Mastodon lassen sich mit nur wenigen Klicks aufsetzen und selbst freigeben.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Printed-OLED-Displays: Hersteller JOLED angeblich kurz vor dem Bankrott]]></title>
+        <id>https://www.computerbase.de/2022-08/printed-oled-displays-hersteller-joled-angeblich-kurz-vor-dem-bankrott/</id>
+        <link href="https://www.computerbase.de/2022-08/printed-oled-displays-hersteller-joled-angeblich-kurz-vor-dem-bankrott/"/>
+        <updated>2022-08-11T04:30:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/5/6/9-181c690cb35b0a91/article-640x360.55a2e683.jpg"><p>Laut Berichten aus Asien steht der japanische Hersteller JOLED kurz vor dem Bankrott. Das von Japan Display, Sony und Panasonic gegründete Unternehmen, das OLED-Panels in einem Druckverfahren (Printed OLED) herstellt, soll mit einer niedrigen Produktionsausbeute kämpfen. Ohne eine neue Finanzspritze drohe das Aus.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Disney+: Ab Dezember gibt es ein werbegestütztes Abo]]></title>
         <id>https://stadt-bremerhaven.de/?p=1123750</id>
@@ -10814,72 +11348,6 @@ Thank you for being a Ghacks reader. The post Ghacks Deals: The 2022 Complete Li
         <updated>2022-07-13T14:56:52.000Z</updated>
         <summary type="html"><![CDATA[Waterfox G4 was updated to G4.1.3.1 last month and brought various fixes. Around the same time, a very important feature in the browser stopped working, the ability to use Firefox Sync. If […]
 Thank you for being a Ghacks reader. The post Waterfox G4.1.3.2 update fixes Firefox Sync sign in issue appeared first on gHacks Technology News.]]></summary>
-        <author>
-            <name>Ashwin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Opinion: if you want peace of mind, run Extended Support editions of browsers]]></title>
-        <id>https://www.ghacks.net/?p=179696</id>
-        <link href="https://www.ghacks.net/2022/07/13/opinion-if-you-want-peace-of-mind-run-extended-support-editions-of-browsers/"/>
-        <updated>2022-07-13T07:05:13.000Z</updated>
-        <summary type="html"><![CDATA[Most web browsers are available in different editions, which can be loosely divided into stable and development groups. Firefox, for example, is offered as Firefox Stable and Firefox ESR, as well as […]
-Thank you for being a Ghacks reader. The post Opinion: if you want peace of mind, run Extended Support editions of browsers appeared first on gHacks Technology News.]]></summary>
-        <author>
-            <name>Martin Brinkmann</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Patches for new Retbleed AMD and Intel microprocessor vulnerability may have significant overhead]]></title>
-        <id>https://www.ghacks.net/?p=179693</id>
-        <link href="https://www.ghacks.net/2022/07/13/patches-for-new-retbleed-amd-and-intel-microprocessor-vulnerability-may-have-significant-overhead/"/>
-        <updated>2022-07-13T04:52:18.000Z</updated>
-        <summary type="html"><![CDATA[Certain microprocessors from Intel and AMD are vulnerable to a new speculative execution attack related to Spectre Variant 2.  Attacks may be used to leak data from kernel memory and mitigations may […]
-Thank you for being a Ghacks reader. The post Patches for new Retbleed AMD and Intel microprocessor vulnerability may have significant overhead appeared first on gHacks Technology News.]]></summary>
-        <author>
-            <name>Martin Brinkmann</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Windows Security Updates July 2022 overview]]></title>
-        <id>https://www.ghacks.net/?p=179688</id>
-        <link href="https://www.ghacks.net/2022/07/12/microsoft-windows-security-updates-july-2022-overview/"/>
-        <updated>2022-07-12T17:54:28.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft released security and non-security updates for all client and server versions of the Windows operating system on the July 2022 Patch Tuesday. The security updates are available already and will be […]
-Thank you for being a Ghacks reader. The post Microsoft Windows Security Updates July 2022 overview appeared first on gHacks Technology News.]]></summary>
-        <author>
-            <name>Martin Brinkmann</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thunderbird 102.0.2 is a big bugfix release]]></title>
-        <id>https://www.ghacks.net/?p=179685</id>
-        <link href="https://www.ghacks.net/2022/07/12/thunderbird-102-0-2-is-a-big-bugfix-release/"/>
-        <updated>2022-07-12T15:25:28.000Z</updated>
-        <summary type="html"><![CDATA[Thunderbird 102.0.2 is the second point update for Thunderbird 102, the new major version of the open source Thunderbird email client. Like Thunderbird 102.0.1, which was released last week, it is fixing […]
-Thank you for being a Ghacks reader. The post Thunderbird 102.0.2 is a big bugfix release appeared first on gHacks Technology News.]]></summary>
-        <author>
-            <name>Martin Brinkmann</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to install macOS Ventura 13 public beta on your MacBook, iMac and Mac Mini]]></title>
-        <id>https://www.ghacks.net/?p=179675</id>
-        <link href="https://www.ghacks.net/2022/07/12/how-to-install-macos-ventura-13-public-beta-on-your-mac/"/>
-        <updated>2022-07-12T14:38:14.000Z</updated>
-        <summary type="html"><![CDATA[Do you want to try macOS Ventura 13 public beta before the stable release comes in September? Well, here's your chance to test the new features. Apple published public betas of iOS […]
-Thank you for being a Ghacks reader. The post How to install macOS Ventura 13 public beta on your MacBook, iMac and Mac Mini appeared first on gHacks Technology News.]]></summary>
-        <author>
-            <name>Ashwin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to install iOS 16 or iPadOS 16 public beta on your iPhone and iPad]]></title>
-        <id>https://www.ghacks.net/?p=179657</id>
-        <link href="https://www.ghacks.net/2022/07/12/how-to-install-ios-16-or-ipados-16-public-beta-on-your-iphone-and-ipad/"/>
-        <updated>2022-07-12T14:20:21.000Z</updated>
-        <summary type="html"><![CDATA[Apple has released the first public beta of iOS 16, iPadOS 16 and macOS Ventura 13 for download. If you can't wait for the stable version of the update to arrive, you […]
-Thank you for being a Ghacks reader. The post How to install iOS 16 or iPadOS 16 public beta on your iPhone and iPad appeared first on gHacks Technology News.]]></summary>
         <author>
             <name>Ashwin</name>
         </author>
