@@ -6,6 +6,206 @@
       "siteUrl": "https://stadt-bremerhaven.de",
       "articles": [
         {
+          "id": "https://stadt-bremerhaven.de/?p=1103643",
+          "author": "caschy",
+          "description": "Office 2021 ist als Einmalkauf für alle zu haben, die ohne Abo lieber Software kaufen, ich selbst finde allerdings das Family-Paket von Microsoft ganz praktisch, wenn man denn die mögliche Nutzerzahl in der Familie ausschöpfen kann und wirklich Office benötigt. Wer es...\nZum Beitrag: Microsoft 365 Family: 12 Monate Office und 1 TB OneDrive-Speicher für 53,99 Euro\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
+          "link": "https://stadt-bremerhaven.de/microsoft-365-family-12-monate-office-und-1-tb-onedrive-speicher-fuer-5099-euro/",
+          "publishedOn": "2022-08-15T19:00:24.000Z",
+          "wordCount": 1808,
+          "title": "Microsoft 365 Family: 12 Monate Office und 1 TB OneDrive-Speicher für 53,99 Euro",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2021/01/office-365.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1124387",
+          "author": "caschy",
+          "description": "Kleiner Hinweis an die Nutzer eines Pixel 6, Pixel 6 Pro oder Pixel 6a. Android 13 ist gerade veröffentlicht worden und steht zum Download für unterstützte Pixel-Geräte bereit. Aber: die derzeit aktuellen Geräte, Pixel 6, Pixel 6 Pro und Pixel...\nZum Beitrag: Android 13: Pixel 6, Pixel 6 Pro und Pixel 6a können nicht mehr auf Android 12\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
+          "link": "https://stadt-bremerhaven.de/android-13-pixel-6-pixel-6-pro-und-pixel-6a-koennen-nicht-mehr-auf-android-12/",
+          "publishedOn": "2022-08-15T18:32:53.000Z",
+          "wordCount": 1854,
+          "title": "Android 13: Pixel 6, Pixel 6 Pro und Pixel 6a können nicht mehr auf Android 12",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/08/android-13_.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1124370",
+          "author": "Benjamin Mamerow",
+          "description": "Wie man bei Signal mitteilt, gab es vor kurzem einen Phishing-Angriff auf das Unternehmen Twilio. Hierbei handelt es sich um den Dienstleister, der Signal die Dienste zur Überprüfung (SMS-Verifizierung) von Telefonnummern zur Verfügung stellt. Nun informiert Signal, dass wohl rund...\nZum Beitrag: Signal: Angriff auf Dienstleister Twilio betrifft rund 1.900 Nutzer des Messengers\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
+          "link": "https://stadt-bremerhaven.de/signal-angriff-auf-dienstleister-twilio-betrifft-rund-1-900-nutzer-des-messengers/",
+          "publishedOn": "2022-08-15T18:05:41.000Z",
+          "wordCount": 2223,
+          "title": "Signal: Angriff auf Dienstleister Twilio betrifft rund 1.900 Nutzer des Messengers",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/07/signal-logo.png"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1124374",
+          "author": "caschy",
+          "description": "OxygenOS 13 Open Beta 2, basierend auf Android 13, wurde für das OnePlus 10 Pro heute durch OnePlus veröffentlicht. Nachdem die erste Beta nur an Nutzer in Indien und Nordamerika rausging, können nun alle Besitzer des Smartphones testen – das...\nZum Beitrag: Android 13: OxygenOS 13 Open Beta 2 für das OnePlus 10 Pro veröffentlicht\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
+          "link": "https://stadt-bremerhaven.de/android-13-oxygenos-13-open-beta-2-fuer-das-oneplus-10-pro-veroeffentlicht/",
+          "publishedOn": "2022-08-15T17:33:37.000Z",
+          "wordCount": 1797,
+          "title": "Android 13: OxygenOS 13 Open Beta 2 für das OnePlus 10 Pro veröffentlicht",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/03/DV7A3846.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1124221",
+          "author": "Olli",
+          "description": "Mit großen Schritten nähern wir uns dem September und damit auch dem Monat, in dem Apple uns höchstwahrscheinlich mit neuer Hardware versorgen wird. Regelmäßig stellt der Konzern aus Cupertino dort die neuen iPhones und Apple Watches vor und wird damit...\nZum Beitrag: iOS und iPadOS 16: Sechste Entwickler-Beta erschienen\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
+          "link": "https://stadt-bremerhaven.de/ios-und-ipados-16-sechste-entwickler-beta-erschienen/",
+          "publishedOn": "2022-08-15T17:09:05.000Z",
+          "wordCount": 1947,
+          "title": "iOS und iPadOS 16: Sechste Entwickler-Beta erschienen",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/06/ios16.jpeg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1124351",
+          "author": "Felix Frank",
+          "description": "Im vergangenen Jahr hat Google die Android-Version 12 erst im Oktober fertiggestellt. Für die hauseigenen Pixel-Geräte war sie im vergangenen Jahr erst einige Wochen später verfügbar. Mit Android 13 ist man da etwas zeitiger dran: Android 13 ist bereits jetzt...\nZum Beitrag: Android 13 ist fertig & für Pixel-Geräte verfügbar: Das sind die Neuerungen\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
+          "link": "https://stadt-bremerhaven.de/android-13-ist-fertig-fuer-pixel-geraete-verfuegbar-das-sind-die-neuerungen/",
+          "publishedOn": "2022-08-15T16:59:49.000Z",
+          "wordCount": 3132,
+          "title": "Android 13 ist fertig & für Pixel-Geräte verfügbar: Das sind die Neuerungen",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/08/android-13_.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1124352",
+          "author": "caschy",
+          "description": "Es wird sicherlich Fans geben, die das Ergebnis der Partnerschaft von EA SPORTS und Marvel Entertainment klasse finden, ich als Freund „klassischer“ Fußballspiele bin da eher nicht so angetan. Aber schaut selbst: Durch die Partnerschaft kann man in EA SPORTS...\nZum Beitrag: EA SPORTS und Marvel Entertainment: Partnerschaft für FIFA 23\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
+          "link": "https://stadt-bremerhaven.de/ea-sports-und-marvel-entertainment-partnerschaft-fuer-fifa-23/",
+          "publishedOn": "2022-08-15T16:00:13.000Z",
+          "wordCount": 1930,
+          "title": "EA SPORTS und Marvel Entertainment: Partnerschaft für FIFA 23",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/08/fifaxmarvel_.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1124341",
+          "author": "André Westphal",
+          "description": "Samsung hatte seinen pompösen Gaming-Monitor mit 55 Zoll Diagonale und 1000R-Krümmung, den Odyysey Ark, bereits im Januar 2022 auf der CES vorgestellt. Es handelt sich hier um ein LC-Display mit Mini-LED-Hintergrundbeleuchtung, 165 Hz Bildwiederholrate, VA-Panel und einer Reaktionszeit von 1...\nZum Beitrag: Samsung Odyssey Ark: Mini-LED-Monitor mit 55 Zoll, 165 Hz und Curved-Design\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
+          "link": "https://stadt-bremerhaven.de/samsung-odyssey-ark-mini-led-monitor-mit-55-zoll-165-hz-und-curved-design/",
+          "publishedOn": "2022-08-15T15:30:09.000Z",
+          "wordCount": 2221,
+          "title": "Samsung Odyssey Ark: Mini-LED-Monitor mit 55 Zoll, 165 Hz und Curved-Design",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/08/Samsung-Odyssey-Ark.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1124335",
+          "author": "André Westphal",
+          "description": "Am 9. November 2022 erscheint der Titel „God of War Ragnarök“ für die PlayStation 4 und PlayStation 5. Wer den Vorgänger nicht gespielt hat: Ich kann nur empfehlen das nachzuholen, mir hat er super gefallen. Wer dazu aber keine Lust ...\nZum Beitrag: „God of War Ragnarök“: Sony rekapituliert die Story des Vorgängers\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
+          "link": "https://stadt-bremerhaven.de/god-of-war-ragnaroek-sony-rekapituliert-die-story-des-vorgaengers/",
+          "publishedOn": "2022-08-15T15:00:08.000Z",
+          "wordCount": 1857,
+          "title": "„God of War Ragnarök“: Sony rekapituliert die Story des Vorgängers",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/08/God-of-War-2022.webp"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1124329",
+          "author": "caschy",
+          "description": "Bislang ist man bei Thunderbird zweigleisig unterwegs gewesen. So gibt’s die Version 91.x und bereits 102.x. Wer damals manuell auf die 102er-Version aktualisiert hat, der muss nun nichts machen. Wer allerdings noch mit der 91.12.0 unterwegs ist, der kann jetzt...\nZum Beitrag: Thunderbird: Internes Upgrade auf Version 102 freigegeben\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
+          "link": "https://stadt-bremerhaven.de/thunderbird-internes-upgrade-auf-version-102-freigegeben/",
+          "publishedOn": "2022-08-15T14:30:32.000Z",
+          "wordCount": 1991,
+          "title": "Thunderbird: Internes Upgrade auf Version 102 freigegeben",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2020/01/thunderbird.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1124324",
+          "author": "André Westphal",
+          "description": "Bei Amazon Japan wird ein neues Spiel zu „Avatar: Der Herr der Elemente“ gelistet. Es trägt den Titel „Avatar The Last Airbender: Quest for Balance“ und wird als Import aus Nordamerika feilgeboten, der für die PlayStation 4 erscheinen soll. Als...\nZum Beitrag: „Avatar: Der Herr der Elemente“: Neues Spiel taucht auf\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
+          "link": "https://stadt-bremerhaven.de/avatar-der-herr-der-elemente-neues-spiel-taucht-auf/",
+          "publishedOn": "2022-08-15T14:00:24.000Z",
+          "wordCount": 2058,
+          "title": "„Avatar: Der Herr der Elemente“: Neues Spiel taucht auf",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2020/08/Avatar.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1124312",
+          "author": "André Westphal",
+          "description": "Poco hatte das M4 5G in Indien bereits im April 2022 auf den Markt gebracht. Wie der Hersteller via Twitter mitgeteilt hat, erscheint genau jenes Smartphone aber auch international. Während der Name identisch bleibt, wandeln sich einige technische Daten. So...\nZum Beitrag: Poco M4 5G für den internationalen Markt angekündigt\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
+          "link": "https://stadt-bremerhaven.de/poco-m4-5g-fuer-den-internationalen-markt-angekuendigt/",
+          "publishedOn": "2022-08-15T13:30:56.000Z",
+          "wordCount": 2047,
+          "title": "Poco M4 5G für den internationalen Markt angekündigt",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/08/Poco-M4-5G-1.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1124318",
+          "author": "caschy",
+          "description": "Für den flächendeckenden Breitbandausbau sollen im nächsten Jahr deutlich mehr Investitionen veranschlagt werden als in diesem Jahr. Der Ansatz in Einzelplan des Bundesministeriums für Digitales und Verkehr soll aufgrund steigenden Bedarfs von 76,35 Millionen Euro in diesem Jahr auf 732,05...\nZum Beitrag: BMDV: Mehr Mittel für den Breitbandausbau\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
+          "link": "https://stadt-bremerhaven.de/bmdv-mehr-mittel-fuer-den-breitbandausbau/",
+          "publishedOn": "2022-08-15T13:07:26.000Z",
+          "wordCount": 2284,
+          "title": "BMDV: Mehr Mittel für den Breitbandausbau",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2018/07/Server-Daten.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1124313",
+          "author": "caschy",
+          "description": "Freenet hat eine neue Aktion gestartet. 30 GB Datenvolumen gibt’s da monatlich im Vodafone-LTE-Netz. Nebst Allnet Flat kostet das Ganze 12,99 Euro im Monat. Bei Freenet bekommt man bis zu 50 Mbit/s im Download. Weitere Eckdaten? Flat für Telefonie und SMS,...\nZum Beitrag: Vodafone-Netz: 30 GB Allnet Flat für 12,99 Euro im Monat\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
+          "link": "https://stadt-bremerhaven.de/vodafone-netz-30-gb-allnet-flat-fuer-1299-euro-im-monat/",
+          "publishedOn": "2022-08-15T13:00:28.000Z",
+          "wordCount": 1769,
+          "title": "Vodafone-Netz: 30 GB Allnet Flat für 12,99 Euro im Monat",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/08/freenet-30GB-VDF-Aktion-1000x563_.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1124292",
+          "author": "André Westphal",
+          "description": "„SpongeBob Square Pants: The Cosmic Shake“ wird ein neuer Plattformer, welcher für den PC, die PlayStation 4, Xbox One und die Nintendo Switch erscheinen soll. Die Entwickler sind Purple Lamp Studios, als Publisher fungiert THQ Nordic. Leider hat das Spiel...\nZum Beitrag: „SpongeBob SquarePants: The Cosmic Shake“: Neuer Trailer sorgt für Stimmung\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
+          "link": "https://stadt-bremerhaven.de/spongebob-squarepants-the-cosmic-shake-neuer-trailer-sorgt-fuer-stimmung/",
+          "publishedOn": "2022-08-15T12:00:41.000Z",
+          "wordCount": 1862,
+          "title": "„SpongeBob SquarePants: The Cosmic Shake“: Neuer Trailer sorgt für Stimmung",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2021/09/SpongeBob_cosmic_shake_cb09.webp"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1124286",
+          "author": "André Westphal",
+          "description": "Es ist kein Geheimnis, dass sich die PlayStation 4 deutlich besser verkauft hat als die Xbox One. Microsoft versemmelte den Launch grandios: Vorab kündigte man einen Online-Zwang, Kontenbindungen für alle Spiele (auch Discs) und einen Fokus auf Multimedia und Kinect...\nZum Beitrag: Xbox One: Nur etwa halb so oft verkauft wie die PlayStation 4\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
+          "link": "https://stadt-bremerhaven.de/xbox-one-nur-etwa-halb-so-oft-verkauft-wie-die-playstation-4/",
+          "publishedOn": "2022-08-15T11:30:07.000Z",
+          "wordCount": 3184,
+          "title": "Xbox One: Nur etwa halb so oft verkauft wie die PlayStation 4",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2019/12/Xbox-One-Top-5-2019.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1124284",
+          "author": "caschy",
+          "description": "Die Anthology-Serie Love, Death & Robots hat viele Fans gefunden. Die Serie besteht aus einzelnen Kurzgeschichten, die allesamt unterschiedlich animiert wurden. 35 Episoden gibt es bislang in den drei veröffentlichten Staffeln, in jeder gibt’s irgendwie auch Comedy, Horror, Science Fiction...\nZum Beitrag: Love, Death & Robots: Staffel 4 bestätigt\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
+          "link": "https://stadt-bremerhaven.de/love-death-robots-staffel-4-bestaetigt/",
+          "publishedOn": "2022-08-15T11:00:15.000Z",
+          "wordCount": 1932,
+          "title": "Love, Death & Robots: Staffel 4 bestätigt",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/08/Love-Death-Robots_.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1124269",
+          "author": "André Westphal",
+          "description": "Das kommende Smartphone Huawei Mate 50 wird laut aktuellen Geürchten noch den Qualcomm Snapdragon 888 4G aus dem Vorjahr als SoC verwenden. Der neue, noch unangekündigte Kirin 9000S solle dem Mate 50 Pro vorbehalten bleiben. Die offizielle Vorstellung der Reihe...\nZum Beitrag: Huawei Mate 50 setzt wohl auf den Qualcomm Snapdragon 888 4G\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
+          "link": "https://stadt-bremerhaven.de/huawei-mate-50-setzt-wohl-auf-den-qualcomm-snapdragon-888-4g/",
+          "publishedOn": "2022-08-15T10:30:32.000Z",
+          "wordCount": 1962,
+          "title": "Huawei Mate 50 setzt wohl auf den Qualcomm Snapdragon 888 4G",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2020/10/Huawei-Mate-40-Pro-1-2.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1124278",
+          "author": "André Westphal",
+          "description": "Solltet ihr zum Launch von den Preisen abgeschreckt gewesen sein, dann gibt es jetzt die wohl bisher beste Chance die beiden First-Party-Titel „Horizon Forbidden West“ sowie „Gran Turismo 7“ zu ergattern. Media Markt und Saturn bieten die beiden Games für...\nZum Beitrag: „Horizon Forbidden West“ und „Gran Turismo 7“ für 24,99 Euro bei Media Markt und Saturn\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
+          "link": "https://stadt-bremerhaven.de/horizon-forbidden-west-und-gran-turismo-7-fuer-2499-euro-bei-media-markt-und-saturn/",
+          "publishedOn": "2022-08-15T10:00:16.000Z",
+          "wordCount": 1873,
+          "title": "„Horizon Forbidden West“ und „Gran Turismo 7“ für 24,99 Euro bei Media Markt und Saturn",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/01/Horizon-Forbidden-West-Gold.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1124262",
+          "author": "André Westphal",
+          "description": "Die EISA Awards 2022-2023 sind vergeben worden. EISA steht für die Expert Imaging and Sound Association. Ihr gehören über 60 Tech-Magazine, -Websites und weiter Influencer aus 29 Ländern an. Wie ernst man die Preise nehmen kann, ist allerdings schwer zu...\nZum Beitrag: Die EISA Awards 2022-2023 stehen fest\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
+          "link": "https://stadt-bremerhaven.de/die-eisa-awards-2022-2023-stehen-fest/",
+          "publishedOn": "2022-08-15T09:30:06.000Z",
+          "wordCount": 1967,
+          "title": "Die EISA Awards 2022-2023 stehen fest",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/04/Sony-Bravia-XR-A95K.jpg"
+        },
+        {
           "id": "https://stadt-bremerhaven.de/?p=1123053",
           "author": "Gastautor",
           "description": "Mini-PCs haben ihre Nische gefunden: Ob als platzsparende Office Lösung für Unternehmen oder als Medien-Player im Wohnzimmer, die Einsatzmöglichkeiten sind dank des Formfaktors schier grenzenlos. Auch in Arztpraxen finden sich immer wieder diese handlichen Würfel, auf denen beispielsweise die Patientensoftware...\nZum Beitrag: Beelink U59 Pro: Mini-PC im Test\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
@@ -4998,6 +5198,126 @@
       "siteUrl": "https://www.computerbase.de/",
       "articles": [
         {
+          "id": "https://www.computerbase.de/2022-08/android-13-google-gibt-finale-version-fuer-pixel-smartphones-frei/",
+          "author": null,
+          "description": "<img src=\"https://pics.computerbase.de/1/0/4/6/1/3-3df3bf239f6f3199/article-640x360.4a02d7df.jpg\"><p>Nach zwei Developer Previews und vier Beta-Versionen hat Google soeben die finale Version von Android 13 zum Download für Pixel-Smartphones freigegeben. Das Update auf Android 13 erhalten alle Besitzer ab dem Pixel 4 und neuer. Android 13 legt in Bereichen wie Material You, Datenschutz und Audio sowie auf großen Displays nach.</p>",
+          "link": "https://www.computerbase.de/2022-08/android-13-google-gibt-finale-version-fuer-pixel-smartphones-frei/",
+          "publishedOn": "2022-08-15T17:00:00.000Z",
+          "wordCount": 1647,
+          "title": "Android 13: Google gibt finale Version für Pixel-Smartphones frei",
+          "imageUrl": "https://pics.computerbase.de/1/0/4/6/1/3-3df3bf239f6f3199/article-1280x720.4a02d7df.jpg"
+        },
+        {
+          "id": "https://www.computerbase.de/2022-08/samsung-odyssey-ark-55-curved-gaming-monitor-mit-mini-leds-fuer-3-400-euro/",
+          "author": null,
+          "description": "<img src=\"https://pics.computerbase.de/1/0/4/6/2/6-47465b8fe3cc5e55/article-640x360.b99f3050.jpg\"><p>Auf der CES sorgte er für Aufsehen, in Kürze kommt er auf den Markt: Samsungs Curved-Monitor Odyssey Ark mit 55 Zoll Diagonale. Er kombiniert TV-Größe und -Format mit einer starken Krümmung, 4K UHD, 165 Hz und Mini-LED-Backlight.</p>",
+          "link": "https://www.computerbase.de/2022-08/samsung-odyssey-ark-55-curved-gaming-monitor-mit-mini-leds-fuer-3-400-euro/",
+          "publishedOn": "2022-08-15T16:30:00.000Z",
+          "wordCount": 1076,
+          "title": "Samsung Odyssey Ark: 55\"-Curved-Gaming-Monitor mit Mini-LEDs für 3.400 Euro (Update)",
+          "imageUrl": "https://pics.computerbase.de/1/0/4/6/2/6-47465b8fe3cc5e55/article-1280x720.b99f3050.jpg"
+        },
+        {
+          "id": "https://www.computerbase.de/2022-08/msi-meg-ai1000p-und-ai1300p-atx-3-0-netzteile-mit-12vhpwr-und-bis-zu-2-600-w/",
+          "author": null,
+          "description": "<img src=\"https://pics.computerbase.de/1/0/4/5/8/0-c018e0e95fdd67f2/article-640x360.e65244ce.jpg\"><p>Frühere Leaks hatten es bereits vermuten lassen: MSI hat als erster Hersteller Netzteile nach neuer ATX-3.0-Spezifikation vorgestellt. Beide verfügen über einen der neuen 12VHPWR-Anschlüsse mit 12+4 Pin nach PCIe 5.0 für bis zu 600 Watt, kurzfristig können bis zu 2.600 Watt an das System geliefert werden.</p>",
+          "link": "https://www.computerbase.de/2022-08/msi-meg-ai1000p-und-ai1300p-atx-3-0-netzteile-mit-12vhpwr-und-bis-zu-2-600-w/",
+          "publishedOn": "2022-08-15T13:30:00.000Z",
+          "wordCount": 1565,
+          "title": "MSI MEG Ai1000P & Ai1300P: ATX-3.0-Netzteile mit 12VHPWR und bis zu 2.600 W",
+          "imageUrl": "https://pics.computerbase.de/1/0/4/5/8/0-c018e0e95fdd67f2/article-1280x720.e65244ce.jpg"
+        },
+        {
+          "id": "https://www.computerbase.de/2022-08/files-2-3-7-dateimanager-windows-11-10/",
+          "author": null,
+          "description": "<img src=\"https://pics.computerbase.de/1/0/4/6/2/1-fefc3d61858637d9/article-640x360.69e5dfaf.jpg\"><p>Files ist ein freier Dateimanager, der im Fluent Design von Windows 11 daherkommt und viele nützliche Features bietet. In der neuesten Version 2.3.7 erhält die als UWP-App ausgelegte Open-Source-Anwendung eine Produktpflege, die für abermals mehr Übersichtlichkeit und Kontrolle beim Dateimanagement sorgen soll.</p>",
+          "link": "https://www.computerbase.de/2022-08/files-2-3-7-dateimanager-windows-11-10/",
+          "publishedOn": "2022-08-15T12:15:00.000Z",
+          "wordCount": 1056,
+          "title": "Files 2.3.7: Dateimanager für Windows 10 und 11 weiter optimiert",
+          "imageUrl": "https://pics.computerbase.de/1/0/4/6/2/1-fefc3d61858637d9/article-1280x720.69e5dfaf.jpg"
+        },
+        {
+          "id": "https://www.computerbase.de/2022-08/zentimings-1-26-ddr5-rembrandt-support/",
+          "author": null,
+          "description": "<img src=\"https://pics.computerbase.de/1/0/4/6/1/8-fb53c048d38a0bd1/article-640x360.06062953.jpg\"><p>Das gemeinsam mit der „AMD Ryzen – RAM OC Community“ erprobte Monitoring-Tool ZenTimings v1.2.3 von „infraredbg“ kann neben primären, sekundären und tertiären Speichertimings auch Widerstände sowie den FCLK, MCLK und UCLK auslesen und unterstützt jetzt auch APUs der Serie AMD Rembrandt mit Zen 3+ sowie DDR5.</p>",
+          "link": "https://www.computerbase.de/2022-08/zentimings-1-26-ddr5-rembrandt-support/",
+          "publishedOn": "2022-08-15T11:31:00.000Z",
+          "wordCount": 942,
+          "title": "ZenTimings 1.26: RAM-Werkzeug erhält Support für DDR5 und Rembrandt-APUs",
+          "imageUrl": "https://pics.computerbase.de/1/0/4/6/1/8-fb53c048d38a0bd1/article-1280x720.06062953.jpg"
+        },
+        {
+          "id": "https://www.computerbase.de/2022-08/kde-frameworks-5-97-0-release/",
+          "author": null,
+          "description": "<img src=\"https://pics.computerbase.de/1/0/4/6/1/2-030d899c07a0ba51/article-640x360.ddbff452.jpg\"><p>Die Entwickler der vom KDE e.V. unterstützten KDE-Community haben die neuesten hauseigenen Open-Source-Bibliotheken und -APIs KDE Frameworks 5.97 mit zahlreichen Neuerungen und Optimierungen für KDE Plasma freigegeben. Die digitale Brieftasche KWallet für die Kennwortverwaltung und Windows-DLLs stehen dabei im Fokus.</p>",
+          "link": "https://www.computerbase.de/2022-08/kde-frameworks-5-97-0-release/",
+          "publishedOn": "2022-08-15T10:26:00.000Z",
+          "wordCount": 917,
+          "title": "Open-Source-Bibliotheken: KDE Frameworks 5.97 bieten zahlreiche Neuerungen",
+          "imageUrl": "https://pics.computerbase.de/1/0/4/6/1/2-030d899c07a0ba51/article-1280x720.ddbff452.jpg"
+        },
+        {
+          "id": "https://www.computerbase.de/2022-08/intel-arc-directx-9-wird-nur-noch-ueber-umwege-unterstuetzt/",
+          "author": null,
+          "description": "<img src=\"https://pics.computerbase.de/1/0/4/6/1/1-bcad20b78d9902de/article-640x360.aaa46920.jpg\"><p>Laut eines kürzlich entdeckten Eintrags auf den Support-Seiten von Intel besitzen die Grafikkarten der Arc-Serie keine native Unterstützung für DirectX 9 mehr. Darauf basierende Anwendungen können aber über die Schnittstelle D3D9On12 ausgeführt werden. Ein populäres Beispiel für ein DX9-Spiel ist der Shooter CS:GO.</p>",
+          "link": "https://www.computerbase.de/2022-08/intel-arc-directx-9-wird-nur-noch-ueber-umwege-unterstuetzt/",
+          "publishedOn": "2022-08-15T10:00:00.000Z",
+          "wordCount": 1103,
+          "title": "Intel Arc: DirectX 9 wird nur noch über Umwege unterstützt (Update)",
+          "imageUrl": "https://pics.computerbase.de/1/0/4/6/1/1-bcad20b78d9902de/article-1280x720.aaa46920.jpg"
+        },
+        {
+          "id": "https://www.computerbase.de/2022-08/neat-bumblebee-ii-test/",
+          "author": null,
+          "description": "<img src=\"https://pics.computerbase.de/1/0/4/5/5/8-6e1ee79bf7b3795e/article-640x360.41d11116.jpg\"><p>Mit dem Bumblebee II will Neat vor allem Einsteiger in den Bereich der Podcasts oder Video-Streams für sich gewinnen. Wie für das Unternehmen üblich, wird dabei auf jedweden unnötigen Ballast verzichtet und sich nur auf das Wesentliche konzentriert. Würden doch alle Hersteller nach dieser Prämisse verfahren.</p>",
+          "link": "https://www.computerbase.de/2022-08/neat-bumblebee-ii-test/",
+          "publishedOn": "2022-08-15T10:00:00.000Z",
+          "wordCount": 3736,
+          "title": "Neat Bumblebee II im Test: Solides Einsteiger-Mikrofon für 100 Euro UVP",
+          "imageUrl": "https://pics.computerbase.de/1/0/4/5/5/8-6e1ee79bf7b3795e/article-1280x720.41d11116.jpg"
+        },
+        {
+          "id": "https://www.computerbase.de/2022-08/werbung-apple-soll-mehr-anzeigen-in-eigenen-diensten-planen/",
+          "author": null,
+          "description": "<img src=\"https://pics.computerbase.de/1/0/4/6/1/4-10848d4a74737731/article-640x360.b8143708.jpg\"><p>Werbung könnte künftig in deutlich mehr Anwendungen von Apple als bislang angezeigt werden. Das pro Jahr rund 4 Milliarden US-Dollar schwere Geschäft mit Werbung soll in den zweistelligen Bereich gebracht werden, berichtet Bloomberg. Dafür plane Apple Werbung in Anwendungen wie Maps, Books und Podcasts sowie neue TV+-Abos.</p>",
+          "link": "https://www.computerbase.de/2022-08/werbung-apple-soll-mehr-anzeigen-in-eigenen-diensten-planen/",
+          "publishedOn": "2022-08-15T09:42:00.000Z",
+          "wordCount": 1007,
+          "title": "Werbung: Apple soll mehr Anzeigen in eigenen Diensten planen",
+          "imageUrl": "https://pics.computerbase.de/1/0/4/6/1/4-10848d4a74737731/article-1280x720.b8143708.jpg"
+        },
+        {
+          "id": "https://www.computerbase.de/2022-08/linux-kernel-6-0-release-candidate-1/",
+          "author": null,
+          "description": "<img src=\"https://pics.computerbase.de/1/0/4/6/1/0-f5c6af20b6bf43db/article-640x360.467c3410.jpg\"><p>Initiator und Chef-Entwickler Linus Torvalds hat den ersten Release Candidate für den kommenden Systemkernel Linux 6.0 freigegeben. In den nächsten Betriebssystemkern fließen insbesondere zahlreiche Optimierungen und Treiberpakete für AMD-GPUs mit ein. Der Release Candidate 1 (RC-1) bietet insgesamt mehr als 13.000 Änderungen.</p>",
+          "link": "https://www.computerbase.de/2022-08/linux-kernel-6-0-release-candidate-1/",
+          "publishedOn": "2022-08-15T09:01:00.000Z",
+          "wordCount": 1104,
+          "title": "Release Candidate: Linus Torvalds hat den neuen Linux-Kernel 6.0 freigegeben (Update)",
+          "imageUrl": "https://pics.computerbase.de/1/0/4/6/1/0-f5c6af20b6bf43db/article-1280x720.467c3410.jpg"
+        },
+        {
+          "id": "https://www.computerbase.de/2022-08/advanced-packaging-milliardeninvestition-von-sk-hynix-in-den-usa-geplant/",
+          "author": null,
+          "description": "<img src=\"https://pics.computerbase.de/1/0/4/6/0/9-275fd2981273348d/article-640x360.efa61888.jpg\"><p>Als Teil eines 22-Milliarden-US-Dollar-Investments in den USA will die SK Group auch SK Hynix für die Zukunft fit machen. In eine Anlage für Advanced Packaging sollen in den Vereinigten Staaten mehrere Milliarden fließen, Baubeginn soll bereits zu Beginn des Jahres 2023 sein.</p>",
+          "link": "https://www.computerbase.de/2022-08/advanced-packaging-milliardeninvestition-von-sk-hynix-in-den-usa-geplant/",
+          "publishedOn": "2022-08-15T07:09:00.000Z",
+          "wordCount": 860,
+          "title": "Advanced Packaging: Milliardeninvestition von SK Hynix in den USA geplant",
+          "imageUrl": "https://pics.computerbase.de/1/0/4/6/0/9-275fd2981273348d/article-1280x720.efa61888.jpg"
+        },
+        {
+          "id": "https://www.computerbase.de/2022-08/amd-ryzen-7000-mainboards-msi/",
+          "author": null,
+          "description": "<img src=\"https://pics.computerbase.de/1/0/4/6/0/6-3926a5a492f5cf7b/article-640x360.ef179ae2.jpg\"><p>Die ersten zwei AM5-Mainboards mit X670- und X670E-Chipsatz, das MSI MPG X670E Carbon WiFi, der Kronprinz des AM5-Portfolios des Herstellers, sowie das bislang am niedrigsten positionierte Modell Pro X670-P WiFi, können bereits jetzt zu frühen Preisen von 375 bis 640 Euro bei drei italienischen Einzelhändlern vorbestellt werden.</p>",
+          "link": "https://www.computerbase.de/2022-08/amd-ryzen-7000-mainboards-msi/",
+          "publishedOn": "2022-08-15T04:46:00.000Z",
+          "wordCount": 985,
+          "title": "Mainboards für AMD Ryzen 7000: Erste X670(E)-Platinen sind für 375 bis 640 Euro im Vorverkauf",
+          "imageUrl": "https://pics.computerbase.de/1/0/4/6/0/6-3926a5a492f5cf7b/article-1280x720.ef179ae2.jpg"
+        },
+        {
           "id": "https://www.computerbase.de/2022-08/intel-arc-a770-a750-gewinnspiel/",
           "author": null,
           "description": "<img src=\"https://pics.computerbase.de/1/0/4/6/0/5-cc8da42bed9f5753/article-640x360.989b8fee.jpg\"><p>Im Rahmen eines Gewinnspiels, dem „Xe HPG Scavenger Hunt“, hatte Intel den Gewinnern die beiden Spitzenmodelle Arch A770 und A750 auf Basis der ACM-G10-GPU versprochen, doch die insgesamt 300 Preisträger warten noch immer vergeblich auf ihren Gewinn und können sich jetzt alternativ für eine CPU entscheiden.</p>",
@@ -7816,96 +8136,6 @@
           "wordCount": 1150,
           "title": "Cyberpunk-Katzenspiel: Stray erscheint mit viel Vorfreude in zwei Tagen",
           "imageUrl": "https://pics.computerbase.de/1/0/4/2/7/9-d0a08da08fd2d4d0/article-1280x720.82347511.jpg"
-        },
-        {
-          "id": "https://www.computerbase.de/2022-07/soulframe-mmorpg-ist-von-prinzessin-mononoke-inspiriert/",
-          "author": null,
-          "description": "<img src=\"https://pics.computerbase.de/1/0/4/2/7/8-f091a1a1debfaf57/article-640x360.1c5474e3.jpg\"><p>Mit Soulframe stellt Warframe-Entwickler Digital Extremes ein neues Fantasy-MMORPG vor, das von Prinzessin Mononoke und der unendlichen Geschichte inspiriert sein soll. Der Free-to-Play-Titel übernimmt viel von Warframe, rückt in einer offenen Welt allerdings die wechselseitige Beziehung von Mensch und Natur in den Fokus.</p>",
-          "link": "https://www.computerbase.de/2022-07/soulframe-mmorpg-ist-von-prinzessin-mononoke-inspiriert/",
-          "publishedOn": "2022-07-17T14:13:00.000Z",
-          "wordCount": null,
-          "title": "Soulframe: MMORPG ist von Prinzessin Mononoke inspiriert",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.computerbase.de/2022-07/dinkum-outback-ist-vorlage-fuer-animal-crossing-spiel/",
-          "author": null,
-          "description": "<img src=\"https://pics.computerbase.de/1/0/4/2/7/6-2ad321670011694f/article-640x360.5c722114.jpg\"><p>Ressourcen abbauen, Werkzeuge kaufen, Beziehungen knüpfen, eine Farm oder Stadt aufbauen: Das klingt nach Animal Crossing oder Stardew Valley, ist aber Dinkum und spielt in einer Welt, die sich an das australische Outback anlehnt. Damit hat das Spiel aus dem Stand heraus Erfolg.</p>",
-          "link": "https://www.computerbase.de/2022-07/dinkum-outback-ist-vorlage-fuer-animal-crossing-spiel/",
-          "publishedOn": "2022-07-17T12:16:00.000Z",
-          "wordCount": null,
-          "title": "Dinkum: Outback ist Vorlage für „Animal Crossing“-Spiel",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.computerbase.de/2022-07/esports-dota-lol-csgo-fifa/",
-          "author": null,
-          "description": "<img src=\"https://pics.computerbase.de/1/0/4/2/7/7-3edef704e2e42f9b/article-640x360.48da2f2a.jpg\"><p>Spiele wie Dota 2, Fortnite, PUBG, League of Legends, Counter-Strike: Global Offensive und Fifa sind bekannte Größen im Bereich eSports und begeistern ein riesiges Publikum. Doch interessiert euch die Berichterstattung über kompetitive Spiele überhaupt und wenn ja, welche Titel stoßen dabei ganz besonders auf euer Interesse?</p>",
-          "link": "https://www.computerbase.de/2022-07/esports-dota-lol-csgo-fifa/",
-          "publishedOn": "2022-07-17T12:00:00.000Z",
-          "wordCount": 1418,
-          "title": "Dota 2, LoL, CS:GO & Fifa: Interessiert ihr euch für professionellen eSport?",
-          "imageUrl": "https://pics.computerbase.de/1/0/4/2/7/7-3edef704e2e42f9b/article-1280x720.48da2f2a.jpg"
-        },
-        {
-          "id": "https://www.computerbase.de/2022-07/fall-guys-bug-fuehrt-zu-versehentlichen-kaeufen-im-ingame-shop/",
-          "author": null,
-          "description": "<img src=\"https://pics.computerbase.de/1/0/4/2/7/4-0c7ec97e581bf3b7/article-640x360.4d16a113.jpg\"><p>Nach dem Wechsel auf ein Free-to-Play-Geschäftsmodell leidet Fall Guys unter einem kuriosen Bug. Durch eine Reihe von Fehlern im Shop kaufen Spieler unbeabsichtigt Gegenstände. Das Problem wurde von den Entwicklern bestätigt, an einer Lösung wird gearbeitet. Bis dahin wird eine Rückabwicklung von Käufen angeboten.</p>",
-          "link": "https://www.computerbase.de/2022-07/fall-guys-bug-fuehrt-zu-versehentlichen-kaeufen-im-ingame-shop/",
-          "publishedOn": "2022-07-17T10:45:00.000Z",
-          "wordCount": 892,
-          "title": "Fall Guys: Bug führt zu versehentlichen Käufen im Ingame-Shop",
-          "imageUrl": "https://pics.computerbase.de/1/0/4/2/7/4-0c7ec97e581bf3b7/article-1280x720.4d16a113.jpg"
-        },
-        {
-          "id": "https://www.computerbase.de/2022-07/intel-arc-a770-a750-a580-a380-a310-preise/",
-          "author": null,
-          "description": "<img src=\"https://pics.computerbase.de/1/0/4/2/7/5-2f10feed0c4a735c/article-640x360.3e1fa683.jpg\"><p>Intels diskrete Arc-Grafikkarten A770, A750, A580, A380 und A310 für den Desktop sollen zu Preisen von 99 bis 399 US-Dollar in den Handel kommen und mit AMD Radeon und Nvidia GeForce konkurrieren. Die erste Arc-Generation („Alchemist“) soll aber maximal auf Augenhöhe mit der Radeon RX 6650 XT und GeForce RTX 3060 Ti liegen.</p>",
-          "link": "https://www.computerbase.de/2022-07/intel-arc-a770-a750-a580-a380-a310-preise/",
-          "publishedOn": "2022-07-17T09:51:00.000Z",
-          "wordCount": null,
-          "title": "A770, A750, A580, A380 und A310: Intel Arc A-Serie soll 99 bis 399 US-Dollar kosten (Update)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.computerbase.de/2022-07/wochenrueckblick-und-ausblick-2022-w28/",
-          "author": null,
-          "description": "<img src=\"https://pics.computerbase.de/1/0/4/2/5/9-112eb8e299f1dd76/article-640x360.a3f89d13.jpg\"><p>Im wöchentlichen Rückblick auf die vergangenen sieben Tage steht heute die 28. Woche 2022 im Fokus. Es sind 60 News/Notizen und 9 Tests/Berichte erschienen. Dabei übernehmen interessante Themen die Spitzenplätze, auch einmal direkt in doppelter Form.</p>",
-          "link": "https://www.computerbase.de/2022-07/wochenrueckblick-und-ausblick-2022-w28/",
-          "publishedOn": "2022-07-17T06:00:00.000Z",
-          "wordCount": 1159,
-          "title": "Wochenrück- und Ausblick: Nackte Tatsachen und ein Hype im Doppelpack",
-          "imageUrl": "https://pics.computerbase.de/1/0/4/2/5/9-112eb8e299f1dd76/article-1280x720.a3f89d13.jpg"
-        },
-        {
-          "id": "https://www.computerbase.de/2022-07/in-win-a3-und-a5-kompakte-gehaeuse-fuehren-luft-von-unten-nach-oben/",
-          "author": null,
-          "description": "<img src=\"https://pics.computerbase.de/1/0/4/2/7/3-99700a366d62a9f2/article-640x360.89a5e7bf.jpg\"><p>In Win möchte mit der A-Serie kompakte und minimalistische Gehäuse bauen. A3 und A5 setzen das Vorhaben für das Micro-ATX- und E-ATX-Format um. Da knapper Platz und eine hohe Anzahl von Lüftern weniger kompatibel sind, wird Luft wie bei vielen In-Win-Gehäusen von unten nach oben geführt.</p>",
-          "link": "https://www.computerbase.de/2022-07/in-win-a3-und-a5-kompakte-gehaeuse-fuehren-luft-von-unten-nach-oben/",
-          "publishedOn": "2022-07-16T19:33:00.000Z",
-          "wordCount": 1512,
-          "title": "In Win A3 & A5: Kompakte Gehäuse führen Luft von unten nach oben",
-          "imageUrl": "https://pics.computerbase.de/1/0/4/2/7/3-99700a366d62a9f2/article-1280x720.89a5e7bf.jpg"
-        },
-        {
-          "id": "https://www.computerbase.de/2022-07/tuxedo-aquaris-notebook-water-cooling/",
-          "author": null,
-          "description": "<img src=\"https://pics.computerbase.de/1/0/4/2/7/0-39f63d1e32c7310b/article-640x360.ad899fe4.jpg\"><p>Die Tuxedo Aquaris ist eine externe Wasserkühlung für die Notebooks des Augsburger Linux- und System-Distributors Tuxedo Computers GmbH und ein Double der XMG Oasis, welche im Rahmen der CES 2022 mit dem Gaming-Notebook XMG Neo 15 (Test) erstmals in Erscheinung trat und nun auch einen angepassten Treiber für Linux erhalten hat.</p>",
-          "link": "https://www.computerbase.de/2022-07/tuxedo-aquaris-notebook-water-cooling/",
-          "publishedOn": "2022-07-16T15:41:00.000Z",
-          "wordCount": null,
-          "title": "Notebook-Wasserkühlung: Die Tuxedo Aquaris ist ein Linux-Double der XMG Oasis",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.computerbase.de/2022-07/nvidia-geforce-rtx-4090-aida64/",
-          "author": null,
-          "description": "<img src=\"https://pics.computerbase.de/1/0/4/2/7/1-c38bfa7d00ca955e/article-640x360.6c7eba6e.jpg\"><p>Die Nvidia GeForce RTX 4090, das kommende Spitzenmodell mit AD102-300-GPU und 16.384 Shadereinheiten, soll laut der Gerüchteküche den Anfang machen und als erste Grafikkarte der Ada-Generation erscheinen. Das Systemtool AIDA64 von FinalWire liefert jetzt weitere Anhaltspunkte, die diese Annahme untermauern.</p>",
-          "link": "https://www.computerbase.de/2022-07/nvidia-geforce-rtx-4090-aida64/",
-          "publishedOn": "2022-07-16T15:37:00.000Z",
-          "wordCount": null,
-          "title": "Nvidia GeForce RTX 4090: AIDA64 erhält Support für die Ada-Speerspitze",
-          "imageUrl": null
         }
       ]
     },
@@ -7914,6 +8144,46 @@
       "feedUrl": "https://www.ghacks.net/feed/",
       "siteUrl": "https://www.ghacks.net",
       "articles": [
+        {
+          "id": "https://www.ghacks.net/?p=180236",
+          "author": "Ashwin",
+          "description": "Apple is reportedly working on a way to display ads on its apps on iPhones. The news comes via a report by Mark Gurman on Bloomberg (paywalled article). Apple isn't the first […]\nThank you for being a Ghacks reader. The post Apple could start displaying ads on your iPhone appeared first on gHacks Technology News.",
+          "link": "https://www.ghacks.net/2022/08/15/apple-could-start-displaying-ads-on-your-iphone/",
+          "publishedOn": "2022-08-15T15:38:36.000Z",
+          "wordCount": 3274,
+          "title": "Apple could start displaying ads on your iPhone",
+          "imageUrl": "https://www.ghacks.net/wp-content/uploads/2022/08/Apple-could-start-displaying-ads-in-its-apps-on-your-iPhone.jpeg"
+        },
+        {
+          "id": "https://www.ghacks.net/?p=180242",
+          "author": "Martin Brinkmann",
+          "description": "Thunderbird email client users who have continued to use version 91 of the email program may now upgrade to Thunderbird 102 from within the client. Thunderbird 102, a newer core version of […]\nThank you for being a Ghacks reader. The post Thunderbird 91 updates to 102 are now enabled for manual seekers appeared first on gHacks Technology News.",
+          "link": "https://www.ghacks.net/2022/08/15/thunderbird-91-updates-to-102-are-now-enabled-for-manual-seekers/",
+          "publishedOn": "2022-08-15T15:36:53.000Z",
+          "wordCount": 2456,
+          "title": "Thunderbird 91 updates to 102 are now enabled for manual seekers",
+          "imageUrl": "https://www.ghacks.net/wp-content/uploads/2022/06/thunderbird-102-1.png"
+        },
+        {
+          "id": "https://www.ghacks.net/?p=180233",
+          "author": "Martin Brinkmann",
+          "description": "Microsoft released cumulative updates for all supported versions of Windows on the August 2022 Patch Day. The company did release a second security update for Windows at the day to address issues […]\nThank you for being a Ghacks reader. The post KB5012170: Windows update error 0x800f0922, UEFI Bios update may resolve it appeared first on gHacks Technology News.",
+          "link": "https://www.ghacks.net/2022/08/15/kb5012170-windows-update-error-0x800f0922-uefi-bios-update-may-resolve-it/",
+          "publishedOn": "2022-08-15T10:11:18.000Z",
+          "wordCount": 2761,
+          "title": "KB5012170: Windows update error 0x800f0922, UEFI Bios update may resolve it",
+          "imageUrl": "https://www.ghacks.net/wp-content/uploads/2022/08/windows-update-KB5012170-error-0x800f0922.png"
+        },
+        {
+          "id": "https://www.ghacks.net/?p=180230",
+          "author": "Martin Brinkmann",
+          "description": "Amazon Prime Video customers may receive all sorts of error messages when they use the service. One of them is Video Unavailable and the error code 7031. It is displayed right after […]\nThank you for being a Ghacks reader. The post Here is an easy fix for Amazon Prime Video Error 7031 appeared first on gHacks Technology News.",
+          "link": "https://www.ghacks.net/2022/08/15/here-is-an-easy-fix-for-amazon-prime-video-error-7031/",
+          "publishedOn": "2022-08-15T06:26:55.000Z",
+          "wordCount": 2931,
+          "title": "Here is an easy fix for Amazon Prime Video Error 7031",
+          "imageUrl": "https://www.ghacks.net/wp-content/uploads/2022/08/amazon-prime-video-error-7031.png"
+        },
         {
           "id": "https://www.ghacks.net/?p=180226",
           "author": "Martin Brinkmann",
@@ -8888,53 +9158,13 @@
           "wordCount": 3331,
           "title": "Office Phishing Attack circumvents multi-factor authentication",
           "imageUrl": "https://www.ghacks.net/wp-content/uploads/2022/07/phishing-site.png"
-        },
-        {
-          "id": "https://www.ghacks.net/?p=179751",
-          "author": "Ashwin",
-          "description": "Microsoft has announced that it is updating the user interface of its OneNote app for Android. The Mac version has also been updated with a much-needed feature, local backup. What's new in […]\nThank you for being a Ghacks reader. The post Microsoft announces a new design for OneNote on Android, and adds local backup option for OneNote for Mac appeared first on gHacks Technology News.",
-          "link": "https://www.ghacks.net/2022/07/17/microsoft-announces-a-new-design-for-onenote-on-android-and-adds-local-backup-option-for-onenote-for-mac/",
-          "publishedOn": "2022-07-17T14:12:20.000Z",
-          "wordCount": 2742,
-          "title": "Microsoft announces a new design for OneNote on Android, and adds local backup option for OneNote for Mac",
-          "imageUrl": "https://www.ghacks.net/wp-content/uploads/2022/07/Microsoft-announces-a-new-design-for-OneNote-on-Android-scaled.jpg"
-        },
-        {
-          "id": "https://www.ghacks.net/?p=179775",
-          "author": "Martin Brinkmann",
-          "description": "Facebook has started to use a different URL scheme for site links to combat URL stripping technologies that browsers such as Firefox or Brave use to improve privacy and prevent user tracking. […]\nThank you for being a Ghacks reader. The post Facebook has started to encrypt links to counter privacy-improving URL Stripping appeared first on gHacks Technology News.",
-          "link": "https://www.ghacks.net/2022/07/17/facebook-has-started-to-encrypt-links-to-counter-privacy-improving-url-stripping/",
-          "publishedOn": "2022-07-17T13:24:58.000Z",
-          "wordCount": 4862,
-          "title": "Facebook has started to encrypt links to counter privacy-improving URL Stripping",
-          "imageUrl": "https://www.ghacks.net/wp-content/uploads/2022/07/facebook-encrypted-links.png"
-        },
-        {
-          "id": "https://www.ghacks.net/?p=179772",
-          "author": "Martin Brinkmann",
-          "description": "When it comes to dedicated video cards, gamers had the choice between AMD and Nvidia for a long time. While Intel captured a good chunk of the graphics adapter market share, thanks […]\nThank you for being a Ghacks reader. The post Arc A750 GPU: Intel says it beats Nvidia's GeForce RTX 3060 video card appeared first on gHacks Technology News.",
-          "link": "https://www.ghacks.net/2022/07/17/arc-a750-gpu-intel-says-it-beats-nvidias-geforce-rtx-3060-video-card/",
-          "publishedOn": "2022-07-17T05:14:07.000Z",
-          "wordCount": 2958,
-          "title": "Arc A750 GPU: Intel says it beats Nvidia's GeForce RTX 3060 video card",
-          "imageUrl": "https://www.ghacks.net/wp-content/uploads/2022/07/intel-arc-a750-performance.png"
-        },
-        {
-          "id": "https://www.ghacks.net/?p=179768",
-          "author": "Martin Brinkmann",
-          "description": "Mozilla is working on improvements to Firefox's PDF Reader. Firefox will soon support light PDF editing tasks such as text or ink annotations. The built-in Firefox PDF Reader is a popular tool […]\nThank you for being a Ghacks reader. The post Light PDF Editing is coming to Firefox appeared first on gHacks Technology News.",
-          "link": "https://www.ghacks.net/2022/07/16/light-pdf-editing-is-coming-to-firefox/",
-          "publishedOn": "2022-07-16T17:00:28.000Z",
-          "wordCount": 3025,
-          "title": "Light PDF Editing is coming to Firefox",
-          "imageUrl": "https://www.ghacks.net/wp-content/uploads/2022/07/firefox-pdf-editor.png"
         }
       ]
     },
     {
-      "title": "Deutschlandfunk - Fortlaufende Nachrichten vom 15. August 2022",
+      "title": "Deutschlandfunk - Fortlaufende Nachrichten vom 16. August 2022",
       "feedUrl": "https://www.deutschlandfunk.de/nachrichten-100.rss",
-      "siteUrl": "https://www.deutschlandfunk.de/nachrichten-index-25128.html",
+      "siteUrl": "https://www.deutschlandfunk.de/nachrichten-index-25138.html",
       "articles": []
     }
   ],
