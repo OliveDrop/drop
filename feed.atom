@@ -2,10 +2,454 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://olivedrop.github.io/drop/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-16T02:15:10.359Z</updated>
+    <updated>2022-08-17T02:26:20.427Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://olivedrop.github.io/drop/index.html"/>
     <link rel="self" href="https://olivedrop.github.io/drop/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Nintendo Switch: Life is Strange: Remastered Collection erscheint Ende September]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1124640</id>
+        <link href="https://stadt-bremerhaven.de/nintendo-switch-life-is-strange-remastered-collection-erscheint-ende-september/"/>
+        <updated>2022-08-16T18:40:17.000Z</updated>
+        <summary type="html"><![CDATA[Nach einer Verzögerung Anfang des Jahres wird die Nintendo-Switch-Version von Life is Strange: Remastered Collection am 27. September erscheinen. Dies gab Square Enix bekannt. Diese brandneue Kollektion kombiniert die überarbeiteten Versionen von Life is Strange und Life is Strange: Before...
+Zum Beitrag: Nintendo Switch: Life is Strange: Remastered Collection erscheint Ende September
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows 11 22H2: Update soll am 20. September 2022 veröffentlicht werden]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1124630</id>
+        <link href="https://stadt-bremerhaven.de/windows-11-22h2-update-soll-am-20-september-2022-veroeffentlicht-werden/"/>
+        <updated>2022-08-16T18:25:14.000Z</updated>
+        <summary type="html"><![CDATA[Wie man bei Windows Central durch „eigene Quellen“ erfahren haben will, soll das nächste große Update für Windows 11, Version 22H2, bereits ab dem 20. September dieses Jahres über das Windows Update veröffentlicht werden. Zu den darin enthaltenen Verbesserungen gehören...
+Zum Beitrag: Windows 11 22H2: Update soll am 20. September 2022 veröffentlicht werden
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>Benjamin Mamerow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sony: Hinweise auf einen PlayStation Launcher für den PC aufgetaucht]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1124612</id>
+        <link href="https://stadt-bremerhaven.de/sony-hinweise-auf-einen-playstation-launcher-fuer-den-pc-aufgetaucht/"/>
+        <updated>2022-08-16T17:46:58.000Z</updated>
+        <summary type="html"><![CDATA[Nach Ubisoft, Rockstar und Activision Blizzard könnte auch Sony bald einen eigenen Launcher für seine PC-Spiele an den Markt bringen. Im vorige Woche gelaunchten Marvel’s Spider-Man Remastered gab es nun Hinweise auf einen „PlayStation PC Launcher“. Die auf Videospiele spezialisierte...
+Zum Beitrag: Sony: Hinweise auf einen PlayStation Launcher für den PC aufgetaucht
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>Felix Frank</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thunderbird 114 roadmap: Sync, global message index, conversational view and more]]></title>
+        <id>https://www.ghacks.net/?p=180257</id>
+        <link href="https://www.ghacks.net/2022/08/16/thunderbird-114-roadmap-sync-global-message-index-conversational-view-and-more/"/>
+        <updated>2022-08-16T17:17:12.000Z</updated>
+        <summary type="html"><![CDATA[Thunderbird 102 has just been out for some months, but development on Thunderbird 114, the next major release of the open source email client, is already ongoing. This week, manual updates from […]
+Thank you for being a Ghacks reader. The post Thunderbird 114 roadmap: Sync, global message index, conversational view and more appeared first on gHacks Technology News.]]></summary>
+        <author>
+            <name>Martin Brinkmann</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Garmin: Smartwatches sollen Bluetooth-Probleme mit Samsung-Smartphones haben]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1124620</id>
+        <link href="https://stadt-bremerhaven.de/garmin-smartwatches-sollen-bluetooth-probleme-mit-samsung-smartphones-haben/"/>
+        <updated>2022-08-16T16:39:28.000Z</updated>
+        <summary type="html"><![CDATA[Solltet ihr eine Smartwatch von Garmin im Zusammenspiel mit einem Samsung-Smartphone im Einsatz haben und Bluetooth-Probleme kennen, dann seid ihr definitiv nicht alleine. Schaut man ins Garmin-Forum, dann finden sich seit längerer Zeit Betroffene. Das Problem ist, dass ohne erkennbaren...
+Zum Beitrag: Garmin: Smartwatches sollen Bluetooth-Probleme mit Samsung-Smartphones haben
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thunderbird: So schaut die Roadmap aus]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1124615</id>
+        <link href="https://stadt-bremerhaven.de/thunderbird-so-schaut-die-roadmap-aus/"/>
+        <updated>2022-08-16T16:30:35.000Z</updated>
+        <summary type="html"><![CDATA[Der kleine Linktipp für alle Anwender des Mail-Programmes Thunderbird. Mittlerweile gibt’s eine Roadmap für Thunderbird 114, die zeigt, was alles an „großen Dingen“ für das Open-Source-Projekt geplant ist – und wann. Da geht’s beispielsweise um Firefox Sync, welches schon im...
+Zum Beitrag: Thunderbird: So schaut die Roadmap aus
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Xiaomi 12 und 12 Pro: MIUI Beta auf Basis von Android 13 startet]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1124592</id>
+        <link href="https://stadt-bremerhaven.de/xiaomi-12-und-12-pro-miui-beta-auf-basis-von-android-13-startet/"/>
+        <updated>2022-08-16T16:00:56.000Z</updated>
+        <summary type="html"><![CDATA[Xiaomi sucht Tester für seine MIUI Beta, die auf dem just erschienenen Android 13 basiert. Es handelt sich um einen Aufruf für die Global ROM, der Nutzer der Xiaomi 12 und Xiaomi 12 Pro betrifft. Der chinesische Hersteller will pro...
+Zum Beitrag: Xiaomi 12 und 12 Pro: MIUI Beta auf Basis von Android 13 startet
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IKEA: Neue App und Smart-Home-Hub Dirigera wie geplant im Oktober]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1124597</id>
+        <link href="https://stadt-bremerhaven.de/ikea-neue-app-und-smart-home-hub-dirigera-wie-geplant-im-oktober/"/>
+        <updated>2022-08-16T15:29:18.000Z</updated>
+        <summary type="html"><![CDATA[IKEA gibt keine Kataloge mehr heraus. Dennoch informiert das Unternehmen immer zeitnah über Trends, Farben und eigene Produkte. Heute hat man aktuell das Launch Book Oktober bis Dezember 2022 veröffentlicht. Grundsätzlich zeigt man viele Produktkategorien, darunter neue Leuchtmittel oder aber...
+Zum Beitrag: IKEA: Neue App und Smart-Home-Hub Dirigera wie geplant im Oktober
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Xbox Game Pass: Diese Spiele stoßen bald hinzu]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1124575</id>
+        <link href="https://stadt-bremerhaven.de/xbox-game-pass-diese-spiele-stossen-bald-hinzu/"/>
+        <updated>2022-08-16T15:00:09.000Z</updated>
+        <summary type="html"><![CDATA[Der Xbox Game Pass nimmt mal wieder neue Titel in seine Flatrate auf. Dabei mischt man einmal wieder Indie-Titel mit Blockbustern. Etwa ist auch Ubisofts „Immortals Fenyx Rising“ mit von der Partie, das ich trotz einer gewissen Monotonie recht unterhaltsam...
+Zum Beitrag: Xbox Game Pass: Diese Spiele stoßen bald hinzu
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple TV+: Trailer zur Familien-Serie „Ellas Leben“ veröffentlicht]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1124453</id>
+        <link href="https://stadt-bremerhaven.de/apple-tv-trailer-zur-familien-serie-ellas-leben-veroeffentlicht/"/>
+        <updated>2022-08-16T14:30:03.000Z</updated>
+        <summary type="html"><![CDATA[Apple hat in den vergangenen Monaten eine Menge Inhalte in seinen Streaming-Dienst Apple TV+ geschoben, darunter auch viel für Familien und Kinder. In eben jene Kategorie fällt auch die Serie „Life by Ella“ oder zu Deutsch „Ellas Leben“, die am...
+Zum Beitrag: Apple TV+: Trailer zur Familien-Serie „Ellas Leben“ veröffentlicht
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>Olli</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[congstar verzeichnet 6 Mio. Kunden]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1124556</id>
+        <link href="https://stadt-bremerhaven.de/congstar-verzeichnet-6-mio-kunden/"/>
+        <updated>2022-08-16T14:00:52.000Z</updated>
+        <summary type="html"><![CDATA[Seit Mitte August 2022 nutzen mehr als sechs Mio. Kunden Tarife und Produkte von congstar. Dies gab das Unternehmen heute bekannt. Microsoft 365 Family: 12 Monate Office und 1 TB OneDrive-Speicher für 53,99 Euro Damit konnte congstar innerhalb von rund...
+Zum Beitrag: congstar verzeichnet 6 Mio. Kunden
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ryzen 7000 & Zen 4: AMD lädt zum Livestream am 30. August [Notiz]]]></title>
+        <id>https://www.computerbase.de/2022-08/ryzen-7000-und-zen-4-amd-laedt-zum-livestream-am-30-august/</id>
+        <link href="https://www.computerbase.de/2022-08/ryzen-7000-und-zen-4-amd-laedt-zum-livestream-am-30-august/"/>
+        <updated>2022-08-16T13:36:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/6/3/6-6362c80eb5c18625/article-640x360.1f8458ed.jpg"><p>Die Gerüchteküche hat richtig gekocht: AMD lädt heute öffentlich zu einem Livestream am 30. August ein. Dann sollen die neuen Ryzen-Prozessoren (Ryzen 7000, Raphael) vorgestellt werden. Zudem wird es einen Einblick in die neue Zen-4-Architektur geben.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Xiaomi Electric Scooter 4 Pro, 3 und 3 Lite starten in Deutschland: Daten und Preise]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1124560</id>
+        <link href="https://stadt-bremerhaven.de/xiaomi-electric-scooter-4-pro-3-und-3-lite-starten-in-deutschland-daten-und-preise/"/>
+        <updated>2022-08-16T13:30:05.000Z</updated>
+        <summary type="html"><![CDATA[Xiaomi hat über den Deutschlandstart einiger E-Scooter informiert. Wobei nicht alle brandneu sind, so gibt’s ein Modell schon länger im Handel, aufgrund fehlender ABE bislang nicht in Deutschland. Aber das ändert sich ja nun. Der Reihe nach. Neu ist der...
+Zum Beitrag: Xiaomi Electric Scooter 4 Pro, 3 und 3 Lite starten in Deutschland: Daten und Preise
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Take-Two, Private Division und Weta Workshop arbeiten an einem neuen Mittelerde-Spiel]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1124510</id>
+        <link href="https://stadt-bremerhaven.de/take-two-private-division-und-weta-workshop-arbeiten-an-einem-neuen-mittelerde-spiel/"/>
+        <updated>2022-08-16T13:00:28.000Z</updated>
+        <summary type="html"><![CDATA[Private Division, eine Publishing-Abteilung von Take-Two, hat sich mit dem Weta Workshop zusammengetan. Letztere sind bekannt für etwa die Filmtrilogie zu „Der Herr der Ringe“ und verfügen mittlerweile auch über eine Gaming-Sparte. Letztere werkelt dann auch aktuell an einem neuen...
+Zum Beitrag: Take-Two, Private Division und Weta Workshop arbeiten an einem neuen Mittelerde-Spiel
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nvidia GeForce GTX 660 Ti: Vor zehn Jahren wurde die Radeon HD 7870 geschlagen]]></title>
+        <id>https://www.computerbase.de/2022-08/nvidia-geforce-gtx-660-ti-10-jahre/</id>
+        <link href="https://www.computerbase.de/2022-08/nvidia-geforce-gtx-660-ti-10-jahre/"/>
+        <updated>2022-08-16T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/6/3/1-61c0fadf1e8cb9e8/article-640x360.2b55de3b.jpg"><p>Heute vor exakt 10 Jahren brachte Nvidia die neue Kepler-Architektur mit der 1.344 Shader starken GeForce GTX 660 Ti (Test) in die Oberklasse und besiegte damit die auf der GCN-Architektur und Pitcairn XT basierenden Radeon HD 7870 und HD 7850 (Test) von AMD im psychologisch wichtigen Preissegment um 300 Euro.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ghacks Deals: SurfShark VPN: Multi-Year Subscription]]></title>
+        <id>https://www.ghacks.net/?p=180254</id>
+        <link href="https://www.ghacks.net/2022/08/16/ghacks-deals-surfshark-vpn-multi-year-subscription/"/>
+        <updated>2022-08-16T12:41:31.000Z</updated>
+        <summary type="html"><![CDATA[Mike reviewed Surfshark's VPN service back in October 2021 and concluded that it offered good options and performance. Now is your chance to grab a 2-year, 3-year or 4-year Surfshark subscription for […]
+Thank you for being a Ghacks reader. The post Ghacks Deals: SurfShark VPN: Multi-Year Subscription appeared first on gHacks Technology News.]]></summary>
+        <author>
+            <name>Martin Brinkmann</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Polestar 6 soll 2026 seinen Marktstart feiern]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1124548</id>
+        <link href="https://stadt-bremerhaven.de/polestar-6-soll-2026-in-den-handel-starten/"/>
+        <updated>2022-08-16T12:30:57.000Z</updated>
+        <summary type="html"><![CDATA[Polestar hat bekannt gegeben, dass das „Elektro-Roadster Konzeptfahrzeug“ als Polestar 6 in die Produktion gehen soll. Polestar ist ein Joint-Venture der Automobilhersteller Volvo Car Corporation und Geely. Die Markteinführung des Polestar 6 Electric Performance Roadster wird für 2026 geplant, so...
+Zum Beitrag: Polestar 6 soll 2026 seinen Marktstart feiern
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Disney & Marvel Games Showcase am 9. September 2022]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1124532</id>
+        <link href="https://stadt-bremerhaven.de/disney-marvel-games-showcase-am-9-september-2022/"/>
+        <updated>2022-08-16T12:00:43.000Z</updated>
+        <summary type="html"><![CDATA[Am 9. September findet ein Disney & Marvel Games Showcase statt. Rechnet man nach unserer Zeit, dann geht es allerdings um 4 Uhr nachts los. Im Rahmen der D23 Expo 2022 will man da eben neue Spiele vorstellen, die mit...
+Zum Beitrag: Disney & Marvel Games Showcase am 9. September 2022
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Signal says Twilio data breach resulted in 1900 users' phone numbers being exposed]]></title>
+        <id>https://www.ghacks.net/?p=180250</id>
+        <link href="https://www.ghacks.net/2022/08/16/signal-says-twilio-data-breach-resulted-in-1900-users-phone-numbers-being-exposed/"/>
+        <updated>2022-08-16T11:36:11.000Z</updated>
+        <summary type="html"><![CDATA[A week ago, I wrote an article about a data breach that happened at Twilio. It appears that Signal was impacted by this security incident. 1900 Signal users' phone numbers exposed by […]
+Thank you for being a Ghacks reader. The post Signal says Twilio data breach resulted in 1900 users' phone numbers being exposed appeared first on gHacks Technology News.]]></summary>
+        <author>
+            <name>Ashwin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Echo Show: Ältere Geräte bekommen Widgets]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1124415</id>
+        <link href="https://stadt-bremerhaven.de/amazon-echo-show-aeltere-geraete-bekommen-widgets/"/>
+        <updated>2022-08-16T11:31:09.000Z</updated>
+        <summary type="html"><![CDATA[Die Echo-Show-Geräte aus dem Hause Amazon dürften wohl die bekanntesten Smart Displays in Deutschland sein. Neben dem Sprachassistenten bieten jene auch ein Display zur Anzeige von Bildern oder nützlichen Infos. Mit dem Amazon Echo Show 15 hatte man im Frühjahr...
+Zum Beitrag: Amazon Echo Show: Ältere Geräte bekommen Widgets
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>Felix Frank</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Prime: Preiserhöhung auf 89,90 Euro ab sofort]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1124544</id>
+        <link href="https://stadt-bremerhaven.de/amazon-prime-preiserhoehung-auf-8990-euro-ab-sofort/"/>
+        <updated>2022-08-16T11:06:12.000Z</updated>
+        <summary type="html"><![CDATA[Amazon hat mit sofortiger Wirkung die Preise erhöht. Dass eine Preiserhöhung greifen wird, das hat das Unternehmen Ende Juli kommuniziert. Die Preiserhöhung wurde für den 15. September angekündigt – und ist letzten Endes auch richtig, denn wer ab heute bucht,...
+Zum Beitrag: Amazon Prime: Preiserhöhung auf 89,90 Euro ab sofort
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RTL+ Max-Abo beinhaltet Musik-Streaming von Deezer]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1124536</id>
+        <link href="https://stadt-bremerhaven.de/rtl-max-abo-beinhaltet-musik-streaming-von-deezer/"/>
+        <updated>2022-08-16T10:59:18.000Z</updated>
+        <summary type="html"><![CDATA[Der Ausbau des Streamingdienstes RTL+ zum gattungsübergreifenden Entertainment-Angebot beginnt: An diesem Mittwoch startet die RTL+ Musik-App. Dadurch haben RTL+ Nutzer neben dem Video-Angebot auch Zugriff auf mehr als 90 Millionen Songs und damit alle im Musikmarkt gängigen Kataloge und Künstler....
+Zum Beitrag: RTL+ Max-Abo beinhaltet Musik-Streaming von Deezer
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[9-Euro-Ticket: Bahn setzt bislang 50 zusätzliche Züge ein]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1124521</id>
+        <link href="https://stadt-bremerhaven.de/9-euro-ticket-bahn-setzt-bislang-50-zusaetzliche-zuege-ein/"/>
+        <updated>2022-08-16T10:30:54.000Z</updated>
+        <summary type="html"><![CDATA[Das 9-Euro-Ticket gilt für viele als großer Erfolg – doch wie es weitergeht, steht noch in den Sternen. Wer sich einmal angeschaut hat, wie viele Verbünde und Tarifstufen und -optionen es in Deutschland gibt, der kommt nicht umhin, sich eine...
+Zum Beitrag: 9-Euro-Ticket: Bahn setzt bislang 50 zusätzliche Züge ein
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Adidas RPT-02 SOL: Sport-Kopfhörer lädt sich über Solarzelle selbst auf]]></title>
+        <id>https://www.computerbase.de/2022-08/adidas-rpt-02-sol-sport-kopfhoerer-laedt-sich-ueber-solarzelle-selbst-auf/</id>
+        <link href="https://www.computerbase.de/2022-08/adidas-rpt-02-sol-sport-kopfhoerer-laedt-sich-ueber-solarzelle-selbst-auf/"/>
+        <updated>2022-08-16T10:01:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/4/9/3-bd832bd85df7b252/article-640x360.04ad5f15.jpg"><p>Mit dem RPT-02 SOL bringt auch Adidas einen Kopfhörer mit Powerfoyle-Solarzelle im Kopfband, so dass der integrierte Akku über alle Formen von Licht aufgeladen werden kann. Auch andere Kopfhörer wie der Urbanista Los Angeles (Test) setzen die Technik bereits ein, die das Aufladen über die Steckdose ersetzen kann.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sky Glass verschiebt sich auf 2023]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1124503</id>
+        <link href="https://stadt-bremerhaven.de/sky-glass-verschiebt-sich-auf-2023/"/>
+        <updated>2022-08-16T10:00:09.000Z</updated>
+        <summary type="html"><![CDATA[Sky Deutschland hatte seine eigenen Fernsehgeräte der Reihe Sky Glass eigentlich für Ende 2022 in Aussicht gestellt. Wie die Kollegen von Clap allerdings mittlerweile direkt vom Pay-TV-Anbieter erfahren haben, verschiebt sich die Veröffentlichung leider auf 2023. Was ist die Ursache?...
+Zum Beitrag: Sky Glass verschiebt sich auf 2023
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Pixel Buds Pro im Test: Googles beste In-Ears mit ANC, Multipoint und Transparenz]]></title>
+        <id>https://www.computerbase.de/2022-08/google-pixel-buds-pro-test/</id>
+        <link href="https://www.computerbase.de/2022-08/google-pixel-buds-pro-test/"/>
+        <updated>2022-08-16T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/4/8/6-281462dbf74eb21e/article-640x360.68b8ada5.jpg"><p>Mit aktiver Geräuschunterdrückung, Transparenzmodus und Multipoint sind die Pixel Buds Pro Googles bisher beste kabellose In-Ear-Kopfhörer. Sowohl klanglich als auch beim ANC und bei den Funktionen reicht es jedoch nicht fürs Spitzenfeld. Die Android- und Assistant-Integration ist erneut sehr gut, iOS-Nutzer haben davon nichts.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zattoo führt „Klare Sprache“ ein]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1124497</id>
+        <link href="https://stadt-bremerhaven.de/zattoo-fuehrt-klare-sprache-ein/"/>
+        <updated>2022-08-16T09:30:19.000Z</updated>
+        <summary type="html"><![CDATA[Im öffentlich-rechtlichen Fernsehen wird bereits „Klare Sprache“ verwendet. Erst experimentierte der WDR damit, das ZDF und schließlich auch die ARD zogen im Juni 2022 nach. Jetzt gibt die TV-Streaming-Plattform Zattoo bekannt, dass man auch dort die „Klare Sprache“ einführt. Diese...
+Zum Beitrag: Zattoo führt „Klare Sprache“ ein
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gnome 43 zum 25. Jubiläum: Beta-Version des neuen Linux-Desktops erschienen]]></title>
+        <id>https://www.computerbase.de/2022-08/gnome-43-beta-release/</id>
+        <link href="https://www.computerbase.de/2022-08/gnome-43-beta-release/"/>
+        <updated>2022-08-16T08:07:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/6/2/9-dddfa83da4d9d853/article-640x360.d7c4747a.jpg"><p>Pünktlich zum 25. Jubiläum des Projekts hat die Gnome-Community die erste Beta ihres neuen Desktops Gnome 43 veröffentlicht. Die neueste Ausgabe der Arbeitsumgebung bringt unter anderem Unterstützung für Progressive Web Apps (PWA), noch mehr Konsistenz und Web Extensions für den hauseigenen Browser Gnome Web mit.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Android 13: Rollout an Pixel-Smartphones läuft noch etwas holprig]]></title>
+        <id>https://www.computerbase.de/2022-08/android-13-rollout-an-pixel-smartphones-laeuft-noch-etwas-holprig/</id>
+        <link href="https://www.computerbase.de/2022-08/android-13-rollout-an-pixel-smartphones-laeuft-noch-etwas-holprig/"/>
+        <updated>2022-08-16T07:42:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/6/3/0-2c3bac6d09eeb0a9/article-640x360.7756f6e9.jpg"><p>Google hat am gestrigen Abend das finale Android 13 zum Download freigegeben. Zunächst werden nur Pixel-Smartphones mit dem Update versorgt. Reibungslos verläuft der Rollout allerdings nicht, wie das fälschlicherweise angebotene Android 12 statt 13, eine defekte universelle Suche im Launcher oder Widevine-Probleme zeigen.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[First look at ScreenStyler, a Windows customization tool]]></title>
+        <id>https://www.ghacks.net/?p=180246</id>
+        <link href="https://www.ghacks.net/2022/08/16/first-look-at-screenstyler-a-windows-customization-tool/"/>
+        <updated>2022-08-16T07:30:21.000Z</updated>
+        <summary type="html"><![CDATA[ScreenStyler is a free desktop customization tool for Windows. The program is available as a beta version for Windows right now, and makes use of the established programs Rainmeter and RocketDock. The […]
+Thank you for being a Ghacks reader. The post First look at ScreenStyler, a Windows customization tool appeared first on gHacks Technology News.]]></summary>
+        <author>
+            <name>Martin Brinkmann</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Halbleiterproduktion: Brasilien will lokale Fabrik von Samsung [Notiz]]]></title>
+        <id>https://www.computerbase.de/2022-08/halbleiterproduktion-brasilien-will-lokale-fabrik-von-samsung/</id>
+        <link href="https://www.computerbase.de/2022-08/halbleiterproduktion-brasilien-will-lokale-fabrik-von-samsung/"/>
+        <updated>2022-08-16T06:31:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/6/2/8-c2c2fbe7aaa171a7/article-640x360.9c7ba1e5.jpg"><p>Brasilien hat mit Südkorea eine Absichtserklärung, ein sogenanntes Memorandum of Understanding (MoU), beschlossen, eine Chipfabrik in dem südamerikanischen Land zu errichten. Der Branchenriese Samsung rückt dabei in den primären Fokus der Verhandlungen, wenngleich die Parteien erst am Anfang der Gespräche stehen.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AMD Ryzen 7000 („Raphael“): Zen-4-RDNA-2-CPUs sollen etwas später erscheinen]]></title>
+        <id>https://www.computerbase.de/2022-08/amd-ryzen-7000-series-release/</id>
+        <link href="https://www.computerbase.de/2022-08/amd-ryzen-7000-series-release/"/>
+        <updated>2022-08-16T05:33:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/6/2/7-0b6b3be491a44152/article-640x360.140dadef.jpg"><p>Die kommenden Zen-4-RDNA-2-CPUs der Serie AMD Ryzen 7000 („Raphael“), die mit den vier Desktop-Prozessoren Ryzen 9 7950X und 7900X, Ryzen 7 7700X sowie Ryzen 5 7600X in diesem Quartal starten soll, bestimmen aktuell die Gerüchteküche und sollen laut dieser erst später erscheinen. Das Release soll jetzt am 27. September erfolgen.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft 365 Family: 12 Monate Office und 1 TB OneDrive-Speicher für 53,99 Euro]]></title>
         <id>https://stadt-bremerhaven.de/?p=1103643</id>
@@ -12075,242 +12519,6 @@ Thank you for being a Ghacks reader. The post Opera Software fixes Windows Relia
         <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/2/9/1-410dd1857d736781/article-640x360.9d185c22.jpg"><p>Das Projekt Asahi Linux und die gleichnamige Community wollen eine vollständig funktionsfähige Linux-Distribution für den täglichen Einsatz auf ARM-Prozessoren vom Typ Apple Silicon portieren und haben bereits im März eine Alpha für den M1, M1 Pro und M1 Max veröffentlicht. Jetzt folgt die Unterstützung für den M2 und M1 Ultra.</p>]]></summary>
         <author>
             <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Xbox Game Pass: Diese Titel können bald gespielt werden]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1120129</id>
-        <link href="https://stadt-bremerhaven.de/xbox-game-pass-diese-titel-koennen-bald-gespielt-werden/"/>
-        <updated>2022-07-18T13:47:40.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft hat für seinen Xbox Game Pass neue Titel vorgestellt, die bald von den Abonnenten gespielt werden können. Insgesamt 6 Titel findet man vor, vielleicht ist ja etwas für euch dabei. Und wenn ihr schon einmal hier seid: Nutzt ihr...
-Zum Beitrag: Xbox Game Pass: Diese Titel können bald gespielt werden
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>caschy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Snapchat for Web angekündigt]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1120125</id>
-        <link href="https://stadt-bremerhaven.de/snapchat-for-web-angekuendigt/"/>
-        <updated>2022-07-18T13:21:29.000Z</updated>
-        <summary type="html"><![CDATA[Das Unternehmen Snap kündigte heute „Snapchat for Web“ an. Damit können auch Menschen ohne die App den Service Snapchat im Browser am Desktop nutzen. Es lassen sich Snaps verschicken und auch Videoanrufe durchführen. Zunächst wird Snapchat for Web für Snapchat+-Abonnenten...
-Zum Beitrag: Snapchat for Web angekündigt
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>caschy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FRITZ!OS: Vier FRITZ!Box-Modelle werden mit neuer Laborversion versorgt]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1120123</id>
-        <link href="https://stadt-bremerhaven.de/fritzos-vier-fritzbox-modelle-werden-mit-neuer-laborversion-versorgt/"/>
-        <updated>2022-07-18T13:08:45.000Z</updated>
-        <summary type="html"><![CDATA[AVM hat bereits vorbereitend auf FRITZ!OS 7.50 zwei FRITZ!Repeater mit neuer Labor-Software versorgt. Damit aber noch nicht genug, denn man ist fleißig beim Verteilen neuer Versionen. So haben folgende FRITZ!Box-Modelle heute eine neue Laborversion bekommen, die Anwender ab sofort installieren...
-Zum Beitrag: FRITZ!OS: Vier FRITZ!Box-Modelle werden mit neuer Laborversion versorgt
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>caschy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[XPG PCIe Gen5 SSD: Adata zeigt M.2-SSD mit bis zu 14 GB/s und 8 TB]]></title>
-        <id>https://www.computerbase.de/2022-07/xpg-pcie-gen5-ssd-adata-zeigt-m-2-ssd-mit-bis-zu-14-gb-s-und-8-tb/</id>
-        <link href="https://www.computerbase.de/2022-07/xpg-pcie-gen5-ssd-adata-zeigt-m-2-ssd-mit-bis-zu-14-gb-s-und-8-tb/"/>
-        <updated>2022-07-18T12:30:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/2/8/8-065cbc0760a4719d/article-640x360.c1bd4581.jpg"><p>Die neue Generation der PCIe-5.0-SSDs nimmt bei Adata Formen an. Nach Prototypen zeigt der Hersteller das erste Serienprodukt. Die XPG PCIe Gen5 SSD liegt im M.2-Format vor und ist mit einem SMI-Controller bestückt. Sie soll in der Spitze mit 14 GB/s lesen und mit 12 GB/s schreiben.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple Arcade: Diese Spiele fallen raus]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1120119</id>
-        <link href="https://stadt-bremerhaven.de/apple-arcade-diese-spiele-fallen-raus/"/>
-        <updated>2022-07-18T12:16:26.000Z</updated>
-        <summary type="html"><![CDATA[Apple Arcade bietet einen ganzen Schwung von Spielen, die man ohne Kauf und In-App-Käufe nach Herzenslust herunterladen und spielen kann, denn man bezahlt ja bei Apple Arcade ein Abo, welches den Zugang zum Katalog erlaubt. Doch die erhaltenen Spiele sind...
-Zum Beitrag: Apple Arcade: Diese Spiele fallen raus
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>caschy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intel Core i5-13600K: Raptor Lake im Benchmark von CPU-Z und Cinebench R23]]></title>
-        <id>https://www.computerbase.de/2022-07/intel-core-i5-13600k-benchmarks/</id>
-        <link href="https://www.computerbase.de/2022-07/intel-core-i5-13600k-benchmarks/"/>
-        <updated>2022-07-18T12:15:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/2/8/6-17415222c3cefab4/article-640x360.6aefa92f.jpg"><p>Erstmals taucht der Intel Core i5-13600K mit 6 P-Cores und 8 E-Cores sowie 20 Threads als Engineering Sample in den Benchmarks von CPU-Z und Cinebench R23 auf. Der hybride Desktop-Prozessor der Produktfamilie Intel Raptor Lake legt dabei insbesondere im Bereich der Multi-Thread-Leistung deutlich zu.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Samsung Unpacked am 10. August]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1120115</id>
-        <link href="https://stadt-bremerhaven.de/samsung-unpacked-am-10-august/"/>
-        <updated>2022-07-18T11:49:38.000Z</updated>
-        <summary type="html"><![CDATA[Ausgewählten Medienvertretern werden sie mit aller Sicherheit schon vorher gezeigt, doch die Öffentlichkeit bekommt Samsungs neue Hardware wohl erst am 10. August zu sehen. Der Termin geht aus einer Einladung hervor, die Leaker Evan Blass geteilt hat. Es wird erwartet,...
-Zum Beitrag: Samsung Unpacked am 10. August
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>caschy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Menu Bar Controller for Sonos: Version 5.0 erschienen]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1120110</id>
-        <link href="https://stadt-bremerhaven.de/menu-bar-controller-for-sonos-version-5-0-erschienen/"/>
-        <updated>2022-07-18T11:04:36.000Z</updated>
-        <summary type="html"><![CDATA[In den letzten Jahren haben wir schon über neue Versionen der App „Menu Bar Controller for Sonos“ berichtet. Sie stammt von Alexander Heinrich, der auch Lyd realisiert, eine Apple-Watch-App zum Steuern von Sonos-Lautsprechern. Der „Menu Bar Controller for Sonos“ richtet...
-Zum Beitrag: Menu Bar Controller for Sonos: Version 5.0 erschienen
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>caschy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Boys: Spin-Off-Serie Gen V angekündigt]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1120108</id>
-        <link href="https://stadt-bremerhaven.de/the-boys-spin-off-serie-gen-v-angekuendigt/"/>
-        <updated>2022-07-18T10:40:05.000Z</updated>
-        <summary type="html"><![CDATA[Die Erfolgsserie The Boys wird ein Spin-Off bekommen. Zu diesem gibt’s nun erste Details. Es dreht sich um Amerikas einziges College für jugendliche Superhelden in Amerika – natürlich betrieben von Vought International. Gen V spielt an diesem College und ist...
-Zum Beitrag: The Boys: Spin-Off-Serie Gen V angekündigt
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>caschy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PlayStation 5 & Xbox Series X: Wie 40 FPS plötzlich das Optimum sein können]]></title>
-        <id>https://www.computerbase.de/2022-07/playstation-5-xbox-series-x-neue-40-fps-modi-fluessiger/</id>
-        <link href="https://www.computerbase.de/2022-07/playstation-5-xbox-series-x-neue-40-fps-modi-fluessiger/"/>
-        <updated>2022-07-18T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/2/7/2-326a404b4e5b8fef/article-640x360.579661e3.jpg"><p>Lange Zeit hatten Konsolenspieler bei der Framerate des Games gar kein Mitspracherecht oder aber die Wahl zwischen zwei Grafikmodi mit 30 und 60 FPS. Bei PlayStation 5 und Xbox Series X|S ist nun allerdings erstmals ein verheißungsvoller Kompromiss möglich, der die Vorteile beider Einstellungen zu vereinen vermag: 40 FPS.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intel's entire Arc A-Series Desktop Graphics Card lineup leaks]]></title>
-        <id>https://www.ghacks.net/?p=179791</id>
-        <link href="https://www.ghacks.net/2022/07/18/intels-entire-arc-a-series-desktop-graphics-card-lineup-leaks/"/>
-        <updated>2022-07-18T09:50:53.000Z</updated>
-        <summary type="html"><![CDATA[Just yesterday, Intel gave us some insight on one of its upcoming Arc A-Series desktop graphics card. The company said that its Intel Arc A750 GPU performs similar to Nvidia's RTX 3060 […]
-Thank you for being a Ghacks reader. The post Intel's entire Arc A-Series Desktop Graphics Card lineup leaks appeared first on gHacks Technology News.]]></summary>
-        <author>
-            <name>Martin Brinkmann</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Proton explains the technical issues that caused the recent ProtonMail outages]]></title>
-        <id>https://www.ghacks.net/?p=179787</id>
-        <link href="https://www.ghacks.net/2022/07/18/proton-explains-the-technical-issues-that-caused-the-recent-protonmail-outages/"/>
-        <updated>2022-07-18T09:17:37.000Z</updated>
-        <summary type="html"><![CDATA[Last week was a tough one for Proton users, the company experienced multiple outages spread across 3 days. Yesterday, Proton sent out an email to its users to explain the issues behind […]
-Thank you for being a Ghacks reader. The post Proton explains the technical issues that caused the recent ProtonMail outages appeared first on gHacks Technology News.]]></summary>
-        <author>
-            <name>Ashwin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Das Auto als Spielkonsole: Steam soll nächsten Monat im Tesla debütieren]]></title>
-        <id>https://www.computerbase.de/2022-07/tesla-steam-gaming/</id>
-        <link href="https://www.computerbase.de/2022-07/tesla-steam-gaming/"/>
-        <updated>2022-07-18T07:57:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/2/8/4-c7ab8fcb0422a575/article-640x360.64123e81.jpg"><p>Wie Tesla-CEO Elon Musk über Twitter ankündigt, macht der US-Automobilhersteller weiterhin große Fortschritte bei der Integration der Spiele-Vertriebsplattform Steam in seine Fahrzeuge. Eine erste Demonstration der Spielkonsole im Model S und Model X wird demnach bereits für den nächsten Monat in Aussicht gestellt.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ZhaoXin Glenfly Arise-GT-10C0: China-GPU ist auf Augenhöhe mit einer GeForce GTX 580 (Update)]]></title>
-        <id>https://www.computerbase.de/2022-07/glenfly-arise-gt10c0-specification/</id>
-        <link href="https://www.computerbase.de/2022-07/glenfly-arise-gt10c0-specification/"/>
-        <updated>2022-07-18T07:29:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/2/8/3-e5d7bc35270ec8b2/article-640x360.0e56ccee.jpg"><p>Der chinesische Halbleiterhersteller ZhaoXin hat die offiziellen Spezifikationen seiner neuesten Grafikkarte Glenfly Arise-GT-10C0 veröffentlicht, die in Sachen Rechenleistung noch um viele Generationen hinter AMD und Nvidia im Hintertreffen ist. In Bereich der FP32-Leistung werden Werte von GPUs von vor 10 Jahren erreicht.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Windows 11: Microsoft testet zwei Suchfelder in der Taskleiste]]></title>
-        <id>https://www.computerbase.de/2022-07/windows-11-suche-taskleiste/</id>
-        <link href="https://www.computerbase.de/2022-07/windows-11-suche-taskleiste/"/>
-        <updated>2022-07-18T06:32:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/2/8/2-d37003ef8bda847d/article-640x360.4639d49a.jpg"><p>Zurzeit erprobt Microsoft mit der neuesten Windows 11 Insider Preview zwei neue Suchfelder für die bislang noch nicht sonderlich flexible Taskleiste von Windows 11 im primär an Entwickler und versierte Anwender adressierten Dev Channel. Die bereits aus Windows 10 bekannte Suche muss zuerst mit dem Werkzeug Vive aktiviert werden.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[App Permissions are no longer displayed on Google Play]]></title>
-        <id>https://www.ghacks.net/?p=179784</id>
-        <link href="https://www.ghacks.net/2022/07/18/app-permissions-are-no-longer-displayed-on-google-play/"/>
-        <updated>2022-07-18T05:01:08.000Z</updated>
-        <summary type="html"><![CDATA[Google Play is the default store on most Android devices. Most Android users use the store to download new apps and games, and to update them. Up until now, Google Play displayed […]
-Thank you for being a Ghacks reader. The post App Permissions are no longer displayed on Google Play appeared first on gHacks Technology News.]]></summary>
-        <author>
-            <name>Martin Brinkmann</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SCaLE 19X: Die 19. Southern California Linux Expo startet am 28. Juli [Notiz]]]></title>
-        <id>https://www.computerbase.de/2022-07/scale-19x-southern-california-linux-expo/</id>
-        <link href="https://www.computerbase.de/2022-07/scale-19x-southern-california-linux-expo/"/>
-        <updated>2022-07-18T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/2/8/0-86e9682fe8e798ef/article-640x360.5ab627d9.jpg"><p>Die SCaLE 19X, die 19. Southern California Linux Expo, findet vom 28. bis 31. Juli 2022 auf dem Hilton Airport in Los Angeles statt. Ursprünglich sollte die Messe, die Linux und Open Source zum Thema hat, vom 3. bis 6. März in Pasadena stattfinden, wurde aber aufgrund der COVID-19-Pandemie verschoben und zieht jetzt nach LA um.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cyberpunk-Katzenspiel: Stray erscheint mit viel Vorfreude in zwei Tagen]]></title>
-        <id>https://www.computerbase.de/2022-07/cyberpunk-katzenspiel-stray-erscheint-mit-viel-vorfreude-in-zwei-tagen/</id>
-        <link href="https://www.computerbase.de/2022-07/cyberpunk-katzenspiel-stray-erscheint-mit-viel-vorfreude-in-zwei-tagen/"/>
-        <updated>2022-07-17T19:37:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/2/7/9-d0a08da08fd2d4d0/article-640x360.82347511.jpg"><p>In Stray sehen sich Spieler ab Übermorgen mit einer bisher unverbrauchten Prämisse konfrontiert: In Third-Cat-Perspektive steuern sie einen Streuner durch die von Neon-Lichtern erhellte Nacht einer mysteriösen Cyberpunk-Stadt. Vielversprechende erste Eindrücke und ein Katzenrucksack erzeugen einen kleinen Hype.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Office Phishing Attack circumvents multi-factor authentication]]></title>
-        <id>https://www.ghacks.net/?p=179779</id>
-        <link href="https://www.ghacks.net/2022/07/17/office-phishing-attack-circumvents-multi-factor-authentication/"/>
-        <updated>2022-07-17T16:43:10.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft security researchers and engineers discovered a massive phishing attack that has been targeting more than 10,000 organizations since September 2021. The malicious actors used adversary-in-the-middle (AiTM) phishing sites to steal passwords […]
-Thank you for being a Ghacks reader. The post Office Phishing Attack circumvents multi-factor authentication appeared first on gHacks Technology News.]]></summary>
-        <author>
-            <name>Martin Brinkmann</name>
         </author>
     </entry>
 </feed>
