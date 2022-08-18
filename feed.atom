@@ -2,10 +2,494 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://olivedrop.github.io/drop/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-17T02:26:20.427Z</updated>
+    <updated>2022-08-18T02:28:13.596Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://olivedrop.github.io/drop/index.html"/>
     <link rel="self" href="https://olivedrop.github.io/drop/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Netflix: Erste Infos zur Abo-Stufe mit Werbung]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1124886</id>
+        <link href="https://stadt-bremerhaven.de/netflix-erste-infos-zur-abo-stufe-mit-werbung/"/>
+        <updated>2022-08-17T19:49:48.000Z</updated>
+        <summary type="html"><![CDATA[Disney hat bereits seine werbeunterstützte Abo-Stufe für Disney+ bekannt gegeben (neben einer Preiserhöhung) – und Netflix dürfte Anfang nächsten Jahres nachziehen. Dass Netflix auf eine Abo-Stufe mit Werbung setzen wird, ist schon länger bekannt. Nun sind im Quelltext der Netflix-App...
+Zum Beitrag: Netflix: Erste Infos zur Abo-Stufe mit Werbung
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft veröffentlicht Windows 11 Insider Preview Build 25182]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1124846</id>
+        <link href="https://stadt-bremerhaven.de/microsoft-veroeffentlicht-windows-11-insider-preview-build-25182/"/>
+        <updated>2022-08-17T18:11:09.000Z</updated>
+        <summary type="html"><![CDATA[Solltet ihr zu den Windows-11-Insidern gehören, dann könnt ihr im Dev-Channel ab sofort den Windows 11 Insider Preview Build 25182 herunterladen und installieren. Microsoft teilt mit, dass mit dem neuen Build dann auch das Enddatum des Systems auf den 15....
+Zum Beitrag: Microsoft veröffentlicht Windows 11 Insider Preview Build 25182
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>Benjamin Mamerow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vivaldi 5.4 for Android with improved privacy stats launches]]></title>
+        <id>https://www.ghacks.net/?p=180277</id>
+        <link href="https://www.ghacks.net/2022/08/17/vivaldi-5-4-for-android-with-improved-privacy-stats-launches/"/>
+        <updated>2022-08-17T18:01:42.000Z</updated>
+        <summary type="html"><![CDATA[Vivaldi Technologies released a new version of its Vivaldi for Android browser. Vivaldi 5.4 for Android makes a number of changes, including improved privacy statistics, a new close other tabs option, and […]
+Thank you for being a Ghacks reader. The post Vivaldi 5.4 for Android with improved privacy stats launches appeared first on gHacks Technology News.]]></summary>
+        <author>
+            <name>Martin Brinkmann</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Schließt Sicherheitslücken: macOS Monterey 12.5.1 veröffentlicht]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1124852</id>
+        <link href="https://stadt-bremerhaven.de/schliesst-sicherheitsluecken-macos-monterey-12-5-1-veroeffentlicht/"/>
+        <updated>2022-08-17T17:45:23.000Z</updated>
+        <summary type="html"><![CDATA[Nachdem Apple bereits iPadOS 15.6.1, iOS 15.6.1 sowie watchOS 8.7.1 veröffentlicht hat, folgt nun macOS Monterey 12.5.1 für die Macs. Richtig geraten: wie auch bei den anderen Geräten handelt es sich hierbei um ein Sicherheitsupdate für eure Maschinen – da...
+Zum Beitrag: Schließt Sicherheitslücken: macOS Monterey 12.5.1 veröffentlicht
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[QNAP mit Informationen zu Samba-Lücken]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1124845</id>
+        <link href="https://stadt-bremerhaven.de/qnap-mit-informationen-zu-samba-luecken/"/>
+        <updated>2022-08-17T17:37:39.000Z</updated>
+        <summary type="html"><![CDATA[QNAP ist sehr transparent bezüglich irgendwelcher Sicherheitslücken. Nun hat man bekannt gegeben, wie es um die unterschiedlichen Sicherheitslücken im Samba-Paket auf den NAS-Geräten bestellt ist, die mit dem Schweregrad „Hoch“ bewertet sind. Die jeweiligen Lücken werden gelistet unter CVE-2022-32742 |...
+Zum Beitrag: QNAP mit Informationen zu Samba-Lücken
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple-Event: Termin im September soll bekannt sein]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1124841</id>
+        <link href="https://stadt-bremerhaven.de/apple-event-termin-im-september-soll-bekannt-sein/"/>
+        <updated>2022-08-17T17:23:45.000Z</updated>
+        <summary type="html"><![CDATA[Apple beabsichtigt, am 7. September eine Veranstaltung abzuhalten, um das iPhone 14 vorzustellen. Dies berichtet das US-Medium Bloomberg unter Berufung auf Personen, die mit der Angelegenheit vertraut sind. Die neuen iPhones werden den Startschuss für eine volle Herbst-Produktsaison geben, die...
+Zum Beitrag: Apple-Event: Termin im September soll bekannt sein
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iOS 15.6.1 und iPadOS 15.6.1 veröffentlicht]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1124836</id>
+        <link href="https://stadt-bremerhaven.de/ios-15-6-1-und-ipados-15-6-1-veroeffentlicht/"/>
+        <updated>2022-08-17T17:19:13.000Z</updated>
+        <summary type="html"><![CDATA[Solltet ihr ein iPad oder ein iPhone haben, dann könnt ihr direkt einmal auf die Systemversion 15.6.1 aktualisieren. Für das iPhone eben iOS 15.6.1 und für das iPad ist es iPadOS 15.6.1. Apple schleift hier noch einmal nach, nennt wichtige...
+Zum Beitrag: iOS 15.6.1 und iPadOS 15.6.1 veröffentlicht
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Logitech Signature K650 Wireless Comfort Keyboard kostet 50 Euro]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1124734</id>
+        <link href="https://stadt-bremerhaven.de/logitech-signature-k650-wireless-comfort-keyboard-kostet-50-euro/"/>
+        <updated>2022-08-17T16:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Die nächste Tastatur aus dem Hause Logitech wartet auf ihre Kunden. Hierbei handelt es sich um das Logitech Signature K650 Wireless Comfort Keyboard. Mit verbesserten Tastenkombinationen, integrierter Handballenauflage und tief gepolsterten Tasten sei die Signature K650 für alle täglichen Anforderungen...
+Zum Beitrag: Logitech Signature K650 Wireless Comfort Keyboard kostet 50 Euro
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UBports OTA-23: Ubuntu Touch ist jetzt für das Fairphone 4 erschienen]]></title>
+        <id>https://www.computerbase.de/2022-08/fairphone-4-ubports-ubuntu-touch-ota-23/</id>
+        <link href="https://www.computerbase.de/2022-08/fairphone-4-ubports-ubuntu-touch-ota-23/"/>
+        <updated>2022-08-17T16:30:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/6/5/3-71ee42adbf378765/article-640x360.2c2ce251.jpg"><p>Wie die freie Entwickler-Gemeinschaft UBports jetzt bekanntgegeben hat, ist das auf Smartphones und Tablets angepasste Open-Source-Betriebssystem Ubuntu Touch, das ursprünglich vom britischen Linux-Distributor Canonical ins Leben gerufen wurde, nun auch offiziell für das modulare und fair hergestellte Fairphone 4 erschienen.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Corsair MP700: M.2-SSD mit PCIe 5.0 soll 10 GB/s erreichen]]></title>
+        <id>https://www.computerbase.de/2022-08/corsair-mp700-m-2-ssd-mit-pcie-5-0-soll-10-gb-s-erreichen/</id>
+        <link href="https://www.computerbase.de/2022-08/corsair-mp700-m-2-ssd-mit-pcie-5-0-soll-10-gb-s-erreichen/"/>
+        <updated>2022-08-17T16:09:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/6/5/4-6679966d46b6b706/article-640x360.ec8ceae3.jpg"><p>Der Marktstart von AMD Ryzen 7000 und den AM5-Mainboards wird diesen Herbst von den ersten PCIe-5.0-SSDs für Verbraucher begleitet. Corsair liefert jetzt einen ersten Ausblick auf die neue SSD-Generation: die Corsair MP700 SSD mit PCIe 5.0 im M.2-Format.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Samsung senkt seine Smartphone-Auslieferungsziele für 2022 deutlich ab]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1124794</id>
+        <link href="https://stadt-bremerhaven.de/samsung-senkt-seine-smartphone-auslieferungsziele-fuer-2022-deutlich-ab/"/>
+        <updated>2022-08-17T16:00:25.000Z</updated>
+        <summary type="html"><![CDATA[Samsung wollte 2022 eigentlich ca. 300 Mio. Smartphones ausliefern. Wie TheElec berichtet, habe das Unternehmen dieses Ziel korrigiert. Man gehe bei Samsung mittlerweile von „nur“ noch ca. 260 Mio. ausgelieferten Geräten im Gesamtjahr aus. Damit läge man unterhalb des letzten...
+Zum Beitrag: Samsung senkt seine Smartphone-Auslieferungsziele für 2022 deutlich ab
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PlayStation 5: Auch in Deutschland nun auf Einladung bei Amazon]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1124827</id>
+        <link href="https://stadt-bremerhaven.de/playstation-5-auch-in-deutschland-nun-auf-einladung-bei-amazon/"/>
+        <updated>2022-08-17T15:43:01.000Z</updated>
+        <summary type="html"><![CDATA[Ihr seid bislang leer ausgegangen und habt immer noch Lust auf die PlayStation 5? Mittlerweile gibt’s die Einladungs-Chance auch bei Amazon Deutschland. Bislang gab es diese unter anderem in den USA, nun auch bei uns. Sony bietet hierzulande für 600...
+Zum Beitrag: PlayStation 5: Auch in Deutschland nun auf Einladung bei Amazon
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ebay Kleinanzeigen warnt vor gefälschten Stellenanzeigen]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1124747</id>
+        <link href="https://stadt-bremerhaven.de/ebay-kleinanzeigen-warnt-vor-gefaelschten-stellenanzeigen/"/>
+        <updated>2022-08-17T15:30:21.000Z</updated>
+        <summary type="html"><![CDATA[In Zusammenarbeit mit der Polizei warnt eBay Kleinanzeigen, bald Kleinanzeigen.de, vor Betrugsmaschen, die sich um gefälschte Stellenanzeigen drehen. Versprochen werden „beste Verdienstmöglichkeiten, flexible Arbeitszeiten, wenig Arbeit“ – oft unter dem vermeintlichen Banner seriöser Unternehmen. Allerdings wollen die Kriminellen letzten Endes...
+Zum Beitrag: ebay Kleinanzeigen warnt vor gefälschten Stellenanzeigen
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nuki Smart Lock: App mit kleinen Verbesserungen]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1124819</id>
+        <link href="https://stadt-bremerhaven.de/nuki-smart-lock-app-mit-kleinen-verbesserungen/"/>
+        <updated>2022-08-17T15:23:12.000Z</updated>
+        <summary type="html"><![CDATA[Der kleine Hinweis an die Nutzer eines Smart Locks von Nuki. Der Anbieter hat schon neulich davon berichtet, dass man die App etwas umgestalten werde. Mit dem jetzt erschienenen Update hat man noch ein paar kleine Feinheiten nachjustiert. So gibt’s...
+Zum Beitrag: Nuki Smart Lock: App mit kleinen Verbesserungen
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LG: Neue Notebooks mit AMD Ryzen]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1124749</id>
+        <link href="https://stadt-bremerhaven.de/lg-neue-notebooks-mit-amd-ryzen/"/>
+        <updated>2022-08-17T15:00:44.000Z</updated>
+        <summary type="html"><![CDATA[LG schickt im Vorfeld der IFA mit seinen neuen „LG Ultra PCs“ neue Notebooks ins Rennen. Man setzt bei den insgesamt zehn 14 und 16 Zoll großen Geräten auf Prozessoren des Chipherstellers AMD. Konkret hat man Modelle für den Consumer...
+Zum Beitrag: LG: Neue Notebooks mit AMD Ryzen
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MeinMagenta: Update bringt neue Funktionen mit]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1124804</id>
+        <link href="https://stadt-bremerhaven.de/meinmagenta-update-bringt-neue-funktionen-mit/"/>
+        <updated>2022-08-17T14:40:33.000Z</updated>
+        <summary type="html"><![CDATA[Die Telekom hat eine aktualisierte Version ihrer MeinMagenta-App veröffentlicht. Endlich hat man mal wieder ein paar Features einfließen lassen, die hoffentlich bei den Nutzern für einen ordentlichen Mehrwert sorgen. Nutzer der App finden das Update für iOS bereits im App...
+Zum Beitrag: MeinMagenta: Update bringt neue Funktionen mit
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GarageBand Remix Sessions mit Katy Perry und SEVENTEEN]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1124798</id>
+        <link href="https://stadt-bremerhaven.de/garageband-remix-sessions-mit-katy-perry-und-seventeen/"/>
+        <updated>2022-08-17T14:30:25.000Z</updated>
+        <summary type="html"><![CDATA[Für die Sound-Tüftler unter euch gibt’s ein Update. Ab heute stehen in GarageBand, Apples kostenloser Musikproduktions-App für iPhone und iPad, zwei völlig neue Remix-Sessions zur Verfügung, die Nutzer dazu einladen ihre eigenen Versionen der Hits „Harleys in Hawaii“ von Katy...
+Zum Beitrag: GarageBand Remix Sessions mit Katy Perry und SEVENTEEN
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Open-Source-Malprogramm: Krita 5.1.0 für Windows, macOS und Linux erschienen]]></title>
+        <id>https://www.computerbase.de/2022-08/krita-5-1-malprogramm-windows-macos-linux/</id>
+        <link href="https://www.computerbase.de/2022-08/krita-5-1-malprogramm-windows-macos-linux/"/>
+        <updated>2022-08-17T14:29:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/6/5/2-afc902cf42b06173/article-640x360.99a0969b.jpg"><p>Das mächtige Open-Source-Grafik- und Malprogramm Krita, das von der vom KDE e.V. unterstützten und zum KDE-Projekt gehörenden Krita Foundation herausgegeben wird, ist in der neuesten Version 5.1.0 für die Betriebssysteme Windows, Linux und macOS erschienen und bietet Anwendern ein abermals erweitertes Featureset an.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux-Gaming: Proton 7.0-4 und DXVK 1.10.3 unterstützen weitere Spiele]]></title>
+        <id>https://www.computerbase.de/2022-08/valve-proton-7-0-4-steam-deck/</id>
+        <link href="https://www.computerbase.de/2022-08/valve-proton-7-0-4-steam-deck/"/>
+        <updated>2022-08-17T14:28:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/6/5/0-4f20adc1856a625e/article-640x360.9ec03524.jpg"><p>Die hauseigene Laufzeitumgebung Proton von Valve erhält mit Version 7.0-4 zahlreiche weitreichende Anpassungen, Optimierungen und Fehlerkorrekturen, sodass sich weitere Spiele auf dem Valve Steam Deck spielen lassen. Titel wie Elden Ring (Test) und FFXIV erhalten Fixes und der „DirectX-zu-Vulkan“-Übersetzer DXVK ein Update.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Autonomo eröffnet in Hamburg mit „Hoody“ einen kassenlosen Supermarkt]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1124735</id>
+        <link href="https://stadt-bremerhaven.de/autonomo-eroeffnet-in-hamburg-mit-hoody-einen-kassenlosen-supermarkt/"/>
+        <updated>2022-08-17T14:00:18.000Z</updated>
+        <summary type="html"><![CDATA[Autonomo ist ein laut eigenen Aussagen 2021 gegründetes Start-up, das morgen in Hamburg Eppendorf mit dem Hoody-Markt einen kassenlosen Supermarkt eröffnen wird. Schenkt man den Aussagen der Unternehmer Glauben, dann handele es sich in HH um das erste Exemplar dieser...
+Zum Beitrag: Autonomo eröffnet in Hamburg mit „Hoody“ einen kassenlosen Supermarkt
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fractal Focus 2, TG & RGB: ATX-Gehäuse bieten viel Platz für Luft und Komponenten]]></title>
+        <id>https://www.computerbase.de/2022-08/fractal-focus-2-tg-und-rgb-atx-gehaeuse-bieten-viel-platz-fuer-luft-und-komponenten/</id>
+        <link href="https://www.computerbase.de/2022-08/fractal-focus-2-tg-und-rgb-atx-gehaeuse-bieten-viel-platz-fuer-luft-und-komponenten/"/>
+        <updated>2022-08-17T13:33:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/6/4/0-dcddcf1a1beaf3df/article-640x360.5b349c50.jpg"><p>Auf die Mitte 2017 erschienene Focus G lässt Fractal Design nun das Focus 2 in insgesamt drei Varianten und zwei Farbgebungen folgen. Der Fokus liegt unverändert auf einem hohen Airflow, den eine Mesh-Front und ein freier Innenraum begünstigen sollen. Im Resultat lässt das Gehäuse viel Platz für große Komponenten.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Toggo will Kinder ohne deutsche Sprachkenntnisse ins Boot holen]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1124714</id>
+        <link href="https://stadt-bremerhaven.de/toggo-will-kinder-ohne-deutsche-sprachkenntnisse-ins-boot-holen/"/>
+        <updated>2022-08-17T13:30:39.000Z</updated>
+        <summary type="html"><![CDATA[Toggo, unter der Marke bündelt Super RTL sein Kinderprogramm, richtet sich nun auch explizit an Kinder, die zwar in Deutschland leben, aber kein Deutsch sprechen. Daher bietet man über die dedizierte Site toggo.de/aktion/together jetzt Kinderserien in verschiedenen Sprachversionen an. Darunter...
+Zum Beitrag: Toggo will Kinder ohne deutsche Sprachkenntnisse ins Boot holen
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows 11: Widgets können jetzt Benachrichtigungen in der Taskbar auslösen]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1124722</id>
+        <link href="https://stadt-bremerhaven.de/windows-11-widgets-koennen-jetzt-benachrichtigungen-in-der-taskbar-ausloesen/"/>
+        <updated>2022-08-17T13:00:11.000Z</updated>
+        <summary type="html"><![CDATA[Widgets können inWindows 11 laut einem überarbeiteten Support-Artikel mittlerweile Benachrichtigungen in der Taskbar auslösen. Auf diese Weise können dort etwa Notifications zum Wetter oder zu Aktienkursen erscheinen. Dies wird möglich durch ein Update des Windows Web Experience Packs, das im...
+Zum Beitrag: Windows 11: Widgets können jetzt Benachrichtigungen in der Taskbar auslösen
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Radioplayer-App nun für Sky-Q-Receiver]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1124753</id>
+        <link href="https://stadt-bremerhaven.de/radioplayer-app-nun-fuer-sky-q-receiver/"/>
+        <updated>2022-08-17T12:37:01.000Z</updated>
+        <summary type="html"><![CDATA[Nach dem Radioplayer-Start auf der IPTV Box von Sky ist die App nun auch auf allen Sky-Q-Receivern in Deutschland verfügbar. Durch eine Auswahl aus über 30 Genres und 2.300 deutschen Radiosendern ist für jeden Musik-Fan vermutlich das Richtige dabei. Es...
+Zum Beitrag: Radioplayer-App nun für Sky-Q-Receiver
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ChromeOS wohl bald mit Widgets ähnlich „At a Glance“]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1124687</id>
+        <link href="https://stadt-bremerhaven.de/chromeos-wohl-bald-mit-widgets-aehnlich-at-a-glance/"/>
+        <updated>2022-08-17T12:30:08.000Z</updated>
+        <summary type="html"><![CDATA[ChromeOS könnte laut einem Bericht von 9to5Google bald Widgets erhalten, die „At a Glance“ ähneln, einem Feature der Pixel-Smartphones von Google. Damit sind Widgets gemeint, die ihr auf dem Homescreen erblickt und die euch auf die Schnelle Informationen anbieten –...
+Zum Beitrag: ChromeOS wohl bald mit Widgets ähnlich „At a Glance“
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Alienware-Monitore: Full HD mit 360 Hz und WQHD mit 280 Hz]]></title>
+        <id>https://www.computerbase.de/2022-08/alienware-monitore-full-hd-mit-360-hz-und-wqhd-mit-280-hz/</id>
+        <link href="https://www.computerbase.de/2022-08/alienware-monitore-full-hd-mit-360-hz-und-wqhd-mit-280-hz/"/>
+        <updated>2022-08-17T12:20:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/6/4/9-3dbbb2911b629bbf/article-640x360.c48e9540.jpg"><p>Dell hat zwei neue IPS-Monitore in der Alienware-Serie für Spieler vorgestellt. Der AW2523HF nutzt Full HD mit bis zu 360 Hz auf 25 Zoll. Beim AW2723DF wird WQHD mit 240 Hz genutzt; per Übertaktung sind aber bis zu 280 Hz möglich.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[„She-Hulk“: Autorin schlüsselt die Entstehungsgeschichte der Marvel-Serie auf]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1124727</id>
+        <link href="https://stadt-bremerhaven.de/she-hulk-autorin-schluesselt-die-entstehungsgeschichte-der-marvel-serie-auf/"/>
+        <updated>2022-08-17T12:00:13.000Z</updated>
+        <summary type="html"><![CDATA[Morgen soll die Serie „She-Hulk“ bei Disney+ anlaufen. Mich wird man da nicht als Zuschauer gewinnen, da mir der Trailer so gar nicht zugesagt hat und bis auf „What If…?“ generell keine der Marvel-Serien bei Disney+ meinem Geschmack entsprochen hat....
+Zum Beitrag: „She-Hulk“: Autorin schlüsselt die Entstehungsgeschichte der Marvel-Serie auf
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VR-Benchmarks zu F1 22: So schnell fährt es sich in VR auf GeForce und Radeon]]></title>
+        <id>https://www.computerbase.de/2022-08/f1-22-vr-test/</id>
+        <link href="https://www.computerbase.de/2022-08/f1-22-vr-test/"/>
+        <updated>2022-08-17T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/5/5/2-acbaec8c56cd1bcc/article-640x360.0d366796.jpg"><p>Mit F1 22 kann EAs Rennspiel-Serie zum ersten Mal auch in VR gespielt werden. Das klappt sogar auf älterer Hardware ausgesprochen gut, wie der Test mit Benchmarks zeigt. Im Fokus stand neben den Anforderungen an die Grafikkarte auch, wie gut die VR-Umsetzung allgemein gelungen ist.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3D-NAND: Samsungs V-NAND V8 angeblich in den Startlöchern]]></title>
+        <id>https://www.computerbase.de/2022-08/3d-nand-samsungs-v-nand-v8-angeblich-in-den-startloechern/</id>
+        <link href="https://www.computerbase.de/2022-08/3d-nand-samsungs-v-nand-v8-angeblich-in-den-startloechern/"/>
+        <updated>2022-08-17T09:57:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/6/4/8-b8bc06a5130e07be/article-640x360.c662028d.jpg"><p>Laut einem Bericht von Business Korea könnte Samsung noch in diesem Jahr mit der Produktion von 3D-NAND mit einem neuen 236-Layer-Design beginnen. Zudem soll in Kürze ein neues Zentrum für Forschung und Entwicklung kommender NAND-Generationen eröffnet werden.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TSMC: Sieben Branchenriesen setzen auf neue N3-Fertigung]]></title>
+        <id>https://www.computerbase.de/2022-08/tsmc-sieben-branchenriesen-setzen-auf-neue-n3-fertigung/</id>
+        <link href="https://www.computerbase.de/2022-08/tsmc-sieben-branchenriesen-setzen-auf-neue-n3-fertigung/"/>
+        <updated>2022-08-17T08:59:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/6/4/4-7c2cb2fd56cc4853/article-640x360.0d43b543.jpg"><p>Der erste „3-nm-Prozess“ von TSMC lässt Kunden Schlange stehen. Sieben Branchenriesen wollen diese Technologiestufe möglichst bald nutzen, doch der Zeitplan soll nach wie vor ein schwieriger sein. Die Auftaktproduktion soll sehr gering ausfallen, wenngleich die aus Asien gemeldeten Zahlen zu gering erscheinen, um wahr zu sein.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Das Keyboard MacTigr: „Referenztastatur“ für Macs besteht aus Metall]]></title>
+        <id>https://www.computerbase.de/2022-08/das-keyboard-mactigr-referenztastatur-fuer-macs-besteht-aus-metall/</id>
+        <link href="https://www.computerbase.de/2022-08/das-keyboard-mactigr-referenztastatur-fuer-macs-besteht-aus-metall/"/>
+        <updated>2022-08-17T08:20:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/6/4/7-86345fd391fc9088/article-640x360.9f7f4c92.jpg"><p>Für die MacTigr des Edelherstellers Das Keyboard gibt es nur eine Zielgruppe: Mac-Besitzer. Das Eingabegerät wird als „mechanische Referenztastatur“ für die Apple-Plattform angekündigt. Sie soll die Zielgruppe mit flacher Bauweise, einem Gehäuse aus Metall und einem USB-C-Hub ansprechen.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Chrome 104: patches critical security issue and a issue that is exploited]]></title>
+        <id>https://www.ghacks.net/?p=180269</id>
+        <link href="https://www.ghacks.net/2022/08/17/google-chrome-104-patches-critical-security-issue-and-a-issue-that-is-exploited/"/>
+        <updated>2022-08-17T08:04:26.000Z</updated>
+        <summary type="html"><![CDATA[Google released a new version of the company's Google Chrome browser on August 16, 2022. The new stable version is a security update for the browser that addresses 11 security issues. It […]
+Thank you for being a Ghacks reader. The post Google Chrome 104: patches critical security issue and a issue that is exploited appeared first on gHacks Technology News.]]></summary>
+        <author>
+            <name>Martin Brinkmann</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deepin 23 Preview: China-Distribution auf Debian-Basis mit neuem Paketformat]]></title>
+        <id>https://www.computerbase.de/2022-08/deepin-23-linux-china-distribution/</id>
+        <link href="https://www.computerbase.de/2022-08/deepin-23-linux-china-distribution/"/>
+        <updated>2022-08-17T05:30:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/6/3/3-d914c83fe3cc553d/article-640x360.fc9633ab.jpg"><p>Deepin, die beliebteste Linux-Distribution Chinas, basiert auf Debian GNU/Linux und erhält in der neuesten Version 23 neben dem bereits etablierten hauseigenen Desktop, dem Deepin Desktop Environment, ihr eigenes Paketformat sowie atomare Updates. Deepin 23, das zudem einen neuen Upstream beinhaltet, steht zum Testen bereit.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rumor: Windows 11 version 22H2 release date could be September 20, 2022]]></title>
+        <id>https://www.ghacks.net/?p=180265</id>
+        <link href="https://www.ghacks.net/2022/08/17/rumor-windows-11-version-22h2-release-date-could-be-september-20-2022/"/>
+        <updated>2022-08-17T05:13:06.000Z</updated>
+        <summary type="html"><![CDATA[The first feature update for Windows 11, version 22H2, could be released as early as September 20, 2022 according to Windows Central. Microsoft has not confirmed the date, and the site cites […]
+Thank you for being a Ghacks reader. The post Rumor: Windows 11 version 22H2 release date could be September 20, 2022 appeared first on gHacks Technology News.]]></summary>
+        <author>
+            <name>Martin Brinkmann</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WhatsApp Desktop gets a native UWP version on Windows; macOS app in the works]]></title>
+        <id>https://www.ghacks.net/?p=180262</id>
+        <link href="https://www.ghacks.net/2022/08/17/whatsapp-desktop-native-uwp-version-on-windows/"/>
+        <updated>2022-08-17T04:38:57.000Z</updated>
+        <summary type="html"><![CDATA[The WhatsApp Desktop app for Windows has been updated, it is now a native UWP app. It replaces the old web-app version. The messaging service, owned by Meta, released a beta version […]
+Thank you for being a Ghacks reader. The post WhatsApp Desktop gets a native UWP version on Windows; macOS app in the works appeared first on gHacks Technology News.]]></summary>
+        <author>
+            <name>Ashwin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Navi 31, 32 und 33: Handfeste Gerüchte zu AMDs Radeon RX 7000 mit RDNA 3]]></title>
+        <id>https://www.computerbase.de/2022-08/navi-31-32-und-33-handfeste-geruechte-zu-amds-radeon-rx-7000-mit-rdna-3/</id>
+        <link href="https://www.computerbase.de/2022-08/navi-31-32-und-33-handfeste-geruechte-zu-amds-radeon-rx-7000-mit-rdna-3/"/>
+        <updated>2022-08-17T04:17:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/6/3/7-dab0b1c126fe5b2d/article-640x360.1b48bbb7.jpg"><p>Während die Gerüchteküche zuletzt mehrmals die Woche von mutmaßlich neuen, häufig stark abgeänderten Spezifikationen zu Nvidias GeForce-RTX-4000-Serie zu berichten wusste, war es um Radeon RX 7000 auf Basis der RDNA-3-GPUs Navi 31, 32 und 33 zuletzt eher ruhig. Angstronomics hat diese Ruhe beendet, ohne für Unruhe zu sorgen.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Nintendo Switch: Life is Strange: Remastered Collection erscheint Ende September]]></title>
         <id>https://stadt-bremerhaven.de/?p=1124640</id>
@@ -11885,640 +12369,6 @@ Zum Blog: Caschys Blog
 Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
         <author>
             <name>caschy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sonos 14.12: Update bringt neue Funktionen]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1120285</id>
-        <link href="https://stadt-bremerhaven.de/sonos-14-12-update-bringt-neue-funktionen/"/>
-        <updated>2022-07-19T14:25:15.000Z</updated>
-        <summary type="html"><![CDATA[Sonos, der Hersteller smarter Lautsprechersysteme, hat heute ein Firmware-Update auf die Version 14.12 veröffentlicht. Es wurde eine neue WLAN-Energiespareinstellung für die portablen Roam und Roam SL hinzugefügt, um die Batterielebensdauer bei der Verbindung mit drahtlosen Netzwerken zu verlängern. In der...
-Zum Beitrag: Sonos 14.12: Update bringt neue Funktionen
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>caschy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Paid Sharing: Netflix lässt in Lateinamerika für mehrere Wohnorte zahlen]]></title>
-        <id>https://www.computerbase.de/2022-07/paid-sharing-netflix-laesst-in-lateinamerika-fuer-mehrere-wohnorte-zahlen/</id>
-        <link href="https://www.computerbase.de/2022-07/paid-sharing-netflix-laesst-in-lateinamerika-fuer-mehrere-wohnorte-zahlen/"/>
-        <updated>2022-07-19T13:50:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/3/0/3-33ee42b766e5f241/article-640x360.bc209225.jpg"><p>Bereits Anfang des Jahres wurde bekannt, dass Netflix an Tarifoptionen für Nutznießer arbeitet – das kostenmindernde Teilen eines einzigen Netflix-Accounts unter Freunden oder in eigenständigen Haushalten wohnenden Familienmitgliedern ist zwar gängige Praxis, aber in der praktizierten Art und Weise unerwünscht.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meet Windows 11: Microsoft's new educational video series is now available]]></title>
-        <id>https://www.ghacks.net/?p=179813</id>
-        <link href="https://www.ghacks.net/2022/07/19/meet-windows-11-microsofts-new-educational-video-series-is-now-available/"/>
-        <updated>2022-07-19T13:45:55.000Z</updated>
-        <summary type="html"><![CDATA[Using an operating system such as Windows 11 is not exactly rocket science, but if you are new to Windows in general or could use a few tips, then Microsoft's new Meet […]
-Thank you for being a Ghacks reader. The post Meet Windows 11: Microsoft's new educational video series is now available appeared first on gHacks Technology News.]]></summary>
-        <author>
-            <name>Martin Brinkmann</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Geldautomaten: Datenklau nimmt aktuell zu]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1120255</id>
-        <link href="https://stadt-bremerhaven.de/geldautomaten-datenklau-nimmt-aktuell-zu/"/>
-        <updated>2022-07-19T13:30:09.000Z</updated>
-        <summary type="html"><![CDATA[Derzeit soll es an Geldautomaten vermehrt zu Datendiebstahl kommen. Vor allem Hamburg sei laut einer DPA-Meldung, welche unter anderem der Spiegel aufgegriffen hat, betroffen. Dank hoher Sicherheitsstandards halte sich der Schaden aber bisher in Grenzen. 140 Skimming-Angriffe soll es laut...
-Zum Beitrag: Geldautomaten: Datenklau nimmt aktuell zu
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>André Westphal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cat S53: Erstes 5G-Smartphone von Cat Phones kommt mit Riesenakku]]></title>
-        <id>https://www.computerbase.de/2022-07/cat-s53-erstes-5g-smartphone-von-cat-phones-kommt-mit-riesenakku/</id>
-        <link href="https://www.computerbase.de/2022-07/cat-s53-erstes-5g-smartphone-von-cat-phones-kommt-mit-riesenakku/"/>
-        <updated>2022-07-19T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/3/0/4-4cdc2ae8bd349cee/article-640x360.c8d829d9.jpg"><p>Die Bullitt Group als globaler Lizenznehmer für Cat Phones hat mit dem S53 das erste Outdoor-Rugged-5G-Smartphone des Unternehmens vorgestellt. Neben dem neuen Mobilfunkstandard gibt es einen schnelleren Prozessor, mehr Kameras, drahtloses Laden und einen stärkeren Schutz. Der Rugged-5G-Hotspot Cat Q10 startet parallel dazu.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google erlaubt alternative Bezahlsysteme für Apps im Europäischen Wirtschaftsraum]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1120267</id>
-        <link href="https://stadt-bremerhaven.de/google-erlaubt-alternative-bezahlsysteme-fuer-apps-im-europaeischen-wirtschaftsraum/"/>
-        <updated>2022-07-19T13:21:36.000Z</updated>
-        <summary type="html"><![CDATA[Google hat Nachrichten für Entwickler und Kunden parat. Konkret geht’s um Bezahlsysteme von Dritten. Das ist ja immer wieder bei Apple und Google ein Thema. Im Europäischen Wirtschaftsraum gibt’s nun eine neue Regelung, die Google auf Druck der Marktwächter einführt....
-Zum Beitrag: Google erlaubt alternative Bezahlsysteme für Apps im Europäischen Wirtschaftsraum
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>caschy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Android: Nova Launcher wurde verkauft]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1120262</id>
-        <link href="https://stadt-bremerhaven.de/android-nova-launcher-wurde-verkauft/"/>
-        <updated>2022-07-19T13:11:26.000Z</updated>
-        <summary type="html"><![CDATA[Da werden sehr viele Nutzer genau hinschauen, wie es weitergeht. Der wohl beliebteste Android-Launcher, Nova Launcher, wurde verkauft. Das Unternehmen „Branch Metrics“ hat den Nova Launcher übernommen, die Entwickler sollen aber an Bord bleiben. Nova konzentriert sich zukünftig auf Power-User...
-Zum Beitrag: Android: Nova Launcher wurde verkauft
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>caschy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TikTok: Restrukturierungen sorgen für Entlassungswelle]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1120248</id>
-        <link href="https://stadt-bremerhaven.de/tiktok-restrukturierungen-sorgen-fuer-entlassungswelle/"/>
-        <updated>2022-07-19T13:00:19.000Z</updated>
-        <summary type="html"><![CDATA[TikTok hat in den USA bereits die Belegschaft reduziert und laut Wired auch Mitarbeitern in Großbritannien und der EU mitgeteilt, dass einige Arbeitsplätze gestrichen werden. Demnach wolle das soziale Netzwerk sich restrukturieren. Getroffen hat es da auch höhere Positionen. Der...
-Zum Beitrag: TikTok: Restrukturierungen sorgen für Entlassungswelle
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>André Westphal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Corsair Xeneon 32UHD144: Schnelles Quantum-Dot-IPS mit HDMI 2.1 und 144 Hz]]></title>
-        <id>https://www.computerbase.de/2022-07/corsair-xeneon-32uhd144-schnelles-quantum-dot-ips-mit-hdmi-2-1-und-144-hz/</id>
-        <link href="https://www.computerbase.de/2022-07/corsair-xeneon-32uhd144-schnelles-quantum-dot-ips-mit-hdmi-2-1-und-144-hz/"/>
-        <updated>2022-07-19T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/1/2/9-7d574abcbae006df/article-640x360.92fb5b39.jpg"><p>Nach dem ersten Gaming-Monitor von Corsair, dem Xeneon 32QHD165 (Test), folgt mit dem Xeneon 32UHD144 Gaming-Monitor ein zweites Modell, das nicht mehr auf WQHD, sondern die höhere UHD-Auflösung setzt. Eine schnelle variable Bildwiederholrate, ein Quantum-Dot-Panel und DisplayHDR 600 werden zudem geboten.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Resident Evil: Fans strafen Netflix-Serie mit vernichtenden Rezensionen]]></title>
-        <id>https://www.computerbase.de/2022-07/resident-evil-fans-strafen-netflix-serie-mit-vernichtenden-rezensionen/</id>
-        <link href="https://www.computerbase.de/2022-07/resident-evil-fans-strafen-netflix-serie-mit-vernichtenden-rezensionen/"/>
-        <updated>2022-07-19T12:56:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/3/0/5-fb07ff3b75dadb93/article-640x360.8a118449.jpg"><p>Mit Resident Evil feierte Netflix am 14. Juli den Start einer weiteren Serie mit Videospiel-Hintergrund. Nicht feierlich gestimmt sind allerdings die Fans: Die Horror-Verfilmung sei nicht grauenhaft gruselig, sondern einfach nur grauenhaft. Kritiker sind milder gestimmt, aber insgesamt fallen die Rezensionen unterirdisch aus.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bundesweiter Warntag am 8. Dezember 2022]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1120258</id>
-        <link href="https://stadt-bremerhaven.de/bundesweiter-warntag-am-8-dezember-2022/"/>
-        <updated>2022-07-19T12:51:14.000Z</updated>
-        <summary type="html"><![CDATA[Geplant war er laut letzter Informationen im September, nun findet er am 8. Dezember 2022 statt. Ziel des bundesweiten Warntags ist es, die Menschen in Deutschland über die unterschiedlichen Warnmittel in Gefahrensituationen zu informieren und damit auch stärker auf den...
-Zum Beitrag: Bundesweiter Warntag am 8. Dezember 2022
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>caschy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Festplatten: 22 TB jetzt auch bei WD Gold, WD Red Pro und WD Purple]]></title>
-        <id>https://www.computerbase.de/2022-07/festplatten-22-tb-jetzt-auch-bei-wd-gold-wd-red-pro-und-wd-purple/</id>
-        <link href="https://www.computerbase.de/2022-07/festplatten-22-tb-jetzt-auch-bei-wd-gold-wd-red-pro-und-wd-purple/"/>
-        <updated>2022-07-19T12:46:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/3/0/7-9cf6ff7328aa68f8/article-640x360.22c26bd6.jpg"><p>Der US-Hersteller Western Digital erhöht bei weiteren HDD-Serien die maximale Speicherkapazität auf 22 TB. Ab sofort sollen auch die Festplatten der Familien WD Gold, WD Red Pro und WD Purple so viel Speichervolumen bieten.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Render aufgetaucht: Samsung Galaxy Z Fold4 und Galaxy Z Flip4]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1120250</id>
-        <link href="https://stadt-bremerhaven.de/render-aufgetaucht-samsung-galaxy-z-fold4-und-galaxy-z-flip4/"/>
-        <updated>2022-07-19T12:40:33.000Z</updated>
-        <summary type="html"><![CDATA[Der 10. August steht bei Samsung im Kalender. Da will man neue Geräte vorstellen. Wie das so ist: Es tauchen bereits vorher (Presse)Informationen auf, in diesem Falle sind das neue Render, die Samsung Galaxy Z Fold4 und Galaxy Z Flip4...
-Zum Beitrag: Render aufgetaucht: Samsung Galaxy Z Fold4 und Galaxy Z Flip4
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>caschy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WhatsApp Beta für Android 2.22.16.10: Arbeit an Quick Reactions für den Status]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1120241</id>
-        <link href="https://stadt-bremerhaven.de/whatsapp-beta-fuer-android-2-22-16-10-arbeit-an-quick-reactions-fuer-den-status/"/>
-        <updated>2022-07-19T12:35:38.000Z</updated>
-        <summary type="html"><![CDATA[WhatsApp hat die Beta 2.22.16.10 für Android veröffentlicht. Vordergründig hat sich bei der App wenig getan, hinter den Kulissen läuft jedoch die Arbeit an Quick Reactions für Status-Updates. Das soll es ermöglichen, dass ihr auf Status-Updates mit den bekannten Emoji-Reaktionen...
-Zum Beitrag: WhatsApp Beta für Android 2.22.16.10: Arbeit an Quick Reactions für den Status
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>André Westphal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Slack: Nutzung wird teurer]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1120235</id>
-        <link href="https://stadt-bremerhaven.de/slack-nutzung-wird-teurer/"/>
-        <updated>2022-07-19T11:59:30.000Z</updated>
-        <summary type="html"><![CDATA[Die Nutzung der Kollaborationsplattform Slack wird teurer. Dies gab das Unternehmen bekannt. Es sei die erste Erhöhung seit 2014. Von dieser Preiserhöhung sind nur Kunden des Pro-Plans betroffen. Außerdem nehme man Änderungen am kostenlosen Plan vor. Diese beiden Änderungen treten...
-Zum Beitrag: Slack: Nutzung wird teurer
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>caschy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Synology Photos: Update bringt neue Funktionen]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1120231</id>
-        <link href="https://stadt-bremerhaven.de/synology-photos-update-bringt-neue-funktionen/"/>
-        <updated>2022-07-19T11:17:30.000Z</updated>
-        <summary type="html"><![CDATA[Das Modul „Synology Photos“ ist für manche Synology-NAS-Besitzer ab und an Streitthema. Manche mögen es, andere wiederum wünschen sich mehr Funktionen. Die ersten gibt’s nun mit einem heute veröffentlichten Update. So gibt’s Unterstützung für das ARW-Format der Sony-Alpha-1-Kameras, aber viel...
-Zum Beitrag: Synology Photos: Update bringt neue Funktionen
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>caschy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Netflix wants to tackle password sharing by charging users an additional fee to buy additional Homes]]></title>
-        <id>https://www.ghacks.net/?p=179805</id>
-        <link href="https://www.ghacks.net/2022/07/19/netflix-wants-to-tackle-password-sharing-by-charging-users-an-additional-fee-to-buy-additional-homes/"/>
-        <updated>2022-07-19T11:14:03.000Z</updated>
-        <summary type="html"><![CDATA[Netflix is testing a new way to tackle the password sharing problem. The streaming service is introducing, Netflix Homes, an additional fee that users may have to pay, if they are sharing […]
-Thank you for being a Ghacks reader. The post Netflix wants to tackle password sharing by charging users an additional fee to buy additional Homes appeared first on gHacks Technology News.]]></summary>
-        <author>
-            <name>Ashwin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Minisforum NUC X17 und X15: Ultra-Thin-Clients mit Tiger Lake-H45 und RTX 3000]]></title>
-        <id>https://www.computerbase.de/2022-07/minisforum-nuc-x17-x15-mini-pc/</id>
-        <link href="https://www.computerbase.de/2022-07/minisforum-nuc-x17-x15-mini-pc/"/>
-        <updated>2022-07-19T10:34:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/3/0/0-6504039addf46482/article-640x360.19b6d74f.jpg"><p>Der für seine Mini-PCs bekannte Hersteller Minisforum hat mit dem NUC X17 und X15 kompakte Systeme mit Prozessoren vom Typ Intel Tiger Lake und Grafikkarten auf Basis von Nvidia Ampere vorgestellt. Im Vollausbau werden ein Core i7-11800H mit insgesamt acht Kernen und eine GeForce RTX 3070 Laptop GPU (Test) geboten.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BSI-Tool erlaubt Beobachten der Windows-Telemetrie]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1120228</id>
-        <link href="https://stadt-bremerhaven.de/bsi-tool-erlaubt-beobachten-der-windows-telemetrie/"/>
-        <updated>2022-07-19T10:25:39.000Z</updated>
-        <summary type="html"><![CDATA[Das Bundesamt für Sicherheit in der Informationstechnik hat im Projekt SiSyPHuS Win10 (Studie zu Systemaufbau, Protokollierung, Härtung und Sicherheitsfunktionen in Windows 10) ein Tool veröffentlicht, mit dem das Verhalten der Windows-Telemetrie detailliert beobachtet werden kann – der „System Activity Monitor“...
-Zum Beitrag: BSI-Tool erlaubt Beobachten der Windows-Telemetrie
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>caschy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Endgame Gear XSTRM im Test: Solides Einsteiger-Mikrofon mit viel Zubehör]]></title>
-        <id>https://www.computerbase.de/2022-07/endgame-gear-xstrm-test/</id>
-        <link href="https://www.computerbase.de/2022-07/endgame-gear-xstrm-test/"/>
-        <updated>2022-07-19T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/1/7/3-a51c37489fbd58d4/article-640x360.f97ca569.jpg"><p>Mit dem Mikrofon XSTRM schnürt Endgame Gear ein stimmiges und klanglich überzeugendes Gesamtpaket für Einsteiger – mit viel sinnvollem Zubehör. Kleine Fehler in der Konstruktion und die damit einhergehenden Limitierungen schmälern den guten Eindruck allerdings leicht. Auch die LED-Beleuchtung hinterlässt Fragen.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vodafone: Bundesweite Störung soll nur iPhones betreffen]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1120226</id>
-        <link href="https://stadt-bremerhaven.de/vodafone-bundesweite-stoerung-soll-nur-iphones-betreffen/"/>
-        <updated>2022-07-19T09:44:54.000Z</updated>
-        <summary type="html"><![CDATA[Seit einigen Stunden häufen sich die Beschwerden über Störungen bezüglich der Telefonie bei Vodafone. Das Unternehmen hat nun auch eine bundesweite Störung gegen kurz nach 11 Uhr bestätigt, allerdings ist die so gelagert, dass lediglich beim iPhone der SMS-Versand über...
-Zum Beitrag: Vodafone: Bundesweite Störung soll nur iPhones betreffen
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>caschy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nintendo: Wii U und Nintendo 3DS fliegen aus dem eShop]]></title>
-        <id>https://www.computerbase.de/2022-07/nintendo-3ds-wii-u-eshop-support/</id>
-        <link href="https://www.computerbase.de/2022-07/nintendo-3ds-wii-u-eshop-support/"/>
-        <updated>2022-07-19T08:56:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/3/0/2-e325f31d04947b52/article-640x360.5f382b2f.jpg"><p>Nintendo stellt den Support für die beiden Spielkonsolen Wii U und Nintendo 3DS über den hauseigenen Nintendo eShop zum 27. März 2023 offiziell ein. Bereits ab dem kommenden Monat wird es nicht mehr möglich sein, Guthaben für die stationäre Spielkonsole und den erfolgreichen Gaming-Handheld hinzuzufügen.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wächter-Modus: Verbraucherzentrale verklagt Tesla]]></title>
-        <id>https://www.computerbase.de/2022-07/waechter-modus-verbraucherzentrale-verklagt-tesla/</id>
-        <link href="https://www.computerbase.de/2022-07/waechter-modus-verbraucherzentrale-verklagt-tesla/"/>
-        <updated>2022-07-19T08:34:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/3/0/1-1833de5c85ce21e2/article-640x360.ca4eb092.jpg"><p>Der Verbraucherzentrale Bundesverband (vzbv) hat beim Landgericht Berlin Klage gegen Tesla erhoben. Die Verbraucherzentrale bemängelt den angeblich nicht datenschutzkonformen Wächter-Modus von Tesla, der verdächtige Aktivitäten rund um das Auto erfassen soll. Zudem seien die Werbeaussagen von Tesla zur CO2-Ersparnis irreführend.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Geringe Nachfrage: Smartphone-Markt bricht um 9 Prozent ein]]></title>
-        <id>https://www.computerbase.de/2022-07/geringe-nachfrage-smartphone-markt-bricht-um-9-prozent-ein/</id>
-        <link href="https://www.computerbase.de/2022-07/geringe-nachfrage-smartphone-markt-bricht-um-9-prozent-ein/"/>
-        <updated>2022-07-19T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/2/9/9-fee69d3e71d0fbb3/article-640x360.869b15b7.jpg"><p>Nicht nur der PC-Markt schwächelt, sondern auch bei den Smartphones setzt sich der Trend nach unten fort. 9 Prozent weniger Smartphones als noch im zweiten Quartal 2021 konnten den Analysten von Canalys zufolge in 2022 abgesetzt werden. Aufgrund der Inflation verschiebe sich die Nachfrage von der Mittel- in die Einsteigerklasse.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kingston Fury Renegade RGB: Low-Latency-Kits mit 32 GB DDR5-6400 CL32 vorgestellt]]></title>
-        <id>https://www.computerbase.de/2022-07/kingston-fury-renegade-ddr5-rgb/</id>
-        <link href="https://www.computerbase.de/2022-07/kingston-fury-renegade-ddr5-rgb/"/>
-        <updated>2022-07-19T07:29:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/2/9/8-21fa2fadcf18532b/article-640x360.3910e768.jpg"><p>Kingston hat mit den Speicherserien Fury Renegade DDR5 und Fury Renegade DDR5 RGB mehrere RAM-Kits mit bis zu 32 GB DDR5-6400 CL32-39-39 bei 1,4 V vorgestellt. Wie der Hersteller verspricht, sollen Intel XMP 3.0 und handverlesene Speicher-ICs für ein überdurchschnittlich hohes Potential in Sachen Overclocking sorgen.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gmail: Suchfunktion wurde abermals verbessert]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1120161</id>
-        <link href="https://stadt-bremerhaven.de/gmail-suchfunktion-wurde-abermals-verbessert/"/>
-        <updated>2022-07-19T07:00:45.000Z</updated>
-        <summary type="html"><![CDATA[Google hat die Suchfunktion für Gmail über die letzten Jahre hinweg stetig verbessert. Unter anderem bietet man da diverse „Search Chips“, welche die Suche um Parameter erweitert und diese somit treffsicherer machen soll. Nach Angaben von Google erlaubt Gmail fortan...
-Zum Beitrag: Gmail: Suchfunktion wurde abermals verbessert
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>Felix Frank</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple TV+: Trailer zur Familien-Serie „Surfside Girls“ erschienen]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1120185</id>
-        <link href="https://stadt-bremerhaven.de/apple-tv-trailer-zur-familien-serie-surfside-girls-erschienen/"/>
-        <updated>2022-07-19T06:30:07.000Z</updated>
-        <summary type="html"><![CDATA[Apple hat den Trailer zur neuen Kinder- und Familien-Serie „Surfside Girls“ veröffentlicht. Die Produktion wird am 19. August auf dem Streaming-Dienst an den Start gehen und basiert auf den Comicromanen von Kim Dwinell. In der Serie geht es um die...
-Zum Beitrag: Apple TV+: Trailer zur Familien-Serie „Surfside Girls“ erschienen
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>Oliver Posselt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Workspace: Admins erhalten Kontrolle für experimentelle Apps]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1120189</id>
-        <link href="https://stadt-bremerhaven.de/google-workspace-admins-erhalten-kontrolle-fuer-experimentelle-apps/"/>
-        <updated>2022-07-19T06:00:08.000Z</updated>
-        <summary type="html"><![CDATA[Google Workspace kann seit langer Zeit mit anderen Apps aus dem Store angereichert werden. Dabei sind auch welche von Google, die der Kategorie „Experimentell“ zuzuordnen sind, die Entwicklung ist also noch nicht abgeschlossen. Admins erhalten nun separate Einstellungen dazu in...
-Zum Beitrag: Google Workspace: Admins erhalten Kontrolle für experimentelle Apps
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>Oliver Posselt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[9-Euro-Ticket: Möglicher Nachfolger könnte ab Ende 2022 starten]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1120207</id>
-        <link href="https://stadt-bremerhaven.de/9-euro-ticket-moeglicher-nachfolger-koennte-ab-ende-2022-moeglich-sein/"/>
-        <updated>2022-07-19T05:36:28.000Z</updated>
-        <summary type="html"><![CDATA[Das 9-Euro-Ticket ist eines der großen Themen des Jahres. Da gibt’s allerlei Ideen und Forderungen, ob und wie es nun weitergeht. Kritiker sagen, dass das 9-Euro-Ticket oft nur denen hilft, die genug haben würden, um sich ein Ticket zu kaufen....
-Zum Beitrag: 9-Euro-Ticket: Möglicher Nachfolger könnte ab Ende 2022 starten
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>caschy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sony übernimmt E-Sport-Plattform Repeat.gg]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1120179</id>
-        <link href="https://stadt-bremerhaven.de/sony-uebernimmt-e-sport-plattform-repeat-gg/"/>
-        <updated>2022-07-19T05:30:27.000Z</updated>
-        <summary type="html"><![CDATA[Sonys Bemühungen im E-Sport-Bereich lassen nicht nach. Schon wieder gibt es eine Übernahme – oder besser: Aufnahme. Denn wie die Plattform Repeat.gg mitteilt, gehört man dort nun zur Sony-Familie. Repeat.gg veranstaltet Ranglistenturniere, die den Zugang zum E-Sport erleichtern sollen. Dort...
-Zum Beitrag: Sony übernimmt E-Sport-Plattform Repeat.gg
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>Benjamin Mamerow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Retbleed unter Linux: Kernel 5.19-RC7 schließt CPU-Schwachstellen]]></title>
-        <id>https://www.computerbase.de/2022-07/linux-kernel-5-19-retbleed/</id>
-        <link href="https://www.computerbase.de/2022-07/linux-kernel-5-19-retbleed/"/>
-        <updated>2022-07-19T05:30:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/2/9/7-83e2bf5dc4cfddb1/article-640x360.421e1da7.jpg"><p>Initiator und Chef-Entwickler Linus Torvalds hat den nächsten Release Candidate für den kommenden Systemkernel Linux 5.19 mit Fix gegen die Retbleed-Sicherheitslücken, welche in noch stark verbreiteten CPUs von AMD und Intel die im Jahr 2017 entdeckten Schwachstellen Spectre und Spectre-V2 ausnutzen können, jetzt freigegeben.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fitbit Charge 5: Update bringt Funktion zum Finden des Smartphones]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1120205</id>
-        <link href="https://stadt-bremerhaven.de/fitbit-charge-5-update-bringt-funktion-zum-finden-des-smartphones/"/>
-        <updated>2022-07-19T05:13:40.000Z</updated>
-        <summary type="html"><![CDATA[Das mittlerweile zu Google gehörende Unternehmen Fitbit verteilt derzeit ein Update für seinen Tracker Fitbit Charge 5. Das bringt die Firmware auf die Version 57.20001.171.50 (zu sehen unter Settings>Device Info >System Info>Version). Damit bekommt die Charge 5 eine neue Funktion...
-Zum Beitrag: Fitbit Charge 5: Update bringt Funktion zum Finden des Smartphones
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>caschy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mozilla is testing Quick Actions in Firefox's Address Bar]]></title>
-        <id>https://www.ghacks.net/?p=179800</id>
-        <link href="https://www.ghacks.net/2022/07/19/mozilla-is-testing-quick-actions-in-firefoxs-address-bar/"/>
-        <updated>2022-07-19T05:09:00.000Z</updated>
-        <summary type="html"><![CDATA[Mozilla's Firefox web browser could soon support a feature that Mozilla calls Quick Actions. These commands may be launched from the browser's address bar directly, for example, to view the source code […]
-Thank you for being a Ghacks reader. The post Mozilla is testing Quick Actions in Firefox's Address Bar appeared first on gHacks Technology News.]]></summary>
-        <author>
-            <name>Martin Brinkmann</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iPhone: Jailbreak für iOS 15 wohl bald verfügbar]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1120193</id>
-        <link href="https://stadt-bremerhaven.de/iphone-jailbreak-fuer-ios-15-wohl-bald-verfuegbar/"/>
-        <updated>2022-07-19T05:00:51.000Z</updated>
-        <summary type="html"><![CDATA[Jailbreaks waren damals ziemlich populär und ermöglichten iPhone-Nutzern, allerlei in ihrem System zu betreiben. Die Bandbreite reichte von kleineren Erweiterungen im System bis hin zur Nutzung von Apps aus anderen Quellen. Das Odyssey-Team hat nun per Twitter erste Bilder eines...
-Zum Beitrag: iPhone: Jailbreak für iOS 15 wohl bald verfügbar
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>Oliver Posselt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Adata XPG Slingshot: Gamer-Girl-Maskottchen zeigt im Meraverse ihre Lochmaus]]></title>
-        <id>https://www.computerbase.de/2022-07/adata-xpg-slingshot-gamer-girl-maskottchen-zeigt-im-meraverse-ihre-lochmaus/</id>
-        <link href="https://www.computerbase.de/2022-07/adata-xpg-slingshot-gamer-girl-maskottchen-zeigt-im-meraverse-ihre-lochmaus/"/>
-        <updated>2022-07-19T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/2/9/5-e5e449d629baad71/article-640x360.b00aa5a3.jpg"><p>Auf die später verworfene XPG Headshot mit 4D-Druck-Gehäuse, die nie erschienene XPG Vault mit 1 TB SSD-Speicher für Spiele und die erst im Mai vorgestellte, aber bislang nicht verfügbare XPG Alpha stellt Adata nun die vierte Maus der Marke XPG vor. Im Vordergrund steht indes ein sämtliche Klischees bedienendes Maskottchen.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[As Dusk Falls: Interaktives Drama erzählt heute Geschichte ohne Helden]]></title>
-        <id>https://www.computerbase.de/2022-07/as-dusk-falls-interaktives-drama-erzaehlt-heute-geschichte-ohne-helden/</id>
-        <link href="https://www.computerbase.de/2022-07/as-dusk-falls-interaktives-drama-erzaehlt-heute-geschichte-ohne-helden/"/>
-        <updated>2022-07-19T04:30:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/2/9/6-80a6fe9e0fc5a299/article-640x360.724e0cd5.jpg"><p>Heute erscheint mit As Dusk Falls die von Kritikern soweit gelobte und empfohlene interaktive Geschichte zweier ineinander verwobener Familiendramen. Der von den Xbox Game Studios veröffentliche Titel ist im Gegensatz zum ebenfalls ab heute spielbaren Stray nicht auf PC und PlayStation, sondern auf PC und Xbox verfügbar.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Netflix testet zusätzliche Abo-Option zum Passwort-Sharing]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1120196</id>
-        <link href="https://stadt-bremerhaven.de/netflix-testet-zusaetzliche-abo-option-zum-passwort-sharing/"/>
-        <updated>2022-07-19T04:29:18.000Z</updated>
-        <summary type="html"><![CDATA[Das Teilen des Netflix-Accounts mit anderen ist etwas, das Netflix schon länger bekannt ist, man es aber immer geduldet hat. Seit langem ist bekannt, dass der Streaming-Konzern dem Ganzen demnächst den Garaus machen möchte. Genauer gesagt will man die betroffenen...
-Zum Beitrag: Netflix testet zusätzliche Abo-Option zum Passwort-Sharing
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>Oliver Posselt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Prime Video: Großes Redesign angekündigt]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1120170</id>
-        <link href="https://stadt-bremerhaven.de/amazon-prime-video-grosses-redesign-angekuendigt/"/>
-        <updated>2022-07-18T18:30:26.000Z</updated>
-        <summary type="html"><![CDATA[Ab dieser Woche werden Nutzer von Amazons Streamingangebot Prime Video nach und nach ein überarbeitetes Design zu sehen bekommen – auf allen vernetzten Wohnzimmergeräten, einschließlich Fire TV sowie auf der Android-App. Über den Sommer hinweg sollen dann alle Nutzer damit...
-Zum Beitrag: Amazon Prime Video: Großes Redesign angekündigt
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>Benjamin Mamerow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Android: Google Wallet wird verteilt]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1120165</id>
-        <link href="https://stadt-bremerhaven.de/android-google-wallet-wird-verteilt/"/>
-        <updated>2022-07-18T17:52:19.000Z</updated>
-        <summary type="html"><![CDATA[Angekündigt war es bereits, nun wird Google Wallet für Android-Geräte verteilt. Nach Kreditkarten, Bonuskarten und zuletzt auch dem digitalen Autoschlüssel weitet Google die Fähigkeiten seiner Wallet-App bald mehr aus. Habt ihr eine Bordkarte für einen Flug im Wallet, dann bekommt...
-Zum Beitrag: Android: Google Wallet wird verteilt
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>caschy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intel Core i9-13900K: Bei Minimum-FPS erheblich schneller als 12900KF]]></title>
-        <id>https://www.computerbase.de/2022-07/intel-core-i9-13900k-bei-minimum-fps-erheblich-schneller-als-12900kf/</id>
-        <link href="https://www.computerbase.de/2022-07/intel-core-i9-13900k-bei-minimum-fps-erheblich-schneller-als-12900kf/"/>
-        <updated>2022-07-18T17:35:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/2/9/0-2c34ece9568cb43c/article-640x360.ac9b6a27.jpg"><p>Mit einem Vorserienexemplar des Intel Core i9-13900K hat der Tester Extreme Player aus China diverse Benchmarks durchgeführt und mit den Ergebnissen eines Intel Core i9-12900KF verglichen. Bei Spielen zeigte sich nur ein geringer Unterschied bei den durchschnittlichen FPS, aber ein sehr großer bei den minimalen FPS.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Deutsche Bahn: Sonderkulanz zur Hitzewelle]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1120163</id>
-        <link href="https://stadt-bremerhaven.de/deutsche-bahn-sonderkulanz-zur-hitzewelle/"/>
-        <updated>2022-07-18T17:09:03.000Z</updated>
-        <summary type="html"><![CDATA[Aufgrund der angekündigten Hitzewelle kann es am 19. und 20.07.2022 zu Einschränkungen im Bahnverkehr kommen, so die Deutsche Bahn in einer Mitteilung. Die Kunden haben Möglichkeiten, die die Bahn als Sonderkulanz umschreibt. Das bereits gekaufte Ticket kann bis zum 27.07.2022...
-Zum Beitrag: Deutsche Bahn: Sonderkulanz zur Hitzewelle
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>caschy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nvidia GeForce RTX 3050: OEM-Version der Grafikkarte mit 10 % weniger ALUs]]></title>
-        <id>https://www.computerbase.de/2022-07/nvidia-geforce-rtx-3050-oem-version-der-grafikkarte-mit-10-prozent-weniger-alus/</id>
-        <link href="https://www.computerbase.de/2022-07/nvidia-geforce-rtx-3050-oem-version-der-grafikkarte-mit-10-prozent-weniger-alus/"/>
-        <updated>2022-07-18T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/2/9/2-546b1406e172f632/article-640x360.8e5d7aab.jpg"><p>In der OEM-Version hat die Desktop-Grafikkarte GeForce RTX 3050 zehn Prozent weniger Recheneinheiten, taktet marginal niedriger und ist somit langsamer als die Retail-Version. Das bestätigt Nvidia inzwischen selbst auf seiner Website.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fire TV Stick 4K: FireOS 6.2.9.0 sorgt für neue Funktionen]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1120152</id>
-        <link href="https://stadt-bremerhaven.de/fire-tv-stick-4k-fireos-6-2-9-0-sorgt-fuer-neue-funktionen/"/>
-        <updated>2022-07-18T16:30:28.000Z</updated>
-        <summary type="html"><![CDATA[Nutzer eines Fire TV Sticks mit FireOS 7 kennen es bereits, beim Fire TV Stick 4K kommt mit dem Update auf die Version 6.2.9.0 Neues auf den Stick. Neben den üblichen Fehlerbehebungen fügt Amazon auch die erweiterten Netzwerkdetails in den...
-Zum Beitrag: Fire TV Stick 4K: FireOS 6.2.9.0 sorgt für neue Funktionen
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>caschy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Corsair mit Integration für Audio- und Videofunktionen von Nvidia Broadcast]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1120147</id>
-        <link href="https://stadt-bremerhaven.de/corsair-mit-integration-fuer-audio-und-videofunktionen-von-nvidia-broadcast/"/>
-        <updated>2022-07-18T15:57:19.000Z</updated>
-        <summary type="html"><![CDATA[Über Nvidia Broadcast haben wir bereits berichtet. In Verbindung mit einer GeForce-RTX-Grafikkarte können damit störende Umgebungsgeräusche durch die Verwendung von Rauschunterdrückung und Raumechounterdrückung „komplett ausgeblendet“ werden. Nachdem man bereits mit Logitech G Hub zusammenarbeitet, hat man nun eine Zusammenarbeit mit...
-Zum Beitrag: Corsair mit Integration für Audio- und Videofunktionen von Nvidia Broadcast
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>Felix Frank</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vereinigtes Königreich: Die Industrie soll sich bei Lootboxen selbst regulieren]]></title>
-        <id>https://www.computerbase.de/2022-07/vereinigtes-koenigreich-die-industrie-solle-sich-bei-lootboxen-selbst-regulieren/</id>
-        <link href="https://www.computerbase.de/2022-07/vereinigtes-koenigreich-die-industrie-solle-sich-bei-lootboxen-selbst-regulieren/"/>
-        <updated>2022-07-18T15:30:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/2/8/7-6ee8ee4d3307c3f8/article-640x360.0ac8c5f0.jpg"><p>Die Regierung des Vereinigten Königreichs hat sich mit Lootboxen und einer Einstufung derer als Glücksspiel befasst – und dagegen entschieden. Allerdings soll es für die Spieleindustrie einige Auflagen geben, um insbesondere Kinder und Jugendliche besser zu schützen. Falls das nicht greife, sollen Gesetze angepasst werden.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Opera Software fixes Windows Reliability Monitor in browser]]></title>
-        <id>https://www.ghacks.net/?p=179796</id>
-        <link href="https://www.ghacks.net/2022/07/18/opera-software-fixes-windows-reliability-monitor-in-browser/"/>
-        <updated>2022-07-18T15:22:46.000Z</updated>
-        <summary type="html"><![CDATA[Opera Software has fixed the Windows Reliability Monitor issue in the company's Opera web browser. Last week, we reported that the Opera web browser was causing seemingly unrelated entries in the Windows […]
-Thank you for being a Ghacks reader. The post Opera Software fixes Windows Reliability Monitor in browser appeared first on gHacks Technology News.]]></summary>
-        <author>
-            <name>Martin Brinkmann</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gaming-Monitore: NZXT mischt mit WQHD und 165 Hz auch ohne Ständer mit]]></title>
-        <id>https://www.computerbase.de/2022-07/gaming-monitore-nzxt-mischt-mit-wqhd-und-165-hz-auch-ohne-staender-mit/</id>
-        <link href="https://www.computerbase.de/2022-07/gaming-monitore-nzxt-mischt-mit-wqhd-und-165-hz-auch-ohne-staender-mit/"/>
-        <updated>2022-07-18T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/0/5/1-87087d15fe7562f9/article-640x360.e9aeb74c.jpg"><p>Mit NZXT wagt ein weiterer Hersteller den Schritt auf den von zahlreichen Marken umkämpften Monitormarkt. Das Debüt erfolgt einmal mit flachem IPS auf 27 Zoll sowie einmal mit Curved VA auf 31,5 Zoll. In beiden Fällen wird die WQHD-Auflösung mit bis zu 165 Hz dargestellt. Interessant sind die Farb- und Standfußoptionen.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux auf dem Mac: Asahi Linux unterstützt jetzt den Apple M2 sowie M1 Ultra]]></title>
-        <id>https://www.computerbase.de/2022-07/asahi-linux-apple-m2-m1-ultra/</id>
-        <link href="https://www.computerbase.de/2022-07/asahi-linux-apple-m2-m1-ultra/"/>
-        <updated>2022-07-18T14:48:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/2/9/1-410dd1857d736781/article-640x360.9d185c22.jpg"><p>Das Projekt Asahi Linux und die gleichnamige Community wollen eine vollständig funktionsfähige Linux-Distribution für den täglichen Einsatz auf ARM-Prozessoren vom Typ Apple Silicon portieren und haben bereits im März eine Alpha für den M1, M1 Pro und M1 Max veröffentlicht. Jetzt folgt die Unterstützung für den M2 und M1 Ultra.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
         </author>
     </entry>
 </feed>
