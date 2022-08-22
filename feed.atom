@@ -2,10 +2,280 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://olivedrop.github.io/drop/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-21T02:11:01.295Z</updated>
+    <updated>2022-08-22T02:14:20.339Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://olivedrop.github.io/drop/index.html"/>
     <link rel="self" href="https://olivedrop.github.io/drop/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[iRobot i5+ im Test: Guter Helfer – aber hoher Aufpreis für wenige Features]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1124407</id>
+        <link href="https://stadt-bremerhaven.de/irobot-i5-im-test-guter-helfer-aber-hoher-aufpreis-fuer-wenig-features/"/>
+        <updated>2022-08-21T18:00:52.000Z</updated>
+        <summary type="html"><![CDATA[Vor nicht allzu langer Zeit hat iRobot einen neuen Roboter der i-Serie vorgestellt. Dieser hört auf den Namen i5+ und kommt ohne Laser-Navigation oder Kamera daher. Er soll dank iRobots Imprint-Technologie aber sicher durch den Raum navigieren. Ob das tatsächlich...
+Zum Beitrag: iRobot i5+ im Test: Guter Helfer – aber hoher Aufpreis für wenige Features
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>Olli</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple: Serviceprogramm für iPhone 12 und iPhone 12 Pro verlängert]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1125328</id>
+        <link href="https://stadt-bremerhaven.de/apple-serviceprogramm-fuer-iphone-12-und-iphone-12-pro-verlaengert/"/>
+        <updated>2022-08-21T17:42:33.000Z</updated>
+        <summary type="html"><![CDATA[Apple hat das bestehende Serviceprogramm für das iPhone 12 und das iPhone 12 Pro verlängert. Das Programm ist für betroffene iPhone-12- oder iPhone-12-Pro-Geräte drei Jahre nach dem ersten Verkauf des Geräts im Einzelhandel gültig, bislang waren es zwei Jahre. Apple...
+Zum Beitrag: Apple: Serviceprogramm für iPhone 12 und iPhone 12 Pro verlängert
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OLED-TVs: In Europa bereits über 50 % Marktanteil im Premium-Segment]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1124760</id>
+        <link href="https://stadt-bremerhaven.de/oled-tvs-in-europa-bereits-ueber-50-marktanteil-im-premium-segment/"/>
+        <updated>2022-08-21T16:30:08.000Z</updated>
+        <summary type="html"><![CDATA[OLED-TVs gewinnen an Beliebtheit: Auch ich selbst nutze ein Exemplar jener Gattung und würde, Stand jetzt, auf keinen Fall mehr zu einem LCD zurückgehen. In Europa scheint es mehr und mehr Menschen so zu ergehen: Laut den Marktforschern von Omdia,...
+Zum Beitrag: OLED-TVs: In Europa bereits über 50 % Marktanteil im Premium-Segment
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ubiquiti: UniFi Network 7.2 unterstützt Load Balancing und neue Hardware]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1125252</id>
+        <link href="https://stadt-bremerhaven.de/ubiquiti-unifi-network-7-2-unterstuetzt-load-balancing-und-neue-hardware/"/>
+        <updated>2022-08-21T15:00:43.000Z</updated>
+        <summary type="html"><![CDATA[Vielfach wurde es von Anwendern moniert, mit UniFi Network 7.2 bzw. UniFi OS 2.5 schafft Hersteller Ubiquiti nun Abhilfe: Aktuelle Hardware, wie die UniFi Dream Machine Pro (hier mein Testbericht) brachten zwei WAN-Anschlüsse mit, aber keine Möglichkeit für Load Balancing,...
+Zum Beitrag: Ubiquiti: UniFi Network 7.2 unterstützt Load Balancing und neue Hardware
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>Felix Frank</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bitkom-Studie: Elektro-Altgeräte werden von Unternehmen oft an wohltätige Organisationen weitergereicht]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1124882</id>
+        <link href="https://stadt-bremerhaven.de/bitkom-studie-elektro-altgeraete-werden-von-unternehmen-oft-an-wohltaetige-organisationen-weitergereicht/"/>
+        <updated>2022-08-21T13:30:35.000Z</updated>
+        <summary type="html"><![CDATA[Altgeräte ausrangieren – das kennt, glaube ich, jeder von uns. Doch nicht immer wandern diese dann direkt in den Elektroschrott. Wie die Bitkom mit einer neuen Studie darstellt, geben rund 45 % der Unternehmen in Deutschland ihre Altgeräte wie Drucker...
+Zum Beitrag: Bitkom-Studie: Elektro-Altgeräte werden von Unternehmen oft an wohltätige Organisationen weitergereicht
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>Benjamin Mamerow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Arc („Alchemist“): Intel äußert sich zum Treiber, DirectX und Resizable BAR]]></title>
+        <id>https://www.computerbase.de/2022-08/intel-arc-alchemist-questions-and-answers/</id>
+        <link href="https://www.computerbase.de/2022-08/intel-arc-alchemist-questions-and-answers/"/>
+        <updated>2022-08-21T12:41:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/6/8/9-2737294e21191c68/article-640x360.4d313777.jpg"><p>Im Rahmen einer offenen Fragerunde hat sich Intel auf seinem Gaming-Blog durch Lisa Pearce, Vize-Präsidentin und General Managerin der Visual Compute Group, zu der aktuellen Situation der vielerorts kritisierten Arc-Grafikkarten auf Basis der ersten Generation Xe HPG („Alchemist“) und deren Treiber und Features geäußert.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sieben von zehn Erwerbstätigen sind im Sommerurlaub beruflich erreichbar]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1124857</id>
+        <link href="https://stadt-bremerhaven.de/sieben-von-zehn-erwerbstaetigen-sind-laut-bitkom-im-sommerurlaub-beruflich-erreichbar/"/>
+        <updated>2022-08-21T12:30:50.000Z</updated>
+        <summary type="html"><![CDATA[Im Sommerurlaub beruflich weiter erreichbar bleiben? Könnte mir nicht passieren, außer vielleicht für das Blog-Team hier – aber das ist ja quasi ein Teil der Familie. Doch so wie ich scheinen das nicht alle Deutschen zu sehen. Denn wie eine...
+Zum Beitrag: Sieben von zehn Erwerbstätigen sind im Sommerurlaub beruflich erreichbar
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>Benjamin Mamerow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Duell der Spielkonsolen: Microsoft Xbox Series X oder doch die Sony PlayStation 5?]]></title>
+        <id>https://www.computerbase.de/2022-08/microsoft-xbox-series-x-sony-playstation-5-umfrage/</id>
+        <link href="https://www.computerbase.de/2022-08/microsoft-xbox-series-x-sony-playstation-5-umfrage/"/>
+        <updated>2022-08-21T12:30:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/6/8/8-9df30eb35f74ecd5/article-640x360.dba5710e.jpg"><p>Im Rahmen der aktuellen Sonntagsfrage möchte die Redaktion diesmal unter anderem von euch wissen: Microsofts Xbox Series X (Test) oder Sonys PlayStation 5 (Test), welche der beiden aktuellen Zen-2-RDNA-2-Spielkonsolen überzeugt euch mehr und habt ihr bereits eine der beiden erworben? Oder spielt ihr ausschließlich am Computer?</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows 11 version 22H2: taskbar changes]]></title>
+        <id>https://www.ghacks.net/?p=180345</id>
+        <link href="https://www.ghacks.net/2022/08/21/windows-11-version-22h2-taskbar-changes/"/>
+        <updated>2022-08-21T12:27:35.000Z</updated>
+        <summary type="html"><![CDATA[In the second part of the series, we are going to take a look at taskbar changes and improvements in Windows 11 version 22H2. Just like Microsoft did reduce Start Menu functionality […]
+Thank you for being a Ghacks reader. The post Windows 11 version 22H2: taskbar changes appeared first on gHacks Technology News.]]></summary>
+        <author>
+            <name>Martin Brinkmann</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Twitter testet neue Profil-Kennzeichnung für verifizierte Telefonnummern]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1125313</id>
+        <link href="https://stadt-bremerhaven.de/twitter-testet-neue-profil-kennzeichnung-fuer-verifizierte-telefonnummern/"/>
+        <updated>2022-08-21T11:30:58.000Z</updated>
+        <summary type="html"><![CDATA[Twitter experimentiert derzeit wieder mit neuen Funktionen, um seine User bei Laune zu halten. So soll deutlicher erkennbar gemacht werden, welche Nutzer „echt“ sind. Dafür testet man derzeit eine neue Kennzeichnung in den Profilen, die Usern verliehen wird, die ihre...
+Zum Beitrag: Twitter testet neue Profil-Kennzeichnung für verifizierte Telefonnummern
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Outlook für Windows: Microsofts neuer Client ist eine Web-App und rückt näher]]></title>
+        <id>https://www.computerbase.de/2022-08/microsoft-outlook-for-windows-10-11/</id>
+        <link href="https://www.computerbase.de/2022-08/microsoft-outlook-for-windows-10-11/"/>
+        <updated>2022-08-21T11:30:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/6/8/7-4e05d3ee3304767b/article-640x360.845bb64a.jpg"><p>Outlook für Windows ist Microsofts neuer E-Mail-Client, dessen Release in Form einer Webanwendung, einer sogenannten Web-App, für die Betriebssysteme Windows 11 und Windows 10 langsam aber sicher näher rückt. Dafür weichen müssen die Built-in-Apps Mail und Kalender, die zukünftig von der Kopie von Outlook Web ersetzt werden.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tineco Pure One S15 Pro: Akkusauger mit Automatikmodus im Test]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1124217</id>
+        <link href="https://stadt-bremerhaven.de/tineco-pure-one-s15-pro-akkusauger-mit-automatikmodus-im-test/"/>
+        <updated>2022-08-21T10:30:45.000Z</updated>
+        <summary type="html"><![CDATA[Neben einem Saugroboter geht mir bei der Hausarbeit ein akkubetriebener Staubsauger zur Hand. Die gibt es wie Sand am Meer beispielsweise von eufy, von Jimmy oder auch von Dreame und Tineco. Letztgenannter Hersteller hat mit den Tineco Pure One S15 eine...
+Zum Beitrag: Tineco Pure One S15 Pro: Akkusauger mit Automatikmodus im Test
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>Felix Frank</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Motorola Edge: Vorstellung neuer Smartphones am 8. September 2022]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1125308</id>
+        <link href="https://stadt-bremerhaven.de/motorola-edge-vorstellung-neuer-smartphones-am-8-september-2022/"/>
+        <updated>2022-08-21T09:00:05.000Z</updated>
+        <summary type="html"><![CDATA[Motorola hat via Twitter bekannt gegeben, dass man am 8. September 2022 neue Edge-Smartphones für den internationalen Markt vorstellen will. Diese sollen dann wohl das Edge (2022) ergänzen. In dem bei Twitter veröffentlichten Videoclip deutet man bereits drei neue mobile...
+Zum Beitrag: Motorola Edge: Vorstellung neuer Smartphones am 8. September 2022
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Find out which Windows program you used the most with free AppResourcesUsageView]]></title>
+        <id>https://www.ghacks.net/?p=180337</id>
+        <link href="https://www.ghacks.net/2022/08/21/wonder-which-windows-programs-you-used-the-most-free-appresourcesusageview-tells-you/"/>
+        <updated>2022-08-21T08:03:18.000Z</updated>
+        <summary type="html"><![CDATA[AppResourcesUsageView is a new free application by one of our favorite developers NirSoft. The application displays a wealth of information on application usage on Windows devices, including their face time, and bytes […]
+Thank you for being a Ghacks reader. The post Find out which Windows program you used the most with free AppResourcesUsageView appeared first on gHacks Technology News.]]></summary>
+        <author>
+            <name>Martin Brinkmann</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iOS 16 und iPadOS 16: Mails später senden]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1125007</id>
+        <link href="https://stadt-bremerhaven.de/ios-16-und-ipados-16-mails-spaeter-senden/"/>
+        <updated>2022-08-21T07:30:28.000Z</updated>
+        <summary type="html"><![CDATA[Kleiner Tipp für alle, die auf dem iPad oder iPhone mit Apples Mail-App unterwegs und zufrieden sind. Mit iOS 16 und iPadOS 16 kann man später Mails auch für den Versand planen. Heute die Mail schreiben und morgen automatisiert absenden?...
+Zum Beitrag: iOS 16 und iPadOS 16: Mails später senden
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Meet: Hintergrundeffekte werden besser]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1124444</id>
+        <link href="https://stadt-bremerhaven.de/google-meet-hintergrundeffekte-werden-besser/"/>
+        <updated>2022-08-21T06:30:04.000Z</updated>
+        <summary type="html"><![CDATA[Tools wie Zoom, Microsoft Teams, Cisco WebEx, Google Meet und viele andere mehr stehen seit vielen Jahren Nutzern zur Verfügung, um sich mit anderen virtuell zu treffen. Damit man trotz Webcam auch ein wenig Privatsphäre aufrechterhalten kann, weil man vielleicht...
+Zum Beitrag: Google Meet: Hintergrundeffekte werden besser
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>Olli</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wochenrück- und Ausblick: Apples Sicherheitslücken und Samsungs letztes seiner Art]]></title>
+        <id>https://www.computerbase.de/2022-08/wochenrueckblick-und-ausblick-2022-w33/</id>
+        <link href="https://www.computerbase.de/2022-08/wochenrueckblick-und-ausblick-2022-w33/"/>
+        <updated>2022-08-21T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/6/7/8-e9e55120fc9727d5/article-640x360.abc73be8.jpg"><p>Im wöchentlichen Rückblick auf die vergangenen sieben Tage steht heute die 33. Woche 2022 im Fokus. Es sind 50 News/Notizen und 8 Tests/Berichte erschienen, dabei übernimmt Apple mit den Sicherheitslücken in aktuellen Geräten die Führung im Bereich News, Samsung hingegen bei den Tests.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sega Mega Drive Mini 2 für Europa bestätigt (plus komplette Spieleliste)]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1125257</id>
+        <link href="https://stadt-bremerhaven.de/sega-mega-drive-mini-2-nun-auch-fuer-europa-bestaetigt/"/>
+        <updated>2022-08-21T05:30:32.000Z</updated>
+        <summary type="html"><![CDATA[Im Juni hatte Sega in Japan bereits das Mega Drive Mini 2 angekündigt – dieses Mal auch mit Spielen, die für das Add-on Mega CD erschienen sind. Insgesamt sollen 50 Spiele ab Werk vorinstalliert sein. In einer neuen Ankündigung (siehe...
+Zum Beitrag: Sega Mega Drive Mini 2 für Europa bestätigt (plus komplette Spieleliste)
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>Benjamin Mamerow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Immer wieder sonntags KW 33]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1125224</id>
+        <link href="https://stadt-bremerhaven.de/immer-wieder-sonntags-kw-33-9/"/>
+        <updated>2022-08-21T04:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Eine weitere Woche ist fast verstrichen und ich hoffe, dass sie euch gefallen hat – auch völlig abseits der Technik-Welt. Solltet ihr für heute noch etwas Unterhaltung suchen: Freitag hatte ich schon darauf aufmerksam gemacht, dass Apple derzeit die erste...
+Zum Beitrag: Immer wieder sonntags KW 33
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Faxgerät? Diskette? Wenige Kinder und Jugendliche kennen sie noch]]></title>
         <id>https://stadt-bremerhaven.de/?p=1124876</id>
@@ -11674,392 +11944,6 @@ Zum Blog: Caschys Blog
 Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
         <author>
             <name>Felix Frank</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[You may now buy Windows 11 licenses directly from Microsoft (but shouldn't)]]></title>
-        <id>https://www.ghacks.net/?p=179902</id>
-        <link href="https://www.ghacks.net/2022/07/23/you-may-now-buy-windows-11-licenses-directly-from-microsoft-but-shouldnt/"/>
-        <updated>2022-07-23T13:52:33.000Z</updated>
-        <summary type="html"><![CDATA[You may purchase Windows 11 Home and Windows 11 Pro licenses directly from Microsoft. While that may sound like the logical path to grab licenses, it is not the best deal that […]
-Thank you for being a Ghacks reader. The post You may now buy Windows 11 licenses directly from Microsoft (but shouldn't) appeared first on gHacks Technology News.]]></summary>
-        <author>
-            <name>Martin Brinkmann</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Alienware stellt erstmals Laptops mit 480-Hz-Displaytechnologie vor]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1120336</id>
-        <link href="https://stadt-bremerhaven.de/alienware-stellt-erstmals-laptops-mit-480-hz-displaytechnologie-vor/"/>
-        <updated>2022-07-23T13:30:41.000Z</updated>
-        <summary type="html"><![CDATA[Alienware dürfte so ziemlich jedem PC-Gamer ein Begriff sein. Das zu Dell gehörende Unternehmen hat sich seit circa Mitte der 1990er-Jahre auf Gaming-Hardware spezialisiert und ist sich seitdem dahingehend auch treu geblieben. Wie Alienware nun per Pressemail mitteilte, stattet man...
-Zum Beitrag: Alienware stellt erstmals Laptops mit 480-Hz-Displaytechnologie vor
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>Benjamin Mamerow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UTM: Windows 11 als virtuelle Maschine auf einem Mac mit Apple-Chip]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1120107</id>
-        <link href="https://stadt-bremerhaven.de/utm-windows-11-als-virtuelle-maschine-auf-einem-mac-mit-apple-chip/"/>
-        <updated>2022-07-23T12:00:42.000Z</updated>
-        <summary type="html"><![CDATA[UTM Virtual Machines ist ein Open-Source-Programm, mit dem man unter macOS virtuelle Maschinen ausführen kann. UTM Virtual Machines setzt hierfür auf das populäre QEMU. Alternativen im Bereich der Virtualisierungssoftware gibt es unter macOS einige, darunter VirtualBox, Parallels oder VMware Fusion....
-Zum Beitrag: UTM: Windows 11 als virtuelle Maschine auf einem Mac mit Apple-Chip
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>caschy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[„As Dusk Falls“ im Test: Tolle Story, kritikwürdige Ästhetik]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1120272</id>
-        <link href="https://stadt-bremerhaven.de/as-dusk-falls-im-test-tolle-story-kritikwuerdige-aesthetik/"/>
-        <updated>2022-07-23T11:00:34.000Z</updated>
-        <summary type="html"><![CDATA[Diese Woche ist das Spiel „As Dusk Falls“ für den PC und Xbox-Konsolen erschienen. Ich habe mir den Titel, der auch im Xbox Game Pass enthalten ist, einmal für euch angeschaut. Vorneweg kann ich gleich verraten, dass sich das Anspielen...
-Zum Beitrag: „As Dusk Falls“ im Test: Tolle Story, kritikwürdige Ästhetik
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>André Westphal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[„The Walking Dead“: Neues Spin-off mit Andrew Lincoln startet 2023 (und neue Trailer)]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1121013</id>
-        <link href="https://stadt-bremerhaven.de/the-walking-dead-neues-spin-off-mit-andrew-lincoln-startet-2023/"/>
-        <updated>2022-07-23T10:00:23.000Z</updated>
-        <summary type="html"><![CDATA[„The Walking Dead“ scheint nie enden zu wollen: Zwar läuft die letzte Staffel der Hauptserie, doch es ist beispielsweise ein Spin-off mit Lauren Cohan und Jeffrey Dean Morgan namens „Isle of the Dead“ in der Mache. Im Rahmen der San...
-Zum Beitrag: „The Walking Dead“: Neues Spin-off mit Andrew Lincoln startet 2023 (und neue Trailer)
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>André Westphal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MakuluLinux: Windows-Klon erhält einen Gamer-Build]]></title>
-        <id>https://www.computerbase.de/2022-07/makululinux-gamer-build/</id>
-        <link href="https://www.computerbase.de/2022-07/makululinux-gamer-build/"/>
-        <updated>2022-07-23T09:45:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/3/6/4-9ffab8bbde738012/article-640x360.98f7361b.jpg"><p>Der neue Gamer-Build von MakuluLinux möchte Spielern den Umstieg von Windows 11 und Windows 10 auf das freie Betriebssystem mit zahlreichen nativen Spiele-Clients wie Steam und Nvidia GeForce Now sowie mehreren freien Spiele-Vertriebsplattformen schmackhaft machen. Die anpassbare Distribution spricht auch Einsteiger an.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[„Der Herr der Ringe: Die Ringe der Macht“: Neuer Trailer von der Comic-Con]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1121021</id>
-        <link href="https://stadt-bremerhaven.de/der-herr-der-ringe-die-ringe-der-macht-neuer-trailer-von-der-comic-con/"/>
-        <updated>2022-07-23T09:30:57.000Z</updated>
-        <summary type="html"><![CDATA[Amazon hat im Rahmen der Comic-Con in San Diego einen neuen Trailer zur kommenden Serie „Der Herr der Ringe: Die Ringe der Macht“ veröffentlicht. Ich selbst bin extrem skeptisch gegenüber dem Projekt, das aus meiner Sicht einen Dreh in die...
-Zum Beitrag: „Der Herr der Ringe: Die Ringe der Macht“: Neuer Trailer von der Comic-Con
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>André Westphal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nubert nuPro XS-8500 RC: Soundbar-Flaggschiff mit Dolby Atmos für 1.969 Euro]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1120399</id>
-        <link href="https://stadt-bremerhaven.de/nubert-nupro-xs-8500-rc-soundbar-flaggschiff-mit-dolby-atmos-fuer-1-969-euro/"/>
-        <updated>2022-07-23T09:00:39.000Z</updated>
-        <summary type="html"><![CDATA[Der deutsche Lautsprecherhersteller Nubert bietet seine Produkte, wie etwa auch Teufel, im Direktvertrieb an. Nun gibt man sich dem Trend hin zu Soundbars hin: Mit der nuPro XS-8500 RC erscheint Mitte August 2022 ein Premium-Klangriegel zum Preis von satten 1.969...
-Zum Beitrag: Nubert nuPro XS-8500 RC: Soundbar-Flaggschiff mit Dolby Atmos für 1.969 Euro
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>André Westphal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[„I am Groot“: Trailer zur Kurzfilmreihe]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1121009</id>
-        <link href="https://stadt-bremerhaven.de/i-am-groot-trailer-zur-kurzfilmreihe/"/>
-        <updated>2022-07-23T08:00:33.000Z</updated>
-        <summary type="html"><![CDATA[Disney hat einen Trailer zu seiner neuen Animationsserie bzw. Kurzfilmsammlung „I am Groot“ veröffentlicht. Starten soll das Ganze beim Streaming-Anbieter Disney+ am 10. August 2022. Fünf Shorts soll die erste Runde umfassen. Die Kurzfilme drehen sich dabei um den titelgebenden...
-Zum Beitrag: „I am Groot“: Trailer zur Kurzfilmreihe
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>André Westphal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Last of Us Part I: Sony zeigt Gameplay und Entwicklung des Remakes]]></title>
-        <id>https://www.computerbase.de/2022-07/the-last-of-us-part-i-sony-zeigt-gameplay-und-entwicklung-des-remakes/</id>
-        <link href="https://www.computerbase.de/2022-07/the-last-of-us-part-i-sony-zeigt-gameplay-und-entwicklung-des-remakes/"/>
-        <updated>2022-07-23T07:43:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/3/6/3-af1a46773a5cd43c/article-640x360.553d20b0.jpg"><p>Das äußerst erfolgreiche Survival-Horror-Adventure The Last of Us erschien ursprünglich im Jahr 2013 exklusiv für die PlayStation 3 und später als Remaster-Fassung für die PlayStation 4. Dass Entwickler Naughty Dog an einer Remake-Version für die PlayStation 5 und auch PC arbeitet, wurde erst Anfang Juni bekannt.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Xiaomi 12 Pro erhält die Firmware 13.0.19.0.SLBEUXM mit dem Juli-Sicherheitspatch]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1121003</id>
-        <link href="https://stadt-bremerhaven.de/xiaomi-12-pro-erhaelt-die-firmware-13-0-18-0-slbeuxm-mit-dem-juli-sicherheitspatch/"/>
-        <updated>2022-07-23T07:30:06.000Z</updated>
-        <summary type="html"><![CDATA[Es ist immer ganz spannend, zu beobachten, wie die Hersteller so ihre Smartphones nachträglich mit Updates versorgen. Im Android-Segment ist da Samsung für alle anderen aktuell die Messlatte. Xiaomi scheint sich ebenfalls bessern zu wollen: Nachdem man das aktuelle Flaggschiff,...
-Zum Beitrag: Xiaomi 12 Pro erhält die Firmware 13.0.19.0.SLBEUXM mit dem Juli-Sicherheitspatch
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>André Westphal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Humble Bundle: Lego-Spielepaket noch immer aktivierbar]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1120977</id>
-        <link href="https://stadt-bremerhaven.de/humble-bundle-lego-spielepaket-noch-immer-aktivierbar/"/>
-        <updated>2022-07-23T06:00:10.000Z</updated>
-        <summary type="html"><![CDATA[Zu Beginn des Monats hatten wir euch bereits das Lego-Humble-Bundle vorgestellt (Partnerlink) das insgesamt 9 Spiele von LEGO auf eure Rechner holt, sofern ihr euch für die größte Stufe entscheidet. Stufe 1 kostet beispielsweise den obligatorischen 1 Euro und bietet euch...
-Zum Beitrag: Humble Bundle: Lego-Spielepaket noch immer aktivierbar
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>Benjamin Mamerow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Im Test vor 15 Jahren: Teufel und Logitech im 5.1-Schlagabtausch]]></title>
-        <id>https://www.computerbase.de/2022-07/teufel-cem-pe-logitech-z-5450-digital-test-rueckblick/</id>
-        <link href="https://www.computerbase.de/2022-07/teufel-cem-pe-logitech-z-5450-digital-test-rueckblick/"/>
-        <updated>2022-07-23T06:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/3/5/2-7dc91898e2f5d5fb/article-640x360.7914e3c2.jpg"><p>Im Test vor 15 Jahren standen Teufel mit dem Concept E Magnum Power Edition, kurz CEM PE, und Logitech mit dem Z-5450 Digital (Test) im 5.1-Audiosystem-Schlagabtausch. Das Teufel-System lag mit 159 Euro preislich leicht unter dem Z-5450 Digital, das ab etwa 199 Euro erhältlich war.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Next Windows 11 delays brute force attacks by default]]></title>
-        <id>https://www.ghacks.net/?p=179899</id>
-        <link href="https://www.ghacks.net/2022/07/23/next-windows-11-delays-brute-force-attacks-by-default/"/>
-        <updated>2022-07-23T04:51:59.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft plans to roll out new default settings in the next major Windows 11 release that delay brute force attacks against accounts on the system. Brute-force attacks are commonly used by threat […]
-Thank you for being a Ghacks reader. The post Next Windows 11 delays brute force attacks by default appeared first on gHacks Technology News.]]></summary>
-        <author>
-            <name>Martin Brinkmann</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google: Neue Benachrichtigungsoption für gemeinsam bearbeitete Dokumente]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1120349</id>
-        <link href="https://stadt-bremerhaven.de/google-neue-benachrichtigungsoption-fuer-gemeinsam-bearbeitete-dokumente/"/>
-        <updated>2022-07-23T04:30:23.000Z</updated>
-        <summary type="html"><![CDATA[Google hat eine Änderung für die Zusammenarbeit an Dokumenten vorgestellt. So lässt sich in Google Sheets nun wählen, dass man E-Mail-Benachrichtigungen für Dokumentänderungen auf Dateibasis erhält, sofern gewünscht. Ebenfalls kann eingesehen werden, wer die Änderungen an der jeweiligen Datei vorgenommen...
-Zum Beitrag: Google: Neue Benachrichtigungsoption für gemeinsam bearbeitete Dokumente
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>Benjamin Mamerow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nova Launcher: Aktuelle Beta bringt umfangreiche Suchfunktion mit]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1120990</id>
-        <link href="https://stadt-bremerhaven.de/nova-launcher-aktuelle-beta-bringt-umfangreiche-suchfunktion-mit/"/>
-        <updated>2022-07-22T19:30:54.000Z</updated>
-        <summary type="html"><![CDATA[Nachdem erst vor einigen Tagen eine erste Beta-Version des neuen „Nova Launcher 8“ erschienen ist, kam auch schon die Ankündigung, dass der Nova Launcher verkauft worden ist. Eine Meldung, die bei den Fans weniger gut weggekommen ist. Das Unternehmen „Branch...
-Zum Beitrag: Nova Launcher: Aktuelle Beta bringt umfangreiche Suchfunktion mit
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>Benjamin Mamerow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LG 49WQ95C: Breiter 32:9-Monitor mit 5K-Auflösung und 144 Hz]]></title>
-        <id>https://www.computerbase.de/2022-07/lg-49wq95c-breiter-32-9-monitor-mit-5k-aufloesung-und-144-hz/</id>
-        <link href="https://www.computerbase.de/2022-07/lg-49wq95c-breiter-32-9-monitor-mit-5k-aufloesung-und-144-hz/"/>
-        <updated>2022-07-22T19:27:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/3/6/2-5e39a5789c345d1d/article-640x360.6e0d72f3.jpg"><p>Die Auflösung von zwei nebeneinander stehenden WQHD-Monitoren bietet der LG 49WQ95C mit 5.120 × 1.440 Pixeln im breiten 32:9-Format mit 49 Zoll Diagonale. Das IPS-Panel ist leicht gekrümmt und wird mit bis zu 144 Hz betrieben. Auf USB-C und KVM-Switch treffen zwei HDMI-2.0-Buchsen, die 144 Hz bei nativer Auflösung nicht packen.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fitbit Sense 2 und Versa 4 geleakt]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1120982</id>
-        <link href="https://stadt-bremerhaven.de/fitbit/"/>
-        <updated>2022-07-22T19:00:01.000Z</updated>
-        <summary type="html"><![CDATA[Wie 9to5Google mitteilt, gibt es einen Leak bezüglich neuer Smartwatch-Modelle aus dem Hause Fitbit. Genauer gesagt geht es um die Fitbit Sense 2 und die Fitbit Versa 4, deren Gehäuse fotografiert worden sind. Gemäß der Bilder wird die Sense 2...
-Zum Beitrag: Fitbit Sense 2 und Versa 4 geleakt
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>Benjamin Mamerow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OnePlus 10T 5G: Erste Details zur Kamera]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1120963</id>
-        <link href="https://stadt-bremerhaven.de/oneplus-10t-5g-erste-details-zur-kamera/"/>
-        <updated>2022-07-22T17:32:19.000Z</updated>
-        <summary type="html"><![CDATA[Ein OnePlus 10T wird kommen, so viel steht fest. Erst gestern hat OnePlus das Smartphone offiziell bestätigt, was man am 3. August der Welt zeigen wird. Abseits des Launch-Events war man da bislang wenig redselig zu technischen Details. Es wäre...
-Zum Beitrag: OnePlus 10T 5G: Erste Details zur Kamera
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>Felix Frank</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Next Week on Xbox: Das sind die neuen Spiele der kommenden Woche]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1120965</id>
-        <link href="https://stadt-bremerhaven.de/next-week-on-xbox-das-sind-die-neuen-spiele-der-kommenden-woche/"/>
-        <updated>2022-07-22T17:00:55.000Z</updated>
-        <summary type="html"><![CDATA[Was gibt es nächste Woche an Spielen für die Xbox-Konsolen? Genau das schlüsselt Microsoft in einem neuen Blog-Post auf. Mich fasziniert dabei direkt anhand der Screenshots das Adventure „Lord Winklebottom Investigates“ in dem offenbar eine Giraffe auf den Spuren von...
-Zum Beitrag: Next Week on Xbox: Das sind die neuen Spiele der kommenden Woche
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>André Westphal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nintendo Switch Sports: Gratis-Update erscheint am 27. Juli 2022]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1120958</id>
-        <link href="https://stadt-bremerhaven.de/nintendo-switch-sports-gratis-update-erscheint-am-27-juli-2022/"/>
-        <updated>2022-07-22T16:30:26.000Z</updated>
-        <summary type="html"><![CDATA[Nintendo hat für den 27. Juli 2022 ein Gratis-Update für das Spiel „Nintendo Switch Sports“ in Aussicht gestellt. Neue Funktionen sollen dabei Einzug halten – wie die Möglichkeit, den Beingurt auch in Fußball-Matches einzusetzen. Jener Beingurt kann entweder separat gekauft...
-Zum Beitrag: Nintendo Switch Sports: Gratis-Update erscheint am 27. Juli 2022
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>André Westphal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MuPiBox: Selbstbau-Jukebox basiert auf dem Raspberry Pi]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1120931</id>
-        <link href="https://stadt-bremerhaven.de/mupibox-selbstbau-jukebox-basiert-auf-dem-raspberry-pi/"/>
-        <updated>2022-07-22T16:00:07.000Z</updated>
-        <summary type="html"><![CDATA[Zum Wochenende einmal ein kleiner Hinweis auf das Projekt MuPiBox. Vielleicht habt ihr ja noch alte Hardware und wollt ein bisschen kreativ tätig werden. Was ist die MuPiBox? Das Ganze basiert auf einem Raspberry Pi und wird als Open Source...
-Zum Beitrag: MuPiBox: Selbstbau-Jukebox basiert auf dem Raspberry Pi
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>caschy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[„Teenage Mutant Ninja Turtles: The Cowabunga Collection“ erscheint am 30. August 2022]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1120948</id>
-        <link href="https://stadt-bremerhaven.de/teenage-mutant-ninja-turtles-the-cowabunga-collection-erscheint-am-30-august-2022/"/>
-        <updated>2022-07-22T15:30:20.000Z</updated>
-        <summary type="html"><![CDATA[Über „Teenage Mutant Ninja Turtles: The Cowabunga Collection“ wurde bereits im März 2022 im Rahmen einer Sony State of Play vorgestellt. Im Gegensatz zum jüngst erschienenen Spiel „Teenage Mutant Ninja Turtles: Shredder’s Revenge“ handelt es sich hier jedoch nicht um...
-Zum Beitrag: „Teenage Mutant Ninja Turtles: The Cowabunga Collection“ erscheint am 30. August 2022
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>André Westphal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EK Water Blocks: Neuer M.2-SSD-Kühler der Quantum-Serie wird vergoldet]]></title>
-        <id>https://www.computerbase.de/2022-07/ek-water-blocks-neuer-m-2-ssd-kuehler-der-quantum-serie-wird-vergoldet/</id>
-        <link href="https://www.computerbase.de/2022-07/ek-water-blocks-neuer-m-2-ssd-kuehler-der-quantum-serie-wird-vergoldet/"/>
-        <updated>2022-07-22T15:29:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/3/5/6-a358fe67388a28f2/article-640x360.b25ad9d8.jpg"><p>Schon vor fünf Jahren hatte EK Water Blocks (EKWB) einen ersten Kühler für M.2-SSDs vorgestellt. Jetzt gibt es mit dem EK-Quantum Convection M.2 NVMe einen neuen Kühler, der in vier Varianten angeboten wird, darunter einer mit Gold-Veredelung. Auch bei anderen Kühlern des Herstellers ist nun „Gold“ angesagt.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Energy Harvesting: Türschlösser ohne Batterie mit dem Smartphone öffnen]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1120935</id>
-        <link href="https://stadt-bremerhaven.de/energy-harvesting-tuerschloesser-ohne-batterie-mit-dem-smartphone-oeffnen/"/>
-        <updated>2022-07-22T15:00:54.000Z</updated>
-        <summary type="html"><![CDATA[Wer ein smartes Türschloss nutzt, der muss ich um dessen Energieversorgung kümmern. In der Zukunft könnte das Ganze aber vorbei sein. Die Infineon Technologies AG bringt eine Lösung auf den Markt, mit der über das Mobiltelefon Schlösser geöffnet und geschlossen...
-Zum Beitrag: Energy Harvesting: Türschlösser ohne Batterie mit dem Smartphone öffnen
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>caschy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ausgedünnte Release-Roadmap: Ubisoft verschiebt eines und storniert vier Spiele]]></title>
-        <id>https://www.computerbase.de/2022-07/ausgeduennte-release-roadmap-ubisoft-verschiebt-eines-und-storniert-vier-spiele/</id>
-        <link href="https://www.computerbase.de/2022-07/ausgeduennte-release-roadmap-ubisoft-verschiebt-eines-und-storniert-vier-spiele/"/>
-        <updated>2022-07-22T14:48:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/3/6/0-57323b9aea271932/article-640x360.d1a8b726.jpg"><p>Bei Ubisoft reiht sich eine Entwicklungspanne an die nächste. Im Rahmen eines Berichts an Investoren gab der Publisher nun zu verstehen, dass Avatar: Frontiers of Pandora um bis zu eineinhalb Jahre verschoben wird, während die Entwicklung vier weiterer Spiele ganz eingestellt werden muss. Zwei davon waren bereits angekündigt.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Twitter: Mehr Nutzer, hoher Verlust]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1120944</id>
-        <link href="https://stadt-bremerhaven.de/twitter-mehr-nutzer-hoher-verlust/"/>
-        <updated>2022-07-22T14:30:56.000Z</updated>
-        <summary type="html"><![CDATA[Twitter hat seine Quartalszahlen
-Zum Beitrag: Twitter: Mehr Nutzer, hoher Verlust
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>caschy</name>
         </author>
     </entry>
 </feed>
