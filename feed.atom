@@ -2,10 +2,516 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://olivedrop.github.io/drop/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-25T02:28:26.924Z</updated>
+    <updated>2022-08-26T02:32:49.817Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://olivedrop.github.io/drop/index.html"/>
     <link rel="self" href="https://olivedrop.github.io/drop/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Twitter Spaces bekommt Podcasts-Feature (vorerst englischsprachige Nutzer)]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1126220</id>
+        <link href="https://stadt-bremerhaven.de/twitter-spaces-bekommt-podcasts-feature-vorerst-englischsprachige-nutzer/"/>
+        <updated>2022-08-25T18:59:20.000Z</updated>
+        <summary type="html"><![CDATA[Ab sofort erhalten einige Twitter-Nutzer aus dem englischsprachigen Raum die Möglichkeit, auf die neue Funktion „Podcasts“ im neu gestalteten Spaces-Tab zu verwenden. In den Spaces konnten bisher schon immer Themen umfangreicher mit der Community besprochen werden, ohne sich an ein...
+Zum Beitrag: Twitter Spaces bekommt Podcasts-Feature (vorerst englischsprachige Nutzer)
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>Benjamin Mamerow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Teller: browser makes a noise whenever Google gets data]]></title>
+        <id>https://www.ghacks.net/?p=180448</id>
+        <link href="https://www.ghacks.net/2022/08/25/google-teller-browser-makes-a-noise-whenever-google-gets-data/"/>
+        <updated>2022-08-25T18:36:33.000Z</updated>
+        <summary type="html"><![CDATA[To better demonstrate how much data Google is accumulating over the course of a browsing session, Dutch software developer and entrepreneur Bert Hubert created Google Teller. The browser extension makes a beep […]
+Thank you for being a Ghacks reader. The post Google Teller: browser makes a noise whenever Google gets data appeared first on gHacks Technology News.]]></summary>
+        <author>
+            <name>Martin Brinkmann</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[macOS Ventura Developer Beta 6 veröffentlicht]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1126191</id>
+        <link href="https://stadt-bremerhaven.de/macos-ventura-developer-beta-6-veroeffentlicht/"/>
+        <updated>2022-08-25T17:13:43.000Z</updated>
+        <summary type="html"><![CDATA[Apple hat macOS Ventura Developer Beta 6 veröffentlicht. Apple ist schon in einer weit fortgeschrittenen Phase der Entwicklung, allerdings muss das Unternehmen noch ordentlich Feinschliff vornehmen. macOS Ventura wird voraussichtlich einige Wochen nach iOS 16 erscheinen, also irgendwann im Spätherbst....
+Zum Beitrag: macOS Ventura Developer Beta 6 veröffentlicht
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Honor X8 5G: Mittelklasse-Smartphone startet für 269 Euro]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1126151</id>
+        <link href="https://stadt-bremerhaven.de/honor-x8-5g-mittelklasse-smartphone-startet-fuer-269-euro/"/>
+        <updated>2022-08-25T16:30:34.000Z</updated>
+        <summary type="html"><![CDATA[Honor hat ein neues Smartphone in petto, das Honor X8 5G. Es gibt von diesem mobilen Endgerät bereits eine 4G-Version. Zudem sind hier 6 GByte RAM und 128 GByte Speicherplatz an Bord. Der Akku kommt auf 5.000 mAh. Aufladen lässt...
+Zum Beitrag: Honor X8 5G: Mittelklasse-Smartphone startet für 269 Euro
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MyFitnessPal: Barcode-Scanner nur noch im Abo]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1126166</id>
+        <link href="https://stadt-bremerhaven.de/myfitnesspal-barcode-scanner-nur-noch-im-abo/"/>
+        <updated>2022-08-25T16:00:43.000Z</updated>
+        <summary type="html"><![CDATA[Gesundheits-Apps gibt’s massig. Man kann Sport tracken, Körperwerte und natürlich auch die Nahrung. Mein Favorit zum Zählen von Kalorien ist seit Jahren Yazio, viele greifen aber auch gerne zu MyFitnessPal. Beide Apps sind grundsätzlich kostenlos nutzbar. Bislang war es bei...
+Zum Beitrag: MyFitnessPal: Barcode-Scanner nur noch im Abo
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ghacks Deals: The Game Design & Development Bundle]]></title>
+        <id>https://www.ghacks.net/?p=180445</id>
+        <link href="https://www.ghacks.net/2022/08/25/ghacks-deals-the-game-design-development-bundle-2/"/>
+        <updated>2022-08-25T15:50:07.000Z</updated>
+        <summary type="html"><![CDATA[The Game Design & Development Bundle includes seven game design and development related courses. It includes a beginner's course, and covers topics such as game development in Unity, HTML5 game development, creating […]
+Thank you for being a Ghacks reader. The post Ghacks Deals: The Game Design & Development Bundle appeared first on gHacks Technology News.]]></summary>
+        <author>
+            <name>Martin Brinkmann</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[„The Dark Pictures Anthology: The Devil in Me“ im Trailer]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1126064</id>
+        <link href="https://stadt-bremerhaven.de/the-dark-pictures-anthology-the-devil-in-me-im-trailer/"/>
+        <updated>2022-08-25T15:30:47.000Z</updated>
+        <summary type="html"><![CDATA[Bandai Namco hat im Rahmen der gamescom 2022 einen neuen Trailer zu „The Dark Pictures Anthology: The Devil in Me“ veröffentlicht. Dabei handelt es sich um das mittlerweile vierte Spiel der Anthologie-Reihe. Der neue Ableger soll eine längere Spielzeit als...
+Zum Beitrag: „The Dark Pictures Anthology: The Devil in Me“ im Trailer
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Uninstall Windows apps for all users in bulk with O&O AppBuster]]></title>
+        <id>https://www.ghacks.net/?p=180438</id>
+        <link href="https://www.ghacks.net/2022/08/25/uninstall-windows-apps-for-all-users-in-bulk-with-oo-appbuster/"/>
+        <updated>2022-08-25T15:23:21.000Z</updated>
+        <summary type="html"><![CDATA[One of the most comfortable ways of removing Windows apps is provided by the free application O&O AppBuster. Designed by the German company O&O, AppBuster was released for users of Microsoft's Windows […]
+Thank you for being a Ghacks reader. The post Uninstall Windows apps for all users in bulk with O&O AppBuster appeared first on gHacks Technology News.]]></summary>
+        <author>
+            <name>Martin Brinkmann</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Epic Games Store: Ab sofort ist „Ring of Pain“ gratis]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1126143</id>
+        <link href="https://stadt-bremerhaven.de/epic-games-store-ab-sofort-ist-ring-of-pain-gratis/"/>
+        <updated>2022-08-25T15:00:11.000Z</updated>
+        <summary type="html"><![CDATA[Im Epic Games Store gibt es jede Woche ein oder zwei Gratis-Spiele. Diese Woche könnt ihr „Ring of Pain“ kostenlos mitnehmen. Voraussetzung ist lediglich ein Konto im Store. Es handelt sich hier um ein rundenbasiertes Rogue-like, in dem ihr Entscheidungen...
+Zum Beitrag: Epic Games Store: Ab sofort ist „Ring of Pain“ gratis
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Flight Simulator: City-Update und Details zur 40th Anniversary Edition]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1126149</id>
+        <link href="https://stadt-bremerhaven.de/microsoft-flight-simulator-city-update-und-details-zur-40th-anniversary-edition/"/>
+        <updated>2022-08-25T14:52:46.000Z</updated>
+        <summary type="html"><![CDATA[Wer gelegentlich in die Luft geht – zumindest mit dem Microsoft Flight Simulator – der bekommt nun wieder einmal neue Inhalte. So gibt’s unter anderem ein City-Update, welches ausgewählte Städte mit neuen Photogrammetrie-Daten versieht. Nach dem Update könnt ihr ja...
+Zum Beitrag: Microsoft Flight Simulator: City-Update und Details zur 40th Anniversary Edition
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Prime Gaming: Diese 8 Spiele gibt’s im September kostenlos]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1126140</id>
+        <link href="https://stadt-bremerhaven.de/prime-gaming-diese-8-spiele-gibts-im-september-kostenlos/"/>
+        <updated>2022-08-25T14:38:53.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Prime wird ein gutes Stück teurer und der Amazon Drive wird eingestellt. Da weise ich auch noch einmal auf unsere Umfrage des Monats hin, an der ihr euch gerne beteiligen dürft – da laufen nun die letzten Tage der Abstimmung. Einigen Lesern ist vielleicht nicht...
+Zum Beitrag: Prime Gaming: Diese 8 Spiele gibt’s im September kostenlos
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Forspoken: Gameplay-Trailer des PS5-Titels veröffentlicht]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1125971</id>
+        <link href="https://stadt-bremerhaven.de/forspoken-gameplay-trailer-des-ps5-titels-veroeffentlicht/"/>
+        <updated>2022-08-25T14:30:08.000Z</updated>
+        <summary type="html"><![CDATA[Forspoken gehört zu den Spielen für die PlayStation 5, die auf jeden Fall auf meiner Einkaufsliste stehen. Ich bin generell Fan des Rollenspiel-Genres und war vom ersten Showcase an angetan von dem Gezeigten. Nun hat man einen 10-minütigen Gameplay-Trailer für...
+Zum Beitrag: Forspoken: Gameplay-Trailer des PS5-Titels veröffentlicht
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>Olli</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CLINQ: Beta mit neuen Telefonie-Funktionen und ersten CRM-Integrationen]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1125924</id>
+        <link href="https://stadt-bremerhaven.de/clinq-beta-mit-neuen-telefonie-funktionen-und-ersten-crm-integrationen/"/>
+        <updated>2022-08-25T14:00:05.000Z</updated>
+        <summary type="html"><![CDATA[Über die neue Softphone-App aus dem Hause Sipgate haben wir bereits berichtet. Derzeit ist diese noch im Beta-Stadium, macht aber einen guten ersten Eindruck. Ich für meinen Teil würde mich da ja auch noch über eine Verzahnung mit der hauseigenen...
+Zum Beitrag: CLINQ: Beta mit neuen Telefonie-Funktionen und ersten CRM-Integrationen
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>Felix Frank</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gaming-Monitore: BenQ präsentiert sein erstes OLED-Modell mit 120 Hz (Update)]]></title>
+        <id>https://www.computerbase.de/2022-08/gaming-monitore-benq-praesentiert-sein-erstes-oled-modell-mit-120-hz/</id>
+        <link href="https://www.computerbase.de/2022-08/gaming-monitore-benq-praesentiert-sein-erstes-oled-modell-mit-120-hz/"/>
+        <updated>2022-08-25T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/7/4/7-47970dad637fb019/article-640x360.31b0cd2e.jpg"><p>BenQ nutzt die Gamescom zur Vorstellung neuer Monitore der Mobiuz-Serie für Spieler. Dabei sticht der EX480UZ nicht nur durch seine Größe von 48 Zoll hervor, denn dieser ist zudem der erste OLED-Monitor von BenQ und bietet 4K UHD mit 120 Hz sowie eine schnelle Reaktionszeit von 1 ms.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DJI Avata: Drohne kostet ab 579 Euro]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1126122</id>
+        <link href="https://stadt-bremerhaven.de/dji-avata-drohne-kostet-ab-579-euro/"/>
+        <updated>2022-08-25T13:45:10.000Z</updated>
+        <summary type="html"><![CDATA[Es gibt eine neue Drohne von DJI, die Avata. Fangen wir mit dem Preis an. Die DJI Avata alleine kostet 579 Euro ohne Fernsteuerung, Bewegungssteuereinheit oder Goggles, was ideal für diejenigen ist, die bereits kompatible Modelle zur Steuerung und Anzeige...
+Zum Beitrag: DJI Avata: Drohne kostet ab 579 Euro
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Umbrella Academy: Staffel 4 wird die letzte sein]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1126130</id>
+        <link href="https://stadt-bremerhaven.de/the-umbrella-academy-staffel-4-wird-die-letzte-sein/"/>
+        <updated>2022-08-25T13:42:23.000Z</updated>
+        <summary type="html"><![CDATA[Nachrichten für alle Fans der Hargreeves. Netflix hat bestätigt, dass es eine vierte Staffel von The Umbrella Academy geben wird. The Umbrella Academy ist eine Realverfilmung der beliebten, mit dem Eisner-Award ausgezeichneten Comic- und Comicroman-Reihe nach der Idee des Autors...
+Zum Beitrag: The Umbrella Academy: Staffel 4 wird die letzte sein
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CrossOver 22 für Windows-Apps: Kommerzielles Wine für Linux, macOS und Chrome OS]]></title>
+        <id>https://www.computerbase.de/2022-08/crossover-22-windows-linux-macos-chrome-os/</id>
+        <link href="https://www.computerbase.de/2022-08/crossover-22-windows-linux-macos-chrome-os/"/>
+        <updated>2022-08-25T13:31:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/7/4/1-a2d38a216959e432/article-640x360.e4cc4e6f.jpg"><p>Die von CodeWeavers entwickelte Anwendung CrossOver, eine kommerzielle Ausgabe der Windows-kompatiblen Laufzeitumgebung und Kompatibilitätsschicht Wine für das Ausführen von Windows-Anwendungen unter Linux, macOS und Chrome OS, wurde in der Version 22 mit einer neuen grafischen Benutzeroberfläche (GUI) veröffentlicht.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nvidia GeForce Now: Das sind die neuen Titel]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1125942</id>
+        <link href="https://stadt-bremerhaven.de/nvidia-geforce-now-das-sind-die-neuen-titel/"/>
+        <updated>2022-08-25T13:29:07.000Z</updated>
+        <summary type="html"><![CDATA[Ein neuer GeForce-Now-Thursday ist angebrochen. Nvidia nennt daher Neuzugänge zu seinem Game-Streaming-Dienst GeForce Now. Während man in der vergangenen Woche auch neue Funktionen nennen konnte, da wäre eine höhere Auflösung und Framerate beim Zocken im Browser für RTX-3080-Mitglieder, dreht sich...
+Zum Beitrag: Nvidia GeForce Now: Das sind die neuen Titel
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>Felix Frank</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anker Soundcore Space: Neue Kopfhörermodelle A40 und Q45 vorgestellt]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1124636</id>
+        <link href="https://stadt-bremerhaven.de/anker-soundcore-space-neue-kopfhoerermodelle-a40-und-q45-vorgestellt/"/>
+        <updated>2022-08-25T12:59:42.000Z</updated>
+        <summary type="html"><![CDATA[Unter der Marke Soundcore von Anker kommen zwei neue Kopfhörer auf den Markt, mit dem Space Q45 ein Over-Ear- und auch ein In-Ear-Modell, der Space A40. Letztere sind die bislang kleinsten TWS-Ohrhörer von Soundcore, die direkt mit 5 Aufsätzen ausgeliefert...
+Zum Beitrag: Anker Soundcore Space: Neue Kopfhörermodelle A40 und Q45 vorgestellt
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>Benjamin Mamerow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Die Sky und WOW Highlights im September]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1126104</id>
+        <link href="https://stadt-bremerhaven.de/die-sky-und-wow-highlights-im-september/"/>
+        <updated>2022-08-25T12:39:13.000Z</updated>
+        <summary type="html"><![CDATA[Sky hat seine Highlights für den Monat September angekündigt. Abonnenten des Dienstes bekommen unter anderem The Batman zu sehen, aber auch Scream, Jackass Forever und Gunpowder Milkshake. Neben einigen hinzugekauften Filmen und Serien gibt’s auch einige Inhalte unter dem Label...
+Zum Beitrag: Die Sky und WOW Highlights im September
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DuckDuckGo: Email-Schutz nun für alle zugänglich]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1126091</id>
+        <link href="https://stadt-bremerhaven.de/duckduckgo-email-schutz-nun-fuer-alle-zugaenglich/"/>
+        <updated>2022-08-25T12:30:54.000Z</updated>
+        <summary type="html"><![CDATA[Der DuckDuckGo Privacy Browser ist heute in einer neuen Version erschienen. Erwähnenswert ist da sicher, dass die Warteliste für DuckDuckGo Email Protection entfernt wurde, sodass die Beta-Version nun von jedermann getestet werden kann. Nutzer der App können sich hier eine...
+Zum Beitrag: DuckDuckGo: Email-Schutz nun für alle zugänglich
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sony Xperia: Neues Smartphone wird am 1. September vorgestellt]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1126087</id>
+        <link href="https://stadt-bremerhaven.de/sony-xperia-neues-smartphone-wird-am-1-september-vorgestellt/"/>
+        <updated>2022-08-25T12:15:50.000Z</updated>
+        <summary type="html"><![CDATA[Sony hat im Smartphone-Segment weiterhin Fans, trotz oftmals langer Wartezeiten zwischen Vorstellung und Verfügbarkeit. Nun wird man bald das nächste Gerät ankündigen, am 1. September wird man das Geheimnis lüften. Das Event wird das japanische Unternehmen streamen, ein wenig hat...
+Zum Beitrag: Sony Xperia: Neues Smartphone wird am 1. September vorgestellt
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Das große GPU-Triell: Arc A380 vs. GTX 1650 vs. 6500 XT in 41 Spielen & Benchmarks]]></title>
+        <id>https://www.computerbase.de/2022-08/intel-arc-a380-nvidia-gtx-1650-amd-radeon-rx-6500-xt-benchmarks/</id>
+        <link href="https://www.computerbase.de/2022-08/intel-arc-a380-nvidia-gtx-1650-amd-radeon-rx-6500-xt-benchmarks/"/>
+        <updated>2022-08-25T12:15:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/7/4/6-8d86b6af19fe306f/article-640x360.9e10db0e.jpg"><p>Aus der Community des ComputerBase-Forums kommt ein spannendes GPU-Triell in der Einsteigerklasse zwischen der Intel Arc A380 (Test), der Nvidia GeForce RTX 1650 (Test) und der AMD Radeon RX 6500 XT (Test), der sich auf insgesamt 41 Spiele und synthetische Benchmarks mit einer Auflösung von Full HD/1080p erstreckt.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Workspace: Chat-Bereiche landen in der Gmail-Suche]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1125973</id>
+        <link href="https://stadt-bremerhaven.de/google-workspace-chat-bereiche-landen-in-der-gmail-suche/"/>
+        <updated>2022-08-25T12:00:50.000Z</updated>
+        <summary type="html"><![CDATA[Google verteilt gerade ein Update für die Suche innerhalb von Gmail im Web. Wenn ihr zukünftig eure Suchbegriffe eingebt, dann landen dort auch alle Chat-Bereiche in eurer Domain, die den entsprechenden Kriterien entsprechen. Es werden nicht nur Bereiche angezeigt, denen...
+Zum Beitrag: Google Workspace: Chat-Bereiche landen in der Gmail-Suche
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>Olli</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trockenheit in den USA: Arizona muss Wasser sparen – Intels Fabs noch nicht]]></title>
+        <id>https://www.computerbase.de/2022-08/trockenheit-in-den-usa-arizona-muss-wasser-sparen-intels-fabs-noch-nicht/</id>
+        <link href="https://www.computerbase.de/2022-08/trockenheit-in-den-usa-arizona-muss-wasser-sparen-intels-fabs-noch-nicht/"/>
+        <updated>2022-08-25T11:46:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/7/4/5-96da3368a090907d/article-640x360.f8c536cb.jpg"><p>Zu wenig Regen gibt es nicht nur in China, sondern auch in vielen Teile der USA. Restriktionen greifen nun in Arizona, primär für Farmer. Denn sie stehen auf der Prioritätenliste ganz unten, Trinkwasser und kommerzielle sowie industrielle Dinge hingegen deutlich weiter oben. Intels Fabriken dürften so noch einmal davonkommen.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chrome Canary: Hochleistungs- und Batteriesparmodus zeigen sich]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1125936</id>
+        <link href="https://stadt-bremerhaven.de/chrome-canary-hochleistungsmodus-und-batteriesparmodus-zeigen-sich/"/>
+        <updated>2022-08-25T11:30:56.000Z</updated>
+        <summary type="html"><![CDATA[Der Chrome-Browser kann sich wohl nicht gerade Effizienz auf die Fahnen schreiben. Geht es nach den Entdeckungen in der aktuellen Chrome-Canary-Version, dann könnte man da künftig zwischen verschiedenen Leistungsoptionen unterscheiden. So bietet Chrome nun in den Einstellungen den neuen Abschnitt...
+Zum Beitrag: Chrome Canary: Hochleistungs- und Batteriesparmodus zeigen sich
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>Felix Frank</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OPPO Enco Air2 und Enco Air2 Pro vorgestellt]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1126080</id>
+        <link href="https://stadt-bremerhaven.de/oppo-enco-air2-und-enco-air2-pro-vorgestellt/"/>
+        <updated>2022-08-25T11:15:29.000Z</updated>
+        <summary type="html"><![CDATA[True-Wireless-Ohrhörer gibt’s mittlerweile wie den sprichwörtlichen Sand am Meer. Zwei neue Sandkörner legt man bei OPPO hinzu, denn das Unternehmen hat die Enco Air2 und Enco Air2 Pro vorgestellt. Beide Modelle arbeiten mit Bluetooth 5.2, allerdings bietet nur der Pro...
+Zum Beitrag: OPPO Enco Air2 und Enco Air2 Pro vorgestellt
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AMD Ryzen 7 7700X im Cinebench: Single-Core-Score soll um bis zu 28 Prozent höher ausfallen]]></title>
+        <id>https://www.computerbase.de/2022-08/amd-ryzen-7-7700x-cinebench/</id>
+        <link href="https://www.computerbase.de/2022-08/amd-ryzen-7-7700x-cinebench/"/>
+        <updated>2022-08-25T10:45:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/7/4/3-4f24b9fc9e1e7420/article-640x360.fffb6c10.jpg"><p>Die ersten Ergebnisse eines AMD Ryzen 7 7700X im Cinebench R20 machen aktuell im Internet die Runde. Der direkte Vorgänger, der AMD Ryzen 7 5700X (Test), soll dabei um 28 Prozent beim Single-Core-Score geschlagen werden. Im Multi-Core-Benchmark sollen es gar 45 Prozent sein, doch die Ergebnisse sind nur mit Vorsicht zu genießen.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Asus ROG Strix SQ7 im Test: SSD-Comeback bietet fürs Geld zu wenig Argumente]]></title>
+        <id>https://www.computerbase.de/2022-08/asus-rog-strix-sq7-test-ssd-comeback-argumenten-geld/</id>
+        <link href="https://www.computerbase.de/2022-08/asus-rog-strix-sq7-test-ssd-comeback-argumenten-geld/"/>
+        <updated>2022-08-25T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/6/2/4-356acd7e2cae05e1/article-640x360.d1604e07.jpg"><p>Nach langer Zeit hat Asus wieder eine SSD für Enthusiasten im Programm. Bestückt mit den eigentlich derzeit schnellsten Komponenten, reicht es aber nicht fürs Spitzenfeld. Auch die sehr hohe Schreibgarantie rechtfertigt damit nicht den hohen Preis.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quartalszahlen: Nvidias Aussichten bleiben trübe trotz Neuvorstellungen]]></title>
+        <id>https://www.computerbase.de/2022-08/quartalszahlen-nvidias-aussichten-bleiben-truebe-trotz-neuvorstellungen/</id>
+        <link href="https://www.computerbase.de/2022-08/quartalszahlen-nvidias-aussichten-bleiben-truebe-trotz-neuvorstellungen/"/>
+        <updated>2022-08-25T09:08:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/7/4/0-ccd840f06c1f164a/article-640x360.85962af8.jpg"><p>Vor zwei Wochen sprach Nvidia bereits eine Umsatzwarnung aus, final sieht es nun nicht besser aus. Und die Aussichten bleiben trübe, je nach Standpunkt sogar sehr. Denn Nvidia vergleicht den nochmals erwarteten Rückgang im aktuellen Quartal nur mit dem vorangegangen, korrigierten. Die eigentliche Prognose lag einmal viel höher.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Inflation: Sony hebt Preis der PlayStation 5 um 50 Euro an]]></title>
+        <id>https://www.computerbase.de/2022-08/inflation-sony-hebt-preis-der-playstation-5-um-50-euro-an/</id>
+        <link href="https://www.computerbase.de/2022-08/inflation-sony-hebt-preis-der-playstation-5-um-50-euro-an/"/>
+        <updated>2022-08-25T08:55:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/7/4/4-ec43cbc06fbd6193/article-640x360.b7ae31a3.jpg"><p>Die PlayStation 5 wird 50 Euro teurer. Was weniger als Ankündigung zur Gamescom geeignet ist, sei vielmehr eine Folge globale steigender Inflationsraten und Währungsschwankungen. Sony Interactive Entertainment (SIE) habe deshalb die „schwierige Entscheidung“ getroffen, den Preis in vielen Regionen anzuheben.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Plex warns users to change their passwords after a data breach]]></title>
+        <id>https://www.ghacks.net/?p=180427</id>
+        <link href="https://www.ghacks.net/2022/08/25/plex-warns-users-to-change-their-passwords-after-a-data-breach/"/>
+        <updated>2022-08-25T08:45:02.000Z</updated>
+        <summary type="html"><![CDATA[The streaming media platform, Plex, has revealed that it has been impacted by a data breach. The company has advised users to reset their passwords to protect their accounts. Plex data breach […]
+Thank you for being a Ghacks reader. The post Plex warns users to change their passwords after a data breach appeared first on gHacks Technology News.]]></summary>
+        <author>
+            <name>Ashwin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Samsung Exynos: Kooperation mit AMD für eigene GPUs wird fortgesetzt]]></title>
+        <id>https://www.computerbase.de/2022-08/samsung-exynos-kooperation-mit-amd-fuer-eigene-gpus-wird-fortgesetzt/</id>
+        <link href="https://www.computerbase.de/2022-08/samsung-exynos-kooperation-mit-amd-fuer-eigene-gpus-wird-fortgesetzt/"/>
+        <updated>2022-08-25T08:14:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/7/4/2-ca4cfdd464f59dd1/article-640x360.124d02dd.jpg"><p>Nachdem für das kommende Jahr bereits feststeht, dass das Galaxy S23 auf allen Märkten auf Snapdragon-Prozessoren von Qualcomm setzen wird, herrschte Ungewissheit über die Zukunft der Exynos-Prozessoren und darin enthaltener Komponenten wie der Xclipse-920-GPU. Samsung will aber weiterhin eigene IP sowie GPUs mit AMD entwickeln.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Corsair Xeneon Flex 45WQHD240: Der erste Gaming-Monitor, der flach ODER krumm ist]]></title>
+        <id>https://www.computerbase.de/2022-08/corsair-xeneon-flex-45wqhd240-der-erste-gaming-monitor-der-flach-oder-krumm-ist/</id>
+        <link href="https://www.computerbase.de/2022-08/corsair-xeneon-flex-45wqhd240-der-erste-gaming-monitor-der-flach-oder-krumm-ist/"/>
+        <updated>2022-08-25T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/7/2/8-921bee7e530c17cf/article-640x360.a2053a32.jpg"><p>Corsairs dritter Monitor hört auf den Namen Xeneon Flex und der ist Programm: Auf Basis des von LG Display produzierten flexiblen OLED-Displays lässt sich das Modell 45WQHD240 OLED sowohl flach als auch gekrümmt (curved) mit einem Radius von 0,8 m nutzen. Die UWQHD-Auflösung wird auf 45 Zoll mit 0,03 ms und 240 Hz dargestellt.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to optimize Windows 11 for windowed games]]></title>
+        <id>https://www.ghacks.net/?p=180430</id>
+        <link href="https://www.ghacks.net/2022/08/25/how-to-optimize-windows-11-for-windowed-games/"/>
+        <updated>2022-08-25T07:30:38.000Z</updated>
+        <summary type="html"><![CDATA[It is debatable whether Windows 11 is the best operating system for PC gaming. Microsoft did introduce two gaming related features in Windows 11: Auto HDR and DirectStorage. Auto HDR enables HDR […]
+Thank you for being a Ghacks reader. The post How to optimize Windows 11 for windowed games appeared first on gHacks Technology News.]]></summary>
+        <author>
+            <name>Martin Brinkmann</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows 11 Build 25188: Die Reise geht in Richtung des ersten Feature-Drops]]></title>
+        <id>https://www.computerbase.de/2022-08/windows-11-insider-preview-build-25188/</id>
+        <link href="https://www.computerbase.de/2022-08/windows-11-insider-preview-build-25188/"/>
+        <updated>2022-08-25T07:02:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/7/3/9-0214816287f5f1e5/article-640x360.e7e70647.jpg"><p>Die Windows 11 Insider Preview Build 25188 bewegt sich weiter in Richtung des ersten Feature-Drops („Moment“), welcher als erstes Feature-Update nach dem Release des kommenden Windows 11 2022, vormals Windows 11 22H2, für das Jahr 2023 erwartet wird. Das Release legt den Fokus auf die Touch- respektive Bildschirmtastatur.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows 11 Insider Preview 25188 makes Windows Terminal the default command-line experience]]></title>
+        <id>https://www.ghacks.net/?p=180423</id>
+        <link href="https://www.ghacks.net/2022/08/25/windows-11-insider-preview-25188-makes-windows-terminal-the-default-command-line-experience/"/>
+        <updated>2022-08-25T06:50:30.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft has released Windows 11 Insider Preview 25188 to the Dev Channel. The build brings an important change, it replaces the default command-line tool. What's new in Windows 11 Insider Preview 25188 […]
+Thank you for being a Ghacks reader. The post Windows 11 Insider Preview 25188 makes Windows Terminal the default command-line experience appeared first on gHacks Technology News.]]></summary>
+        <author>
+            <name>Ashwin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mozilla Firefox 105.0 Beta: 2-Finger-Wischgesten und RAM-Optimierung für Linux]]></title>
+        <id>https://www.computerbase.de/2022-08/mozilla-firefox-105-0-beta-windows-macos-linux/</id>
+        <link href="https://www.computerbase.de/2022-08/mozilla-firefox-105-0-beta-windows-macos-linux/"/>
+        <updated>2022-08-25T04:52:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/7/3/8-3261b6f92224418d/article-640x360.c158b334.jpg"><p>Der Open-Source-Browser Mozilla Firefox erhält in der Vorabversion 105.0 Beta neue 2-Finger-Wischgesten, die ohne gedrückte Alt-Taste auskommen, und schont außerdem die Systemressourcen durch einen weiter optimierten Umgang mit dem RAM von Systemen mit Linux. Auch Web-Entwickler profitieren von einem neuen Feature.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PlayStation: Launch-Trailer zu The Last of Us Part I veröffentlicht]]></title>
         <id>https://stadt-bremerhaven.de/?p=1125930</id>
@@ -11773,574 +12279,6 @@ Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
         <link href="https://www.computerbase.de/2022-07/microsoft-umsatz-mit-xbox-konsolen-faellt-um-11-prozent/"/>
         <updated>2022-07-27T14:52:00.000Z</updated>
         <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/4/0/4-105f2eaec3506f34/article-640x360.3ce4732b.jpg"><p>Die Xbox Series X und die kleinere Series S (Test) kamen Ende 2020 auf den Markt. Noch immer ist die leistungsstärkere Variante nicht ab Lager verfügbar, aber dennoch vermeldet Microsoft zur Bekanntgabe der Quartalszahlen zum zweiten Quartal 2022 nun einen gesunkenen Umsatz mit Spielkonsolen.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Umweltbonus für E-Autos wird fortgesetzt: Das sind die Details]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1121643</id>
-        <link href="https://stadt-bremerhaven.de/umweltbonus-fuer-e-autos-wird-fortgesetzt-das-sind-die-details/"/>
-        <updated>2022-07-27T14:24:01.000Z</updated>
-        <summary type="html"><![CDATA[Nachdem bereits gestern Details zur zukünftigen Förderung von Elektroautos durchgesickert waren, hat man heute seitens des Bundesministeriums für Wirtschaft und Klimaschutz eine umfassende Informationssseite zum Thema veröffentlicht. Wie im Koalitionsvertrag vereinbart, werde sich die Förderung für elektrische Fahrzeuge ab 1....
-Zum Beitrag: Umweltbonus für E-Autos wird fortgesetzt: Das sind die Details
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>caschy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sky: „1972 – Münchens schwarzer September” startet im September]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1121578</id>
-        <link href="https://stadt-bremerhaven.de/sky-1972-muenchens-schwarzer-september-startet-im-september/"/>
-        <updated>2022-07-27T14:00:54.000Z</updated>
-        <summary type="html"><![CDATA[Der Starttermin von Skys neuer Serie scheint nicht willkürlich gewählt. Am 4. September läuft das Sky Original-Doku-Drama „1972 – Münchens schwarzer September“ auf Sky Documentaries und ist bereits ab dem 2. September mit Sky und WOW abrufbar. Vielschichtig wolle man...
-Zum Beitrag: Sky: „1972 – Münchens schwarzer September” startet im September
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>caschy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Knights of the Old Republic: Star-Wars-Remake vorerst auf Eis gelegt]]></title>
-        <id>https://www.computerbase.de/2022-07/knights-of-the-old-republic-star-wars-remake-vorerst-auf-eis-gelegt/</id>
-        <link href="https://www.computerbase.de/2022-07/knights-of-the-old-republic-star-wars-remake-vorerst-auf-eis-gelegt/"/>
-        <updated>2022-07-27T13:40:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/3/9/8-3126423463dc7c6a/article-640x360.f2c00c40.jpg"><p>Das Remake des Star-Wars-Klassikers Knights of the Old Republic hat Probleme. Rund ein Jahr nach der vielversprechenden Ankündigung sind die Arbeiten Gerüchten zufolge unterbrochen worden. Die Fertigstellung wurde de facto auf unbestimmte Zeit verschoben, während sich das Team neu orientiere.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Roland Emmerich führt für Peacock bei „Those About To Die“ Regie]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1121584</id>
-        <link href="https://stadt-bremerhaven.de/roland-emmerich-fuehrt-fuer-peacock-bei-those-about-to-die-regie/"/>
-        <updated>2022-07-27T13:30:14.000Z</updated>
-        <summary type="html"><![CDATA[Roland Emmerich wird für den Streaming-Anbieter Peacock, zugehörig zu NBCUniversal, Regie bei der Serie „Those About To Die“ führen. Thematisch wird sie sich um Gladiatoren im alten Rom drehen. Die Serie wurde bereits bestellt und nimmt sich das gleichnamige Buch...
-Zum Beitrag: Roland Emmerich führt für Peacock bei „Those About To Die“ Regie
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>André Westphal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LibreOffice security update fixes macro execution bypass and potential password leaking]]></title>
-        <id>https://www.ghacks.net/?p=179959</id>
-        <link href="https://www.ghacks.net/2022/07/27/libreoffice-security-update-fixes-macro-execution-bypass-and-potential-password-leaking/"/>
-        <updated>2022-07-27T13:19:14.000Z</updated>
-        <summary type="html"><![CDATA[The developers of LibreOffice have released updates for the open source Office suite to patch three security issues. LibreOffice is a popular cross-platform Microsoft Office alternative that is available for Windows, macOS […]
-Thank you for being a Ghacks reader. The post LibreOffice security update fixes macro execution bypass and potential password leaking appeared first on gHacks Technology News.]]></summary>
-        <author>
-            <name>Martin Brinkmann</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Innosilicon Fantasy I & II: 10 TFLOPS+ für Desktop, Server, Cloud und Metaverse]]></title>
-        <id>https://www.computerbase.de/2022-07/innosilicon-fantasy-one-grafikkarten/</id>
-        <link href="https://www.computerbase.de/2022-07/innosilicon-fantasy-one-grafikkarten/"/>
-        <updated>2022-07-27T13:19:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/4/0/0-3914c02bc5f948a3/article-640x360.5d6556c1.jpg"><p>Der chinesische Hersteller Innosilicon hat zwei Grafikkarten der Serie Fantasy One mit bis zu 10 TFLOPS und 16 GB GDDR6X für den Desktop-PC, Server, Cloud-Gaming und das Metaverse vorgestellt. Auf den hauseigenen Grafikprozessor „Fantasy I“, die Technik von Imagination Technologies, soll am 3. August der „Fantasy II“ folgen.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Opera GX bietet euch jetzt ebenfalls Gratis-Games]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1121593</id>
-        <link href="https://stadt-bremerhaven.de/opera-gx-bietet-euch-jetzt-ebenfalls-gratis-games/"/>
-        <updated>2022-07-27T13:00:03.000Z</updated>
-        <summary type="html"><![CDATA[Opera GX ist ein selbsternannter Gaming-Browser, der da auch einige Funktionen mitbringt, die speziell Spieler abholen sollen. Nun geht man einen weiteren Schritt: Im zweiwöchigen Rhythmus will Opera GX über die Website GX.games kostenlose Indie-Spiele unter die Leute bringen. Auch...
-Zum Beitrag: Opera GX bietet euch jetzt ebenfalls Gratis-Games
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>André Westphal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Roccat Kone XP Air: Kabelloser RGB-Allrounder kostet den höchsten Preis]]></title>
-        <id>https://www.computerbase.de/2022-07/roccat-kone-xp-air-kabelloser-rgb-allrounder-kostet-den-hoechsten-preis/</id>
-        <link href="https://www.computerbase.de/2022-07/roccat-kone-xp-air-kabelloser-rgb-allrounder-kostet-den-hoechsten-preis/"/>
-        <updated>2022-07-27T12:31:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/4/0/2-a0ae9bcf410be7e6/article-640x360.f65e2548.jpg"><p>Roccat legt die im Test als gelungene Alternative zur G502 Hero (Test) oder Basilisk V3 (Test) aufgetretene Kone XP als kabellose Version auf. Erneut liegt der Fokus auch auf einer opulenten RGB-Beleuchtung, diesmal sogar bei der im Lieferumfang enthaltenen Ladestation. Höher als die Leuchtkraft der LEDs ist lediglich der Preis.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Windows 10: Optionales Update KB5015878 wird verteilt]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1121555</id>
-        <link href="https://stadt-bremerhaven.de/windows-10-optionales-update-kb5015878-wird-verteilt/"/>
-        <updated>2022-07-27T12:30:42.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft hat das optionale Update KB5015878 für Windows 10 Builds 19042.1865, 19043.1865 und 19044.1865 veröffentlicht. Das Update ohne Sicherheitsrelevanz gibt Nutzern unter anderem die Möglichkeit, dringende Benachrichtigungen zu erhalten, wenn der Fokus-Assistent aktiviert ist. Der Fokus-Assistent ist wie ein „Bitte...
-Zum Beitrag: Windows 10: Optionales Update KB5015878 wird verteilt
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>caschy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ADAC SE und E.ON starten gemeinsames Elektromobilitäts-Angebot für Unternehmen]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1121569</id>
-        <link href="https://stadt-bremerhaven.de/adac-se-und-e-on-starten-gemeinsames-elektromobilitaets-angebot-fuer-unternehmen/"/>
-        <updated>2022-07-27T12:00:29.000Z</updated>
-        <summary type="html"><![CDATA[E.ON und die ADAC Service GmbH erweitern ihre Kooperation in Sachen Elektromobilität. Sie bieten ab sofort gemeinsam Ladestationen für Unternehmen an. Damit wollen die Partner die klimafreundliche Mobilität (Eigenaussage) in Deutschland weiter voranbringen – sicherlich macht man dies auch, um...
-Zum Beitrag: ADAC SE und E.ON starten gemeinsames Elektromobilitäts-Angebot für Unternehmen
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>caschy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Maps stellt neue Funktionen für den Sommer vor]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1121554</id>
-        <link href="https://stadt-bremerhaven.de/google-maps-stellt-neue-funktionen-fuer-den-sommer-vor/"/>
-        <updated>2022-07-27T11:30:10.000Z</updated>
-        <summary type="html"><![CDATA[Google Maps soll Nutzer im Sommer 2022 mit neuen Features versorgen, um unter anderem die Urlaubsplanung zu erleichtern. So stehen für Android und iOS zukünftig etwa Luftaufnahmen von bis zu 100 weltweit beliebten Sehenswürdigkeiten sowie neue Fahrradrouten-Informationen in zahlreichen Städten...
-Zum Beitrag: Google Maps stellt neue Funktionen für den Sommer vor
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>André Westphal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Car Thing: Spotify gibt das Geschäft auf]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1121589</id>
-        <link href="https://stadt-bremerhaven.de/car-thing-spotify-gibt-das-geschaeft-auf/"/>
-        <updated>2022-07-27T11:06:08.000Z</updated>
-        <summary type="html"><![CDATA[Spotify hat seine Quartalszahlen bekannt gegeben. Interessante Details aus dem Investoren-Gespräch: Die Hardware-Experimente gibt man auf, zumindest die bezüglich Car Thing. Car Thing ist ein Gerät, das im Auto an den Zigarettenanzünder angeschlossen wird und schnellen Zugriff auf die Inhalte...
-Zum Beitrag: Car Thing: Spotify gibt das Geschäft auf
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>caschy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Asus ROG Strix XG32UQ: 4K-Monitor mit HDMI 2.1, HDR 600 und bis zu 160 Hz]]></title>
-        <id>https://www.computerbase.de/2022-07/asus-rog-strix-xg32uq-4k-monitor-mit-hdmi-2-1-hdr-600-und-bis-zu-160-hz/</id>
-        <link href="https://www.computerbase.de/2022-07/asus-rog-strix-xg32uq-4k-monitor-mit-hdmi-2-1-hdr-600-und-bis-zu-160-hz/"/>
-        <updated>2022-07-27T11:02:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/4/0/3-5a7fc64d64853b8a/article-640x360.72ae7080.jpg"><p>Die Klasse der 32-Zoll-Monitore mit UHD-Auflösung bereichert Asus bald mit einem neuen Modell für Spieler. Der ROG Strix XG32UQ arbeitet nativ mit 144 Hz und lässt sich auf 160 Hz via DisplayPort übertakten. Ein IPS-Panel mit 1 ms Reaktionszeit, HDMI 2.1 und DisplayHDR 600 sind weitere Merkmale.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spotify hat 188 Millionen zahlende Kunden]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1121581</id>
-        <link href="https://stadt-bremerhaven.de/spotify-hat-188-millionen-zahlende-kunden/"/>
-        <updated>2022-07-27T10:51:14.000Z</updated>
-        <summary type="html"><![CDATA[Spotify hat seine Quartalszahlen bekannt gegeben. Mittlerweile hat man ja nicht nur Musik im Angebot, es gibt Podcasts, bald noch mehr Videos und noch mehr. Q2 ‘22 $SPOT earnings results are out. A very strong quarter for @Spotify thanks to...
-Zum Beitrag: Spotify hat 188 Millionen zahlende Kunden
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>caschy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rewe verzichtet ab Sommer 2023 auf ein Papier-Prospekt]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1121572</id>
-        <link href="https://stadt-bremerhaven.de/rewe-verzichtet-ab-sommer-2023-auf-ein-papier-prospekt/"/>
-        <updated>2022-07-27T10:30:25.000Z</updated>
-        <summary type="html"><![CDATA[Die Supermarkt-Kette gibt eine Neuerung bekannt, welche die Geister scheiden könnte: Ab Sommer 2023 wird man als laut eigenen Aussagen „erster Lebensmitteleinzelhändler den gedruckten Angebots-Prospekt“ einstellen. Begründet wird dies mit dem Klimaschutz. Doch die Realität dürfte komplexer sein. So spart...
-Zum Beitrag: Rewe verzichtet ab Sommer 2023 auf ein Papier-Prospekt
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>André Westphal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nvidia Studio Treiber: Version 516.93 beschleunigt Chaos V-Ray 6 für 3ds Max [Notiz]]]></title>
-        <id>https://www.computerbase.de/2022-07/nvidia-studio-treiber-version-516-93-beschleunigt-chaos-v-ray-6-fuer-3ds-max/</id>
-        <link href="https://www.computerbase.de/2022-07/nvidia-studio-treiber-version-516-93-beschleunigt-chaos-v-ray-6-fuer-3ds-max/"/>
-        <updated>2022-07-27T10:23:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/4/0/1-d769e1f338afbdc6/article-640x360.d4c478f8.jpg"><p>Nvidia hat mit dem 516.93 einen neuen Studio-Treiber für die eigenen GeForce-Grafikkarten zum Download bereitgestellt. Dieser unterstützt erstmals Chaos V-Ray 6 für Autodesks 3ds Max, das laut den Entwicklern ein großes Update für photorealistisches Rendern darstellen soll.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mullvad VPN codes are now available on Amazon]]></title>
-        <id>https://www.ghacks.net/?p=179952</id>
-        <link href="https://www.ghacks.net/2022/07/27/mullvad-vpn-codes-are-now-available-on-amazon/"/>
-        <updated>2022-07-27T10:01:24.000Z</updated>
-        <summary type="html"><![CDATA[Swedish VPN provider Mullvad has expanded the accepted payment methods to include Mullvad VPN codes bought on Amazon to the list. Mullvad VPN is a privacy-first VPN provider that does several things […]
-Thank you for being a Ghacks reader. The post Mullvad VPN codes are now available on Amazon appeared first on gHacks Technology News.]]></summary>
-        <author>
-            <name>Martin Brinkmann</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Volvo schaltet Apple CarPlay via Update in neuen Regionen frei]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1121550</id>
-        <link href="https://stadt-bremerhaven.de/volvo-schaltet-apple-carplay-via-update-in-neuen-regionen-frei/"/>
-        <updated>2022-07-27T10:00:48.000Z</updated>
-        <summary type="html"><![CDATA[Volvo rollt aktuell ein Software-Update aus, das Apple CarPlay in 14 neuen Regionen freischalten soll, wie EV berichtet. Versorgt werden offenbar die Modelle, welche Android Automotive als Betriebssystem einsetzen. Die Fahrzeuge sollen auch die nächste Generation von CarPlay unterstützten, die...
-Zum Beitrag: Volvo schaltet Apple CarPlay via Update in neuen Regionen frei
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>André Westphal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Enermax StarryKnight SK30 im Test: Die ARGB-Lichtanlage setzt noch auf Molex-Stecker]]></title>
-        <id>https://www.computerbase.de/2022-07/enermax-starryknight-sk30-test/</id>
-        <link href="https://www.computerbase.de/2022-07/enermax-starryknight-sk30-test/"/>
-        <updated>2022-07-27T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/2/6/7-c44746bbf2c5c1ea/article-640x360.64ffa050.jpg"><p>Mit dem StarryKnight SK30 setzt Enermax von Haus aus auf gleich vier ARGB-Lüfter und eine luftige Gitterfront. Zugunsten der Beleuchtung wird bei genauerem Blick jedoch an gleich mehreren Ecken teils erheblich gespart. Immerhin sind die Temperaturen im Test als überaus gut zu bezeichnen.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Samsung Galaxy Z Flip 4: Bilder, Daten und Preise zum neuen Foldable aufgetaucht]]></title>
-        <id>https://www.computerbase.de/2022-07/samsung-galaxy-z-flip-4/</id>
-        <link href="https://www.computerbase.de/2022-07/samsung-galaxy-z-flip-4/"/>
-        <updated>2022-07-27T09:05:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/3/9/9-d3cb51fd3f959b21/article-640x360.32abb3c7.jpg"><p>Der Nachfolger des Samsung Galaxy Z Flip 3 (Test) soll ab 1.080 Euro kosten und in drei Konfigurationen sowie vier Farben erscheinen. Einmal mehr stammt das jetzt vorab veröffentlichte Bildmaterial von @OnLeaks, welcher die auf Pressematerial basierenden Renderings über die Website Giznext veröffentlicht hat.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AMD Adrenalin Edition 22.7.1: Mit mehr OpenGL-FPS, Noise Suppression und VRS-Boost]]></title>
-        <id>https://www.computerbase.de/2022-07/amd-adrenalin-edition-22-7-1-mit-mehr-opengl-fps-noise-suppression-und-vrs-boost/</id>
-        <link href="https://www.computerbase.de/2022-07/amd-adrenalin-edition-22-7-1-mit-mehr-opengl-fps-noise-suppression-und-vrs-boost/"/>
-        <updated>2022-07-27T08:31:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/3/9/7-38ec40e48d841f16/article-640x360.de022da3.jpg"><p>Nach einigen Wochen „Pause“ hat AMD mit dem Adrenalin 22.7.1 einen neuen Treiber bereit gestellt, der als Ausgleich aber auch wieder ein größeres Update ist. Zwar wird mit dem Swordsman Remake ganz klassisch auch ein neues Spiel unterstützt, aber auch davon abgesehen hat sich so einiges getan.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Look Around („Umsehen“): Apple Maps überholt Google Street View bundesweit]]></title>
-        <id>https://www.computerbase.de/2022-07/apple-karten-umsehen-deutschland/</id>
-        <link href="https://www.computerbase.de/2022-07/apple-karten-umsehen-deutschland/"/>
-        <updated>2022-07-27T07:13:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/3/9/6-ffc13e5512e33155/article-640x360.446d73a5.jpg"><p>Das im Jahr 2020 in den USA eingeführte Feature „Umsehen“ der Kartenanwendung Apple Maps für iOS ist jetzt auch in ganz Deutschland verfügbar. Nachdem der Start in der San Francisco Bay Area, Los Angeles, Las Vegas, Houston und Oahu erfolgte, reihte sich München als erste deutsche Stadt gerade erst vor rund drei Monaten ein.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Which is right for you – Xbox Live Gold or Xbox Game Pass?]]></title>
-        <id>https://www.ghacks.net/?p=179846</id>
-        <link href="https://www.ghacks.net/2022/07/20/xbox-live-gold-or-xbox-game-pass-eneba/"/>
-        <updated>2022-07-27T07:00:34.000Z</updated>
-        <summary type="html"><![CDATA[Xbox like any other console has its own subscription services and like it or not, subscriptions have become a crucial part of any console owner’s life. While they are not threatening to […]
-Thank you for being a Ghacks reader. The post Which is right for you – Xbox Live Gold or Xbox Game Pass? appeared first on gHacks Technology News.]]></summary>
-        <author>
-            <name>Sponsored Content</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Firefox Translations: support for French, Polish and Ukrainian languages added]]></title>
-        <id>https://www.ghacks.net/?p=179949</id>
-        <link href="https://www.ghacks.net/2022/07/27/firefox-translations-support-for-french-polish-and-ukrainian-languages-added/"/>
-        <updated>2022-07-27T05:40:53.000Z</updated>
-        <summary type="html"><![CDATA[Mozilla released an update for Firefox Translations that is adding support for French, Polish and Ukrainian translations to the browser add-on for Firefox. Firefox Translations is Mozilla's answers to Google Translate, Microsoft […]
-Thank you for being a Ghacks reader. The post Firefox Translations: support for French, Polish and Ukrainian languages added appeared first on gHacks Technology News.]]></summary>
-        <author>
-            <name>Martin Brinkmann</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Googles Quartalszahlen: 69,7 Mrd. Dollar Umsatz]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1121507</id>
-        <link href="https://stadt-bremerhaven.de/googles-quartalszahlen-697-mrd-dollar-umsatz/"/>
-        <updated>2022-07-26T20:45:55.000Z</updated>
-        <summary type="html"><![CDATA[Google (bzw. Alphabet) hat seine Quartalszahlen veröffentlicht. Sundar Pichai, CEO von Alphabet und Google, sagte: „Im zweiten Quartal wurde unsere Leistung von Search und Cloud angeführt. Die Investitionen, die wir über die Jahre in KI und Computing getätigt haben, tragen...
-Zum Beitrag: Googles Quartalszahlen: 69,7 Mrd. Dollar Umsatz
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>caschy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsofts Quartalszahlen : Xbox und Windows straucheln]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1121501</id>
-        <link href="https://stadt-bremerhaven.de/microsofts-quartalszahlen-xbox-und-windows-straucheln/"/>
-        <updated>2022-07-26T20:22:04.000Z</updated>
-        <summary type="html"><![CDATA[Das Unternehmen Microsoft hat seine Quartalszahlen bekannt gegeben. Für Microsoft ist es das vierte Quartal. Die Kurzform: Der Umsatz betrug 51,9 Milliarden US-Dollar und stieg um 12 %. Das operative Ergebnis betrug 20,5 Milliarden US-Dollar und stieg um 8 %....
-Zum Beitrag: Microsofts Quartalszahlen : Xbox und Windows straucheln
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>caschy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Razer Deathstalker V2: Opto-mechanische Taster werden mittelflach]]></title>
-        <id>https://www.computerbase.de/2022-07/razer-deathstalker-v2-opto-mechanische-taster-werden-mittelflach/</id>
-        <link href="https://www.computerbase.de/2022-07/razer-deathstalker-v2-opto-mechanische-taster-werden-mittelflach/"/>
-        <updated>2022-07-26T19:45:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/3/9/3-e5a8f1e961933ad1/article-640x360.da995bc6.jpg"><p>Nach gut zehn Jahren holt Razer den DeathStalker-Namen wieder hervor, mit dem besonders flache Tastaturen im besonders hochpreisigen Segment vermarktet wurden. 2022 werden der Serie statt Notebook-Tastern aber flache opto-mechanische Modelle spendiert, die damit ihr Marktdebüt geben.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Samsung stellt das Galaxy S22 in der neuen Farbe Bora Purple offiziell vor]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1121483</id>
-        <link href="https://stadt-bremerhaven.de/samsung-stellt-das-galaxy-s22-in-der-neuen-farbe-bora-purple-offiziell-vor/"/>
-        <updated>2022-07-26T19:24:42.000Z</updated>
-        <summary type="html"><![CDATA[Überraschend kommt es nun nicht unbedingt, dennoch wird der eine oder andere Fan der Galaxy-Gerätereihe die neue Farbe „Bora Purple“ für das Galaxy S22 sehr begrüßen. Jene wurde von Samsung nun offiziell vorgestellt und soll dann ab dem 10. August...
-Zum Beitrag: Samsung stellt das Galaxy S22 in der neuen Farbe Bora Purple offiziell vor
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>Benjamin Mamerow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AMD X670 und X670 Extreme: Boards für Ryzen 7000 werden am 4. August gezeigt]]></title>
-        <id>https://www.computerbase.de/2022-07/amd-ryzen-7000-x670-extreme-showcase-4-august/</id>
-        <link href="https://www.computerbase.de/2022-07/amd-ryzen-7000-x670-extreme-showcase-4-august/"/>
-        <updated>2022-07-26T19:21:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/3/9/5-a8ba73a2c376732f/article-640x360.bde64721.jpg"><p>AMD und seine Partner Asus, ASRock, Biostar, Gigabyte und MSI zeigen am 4. August ihre Mainboards mit den Chipsätzen X670 und X670 Extreme für die kommende AM5-Plattform und Ryzen 7000 („Raphael“) mit DDR5 und PCIe 5.0. Im Rahmen des Serie „AMD Meet the Experts“ soll das neue AM5-Ökosystem im Detail vorgestellt werden.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FairEmail: Entwickler hat wieder Probleme mit Google]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1121480</id>
-        <link href="https://stadt-bremerhaven.de/fairemail-entwickler-hat-wieder-probleme-mit-google/"/>
-        <updated>2022-07-26T17:41:04.000Z</updated>
-        <summary type="html"><![CDATA[Der Entwickler von FairEmail, einer kostenlosen Open-Source-Mail-App, hat wieder Probleme mit Google. Dieses Mal geht’s um die Anmeldung bei Gmail, die ja OAuth 2.0 bei Dritt-Clients voraussetzt. Man stelle sich aber vor: Jene Schnittstelle hat ein Limit – und jenes...
-Zum Beitrag: FairEmail: Entwickler hat wieder Probleme mit Google
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>caschy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Game on AMD: Aktion macht Ryzen 5000 und Radeon RX 6000 günstiger [Notiz]]]></title>
-        <id>https://www.computerbase.de/2022-07/game-on-amd-aktion-macht-ryzen-5000-und-radeon-rx-6000-guenstiger/</id>
-        <link href="https://www.computerbase.de/2022-07/game-on-amd-aktion-macht-ryzen-5000-und-radeon-rx-6000-guenstiger/"/>
-        <updated>2022-07-26T17:37:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/3/9/4-3bb2a325cb78cc9b/article-640x360.5eaf6889.jpg"><p>Im Rahmen der Aktion „Game on AMD“ sind viele Prozessoren der Ryzen-5000-Serie wie auch diverse Grafikkarten der Radeon-RX-6000-Familie bei teilnehmenden Händlern günstiger zu haben. Die Aktion läuft bis zum 5. August.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Satelliten: Eutelsat möchte mit OneWeb fusionieren]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1121473</id>
-        <link href="https://stadt-bremerhaven.de/satelliten-eutelsat-moechte-mit-oneweb-fusionieren/"/>
-        <updated>2022-07-26T16:45:46.000Z</updated>
-        <summary type="html"><![CDATA[Entsteht da ein Gegenpart zu Starlink von Elon Musk? Die Internet-Satellitenbetreiber OneWeb und Eutelsat planen einen Zusammenschluss. Die Fusion, die noch der Zustimmung der Aufsichtsbehörden und der Eutelsat-Aktionäre bedarf, könnte bis Mitte 2023 abgeschlossen sein. Eutelsat möchte seine 36 GEO-Satelliten...
-Zum Beitrag: Satelliten: Eutelsat möchte mit OneWeb fusionieren
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>caschy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PACE Drive ermöglicht das Bezahlen an der Zapfsäule über CarPlay und Android Auto]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1121439</id>
-        <link href="https://stadt-bremerhaven.de/pace-drive-ermoeglicht-das-bezahlen-an-der-zapfsaeule-ueber-carplay-und-android-auto/"/>
-        <updated>2022-07-26T16:35:14.000Z</updated>
-        <summary type="html"><![CDATA[PACE Telematics, ein Unternehmen im Bereich mobiles Bezahlen an der Zapfsäule, wird die eigene mobile Bezahlfunktion durch die Anbindung von CarPlay (unter iOS 16) und Android Auto erweitern. Die „PACE Drive Tankapp“ wird so im Herbst im Infotainmentsystem fast aller...
-Zum Beitrag: PACE Drive ermöglicht das Bezahlen an der Zapfsäule über CarPlay und Android Auto
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>caschy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Plex: Fortschritt und Bewertungen über mehrere Server synchronisierbar]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1121456</id>
-        <link href="https://stadt-bremerhaven.de/plex-fortschritt-und-bewertungen-ueber-mehrere-server-synchronisierbar/"/>
-        <updated>2022-07-26T16:00:54.000Z</updated>
-        <summary type="html"><![CDATA[Plex, sicherlich nicht nur mein Medienserver und -Player der Wahl, hat ein kleines Nischen-Update bekommen. Zumindest ist es das, sofern man sich nur mit seinem eigenen Server verbindet. Mit Plex können Nutzer optional ihren Status und ihre persönlichen Bewertungen von...
-Zum Beitrag: Plex: Fortschritt und Bewertungen über mehrere Server synchronisierbar
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>caschy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Team Group: Erste SSD mit Vapor-Chamber-Kühler mag es heiß]]></title>
-        <id>https://www.computerbase.de/2022-07/team-group-erste-ssd-mit-vapor-chamber-kuehler-mag-es-heiss/</id>
-        <link href="https://www.computerbase.de/2022-07/team-group-erste-ssd-mit-vapor-chamber-kuehler-mag-es-heiss/"/>
-        <updated>2022-07-26T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/3/9/1-0062b5cc4cd4ef79/article-640x360.fc4fd2e2.jpg"><p>Ob kleine Kühltürme oder gar eine Wasserkühlung: Die Kühllösungen für SSDs werden immer aufwändiger, auch wenn dies (noch) nicht zwingend erforderlich ist. Team Group geht mit der ersten SSD mit Vapor-Chamber-Kühler neue Wege. Diese ist für den industriellen Einsatz bei hoher Umgebungstemperatur gedacht.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ghacks Deals: The 2022 Premium Python Programming PCEP Certification Prep Bundle]]></title>
-        <id>https://www.ghacks.net/?p=179944</id>
-        <link href="https://www.ghacks.net/2022/07/26/ghacks-deals-the-2022-premium-python-programming-pcep-certification-prep-bundle-4/"/>
-        <updated>2022-07-26T15:48:52.000Z</updated>
-        <summary type="html"><![CDATA[The 2022 Premium Python Programming PCEP Certification Prep Bundle includes 12 different Python eLearning courses. The bundle includes beginner courses with an hands-on approach to things, and advanced courses that dive deeper […]
-Thank you for being a Ghacks reader. The post Ghacks Deals: The 2022 Premium Python Programming PCEP Certification Prep Bundle appeared first on gHacks Technology News.]]></summary>
-        <author>
-            <name>Martin Brinkmann</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stray: Mods erlauben Spiel im Koop-Modus oder als Hundewelpe]]></title>
-        <id>https://www.computerbase.de/2022-07/stray-mods-erlauben-spiel-im-koop-modus-oder-als-hundewelpe/</id>
-        <link href="https://www.computerbase.de/2022-07/stray-mods-erlauben-spiel-im-koop-modus-oder-als-hundewelpe/"/>
-        <updated>2022-07-26T15:35:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/3/9/2-9c9cfa035ce2e303/article-640x360.acba052a.jpg"><p>Das Cyberpunk-Katzenspiel Stray erfreut sich aktuell großer Beliebtheit. Eine Woche nach Release erhält das Einzelspieler-Adventure per Mod einen experimentellen Koop-Modus – allerdings mit noch einigen offenen Baustellen und nur lokal via Splitscreen. Der Entwickler verspricht allerdings weitere Optimierungen.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PlayStation VR2: Sony gibt spannende Einblicke]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1121462</id>
-        <link href="https://stadt-bremerhaven.de/playstation-vr2-sony-gibt-spannende-einblicke/"/>
-        <updated>2022-07-26T15:34:52.000Z</updated>
-        <summary type="html"><![CDATA[Interessierte können Sony einen Besuch im PlayStation Blog abstatten. Da gibt’s einen Ausblick auf die PlayStation VR2, bzw. deren „Benutzererlebnis“. Mit der PS VR2 könne man seine Umgebung sehen, während man das Headset trägt – dank einer neuen Durchsichtsfunktion. Das...
-Zum Beitrag: PlayStation VR2: Sony gibt spannende Einblicke
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>caschy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Das sind die Highlights im August bei Prime Video]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1121463</id>
-        <link href="https://stadt-bremerhaven.de/das-sind-die-highlights-im-august-bei-prime-video/"/>
-        <updated>2022-07-26T15:23:45.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Prime Video hat Highlights zu vermelden – und zwar ist das nicht die Preiserhöhung von Amazon Prime selbst: Amazon Prime mit saftiger Preiserhöhung ab September Stattdessen geht’s um Inhalte, um Serien und Filme. Bei den Streaming-Anbietern ist der August...
-Zum Beitrag: Das sind die Highlights im August bei Prime Video
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>caschy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Chrome: Anzeige der Passwort-Stärke in Arbeit]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1121415</id>
-        <link href="https://stadt-bremerhaven.de/google-chrome-anzeige-der-passwort-staerke-in-arbeit/"/>
-        <updated>2022-07-26T15:00:53.000Z</updated>
-        <summary type="html"><![CDATA[Google Chrome und Chrome OS bekommen vermutlich bald ein besseres Sicherheits-Feature. Das ist allerdings nur für all jene, die die Passwort-Funktion von Chrome auch nutzen und nicht zu einem externen Passwortmanager greifen. So könnte Chrome zukünftig eine Bewertung des Passworts...
-Zum Beitrag: Google Chrome: Anzeige der Passwort-Stärke in Arbeit
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>caschy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft confirms that KB5014666 is affecting USB printers in Windows 10]]></title>
-        <id>https://www.ghacks.net/?p=179931</id>
-        <link href="https://www.ghacks.net/2022/07/26/microsoft-confirms-that-kb5014666-is-affecting-usb-printers-in-windows-10/"/>
-        <updated>2022-07-26T14:46:27.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft has confirmed that the July 2022 Patch Tuesday Update has introduced a problem. KB5014666 is affecting USB printers in Windows 10. A couple of readers commented on our article about the […]
-Thank you for being a Ghacks reader. The post Microsoft confirms that KB5014666 is affecting USB printers in Windows 10 appeared first on gHacks Technology News.]]></summary>
-        <author>
-            <name>Ashwin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1Password: Version 8.8 für den Mac mit besserem Import]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1121430</id>
-        <link href="https://stadt-bremerhaven.de/1password-version-8-8-fuer-den-mac-mit-besserem-import/"/>
-        <updated>2022-07-26T14:30:54.000Z</updated>
-        <summary type="html"><![CDATA[1Password für den Mac liegt mittlerweile in Version 8.8.0 vor. Der Passwortmanager bekommt damit auch einige neue Funktionen von den Entwicklern verpasst. Unter anderem können Nutzer jetzt einen unverschlüsselten 1Password-Export (1PUX), eine CSV-Exportdatei von 1Password oder einen CSV-Export Ihrer iCloud-Passwörter...
-Zum Beitrag: 1Password: Version 8.8 für den Mac mit besserem Import
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>caschy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[World of Warcraft Classic: Wrath of the Lich King startet abgeändert Ende September]]></title>
-        <id>https://www.computerbase.de/2022-07/world-of-warcraft-classic-wrath-of-the-lich-king-startet-abgeaendert-ende-september/</id>
-        <link href="https://www.computerbase.de/2022-07/world-of-warcraft-classic-wrath-of-the-lich-king-startet-abgeaendert-ende-september/"/>
-        <updated>2022-07-26T14:30:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/3/8/9-86207efa4d5a05fc/article-640x360.9c1902c1.jpg"><p>Mit Wrath of the Lich King erscheint am 27. September die zweite Erweiterung für World of Warcraft Classic, wie Blizzard informierte. Die Inhalte des neuen, alten Add-ons sind soweit bekannt, erfahren gegenüber dem Original aber einige Änderungen, mit denen Blizzard ein besseres Spielerlebnis liefern will.</p>]]></summary>
         <author>
             <name>ComputerBase</name>
         </author>
