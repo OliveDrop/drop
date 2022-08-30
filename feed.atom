@@ -2,10 +2,463 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://olivedrop.github.io/drop/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-29T02:31:44.392Z</updated>
+    <updated>2022-08-30T02:37:44.373Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://olivedrop.github.io/drop/index.html"/>
     <link rel="self" href="https://olivedrop.github.io/drop/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Zen 4 trifft RDNA 3: AMD zeigt Demo mit Ryzen 9 7950X & Next Gen Radeon RX [Notiz]]]></title>
+        <id>https://www.computerbase.de/2022-08/zen-4-trifft-rdna-3-amd-zeigt-demo-mit-ryzen-9-7950x-und-next-gen-radeon-rx/</id>
+        <link href="https://www.computerbase.de/2022-08/zen-4-trifft-rdna-3-amd-zeigt-demo-mit-ryzen-9-7950x-und-next-gen-radeon-rx/"/>
+        <updated>2022-08-29T23:30:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/8/0/6-811d25982ecf9fd2/article-640x360.d9a3283f.jpg"><p>Zur finalen Vorstellung der Ryzen-7000-CPUs mit Zen-4-Kernen und RDNA-2-iGPU kam AMD nicht um einen Auftritt der nächsten GPU-Architektur RDNA 3 herum: Ein System mit einem Gespann aus Ryzen 9 7950X und nicht näher definierter „Next Gen Radeon RX“ durfte beweisen, dass es rendern kann. Handfeste neue Fakten gab es nicht.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AMD Ryzen 7000: Vier neue CPUs bieten +13 % IPC und bis zu 5,7 GHz Takt]]></title>
+        <id>https://www.computerbase.de/2022-08/amd-ryzen-7000-vier-neue-cpus-bieten-plus-13-prozent-ipc-und-bis-zu-5-7-ghz-takt/</id>
+        <link href="https://www.computerbase.de/2022-08/amd-ryzen-7000-vier-neue-cpus-bieten-plus-13-prozent-ipc-und-bis-zu-5-7-ghz-takt/"/>
+        <updated>2022-08-29T23:30:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/8/0/3-7c1cab386ec69bad/article-640x360.c1810c84.jpg"><p>AMD hat tief gestapelt und zur Vorstellung überrascht: Die neuen CPUs sind nicht nur schneller als gedacht, sondern zum Teil auch günstiger. Bereits ein kleiner Ryzen 5 7600X kann einen Intel Core i9-12900K schlagen, ganz oben fällt das Flaggschiff Ryzen 9 7950X sogar 100 US-Dollar im Preis.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trailer: WEIRD: The Al Yankovic Story]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1126651</id>
+        <link href="https://stadt-bremerhaven.de/trailer-weird-the-al-yankovic-story/"/>
+        <updated>2022-08-29T19:27:08.000Z</updated>
+        <summary type="html"><![CDATA[Meine erste Berührung mit Al Yankovic hatte ich durch seine Parodiesongs Mitte der 80er (u. a. Eat it) und dem Schauen des Filmes UHF – Sender mit beschränkter Hoffnung. Stammt aus dem Jahr 1989 und ist ein feiner Klamauk mit...
+Zum Beitrag: Trailer: WEIRD: The Al Yankovic Story
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Pixel Watch: LTE-Variante soll 399 Dollar kosten]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1126644</id>
+        <link href="https://stadt-bremerhaven.de/google-pixel-watch-lte-variante-soll-399-dollar-kosten/"/>
+        <updated>2022-08-29T18:25:38.000Z</updated>
+        <summary type="html"><![CDATA[Vieles zur kommenden Pixel Watch von Google ist nun mittlerweile bekannt, allem voran fehlte aber leider noch immer eine Angabe zum Preis. Nicht ganz unwichtig für viele Interessenten, denn damit steht oder fällt eben am Ende oft die Kaufentscheidung. Fassen...
+Zum Beitrag: Google Pixel Watch: LTE-Variante soll 399 Dollar kosten
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>Benjamin Mamerow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iOS 16: Beta 8 für Entwickler ist da]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1126465</id>
+        <link href="https://stadt-bremerhaven.de/ios-16-beta-8-fuer-entwickler-ist-da/"/>
+        <updated>2022-08-29T17:43:09.000Z</updated>
+        <summary type="html"><![CDATA[Die Katze ist aus dem Sack. Am 7. September wird Apple wieder neue Hardware präsentieren. Mit ziemlicher Sicherheit kann man sagen, dass wir das iPhone 14 und die neue Apple Watch sehen werden, außerdem wird es erneut einen Blick auf...
+Zum Beitrag: iOS 16: Beta 8 für Entwickler ist da
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>Olli</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple TV+ stellt sein Kinder- und Familienprogramm für Herbst 2022 vor]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1126603</id>
+        <link href="https://stadt-bremerhaven.de/apple-tv-stellt-sein-kinder-und-familienprogramm-fuer-herbst-2022-vor/"/>
+        <updated>2022-08-29T17:00:13.000Z</updated>
+        <summary type="html"><![CDATA[Apple TV+ hat seine Planung für den Bereich Kinder und Familie für den Herbst 2022 bekannt gegeben. Da schickt man einerseits bereits bestehende Formate in neue Staffeln, bringt aber auch neue Serien heraus. Zu den neuen Apple TV+ Originals zählt...
+Zum Beitrag: Apple TV+ stellt sein Kinder- und Familienprogramm für Herbst 2022 vor
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LKA Niedersachsen warnt erneut vor telefonischen Betrugsmaschen]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1126533</id>
+        <link href="https://stadt-bremerhaven.de/lka-niedersachsen-warnt-erneut-vor-telefonischen-betrugsmaschen/"/>
+        <updated>2022-08-29T16:30:41.000Z</updated>
+        <summary type="html"><![CDATA[Das LKA Niedersachsen warnt regelmäßig vor Betrugsmaschen: egal ob online oder per Telefon. Jetzt habe man von vielen Menschen Informationen zu betrügerischen Anrufen erhalten, sodass da Kriminelle wohl mit einem weiteren Dreh rangehen. Derzeit geben sich die Betrüger am Telefon...
+Zum Beitrag: LKA Niedersachsen warnt erneut vor telefonischen Betrugsmaschen
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IKEA DIRIGERA online gelistet, wird um 70 Euro kosten]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1126614</id>
+        <link href="https://stadt-bremerhaven.de/ikea-dirigera-online-gelistet-wird-um-70-euro-kosten/"/>
+        <updated>2022-08-29T16:02:31.000Z</updated>
+        <summary type="html"><![CDATA[Im Oktober wird der neue Smart-Home-Hub von IKEA, der DIRIGERA, an den Start gehen. Wir haben einige Seiten getrackt und haben nun die erste Listung bei IKEA in Norwegen entdeckt. Es gab bisher keinen Preis, 699 norwegische Kronen werden fällig,...
+Zum Beitrag: IKEA DIRIGERA online gelistet, wird um 70 Euro kosten
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Netflix wird 25 Jahre alt und feiert mit nostalgischem Video seinen Geburtstag]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1126596</id>
+        <link href="https://stadt-bremerhaven.de/netflix-wird-25-jahre-alt-und-feiert-mit-nostalgischem-video-seinen-geburtstag/"/>
+        <updated>2022-08-29T16:00:19.000Z</updated>
+        <summary type="html"><![CDATA[Netflix feiert heute seinen Geburtstag und wird 25 Jahre alt. Mit einem nostalgischen Video zelebriert man diesen Tag. So find das Unternehmen nicht direkt mit dem Streaming an, sondern verschickte in seinen Anfangszeiten in den USA noch Filme auf DVD...
+Zum Beitrag: Netflix wird 25 Jahre alt und feiert mit nostalgischem Video seinen Geburtstag
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Snapchat führt Dual-Kamera-Modus ein]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1126586</id>
+        <link href="https://stadt-bremerhaven.de/snapchat-fuehrt-dual-kamera-modus-ein/"/>
+        <updated>2022-08-29T15:30:05.000Z</updated>
+        <summary type="html"><![CDATA[Snapchat peppt seine App mal wieder auf:  Die In-App-Kamera wird um einen Dual-Kamera-Modus erweitert. Dieser steht ab sofort unter Apple iOS zur Verfügung, soll für Android jedoch „in den kommenden Monaten“ auch noch folgen. Aktivieren könnt ihr die Dual-Kamera über...
+Zum Beitrag: Snapchat führt Dual-Kamera-Modus ein
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sony übernimmt Savage Game Studios]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1126570</id>
+        <link href="https://stadt-bremerhaven.de/sony-uebernimmt-savage-game-studios/"/>
+        <updated>2022-08-29T15:00:08.000Z</updated>
+        <summary type="html"><![CDATA[Sony hat eine Übernahme zu verbuchen: die Savage Game Studios werden Teil der PlayStation Studios. Sollte euch das Studio nichts sagen: Savage Game Studios sind nicht für Konsolenspiele, sondern für Mobile Games bekannt. Gegründet wurde das Studio erst 2020. Offenbar...
+Zum Beitrag: Sony übernimmt Savage Game Studios
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vodafone-Netz: 15 GB für 7,99 Euro im Monat]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1126307</id>
+        <link href="https://stadt-bremerhaven.de/vodafone-netz-15-gb-fuer-799-euro-im-monat/"/>
+        <updated>2022-08-29T14:40:02.000Z</updated>
+        <summary type="html"><![CDATA[Bei klarmobil hat man mal wieder ein Angebot im Vodafone-Netz geschnürt. Die Überschrift verrät es: 15 GB Datenvolumen im Vodafone-Netz bekommt man und zahlt dafür 7,99 Euro im Monat. Für 7,99 Euro gibt’s nicht nur das reine LTE-Datenvolumen, es gibt auch...
+Zum Beitrag: Vodafone-Netz: 15 GB für 7,99 Euro im Monat
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Asus ROG Phone 6D Ultimate: Vorstellung am 19. September 2022]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1126580</id>
+        <link href="https://stadt-bremerhaven.de/asus-rog-phone-6d-ultimate-vorstellung-am-19-september-2022/"/>
+        <updated>2022-08-29T14:30:16.000Z</updated>
+        <summary type="html"><![CDATA[Asus wird am 19. September 2022 ein neues Gaming-Smartphone aus dem Hut zaubern: das ROG Phone 6D Ultimate. Via Twitter hat der Hersteller auch bestätigt, dass bei diesem mobilen Endgerät der MediaTek Dimensity 9000+ als Chip herhalten wird. Zum Launch...
+Zum Beitrag: Asus ROG Phone 6D Ultimate: Vorstellung am 19. September 2022
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Resident Evil: Netflix zieht Schlussstrich nach vernichtender Kritik]]></title>
+        <id>https://www.computerbase.de/2022-08/resident-evil-netflix-zieht-schlussstrich-nach-vernichtender-kritik/</id>
+        <link href="https://www.computerbase.de/2022-08/resident-evil-netflix-zieht-schlussstrich-nach-vernichtender-kritik/"/>
+        <updated>2022-08-29T14:25:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/8/0/0-265f003523dc5ef7/article-640x360.8e4c6f70.jpg"><p>Mit Resident Evil feierte Netflix am 14. Juli 2022 den Start einer weiteren Serie mit Videospiel-Hintergrund. Nicht feierlich gestimmt waren die Fans: Die Horror-Verfilmung sei nicht grauenhaft gruselig, sondern einfach nur grauenhaft. Jetzt zieht der Streaming-Anbieter die Reißleine – nach der ersten Staffel ist Schluss.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[9-Euro-Ticket: Insgesamt 52 Mio. verkaufte Exemplare]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1126574</id>
+        <link href="https://stadt-bremerhaven.de/9-euro-ticket-insgesamt-52-mio-verkaufte-exemplare/"/>
+        <updated>2022-08-29T14:00:01.000Z</updated>
+        <summary type="html"><![CDATA[Das 9-Euro-Ticket ist laut der Bilanz des Verbands Deutscher Verkehrsunternehmen (VDV) ein Erfolgsmodell gewesen: Rund 52 Mio. mal wurde es insgesamt verkauft. Umfangreiche Marktforschung habe auch einen Verlagerungseffekt belegt. Dazu sei allerdings hingewiesen, dass es da auch schon exakt gegenteilige...
+Zum Beitrag: 9-Euro-Ticket: Insgesamt 52 Mio. verkaufte Exemplare
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple Watch Pro: 47 mm groß und robust]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1126563</id>
+        <link href="https://stadt-bremerhaven.de/apple-watch-pro-47-mm-gross-und-robust/"/>
+        <updated>2022-08-29T13:30:43.000Z</updated>
+        <summary type="html"><![CDATA[Die Design-Frage stellten sich schon häufiger Nutzer und Interessierte am Thema Apple Watch. Bereits zur Apple Watch 7 hieß es, dass diese kantiger daherkommen könnte und somit mit der neuen iPhone-Optik eine Symbiose eingeht. Es kam natürlich ganz anders und...
+Zum Beitrag: Apple Watch Pro: 47 mm groß und robust
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[gamescom 2022: Veranstalter ziehen ein positives Fazit]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1126507</id>
+        <link href="https://stadt-bremerhaven.de/gamescom-2022-veranstalter-ziehen-ein-positives-fazit/"/>
+        <updated>2022-08-29T13:00:50.000Z</updated>
+        <summary type="html"><![CDATA[Die Veranstalter der gamescom 2022, Koelmesse und der Branchenverband game, ziehen ein positives Fazit. Trotz der Herausforderungen sei die Spielemesse nach der Corona-Zwangspause vor Ort wieder hervorragend gelaufen. Rund 265.000 Besucher habe man gezählt und bis Samstagabend über 130 Mio....
+Zum Beitrag: gamescom 2022: Veranstalter ziehen ein positives Fazit
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Smartphone-Reparatur ist in Deutschland weiterhin zu kostspielig]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1126492</id>
+        <link href="https://stadt-bremerhaven.de/smartphone-reparatur-ist-in-deutschland-weiterhin-zu-kostspielig/"/>
+        <updated>2022-08-29T12:30:07.000Z</updated>
+        <summary type="html"><![CDATA[In Deutschland ist es aus Kundensicht oft sinnvoller, sich ein neues Gerät zu kaufen, anstatt das alte reparieren zu lassen. Denn zu oft sind die Reparaturkosten so hoch, dass sie in keinem Verhältnis mehr zum Wert des älteren Produkts stehen....
+Zum Beitrag: Smartphone-Reparatur ist in Deutschland weiterhin zu kostspielig
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft improves SMB compression in Windows 11 and Server 2022]]></title>
+        <id>https://www.ghacks.net/?p=180511</id>
+        <link href="https://www.ghacks.net/2022/08/29/microsoft-improves-smb-compression-in-windows-11-and-server-2022/"/>
+        <updated>2022-08-29T12:15:33.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft released optional updates for the company's Windows 11 and Windows Server 2022 operating systems earlier this month. One of the new features of the releases reveals that the operating systems compress […]
+Thank you for being a Ghacks reader. The post Microsoft improves SMB compression in Windows 11 and Server 2022 appeared first on gHacks Technology News.]]></summary>
+        <author>
+            <name>Martin Brinkmann</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sony PlayStation 5: Leichtere Revision kommt in den Handel]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1126564</id>
+        <link href="https://stadt-bremerhaven.de/sony-playstation-5-leichtere-revision-kommt-in-den-handel/"/>
+        <updated>2022-08-29T12:00:34.000Z</updated>
+        <summary type="html"><![CDATA[Es ist ganz normal, dass Hersteller kleinere Produktrevisionen vollziehen und dabei Anpassungen vornehmen. Das gilt auch für Spielekonsolen. Da wird ohne großes Aufsehen an den internen Komponenten gebastelt und z. B. die Kühlung überarbeitet. Auch die PlayStation 5, kürzlich ja...
+Zum Beitrag: Sony PlayStation 5: Leichtere Revision kommt in den Handel
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USA: Streaming löst klassisches Fernsehen ab]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1126467</id>
+        <link href="https://stadt-bremerhaven.de/usa-streaming-loest-klassisches-fernsehen-ab/"/>
+        <updated>2022-08-29T11:30:37.000Z</updated>
+        <summary type="html"><![CDATA[In den USA hat es eine Wachablösung gegeben. Laut tagesschau hat das Streaming den bisherigen Platzhirsch Kabel-Fernsehen am TV-Markt abgelöst. Demnach macht das Streaming nun 34,8 Prozent aus, gefolgt vom Kabel-Fernsehen mit 34,4 Prozent und 21,6 Prozent beim Fernsehen. In...
+Zum Beitrag: USA: Streaming löst klassisches Fernsehen ab
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>Olli</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Netflix testet „Game Handles“ und will Spielern mehr Social-Features bieten]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1126543</id>
+        <link href="https://stadt-bremerhaven.de/netflix-testet-game-handles-und-will-spielern-mehr-social-features-bieten/"/>
+        <updated>2022-08-29T11:00:05.000Z</updated>
+        <summary type="html"><![CDATA[Netflix kann mit seinem Gaming-Bereich bzw. den entsprechenden Android- und iOS-Spielen bisher eher moderate Erfolge vorweisen. Das möchte man eventuell aber ja durch eine Expansion in den Cloud-Gaming-Bereich ausbauen. Wie Steve Moser berichtet, sollen dabei in Zukunft die „Game Handles“...
+Zum Beitrag: Netflix testet „Game Handles“ und will Spielern mehr Social-Features bieten
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Samsung Galaxy Tab S8: August-Patch wird verteilt]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1126559</id>
+        <link href="https://stadt-bremerhaven.de/samsung-galaxy-tab-s8-august-patch-wird-verteilt/"/>
+        <updated>2022-08-29T10:49:10.000Z</updated>
+        <summary type="html"><![CDATA[Besitzer des Samsung Galaxy Tab S8 – oder generell eines Tabs aus der neuen Serie, inklusive Ultra, sollten nun auch in Deutschland den August-Patch für ihr Tablet zum Download angeboten bekommen. Bei Update handelt es sich um die Aktualisierung auf...
+Zum Beitrag: Samsung Galaxy Tab S8: August-Patch wird verteilt
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Netflix's ad-supported plan could be available for $7 a month]]></title>
+        <id>https://www.ghacks.net/?p=180499</id>
+        <link href="https://www.ghacks.net/2022/08/29/netflix-ad-supported-plan-price/"/>
+        <updated>2022-08-29T10:48:09.000Z</updated>
+        <summary type="html"><![CDATA[Last month, Netflix revealed that it has partnered with Microsoft to offer a lower priced subscription, with ads. A report has emerged which claims that the streaming service's ad-supported plan could start […]
+Thank you for being a Ghacks reader. The post Netflix's ad-supported plan could be available for $7 a month appeared first on gHacks Technology News.]]></summary>
+        <author>
+            <name>Ashwin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bluetooth-Probleme: Nuki ruft einige Smart Lock 3.0 zurück]]></title>
+        <id>https://www.computerbase.de/2022-08/bluetooth-probleme-nuki-ruft-einige-smart-lock-3-0-zurueck/</id>
+        <link href="https://www.computerbase.de/2022-08/bluetooth-probleme-nuki-ruft-einige-smart-lock-3-0-zurueck/"/>
+        <updated>2022-08-29T10:47:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/7/9/8-bd1652d1d46ce2a0/article-640x360.e364c3c2.jpg"><p>Nuki hat ein Serviceprogramm für das Smart Lock 3.0 gestartet (Test), da bei einer Produktionscharge ein Bauteil fehlerhaft ist. Durch diesen Fehler kann es zu einer eingeschränkten Bluetooth-Reichweite des Geräts kommen. Im Rahmen des Serviceprogramms werden alle betroffenen Smart Lock 3.0 kostenlos ausgetauscht.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deutsche Post DHL und Burger King starten Packstations-Kooperation]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1126552</id>
+        <link href="https://stadt-bremerhaven.de/deutsche-post-dhl-und-burger-king-starten-packstations-kooperation/"/>
+        <updated>2022-08-29T10:23:40.000Z</updated>
+        <summary type="html"><![CDATA[Die Überschrift klingt nach großen Taten der Unternehmen, doch gestartet wird erst einmal an drei Standorten. Mit zehn Metern Länge, postgelben Fächern und einem Whopper als Aufdruck ist zum Auftakt der Kooperation nun die erste Packstation in Gütersloh in Betrieb...
+Zum Beitrag: Deutsche Post DHL und Burger King starten Packstations-Kooperation
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mabox Linux im Porträt: Manjaro × Openbox 3 × Tint 2 × Conky 1 = bunt und schnell]]></title>
+        <id>https://www.computerbase.de/2022-08/mabox-linux-22-08-manjaro-openbox/</id>
+        <link href="https://www.computerbase.de/2022-08/mabox-linux-22-08-manjaro-openbox/"/>
+        <updated>2022-08-29T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/7/0/1-8cab717ad055a4e7/article-640x360.59bfe974.jpg"><p>Mabox Linux 22.08 ist ein im wahrsten Sinne des Wortes farbenfrohes Rolling Release, welches auf dem äußerst populären und auf Arch Linux basierenden Manjaro mit dem leichten Openbox-Fenstermanager aufsetzt. Es soll insbesondere versierte Anwender, die eine sehr schlanke und reaktionsschnelle Distribution schätzen, ansprechen.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AM5-Mainboards: Gerüchte um B650E-Chipsatz mit mehr PCIe 5.0 gefestigt]]></title>
+        <id>https://www.computerbase.de/2022-08/am5-mainboards-geruechte-um-b650e-chipsatz-mit-mehr-pcie-5-0-gefestigt/</id>
+        <link href="https://www.computerbase.de/2022-08/am5-mainboards-geruechte-um-b650e-chipsatz-mit-mehr-pcie-5-0-gefestigt/"/>
+        <updated>2022-08-29T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/7/9/6-fc2eeaa1b1764df1/article-640x360.d4c6a5bf.jpg"><p>Die Gerüchte um eine „Extreme“-Edition des kommenden B650-Chipsatzes von AMD festigen sich. Ein auf Twitter veröffentlichtes Foto einer Präsentationsfolie mit MSI-Logo bestätigt den B650E und dass dieser PCIe 5.0 sowohl für eine Grafikkarte als auch für eine M.2-SSD bietet.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows 11 Insider Preview: Fehler lässt den Explorer in WinRE und WinPE abstürzen [Notiz]]]></title>
+        <id>https://www.computerbase.de/2022-08/windows-11-winre-winpe-explorer-crash/</id>
+        <link href="https://www.computerbase.de/2022-08/windows-11-winre-winpe-explorer-crash/"/>
+        <updated>2022-08-29T08:55:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/7/9/5-4f191566c368a4c5/article-640x360.1804d0ab.jpg"><p>Ein Fehler, der mit der aktuellen Windows 11 Insider Preview Build 25188 aufgetreten ist, lässt den Datei-Explorer in der Windows-Wiederherstellungsumgebung („WinRE“) und dem Windows Preinstallation Environment („WinPE“) abstürzen und erschwert die Systemwiederherstellung. Auch geöffnete Anwendungen stürzen ab.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Virtualisierungssoftware: VirtualBox 7.0 Beta 1 unterstützt jetzt Windows 11]]></title>
+        <id>https://www.computerbase.de/2022-08/oracle-virtualbox-7-0-0-beta-windows-11/</id>
+        <link href="https://www.computerbase.de/2022-08/oracle-virtualbox-7-0-0-beta-windows-11/"/>
+        <updated>2022-08-29T08:15:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/7/9/4-72a3de43ed74be33/article-640x360.e7e70647.jpg"><p>Die Virtualisierungssoftware Oracle VM VirtualBox 7.0 ist als Beta 1 erschienen und unterstützt damit erstmals Microsofts aktuelles Betriebssystem Windows 11. Damit werden Neuinstallationen des Nachfolgers von Windows 10 erstmals auch offiziell unterstützt, nachdem zuvor bereits ein Upgrade des Systems möglich war.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ethereum-Mining mit Intel Arc: Schlechte Benchmarks werden Spieler freuen]]></title>
+        <id>https://www.computerbase.de/2022-08/intel-arc-a380-ethereum-mining/</id>
+        <link href="https://www.computerbase.de/2022-08/intel-arc-a380-ethereum-mining/"/>
+        <updated>2022-08-29T07:57:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/7/9/3-081f4c100afb729f/article-640x360.abe3d7c7.jpg"><p>Spieler können sich erstmalig über die schlechten Benchmarks der Intel Arc A380 (Test) freuen, denn nach DirectX 9 und DirectX 11 liegt auch Mining den Grafikprozessoren der ersten Generation Intel Xe HPG („Alchemist“) nicht wirklich. Die Leistung für das Mining von Ethereum (ETH) liegt noch unterhalb einer GeForce GTX 1660.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zen-4-RDNA-2-CPU („Raphael“): AMD Ryzen 9 7950X soll mit bis zu 5,85 GHz Boost arbeiten (Update)]]></title>
+        <id>https://www.computerbase.de/2022-08/amd-ryzen-9-7950x-5-85-ghz-boost-f-max/</id>
+        <link href="https://www.computerbase.de/2022-08/amd-ryzen-9-7950x-5-85-ghz-boost-f-max/"/>
+        <updated>2022-08-29T07:45:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/7/9/2-d9f8b2d124cb7d2a/article-640x360.c1dc6017.jpg"><p>Der AMD Ryzen 9 7950X, das kommende Spitzenmodell der in Kürze präsentierten Serie Ryzen 7000 („Raphael“), soll dank Precision Boost und Precision Boost Overdrive einen sehr hohen maximalen Boost-Takt (F-Max) von bis zu 5,85 GHz erreichen können. Die Gerüchteküche hatte bislang „nur“ bis zu 5,7 GHz für den Boost der CPU notiert.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to set a minimum tab width in Google Chrome]]></title>
+        <id>https://www.ghacks.net/?p=180494</id>
+        <link href="https://www.ghacks.net/2022/08/29/how-to-set-a-minimum-tab-width-in-google-chrome/"/>
+        <updated>2022-08-29T06:09:27.000Z</updated>
+        <summary type="html"><![CDATA[Google Chrome users who add tabs to the browser come to a point eventually where tabs aren't added to the browser anymore, apparently. While Chrome does add the tabs, it does not […]
+Thank you for being a Ghacks reader. The post How to set a minimum tab width in Google Chrome appeared first on gHacks Technology News.]]></summary>
+        <author>
+            <name>Martin Brinkmann</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Netflix: Abo mit Werbung könnte 7 bis 9 Dollar kosten]]></title>
         <id>https://stadt-bremerhaven.de/?p=1126462</id>
@@ -11754,208 +12207,6 @@ Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
         <updated>2022-07-31T15:00:52.000Z</updated>
         <summary type="html"><![CDATA[Besser spät als gar nicht. Bereits im Mai hatte LG neue Monitore vorgestellt. Mit den drei Neuen wendet man sich an Gamer – und die können bei Interesse ab September zuschlagen. Konkret geht’s um die Modelle 32GQ950, 32GQ85X und 48GQ900....
 Zum Beitrag: LG UltraGear 2022: Neue Gaming-Monitore starten im September
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>caschy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Umfrage August 2022: Abonnierst du trotz Preiserhöhung (weiter) Amazon Prime?]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1121452</id>
-        <link href="https://stadt-bremerhaven.de/umfrage-august-2022-abonnierst-du-trotz-preiserhoehung-weiter-amazon-prime/"/>
-        <updated>2022-07-31T13:30:10.000Z</updated>
-        <summary type="html"><![CDATA[Es hatte sich ja schon im Juni abgezeichnet, als Amazon auf verdächtige Weise die Nutzungsbedingungen angepasst hatte: Amazon Prime wird teurer. Ab dem 15. September 2022 greift eine saftige Preiserhöhung. Das Jahresabonnement ist am stärksten betroffen. Hier steigt der Preis...
-Zum Beitrag: Umfrage August 2022: Abonnierst du trotz Preiserhöhung (weiter) Amazon Prime?
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>André Westphal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Inflation sorgt für Talfahrt beim deutschen Konsumklima]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1121566</id>
-        <link href="https://stadt-bremerhaven.de/inflation-sorgt-fuer-talfahrt-beim-deutschen-konsumklima/"/>
-        <updated>2022-07-31T12:00:21.000Z</updated>
-        <summary type="html"><![CDATA[Laut der GfK-Konsumklimastudie für Juli 2022 hält die Talfahrt der deutschen Verbraucherstimmung an. Das ist natürlich der steigenden Inflation geschuldet, zumal keine Besserung und eher eine Verschlechterung in Sicht ist. Während die Anschaffungsneigung nur geringe Einbußen hinnehmen muss, gehen sowohl...
-Zum Beitrag: Inflation sorgt für Talfahrt beim deutschen Konsumklima
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>André Westphal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[StandXT D08 Advanced: Stehschreibtisch fürs Home-Office im Test]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1121375</id>
-        <link href="https://stadt-bremerhaven.de/standxt-d08-advanced-stehschreibtisch-fuers-home-office-im-test/"/>
-        <updated>2022-07-31T10:30:55.000Z</updated>
-        <summary type="html"><![CDATA[Stehschreibtische sind in der Corona-Pandemie ziemlich beliebt geworden, da mehr und mehr Menschen sich im Home-Office einen ergonomischen Arbeitsplatz eingerichtet haben. Ich selbst nutzte bisher den Flexispot E6, mit dem ich auch sehr zufrieden bin. Für einen Test habe ich...
-Zum Beitrag: StandXT D08 Advanced: Stehschreibtisch fürs Home-Office im Test
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>André Westphal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GPU-Historie: Welche Grafikkarte ist die Legende unter Legenden?]]></title>
-        <id>https://www.computerbase.de/2022-07/die-besten-gpus-und-grafikkarten-aller-zeiten/</id>
-        <link href="https://www.computerbase.de/2022-07/die-besten-gpus-und-grafikkarten-aller-zeiten/"/>
-        <updated>2022-07-31T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/4/3/7-369605d2e49f7b86/article-640x360.69bbc7b3.jpg"><p>Bis heute sind zahlreiche Grafikkarten unterschiedlichster Hersteller erschienen, welche zu ihrer Zeit wegweisend und darüber hinaus der Zeit sehr weit voraus gewesen sind. Doch welche ist eurer Meinung nach die Legende unter den legendären GPUs? ATi, Nvidia, S3, 3dfx, Matrox, Tseng Labs Trident und PowerVR stehen zur Auswahl.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Auswertung Umfrage Juli 2022: E-Bike-Kauf hat für unsere Leser keine Priorität]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1121846</id>
-        <link href="https://stadt-bremerhaven.de/auswertung-umfrage-juli-2022-e-bike-kauf-hat-fuer-unsere-leser-keine-prioritaet/"/>
-        <updated>2022-07-31T09:00:36.000Z</updated>
-        <summary type="html"><![CDATA[Im Juli 2022 hatte ich euch gefragt, ob ihr eventuell den Kauf eines E-Bikes plant. Zuvor hatten wir im Blog schon eine Umfrage zum E-Auto-Kauf am Laufen, da hatte es sich angeboten, auch elektrische Fahrräder zu berücksichtigen. Jetzt steht der...
-Zum Beitrag: Auswertung Umfrage Juli 2022: E-Bike-Kauf hat für unsere Leser keine Priorität
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>André Westphal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Who Wrote That reveals authorship information on Wikipedia]]></title>
-        <id>https://www.ghacks.net/?p=180027</id>
-        <link href="https://www.ghacks.net/2022/07/31/who-wrote-that-reveals-authorship-on-wikpedia/"/>
-        <updated>2022-07-31T08:59:46.000Z</updated>
-        <summary type="html"><![CDATA[Who Wrote That? is a browser extension for Mozilla Firefox and Chromium-based browsers, such as Google Chrome, that provides you with authorship information on Wikipedia. Most articles on Wikipedia are free to […]
-Thank you for being a Ghacks reader. The post Who Wrote That reveals authorship information on Wikipedia appeared first on gHacks Technology News.]]></summary>
-        <author>
-            <name>Martin Brinkmann</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[QNAP stellt neues NAS TS-h1290FX im Tower-Formfaktor vor]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1121921</id>
-        <link href="https://stadt-bremerhaven.de/qnap-stellt-neues-nas-ts-h1290fx-im-tower-formfaktor-vor/"/>
-        <updated>2022-07-31T07:30:39.000Z</updated>
-        <summary type="html"><![CDATA[QNAP Systems hat mit dem TS-h1290FX sein erstes PCIe-4.- und U.2-NVMe/SATA All-Flash-NAS in einem Tower-Formfaktor präsentiert, das sich vor allem an Großunternehmen richtet. Es bietet AMD Epyc 8-/16-Core-Prozessoren, integrierte 25-GbE- und 10-GbE-Konnektivität, PCIe-Gen-4-Erweiterung und eine Speicherkapazität von bis zu einem...
-Zum Beitrag: QNAP stellt neues NAS TS-h1290FX im Tower-Formfaktor vor
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>Benjamin Mamerow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Netto und Vattenfall kooperieren für gemeinsames E-Ladekonzept an den Märkten]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1121290</id>
-        <link href="https://stadt-bremerhaven.de/netto-und-vattenfall-kooperieren-fuer-gemeinsames-e-ladekonzept-an-den-maerkten/"/>
-        <updated>2022-07-31T06:00:29.000Z</updated>
-        <summary type="html"><![CDATA[Nicht nur bei Lidl und Kaufland werden nach und nach immer mehr E-Ladesäulen platziert, auch bei Netto werden Besitzer eines E-Fahrzeugs zukünftig beim Einkaufen ihre Akkus aufladen können. Demnach kooperiert Netto nun mit dem Energie-Unternehmen Vattenfall, um gemeinsam an über 270...
-Zum Beitrag: Netto und Vattenfall kooperieren für gemeinsames E-Ladekonzept an den Märkten
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>Benjamin Mamerow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wochenrück- und Ausblick: RAM-OC, Win 10 und Monitor – die Community ist sich einig]]></title>
-        <id>https://www.computerbase.de/2022-07/wochenrueckblick-und-ausblick-2022-w30/</id>
-        <link href="https://www.computerbase.de/2022-07/wochenrueckblick-und-ausblick-2022-w30/"/>
-        <updated>2022-07-31T06:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/4/3/1-319760e02a3feb7e/article-640x360.254e8342.jpg"><p>In der vergangenen Woche hat die Community nicht nur bei den RAM-OC-Benchmarks zum Ryzen 7 5800X3D mit DDR4-3800CL16, sondern auch beim präferierten Gaming-Monitor und dem Verbleib auf Windows 10 klare Abstimmungsergebnisse gezeigt.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Immer wieder sonntags KW 30]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1122040</id>
-        <link href="https://stadt-bremerhaven.de/immer-wieder-sonntags-kw-30-10/"/>
-        <updated>2022-07-31T04:30:32.000Z</updated>
-        <summary type="html"><![CDATA[Morgen beginnt der August und da erwarten uns natürlich viele Neuigkeiten. Einerseits wartet die Spielemesse gamescom auf uns, aber auch Samsung wird ein Unpacked-Event abhalten. Doch auch in den letzten Zügen des Julis prasselten natürlich wie gewohnt viele IT-News auf...
-Zum Beitrag: Immer wieder sonntags KW 30
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>André Westphal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chat-Überwachung: Datenschützer kritisieren mögliche Massenüberwachung]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1122135</id>
-        <link href="https://stadt-bremerhaven.de/chat-ueberwachung-datenschuetzer-kritisieren-moegliche-massenueberwachung/"/>
-        <updated>2022-07-30T19:30:46.000Z</updated>
-        <summary type="html"><![CDATA[Das Thema Online- und Chat-Überwachung keimt immer wieder hier und da auf. Um diese zu erreichen, werden immer wieder Themen wie Terror und sexueller Missbrauchs von Kindern ins Feld geführt. Der Europäische Datenschutzausschuss (EDSA), er besteht aus Vertretern der nationalen...
-Zum Beitrag: Chat-Überwachung: Datenschützer kritisieren mögliche Massenüberwachung
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>caschy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anycubic Photon M3 Max im Test: Der XXL-Resin-Drucker im Einsatz]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1121862</id>
-        <link href="https://stadt-bremerhaven.de/anycubic-photon-m3-max-im-test-der-xxl-resin-drucker-im-einsatz/"/>
-        <updated>2022-07-30T18:00:07.000Z</updated>
-        <summary type="html"><![CDATA[Über den Anycubic Photon M3 hatte ich euch bereits berichtet. Der ist für Einsteiger ein ideales Gerät, doch kommt man als erfahrener Anwender schnell an die Grenzen – speziell aufgrund des Bauraums. Für kleine Tabletop-Figuren ist der Photon M3 ideal,...
-Zum Beitrag: Anycubic Photon M3 Max im Test: Der XXL-Resin-Drucker im Einsatz
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>Gastautor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft improves App Management in the Windows 11 Settings app]]></title>
-        <id>https://www.ghacks.net/?p=180023</id>
-        <link href="https://www.ghacks.net/2022/07/30/microsoft-improves-app-management-in-the-windows-11-settings-app/"/>
-        <updated>2022-07-30T17:15:53.000Z</updated>
-        <summary type="html"><![CDATA[When Microsoft releases its Windows 10 operating system in 2015, it made it clear that the days of the classic Control Panel were numbered. Back then, Microsoft introduced the Settings application as […]
-Thank you for being a Ghacks reader. The post Microsoft improves App Management in the Windows 11 Settings app appeared first on gHacks Technology News.]]></summary>
-        <author>
-            <name>Martin Brinkmann</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anker 737 GaNPrime: 120-Watt-Netzteil angeschaut]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1121600</id>
-        <link href="https://stadt-bremerhaven.de/anker-737-ganprime-120-watt-netzteil-angeschaut/"/>
-        <updated>2022-07-30T15:00:17.000Z</updated>
-        <summary type="html"><![CDATA[Anker hat ein paar neue Ladegeräte auf den Markt gebracht. Wie man unschwer erkennen kann, habe ich ein paar Ladegeräte, sammle diese aber nicht aktiv, es sammelt sich so an. Kennt ihr vielleicht. Angeschaut habe ich mir nun das Anker...
-Zum Beitrag: Anker 737 GaNPrime: 120-Watt-Netzteil angeschaut
 
 Zum Blog: Caschys Blog
 
