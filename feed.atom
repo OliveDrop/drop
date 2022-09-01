@@ -2,10 +2,515 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://olivedrop.github.io/drop/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-31T02:42:26.324Z</updated>
+    <updated>2022-09-01T02:23:49.518Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://olivedrop.github.io/drop/index.html"/>
     <link rel="self" href="https://olivedrop.github.io/drop/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Anno 2070: Blue Byte rettet Online-Part mit Update nach 11 Jahren]]></title>
+        <id>https://www.computerbase.de/2022-08/anno-2070-blue-byte-rettet-online-part-mit-update-nach-11-jahren/</id>
+        <link href="https://www.computerbase.de/2022-08/anno-2070-blue-byte-rettet-online-part-mit-update-nach-11-jahren/"/>
+        <updated>2022-08-31T20:41:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/8/4/2-471feb9ba9180e32/article-640x360.f8f32f7a.jpg"><p>Anfang Juli 2022 gab Ubisoft bekannt, dass die Online-Dienste von insgesamt 15 hauptsächlich älteren Spielen zum 1. September eingestellt werden. Auch das im Jahr 2011 erschienene Aufbaustrategiespiel Anno 2070 ist auf der Liste, erhält nun aber von Entwickler Blue Byte ein Update, das sämtliche Funktionen erhalten soll.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CPU-Gerüchte: Ryzen 9 7950X3D, 7900X3D und Ryzen 7 7800X3D zur CES 2023 [Notiz]]]></title>
+        <id>https://www.computerbase.de/2022-08/7950x3d-7900x3d-7800x3d-ces-2023/</id>
+        <link href="https://www.computerbase.de/2022-08/7950x3d-7900x3d-7800x3d-ces-2023/"/>
+        <updated>2022-08-31T20:04:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/8/3/0-f1b79a1aef73c138/article-640x360.51ed184e.jpg"><p>Bereits kurz nach der offiziellen Vorstellung von AMD Ryzen 7000 („Raphael“) in Form des Ryzen 9 7950X, 7900X, Ryzen 7 7700X und Ryzen 5 7600X mit einem Leistungsplus von 13 Prozent IPC und bis zu 5,7 GHz läuft die Gerüchteküche einmal mehr heiß und sagt drei X3D-Modellen mit 3D V-Cache eine baldige Premiere zur CES 2023 nach.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vertragsbruch: Arm verklagt Qualcomm und Nuvia wegen Lizenzabkommen]]></title>
+        <id>https://www.computerbase.de/2022-08/vertragsbruch-arm-verklagt-qualcomm-und-nuvia-wegen-lizenzabkommen/</id>
+        <link href="https://www.computerbase.de/2022-08/vertragsbruch-arm-verklagt-qualcomm-und-nuvia-wegen-lizenzabkommen/"/>
+        <updated>2022-08-31T20:01:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/8/4/0-f5fc406041dcd58b/article-640x360.68cad46a.jpg"><p>Arm hat vor dem United States District Court for the District of Delaware Klage gegen Qualcomm und damit einen der größten Lizenznehmer des Unternehmens eingereicht, weil Arm dem Konzern den Bruch von Lizenzabkommen und Markenverletzungen vorwirft. Im Kern geht es um an Nuvia vergebene Lizenzen, die Qualcomm transferiert habe.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple: iPhone-14-Pro-Modelle sollen Display-Aussparungen sinnvoller nutzen]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1127083</id>
+        <link href="https://stadt-bremerhaven.de/apple-iphone-14-pro-modelle-sollen-display-aussparungen-sinnvoller-nutzen/"/>
+        <updated>2022-08-31T18:26:45.000Z</updated>
+        <summary type="html"><![CDATA[Wie mittlerweile hinlänglich bekannt sein sollte, sollen die Pro-Modelle des kommenden iPhone 14 mit einer Doppelaussparung im Display in Loch- und Pillenform auf den Markt kommen. Laut aktueller Informationen, die man bei MacRumors in Erfahrung gebracht haben will, soll Apple...
+Zum Beitrag: Apple: iPhone-14-Pro-Modelle sollen Display-Aussparungen sinnvoller nutzen
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>Benjamin Mamerow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[tado° Balance will eure Energiekosten senken]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1127081</id>
+        <link href="https://stadt-bremerhaven.de/tado-balance-will-eure-energiekosten-senken/"/>
+        <updated>2022-08-31T18:08:11.000Z</updated>
+        <summary type="html"><![CDATA[tado°, Anbieter für intelligentes Raumklima-Management, hat heute tado° Balance vorgestellt, um Energiekosten zu Hause zu senken und den Weg für erneuerbare Energien zu ebnen. Die Nutzung setzt natürlich voraus, dass man vielleicht nicht seine Energie rund um die Uhr gleich...
+Zum Beitrag: tado° Balance will eure Energiekosten senken
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Beat 'em up zum Beat: God of Rock zur Gamescom angespielt]]></title>
+        <id>https://www.computerbase.de/2022-08/beat-em-up-zum-beat-god-of-rock-zur-gamescom-angespielt/</id>
+        <link href="https://www.computerbase.de/2022-08/beat-em-up-zum-beat-god-of-rock-zur-gamescom-angespielt/"/>
+        <updated>2022-08-31T17:30:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/7/8/8-f2dcddefeb0eebfb/article-640x360.1f71da20.jpg"><p>Der Entwickler und Publisher Modus kündigte während der Gamescom 2022 das Rhythmus-Beat-'em-Up God of Rock an. Bereits im Winter 2022 soll der Titel für PC und Konsolen erscheinen. ComputerBase hatte die Gelegenheit, God of Rock auf der Spielemesse anzuspielen.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iOS 12.5.6 veröffentlicht]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1127071</id>
+        <link href="https://stadt-bremerhaven.de/ios-12-5-6-veroeffentlicht/"/>
+        <updated>2022-08-31T17:10:07.000Z</updated>
+        <summary type="html"><![CDATA[Nein, ihr müsst nicht auf den Kalender schauen – Apple hat tatsächlich aktuell iOS 12.5.6 veröffentlicht. Damit will man alte Geräte noch einmal unterstützen und fit machen – das Update behebt wahrscheinlich die zwei großen Sicherheitslücken, die aktiv ausgenutzt wurden....
+Zum Beitrag: iOS 12.5.6 veröffentlicht
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Asus ProArt PA32DC: Erster OLED-Monitor mit Auto-Kalibrierung kostet 4.500 Euro]]></title>
+        <id>https://www.computerbase.de/2022-08/asus-proart-pa32dc-erster-oled-monitor-mit-auto-kalibrierung-kostet-4-500-euro/</id>
+        <link href="https://www.computerbase.de/2022-08/asus-proart-pa32dc-erster-oled-monitor-mit-auto-kalibrierung-kostet-4-500-euro/"/>
+        <updated>2022-08-31T17:05:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/8/2/6-307b47276ead9311/article-640x360.2f281de6.jpg"><p>Der laut Asus „weltweit erste OLED-Monitor mit automatischer Kalibrierung“ kommt jetzt auf den Markt. Stolze 4.500 Euro kostet das ProArt Display OLED PA32DC mit 4K-Auflösung auf 32 Zoll, 10 Bit Farbtiefe und 99 Prozent DCI-P3. Der kleinere PA27DCE lässt länger auf sich warten.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Samsung Galaxy Tab Active4 Pro vorgestellt: Ein robustes Tablet]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1127059</id>
+        <link href="https://stadt-bremerhaven.de/samsung-galaxy-tab-active4-pro-vorgestellt-robustes-tablet/"/>
+        <updated>2022-08-31T17:00:04.000Z</updated>
+        <summary type="html"><![CDATA[Samsung hat das neue Rugged-Tablet Galaxy Tab Active4 Pro vorgestellt. Dieses richtet sich weniger an Privat-, sondern an Geschäftskunden, die das Gerät in rauen Umgebungen einsetzen möchten. So wiegt das robuste Gerät 674,2 g und wird von Corning Gorilla Glass...
+Zum Beitrag: Samsung Galaxy Tab Active4 Pro vorgestellt: Ein robustes Tablet
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Samsung Odyssey OLED G8: Neuer Gaming-Monitor im Format 21:9]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1127051</id>
+        <link href="https://stadt-bremerhaven.de/samsung-odyssey-oled-g8-neuer-gaming-monitor-im-format-219/"/>
+        <updated>2022-08-31T16:30:48.000Z</updated>
+        <summary type="html"><![CDATA[Samsung bringt mit dem OLED G8 einen neuen Gaming-Monitor zur IFA 2022 auf den Markt. Es handelt sich dabei um ein Modell mit QD-OLED-Panel, das mit 34 Zoll Diagonale und 175 Hz Bildwiederholrate punkten soll. Als Auflösung sind 3.440 x...
+Zum Beitrag: Samsung Odyssey OLED G8: Neuer Gaming-Monitor im Format 21:9
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Huawei Mate 50: Variable Blende für die Hauptkamera bestätigt]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1127045</id>
+        <link href="https://stadt-bremerhaven.de/huawei-mate-50-variable-blende-fuer-die-hauptkamera-bestaetigt/"/>
+        <updated>2022-08-31T16:00:41.000Z</updated>
+        <summary type="html"><![CDATA[Huawei wird am 6. September 2022 die neue Smartphone-Reihe der Mate 50 vorstellen. In Europa werden die Geräte wohl keine große Rolle mehr spielen, denn seit der Anbieter aufgrund der US-Sanktionen nicht mehr die Google-Dienste und den Play Store nutzen...
+Zum Beitrag: Huawei Mate 50: Variable Blende für die Hauptkamera bestätigt
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Xcode Cloud: Abonnements für mehr Compute-Stunden stehen bereit]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1126891</id>
+        <link href="https://stadt-bremerhaven.de/xcode-cloud-abonnements-fuer-mehr-compute-stunden-stehen-bereit/"/>
+        <updated>2022-08-31T15:30:09.000Z</updated>
+        <summary type="html"><![CDATA[Apple hat auf der WWDC 2021 nicht nur die damals neuen Betriebssysteme vorgestellt, natürlich hatte man auch weitere Hilfestellungen für Entwickler im Ärmel. Zu den neuen Diensten gehörte auch Xcode Cloud. Damit möchte Apple eine eigene Plattform für CI/CD und...
+Zum Beitrag: Xcode Cloud: Abonnements für mehr Compute-Stunden stehen bereit
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>Olli</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Edge: Super Resolution now with HD icon]]></title>
+        <id>https://www.ghacks.net/?p=180564</id>
+        <link href="https://www.ghacks.net/2022/08/31/microsoft-edge-super-resolution-now-with-hd-icon/"/>
+        <updated>2022-08-31T15:23:35.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft Edge Canary users may see a new HD icon in the browser's address bar. The icon indicates that Edge tried to improve the quality of images displayed on the active webpage. […]
+Thank you for being a Ghacks reader. The post Microsoft Edge: Super Resolution now with HD icon appeared first on gHacks Technology News.]]></summary>
+        <author>
+            <name>Martin Brinkmann</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quo vadis Solidigm: Was geschieht mit Intels SSD-Erbe?]]></title>
+        <id>https://www.computerbase.de/2022-08/interview-solidigm-intels-ssd-erbe/</id>
+        <link href="https://www.computerbase.de/2022-08/interview-solidigm-intels-ssd-erbe/"/>
+        <updated>2022-08-31T15:15:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/6/3/9-b123dacbe1318b9e/article-640x360.aecd8189.jpg"><p>Aus dem Verkauf des SSD- und NAND-Geschäfts von Intel an SK Hynix entstand das Unternehmen Solidigm. Doch was genau passiert nun mit Intels Erbe? Im Interview mit dem Hersteller konnte ComputerBase einige Fragen klären.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Asus schickt zwei ProArt-OLED-Monitore ins Rennen]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1127033</id>
+        <link href="https://stadt-bremerhaven.de/asus-schickt-zwei-proart-oled-monitore-ins-rennen/"/>
+        <updated>2022-08-31T15:00:09.000Z</updated>
+        <summary type="html"><![CDATA[Asus zeigt im Rahmen der IFA 2022 in Berlin seine neuen ProArt-Displays mit OLED-Panels. Dabei gibt es zwei Varianten: Das Asus ProArt Display OLED PA27DCE misst 26,9 Zoll in der Diagonale mit 4K-Auflösung (3.840 x 2.160 Pixel) und wartet mit...
+Zum Beitrag: Asus schickt zwei ProArt-OLED-Monitore ins Rennen
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NetEase Games übernimmt Quantic Dream]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1127024</id>
+        <link href="https://stadt-bremerhaven.de/netease-games-uebernimmt-quantic-dream/"/>
+        <updated>2022-08-31T14:30:02.000Z</updated>
+        <summary type="html"><![CDATA[Der französische Spieleentwickler und Publisher, Quantic Dream, wandert in chinesische Hände: NetEase Games übernimmt Quantic Dream zu 100 %, wie man in einer gemeinsamen Pressemeldung mitteilt. Quantic Dream hat schon seit vier Jahren Verbandlungen mit NetEase, seit die Chinesen als...
+Zum Beitrag: NetEase Games übernimmt Quantic Dream
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Home Connect und Enphase Energy: Haushaltsgeräte bei Sonnenschein automatisch mit Solarenergie versorgen]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1127037</id>
+        <link href="https://stadt-bremerhaven.de/home-connect-und-enphase-energy-haushaltsgeraete-bei-sonnenschein-automatisch-mit-solarenergie-versorgen/"/>
+        <updated>2022-08-31T13:58:54.000Z</updated>
+        <summary type="html"><![CDATA[Die Idee, den selbst erzeugten Solarstrom zu effizient auszunutzen, ist nicht neu. Künftig sollen sich auch Home-Connect-fähige Geräte, dazu gehören zahlreiche Geräte der BSH-Gruppe (Bosch, Siemens, Gaggenau und Neff), effizienter mit dem selbst erzeugten Strom nutzen lassen. Hierfür arbeitet Home...
+Zum Beitrag: Home Connect und Enphase Energy: Haushaltsgeräte bei Sonnenschein automatisch mit Solarenergie versorgen
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>Felix Frank</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Verbiegt sich: Asus Zenbook 17 Fold OLED kostet 3.700 Euro]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1127027</id>
+        <link href="https://stadt-bremerhaven.de/asus-zenbook-17-fold-oled-kostet-3-700-euro/"/>
+        <updated>2022-08-31T13:30:27.000Z</updated>
+        <summary type="html"><![CDATA[ASUS ist durchaus eine innovative Firma. Die stellen auch Dinger vor, von denen man weiß: So eine Technik ist erst in ein paar Jahren ausgereift oder erwünscht – aber man zeigt eben so etwas. Wie das Asus Zenbook 17 Fold...
+Zum Beitrag: Verbiegt sich: Asus Zenbook 17 Fold OLED kostet 3.700 Euro
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Samsung SmartThings Energy: Stromverbrauch im Blick behalten]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1127011</id>
+        <link href="https://stadt-bremerhaven.de/samsung-smartthings-energy-stromverbrauch-im-blick-behalten/"/>
+        <updated>2022-08-31T13:00:18.000Z</updated>
+        <summary type="html"><![CDATA[Samsung hat SmartThings Energy zur IFA 2022 vorgestellt. Mit dem kostenlosen Service lässt sich der Energieverbrauch von Geräten über das Smartphone kontrollieren und steuern. Zumindest klappt das, wenn sie mit der SmartThings-App verbunden sind. Darüber hinaus gibt SmartThings Energy auf...
+Zum Beitrag: Samsung SmartThings Energy: Stromverbrauch im Blick behalten
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[„Wonder Man“: Sir Ben Kingsley soll in der Serie für Disney+ auftreten]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1126944</id>
+        <link href="https://stadt-bremerhaven.de/wonder-man-sir-ben-kingsley-soll-in-der-serie-fuer-disney-auftreten/"/>
+        <updated>2022-08-31T12:30:24.000Z</updated>
+        <summary type="html"><![CDATA[„Iron Man 3“ ist aus meiner Sicht einer der schlechtesten Marvel-Filme. Im Film klappert Tony Starks Rüstung quasi beim kleinsten Windhauch auseinander und man verheizte den Charakter des Mandarins. In jenem Streifen spielte auch Sir Ben Kingsley eine Rolle: die...
+Zum Beitrag: „Wonder Man“: Sir Ben Kingsley soll in der Serie für Disney+ auftreten
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AMD Ryzen 9 7950X („Raphael“): Zen-4-Speerspitze mit 32 GB DDR5-6000 im Geekbench (Update)]]></title>
+        <id>https://www.computerbase.de/2022-08/amd-ryzen-9-7950x-geekbench/</id>
+        <link href="https://www.computerbase.de/2022-08/amd-ryzen-9-7950x-geekbench/"/>
+        <updated>2022-08-31T12:03:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/8/2/8-8c87327157e5fc37/article-640x360.c40f1016.jpg"><p>Die kommende Zen-4-Speerspitze, der neue AMD Ryzen 9 7950X, findet sich erstmals in der Datenbank von Geekbench wieder. Das Topmodell der Desktop-Prozessorfamilie AMD Ryzen 7000 („Raphael“) wurde hierzu mit 32 GB DDR5-6000 kombiniert und übertrifft seinen direkten Vorgänger, einen AMD Ryzen 9 5950X, deutlich.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Philips Hue Play Gradient Lightstrip: Kürzere Modelle bereits bei Amazon gelistet]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1126959</id>
+        <link href="https://stadt-bremerhaven.de/philips-hue-play-gradient-lightstrip-kuerzere-modelle-bereits-bei-amazon-gelistet/"/>
+        <updated>2022-08-31T12:00:19.000Z</updated>
+        <summary type="html"><![CDATA[Die IFA steht vor der Tür und damit unfassbar viele Neuvorstellungen aus allen Bereichen der Technik. Auch Signify, das Unternehmen hinter Philips  Hue, wird Neuheiten zeigen. Philips Hue hat mittlerweile ein kaum zu überblickendes Angebot an Smart-Home-Beleuchtung parat und mit...
+Zum Beitrag: Philips Hue Play Gradient Lightstrip: Kürzere Modelle bereits bei Amazon gelistet
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Asus Zenbook 17 Fold OLED: Der faltbare 17,3"-Notebook-PC-Hybrid kostet 3.699 Euro]]></title>
+        <id>https://www.computerbase.de/2022-08/asus-zenbook-17-fold-oled-der-faltbare-17-3-notebook-pc-hybrid-kostet-3-699-euro/</id>
+        <link href="https://www.computerbase.de/2022-08/asus-zenbook-17-fold-oled-der-faltbare-17-3-notebook-pc-hybrid-kostet-3-699-euro/"/>
+        <updated>2022-08-31T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/7/5/8-20399d6b0781151e/article-640x360.5285f265.jpg"><p>Ein Dreivierteljahr nach der ersten Ankündigung zur CES 2022 im Januar haben Asus und Intel das Zenbook 17 Fold OLED auf der IFA 2022 in Berlin endgültig vom Stapel gelassen. Das hinter den Kulissen über anderthalb Jahre in Kooperation entwickelte Foldable-Notebook kommt mit Alder-Lake-CPU zum Preis von 3.699 Euro auf den Markt.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Twitter Circle is now available for all users; here's how to use it]]></title>
+        <id>https://www.ghacks.net/?p=180544</id>
+        <link href="https://www.ghacks.net/2022/08/31/how-to-use-twitter-circle/"/>
+        <updated>2022-08-31T11:59:06.000Z</updated>
+        <summary type="html"><![CDATA[Twitter has announced that it has rolled out Twitter Circle for all users. The social network began testing the feature in May 2022 for some users, before making it available for everyone. […]
+Thank you for being a Ghacks reader. The post Twitter Circle is now available for all users; here's how to use it appeared first on gHacks Technology News.]]></summary>
+        <author>
+            <name>Ashwin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Former Microsoft employee slams Windows 11's Start Menu design]]></title>
+        <id>https://www.ghacks.net/?p=180534</id>
+        <link href="https://www.ghacks.net/2022/08/31/former-microsoft-employee-criticizes-windows-11s-start-menu-design/"/>
+        <updated>2022-08-31T11:58:17.000Z</updated>
+        <summary type="html"><![CDATA[The Windows 11 Start Menu is once again drawing flak from users, this time from a former Microsoft employee. Jensen Harris, who worked at the company for 16 years, slammed the Redmond […]
+Thank you for being a Ghacks reader. The post Former Microsoft employee slams Windows 11's Start Menu design appeared first on gHacks Technology News.]]></summary>
+        <author>
+            <name>Ashwin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows 11 version 22H2: Task Manager changes]]></title>
+        <id>https://www.ghacks.net/?p=180553</id>
+        <link href="https://www.ghacks.net/2022/08/31/windows-11-version-22h2-task-manager-changes/"/>
+        <updated>2022-08-31T11:54:22.000Z</updated>
+        <summary type="html"><![CDATA[It is the fifth part of the series in which we look at the upcoming changes of the Windows 11 2022 update. In this part, we are taking a look at the […]
+Thank you for being a Ghacks reader. The post Windows 11 version 22H2: Task Manager changes appeared first on gHacks Technology News.]]></summary>
+        <author>
+            <name>Martin Brinkmann</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Philips: Neue OLED+937, OLED+907 sowie PML9507 MiniLED auf der IFA 2022]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1126978</id>
+        <link href="https://stadt-bremerhaven.de/philips-neue-oled937-oled907-sowie-pml9507-miniled-auf-der-ifa-2022/"/>
+        <updated>2022-08-31T11:30:56.000Z</updated>
+        <summary type="html"><![CDATA[Philips packt zur IFA 2022 neue TVs aus. Dabei gibt es zum einen die neuen OLED+937 und OLED+907, aber auch die LCD-Modelle OML9507 mit Mini-LED-Hintergrundbeleuchtung. An die Spitze des Angebots von Philips setzt sich nun der OLED+937, erhältlich in 65...
+Zum Beitrag: Philips: Neue OLED+937, OLED+907 sowie PML9507 MiniLED auf der IFA 2022
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Samsung GamingDea!s und SuperHe!den-Aktion kombinieren]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1126963</id>
+        <link href="https://stadt-bremerhaven.de/samsung-gamngdeas-und-superheden-aktion-kombinieren/"/>
+        <updated>2022-08-31T11:00:57.000Z</updated>
+        <summary type="html"><![CDATA[Ich hatte schon darüber berichtet: Samsung hat aktuell seine sogenannten GamingDea!s am Laufen. In ihrem Rahmen erhaltet ihr je nach gekauftem Gerät, es nehmen Soundbars und TVs teil, Cashback oder aber ein Smartphone als Dreingabe. Ich selbst habe auch zugeschlagen...
+Zum Beitrag: Samsung GamingDea!s und SuperHe!den-Aktion kombinieren
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[eBay Kleinanzeigen: So viel könnte euer altes iPhone noch wert sein]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1126953</id>
+        <link href="https://stadt-bremerhaven.de/ebay-kleinanzeigen-so-viel-koennte-euer-altes-iphone-noch-wert-sein/"/>
+        <updated>2022-08-31T10:30:50.000Z</updated>
+        <summary type="html"><![CDATA[Nächste Woche wird Apple seine Smartphone-Riege der iPhone 14 vorstellen. eBay Kleinanzeigen nimmt offenbar an, dass da mancher Apple-Stammkunde vorher noch sein älteres Gerät loswerden möchte. Daher hat man einmal ausgewertet, wie so der übliche Kurs der Smartphones aus dem...
+Zum Beitrag: eBay Kleinanzeigen: So viel könnte euer altes iPhone noch wert sein
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[B650-Mainboards: Neue Infos zum Aufgebot von Asus und ASRock]]></title>
+        <id>https://www.computerbase.de/2022-08/b650-mainboards-neue-infos-zum-aufgebot-von-asus-und-asrock/</id>
+        <link href="https://www.computerbase.de/2022-08/b650-mainboards-neue-infos-zum-aufgebot-von-asus-und-asrock/"/>
+        <updated>2022-08-31T10:08:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/8/2/7-7a102ff59f615262/article-640x360.cace602c.jpg"><p>Den Marktstart von AMD Ryzen 7000 werden zunächst nur die teuren X670(E)-Mainboards begleiten. Günstiger wird es ab Oktober, wenn der kleinere B650(E)-Chipsatz aufschlägt. Zu diesen gibt es nun neue Informationen zu Modellen von Asus und ASRock.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bosch Smart Home: Neue Sensoren und Aktoren sowie Eyes Innenkamera II vorgestellt]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1126961</id>
+        <link href="https://stadt-bremerhaven.de/bosch-smart-home-neue-sensoren-und-aktoren-sowie-eyes-innenkamera-ii-vorgestellt/"/>
+        <updated>2022-08-31T10:03:02.000Z</updated>
+        <summary type="html"><![CDATA[Für das Bosch Smart Home hat man bereits in den vergangenen Monaten neue Sensoren und Aktoren vorgestellt: Da wären die neuen Unterputz-Aktoren für Licht- und Rollladensteuerung, der Bosch Rauchwarnmelder II oder die Außensirene. Diese Produkte haben eines gemeinsam: Sie setzen...
+Zum Beitrag: Bosch Smart Home: Neue Sensoren und Aktoren sowie Eyes Innenkamera II vorgestellt
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>Felix Frank</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hyte Eclipse HG10 im Test: Schönwetter-Headset im ansprechenden Design]]></title>
+        <id>https://www.computerbase.de/2022-08/hyte-eclipse-hg-10-test/</id>
+        <link href="https://www.computerbase.de/2022-08/hyte-eclipse-hg-10-test/"/>
+        <updated>2022-08-31T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/5/2/4-b0aee4e1256799a2/article-640x360.0a3189c4.jpg"><p>Das Eclipse HG10 von Hyte besticht in erster Linie durch seine ungewöhnliche Gestaltung. Mit einem günstigen Preis will es mit kabelloser Nutzung, gutem Klang und einer soliden Mikrofonqualität überzeugen. Dass das nur bedingt gelingt, ist auch der in vielen Punkten sichtbaren Knauserigkeit der Hersteller zuzuschreiben.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JBL Tour Pro 2: Touchscreen am Ladecase zur Bedienung der In-Ears]]></title>
+        <id>https://www.computerbase.de/2022-08/jbl-tour-pro-2-touchscreen-am-ladecase-zur-bedienung-der-in-ears/</id>
+        <link href="https://www.computerbase.de/2022-08/jbl-tour-pro-2-touchscreen-am-ladecase-zur-bedienung-der-in-ears/"/>
+        <updated>2022-08-31T09:32:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/8/2/1-a046db45c47dce1b/article-640x360.b0f7f9cf.jpg"><p>JBL hat mit dem Tour Pro 2 und Tour One M2 einen neuen kabellosen In-Ear-Kopfhörer und einen neuen kabellosen Kopfhörer vorgestellt. Der Tour Pro 2 hat eine interessante Neuerung zu bieten, denn das Ladecase ist mit einem Touchscreen ausgestattet, über den sich die Kopfhörer unterwegs bedienen lassen.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MS Sport: Neuer Sportkanal für alle MagentaTV-Kunden]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1126954</id>
+        <link href="https://stadt-bremerhaven.de/ms-sport-neuer-sportkanal-fuer-alle-magentatv-kunden/"/>
+        <updated>2022-08-31T09:30:21.000Z</updated>
+        <summary type="html"><![CDATA[Kunden von MagentaTV bekommen ab dem 1. September einen neuen Kanal durch die Telekom angeboten. Auf Programmplatz 50 gibt’s da regelmäßig ausgewählte Livespiele aus dem Angebot von MagentaSport kostenlos. Den Gesamtumfang von über 2.000 Live-Events pro Jahr aus den Bereichen...
+Zum Beitrag: MS Sport: Neuer Sportkanal für alle MagentaTV-Kunden
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GeckoLinux: Das bessere openSUSE für Linux-Einsteiger]]></title>
+        <id>https://www.computerbase.de/2022-08/geckolinux-rolling-static-opensuse/</id>
+        <link href="https://www.computerbase.de/2022-08/geckolinux-rolling-static-opensuse/"/>
+        <updated>2022-08-31T09:11:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/8/2/4-b854992269cc3d4c/article-640x360.b97a6c0c.jpg"><p>Das freie Betriebssystem GeckoLinux ist kein Derivat, sondern ein Ableger („Spin“) der vor allem in Deutschland sehr populären Linux-Distribution openSUSE und dennoch in vielerlei Hinsicht die bessere Alternative für Einsteiger. Mit seiner stark ausgeprägten „Out-of-the-Box-Usability“ konnte sich GeckoLinux viele Freunde machen.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Pixel 7 und 7a wohl mit verbesserter Unterstützung für Bluetooth LE Audio]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1126930</id>
+        <link href="https://stadt-bremerhaven.de/google-pixel-7-und-7a-wohl-mit-verbesserter-unterstuetzung-fuer-bluetooth-le-audio/"/>
+        <updated>2022-08-31T09:00:03.000Z</updated>
+        <summary type="html"><![CDATA[Die Smartphones Google Pixel 7 und 7a sollen offenbar Bluetooth LE Audio in „höherwertiger Qualität“ unterstützen. Was das genau bedeuten soll, ist aber offen. LE Audio erhält Verbesserungen wie den Codec LC3, aber auch Auracast Broadcast Audio. Offenbar will man...
+Zum Beitrag: Google Pixel 7 und 7a wohl mit verbesserter Unterstützung für Bluetooth LE Audio
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Android-Apps für Windows 11: Der Amazon Appstore startet bald auch in Deutschland]]></title>
+        <id>https://www.computerbase.de/2022-08/android-apps-windows-11-amazon-appstore/</id>
+        <link href="https://www.computerbase.de/2022-08/android-apps-windows-11-amazon-appstore/"/>
+        <updated>2022-08-31T08:10:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/8/2/3-40116f51717c022f/article-640x360.79831f02.jpg"><p>Microsoft arbeitet an einem baldigen Start der Android-Apps unter Windows 11, welche über den für das neueste Windows angepassten Amazon Appstore bezogen und über das Windows-Subsystem für Android ausgeführt werden, auch in Deutschland und weiteren Ländern. Bislang ist das Feature nur in den USA und Japan verfügbar.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Chrome 105 fixes 24 security issues]]></title>
+        <id>https://www.ghacks.net/?p=180541</id>
+        <link href="https://www.ghacks.net/2022/08/31/google-chrome-105-fixes-24-security-issues/"/>
+        <updated>2022-08-31T05:43:44.000Z</updated>
+        <summary type="html"><![CDATA[Google released Chrome 105 to the Stable channel for Linux, Mac and Windows today. The new version of Chrome fixes 24 different security issues in the browser, including one that is rated […]
+Thank you for being a Ghacks reader. The post Google Chrome 105 fixes 24 security issues appeared first on gHacks Technology News.]]></summary>
+        <author>
+            <name>Martin Brinkmann</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ghacks Deals: The 2022 Premium Python Programming PCEP Certification Prep Bundle]]></title>
         <id>https://www.ghacks.net/?p=180539</id>
@@ -11936,396 +12441,6 @@ Zum Blog: Caschys Blog
 Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
         <author>
             <name>André Westphal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Insta360 Link: 4K-Webcam mit Gestensteuerung vorgestellt]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1122453</id>
-        <link href="https://stadt-bremerhaven.de/insta360-link-4k-webcam-mit-gestensteuerung-vorgestellt/"/>
-        <updated>2022-08-02T14:04:06.000Z</updated>
-        <summary type="html"><![CDATA[Insta360 hat seine Insta360 Link vorgestellt, eine „intelligente 4k-Webcam“. Zur 4K-Auflösung muss man sicher nicht viel sagen – außer, dass bei dieser 30fps genutzt werden. Das KI-Tracking sorgt dafür, dass ihr immer ins rechte Licht gerückt werdet Die Kamera verfolgt...
-Zum Beitrag: Insta360 Link: 4K-Webcam mit Gestensteuerung vorgestellt
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>caschy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sky Q: Neue App für Windows wird in der Beta getestet]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1122445</id>
-        <link href="https://stadt-bremerhaven.de/sky-q-neue-app-fuer-windows-wird-in-der-beta-getestet/"/>
-        <updated>2022-08-02T13:46:22.000Z</updated>
-        <summary type="html"><![CDATA[Im Microsoft Store ist eine neue App für Sky Q gesichtet worden. Diese richtet sich an deutsche Nutzer und wird erst einmal in der geschlossenen Beta getestet. Nicht bekannt ist bisher, wann die App selbst genau der Öffentlichkeit zugänglich gemacht...
-Zum Beitrag: Sky Q: Neue App für Windows wird in der Beta getestet
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>caschy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Samsung startet Self-Repair-Programm für Galaxy-Geräte]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1122441</id>
-        <link href="https://stadt-bremerhaven.de/samsung-startet-self-repair-programm-fuer-galaxy-geraete/"/>
-        <updated>2022-08-02T13:17:58.000Z</updated>
-        <summary type="html"><![CDATA[Samsung hat sich mit iFixit für ein Self-Repair-Programm zusammengetan. Beginnend in den USA können Besitzer der Geräte Galaxy S21, S20 und Galaxy Tab S7+ Reparatursets kaufen. Samsung-Kunden, die ihr Gerät selbst reparieren möchten, können also Originalteile und Reparaturwerkzeuge kaufen, die...
-Zum Beitrag: Samsung startet Self-Repair-Programm für Galaxy-Geräte
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>caschy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LG Libero 27BQ70QC: Monitor zum Aufhängen mit abnehmbarer Webcam]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1122413</id>
-        <link href="https://stadt-bremerhaven.de/lg-libero-27bq70qc-monitor-zum-aufhaengen-mit-abnehmbarer-webcam/"/>
-        <updated>2022-08-02T13:00:34.000Z</updated>
-        <summary type="html"><![CDATA[LG hat den neuen Büro- und Home-Office-Monitor Libero 27BQ70QC für Deutschland vorgestellt. Es handelt sich hier um ein Modell mit 27 Zoll Diagonale, IPS-Panel und 2.560 x 1.440 Pixeln als Auflösung bei 60 Hz Bildwiederholrate. Gamer sind hier also nicht...
-Zum Beitrag: LG Libero 27BQ70QC: Monitor zum Aufhängen mit abnehmbarer Webcam
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>André Westphal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dokumentenverwaltung: Paperless-ngx v1.8.0 veröffentlicht]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1122401</id>
-        <link href="https://stadt-bremerhaven.de/dokumentenverwaltung-paperless-ngx-v1-8-0-veroeffentlicht/"/>
-        <updated>2022-08-02T12:30:34.000Z</updated>
-        <summary type="html"><![CDATA[Ich hatte hier seinerzeit die Installation der Dokumentenverwaltung paperless-ng mit Docker auf einem Synology-NAS beschrieben. Bei paperless-ng tut sich aber nichts mehr in der Entwicklung, sodass man bei Interesse eher zum Fork Paperless-ngx schielen sollte. Das gibt’s für Plattformen auf...
-Zum Beitrag: Dokumentenverwaltung: Paperless-ngx v1.8.0 veröffentlicht
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>caschy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple Studio Display: Neustart bei Audio-Problemen nötig]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1122427</id>
-        <link href="https://stadt-bremerhaven.de/apple-studio-display-neustart-bei-audio-problemen-noetig/"/>
-        <updated>2022-08-02T12:00:03.000Z</updated>
-        <summary type="html"><![CDATA[Ein Boot tut gut – sagt man. Muss aber derzeit wohl ab und an beim Studio Display von Apple bei Problemen gemacht werden (hier unser Test). Apple soll Berichte gegenüber Servicepartnern bestätigt haben, dass es wohl zu Audio-Problemen kommen kann....
-Zum Beitrag: Apple Studio Display: Neustart bei Audio-Problemen nötig
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>caschy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Samsung Odyssey Neo G8: Gaming-Monitor kommt in den Handel]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1122393</id>
-        <link href="https://stadt-bremerhaven.de/samsung-odyssey-neo-g8-gaming-monitor-kommt-in-den-handel/"/>
-        <updated>2022-08-02T11:30:41.000Z</updated>
-        <summary type="html"><![CDATA[Samsung Electronics hatte seinen neuen Gaming-Monitor Odyssey Neo G8 bereits im Januar 2022 auf der CES 2022 in Las Vegas vorgestellt. Es handelt sich hier um ein Modell mit 4K-Auflösung und zudem 240 Hz Bildwiederholrate. Es kommt ein mattes Display...
-Zum Beitrag: Samsung Odyssey Neo G8: Gaming-Monitor kommt in den Handel
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>André Westphal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Smart Video Doorbell: Auch Reolink klingelt nun mit Video per PoE oder WLAN]]></title>
-        <id>https://www.computerbase.de/2022-08/smart-video-doorbell-auch-reolink-klingelt-nun-mit-video-per-poe-oder-wlan/</id>
-        <link href="https://www.computerbase.de/2022-08/smart-video-doorbell-auch-reolink-klingelt-nun-mit-video-per-poe-oder-wlan/"/>
-        <updated>2022-08-02T11:15:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/4/5/3-290b3e33f70fd539/article-640x360.dd2b2393.jpg"><p>Mit der Smart Video Doorbell bringt auch Reolink eine Video-Türklingel auf den Markt. Das nach eigenen Angaben von vielen Interessenten nachgefragte Produkt wird sowohl als WLAN- als auch PoE-Version angeboten und erfordert immer eine verdrahtete Montage, wofür der vorhandene Klingeldraht mit 8 bis 24 Volt ausreicht.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Pixel 7 und 7 Pro: Launch wohl am 13. Oktober 2022]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1122375</id>
-        <link href="https://stadt-bremerhaven.de/google-pixel-7-und-7-pro-launch-wohl-am-13-oktober-2022/"/>
-        <updated>2022-08-02T11:00:34.000Z</updated>
-        <summary type="html"><![CDATA[Aktuelle Leaks bescheinigen den Google Pixel 7 und 7 Pro einen Launch am 13. Oktober 2022. Vorbestellungen sollen angeblich ab dem 6. Oktober 2022 möglich sein. Das zuletzt genannte Datum soll dann auch der Termin der offiziellen Enthüllung sein. Zumindest...
-Zum Beitrag: Google Pixel 7 und 7 Pro: Launch wohl am 13. Oktober 2022
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>André Westphal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intel Core i9-13900K (ES): Raptor Lake mit 5,5 GHz und DDR5-6600 im Geekbench 5 (Update)]]></title>
-        <id>https://www.computerbase.de/2022-08/intel-core-i9-13900k-geekbench-5/</id>
-        <link href="https://www.computerbase.de/2022-08/intel-core-i9-13900k-geekbench-5/"/>
-        <updated>2022-08-02T10:52:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/4/5/4-f4f5f5dc6c48c53d/article-640x360.d53ba568.jpg"><p>Die kommende Speerspitze im Portfolio der Core-i-13000-Serie („Intel Raptor Lake“), der Intel Core i9-13900K mit insgesamt 24 Kernen und 32 Threads, ist in Form eines Entwicklungsmuster-Prozessors („Engineering Sample“) in der Datenbank des Benchmarks Geekbench 5 aufgetaucht und mit bis zu 5,5 GHz dokumentiert.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FTTH: Telekom hält an 2 Millionen neuen Anschlüssen fest]]></title>
-        <id>https://www.computerbase.de/2022-08/ftth-telekom-haelt-an-2-millionen-neuen-anschluessen-fest/</id>
-        <link href="https://www.computerbase.de/2022-08/ftth-telekom-haelt-an-2-millionen-neuen-anschluessen-fest/"/>
-        <updated>2022-08-02T09:38:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/4/5/0-83f1ccfbe8f805eb/article-640x360.778acece.jpg"><p>Die Telekom setzt ihren Ausbau im Festnetz fort und hat im Juni 386.000 weiteren Haushalten den Zugang zu einem Tarif mit mindestens 100 Mbit/s ermöglicht. Bei den reinen Glasfaseranschlüssen (FTTH) kamen 122.000 hinzu, sodass bis Jahresende das selbst gesteckte Ziel von 2 Millionen neuen FTTH-Zugängen erreicht werden soll.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Eve Aqua: Smarte Bewässerungs­steu­e­rung komplett überarbeitet]]></title>
-        <id>https://www.computerbase.de/2022-08/eve-aqua-smarte-bewaesserungssteuerung-komplett-ueberarbeitet/</id>
-        <link href="https://www.computerbase.de/2022-08/eve-aqua-smarte-bewaesserungssteuerung-komplett-ueberarbeitet/"/>
-        <updated>2022-08-02T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/4/4/9-56c2d402450cb15b/article-640x360.daa6c69b.jpg"><p>Die smarte Bewässerungssteuerung ist in dritter Generation erhältlich und soll robuster, edler und leiser als der Vorgänger ausfallen, wofür das Design und die Ausstattung vollständig überarbeitet wurden. Mit Eve Aqua lässt sich die Gartenbewässerung per iPhone, Siri oder integrierter Taste aktivieren.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MSI MEG X670E Godlike: 24+2+1 Phasen für AMD Ryzen 7000 mit bis zu 230 W]]></title>
-        <id>https://www.computerbase.de/2022-08/msi-meg-x670e-godlike-amd-ryzen-7000/</id>
-        <link href="https://www.computerbase.de/2022-08/msi-meg-x670e-godlike-amd-ryzen-7000/"/>
-        <updated>2022-08-02T06:01:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/4/4/8-222fac0bb1624b14/article-640x360.f8037561.jpg"><p>Das durchgesickerte Platinendesign des MSI MEG X670E Godlike für AMDs kommende und auf der neuen Zen-4-Architektur basierende Desktop-Prozessoren der Serie Ryzen 7000 („Raphael“) zeigt eine sehr leistungsstarke Spannungsmodulation, die auf ein 24+2+1-Phasen-Design und 105 Ampere starke MOSFET zurückgreift.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mozilla Firefox 103.0.1 fixes a crash]]></title>
-        <id>https://www.ghacks.net/?p=180050</id>
-        <link href="https://www.ghacks.net/2022/08/02/mozilla-firefox-103-0-1-fixes-a-crash/"/>
-        <updated>2022-08-02T05:45:09.000Z</updated>
-        <summary type="html"><![CDATA[Mozilla released a new stable version of the Firefox web browser this week. The new version fixes a shutdown crash and enables hardware acceleration on newer AMD cards. Firefox 103.0.1 is already […]
-Thank you for being a Ghacks reader. The post Mozilla Firefox 103.0.1 fixes a crash appeared first on gHacks Technology News.]]></summary>
-        <author>
-            <name>Martin Brinkmann</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GNU Linux-Libre „Uhura“: Linux-Kernel 5.19 in seiner reinsten Form ist erschienen]]></title>
-        <id>https://www.computerbase.de/2022-08/gnu-linux-libre-5-19-linux-kernel/</id>
-        <link href="https://www.computerbase.de/2022-08/gnu-linux-libre-5-19-linux-kernel/"/>
-        <updated>2022-08-02T05:29:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/4/4/7-f47ec8449fc48bca/article-640x360.e02421fe.jpg"><p>Auf die Veröffentlichung von Linux 5.19 folgt nur wenige Stunden später der davon abgewandelte und vollständig freie Systemkernel GNU Linux-Libre 5.19, der ausschließlich auf freier und quelloffene Software setzt. „Libre“ verzichtet auf Pakete, die nicht als Quelltext vorliegen oder proprietäre Lizenzen nutzen.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Deadrop: Dr. Disrespects Spiel hat einen Namen und erstes „Gameplay“]]></title>
-        <id>https://www.computerbase.de/2022-08/deadrop-dr-disrespects-spiel-hat-einen-namen-und-erstes-gameplay/</id>
-        <link href="https://www.computerbase.de/2022-08/deadrop-dr-disrespects-spiel-hat-einen-namen-und-erstes-gameplay/"/>
-        <updated>2022-08-02T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/4/4/5-05705e8d2824cc16/article-640x360.d34b2c7e.jpg"><p>Gemeinsam hatten der Streamer Dr. Disrespect und einige ehemalige Call-of-Duty- und Halo-Entwickler das Studio Midnight Society gegründet, um mit großen Ambitionen einen neuen Multiplayer-Shooter zu erschaffen. Jetzt hat „Project Moon“ einen Namen: Deadrop. Erstes „Gameplay“ kann aber noch nicht beeindrucken.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Android: Security- und Pixel-Patch August 2022 veröffentlicht]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1122336</id>
-        <link href="https://stadt-bremerhaven.de/android-security-und-pixel-patch-august-2022-veroeffentlicht/"/>
-        <updated>2022-08-01T18:52:20.000Z</updated>
-        <summary type="html"><![CDATA[Google hat den Sicherheitspatch August 2022 veröffentlicht. Nicht nur den „normalen“, denn es gibt auch das Update für qualifizierte Pixel-Geräte sowie noch einen separaten für das kommende Android 13, welches in seinen letzten Zügen vor der Fertigstellung ist. Das monatliche...
-Zum Beitrag: Android: Security- und Pixel-Patch August 2022 veröffentlicht
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>caschy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cars on the Road: Serie ab September bei Disney+]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1122332</id>
-        <link href="https://stadt-bremerhaven.de/cars-on-the-road-serie-ab-september-bei-disney/"/>
-        <updated>2022-08-01T18:15:03.000Z</updated>
-        <summary type="html"><![CDATA[Eine weitere Serie wird auf Disney+ starten. Disneys und Pixars „Cars on the Road“ wird am 8. September 2022 beim Streaming-Dienst auf die Straße gehen. Die „Disney+ Original“-Serie mit 9 Episoden folgt Lightning McQueen (im Original gesprochen von Owen Wilson)...
-Zum Beitrag: Cars on the Road: Serie ab September bei Disney+
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>caschy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Researchers discover HiddenAds malware in a dozen Android apps that were distributed on the Google Play Store]]></title>
-        <id>https://www.ghacks.net/?p=180044</id>
-        <link href="https://www.ghacks.net/2022/08/01/researchers-discover-hiddenads-malware-in-a-dozen-android-apps-that-were-distributed-on-the-google-play-store/"/>
-        <updated>2022-08-01T18:07:34.000Z</updated>
-        <summary type="html"><![CDATA[Researchers at McAfee have discovered that a dozen Android apps, that were distributed on the Google Play Store, had been pushing malicious ads to users. Here's what happened. HiddenAds malware in Android […]
-Thank you for being a Ghacks reader. The post Researchers discover HiddenAds malware in a dozen Android apps that were distributed on the Google Play Store appeared first on gHacks Technology News.]]></summary>
-        <author>
-            <name>Ashwin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Discord: Neue Android-App wird in React Native realisiert]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1122330</id>
-        <link href="https://stadt-bremerhaven.de/discord-neue-android-app-wird-in-react-native-realisiert/"/>
-        <updated>2022-08-01T17:38:17.000Z</updated>
-        <summary type="html"><![CDATA[Discord wird seine Android-App in den kommenden Wochen überarbeiten, damit neue Funktionen und Updates zur gleichen Zeit wie für iOS und Desktop erscheinen. Dies gab das Unternehmen heute bekannt. Man verspricht sich dadurch schnellere Aktualisierungszyklen, wenn eine neue Funktion eingeführt...
-Zum Beitrag: Discord: Neue Android-App wird in React Native realisiert
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>caschy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sony PlayStation 5: Funktion „Auszeichnungen“ wird eingestampft]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1122317</id>
-        <link href="https://stadt-bremerhaven.de/sony-playstation-5-funktion-auszeichnungen-wird-eingestampft/"/>
-        <updated>2022-08-01T17:30:30.000Z</updated>
-        <summary type="html"><![CDATA[Sony stellt an der PlayStation 5 seine Funktion der „Auszeichnungen“ („Accolades“) ein. Ihr habt noch nie davon gehört und dieses Feature nie genutzt? Dann gehört ihr wohl zur Mehrheit der PlayStation-Gamer. Denn Sony gibt an, dass die Nutzung nicht den...
-Zum Beitrag: Sony PlayStation 5: Funktion „Auszeichnungen“ wird eingestampft
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>André Westphal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Firefox 103.0.1 veröffentlicht]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1122296</id>
-        <link href="https://stadt-bremerhaven.de/firefox-103-0-1-veroeffentlicht/"/>
-        <updated>2022-08-01T17:00:01.000Z</updated>
-        <summary type="html"><![CDATA[Mozilla hat seinen Browser Firefox heute in der neuen Version 103.0.1 veröffentlicht. Viele Neuerungen gibt es nicht. Man hat nun in erster Linie Hardwarebeschleunigung auf neueren AMD-Grafikkarten freigeschaltet. Zudem wurde ein Fehler behoben, der durch einen Bug im Audio-Manager zu...
-Zum Beitrag: Firefox 103.0.1 veröffentlicht
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>André Westphal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FIFA 23: Das ist der Karrieremodus]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1122327</id>
-        <link href="https://stadt-bremerhaven.de/fifa-23-das-ist-der-karrieremodus/"/>
-        <updated>2022-08-01T16:44:33.000Z</updated>
-        <summary type="html"><![CDATA[Nicht mehr lange, dann können die interessierten Spieler zu FIFA 2023 greifen. Die Weiterentwicklungen der HyperMotion2-Technologie und des Physiksystems von FIFA 23 sollen für eine Reihe neuer Features sorgen, die das Spielerlebnis noch intensiver gestalten als je zuvor. Die Bewegungen...
-Zum Beitrag: FIFA 23: Das ist der Karrieremodus
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>caschy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Prime Gaming verschenkt StarCraft Remastered und mehr]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1122323</id>
-        <link href="https://stadt-bremerhaven.de/amazon-prime-gaming-verschenkt-starcraft-remastered-und-mehr/"/>
-        <updated>2022-08-01T16:21:01.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Prime wird ein gutes Stück teurer und der Amazon Drive wird eingestellt. Da weise ich auch noch einmal auf unsere Umfrage des Monats hin, an der ihr euch gerne beteiligen dürft. Kunden sollten natürlich schauen, dass man das Maximum herausholen kann,...
-Zum Beitrag: Amazon Prime Gaming verschenkt StarCraft Remastered und mehr
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>caschy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spotify: Premium-Nutzer bekommen eigenen Play-Button]]></title>
-        <id>https://www.computerbase.de/2022-08/spotify-premium-nutzer-bekommen-eigenen-play-button/</id>
-        <link href="https://www.computerbase.de/2022-08/spotify-premium-nutzer-bekommen-eigenen-play-button/"/>
-        <updated>2022-08-01T16:15:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/4/4/6-4334539318e7a0d4/article-640x360.769fdd52.jpg"><p>Zahlende Premium-Nutzer des Musik-Streamingdienstes Spotify erhalten nun jeweils einen separaten Play- und Shuffle-Button anstelle des kombinierten Play/Shuffle-Buttons, über den eine Playlist bislang immer in beliebiger Reihenfolge wiedergegeben wurde.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TikTok könnte einen eigenen Dienst für Musikstreaming planen]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1122272</id>
-        <link href="https://stadt-bremerhaven.de/tiktok-koennte-einen-eigenen-dienst-fuer-musikstreaming-planen/"/>
-        <updated>2022-08-01T16:00:43.000Z</updated>
-        <summary type="html"><![CDATA[Die Kurzvideo-Plattform TikTok könnte auch noch den Einstieg ins Musikstreaming planen. Zumindest hat sich der Mutterkonzern ByteDance schon einmal die Rechte an der Marke „TikTok Music“ über das US Patent and Trademark Office gesichert, wie Insider berichtet. Man beschreibt TikTok...
-Zum Beitrag: TikTok könnte einen eigenen Dienst für Musikstreaming planen
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>André Westphal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spotify Premium: Shuffle- und Play-Buttons werden getrennt]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1122313</id>
-        <link href="https://stadt-bremerhaven.de/spotify-premium-shuffle-und-play-buttons-werden-getrennt/"/>
-        <updated>2022-08-01T15:22:27.000Z</updated>
-        <summary type="html"><![CDATA[Spotify Family wird nicht nur teurer – erst einmal in Österreich – es gibt auch generell Neues für Premium-Nutzer. Man verbessere das Hörerlebnis und trenne die Shuffle- und Play-Buttons für Spotify jene Anwender. Diese neue Änderung soll es laut Ansicht...
-Zum Beitrag: Spotify Premium: Shuffle- und Play-Buttons werden getrennt
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>caschy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Porsche: Große Bemühungen im E-Bike-Bereich]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1122304</id>
-        <link href="https://stadt-bremerhaven.de/porsche-grosse-bemuehungen-im-e-bike-bereich/"/>
-        <updated>2022-08-01T15:05:36.000Z</updated>
-        <summary type="html"><![CDATA[Für viele bei den E-Bikes unter dem Radar: Porsche. Das Unternehmen hat schon hier und da einige Zukäufe in diesem Bereich getätigt, dazu investiert. Nun will Porsche sein strategisches eBike-Engagement erweitern. Zu diesem Zweck nehmen ab sofort zwei Joint Ventures...
-Zum Beitrag: Porsche: Große Bemühungen im E-Bike-Bereich
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>caschy</name>
         </author>
     </entry>
 </feed>
