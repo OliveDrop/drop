@@ -2,10 +2,484 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://olivedrop.github.io/drop/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-13T02:36:14.934Z</updated>
+    <updated>2022-09-14T02:33:38.061Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://olivedrop.github.io/drop/index.html"/>
     <link rel="self" href="https://olivedrop.github.io/drop/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[iOS 16: LockFlow ermöglicht, Kurzbefehle als Widgets auf dem Homescreen abzulegen]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1129277</id>
+        <link href="https://stadt-bremerhaven.de/ios-16-lockflow-ermoeglicht-kurzbefehle-als-widgets-auf-dem-homescreen-abzulegen/"/>
+        <updated>2022-09-13T19:16:54.000Z</updated>
+        <summary type="html"><![CDATA[Eine der auffälligsten Änderungen, die mit iOS 16 Einzug auf euer iPhone gehalten hat, ist die Möglichkeit von Widgets im Sperrbildschirm. Eigentlich kein Wunder, dass ein paar findige App-Entwickler hier nicht lange gewartet haben, um Apps herauszubringen, die euch dann...
+Zum Beitrag: iOS 16: LockFlow ermöglicht, Kurzbefehle als Widgets auf dem Homescreen abzulegen
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>Benjamin Mamerow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iOS 16 und die Home-App: Schalter richtig ansteuern und Schaltflächen vergrößern]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1129254</id>
+        <link href="https://stadt-bremerhaven.de/ios-16-und-die-home-app-schalter-richtig-ansteuern-und-schaltflaechen-vergroessern/"/>
+        <updated>2022-09-13T18:30:01.000Z</updated>
+        <summary type="html"><![CDATA[iOS 16 ist da und damit auch die neue Home-App zum Steuern der Smart-Home-Hardware im HomeKit-Universum. Für Umsteiger sicher erst einmal ein Schlag, denn es gibt durchaus Dinge, da muss man sich (leider) dran gewöhnen. Klassische Räume sind ja weg,...
+Zum Beitrag: iOS 16 und die Home-App: Schalter richtig ansteuern und Schaltflächen vergrößern
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Readdle: Apps bekommen iOS-16-Optimierung]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1129226</id>
+        <link href="https://stadt-bremerhaven.de/readdle-apps-bekommen-ios-16-optimierung/"/>
+        <updated>2022-09-13T18:00:21.000Z</updated>
+        <summary type="html"><![CDATA[Die Apps von Readdle kennen vermutliche viele iOS-Nutzer. Da gibt’s unter anderem Calendars, Spark als Mail-App, eine PDF- sowie Scanner-App hat man auch im Programm, des Weiteren gibt’s Documents, seit Jahren eine meiner Favoriten-Apps, auch wenn ich sie nicht mehr...
+Zum Beitrag: Readdle: Apps bekommen iOS-16-Optimierung
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows: Updates für den Patch-Day September veröffentlicht]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1129263</id>
+        <link href="https://stadt-bremerhaven.de/windows-updates-fuer-den-patch-day-september-veroeffentlicht/"/>
+        <updated>2022-09-13T17:50:03.000Z</updated>
+        <summary type="html"><![CDATA[Der monatliche Patch-Dienstag ist angelaufen. Unterstützte Versionen von Windows 10 und Windows 11 werden also mit Updates bedacht. Wie immer ist auch dieses kumulative Windows-Update obligatorisch und wird automatisch von Windows Update während des Wartungsfensters installiert, alternativ kann man aktiv...
+Zum Beitrag: Windows: Updates für den Patch-Day September veröffentlicht
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ghacks Deals: Supercharged Cybersecurity Bundle]]></title>
+        <id>https://www.ghacks.net/?p=180756</id>
+        <link href="https://www.ghacks.net/2022/09/13/ghacks-deals-supercharged-cybersecurity-bundle/"/>
+        <updated>2022-09-13T17:39:20.000Z</updated>
+        <summary type="html"><![CDATA[The Supercharged Cybersecurity Bundle is a huge bundle that includes ten different security released ebooks. Ebooks may be downloaded for offline access, and length of access is set to lifetime. Here is […]
+Thank you for being a Ghacks reader. The post Ghacks Deals: Supercharged Cybersecurity Bundle appeared first on gHacks Technology News.]]></summary>
+        <author>
+            <name>Martin Brinkmann</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Windows Security Updates September 2022 overview]]></title>
+        <id>https://www.ghacks.net/?p=180752</id>
+        <link href="https://www.ghacks.net/2022/09/13/microsoft-windows-security-updates-september-2022-overview/"/>
+        <updated>2022-09-13T17:30:49.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft released security and non-security updates for Windows and other company products on the September 2022 Patch Day. These updates address security issues in Microsoft products, and may also introduce improvements, fix […]
+Thank you for being a Ghacks reader. The post Microsoft Windows Security Updates September 2022 overview appeared first on gHacks Technology News.]]></summary>
+        <author>
+            <name>Martin Brinkmann</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Corel tauft sich selbst zu Alludo um]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1129184</id>
+        <link href="https://stadt-bremerhaven.de/corel-tauft-sich-selbst-zu-alludo-um/"/>
+        <updated>2022-09-13T17:30:25.000Z</updated>
+        <summary type="html"><![CDATA[Corel benennt seine eigene Marke in Alludo um. Corel sagt euch vermutlich durch seine Marken wie Parallels, CorelDRAW, MindManager und WinZip etwas. Nun führt man eben ein komplettes Re-branding durch. Damit soll wohl auch ein gewisser Wechsel des Fokus einhergehen....
+Zum Beitrag: Corel tauft sich selbst zu Alludo um
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[„Call of Duty: Next“: Event zur Shooter-Reihe am 15. September 2022]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1129144</id>
+        <link href="https://stadt-bremerhaven.de/call-of-duty-next-event-zur-shooter-reihe-am-15-september-2022/"/>
+        <updated>2022-09-13T17:00:54.000Z</updated>
+        <summary type="html"><![CDATA[Am 15. September 2022 will Activision Blizzard im Rahmen des Events „Call of Duty: Next“ über die Zukunft der Spielereihe sprechen. Gleichzeitig kündigt man für den 16. September eine neue Beta zu „Call of Duty: Modern Warfare II“ an, die...
+Zum Beitrag: „Call of Duty: Next“: Event zur Shooter-Reihe am 15. September 2022
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jurassic World Evolution 2: DLC Late Cretaceous Pack liefert neue Dinos [Notiz]]]></title>
+        <id>https://www.computerbase.de/2022-09/jurassic-world-evolution-2-dlc-late-cretaceous-pack-liefert-neue-dinos/</id>
+        <link href="https://www.computerbase.de/2022-09/jurassic-world-evolution-2-dlc-late-cretaceous-pack-liefert-neue-dinos/"/>
+        <updated>2022-09-13T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/0/0/7-7bdf9e6aa3b11c3c/article-640x360.c3537cfd.jpg"><p>Mit dem DLC Late Cretaceous Pack erhält die Parksimulation Jurassic World Evolution 2 zum 15. September weiteren Dinonachschub. Über ein allgemeines Update erhalten zudem alle Spieler Zugriff auf neue Funktionen im Spiel.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Community: Screenshotwettbewerb ab Oktober in neuer Aufmachung [Notiz]]]></title>
+        <id>https://www.computerbase.de/2022-09/community-screenshotwettbewerb-ab-oktober-in-neuer-aufmachung/</id>
+        <link href="https://www.computerbase.de/2022-09/community-screenshotwettbewerb-ab-oktober-in-neuer-aufmachung/"/>
+        <updated>2022-09-13T16:41:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/0/0/6-cc8f77d2f6366195/article-640x360.91014531.jpg"><p>Der bis Juni in üblicher Manier abgehaltene Screenshot-Wettbewerb kehrt ab Oktober mit einem neuen Verfahren zurück. Der Wettbewerb läuft sechs Monate, in denen die Teilnehmer Punkte sammeln können und so am Ende ein Gesamtsieger feststeht. Auch die Themen werden im Vorfeld feststehen.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AVM FRITZ!Box: Helfer-Software BoxToGo zum halben Preis]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1129206</id>
+        <link href="https://stadt-bremerhaven.de/avm-fritzbox-helfer-software-boxtogo-zum-halben-preis/"/>
+        <updated>2022-09-13T16:30:42.000Z</updated>
+        <summary type="html"><![CDATA[Android-Nutzer mit AVM FRITZ!Box im Haushalt kennen unter Umständen die App BoxToGo. Seit vielen Jahren haben so fortgeschrittene Nutzer die Möglichkeit, einige Komfortfunktionen der FRITZ!Box über die App zu nutzen. BoxToGo unterstützt vollumfänglich FRITZ!OS und alle Labor-Versionen. Kostet die Software...
+Zum Beitrag: AVM FRITZ!Box: Helfer-Software BoxToGo zum halben Preis
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ubisoft erhöht Spielepreise ebenfalls auf 79,99 Euro]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1129221</id>
+        <link href="https://stadt-bremerhaven.de/ubisoft-erhoeht-spielepreise-ebenfalls-auf-7999-euro/"/>
+        <updated>2022-09-13T16:00:22.000Z</updated>
+        <summary type="html"><![CDATA[Zum Start der aktuellen Konsolengeneration hatten einige Entwickler und Publisher angekündigt, die Spielepreise anzuziehen: In den USA kosten ihre Games nun 69,99 US-Dollar und in Europa sind es 79,99 Euro. Ganz vorne mit dabei war Sony, die als erste nach...
+Zum Beitrag: Ubisoft erhöht Spielepreise ebenfalls auf 79,99 Euro
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nintendo Direct u. a. mit The Legend of Zelda: Tears of the Kingdom]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1129235</id>
+        <link href="https://stadt-bremerhaven.de/nintendo-direct-u-a-mit-the-legend-of-zelda-tears-of-the-kingdom/"/>
+        <updated>2022-09-13T15:53:52.000Z</updated>
+        <summary type="html"><![CDATA[Auf der Nintendo Direct hat Nintendo es Spiele und Ankündigungen hageln lassen. Vielleicht für viele ein Highlight: The Legend of Zelda: Breath of the Wild. Ein geheimnisvoller Trailer zeigte zudem neue Spielszenen, die über den Wolken stattfinden. Das Abenteuer von...
+Zum Beitrag: Nintendo Direct u. a. mit The Legend of Zelda: Tears of the Kingdom
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aqara Heizkörperthermostat E1 startet in Deutschland]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1129176</id>
+        <link href="https://stadt-bremerhaven.de/aqara-heizkoerperthermostat-e1-startet-in-deutschland/"/>
+        <updated>2022-09-13T15:30:34.000Z</updated>
+        <summary type="html"><![CDATA[Das Smart-Home-Unternehmen Aqara hat ein neues Produkt in Deutschland an den Start gebracht. Hierbei handelt es sich um das Heizkörperthermostat mit dem knappen Namen „E1“. Das E1 muss an einen Hub mit Zigbee 3 von Aqara angebunden werden und spricht dann...
+Zum Beitrag: Aqara Heizkörperthermostat E1 startet in Deutschland
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zoom Chat wird zum Zoom Team Chat]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1129191</id>
+        <link href="https://stadt-bremerhaven.de/zoom-chat-wird-zum-zoom-team-chat/"/>
+        <updated>2022-09-13T15:00:42.000Z</updated>
+        <summary type="html"><![CDATA[Es gibt Neues von Zoom, die in der Corona-Krise natürlich ordentlich mit ihren Lösungen für Videokonferenzen im Aufwind gelegen haben. In eine recht langatmige Mitteilung verpackt man dabei derzeit eine kleine News: Aus dem Zoom Chat wird ab sofort offiziell...
+Zum Beitrag: Zoom Chat wird zum Zoom Team Chat
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[„Thunderbolt 5“: Intel demonstriert neue Schnittstelle mit 80 Gbit/s]]></title>
+        <id>https://www.computerbase.de/2022-09/thunderbolt-5-intel-demonstriert-neue-schnittstelle-mit-80-gbit-s/</id>
+        <link href="https://www.computerbase.de/2022-09/thunderbolt-5-intel-demonstriert-neue-schnittstelle-mit-80-gbit-s/"/>
+        <updated>2022-09-13T14:34:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/0/0/5-06108e377b384a67/article-640x360.c66e0b72.jpg"><p>Die neuen USB-Standards und die Thunderbolt-Schnittstelle gehen Hand in Hand, das zeigt nicht nur der gemeinsam genutzte USB-C-Stecker. Nachdem kürzlich USB4 2.0 mit 80 Gbit/s angekündigt wurde, demonstrierte Intel jetzt „Thunderbolt 5“ mit der gleichen Datenrate.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Emmys 2022: Unter anderem räumt „Ted Lasso“ ab]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1129213</id>
+        <link href="https://stadt-bremerhaven.de/emmys-2022-unter-anderem-raeumt-ted-lasso-ab/"/>
+        <updated>2022-09-13T14:30:20.000Z</updated>
+        <summary type="html"><![CDATA[Die Gewinner der 74. Emmy Awards stehen fest. Im Rahmen der Preisverleihung werden TV-Produktionen prämiert: Filme, Serien, Shows und Co. Unter anderem darf sich Apple freuen, denn die Serie „Ted Lasso“ von Apple TV+ heimste auch in diesem Jahr einige...
+Zum Beitrag: Emmys 2022: Unter anderem räumt „Ted Lasso“ ab
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MagSafe Duo: Apple gibt Tipps zum Laden der Apple Watch Ultra]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1129187</id>
+        <link href="https://stadt-bremerhaven.de/magsafe-duo-apple-gibt-tipps-zum-laden-der-apple-watch-ultra/"/>
+        <updated>2022-09-13T14:00:20.000Z</updated>
+        <summary type="html"><![CDATA[Apples MagSafe Duo ist ein Produkt, welches einige Fans hat. Nicht ganz günstig in der Anschaffung, verrichtet das Ladegerät für Apple Watch und iPhone bei vielen auf dem Schreibtisch oder dem Nachtschrank seinen Dienst. Unser Kollege Oliver hat das MagSafe...
+Zum Beitrag: MagSafe Duo: Apple gibt Tipps zum Laden der Apple Watch Ultra
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Energieversorgung: Anzahl untergeschobener Verträge nimmt stark zu]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1129200</id>
+        <link href="https://stadt-bremerhaven.de/energieversorgung-anzahl-untergeschobener-vertraege-nimmt-stark-zu/"/>
+        <updated>2022-09-13T13:30:45.000Z</updated>
+        <summary type="html"><![CDATA[In der aktuellen Energiekrise stehen noch diejenigen am besten dar, die wenigstens Altverträge fortsetzen können. Denn bei den Neukunden drücken die Versorger im wahrsten Sinne des Wortes aufs Gaspedal und ziehen die Preise noch kräftiger an. Leider gibt es da...
+Zum Beitrag: Energieversorgung: Anzahl untergeschobener Verträge nimmt stark zu
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Robert Hallock: Technisches-Marketing-Leiter verlässt AMD nach 12 Jahren]]></title>
+        <id>https://www.computerbase.de/2022-09/robert-hallock-technisches-marketing-leiter-verlaesst-amd-nach-12-jahren/</id>
+        <link href="https://www.computerbase.de/2022-09/robert-hallock-technisches-marketing-leiter-verlaesst-amd-nach-12-jahren/"/>
+        <updated>2022-09-13T13:04:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/0/0/3-93e2fcd7d56aac70/article-640x360.d5668a65.jpg"><p>Mehr als 12 Jahre lang war er bei AMD. Jetzt verlässt Robert Hallock, zuletzt Leiter des technischen Marketings, das Unternehmen, um sich neuen Herausforderungen zu stellen. Der Abgang kommt, so kurz vor dem Marktstart der neuen Ryzen-7000-Plattform, überraschend.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Kindle und Kindle Kids: Neue Generation vorgestellt]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1129151</id>
+        <link href="https://stadt-bremerhaven.de/amazon-kindle-und-kindle-kids-neue-generation-vorgestellt/"/>
+        <updated>2022-09-13T13:00:19.000Z</updated>
+        <summary type="html"><![CDATA[Amazon stellt heute seine beiden neuen Kindle und Kindle Kids der nächsten Generation vor: Die beiden E-Book-Reader bieten jetzt ein hochauflösenderes 300-ppi-Display. Auch die Speicherkapazität verdoppelt sich – auf 16 GByte. Geladen werden die Geräte via USB-C. Amazon bewirbt die...
+Zum Beitrag: Amazon Kindle und Kindle Kids: Neue Generation vorgestellt
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Kindle und Kindle Kids: 300-ppi-Display, USB-C und doppelter Speicher]]></title>
+        <id>https://www.computerbase.de/2022-09/amazon-kindle-und-kindle-kids-300-ppi-display-usb-c-und-doppelter-speicher/</id>
+        <link href="https://www.computerbase.de/2022-09/amazon-kindle-und-kindle-kids-300-ppi-display-usb-c-und-doppelter-speicher/"/>
+        <updated>2022-09-13T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/9/9/7-b1de4b508aa133dc/article-640x360.7e7d5876.jpg"><p>Amazon legt sowohl den Kindle als auch Kindle Kids in 11. Generation neu auf. Die 2022er Modelle der E-Book-Reader bekommen ein hochauflösendes Display, werden künftig über USB-C aufgeladen und erhalten mit nunmehr 16 Gigabyte eine doppelt so hohe Speicherkapazität.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sonos Sub Mini vorgestellt: Kompakter Subwoofer fürs Sonos-System kostet 499 Euro]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1127827</id>
+        <link href="https://stadt-bremerhaven.de/sonos-sub-mini-vorgestellt-kompakter-subwoofer-fuers-sonos-system-kostet-499-euro/"/>
+        <updated>2022-09-13T12:58:12.000Z</updated>
+        <summary type="html"><![CDATA[Seit langem wird gemunkelt und in den letzten Wochen verdichteten sich die Gerüchte und Leaks: Die Rede ist vom Sonos Sub Mini. Den hat der Hersteller für Multiroom-Lautsprecher nun endlich vorgestellt. Er dient der Ergänzung des Portfolios um einen „preisgünstigeren“...
+Zum Beitrag: Sonos Sub Mini vorgestellt: Kompakter Subwoofer fürs Sonos-System kostet 499 Euro
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>Felix Frank</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Joyn: ProSiebenSat.1 Gruppe übernimmt restliche Anteile]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1129196</id>
+        <link href="https://stadt-bremerhaven.de/joyn-prosiebensat-1-gruppe-uebernimmt-restliche-anteile/"/>
+        <updated>2022-09-13T12:32:29.000Z</updated>
+        <summary type="html"><![CDATA[Die ProSiebenSat.1 Gruppe übernimmt die ausstehenden 50 Prozent der Anteile an Joyn von Warner Bros. Discovery. Das Joint Venture wurde mit Discovery 2017 gegründet und firmiert seit 2019 unter dem Namen Joyn. Von Beginn an hat Joyn den Fokus auf...
+Zum Beitrag: Joyn: ProSiebenSat.1 Gruppe übernimmt restliche Anteile
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Berlin möchte befristetes 29-Euro-Ticket einführen]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1129194</id>
+        <link href="https://stadt-bremerhaven.de/berlin-moechte-befristetes-29-euro-ticket-einfuehren/"/>
+        <updated>2022-09-13T12:23:26.000Z</updated>
+        <summary type="html"><![CDATA[Das 9-Euro-Ticket ist Geschichte, das geplante Deutschland-Ticket der Regierung wird teurer, aber ist dennoch für viele eine absolute Erleichterung. Berlin möchte nun ein befristetes 29-Euro-Ticket einführen. Nach rbb-Informationen soll ab Oktober drei Monate lang ein 29-Euro-Ticket im öffentlichen Nahverkehr gelten....
+Zum Beitrag: Berlin möchte befristetes 29-Euro-Ticket einführen
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple releases macOS Monterey 12.6, iOS 15.7 and iPadOS 15.7 with security updates]]></title>
+        <id>https://www.ghacks.net/?p=180735</id>
+        <link href="https://www.ghacks.net/2022/09/13/whats-new-in-macos-monterey-12-6-ios-15-7-and-ipados-15-7/"/>
+        <updated>2022-09-13T12:15:35.000Z</updated>
+        <summary type="html"><![CDATA[Apple has released macOS Monterey 12.6, iOS 15.7 and iPadOS 15.7. The updates bring a number of critical security fixes for Macs, iPhones and iPads. Security fixes in macOS Monterey 12.6 The […]
+Thank you for being a Ghacks reader. The post Apple releases macOS Monterey 12.6, iOS 15.7 and iPadOS 15.7 with security updates appeared first on gHacks Technology News.]]></summary>
+        <author>
+            <name>Ashwin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meta Quest Pro: VR-System vor Veröffentlichung in Hotelzimmer gefunden]]></title>
+        <id>https://www.computerbase.de/2022-09/meta-quest-pro-vr-system-vor-veroeffentlichung-in-hotelzimmer-gefunden/</id>
+        <link href="https://www.computerbase.de/2022-09/meta-quest-pro-vr-system-vor-veroeffentlichung-in-hotelzimmer-gefunden/"/>
+        <updated>2022-09-13T12:11:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/9/9/8-81a6774e2fcfec13/article-640x360.e2e6a9c3.jpg"><p>Einen Monat vor der erwarteten Vorstellung gibt es ein inoffizielles Video des VR-Systems Meta Quest Pro. Basis soll ein Fund in einem Hotelzimmer sein. Meta hatte im Juni angekündigt noch dieses Jahr ein VR-Headset mit Eye-Tracking vorzustellen. Der erwartete Termin ist der 11. Oktober auf Metas Hausmesse Connect.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Revolut Pay: PayPal-Konkurrent nun in Europa verfügbar]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1129012</id>
+        <link href="https://stadt-bremerhaven.de/revolut-pay-paypal-konkurrent-nun-in-europa-verfuegbar/"/>
+        <updated>2022-09-13T12:00:06.000Z</updated>
+        <summary type="html"><![CDATA[Das britische Fintech Revolut ist nicht zuletzt aufgrund seiner Funktions-Vielfalt und seines hohen Entwicklungstempos bekannt. Mit Revolut Pay launcht man nun seinen Click-to-Pay-Service für ganz Europa. Man wolle damit bei Händlern einen schnellen Check-out ermöglichen. Revolut Pay erlaubt Zahlungen auf...
+Zum Beitrag: Revolut Pay: PayPal-Konkurrent nun in Europa verfügbar
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>Felix Frank</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Einplatinencomputer: Fedora 37 unterstützt den Raspberry Pi 4 jetzt offiziell (Update)]]></title>
+        <id>https://www.computerbase.de/2022-09/fedora-37-beta-release-featureset/</id>
+        <link href="https://www.computerbase.de/2022-09/fedora-37-beta-release-featureset/"/>
+        <updated>2022-09-13T11:37:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/0/0/0-dc0794b60c681f12/article-640x360.1735718f.jpg"><p>Die Fedora 37 Workstation mit Gnome 43 steht ab sofort als Beta für jedermann zum Testen bereit und demonstriert, wohin die Reise der Linux-Distribution gehen wird. Das RPM-basierte Betriebssystem setzt mit Linux 5.19 auf die aktuellste Ausgabe des freien Systemkernels und einen Extended Hardware Stack für Zen 4 und Raptor Lake.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Prime Video: Reichlich neue Inhalte von und mit deutschen Größen vorgestellt]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1129080</id>
+        <link href="https://stadt-bremerhaven.de/amazon-prime-video-reichlich-neue-inhalte-von-und-mit-deutschen-groessen-vorgestellt/"/>
+        <updated>2022-09-13T11:30:45.000Z</updated>
+        <summary type="html"><![CDATA[Das jüngst stattgefundene Showcase-Event „Prime Video Presents Deutschland“ hat allerhand neue Inhalte zutage gebracht, die unter anderem in Zusammenarbeit mit namhaften deutschen Größen entstehen oder bereits entstanden sind. Zudem gab es auch einen Ausblick auf ein paar Highlights, die noch...
+Zum Beitrag: Amazon Prime Video: Reichlich neue Inhalte von und mit deutschen Größen vorgestellt
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>Benjamin Mamerow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RebornOS 2022.09: Der nächste Erbe von Antergos mit großer Desktop-Auswahl]]></title>
+        <id>https://www.computerbase.de/2022-09/rebornos-2022-09-linux-distribution/</id>
+        <link href="https://www.computerbase.de/2022-09/rebornos-2022-09-linux-distribution/"/>
+        <updated>2022-09-13T10:53:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/9/8/7-d4ec5231da8f9db7/article-640x360.33466c43.jpg"><p>RebornOS ist ein flexibles und stark anpassbares Rolling Release auf Basis der dem KISS-Prinzip folgenden und in erster Linie an fortgeschrittene Anwender adressierten Linux-Distribution Arch Linux, die sich anschickt, in die Fußstapfen von Antergos zu treten. Mit einer Armada an Desktops und viel Freiheit soll das gelingen.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google: Pixelbook-Sparte eingestellt und neues Modell abgesagt]]></title>
+        <id>https://www.computerbase.de/2022-09/google-pixelbook-sparte-eingestellt-und-neues-modell-abgesagt/</id>
+        <link href="https://www.computerbase.de/2022-09/google-pixelbook-sparte-eingestellt-und-neues-modell-abgesagt/"/>
+        <updated>2022-09-13T09:21:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/9/9/6-a70a97bbd6447b80/article-640x360.ec9a6ec2.jpg"><p>Neue Pixelbooks sind von Google vorerst nicht mehr zu erwarten, nachdem die Sparte aufgelöst wurde, wie The Verge unter Berufung auf eine mit den Vorgängen innerhalb Googles vertraute Personen berichtet. Die Chromebooks haben seit fünf Jahren keinen vollwertigen Nachfolger erhalten. Das Pixelbook Go war das letzte neue Modell.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iOS 16: Google-Widgets für Maps, Chrome, Gmail & Co kommen]]></title>
+        <id>https://www.computerbase.de/2022-09/ios-16-google-widgets-fuer-maps-chrome-gmail-und-co-kommen/</id>
+        <link href="https://www.computerbase.de/2022-09/ios-16-google-widgets-fuer-maps-chrome-gmail-und-co-kommen/"/>
+        <updated>2022-09-13T09:03:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/9/9/5-bb94291ddb6f947a/article-640x360.a374ef99.jpg"><p>Google und Apple sind mit Android und iOS die größten Konkurrenten bei Smartphone-Betriebssystemen. Während Apple die Dienste nicht auf Android bringt, arbeitet Google nun an einer breiten Unterstützung der neuen Widgets in Apples iOS 16. Maps, Chrome, Drive, Gmail, die Google-Suche und Google News werden Widgets bieten.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Steelrising im Test: Schickes Artwork hat absurde Anforderungen]]></title>
+        <id>https://www.computerbase.de/2022-09/steelrising-benchmark-test/</id>
+        <link href="https://www.computerbase.de/2022-09/steelrising-benchmark-test/"/>
+        <updated>2022-09-13T08:30:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/9/8/3-e55910f1b8e2c587/article-640x360.8cae9c33.jpg"><p>Steelrising ist ein schickes Soulslike-Spiel geworden, das mit seinem interessanten Szenario und der gelungenen künstlerischen Gestaltung auffällt. Der PC-Version fehlt es im Technik-Test jedoch deutlich an Optimierung, so dass die Anforderungen an die Hardware zum jetzigen Zeitpunkt schlicht als absurd zu bezeichnen sind.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Play Lunar Lander in the copy dialog on Windows]]></title>
+        <id>https://www.ghacks.net/?p=180730</id>
+        <link href="https://www.ghacks.net/2022/09/13/play-lunar-lander-in-the-copy-dialog-on-windows/"/>
+        <updated>2022-09-13T05:14:56.000Z</updated>
+        <summary type="html"><![CDATA[Windows copy dialog is displayed when you copy files from one location to another. Depending on the number of files, their sizes and locations involved in the copy job, copying may take […]
+Thank you for being a Ghacks reader. The post Play Lunar Lander in the copy dialog on Windows appeared first on gHacks Technology News.]]></summary>
+        <author>
+            <name>Martin Brinkmann</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Xperia Stream: Sony bringt Handyhülle mit Lüfter, RJ45, HDMI und Klinke]]></title>
         <id>https://www.computerbase.de/2022-09/xperia-stream-sony-bringt-handyhuelle-mit-luefter-rj45-hdmi-und-klinke/</id>
@@ -11986,352 +12460,6 @@ Zum Blog: Caschys Blog
 Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
         <author>
             <name>André Westphal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thunderbird: Internes Upgrade auf Version 102 freigegeben]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1124329</id>
-        <link href="https://stadt-bremerhaven.de/thunderbird-internes-upgrade-auf-version-102-freigegeben/"/>
-        <updated>2022-08-15T14:30:32.000Z</updated>
-        <summary type="html"><![CDATA[Bislang ist man bei Thunderbird zweigleisig unterwegs gewesen. So gibt’s die Version 91.x und bereits 102.x. Wer damals manuell auf die 102er-Version aktualisiert hat, der muss nun nichts machen. Wer allerdings noch mit der 91.12.0 unterwegs ist, der kann jetzt...
-Zum Beitrag: Thunderbird: Internes Upgrade auf Version 102 freigegeben
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>caschy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[„Avatar: Der Herr der Elemente“: Neues Spiel taucht auf]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1124324</id>
-        <link href="https://stadt-bremerhaven.de/avatar-der-herr-der-elemente-neues-spiel-taucht-auf/"/>
-        <updated>2022-08-15T14:00:24.000Z</updated>
-        <summary type="html"><![CDATA[Bei Amazon Japan wird ein neues Spiel zu „Avatar: Der Herr der Elemente“ gelistet. Es trägt den Titel „Avatar The Last Airbender: Quest for Balance“ und wird als Import aus Nordamerika feilgeboten, der für die PlayStation 4 erscheinen soll. Als...
-Zum Beitrag: „Avatar: Der Herr der Elemente“: Neues Spiel taucht auf
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>André Westphal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Poco M4 5G für den internationalen Markt angekündigt]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1124312</id>
-        <link href="https://stadt-bremerhaven.de/poco-m4-5g-fuer-den-internationalen-markt-angekuendigt/"/>
-        <updated>2022-08-15T13:30:56.000Z</updated>
-        <summary type="html"><![CDATA[Poco hatte das M4 5G in Indien bereits im April 2022 auf den Markt gebracht. Wie der Hersteller via Twitter mitgeteilt hat, erscheint genau jenes Smartphone aber auch international. Während der Name identisch bleibt, wandeln sich einige technische Daten. So...
-Zum Beitrag: Poco M4 5G für den internationalen Markt angekündigt
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>André Westphal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MSI MEG Ai1000P & Ai1300P: ATX-3.0-Netzteile mit 12VHPWR und bis zu 2.600 W]]></title>
-        <id>https://www.computerbase.de/2022-08/msi-meg-ai1000p-und-ai1300p-atx-3-0-netzteile-mit-12vhpwr-und-bis-zu-2-600-w/</id>
-        <link href="https://www.computerbase.de/2022-08/msi-meg-ai1000p-und-ai1300p-atx-3-0-netzteile-mit-12vhpwr-und-bis-zu-2-600-w/"/>
-        <updated>2022-08-15T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/5/8/0-c018e0e95fdd67f2/article-640x360.e65244ce.jpg"><p>Frühere Leaks hatten es bereits vermuten lassen: MSI hat als erster Hersteller Netzteile nach neuer ATX-3.0-Spezifikation vorgestellt. Beide verfügen über einen der neuen 12VHPWR-Anschlüsse mit 12+4 Pin nach PCIe 5.0 für bis zu 600 Watt, kurzfristig können bis zu 2.600 Watt an das System geliefert werden.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BMDV: Mehr Mittel für den Breitbandausbau]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1124318</id>
-        <link href="https://stadt-bremerhaven.de/bmdv-mehr-mittel-fuer-den-breitbandausbau/"/>
-        <updated>2022-08-15T13:07:26.000Z</updated>
-        <summary type="html"><![CDATA[Für den flächendeckenden Breitbandausbau sollen im nächsten Jahr deutlich mehr Investitionen veranschlagt werden als in diesem Jahr. Der Ansatz in Einzelplan des Bundesministeriums für Digitales und Verkehr soll aufgrund steigenden Bedarfs von 76,35 Millionen Euro in diesem Jahr auf 732,05...
-Zum Beitrag: BMDV: Mehr Mittel für den Breitbandausbau
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>caschy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vodafone-Netz: 30 GB Allnet Flat für 12,99 Euro im Monat]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1124313</id>
-        <link href="https://stadt-bremerhaven.de/vodafone-netz-30-gb-allnet-flat-fuer-1299-euro-im-monat/"/>
-        <updated>2022-08-15T13:00:28.000Z</updated>
-        <summary type="html"><![CDATA[Freenet hat eine neue Aktion gestartet. 30 GB Datenvolumen gibt’s da monatlich im Vodafone-LTE-Netz. Nebst Allnet Flat kostet das Ganze 12,99 Euro im Monat. Bei Freenet bekommt man bis zu 50 Mbit/s im Download. Weitere Eckdaten? Flat für Telefonie und SMS,...
-Zum Beitrag: Vodafone-Netz: 30 GB Allnet Flat für 12,99 Euro im Monat
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>caschy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Files 2.3.7: Dateimanager für Windows 10 und 11 weiter optimiert]]></title>
-        <id>https://www.computerbase.de/2022-08/files-2-3-7-dateimanager-windows-11-10/</id>
-        <link href="https://www.computerbase.de/2022-08/files-2-3-7-dateimanager-windows-11-10/"/>
-        <updated>2022-08-15T12:15:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/6/2/1-fefc3d61858637d9/article-640x360.69e5dfaf.jpg"><p>Files ist ein freier Dateimanager, der im Fluent Design von Windows 11 daherkommt und viele nützliche Features bietet. In der neuesten Version 2.3.7 erhält die als UWP-App ausgelegte Open-Source-Anwendung eine Produktpflege, die für abermals mehr Übersichtlichkeit und Kontrolle beim Dateimanagement sorgen soll.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[„SpongeBob SquarePants: The Cosmic Shake“: Neuer Trailer sorgt für Stimmung]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1124292</id>
-        <link href="https://stadt-bremerhaven.de/spongebob-squarepants-the-cosmic-shake-neuer-trailer-sorgt-fuer-stimmung/"/>
-        <updated>2022-08-15T12:00:41.000Z</updated>
-        <summary type="html"><![CDATA[„SpongeBob Square Pants: The Cosmic Shake“ wird ein neuer Plattformer, welcher für den PC, die PlayStation 4, Xbox One und die Nintendo Switch erscheinen soll. Die Entwickler sind Purple Lamp Studios, als Publisher fungiert THQ Nordic. Leider hat das Spiel...
-Zum Beitrag: „SpongeBob SquarePants: The Cosmic Shake“: Neuer Trailer sorgt für Stimmung
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>André Westphal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ZenTimings 1.26: RAM-Werkzeug erhält Support für DDR5 und Rembrandt-APUs]]></title>
-        <id>https://www.computerbase.de/2022-08/zentimings-1-26-ddr5-rembrandt-support/</id>
-        <link href="https://www.computerbase.de/2022-08/zentimings-1-26-ddr5-rembrandt-support/"/>
-        <updated>2022-08-15T11:31:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/6/1/8-fb53c048d38a0bd1/article-640x360.06062953.jpg"><p>Das gemeinsam mit der „AMD Ryzen – RAM OC Community“ erprobte Monitoring-Tool ZenTimings v1.2.3 von „infraredbg“ kann neben primären, sekundären und tertiären Speichertimings auch Widerstände sowie den FCLK, MCLK und UCLK auslesen und unterstützt jetzt auch APUs der Serie AMD Rembrandt mit Zen 3+ sowie DDR5.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Xbox One: Nur etwa halb so oft verkauft wie die PlayStation 4]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1124286</id>
-        <link href="https://stadt-bremerhaven.de/xbox-one-nur-etwa-halb-so-oft-verkauft-wie-die-playstation-4/"/>
-        <updated>2022-08-15T11:30:07.000Z</updated>
-        <summary type="html"><![CDATA[Es ist kein Geheimnis, dass sich die PlayStation 4 deutlich besser verkauft hat als die Xbox One. Microsoft versemmelte den Launch grandios: Vorab kündigte man einen Online-Zwang, Kontenbindungen für alle Spiele (auch Discs) und einen Fokus auf Multimedia und Kinect...
-Zum Beitrag: Xbox One: Nur etwa halb so oft verkauft wie die PlayStation 4
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>André Westphal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Love, Death & Robots: Staffel 4 bestätigt]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1124284</id>
-        <link href="https://stadt-bremerhaven.de/love-death-robots-staffel-4-bestaetigt/"/>
-        <updated>2022-08-15T11:00:15.000Z</updated>
-        <summary type="html"><![CDATA[Die Anthology-Serie Love, Death & Robots hat viele Fans gefunden. Die Serie besteht aus einzelnen Kurzgeschichten, die allesamt unterschiedlich animiert wurden. 35 Episoden gibt es bislang in den drei veröffentlichten Staffeln, in jeder gibt’s irgendwie auch Comedy, Horror, Science Fiction...
-Zum Beitrag: Love, Death & Robots: Staffel 4 bestätigt
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>caschy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Huawei Mate 50 setzt wohl auf den Qualcomm Snapdragon 888 4G]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1124269</id>
-        <link href="https://stadt-bremerhaven.de/huawei-mate-50-setzt-wohl-auf-den-qualcomm-snapdragon-888-4g/"/>
-        <updated>2022-08-15T10:30:32.000Z</updated>
-        <summary type="html"><![CDATA[Das kommende Smartphone Huawei Mate 50 wird laut aktuellen Geürchten noch den Qualcomm Snapdragon 888 4G aus dem Vorjahr als SoC verwenden. Der neue, noch unangekündigte Kirin 9000S solle dem Mate 50 Pro vorbehalten bleiben. Die offizielle Vorstellung der Reihe...
-Zum Beitrag: Huawei Mate 50 setzt wohl auf den Qualcomm Snapdragon 888 4G
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>André Westphal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Open-Source-Bibliotheken: KDE Frameworks 5.97 bieten zahlreiche Neuerungen]]></title>
-        <id>https://www.computerbase.de/2022-08/kde-frameworks-5-97-0-release/</id>
-        <link href="https://www.computerbase.de/2022-08/kde-frameworks-5-97-0-release/"/>
-        <updated>2022-08-15T10:26:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/6/1/2-030d899c07a0ba51/article-640x360.ddbff452.jpg"><p>Die Entwickler der vom KDE e.V. unterstützten KDE-Community haben die neuesten hauseigenen Open-Source-Bibliotheken und -APIs KDE Frameworks 5.97 mit zahlreichen Neuerungen und Optimierungen für KDE Plasma freigegeben. Die digitale Brieftasche KWallet für die Kennwortverwaltung und Windows-DLLs stehen dabei im Fokus.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KB5012170: Windows update error 0x800f0922, UEFI Bios update may resolve it]]></title>
-        <id>https://www.ghacks.net/?p=180233</id>
-        <link href="https://www.ghacks.net/2022/08/15/kb5012170-windows-update-error-0x800f0922-uefi-bios-update-may-resolve-it/"/>
-        <updated>2022-08-15T10:11:18.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft released cumulative updates for all supported versions of Windows on the August 2022 Patch Day. The company did release a second security update for Windows at the day to address issues […]
-Thank you for being a Ghacks reader. The post KB5012170: Windows update error 0x800f0922, UEFI Bios update may resolve it appeared first on gHacks Technology News.]]></summary>
-        <author>
-            <name>Martin Brinkmann</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[„Horizon Forbidden West“ und „Gran Turismo 7“ für 24,99 Euro bei Media Markt und Saturn]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1124278</id>
-        <link href="https://stadt-bremerhaven.de/horizon-forbidden-west-und-gran-turismo-7-fuer-2499-euro-bei-media-markt-und-saturn/"/>
-        <updated>2022-08-15T10:00:16.000Z</updated>
-        <summary type="html"><![CDATA[Solltet ihr zum Launch von den Preisen abgeschreckt gewesen sein, dann gibt es jetzt die wohl bisher beste Chance die beiden First-Party-Titel „Horizon Forbidden West“ sowie „Gran Turismo 7“ zu ergattern. Media Markt und Saturn bieten die beiden Games für...
-Zum Beitrag: „Horizon Forbidden West“ und „Gran Turismo 7“ für 24,99 Euro bei Media Markt und Saturn
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>André Westphal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intel Arc: DirectX 9 wird nur noch über Umwege unterstützt (Update)]]></title>
-        <id>https://www.computerbase.de/2022-08/intel-arc-directx-9-wird-nur-noch-ueber-umwege-unterstuetzt/</id>
-        <link href="https://www.computerbase.de/2022-08/intel-arc-directx-9-wird-nur-noch-ueber-umwege-unterstuetzt/"/>
-        <updated>2022-08-15T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/6/1/1-bcad20b78d9902de/article-640x360.aaa46920.jpg"><p>Laut eines kürzlich entdeckten Eintrags auf den Support-Seiten von Intel besitzen die Grafikkarten der Arc-Serie keine native Unterstützung für DirectX 9 mehr. Darauf basierende Anwendungen können aber über die Schnittstelle D3D9On12 ausgeführt werden. Ein populäres Beispiel für ein DX9-Spiel ist der Shooter CS:GO.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Neat Bumblebee II im Test: Solides Einsteiger-Mikrofon für 100 Euro UVP]]></title>
-        <id>https://www.computerbase.de/2022-08/neat-bumblebee-ii-test/</id>
-        <link href="https://www.computerbase.de/2022-08/neat-bumblebee-ii-test/"/>
-        <updated>2022-08-15T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/5/5/8-6e1ee79bf7b3795e/article-640x360.41d11116.jpg"><p>Mit dem Bumblebee II will Neat vor allem Einsteiger in den Bereich der Podcasts oder Video-Streams für sich gewinnen. Wie für das Unternehmen üblich, wird dabei auf jedweden unnötigen Ballast verzichtet und sich nur auf das Wesentliche konzentriert. Würden doch alle Hersteller nach dieser Prämisse verfahren.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Werbung: Apple soll mehr Anzeigen in eigenen Diensten planen]]></title>
-        <id>https://www.computerbase.de/2022-08/werbung-apple-soll-mehr-anzeigen-in-eigenen-diensten-planen/</id>
-        <link href="https://www.computerbase.de/2022-08/werbung-apple-soll-mehr-anzeigen-in-eigenen-diensten-planen/"/>
-        <updated>2022-08-15T09:42:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/6/1/4-10848d4a74737731/article-640x360.b8143708.jpg"><p>Werbung könnte künftig in deutlich mehr Anwendungen von Apple als bislang angezeigt werden. Das pro Jahr rund 4 Milliarden US-Dollar schwere Geschäft mit Werbung soll in den zweistelligen Bereich gebracht werden, berichtet Bloomberg. Dafür plane Apple Werbung in Anwendungen wie Maps, Books und Podcasts sowie neue TV+-Abos.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Die EISA Awards 2022-2023 stehen fest]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1124262</id>
-        <link href="https://stadt-bremerhaven.de/die-eisa-awards-2022-2023-stehen-fest/"/>
-        <updated>2022-08-15T09:30:06.000Z</updated>
-        <summary type="html"><![CDATA[Die EISA Awards 2022-2023 sind vergeben worden. EISA steht für die Expert Imaging and Sound Association. Ihr gehören über 60 Tech-Magazine, -Websites und weiter Influencer aus 29 Ländern an. Wie ernst man die Preise nehmen kann, ist allerdings schwer zu...
-Zum Beitrag: Die EISA Awards 2022-2023 stehen fest
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>André Westphal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Release Candidate: Linus Torvalds hat den neuen Linux-Kernel 6.0 freigegeben (Update)]]></title>
-        <id>https://www.computerbase.de/2022-08/linux-kernel-6-0-release-candidate-1/</id>
-        <link href="https://www.computerbase.de/2022-08/linux-kernel-6-0-release-candidate-1/"/>
-        <updated>2022-08-15T09:01:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/6/1/0-f5c6af20b6bf43db/article-640x360.467c3410.jpg"><p>Initiator und Chef-Entwickler Linus Torvalds hat den ersten Release Candidate für den kommenden Systemkernel Linux 6.0 freigegeben. In den nächsten Betriebssystemkern fließen insbesondere zahlreiche Optimierungen und Treiberpakete für AMD-GPUs mit ein. Der Release Candidate 1 (RC-1) bietet insgesamt mehr als 13.000 Änderungen.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Advanced Packaging: Milliardeninvestition von SK Hynix in den USA geplant]]></title>
-        <id>https://www.computerbase.de/2022-08/advanced-packaging-milliardeninvestition-von-sk-hynix-in-den-usa-geplant/</id>
-        <link href="https://www.computerbase.de/2022-08/advanced-packaging-milliardeninvestition-von-sk-hynix-in-den-usa-geplant/"/>
-        <updated>2022-08-15T07:09:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/6/0/9-275fd2981273348d/article-640x360.efa61888.jpg"><p>Als Teil eines 22-Milliarden-US-Dollar-Investments in den USA will die SK Group auch SK Hynix für die Zukunft fit machen. In eine Anlage für Advanced Packaging sollen in den Vereinigten Staaten mehrere Milliarden fließen, Baubeginn soll bereits zu Beginn des Jahres 2023 sein.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Here is an easy fix for Amazon Prime Video Error 7031]]></title>
-        <id>https://www.ghacks.net/?p=180230</id>
-        <link href="https://www.ghacks.net/2022/08/15/here-is-an-easy-fix-for-amazon-prime-video-error-7031/"/>
-        <updated>2022-08-15T06:26:55.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Prime Video customers may receive all sorts of error messages when they use the service. One of them is Video Unavailable and the error code 7031. It is displayed right after […]
-Thank you for being a Ghacks reader. The post Here is an easy fix for Amazon Prime Video Error 7031 appeared first on gHacks Technology News.]]></summary>
-        <author>
-            <name>Martin Brinkmann</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mainboards für AMD Ryzen 7000: Erste X670(E)-Platinen sind für 375 bis 640 Euro im Vorverkauf]]></title>
-        <id>https://www.computerbase.de/2022-08/amd-ryzen-7000-mainboards-msi/</id>
-        <link href="https://www.computerbase.de/2022-08/amd-ryzen-7000-mainboards-msi/"/>
-        <updated>2022-08-15T04:46:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/6/0/6-3926a5a492f5cf7b/article-640x360.ef179ae2.jpg"><p>Die ersten zwei AM5-Mainboards mit X670- und X670E-Chipsatz, das MSI MPG X670E Carbon WiFi, der Kronprinz des AM5-Portfolios des Herstellers, sowie das bislang am niedrigsten positionierte Modell Pro X670-P WiFi, können bereits jetzt zu frühen Preisen von 375 bis 640 Euro bei drei italienischen Einzelhändlern vorbestellt werden.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Beelink U59 Pro: Mini-PC im Test]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1123053</id>
-        <link href="https://stadt-bremerhaven.de/beelink-u59-pro-mini-pc-im-test/"/>
-        <updated>2022-08-14T18:00:20.000Z</updated>
-        <summary type="html"><![CDATA[Mini-PCs haben ihre Nische gefunden: Ob als platzsparende Office Lösung für Unternehmen oder als Medien-Player im Wohnzimmer, die Einsatzmöglichkeiten sind dank des Formfaktors schier grenzenlos. Auch in Arztpraxen finden sich immer wieder diese handlichen Würfel, auf denen beispielsweise die Patientensoftware...
-Zum Beitrag: Beelink U59 Pro: Mini-PC im Test
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>Gastautor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Teenager und soziale Medien: TikTok wird immer bedeutsamer]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1124142</id>
-        <link href="https://stadt-bremerhaven.de/teenager-und-soziale-medien-tiktok-wird-immer-bedeutsamer/"/>
-        <updated>2022-08-14T16:30:28.000Z</updated>
-        <summary type="html"><![CDATA[Das Pew Research Center – nicht mit dem YouTuber Pewdiepie verbandelt – hat eine Studie zur Social-Media-Nutzung von Teenagern (13 bis 17 Jahre) vorgelegt. Allerdings bezieht sich diese Untersuchung nur auf Jugendliche in den USA. Tendenziell dürften einige Ergebnisse bei...
-Zum Beitrag: Teenager und soziale Medien: TikTok wird immer bedeutsamer
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>André Westphal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lenovo bestätigt verlängerte Zusammenarbeit mit AMD]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1123965</id>
-        <link href="https://stadt-bremerhaven.de/lenovo-bestaetigt-verlaengerte-zusammenarbeit-mit-amd/"/>
-        <updated>2022-08-14T15:00:24.000Z</updated>
-        <summary type="html"><![CDATA[Wie das Unternehmen Lenovo mitteilt, wird die Zusammenarbeit mit AMD weiter verlängert und plant bereits, neue mobile und Desktop-Workstations anzubieten. Als erste Produkte wurden die beiden ThinkPad P15v und ThinkPad P14s genannt. Ersteres verspricht die Kombination aus leistungsstarken Prozessoren der ...
-Zum Beitrag: Lenovo bestätigt verlängerte Zusammenarbeit mit AMD
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>Benjamin Mamerow</name>
         </author>
     </entry>
 </feed>
