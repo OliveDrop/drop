@@ -6,6 +6,196 @@
       "siteUrl": "https://stadt-bremerhaven.de",
       "articles": [
         {
+          "id": "https://stadt-bremerhaven.de/?p=1130145",
+          "author": "Benjamin Mamerow",
+          "description": "Ihr hattet es vermutlich schon mitbekommen oder seid im Negativfall selbst davon betroffen: Einige Nutzer eines iPhone 14 Pro oder Pro Max haben aktuell mit Kamera-Problemen bei Drittanbieter-Apps zu tun. Die Kamera fängt dabei an, unkontrolliert vor sich hin zu...\nZum Beitrag: iPhone 14 Pro: Fix für Kameraproblem bei Drittanbieter-Apps soll kommende Woche erscheinen\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
+          "link": "https://stadt-bremerhaven.de/iphone-14-pro-fix-fuer-kameraproblem-bei-drittanbieter-apps-soll-kommende-woche-erscheinen/",
+          "publishedOn": "2022-09-19T19:28:05.000Z",
+          "wordCount": 1738,
+          "title": "iPhone 14 Pro: Fix für Kameraproblem bei Drittanbieter-Apps soll kommende Woche erscheinen",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/09/iPhone-14-pro_.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1130143",
+          "author": "caschy",
+          "description": "Ein kleiner Hinweis an die Nutzer des Signal Messengers, die vielleicht eine neue Instanz auf dem iPhone oder dem iPad einrichten wollen. Signal hat ein wichtiges Update veröffentlicht, welches ab sofort für iOS zu haben ist. Mit dieser Version behebt...\nZum Beitrag: Signal: Update gegen Probleme bei der Registrierung\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
+          "link": "https://stadt-bremerhaven.de/signal-update-gegen-probleme-bei-der-registrierung/",
+          "publishedOn": "2022-09-19T19:14:02.000Z",
+          "wordCount": 1589,
+          "title": "Signal: Update gegen Probleme bei der Registrierung",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/07/signal-logo.png"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1130124",
+          "author": "caschy",
+          "description": "Logitech scheint schon etwas mehr zu wissen. Auf der Webseite des Unternehmens kündigte man die Unterstützung des iPad Pro mit 12,9 Zoll und des iPad Pro mit 11 Zoll mit dem Logitech Crayon, einem digitalen Stift, an. Pikant: Die iPads...\nZum Beitrag: Logitechs Webseite erwähnt kommende iPad-Pro-Modelle\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
+          "link": "https://stadt-bremerhaven.de/logitechs-webseite-erwaehnt-kommende-ipad-pro-modelle/",
+          "publishedOn": "2022-09-19T18:29:40.000Z",
+          "wordCount": 1751,
+          "title": "Logitechs Webseite erwähnt kommende iPad-Pro-Modelle",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/01/Logitech-Logo-scaled.jpeg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1130113",
+          "author": "Benjamin Mamerow",
+          "description": "Es ist eine Sicherheitsabfrage, die in ihrer Form durchaus ihre Berechtigung hat: iOS 16 erkundigt sich beim Einfügen von Zwischenspeicherdaten von einer App in eine andere, ob jene Aktion vom Nutzer gewünscht wird oder blockiert werden soll. Nun häuften sich...\nZum Beitrag: iPhone 14: Bug mit Kopier-/Einfügen-Abfrage ist mittlerweile bekannt, soll schleunigst behoben werden\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
+          "link": "https://stadt-bremerhaven.de/iphone-14-bug-mit-kopier-einfuegen-abfrage-ist-mittlerweile-bekannt-soll-schleunigst-behoben-werden/",
+          "publishedOn": "2022-09-19T17:55:51.000Z",
+          "wordCount": 1851,
+          "title": "iPhone 14: Bug mit Kopier-/Einfügen-Abfrage ist mittlerweile bekannt, soll schleunigst behoben werden",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/09/iphone-14-ios-16-meldung-allow-paste_Blog.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1130095",
+          "author": "Felix Frank",
+          "description": "Nothing feilt weiterhin am Betriebssystem für sein Smartphone, das Nothing phone (1). Jenes habe ich bereits einem ausführlichen Testbericht unterzogen und hat sich zu einem meiner derzeit liebsten Android-Smartphones gemausert. Mit Android 13 wird das wohl leider noch etwas dauern,...\nZum Beitrag: Nothing phone (1): Update auf Nothing OS 1.1.4 wird verteilt\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
+          "link": "https://stadt-bremerhaven.de/nothing-phone-1-update-auf-nothing-os-1-1-4-wird-verteilt/",
+          "publishedOn": "2022-09-19T16:20:34.000Z",
+          "wordCount": 2260,
+          "title": "Nothing phone (1): Update auf Nothing OS 1.1.4 wird verteilt",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/07/Nothing-phone-1-2.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1130091",
+          "author": "caschy",
+          "description": "Die Entwickler der Antiviren-Software Bitdefender und die NoMoreRansom-Initiative haben ein kostenloses Entschlüsselungstool für von der Ransomware LockerGoga verschlüsselte Daten veröffentlicht. Anzeichen für eine LockerGoga-Infektion ist das Vorhandensein von Dateien mit der Dateierweiterung „.locked“. Die Gruppe, die hinter der Ransomware steckt,...\nZum Beitrag: Ransomware LockerGoga: Entschlüsselungs-Tool veröffentlicht\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
+          "link": "https://stadt-bremerhaven.de/ransomware-lockergoga-entschluesselungs-tool-veroeffentlicht/",
+          "publishedOn": "2022-09-19T15:22:20.000Z",
+          "wordCount": 1717,
+          "title": "Ransomware LockerGoga: Entschlüsselungs-Tool veröffentlicht",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/09/work-book-rechnerchristin-hume-mfB1B1s4sMc-unsplash_.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1130087",
+          "author": "caschy",
+          "description": "Über die Zeichen-App Krita für Windows, Linux und macOS haben wir in der Vergangenheit schon häufiger berichtet. Sie ist kostenlos zu haben und wurde bislang unter anderem durch Spenden finanziert. Nun springt Chip-Gigant Intel ein. Die Krita Foundation freue sich,...\nZum Beitrag: Zeichen-App Krita wird von Intel unterstützt\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
+          "link": "https://stadt-bremerhaven.de/zeichen-app-krita-wird-von-intel-unterstuetzt/",
+          "publishedOn": "2022-09-19T14:56:17.000Z",
+          "wordCount": 1817,
+          "title": "Zeichen-App Krita wird von Intel unterstützt",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/09/krita_.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1130085",
+          "author": "caschy",
+          "description": "Das Google Pixel 7, das Pixel 7 Pro sowie die Pixel Watch stehen vor der Tür. Große Vorstellung der neuen Hardware ist am 6. Oktober – inklusive der direkten Bestellmöglichkeit. Über die Verfügbarkeit und Liefertermine bei Google-Partnern hatten wir ja...\nZum Beitrag: Google Pixel Watch: Preisgerücht spricht von 250 bis 350 Euro\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
+          "link": "https://stadt-bremerhaven.de/google-pixel-watch-preisgeruecht-spricht-von-250-bis-350-euro/",
+          "publishedOn": "2022-09-19T14:26:22.000Z",
+          "wordCount": 1945,
+          "title": "Google Pixel Watch: Preisgerücht spricht von 250 bis 350 Euro",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/05/Google_Pixel_Watch_1_.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1130082",
+          "author": "caschy",
+          "description": "AVM hat für vier Modelle der FRITZ!Box eine neue Laborversion veröffentlicht. Man biegt langsam aber sicher auf die Zielgerade zu FRITZ!OS 7.50 ein, da kann es mal sein, dass die Schlagzahl an Laborversionen etwas höher ist. Ab sofort können sich...\nZum Beitrag: AVM: Vier Modelle der FRITZ!Box erhalten eine neue Laborversion\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
+          "link": "https://stadt-bremerhaven.de/avm-vier-modelle-der-fritzbox-erhalten-eine-neue-laborversion/",
+          "publishedOn": "2022-09-19T13:46:01.000Z",
+          "wordCount": 2014,
+          "title": "AVM: Vier Modelle der FRITZ!Box erhalten eine neue Laborversion",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/02/avm-fritz_.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1130080",
+          "author": "caschy",
+          "description": "Wir berichteten bereits darüber: Einem Angreifer ist es gelungen, über 90 Videos des kommenden Spiels „GTA 6“ zu erbeuten. Die Entwicklunsgvideos landeten im Netz und wurden von vielen angeschaut und geteilt. Das Spiel, welches noch eine lange Entwicklungszeit vor sich...\nZum Beitrag: GTA 6: Rockstar Games bestätigen Leak\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
+          "link": "https://stadt-bremerhaven.de/gta-6-rockstar-games-bestaetigen-leak/",
+          "publishedOn": "2022-09-19T13:33:52.000Z",
+          "wordCount": 1848,
+          "title": "GTA 6: Rockstar Games bestätigen Leak",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/09/gta_.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1130074",
+          "author": "caschy",
+          "description": "Govee hat in den letzten Monaten eine fast nicht mehr zu überblickende Palette an smarten Beleuchtungslösungen veröffentlicht. Mit dem LED Strip Light M1 kommt nun ein weiteres Produkt auf den Markt. Für rund 100 Euro bekommt man einen 5 Meter...\nZum Beitrag: Govee LED Strip Light M1: Neuer Strip kostet rund 100 Euro\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
+          "link": "https://stadt-bremerhaven.de/govee-led-strip-light-m1-neuer-strip-kostet-rund-100-euro/",
+          "publishedOn": "2022-09-19T13:25:37.000Z",
+          "wordCount": 2031,
+          "title": "Govee LED Strip Light M1: Neuer Strip kostet rund 100 Euro",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/09/govee-m1-strip_.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1130064",
+          "author": "caschy",
+          "description": "Seit dem 1. Juni gehört auch die Fahrrad-Pannenhilfe zu Service-Angebot des ADAC. Konkret möchte man bei Reifen-, Ketten-, Brems- oder Akkuproblemen weiterhelfen und transportiert bei nicht erfolgreicher Vor-Ort-Reparatur auch in die nächstgelegene Werkstatt. Mittlerweile hat man auch sein App-Angebot aktualisiert,...\nZum Beitrag: ADAC Pannenhilfe: App integriert Fahrrad-Pannenhilfe\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
+          "link": "https://stadt-bremerhaven.de/adac-pannenhilfe-app-integriert-fahrrad-pannenhilfe/",
+          "publishedOn": "2022-09-19T12:00:13.000Z",
+          "wordCount": 2049,
+          "title": "ADAC Pannenhilfe: App integriert Fahrrad-Pannenhilfe",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/05/hv-ankuendigung-fahrradpannenhilfe-2205_kermpn.webp"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1130060",
+          "author": "caschy",
+          "description": "Die erweiterten Rechtschreibprüfungsfunktionen in den Browsern Google Chrome und Microsoft Edge übertragen Formulardaten, einschließlich personenbezogener Daten und in einigen Fällen auch Kennwörter, an Google bzw. Microsoft, so der Bericht der Softwareentwickler von otto-js. Ein großes Problem für Unternehmen ist die...\nZum Beitrag: Erweiterte Rechtschreibprüfung in Chrome und Edge als Datenschutzproblem\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
+          "link": "https://stadt-bremerhaven.de/erweiterte-rechtschreibpruefung-in-chrome-und-edge-als-datenschutzproblem/",
+          "publishedOn": "2022-09-19T11:30:52.000Z",
+          "wordCount": 2252,
+          "title": "Erweiterte Rechtschreibprüfung in Chrome und Edge als Datenschutzproblem",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/09/Bildschirmfoto-2022-09-19-um-13.04.48_.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1130054",
+          "author": "caschy",
+          "description": "Google wird am 6. Oktober neue Hardware vorstellen. Gesetzt sind Pixel 7, Pixel 7 Pro und die Pixel Watch. Weiterhin im Rahmen des Möglichen: neue Nest-WiFi-Router und ein neuer Google Chromecast. Google Pixel 7, Pixel 7 Pro und Pixel Watch...\nZum Beitrag: Google Pixel 7 und Pixel Watch: Liefertermine bekannt\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
+          "link": "https://stadt-bremerhaven.de/google-pixel-7-und-pixel-watch-liefertermine-bekannt/",
+          "publishedOn": "2022-09-19T11:00:47.000Z",
+          "wordCount": 2130,
+          "title": "Google Pixel 7 und Pixel Watch: Liefertermine bekannt",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/05/Google-Pixel-7-Pro.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1130052",
+          "author": "André Westphal",
+          "description": "Gerade erst haben wir die umfangreichen Leaks zu „GTA VI“ hinter uns, da gibt es auch durchgesickertes Material zu einem weiteren Triple-A-Titel: „Diablo IV“. Hier handelt es sich um Gameplay-Videos aus der aktuellen Beta, die ca. 45 Minuten an Gameplay...\nZum Beitrag: „Diablo IV“: Fast 45 Minuten Gameplay sickern durch\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
+          "link": "https://stadt-bremerhaven.de/diablo-iv-fast-45-minuten-gameplay-sickern-durch/",
+          "publishedOn": "2022-09-19T10:30:04.000Z",
+          "wordCount": 1929,
+          "title": "„Diablo IV“: Fast 45 Minuten Gameplay sickern durch",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/06/diablo-4_.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1130040",
+          "author": "André Westphal",
+          "description": "Schlechte Nachrichten für diejenigen, die eine Sony PlayStation VR2 kaufen möchten, aber auch schon eine Spiele-Bibliothek fürs erste Modell angelegt haben: Wollt ihr jene Games weiterhin nutzen, dann solltet ihr auch die erste PlayStation VR weiter griffbereit halten. Denn die...\nZum Beitrag: PlayStation VR2: Keine Abwärtskompatibilität zu Titeln für die erste Generation\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
+          "link": "https://stadt-bremerhaven.de/playstation-vr2-keine-abwaertskompatibilitaet-zu-titeln-fuer-die-erste-generation/",
+          "publishedOn": "2022-09-19T10:00:38.000Z",
+          "wordCount": 2217,
+          "title": "PlayStation VR2: Keine Abwärtskompatibilität zu Titeln für die erste Generation",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/04/PS-Vr-2.jpeg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1130047",
+          "author": "caschy",
+          "description": "Oktober heißt, dass Halloween bald da ist. Der Streaming-Service Disney+ ist dafür schon gut gerüstet. Von Filmen wie „Hocus Pocus“ und „Muppets Haunted Mansion“ über Klassiker wie „Edward mit den Scherenhänden“, „Buffy – Im Bann der Dämonen“ und „The Rocky...\nZum Beitrag: Neu auf Disney+ im Oktober\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
+          "link": "https://stadt-bremerhaven.de/neu-auf-disney-im-oktober/",
+          "publishedOn": "2022-09-19T09:48:51.000Z",
+          "wordCount": 2138,
+          "title": "Neu auf Disney+ im Oktober",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2021/12/disney_logo_nov_2021_rbg_0fa74b54.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1130033",
+          "author": "André Westphal",
+          "description": "Die Europäische Zentralbank (EZB) hat bestätigt, dass man derzeit mit gleich fünf Firmen kooperiere, um potenzielle Benutzeroberflächen für den digitalen Euro zu testen. Zunächst handelt es sich um Prototypen, die man gemeinsam testen möchte. Ziel ist es, herauszufinden, wie gut...\nZum Beitrag: EZB hat fünf Firmen für Tests von Benutzeroberflächen für den digitalen Euro auserkoren\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
+          "link": "https://stadt-bremerhaven.de/ezb-hat-fuenf-firmen-fuer-tests-von-benutzeroberflaechen-fuer-den-digitalen-euro-auserkoren/",
+          "publishedOn": "2022-09-19T09:30:27.000Z",
+          "wordCount": 2146,
+          "title": "EZB hat fünf Firmen für Tests von Benutzeroberflächen für den digitalen Euro auserkoren",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2021/04/EU-Flagge-2021.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1130038",
+          "author": "caschy",
+          "description": "AVM hat mit der FRITZ!Box 6850 5G einen neuen Router in die Labor-Reihe aufgenommen. Besitzer dieses Modells können derzeit FRITZ!OS 7.39 als Beta testen, welches als in naher Zukunft durch die finale Version 7.50 von FRITZ!OS abgelöst werden wird. Besitzer...\nZum Beitrag: FRITZ!Box 6850 5G startet mit der Labor-Version, 6850 LTE mit Update\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
+          "link": "https://stadt-bremerhaven.de/fritzbox-6850-5g-startet-mit-der-labor-version-6850-lte-mit-update/",
+          "publishedOn": "2022-09-19T09:17:15.000Z",
+          "wordCount": 2299,
+          "title": "FRITZ!Box 6850 5G startet mit der Labor-Version, 6850 LTE mit Update",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2020/07/AVM-FRITZBox-6850-LTE.jpg"
+        },
+        {
           "id": "https://stadt-bremerhaven.de/?p=1129617",
           "author": "André Westphal",
           "description": "Jabra hat kürzlich mit den Elite 5 ein neues Kopfhörermodell auf den Markt gebracht. Diese ordnen sich als neue Mittelklasse-Earbuds über den bereits von mir im Blog getesteten Elite 3, aber unter den Elite 7 Pro ein. So fehlen bei den...\nZum Beitrag: Jabra Elite 5 im Test: Ein guter Mittelweg\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
@@ -5004,136 +5194,6 @@
           "wordCount": 2037,
           "title": "Ubiquiti: UniFi Network 7.2 unterstützt Load Balancing und neue Hardware",
           "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2020/05/unifi-logo.jpg"
-        },
-        {
-          "id": "https://stadt-bremerhaven.de/?p=1124882",
-          "author": "Benjamin Mamerow",
-          "description": "Altgeräte ausrangieren – das kennt, glaube ich, jeder von uns. Doch nicht immer wandern diese dann direkt in den Elektroschrott. Wie die Bitkom mit einer neuen Studie darstellt, geben rund 45 % der Unternehmen in Deutschland ihre Altgeräte wie Drucker...\nZum Beitrag: Bitkom-Studie: Elektro-Altgeräte werden von Unternehmen oft an wohltätige Organisationen weitergereicht\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
-          "link": "https://stadt-bremerhaven.de/bitkom-studie-elektro-altgeraete-werden-von-unternehmen-oft-an-wohltaetige-organisationen-weitergereicht/",
-          "publishedOn": "2022-08-21T13:30:35.000Z",
-          "wordCount": 2304,
-          "title": "Bitkom-Studie: Elektro-Altgeräte werden von Unternehmen oft an wohltätige Organisationen weitergereicht",
-          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2018/07/DUH-Elektroaltgeräte.jpg"
-        },
-        {
-          "id": "https://stadt-bremerhaven.de/?p=1124857",
-          "author": "Benjamin Mamerow",
-          "description": "Im Sommerurlaub beruflich weiter erreichbar bleiben? Könnte mir nicht passieren, außer vielleicht für das Blog-Team hier – aber das ist ja quasi ein Teil der Familie. Doch so wie ich scheinen das nicht alle Deutschen zu sehen. Denn wie eine...\nZum Beitrag: Sieben von zehn Erwerbstätigen sind im Sommerurlaub beruflich erreichbar\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
-          "link": "https://stadt-bremerhaven.de/sieben-von-zehn-erwerbstaetigen-sind-laut-bitkom-im-sommerurlaub-beruflich-erreichbar/",
-          "publishedOn": "2022-08-21T12:30:50.000Z",
-          "wordCount": 4076,
-          "title": "Sieben von zehn Erwerbstätigen sind im Sommerurlaub beruflich erreichbar",
-          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/08/logo-bitkom_Blog.jpg"
-        },
-        {
-          "id": "https://stadt-bremerhaven.de/?p=1125313",
-          "author": "André Westphal",
-          "description": "Twitter experimentiert derzeit wieder mit neuen Funktionen, um seine User bei Laune zu halten. So soll deutlicher erkennbar gemacht werden, welche Nutzer „echt“ sind. Dafür testet man derzeit eine neue Kennzeichnung in den Profilen, die Usern verliehen wird, die ihre...\nZum Beitrag: Twitter testet neue Profil-Kennzeichnung für verifizierte Telefonnummern\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
-          "link": "https://stadt-bremerhaven.de/twitter-testet-neue-profil-kennzeichnung-fuer-verifizierte-telefonnummern/",
-          "publishedOn": "2022-08-21T11:30:58.000Z",
-          "wordCount": 1878,
-          "title": "Twitter testet neue Profil-Kennzeichnung für verifizierte Telefonnummern",
-          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/05/Twitter-logo-2022.jpg"
-        },
-        {
-          "id": "https://stadt-bremerhaven.de/?p=1124217",
-          "author": "Felix Frank",
-          "description": "Neben einem Saugroboter geht mir bei der Hausarbeit ein akkubetriebener Staubsauger zur Hand. Die gibt es wie Sand am Meer beispielsweise von eufy, von Jimmy oder auch von Dreame und Tineco. Letztgenannter Hersteller hat mit den Tineco Pure One S15 eine...\nZum Beitrag: Tineco Pure One S15 Pro: Akkusauger mit Automatikmodus im Test\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
-          "link": "https://stadt-bremerhaven.de/tineco-pure-one-s15-pro-akkusauger-mit-automatikmodus-im-test/",
-          "publishedOn": "2022-08-21T10:30:45.000Z",
-          "wordCount": 3026,
-          "title": "Tineco Pure One S15 Pro: Akkusauger mit Automatikmodus im Test",
-          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/08/IMG_3265.jpg"
-        },
-        {
-          "id": "https://stadt-bremerhaven.de/?p=1125308",
-          "author": "André Westphal",
-          "description": "Motorola hat via Twitter bekannt gegeben, dass man am 8. September 2022 neue Edge-Smartphones für den internationalen Markt vorstellen will. Diese sollen dann wohl das Edge (2022) ergänzen. In dem bei Twitter veröffentlichten Videoclip deutet man bereits drei neue mobile...\nZum Beitrag: Motorola Edge: Vorstellung neuer Smartphones am 8. September 2022\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
-          "link": "https://stadt-bremerhaven.de/motorola-edge-vorstellung-neuer-smartphones-am-8-september-2022/",
-          "publishedOn": "2022-08-21T09:00:05.000Z",
-          "wordCount": 2082,
-          "title": "Motorola Edge: Vorstellung neuer Smartphones am 8. September 2022",
-          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/08/Motorola-2022.jpeg"
-        },
-        {
-          "id": "https://stadt-bremerhaven.de/?p=1125007",
-          "author": "caschy",
-          "description": "Kleiner Tipp für alle, die auf dem iPad oder iPhone mit Apples Mail-App unterwegs und zufrieden sind. Mit iOS 16 und iPadOS 16 kann man später Mails auch für den Versand planen. Heute die Mail schreiben und morgen automatisiert absenden?...\nZum Beitrag: iOS 16 und iPadOS 16: Mails später senden\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
-          "link": "https://stadt-bremerhaven.de/ios-16-und-ipados-16-mails-spaeter-senden/",
-          "publishedOn": "2022-08-21T07:30:28.000Z",
-          "wordCount": 2377,
-          "title": "iOS 16 und iPadOS 16: Mails später senden",
-          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/08/IMG_3506_.jpg"
-        },
-        {
-          "id": "https://stadt-bremerhaven.de/?p=1124444",
-          "author": "Olli",
-          "description": "Tools wie Zoom, Microsoft Teams, Cisco WebEx, Google Meet und viele andere mehr stehen seit vielen Jahren Nutzern zur Verfügung, um sich mit anderen virtuell zu treffen. Damit man trotz Webcam auch ein wenig Privatsphäre aufrechterhalten kann, weil man vielleicht...\nZum Beitrag: Google Meet: Hintergrundeffekte werden besser\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
-          "link": "https://stadt-bremerhaven.de/google-meet-hintergrundeffekte-werden-besser/",
-          "publishedOn": "2022-08-21T06:30:04.000Z",
-          "wordCount": 1887,
-          "title": "Google Meet: Hintergrundeffekte werden besser",
-          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2021/04/Google-Meet-April-2021-1.jpg"
-        },
-        {
-          "id": "https://stadt-bremerhaven.de/?p=1125257",
-          "author": "Benjamin Mamerow",
-          "description": "Im Juni hatte Sega in Japan bereits das Mega Drive Mini 2 angekündigt – dieses Mal auch mit Spielen, die für das Add-on Mega CD erschienen sind. Insgesamt sollen 50 Spiele ab Werk vorinstalliert sein. In einer neuen Ankündigung (siehe...\nZum Beitrag: Sega Mega Drive Mini 2 für Europa bestätigt (plus komplette Spieleliste)\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
-          "link": "https://stadt-bremerhaven.de/sega-mega-drive-mini-2-nun-auch-fuer-europa-bestaetigt/",
-          "publishedOn": "2022-08-21T05:30:32.000Z",
-          "wordCount": 2497,
-          "title": "Sega Mega Drive Mini 2 für Europa bestätigt (plus komplette Spieleliste)",
-          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/06/mega-drive-mini-2.webp"
-        },
-        {
-          "id": "https://stadt-bremerhaven.de/?p=1125224",
-          "author": "André Westphal",
-          "description": "Eine weitere Woche ist fast verstrichen und ich hoffe, dass sie euch gefallen hat – auch völlig abseits der Technik-Welt. Solltet ihr für heute noch etwas Unterhaltung suchen: Freitag hatte ich schon darauf aufmerksam gemacht, dass Apple derzeit die erste...\nZum Beitrag: Immer wieder sonntags KW 33\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
-          "link": "https://stadt-bremerhaven.de/immer-wieder-sonntags-kw-33-9/",
-          "publishedOn": "2022-08-21T04:30:00.000Z",
-          "wordCount": 2124,
-          "title": "Immer wieder sonntags KW 33",
-          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/07/Kaffee-Sonntags.jpg"
-        },
-        {
-          "id": "https://stadt-bremerhaven.de/?p=1124876",
-          "author": "Benjamin Mamerow",
-          "description": "Diskette und Faxgerät kennt hier vermutlich (fast) jeder Leser. Doch wie eine neue Bitkom-Studie zeigt, weiß rund die Hälfte von mehr als 900 befragten Kindern und Jugendlichen zwischen 6 und 18 Jahren nichts mehr mit einem Faxgerät anzufangen. Bei den...\nZum Beitrag: Faxgerät? Diskette? Wenige Kinder und Jugendliche kennen sie noch\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
-          "link": "https://stadt-bremerhaven.de/bitkom-faxgeraet-diskette-wenige-kinder-und-jugendliche-kennen-solche-geraete-noch/",
-          "publishedOn": "2022-08-20T19:30:00.000Z",
-          "wordCount": 2616,
-          "title": "Faxgerät? Diskette? Wenige Kinder und Jugendliche kennen sie noch",
-          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/08/fredy-jacob-t0SlmanfFcg-unsplash_Blog.jpg"
-        },
-        {
-          "id": "https://stadt-bremerhaven.de/?p=1124200",
-          "author": "Felix Frank",
-          "description": "Seit ich täglich eine Smartwatch am Handgelenk habe, wird mir meine Zeit am Schreibtisch stärker vor Augen geführt: Die Stehstunden fallen an einem normalen Arbeitstag für mich oftmals nicht sonderlich üppig aus. Das dürfte vielen in den vergangenen Jahren Home-Office...\nZum Beitrag: Flexispot ED5 im Test: Erste „Stehversuche“ am Schreibtisch\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
-          "link": "https://stadt-bremerhaven.de/flexispot-ed5-erste-stehversuche-am-schreibtisch/",
-          "publishedOn": "2022-08-20T18:00:43.000Z",
-          "wordCount": 2994,
-          "title": "Flexispot ED5 im Test: Erste „Stehversuche“ am Schreibtisch",
-          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/08/IMG_2927.jpg"
-        },
-        {
-          "id": "https://stadt-bremerhaven.de/?p=1124702",
-          "author": "André Westphal",
-          "description": "Die Deutsche Kreditwirtschaft hat einige Zahlen zur Nutzung der girocard im ersten Halbjahr 2022 bekannt gegeben. Es habe über drei Milliarden Bezahlvorgänge an mehr als einer Million Bezahlterminals gegeben. Man verzeichne daher erneut ein starkes Plus bei den Transaktions- und...\nZum Beitrag: girocard im ersten Halbjahr 2022: Starke Zunahme der Transaktionen\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
-          "link": "https://stadt-bremerhaven.de/girocard-im-ersten-halbjahr-2022-starke-zunahme-der-transaktionen/",
-          "publishedOn": "2022-08-20T16:30:05.000Z",
-          "wordCount": 2847,
-          "title": "girocard im ersten Halbjahr 2022: Starke Zunahme der Transaktionen",
-          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/02/logo_girocard_mit_rand_rgb_Blog.webp"
-        },
-        {
-          "id": "https://stadt-bremerhaven.de/?p=1124805",
-          "author": "André Westphal",
-          "description": "Alienware, eine Marke von Dell, hat mit den beiden Modellen AW2523HF und AW2723DF zwei neue Gaming-Monitore mit 25 bzw. 27 Zoll Diagonale in petto. Beide setzen auf das sogenannte Legend-2.0-Design mit AlienFX-Beleuchtung. So eine RGB-Beleuchtung darf ja heute bei Gaming-Accessoires...\nZum Beitrag: Alienware AW2523HF und AW2723DF: Zwei neue Gaming-Monitore starten im Herbst 2022\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
-          "link": "https://stadt-bremerhaven.de/alienware-aw2523hf-und-aw2723df-zwei-neue-gaming-monitore-starten-im-herbst-2022/",
-          "publishedOn": "2022-08-20T15:00:41.000Z",
-          "wordCount": 2041,
-          "title": "Alienware AW2523HF und AW2723DF: Zwei neue Gaming-Monitore starten im Herbst 2022",
-          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/08/aw2723df-alienware.jpg"
         }
       ]
     },
@@ -5142,6 +5202,76 @@
       "feedUrl": "https://www.computerbase.de/rss/news.xml",
       "siteUrl": "https://www.computerbase.de/",
       "articles": [
+        {
+          "id": "https://www.computerbase.de/2022-09/tokyo-game-show-nextorage-zeigt-pcie-5-0-ssd-mit-10-gb-s-und-riesenkuehler/",
+          "author": null,
+          "description": "<img src=\"https://pics.computerbase.de/1/0/5/0/5/9-736fae0e8378de27/article-640x360.860880a0.jpg\"><p>Das japanische Unternehmen Nextorage, das inzwischen vollständig dem taiwanischen SSD-Controller-Hersteller Phison gehört, hat im Rahmen der Tokyo Game Show 2022 einen Ausblick auf seine bisher schnellste SSD gegeben. Das „Flaggschiff“ nutzt PCIe 5.0 für bis zu 10.000 MB/s. Der angedachte Kühler ist ein Riese.</p>",
+          "link": "https://www.computerbase.de/2022-09/tokyo-game-show-nextorage-zeigt-pcie-5-0-ssd-mit-10-gb-s-und-riesenkuehler/",
+          "publishedOn": "2022-09-19T15:58:00.000Z",
+          "wordCount": 1175,
+          "title": "Tokyo Game Show: Nextorage zeigt PCIe-5.0-SSD mit 10 GB/s und Riesenkühler",
+          "imageUrl": "https://pics.computerbase.de/1/0/5/0/5/9-736fae0e8378de27/article-1280x720.860880a0.jpg"
+        },
+        {
+          "id": "https://www.computerbase.de/2022-09/diablo-iv-gameplay-videos-leak/",
+          "author": null,
+          "description": "<img src=\"https://pics.computerbase.de/1/0/5/0/6/0-f6f33353c5d0edd3/article-640x360.a9581bbf.jpg\"><p>Nachdem ein Hacker für einen der größten Leaks der Videospiel­geschichte gesorgt und diverse Videos in Umlauf gebracht hat, die Szenen aus einer noch frühen Fassung des kommenden GTA 6 zeigen sollen, hat jetzt auch Blizzard mit einer unautorisierten Vorabveröffentlichung zu kämpfen. Die Videos zeigen Gameplay aus Diablo IV.</p>",
+          "link": "https://www.computerbase.de/2022-09/diablo-iv-gameplay-videos-leak/",
+          "publishedOn": "2022-09-19T12:33:00.000Z",
+          "wordCount": 814,
+          "title": "Diablo IV Leak: Videos zeigen Gameplay der geschlossenen Beta-Version",
+          "imageUrl": "https://pics.computerbase.de/1/0/5/0/6/0-f6f33353c5d0edd3/article-1280x720.a9581bbf.jpg"
+        },
+        {
+          "id": "https://www.computerbase.de/2022-09/msi-core-i-13000-raptor-lake-mainboards-release/",
+          "author": null,
+          "description": "<img src=\"https://pics.computerbase.de/1/0/5/0/5/8-cd70e1295428d174/article-640x360.534fa5fe.jpg\"><p>MSI stellt seine neuen Hauptplatinen mit Z790-Chipsatz für Intels kommende hybride Desktop-Prozessoren aus der neuen Core-i-13000-Serie („Intel Raptor Lake“) am 27. September im Rahmen eines Livestreams vor. Der Teaser auf Twitter zeigt sehr wahrscheinlich erste Modelle der MPG- und Pro-Serie des Herstellers.</p>",
+          "link": "https://www.computerbase.de/2022-09/msi-core-i-13000-raptor-lake-mainboards-release/",
+          "publishedOn": "2022-09-19T11:23:00.000Z",
+          "wordCount": 857,
+          "title": "Core i-13000 „Raptor Lake“: MSI präsentiert Mainboards am 27. September [Notiz]",
+          "imageUrl": "https://pics.computerbase.de/1/0/5/0/5/8-cd70e1295428d174/article-1280x720.534fa5fe.jpg"
+        },
+        {
+          "id": "https://www.computerbase.de/2022-09/endeavouros-artemis-neo-im-detail-bericht/",
+          "author": null,
+          "description": "<img src=\"https://pics.computerbase.de/1/0/4/9/7/9-a6c60704a000d8ff/article-640x360.ea2dd641.jpg\"><p>Die niederländische Linux-Distribution EndeavourOS trat im Juli 2019 in große Fußstapfen und wollte das geistige Erbe von Antergos antreten. Dieses Vorhaben ist durchaus als gelungen zu bezeichnen – und zwar sowohl für x86-Computer als auch für Arm64-Systeme. Der Geist aus Galicien formt für viele die derzeit beste Distribution.</p>",
+          "link": "https://www.computerbase.de/2022-09/endeavouros-artemis-neo-im-detail-bericht/",
+          "publishedOn": "2022-09-19T10:00:00.000Z",
+          "wordCount": 1635,
+          "title": "EndeavourOS im Porträt: Der Geist von Antergos formt für viele die beste Distribution",
+          "imageUrl": "https://pics.computerbase.de/1/0/4/9/7/9-a6c60704a000d8ff/article-1280x720.ea2dd641.jpg"
+        },
+        {
+          "id": "https://www.computerbase.de/2022-09/asus-vivo-pn53-amd-ryzen-6000-mini-pc-systeme/",
+          "author": null,
+          "description": "<img src=\"https://pics.computerbase.de/1/0/5/0/5/5-a7726d914f063ba8/article-640x360.dd259baa.jpg\"><p>Der Mini-PC Asus Vivo PN53 auf Basis von AMD Ryzen 6000 („Rembrandt“) mit Zen 3+ und RDNA 2 wird in direkte Konkurrenz zu Intels NUC treten und sowohl als vollwertiges PC-System mit Haupt- und Festspeicher sowie als aufrüstbarer Barebone angeboten werden. Los geht es ab rund 660 Euro für einen Barebone mit AMD Ryzen 5 6600H.</p>",
+          "link": "https://www.computerbase.de/2022-09/asus-vivo-pn53-amd-ryzen-6000-mini-pc-systeme/",
+          "publishedOn": "2022-09-19T09:15:00.000Z",
+          "wordCount": 1119,
+          "title": "Asus Vivo PN53 mit Ryzen 6000: Mini-PCs mit Zen 3+ und RDNA 2 als Konkurrenz zu Intels NUC",
+          "imageUrl": "https://pics.computerbase.de/1/0/5/0/5/5-a7726d914f063ba8/article-1280x720.dd259baa.jpg"
+        },
+        {
+          "id": "https://www.computerbase.de/2022-09/emergency-sos-apple-entwickelt-eigene-rf-komponenten-fuer-iphone-14/",
+          "author": null,
+          "description": "<img src=\"https://pics.computerbase.de/1/0/5/0/5/6-e386503ab87098aa/article-640x360.45f1f91c.jpg\"><p>Nach der Übernahme von Intels Modem-Sparte durch Apple finden sich im iPhone 14 und iPhone 14 Pro mehrere eigens entwickelte RF-Komponenten. Dazu gehört proprietäre Hard- und Software für die neue Satelliten-Kommunikation. Als neues Modem kommt das Snapdragon X65 zum Einsatz, das im S-Band n53 für die Verbindung zuständig ist.</p>",
+          "link": "https://www.computerbase.de/2022-09/emergency-sos-apple-entwickelt-eigene-rf-komponenten-fuer-iphone-14/",
+          "publishedOn": "2022-09-19T08:52:00.000Z",
+          "wordCount": 1036,
+          "title": "Emergency SOS: Apple entwickelt eigene RF-Komponenten für iPhone 14",
+          "imageUrl": "https://pics.computerbase.de/1/0/5/0/5/6-e386503ab87098aa/article-1280x720.45f1f91c.jpg"
+        },
+        {
+          "id": "https://www.computerbase.de/2022-09/asus-rog-phone-6d-ultimate-gaming-smartphone-kommt-auch-mit-dimensity-9000-plus/",
+          "author": null,
+          "description": "<img src=\"https://pics.computerbase.de/1/0/4/7/5/4-ed0c7d6ee3a67d5d/article-640x360.305b5fae.jpg\"><p>Asus bietet das aktuelle Gaming-Smartphone jetzt auch als ROG Phone 6D respektive ROG Phone 6D Ultimate an und setzt in diesen Geräten auf den MediaTek Dimensity 9000+ anstelle des Qualcomm Snapdragon 8+ Gen 1. Neu für das Smartphone ist außerdem ein Lüftungsschacht für den aktiven Kühler, der als Zubehör angeboten wird.</p>",
+          "link": "https://www.computerbase.de/2022-09/asus-rog-phone-6d-ultimate-gaming-smartphone-kommt-auch-mit-dimensity-9000-plus/",
+          "publishedOn": "2022-09-19T06:12:00.000Z",
+          "wordCount": 1595,
+          "title": "Asus ROG Phone 6D (Ultimate): Gaming-Smartphone kommt auch mit Dimensity 9000+",
+          "imageUrl": "https://pics.computerbase.de/1/0/4/7/5/4-ed0c7d6ee3a67d5d/article-1280x720.305b5fae.jpg"
+        },
         {
           "id": "https://www.computerbase.de/2022-09/gta6-einer-der-groessten-leaks-in-der-videospielgeschichte/",
           "author": null,
@@ -7931,46 +8061,6 @@
           "wordCount": 1224,
           "title": "Open Source und Freeware: Paint.NET, Open-Shell und Sandboxie erhalten Updates",
           "imageUrl": "https://pics.computerbase.de/1/0/4/6/9/0-995029d52b1a6d19/article-1280x720.8282d86d.jpg"
-        },
-        {
-          "id": "https://www.computerbase.de/2022-08/intel-arc-alchemist-questions-and-answers/",
-          "author": null,
-          "description": "<img src=\"https://pics.computerbase.de/1/0/4/6/8/9-2737294e21191c68/article-640x360.4d313777.jpg\"><p>Im Rahmen einer offenen Fragerunde hat sich Intel auf seinem Gaming-Blog durch Lisa Pearce, Vize-Präsidentin und General Managerin der Visual Compute Group, zu der aktuellen Situation der vielerorts kritisierten Arc-Grafikkarten auf Basis der ersten Generation Xe HPG („Alchemist“) und deren Treiber und Features geäußert.</p>",
-          "link": "https://www.computerbase.de/2022-08/intel-arc-alchemist-questions-and-answers/",
-          "publishedOn": "2022-08-21T12:41:00.000Z",
-          "wordCount": 1144,
-          "title": "Arc („Alchemist“): Intel äußert sich zum Treiber, DirectX und Resizable BAR",
-          "imageUrl": "https://pics.computerbase.de/1/0/4/6/8/9-2737294e21191c68/article-1280x720.4d313777.jpg"
-        },
-        {
-          "id": "https://www.computerbase.de/2022-08/microsoft-xbox-series-x-sony-playstation-5-umfrage/",
-          "author": null,
-          "description": "<img src=\"https://pics.computerbase.de/1/0/4/6/8/8-9df30eb35f74ecd5/article-640x360.dba5710e.jpg\"><p>Im Rahmen der aktuellen Sonntagsfrage möchte die Redaktion diesmal unter anderem von euch wissen: Microsofts Xbox Series X (Test) oder Sonys PlayStation 5 (Test), welche der beiden aktuellen Zen-2-RDNA-2-Spielkonsolen überzeugt euch mehr und habt ihr bereits eine der beiden erworben? Oder spielt ihr ausschließlich am Computer?</p>",
-          "link": "https://www.computerbase.de/2022-08/microsoft-xbox-series-x-sony-playstation-5-umfrage/",
-          "publishedOn": "2022-08-21T12:30:00.000Z",
-          "wordCount": 1486,
-          "title": "Duell der Spielkonsolen: Microsoft Xbox Series X oder doch die Sony PlayStation 5?",
-          "imageUrl": "https://pics.computerbase.de/1/0/4/6/8/8-9df30eb35f74ecd5/article-1280x720.dba5710e.jpg"
-        },
-        {
-          "id": "https://www.computerbase.de/2022-08/microsoft-outlook-for-windows-10-11/",
-          "author": null,
-          "description": "<img src=\"https://pics.computerbase.de/1/0/4/6/8/7-4e05d3ee3304767b/article-640x360.845bb64a.jpg\"><p>Outlook für Windows ist Microsofts neuer E-Mail-Client, dessen Release in Form einer Webanwendung, einer sogenannten Web-App, für die Betriebssysteme Windows 11 und Windows 10 langsam aber sicher näher rückt. Dafür weichen müssen die Built-in-Apps Mail und Kalender, die zukünftig von der Kopie von Outlook Web ersetzt werden.</p>",
-          "link": "https://www.computerbase.de/2022-08/microsoft-outlook-for-windows-10-11/",
-          "publishedOn": "2022-08-21T11:30:00.000Z",
-          "wordCount": 1025,
-          "title": "Outlook für Windows: Microsofts neuer Client ist eine Web-App und rückt näher",
-          "imageUrl": "https://pics.computerbase.de/1/0/4/6/8/7-4e05d3ee3304767b/article-1280x720.845bb64a.jpg"
-        },
-        {
-          "id": "https://www.computerbase.de/2022-08/wochenrueckblick-und-ausblick-2022-w33/",
-          "author": null,
-          "description": "<img src=\"https://pics.computerbase.de/1/0/4/6/7/8-e9e55120fc9727d5/article-640x360.abc73be8.jpg\"><p>Im wöchentlichen Rückblick auf die vergangenen sieben Tage steht heute die 33. Woche 2022 im Fokus. Es sind 50 News/Notizen und 8 Tests/Berichte erschienen, dabei übernimmt Apple mit den Sicherheitslücken in aktuellen Geräten die Führung im Bereich News, Samsung hingegen bei den Tests.</p>",
-          "link": "https://www.computerbase.de/2022-08/wochenrueckblick-und-ausblick-2022-w33/",
-          "publishedOn": "2022-08-21T06:00:00.000Z",
-          "wordCount": 1181,
-          "title": "Wochenrück- und Ausblick: Apples Sicherheitslücken und Samsungs letztes seiner Art",
-          "imageUrl": "https://pics.computerbase.de/1/0/4/6/7/8-e9e55120fc9727d5/article-1280x720.abc73be8.jpg"
         }
       ]
     },
@@ -7979,6 +8069,46 @@
       "feedUrl": "https://www.ghacks.net/feed/",
       "siteUrl": "https://www.ghacks.net",
       "articles": [
+        {
+          "id": "https://www.ghacks.net/?p=180833",
+          "author": "Ashwin",
+          "description": "Telegram has rolled out an update for its apps on Desktop, Android and iOS that increases the number of free animated reactions. It also introduces a new way to share profile links, […]\nThank you for being a Ghacks reader. The post Telegram adds more free reactions for users, new username links and more appeared first on gHacks Technology News.",
+          "link": "https://www.ghacks.net/2022/09/19/telegram-adds-more-free-reactions-for-users-new-username-links-and-more/",
+          "publishedOn": "2022-09-19T16:24:15.000Z",
+          "wordCount": 3090,
+          "title": "Telegram adds more free reactions for users, new username links and more",
+          "imageUrl": "https://www.ghacks.net/wp-content/uploads/2022/09/Telegram-adds-more-free-reactions-for-users-new-username-links-and-more.jpg"
+        },
+        {
+          "id": "https://www.ghacks.net/?p=180828",
+          "author": "Martin Brinkmann",
+          "description": "Android users who run Google Chrome on their devices may have noticed an improvement in the startup time of the browser. Thanks to a new feature that Google calls Freeze Dried Tabs, […]\nThank you for being a Ghacks reader. The post Freeze Dried Tabs improve Chrome's startup by 20% on Android appeared first on gHacks Technology News.",
+          "link": "https://www.ghacks.net/2022/09/19/freeze-dried-tabs-improve-chromes-startup-by-20-on-android/",
+          "publishedOn": "2022-09-19T09:26:44.000Z",
+          "wordCount": 2528,
+          "title": "Freeze Dried Tabs improve Chrome's startup by 20% on Android",
+          "imageUrl": "https://www.ghacks.net/wp-content/uploads/2022/09/chrome-freeze-dried-tabs-1.png"
+        },
+        {
+          "id": "https://www.ghacks.net/?p=180795",
+          "author": "Sponsored Content",
+          "description": "The expanding gaming market has its pros and cons. On the one hand, it brings you a variety of opportunities to choose from. On the other hand, it is a matter of […]\nThank you for being a Ghacks reader. The post A market player you may not know about yet – meet Razer Gold appeared first on gHacks Technology News.",
+          "link": "https://www.ghacks.net/2022/09/19/market-player-you-may-not-know-razer-gold/",
+          "publishedOn": "2022-09-19T07:00:32.000Z",
+          "wordCount": 2311,
+          "title": "A market player you may not know about yet – meet Razer Gold",
+          "imageUrl": "https://www.ghacks.net/wp-content/uploads/2022/09/Eneba-Cover-09-2022-scaled.jpg"
+        },
+        {
+          "id": "https://www.ghacks.net/?p=180824",
+          "author": "Martin Brinkmann",
+          "description": "Google Chrome and Microsoft Edge include options to improve the basic spellchecking functionality of the web browser. Chrome's Enhanced Spellcheck and Microsoft Edge's Microsoft Editor are designed to improve spellchecking further, but […]\nThank you for being a Ghacks reader. The post Don't use Chrome's and Edge's Enhanced Spellcheck features appeared first on gHacks Technology News.",
+          "link": "https://www.ghacks.net/2022/09/19/dont-use-chromes-and-edges-enhanced-spellcheck-features/",
+          "publishedOn": "2022-09-19T06:54:11.000Z",
+          "wordCount": 5186,
+          "title": "Don't use Chrome's and Edge's Enhanced Spellcheck features",
+          "imageUrl": "https://www.ghacks.net/wp-content/uploads/2022/09/chrome-enhanced-spell-check.png"
+        },
         {
           "id": "https://www.ghacks.net/?p=180821",
           "author": "Martin Brinkmann",
@@ -8918,43 +9048,13 @@
           "wordCount": 2533,
           "title": "Is it worth purchasing a Steam gift card?",
           "imageUrl": "https://www.ghacks.net/wp-content/uploads/2022/08/Eneba-Steam-scaled.jpg"
-        },
-        {
-          "id": "https://www.ghacks.net/?p=180345",
-          "author": "Martin Brinkmann",
-          "description": "In the second part of the series, we are going to take a look at taskbar changes and improvements in Windows 11 version 22H2. Just like Microsoft did reduce Start Menu functionality […]\nThank you for being a Ghacks reader. The post Windows 11 version 22H2: taskbar changes appeared first on gHacks Technology News.",
-          "link": "https://www.ghacks.net/2022/08/21/windows-11-version-22h2-taskbar-changes/",
-          "publishedOn": "2022-08-21T12:27:35.000Z",
-          "wordCount": 3352,
-          "title": "Windows 11 version 22H2: taskbar changes",
-          "imageUrl": "https://www.ghacks.net/wp-content/uploads/2022/08/windows-11-desktop-with-taskbar.png"
-        },
-        {
-          "id": "https://www.ghacks.net/?p=180337",
-          "author": "Martin Brinkmann",
-          "description": "AppResourcesUsageView is a new free application by one of our favorite developers NirSoft. The application displays a wealth of information on application usage on Windows devices, including their face time, and bytes […]\nThank you for being a Ghacks reader. The post Find out which Windows program you used the most with free AppResourcesUsageView appeared first on gHacks Technology News.",
-          "link": "https://www.ghacks.net/2022/08/21/wonder-which-windows-programs-you-used-the-most-free-appresourcesusageview-tells-you/",
-          "publishedOn": "2022-08-21T08:03:18.000Z",
-          "wordCount": 2601,
-          "title": "Find out which Windows program you used the most with free AppResourcesUsageView",
-          "imageUrl": "https://www.ghacks.net/wp-content/uploads/2022/08/windows-apps-resource-information.png"
-        },
-        {
-          "id": "https://www.ghacks.net/?p=180331",
-          "author": "Martin Brinkmann",
-          "description": "PeaZip 8.8.0 is a new version of the cross-platform open source file archiver. The new version introduces archive testing capabilities, support for propagating Zone.Identifier stream data on Windows, and more user interface […]\nThank you for being a Ghacks reader. The post File Archiver PeaZip 8.8.0 released with archive testing support and more appeared first on gHacks Technology News.",
-          "link": "https://www.ghacks.net/2022/08/20/file-archiver-peazip-8-8-0-released-with-archive-testing-support-and-more/",
-          "publishedOn": "2022-08-20T15:39:37.000Z",
-          "wordCount": 2771,
-          "title": "File Archiver PeaZip 8.8.0 released with archive testing support and more",
-          "imageUrl": "https://www.ghacks.net/wp-content/uploads/2022/08/peazip-tuxedo-theme.png"
         }
       ]
     },
     {
-      "title": "Deutschlandfunk - Fortlaufende Nachrichten vom 19. September 2022",
+      "title": "Deutschlandfunk - Fortlaufende Nachrichten vom 20. September 2022",
       "feedUrl": "https://www.deutschlandfunk.de/nachrichten-100.rss",
-      "siteUrl": "https://www.deutschlandfunk.de/nachrichten-index-25486.html",
+      "siteUrl": "https://www.deutschlandfunk.de/nachrichten-index-25494.html",
       "articles": []
     }
   ],
