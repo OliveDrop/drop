@@ -2,10 +2,495 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://olivedrop.github.io/drop/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-20T02:30:25.028Z</updated>
+    <updated>2022-09-21T02:41:51.229Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://olivedrop.github.io/drop/index.html"/>
     <link rel="self" href="https://olivedrop.github.io/drop/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ada Lovelace: Nvidia DLSS 3 soll bis zu 4× mehr FPS als nativ liefern]]></title>
+        <id>https://www.computerbase.de/2022-09/ada-lovelace-nvidia-dlss-3-soll-bis-zu-4x-mehr-fps-als-nativ-liefern/</id>
+        <link href="https://www.computerbase.de/2022-09/ada-lovelace-nvidia-dlss-3-soll-bis-zu-4x-mehr-fps-als-nativ-liefern/"/>
+        <updated>2022-09-20T18:13:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/0/7/8-68b0d37b4815c04d/article-640x360.c586b432.jpg"><p>Nvidia hat die Next-Gen-Grafikkarten GeForce RTX 4090 sowie GeForce RTX 4080 mit 12 und 16 GB VRAM auf Basis der neuen Architektur Ada Lovelace vorgestellt. Wenig verwunderlich macht auch die eigene Upsampling-Technik DLSS einen Schritt nach vorne. DLSS 3 soll vor allem mehr FPS als DLSS 2 liefern. Doch RTX 40 ist Pflicht.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows 11 2022 Update is out]]></title>
+        <id>https://www.ghacks.net/?p=180856</id>
+        <link href="https://www.ghacks.net/2022/09/20/windows-11-2022-update-is-out/"/>
+        <updated>2022-09-20T17:41:14.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft announced just a moment ago that the first feature update for Windows 11, the Windows 11 2022 Update, is rolling out to users from all over the world. Panos Panay, EVP, […]
+Thank you for being a Ghacks reader. The post Windows 11 2022 Update is out appeared first on gHacks Technology News.]]></summary>
+        <author>
+            <name>Martin Brinkmann</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Store: Pilotprogramm für Werbung startet]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1130349</id>
+        <link href="https://stadt-bremerhaven.de/microsoft-store-pilotprogramm-fuer-werbung-startet/"/>
+        <updated>2022-09-20T17:29:16.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft hat das Windows 11 2022 Update veröffentlicht und auch die Android-Apps sind unter Windows bald direkt nutzbar. Noch etwas? Ja, der Microsoft Store bekommt Werbung für Apps. Auf der Microsoft Build hat man die Microsoft Store Ads angekündigt, ein...
+Zum Beitrag: Microsoft Store: Pilotprogramm für Werbung startet
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iOS 16.1 – Zweite Entwickler-Beta erschienen]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1129977</id>
+        <link href="https://stadt-bremerhaven.de/ios-16-1-zweite-entwickler-beta-erschienen/"/>
+        <updated>2022-09-20T17:19:12.000Z</updated>
+        <summary type="html"><![CDATA[Apple hat das iPhone 14 Pro und 14 seit dem 16. September ins Rennen geschickt und hat kurz davor bereits iOS 16 an iPhones ausgeliefert. iPadOS ist bisher noch nicht aktualisiert worden, die Tablets werden erst mit 16.1 aktualisiert werden,...
+Zum Beitrag: iOS 16.1 – Zweite Entwickler-Beta erschienen
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>Olli</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows: Zugriff auf Android-Apps auch für deutsche Nutzer]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1130343</id>
+        <link href="https://stadt-bremerhaven.de/windows-zugriff-auf-android-apps-auch-fuer-deutsche-nutzer/"/>
+        <updated>2022-09-20T17:15:32.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft hat das Windows 11 2022 Update veröffentlicht – da stecken viele Neuerungen drin. Auch unter der Haube tut sich einiges, denn die Integration von Android-Apps wird nun auch offiziell in Deutschland starten, bislang war dies nur über Workarounds möglich....
+Zum Beitrag: Windows: Zugriff auf Android-Apps auch für deutsche Nutzer
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nvidia RTX Remix: Portal und Morrowind erstrahlen in neuem Glanz]]></title>
+        <id>https://www.computerbase.de/2022-09/nvidia-rtx-remix-portal-und-morrowind-erstrahlen-im-neuen-glanz/</id>
+        <link href="https://www.computerbase.de/2022-09/nvidia-rtx-remix-portal-und-morrowind-erstrahlen-im-neuen-glanz/"/>
+        <updated>2022-09-20T17:04:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/0/7/7-57358a8f16ef79f9/article-640x360.2aaa098f.jpg"><p>Mit RTX Remix bietet Nvidia im Rahmen des Omniverse-Programms ein neues Tool an, mit dem alte Spiele dank AI und Deep Learning mit „RTX“-Grafik aufgepeppt werden können. Zur GTC 2022 wurden auf diese Weise modifizierte Versionen der Klassiker Portal und Morrowind demonstriert.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows 11 2022 Update: Erster Feature Drop auf „22H2“ jetzt offiziell zum Download]]></title>
+        <id>https://www.computerbase.de/2022-09/windows-11-2022-update-final-release/</id>
+        <link href="https://www.computerbase.de/2022-09/windows-11-2022-update-final-release/"/>
+        <updated>2022-09-20T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/0/6/4-304eb915ff57e2bf/article-640x360.d8711c0d.jpg"><p>Nach einer Vorschau im Release Preview Channel und mehreren Insider Preview Builds hat Microsoft das Windows 11 2022 Update („22H2“) jetzt offiziell veröffentlicht. Windows 11 soll auch in der neuesten Version Kreative, Spieler und Menschen ansprechen, die sich verbinden wollen. Tabs im Explorer gibt es aber dennoch erst später.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows 11 2022 Update veröffentlicht: Das steckt drin]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1129715</id>
+        <link href="https://stadt-bremerhaven.de/windows-11-2022-update-das-steckt-drin/"/>
+        <updated>2022-09-20T16:59:07.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft hat Windows 11 bereits einige neue Features spendiert. Mit dem Windows 11 2022 Update steht eine ganze Palette an Neuerungen ins Haus. Besagtes Update rollt Microsoft heute in über 190 Ländern aus. Im Fokus des Updates: Produktivität, einfachere Bedienung...
+Zum Beitrag: Windows 11 2022 Update veröffentlicht: Das steckt drin
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>Felix Frank</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GeForce RTX 4090 & RTX 4080: Ada Lovelace startet für 1.099 bis 1.949 Euro ab Oktober (Update)]]></title>
+        <id>https://www.computerbase.de/2022-09/geforce-rtx-4090-und-rtx-4080-ada-lovelace-fuer-899-dollar-bis-1-599-dollar-im-oktober-und-november/</id>
+        <link href="https://www.computerbase.de/2022-09/geforce-rtx-4090-und-rtx-4080-ada-lovelace-fuer-899-dollar-bis-1-599-dollar-im-oktober-und-november/"/>
+        <updated>2022-09-20T16:45:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/0/7/2-4f26d4143c6946b1/article-640x360.a0659e38.jpg"><p>Nvidia hat mit der GeForce RTX 4090 sowie zwei Varianten der RTX 4080 die ersten drei Spieler-Grafikkarten der Ada-Lovelace-Generation vorgestellt. Und auch wenn eigene Erfahrungen noch fehlen, alleine Nvidias Angaben sind beeindruckend und deuten auf massive Leistungssteigerungen gegenüber der Vorgänger-Generation Ampere hin.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Tasks: Neue Funktionen kommen]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1130331</id>
+        <link href="https://stadt-bremerhaven.de/google-tasks-neue-funktionen-kommen/"/>
+        <updated>2022-09-20T16:17:24.000Z</updated>
+        <summary type="html"><![CDATA[Friert die Hölle zu und Google bekommt sein Notiz- und Aufgaben-Kuddelmuddel in den Griff? Zumindest versucht man es wieder. In Kürze wird man die Aufgabenverwaltungslösungen vereinfachen, indem man Assistant- und Kalender-Erinnerungen zu Google Tasks migriert. Das bedeutet, dass Nutzer nun...
+Zum Beitrag: Google Tasks: Neue Funktionen kommen
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sky überträgt Borussia Dortmund gegen FC Bayern München am 8. Oktober in spezieller Kids-Version]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1130296</id>
+        <link href="https://stadt-bremerhaven.de/sky-uebertraegt-borussia-dortmund-gegen-fc-bayern-muenchen-am-8-oktober-in-spezieller-kids-version/"/>
+        <updated>2022-09-20T16:00:38.000Z</updated>
+        <summary type="html"><![CDATA[Sky Deutschland will am 8. Oktober 2022 das Spiel Borussia Dortmund gegen FC Bayern München auch in einer speziellen Übertragung für Kinder zeigen. „Sky Next Generation“ tauft man die spezielle Live-Produktion, die in enger Zusammenarbeit mit der DFL entstehen soll....
+Zum Beitrag: Sky überträgt Borussia Dortmund gegen FC Bayern München am 8. Oktober in spezieller Kids-Version
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nvidia Drive Thor: 2.000-TFLOPS-SoC ersetzt Atlan für autonomes Fahren]]></title>
+        <id>https://www.computerbase.de/2022-09/nvidia-drive-thor-2-000-tflops-soc-ersetzt-atlan-fuer-autonomes-fahren/</id>
+        <link href="https://www.computerbase.de/2022-09/nvidia-drive-thor-2-000-tflops-soc-ersetzt-atlan-fuer-autonomes-fahren/"/>
+        <updated>2022-09-20T15:55:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/9/2/6-948ed8be7b310dfe/article-640x360.c2a679ff.jpg"><p>Die vor anderthalb Jahren vorgestellte Plattform Drive Atlan ist schon wieder Geschichte bei Nvidia und wird durch Drive Thor mit einer Leistung von 2.000 TFLOPS ersetzt. Sie soll mit 2025 aber im selben Jahr einsatzbereit sein. Thor ist ein Zentralcomputer mit Funktionen für autonomes Fahren, Monitoring, Infotainment und mehr.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Philips Hue: Update bringt neue Mimic-Präsenzautomation]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1130321</id>
+        <link href="https://stadt-bremerhaven.de/philips-hue-update-bringt-neue-mimic-praesenzautomation/"/>
+        <updated>2022-09-20T15:38:36.000Z</updated>
+        <summary type="html"><![CDATA[Fans von Automationen können einmal in den App Store spazieren und ein Update für die Philips-Hue-App durchführen. Da sollte dann auch eine neue Funktion auf euch warten, die auf den Namen Mimic-Präsenzautomation hört. Was die kann? Nun ja, diese Automatisierung...
+Zum Beitrag: Philips Hue: Update bringt neue Mimic-Präsenzautomation
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spotify startet Verkauf von Audiobüchern]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1130310</id>
+        <link href="https://stadt-bremerhaven.de/spotify-startet-verkauf-von-audiobuechern/"/>
+        <updated>2022-09-20T15:12:18.000Z</updated>
+        <summary type="html"><![CDATA[Der Musikstreamingdienst Spotify verkauft nun auch Audiobücher. Bislang können aber erst einmal nur Kunden in den USA zugreifen. Ebenso hat man eine neue Benutzeroberfläche eingeführt, die auf das Hören von Hörbüchern ausgelegt ist. Ab heute können Nutzer in den USA...
+Zum Beitrag: Spotify startet Verkauf von Audiobüchern
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon stellt neue Hardware vor, Termin für das Event steht]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1130308</id>
+        <link href="https://stadt-bremerhaven.de/amazon-stellt-neue-hardware-vor-termin-fuer-das-event-steht/"/>
+        <updated>2022-09-20T14:51:00.000Z</updated>
+        <summary type="html"><![CDATA[Amazon wird neue Hardware vorstellen. Das Unternehmen hat einen Termin gefunden und Journalisten eingeladen. Sicherlich wird man einiges zu zeigen haben, letztens erst konnten wir von einem neuen Echo Studio berichten. Ich weiß allerdings auch, dass Amazon mehr in petto...
+Zum Beitrag: Amazon stellt neue Hardware vor, Termin für das Event steht
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[figr: Taschenrechner mit Notepad-Funktion für Windows und macOS]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1130275</id>
+        <link href="https://stadt-bremerhaven.de/figr-taschenrechner-mit-notepad-funktion-fuer-windows-und-macos/"/>
+        <updated>2022-09-20T14:30:19.000Z</updated>
+        <summary type="html"><![CDATA[Der kleine Werkzeug-Tipp für Windows- und Mac-Nutzer, die sich einen Taschenrechner mit Notepad-Funktionen wünschen. Vielleicht kennt ihr ja Apps wie Numi oder Soulver – in die ähnliche Kerbe schlägt die kostenlose App figr. figr kann umrechnen, rechnen, wissenschaftliche Berechnungen durchführen...
+Zum Beitrag: figr: Taschenrechner mit Notepad-Funktion für Windows und macOS
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Xbox Game Pass: Diese Spiele stoßen bald hinzu]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1130282</id>
+        <link href="https://stadt-bremerhaven.de/xbox-game-pass-diese-spiele-stossen-bald-hinzu-2/"/>
+        <updated>2022-09-20T14:00:06.000Z</updated>
+        <summary type="html"><![CDATA[Olli hatte schon einige Neuzugänge, die ihr ab sofort im Xbox Game Pass vorfindet, hier im Blog vorgestellt – etwa „Deathloop“. Solltet ihr Lust auf diesen Shooter von Arkane haben, dann könnt ihr ab heute loslegen. Es kommen aber noch...
+Zum Beitrag: Xbox Game Pass: Diese Spiele stoßen bald hinzu
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Radeon RX 7000: Kurz vor GeForce RTX 4000 nennt AMD den RDNA-3-Termin]]></title>
+        <id>https://www.computerbase.de/2022-09/radeon-rx-7000-kurz-vor-geforce-rtx-4000-nennt-amd-den-rdna-3-termin/</id>
+        <link href="https://www.computerbase.de/2022-09/radeon-rx-7000-kurz-vor-geforce-rtx-4000-nennt-amd-den-rdna-3-termin/"/>
+        <updated>2022-09-20T13:43:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/0/7/5-6c7a0efbf4c5afb2/article-640x360.823b9b0e.jpg"><p>AMD wird die RDNA-3-Architektur, die aller Voraussicht nach Grafikkarten der Serie Radeon RX 7000 hervorbringen wird, am 3. November veröffentlichen. Das hat Scott Herkelman, bei AMD verantwortlich für Radeon, auf Twitter bekanntgegeben – zwei Stunden bevor Nvidia CEO Jensen Huang GeForce RTX 4000 präsentieren wird.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[STRATO HiDrive: Preise werden angepasst]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1130285</id>
+        <link href="https://stadt-bremerhaven.de/strato-hidrive-preise-werden-angepasst/"/>
+        <updated>2022-09-20T13:30:53.000Z</updated>
+        <summary type="html"><![CDATA[Mit einer neuen Tarifstruktur möchte STRATO den Cloud-Speicher HiDrive besonders für jüngere Zielgruppen interessanter machen. Das günstigste HiDrive Paket „Starter“ kostet monatlich 3,50 Euro bei 500 GB Speicher. 1 Terabyte Speicher (1.024 GB) kostet fortan monatlich 5 Euro. Berechnet wird...
+Zum Beitrag: STRATO HiDrive: Preise werden angepasst
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Firefox 105 veröffentlicht: Das ist neu]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1130287</id>
+        <link href="https://stadt-bremerhaven.de/firefox-105-veroeffentlicht-das-ist-neu/"/>
+        <updated>2022-09-20T13:12:34.000Z</updated>
+        <summary type="html"><![CDATA[Mozilla hat den Browser Firefox in Version 105 veröffentlicht. Da Update steht ab sofort zum Download bereit. Neben einer Handvoll Fehlerbehebungen gibt es auch ein paar neue Funktionen. Es wurde unter anderem eine Option hinzugefügt, um nur die aktuelle Seite...
+Zum Beitrag: Firefox 105 veröffentlicht: Das ist neu
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LG Display: Deutsche Bahn stellt Konzeptzug mit transparenten OLED-Displays vor]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1130187</id>
+        <link href="https://stadt-bremerhaven.de/lg-display-deutsche-bahn-stellt-konzeptzug-mit-transparenten-oled-displays-vor/"/>
+        <updated>2022-09-20T13:00:59.000Z</updated>
+        <summary type="html"><![CDATA[Die Deutsche Bahn hat für die Messe für Verkehrstechnik InnoTrans 2022 einen Konzeptzug erstmals mit transparenten OLED-Displays von LG ausgestattet. Gedacht ist diese Neuerung sowohl für den ÖPNV als auch den Fernverkehr. LG Display stellt auf der Messe natürlich auch...
+Zum Beitrag: LG Display: Deutsche Bahn stellt Konzeptzug mit transparenten OLED-Displays vor
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>Benjamin Mamerow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AMD Mendocino: Drei Modelle starten als erste Ryzen/Athlon-7020-APUs]]></title>
+        <id>https://www.computerbase.de/2022-09/amd-mendocino-drei-modelle-starten-als-erste-ryzen-athlon-7020-apus/</id>
+        <link href="https://www.computerbase.de/2022-09/amd-mendocino-drei-modelle-starten-als-erste-ryzen-athlon-7020-apus/"/>
+        <updated>2022-09-20T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/0/6/3-8cb99b63b35bf426/article-640x360.a9d071ba.jpg"><p>Die im Mai dieses Jahres erstmals von AMD bestätigte neue Einsteiger-APU-Serie, Codename Mendocino, geht mit drei Modellen ab dem vierten Quartal an den Start. Diese bieten einige Überraschungen, denn AMD bastelt hier sprichwörtlich aus vielen einzelnen IP-Bauteilen eine interessante Lösung für Notebooks zusammen.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Firefox 105 is out: here is what is new]]></title>
+        <id>https://www.ghacks.net/?p=180844</id>
+        <link href="https://www.ghacks.net/2022/09/20/firefox-105-is-out-here-is-what-is-new/"/>
+        <updated>2022-09-20T12:37:42.000Z</updated>
+        <summary type="html"><![CDATA[Mozilla published Firefox Stable and Firefox ESR updates on September 20, 2022. Firefox 105 Stable and Firefox 102.3 ESR are the new versions that are now available. The main improvement in Firefox […]
+Thank you for being a Ghacks reader. The post Firefox 105 is out: here is what is new appeared first on gHacks Technology News.]]></summary>
+        <author>
+            <name>Martin Brinkmann</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ghacks Deals: The 2023 Premium Python Programming Mega Certification Bundle]]></title>
+        <id>https://www.ghacks.net/?p=180850</id>
+        <link href="https://www.ghacks.net/2022/09/20/ghacks-deals-the-2023-premium-python-programming-mega-certification-bundle/"/>
+        <updated>2022-09-20T12:35:26.000Z</updated>
+        <summary type="html"><![CDATA[If you always wanted to learn how to code in Python, this is the ultimate way to achieve that goal. The bundle includes 14 Python related courses, including several designed for beginners […]
+Thank you for being a Ghacks reader. The post Ghacks Deals: The 2023 Premium Python Programming Mega Certification Bundle appeared first on gHacks Technology News.]]></summary>
+        <author>
+            <name>Martin Brinkmann</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Samsung Galaxy S23: Möglicherweise doch Exynos-Varianten geplant]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1130263</id>
+        <link href="https://stadt-bremerhaven.de/samsung-galaxy-s23-moeglicherweise-doch-exynos-varianten-geplant/"/>
+        <updated>2022-09-20T12:30:37.000Z</updated>
+        <summary type="html"><![CDATA[Bereits im Juli 2022 kamen Gerüchte auf, laut denen Samsungs kommende Smartphone-Flaggschiffe der Reihe Galaxy S23 nur noch auf die Qualcomm Snapdragon als Chips setzen könnten. Nun kommt es wieder zu gegenteiligen Behauptungen: Auch Versionen mit Exynos-SoCs seien angedacht. Aktuell...
+Zum Beitrag: Samsung Galaxy S23: Möglicherweise doch Exynos-Varianten geplant
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Peloton Row erscheint – und neue Funktionen für den Guide]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1130270</id>
+        <link href="https://stadt-bremerhaven.de/peloton-row-erscheint-und-neue-funktionen-fuer-den-guide/"/>
+        <updated>2022-09-20T12:00:10.000Z</updated>
+        <summary type="html"><![CDATA[Peloton hat sein neues Fitnessgerät, den Peloton Row, vorgestellt. Er ist ab sofort in den USA vorbestellbar, auf der dt. Website taucht das Rudergerät aktuell allerdings noch nicht auf. Zusätzlich hat der Hersteller auch seinen Guide aufgestockt, damit Abonnenten eine...
+Zum Beitrag: Peloton Row erscheint – und neue Funktionen für den Guide
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple to increase App Store prices in several regions in October]]></title>
+        <id>https://www.ghacks.net/?p=180843</id>
+        <link href="https://www.ghacks.net/2022/09/20/apple-to-increase-app-store-prices-in-several-regions-next-month/"/>
+        <updated>2022-09-20T11:55:54.000Z</updated>
+        <summary type="html"><![CDATA[Apple has announced that it plans to increase App Store prices starting next month. The price hike will be effective in several regions. Apple to increase App Store prices Inflation is likely […]
+Thank you for being a Ghacks reader. The post Apple to increase App Store prices in several regions in October appeared first on gHacks Technology News.]]></summary>
+        <author>
+            <name>Ashwin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[„Call of Duty: Warzone Mobile“: Android-Vorregistrierung ab sofort möglich]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1130203</id>
+        <link href="https://stadt-bremerhaven.de/call-of-duty-warzone-mobile-android-vorregistrierung-ab-sofort-moeglich/"/>
+        <updated>2022-09-20T11:30:16.000Z</updated>
+        <summary type="html"><![CDATA[Im März dieses Jahres erstmals bestätigt, jüngst dann für 2023 angekündigt: „Call of Duty: Warzone“ bekommt einen mobilen Ableger. Bis zu 120 Spieler sollen dann auf ihrem Smartphone in der Lage sein, gegeneinander im Battle-Royale-Modus anzutreten. Und falls ihr zu...
+Zum Beitrag: „Call of Duty: Warzone Mobile“: Android-Vorregistrierung ab sofort möglich
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>Benjamin Mamerow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Xbox: Microsoft lockert die DRM-Beschränkungen für Disc-basierte Spiele]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1130253</id>
+        <link href="https://stadt-bremerhaven.de/xbox-microsoft-lockert-die-drm-beschraenkungen-fuer-disc-basierte-spiele/"/>
+        <updated>2022-09-20T11:00:27.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft hat mit dem Update 2208 für die Xbox Series X unverhofft im Hintergrund eine kleine Verbesserung integriert: Installiert ihr ein Disc-basiertes Spiel für die Xbox One, müsst ihr nicht mehr zwangsläufig bei der Installation online sein. Zuvor ist es...
+Zum Beitrag: Xbox: Microsoft lockert die DRM-Beschränkungen für Disc-basierte Spiele
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vorschau auf Fritz!OS 7.50: Neue Labor-Firmware für DSL-, Kabel-, LTE- und 5G-Router]]></title>
+        <id>https://www.computerbase.de/2022-09/avm-fritzos-7-50-vorschau-fritzbox/</id>
+        <link href="https://www.computerbase.de/2022-09/avm-fritzos-7-50-vorschau-fritzbox/"/>
+        <updated>2022-09-20T10:46:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/0/7/1-378bab72bd569b5b/article-640x360.2bedaf6f.jpg"><p>AVM hat eine neue Labor-Firmware für seine ADSL-, VDSL-, Kabel-, LTE- und 5G-Router aus der Serie Fritz!Box zum Testen freigegeben. Die Beta-Firmware stellt eine der letzten Vorschauversionen vor dem Release des kommenden Router-Betriebssystems Fritz!OS 7.50 dar und ist erstmals mit der Fritz!Box 6850 5G kompatibel.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ford erforscht neue Technologien für mehr Sicherheit im Straßenverkehr]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1130215</id>
+        <link href="https://stadt-bremerhaven.de/ford-erforscht-neue-technologien-fuer-mehr-sicherheit-im-strassenverkehr/"/>
+        <updated>2022-09-20T10:30:26.000Z</updated>
+        <summary type="html"><![CDATA[Der US-Autohersteller Ford erklärt, dass er gemeinsam mit Commsignia, PSS, der Ohio State University, T-Mobile und Tome Software an einer Smartphone-basierten Kommunikations-Technologie arbeite, welche am Ende Auto- und Radfahrer sowie Fußgänger vor potenziellen Gefahren warnen könnte. Ford hat da schon...
+Zum Beitrag: Ford erforscht neue Technologien für mehr Sicherheit im Straßenverkehr
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vodafone plant mit ZF in Düsseldorf den Straßenverkehr der Zukunft]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1130186</id>
+        <link href="https://stadt-bremerhaven.de/vodafone-plant-mit-zf-in-duesseldorf-den-strassenverkehr-der-zukunft/"/>
+        <updated>2022-09-20T10:00:10.000Z</updated>
+        <summary type="html"><![CDATA[Vodafone und ZF arbeiten in Düsseldorf laut einer aktuellen Pressemitteilung am „Straßenverkehr der Zukunft“. Ein Schlüsselelement sei da die cloudbasierte V2X-Plattform („Vehicle to everything“) für Fahrzeughersteller und Verkehrsbehörden. Ziel ist es, Sicherheitsinformationen in Echtzeit für Autos, LKWs, Motorräder, Radfahrer und...
+Zum Beitrag: Vodafone plant mit ZF in Düsseldorf den Straßenverkehr der Zukunft
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vorratsdaten­speicherung: EuGH kippt deutsches Gesetz (Update)]]></title>
+        <id>https://www.computerbase.de/2022-09/vorratsdatenspeicherung-eugh-kippt-deutsches-gesetz/</id>
+        <link href="https://www.computerbase.de/2022-09/vorratsdatenspeicherung-eugh-kippt-deutsches-gesetz/"/>
+        <updated>2022-09-20T09:40:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/0/6/8-edd6ced9f266433e/article-640x360.1804c5e6.jpg"><p>Das Urteil ist lang erwartet und im Ergebnis wenig überraschend: Der Europäische Gerichtshof (EuGH) hat heute entschieden, dass das deutsche Gesetz zur Vorratsdatenspeicherung gegen das EU-Recht verstößt. Angewendet wurde das Gesetz aber ohnehin nicht. Nun ist aber klar, dass eine Neuregelung erforderlich ist.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Arc A770 („Alchemist“): Intel-CEO bestätigt, die erste Charge ist startklar]]></title>
+        <id>https://www.computerbase.de/2022-09/intel-arc-a770-ready-for-retail/</id>
+        <link href="https://www.computerbase.de/2022-09/intel-arc-a770-ready-for-retail/"/>
+        <updated>2022-09-20T08:11:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/0/6/7-ba5e3b5f7bb634b3/article-640x360.989b8fee.jpg"><p>Das Warten auf Intels Arc-Grafikkarten der ersten Generation Intel Xe HPG („Alchemist“) nähert sich dem Ende, die erste Charge ist startklar. Wie Intel-CEO Pat Gelsinger über den Kurznachrichtendienst Twitter mitteilte, ist der erste Batch des Spitzenmodells Intel Arc A770 mit ACM-G11-Grafikchip jetzt bereit für den Retailmarkt.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple App Store: Apps werden ab Oktober rund 20 Prozent teurer]]></title>
+        <id>https://www.computerbase.de/2022-09/apple-app-store-apps-werden-ab-oktober-rund-20-prozent-teurer/</id>
+        <link href="https://www.computerbase.de/2022-09/apple-app-store-apps-werden-ab-oktober-rund-20-prozent-teurer/"/>
+        <updated>2022-09-20T07:20:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/0/6/6-2a128b34b30d0734/article-640x360.659054fe.jpg"><p>Wie Apple in einer Mitteilung an Entwickler bekannt gegeben hat, werden die Preise für Endkunden im App Store ab dem 5. Oktober in einigen Ländern angehoben. Betroffen davon ist auch der gesamte Euroraum, also auch Deutschland. Die Anpassung betrifft sowohl Apps als auch In-App-Käufe.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google continues extensions Manifest v3 push even though some APIs are not ready yet]]></title>
+        <id>https://www.ghacks.net/?p=180840</id>
+        <link href="https://www.ghacks.net/2022/09/20/google-continues-extensions-manifest-v3-push-even-though-some-apis-are-not-ready-yet/"/>
+        <updated>2022-09-20T04:54:05.000Z</updated>
+        <summary type="html"><![CDATA[Remember when Mozilla switched to WebExtensions? Back then, developers had to port their extensions to the new extensions system for them to remain compatibility with Firefox. Mozilla did not release major APIs […]
+Thank you for being a Ghacks reader. The post Google continues extensions Manifest v3 push even though some APIs are not ready yet appeared first on gHacks Technology News.]]></summary>
+        <author>
+            <name>Martin Brinkmann</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[iPhone 14 Pro: Fix für Kameraproblem bei Drittanbieter-Apps soll kommende Woche erscheinen]]></title>
         <id>https://stadt-bremerhaven.de/?p=1130145</id>
@@ -11859,377 +12344,6 @@ Zum Blog: Caschys Blog
 Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
         <author>
             <name>André Westphal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pluto TV: Zwei neue Sender ab 26. September]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1125395</id>
-        <link href="https://stadt-bremerhaven.de/pluto-tv-zwei-neue-sender-ab-26-september/"/>
-        <updated>2022-08-22T14:30:13.000Z</updated>
-        <summary type="html"><![CDATA[Pluto TV, der zu Paramount gehörende Streamingdienst, der werbefinanziert ist, wird im September zwei Klassiker zurück auf den Bildschirm bringen. Sabrina – Total Verhext! läuft auf einem eigenen Sender, Sabrina Spellman läuft also rund um die Uhr. Ebenfalls einen eigenen...
-Zum Beitrag: Pluto TV: Zwei neue Sender ab 26. September
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>caschy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Disney+ Day am 8. September mit Thor: Love and Thunder]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1125438</id>
-        <link href="https://stadt-bremerhaven.de/disney-day-am-8-september-mit-thor-love-and-thunder/"/>
-        <updated>2022-08-22T14:04:18.000Z</updated>
-        <summary type="html"><![CDATA[Disney hat bekannt gegeben, dass man den Disney+ Day am 8. September abhalte. Damit einhergehend landen ein paar neue Inhalte beim Streaming-Dienst. Zu den neuen Titeln gehören Marvel Studios‘ „Thor: Love and Thunder“ und „Assembled: The Making of Thor: Love...
-Zum Beitrag: Disney+ Day am 8. September mit Thor: Love and Thunder
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>caschy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jabra Enhance: Earbuds für Menschen mit Hörschwächen kommen nach Europa]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1125364</id>
-        <link href="https://stadt-bremerhaven.de/jabra-enhance-earbuds-fuer-menschen-mit-hoerschwaechen-kommen-nach-europa/"/>
-        <updated>2022-08-22T13:45:09.000Z</updated>
-        <summary type="html"><![CDATA[Ich hatte schon im letzten Jahr über die Jabra Enhance Plus gebloggt. Das sind TWS-Kopfhörer, die gleichzeitig Features für Menschen mit Hörschwächen bieten. Sie sind aber nicht direkt für Schwerhörige gedacht, sondern für Personen mit leichten bis mittleren Hörschwächen. Nachdem...
-Zum Beitrag: Jabra Enhance: Earbuds für Menschen mit Hörschwächen kommen nach Europa
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>André Westphal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Agon Pro PD27S: AOC und Porsche Design brin­gen weiteren Gaming-Monitor]]></title>
-        <id>https://www.computerbase.de/2022-08/agon-pro-pd27s-aoc-und-porsche-design-bringen-weiteren-gaming-monitor/</id>
-        <link href="https://www.computerbase.de/2022-08/agon-pro-pd27s-aoc-und-porsche-design-bringen-weiteren-gaming-monitor/"/>
-        <updated>2022-08-22T13:45:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/6/9/7-1cf56159db6a432e/article-640x360.620c959f.jpg"><p>Nach dem AOC Porsche Design Agon Pro PD32M (Test) bringen AOC und Porsche Design mit dem AOC Porsche Design Agon Pro PD27S einen zweiten Monitor auf den Markt. Mit 27-Zoll-Display und WQHD-Auflösung von 2.560 × 1.440 Pixeln setzt er auf eine variable Bildwiederholfrequenz von 170 Hz, um die breite Masse der Spieler anzusprechen.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple weitet Self-Service-Reparatur auf MacBooks aus]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1125426</id>
-        <link href="https://stadt-bremerhaven.de/apple-weitet-self-service-reparatur-auf-macbooks-aus/"/>
-        <updated>2022-08-22T13:06:50.000Z</updated>
-        <summary type="html"><![CDATA[Für einige iPhones gibt’s bereit die Self-Service-Reparatur, nun können US-Anwender auch ihre MacBooks selbst reparieren. Das Unternehmen unterstützt in diesem Programm derzeit das MacBook Air und die MacBook-Pro-Modelle mit Apple-Chip. Da bekommen Kunden Reparaturhandbücher sowie Apple-Originalteile und -werkzeuge über den...
-Zum Beitrag: Apple weitet Self-Service-Reparatur auf MacBooks aus
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>caschy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sky ermahnt Kunden keine „haushaltsfremden Geräte“ zu nutzen]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1125416</id>
-        <link href="https://stadt-bremerhaven.de/sky-ermahnt-kunden-keine-haushaltsfremden-geraete-zu-nutzen/"/>
-        <updated>2022-08-22T13:05:09.000Z</updated>
-        <summary type="html"><![CDATA[Streaming-Anbieter haben in ihren Nutzungsbedingungen jeweils einen Passus, der darauf hinweist, dass die jeweiligen Dienste nur mit Geräten aus dem eigenen Haushalt bzw. mit Haushaltsmitgliedern genutzt werden sollen. Dennoch wurde es meist stillschweigend geduldet, wenn die Anwender ihre Accounts mit...
-Zum Beitrag: Sky ermahnt Kunden keine „haushaltsfremden Geräte“ zu nutzen
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>André Westphal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[40 GB im Telefónica-Netz: 18,99 Euro und monatlich kündbar]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1125414</id>
-        <link href="https://stadt-bremerhaven.de/40-gb-im-telefonica-netz-1899-euro-und-monatlich-kuendbar/"/>
-        <updated>2022-08-22T13:00:23.000Z</updated>
-        <summary type="html"><![CDATA[freenet hat eine neue Telefónica-Aktion gestartet. Hier bietet man 40 GB Datenvolumen im Netz von Telefónica und eine Flat für Telefonie und SMS. Bei freenet bekommt man bis zu 225 Mbit/s im Download. 18,99 Euro zahlt man dafür im Monat....
-Zum Beitrag: 40 GB im Telefónica-Netz: 18,99 Euro und monatlich kündbar
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>caschy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Windhawk is a mod-based universal customization solution for Windows]]></title>
-        <id>https://www.ghacks.net/?p=180370</id>
-        <link href="https://www.ghacks.net/2022/08/22/windhawk-is-a-mod-based-universal-customization-solution-for-windows/"/>
-        <updated>2022-08-22T12:50:04.000Z</updated>
-        <summary type="html"><![CDATA[With every new Windows release, it appears that Microsoft is removing customization options. Windhawk is an open source solution that attempts to bring back customizations and new ones for Windows. Designed by […]
-Thank you for being a Ghacks reader. The post Windhawk is a mod-based universal customization solution for Windows appeared first on gHacks Technology News.]]></summary>
-        <author>
-            <name>Martin Brinkmann</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MSI Prestige 16 und Prestige 16 Evo: Notebooks mit Mini-LED-LCDs]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1125276</id>
-        <link href="https://stadt-bremerhaven.de/msi-prestige-16-und-prestige-16-evo-notebooks-mit-mini-led-lcds/"/>
-        <updated>2022-08-22T12:15:36.000Z</updated>
-        <summary type="html"><![CDATA[Das Unternehmen MSI bringt mit seinen beiden neuen Laptops Prestige 16 und Prestige 16 Evo zwei neue leistungsstarke Geräte auf den Markt, die mit einem Aluminium-Gehäuse in der Farbe Urban Silver zu bekommen sind und auf Intel Core i7 der...
-Zum Beitrag: MSI Prestige 16 und Prestige 16 Evo: Notebooks mit Mini-LED-LCDs
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>Benjamin Mamerow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Winamp 5.9 RC3: Release Candidate 3 ist für Windows 7 bis 11 erschienen]]></title>
-        <id>https://www.computerbase.de/2022-08/winamp-5-9-rc3-build-9999-release/</id>
-        <link href="https://www.computerbase.de/2022-08/winamp-5-9-rc3-build-9999-release/"/>
-        <updated>2022-08-22T11:59:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/6/9/6-92e6b05799821362/article-640x360.a9c75810.jpg"><p>Fast vier Jahre nach der Version 5.8, welche im Oktober 2018 als Beta und infolgedessen nie final erschienen ist, wurde der klassische Mediaplayer Winamp 5.9 Build 9999 als Release Candidate freigegeben. Während die Beta damals die Kompatibilität mit Windows 10 sicherstellten sollte, läuft Winamp 5.9 jetzt unter Windows 11.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WhatsApp Beta 22.18.0.70 für iOS: Gruppen-Admins können jede Nachricht löschen]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1125394</id>
-        <link href="https://stadt-bremerhaven.de/whatsapp-beta-22-18-0-70-fuer-ios-gruppen-admins-koennen-jede-nachricht-loeschen/"/>
-        <updated>2022-08-22T11:30:02.000Z</updated>
-        <summary type="html"><![CDATA[WhatsApp führt in der neuen Beta für iOS, der Version 22.18.0.70, in Gruppen für Admins die Möglichkeit ein, jedwede Nachricht zu entfernen. Aktuell kommt diese Anpassung aber schrittweise bei Betatestern an. Selbst wenn ihr also Gruppen-Admins seid und die Beta...
-Zum Beitrag: WhatsApp Beta 22.18.0.70 für iOS: Gruppen-Admins können jede Nachricht löschen
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>André Westphal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HTC gewährt Rabatte auf die Vive Pro und Vive Cosmos]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1125384</id>
-        <link href="https://stadt-bremerhaven.de/htc-gewaehrt-rabatte-auf-die-vive-pro-und-vive-cosmos/"/>
-        <updated>2022-08-22T11:00:16.000Z</updated>
-        <summary type="html"><![CDATA[HTC hat eine neue Rabattaktion gestartet, welche die beiden VR-Headsets HTC Vive Pro und Vive Cosmos zu vergünstigen Preisen verheißt. Die ganze Aktion startet ab heute und gilt dann bis zum 4. September 2022. Teilnehmende Händler sind natürlich vive.com, Amazon.de,...
-Zum Beitrag: HTC gewährt Rabatte auf die Vive Pro und Vive Cosmos
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>André Westphal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[StarBook Mk VI mit AMD & Intel: x86-Linux-Notebook mit Open-Source-Firmware]]></title>
-        <id>https://www.computerbase.de/2022-08/star-labs-starbook-mk-vi-amd-intel-linux-notebook/</id>
-        <link href="https://www.computerbase.de/2022-08/star-labs-starbook-mk-vi-amd-intel-linux-notebook/"/>
-        <updated>2022-08-22T10:41:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/6/9/3-0168f60f61832581/article-640x360.fe73796e.jpg"><p>Der britische System- und Linux-Distributor Star Labs hat mit dem StarBook Mk VI ein Notebook der 14-Zoll-Klasse mit Open-Source-Firmware sowie AMD Ryzen („Cezanne“) und Intel Core („Alder Lake-P“) vorgestellt. Hinzu kommt eine Auswahl von insgesamt sechs Linux-Distributionen, welche ab Werk vorinstalliert zur Auswahl stehen.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Windows 10: Workaround für Audio-Probleme nach Update KB5015878]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1125371</id>
-        <link href="https://stadt-bremerhaven.de/windows-10-workaround-fuer-audio-probleme-nach-update-kb5015878/"/>
-        <updated>2022-08-22T10:30:54.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft hat in einem aktualisierten Support-Beitrag darüber berichtet, dass es unter Windows 10, OS Build 19044.1865, nach der Installation des Updates KB5015878 zu Problemen kommen kann. Nach der Installation von KB5015878 oder neueren Updates kann es laut des Unternehmens bei...
-Zum Beitrag: Windows 10: Workaround für Audio-Probleme nach Update KB5015878
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>caschy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple Karten: Ab 2023 angeblich mit Werbung in der Suche]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1125376</id>
-        <link href="https://stadt-bremerhaven.de/apple-maps-ab-2023-angeblich-mit-werbung-in-der-suche/"/>
-        <updated>2022-08-22T10:00:29.000Z</updated>
-        <summary type="html"><![CDATA[Apple Karten soll laut aktuellen Gerüchten ab 2023 Werbung in der Suche einbinden. Laut dem Bloomberg-Redakteur Mark Gurman soll ein Team intern daran bereits eifrig arbeiten. Ähnliche Werbung bindet Apple ja auch in der Suche im App Store ein. Da...
-Zum Beitrag: Apple Karten: Ab 2023 angeblich mit Werbung in der Suche
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>André Westphal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazfit T-Rex 2 im Test: Outdoor-Smartwatch mit GPS-Navigation und Routenimport]]></title>
-        <id>https://www.computerbase.de/2022-08/amazfit-t-rex-2-outdoor-gps-smartwatch-test/</id>
-        <link href="https://www.computerbase.de/2022-08/amazfit-t-rex-2-outdoor-gps-smartwatch-test/"/>
-        <updated>2022-08-22T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/3/9/8/8-55a8de3df9ebd8af/article-640x360.574e4a17.jpg"><p>Die Amazfit T-Rex 2 soll als Outdoor-Smartwatch mit GPS und langer Akkulaufzeit überzeugen, was ihr auch gelingt. Kälte, Sand und andere Widrigkeiten machen ihr ebenfalls nichts aus. Einschränkungen gibt es jedoch wieder im Zusammenspiel mit Android und iOS und der Unterstützung durch Apps.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tesla Full Self-Driving: Irgendwann autonom fahren kostet bald 15.000 US-Dollar]]></title>
-        <id>https://www.computerbase.de/2022-08/tesla-full-self-driving-irgendwann-autonom-fahren-kostet-bald-15-000-us-dollar/</id>
-        <link href="https://www.computerbase.de/2022-08/tesla-full-self-driving-irgendwann-autonom-fahren-kostet-bald-15-000-us-dollar/"/>
-        <updated>2022-08-22T09:36:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/6/9/2-5c2b6ea08211d9b1/article-640x360.a4dcae02.jpg"><p>Elon Musk hat eine weitere Preiserhöhung für das „volle Potenzial für autonomes Fahren“ in Aussicht gestellt, die ab dem 5. September greifen soll. Das entsprechende Ausstattungspaket wird ab dem Stichtag von 12.000 auf 15.000 US-Dollar angehoben. Dieses Jahr soll „Full Self-Driving“ (FSD) für die breite Masse angeboten werden.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google: Konto gesperrt, da ein Vater Fotos von seinem nackten Kleinkind für den Arzt gemacht hat]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1125346</id>
-        <link href="https://stadt-bremerhaven.de/google-konto-gesperrt-da-ein-vater-fotos-von-seinem-nackten-kleinkind-fuer-den-arzt-gemacht-hat/"/>
-        <updated>2022-08-22T09:30:43.000Z</updated>
-        <summary type="html"><![CDATA[Es gibt mal wieder einen Bericht über einen Menschen, der Zugang zu seinem Google-Account verloren hat. Google hat ihn von den Diensten ausgeschlossen. Eine Familie bemerkte bei ihrem Kleinkind einen geschwollenen Penis. Die Frau rief eine Krankenschwester ihres Gesundheitsdienstleisters an,...
-Zum Beitrag: Google: Konto gesperrt, da ein Vater Fotos von seinem nackten Kleinkind für den Arzt gemacht hat
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>caschy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft confirms and resolves Windows 10 audio bug (your device may still be affected)]]></title>
-        <id>https://www.ghacks.net/?p=180366</id>
-        <link href="https://www.ghacks.net/2022/08/22/microsoft-confirms-and-resolves-windows-10-audio-bug-your-device-may-still-be-affected/"/>
-        <updated>2022-08-22T09:22:37.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft confirmed a new issue affecting Windows 10 devices on August 19, 2022. The company published a new known issue on the Release Health support site of the Windows 10 operating system […]
-Thank you for being a Ghacks reader. The post Microsoft confirms and resolves Windows 10 audio bug (your device may still be affected) appeared first on gHacks Technology News.]]></summary>
-        <author>
-            <name>Martin Brinkmann</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Chrome is getting an RSS feed reader on desktop]]></title>
-        <id>https://www.ghacks.net/?p=180352</id>
-        <link href="https://www.ghacks.net/2022/08/22/google-chrome-is-getting-an-rss-feed-reader-on-desktop/"/>
-        <updated>2022-08-22T07:37:48.000Z</updated>
-        <summary type="html"><![CDATA[Google introduced a built-in RSS reader in Chrome for Android last year. And now, the feature is on its way to Chrome for desktop and ChromeOS. The feature was spotted in the […]
-Thank you for being a Ghacks reader. The post Google Chrome is getting an RSS feed reader on desktop appeared first on gHacks Technology News.]]></summary>
-        <author>
-            <name>Ashwin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft rolls out sidebar in Edge Stable]]></title>
-        <id>https://www.ghacks.net/?p=180359</id>
-        <link href="https://www.ghacks.net/2022/08/22/microsoft-rolls-out-sidebar-in-edge-stable/"/>
-        <updated>2022-08-22T07:05:33.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft released a new version of the company's Edge web browser on August 19, 2022. Edge 104 is a new stable update that introduces the sidebar to the stable population. Microsoft Edge […]
-Thank you for being a Ghacks reader. The post Microsoft rolls out sidebar in Edge Stable appeared first on gHacks Technology News.]]></summary>
-        <author>
-            <name>Martin Brinkmann</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Open Source und Freeware: Paint.NET, Open-Shell und Sandboxie erhalten Updates]]></title>
-        <id>https://www.computerbase.de/2022-08/open-source-freeware-updates/</id>
-        <link href="https://www.computerbase.de/2022-08/open-source-freeware-updates/"/>
-        <updated>2022-08-22T07:04:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/6/9/0-995029d52b1a6d19/article-640x360.8282d86d.jpg"><p>Mehrere Open-Source-Projekte wie unter anderem Paint.NET, das als verbesserte Alternative zum in Windows enthaltenen Paint dienen soll, das klassische Startmenü Open-Shell und Sandboxie, die Sandbox für das isolierte Ausführen von Programmen, haben ihre Windows-Anwendungen auf neue Versionsstände aktualisiert.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Is it worth purchasing a Steam gift card?]]></title>
-        <id>https://www.ghacks.net/?p=180273</id>
-        <link href="https://www.ghacks.net/2022/08/22/is-it-worth-purchasing-steam-gift-card/"/>
-        <updated>2022-08-22T07:00:14.000Z</updated>
-        <summary type="html"><![CDATA[Gaming is compelling and innovative no matter what. Hundreds of new titles come out every year while gaming consoles and laptops get upgrades and add new services, making gaming more approachable. Alongside, […]
-Thank you for being a Ghacks reader. The post Is it worth purchasing a Steam gift card? appeared first on gHacks Technology News.]]></summary>
-        <author>
-            <name>Sponsored Content</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iRobot i5+ im Test: Guter Helfer – aber hoher Aufpreis für wenige Features]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1124407</id>
-        <link href="https://stadt-bremerhaven.de/irobot-i5-im-test-guter-helfer-aber-hoher-aufpreis-fuer-wenig-features/"/>
-        <updated>2022-08-21T18:00:52.000Z</updated>
-        <summary type="html"><![CDATA[Vor nicht allzu langer Zeit hat iRobot einen neuen Roboter der i-Serie vorgestellt. Dieser hört auf den Namen i5+ und kommt ohne Laser-Navigation oder Kamera daher. Er soll dank iRobots Imprint-Technologie aber sicher durch den Raum navigieren. Ob das tatsächlich...
-Zum Beitrag: iRobot i5+ im Test: Guter Helfer – aber hoher Aufpreis für wenige Features
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>Olli</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple: Serviceprogramm für iPhone 12 und iPhone 12 Pro verlängert]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1125328</id>
-        <link href="https://stadt-bremerhaven.de/apple-serviceprogramm-fuer-iphone-12-und-iphone-12-pro-verlaengert/"/>
-        <updated>2022-08-21T17:42:33.000Z</updated>
-        <summary type="html"><![CDATA[Apple hat das bestehende Serviceprogramm für das iPhone 12 und das iPhone 12 Pro verlängert. Das Programm ist für betroffene iPhone-12- oder iPhone-12-Pro-Geräte drei Jahre nach dem ersten Verkauf des Geräts im Einzelhandel gültig, bislang waren es zwei Jahre. Apple...
-Zum Beitrag: Apple: Serviceprogramm für iPhone 12 und iPhone 12 Pro verlängert
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>caschy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OLED-TVs: In Europa bereits über 50 % Marktanteil im Premium-Segment]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1124760</id>
-        <link href="https://stadt-bremerhaven.de/oled-tvs-in-europa-bereits-ueber-50-marktanteil-im-premium-segment/"/>
-        <updated>2022-08-21T16:30:08.000Z</updated>
-        <summary type="html"><![CDATA[OLED-TVs gewinnen an Beliebtheit: Auch ich selbst nutze ein Exemplar jener Gattung und würde, Stand jetzt, auf keinen Fall mehr zu einem LCD zurückgehen. In Europa scheint es mehr und mehr Menschen so zu ergehen: Laut den Marktforschern von Omdia,...
-Zum Beitrag: OLED-TVs: In Europa bereits über 50 % Marktanteil im Premium-Segment
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>André Westphal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ubiquiti: UniFi Network 7.2 unterstützt Load Balancing und neue Hardware]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1125252</id>
-        <link href="https://stadt-bremerhaven.de/ubiquiti-unifi-network-7-2-unterstuetzt-load-balancing-und-neue-hardware/"/>
-        <updated>2022-08-21T15:00:43.000Z</updated>
-        <summary type="html"><![CDATA[Vielfach wurde es von Anwendern moniert, mit UniFi Network 7.2 bzw. UniFi OS 2.5 schafft Hersteller Ubiquiti nun Abhilfe: Aktuelle Hardware, wie die UniFi Dream Machine Pro (hier mein Testbericht) brachten zwei WAN-Anschlüsse mit, aber keine Möglichkeit für Load Balancing,...
-Zum Beitrag: Ubiquiti: UniFi Network 7.2 unterstützt Load Balancing und neue Hardware
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>Felix Frank</name>
         </author>
     </entry>
 </feed>
