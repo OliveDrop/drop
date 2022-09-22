@@ -2,10 +2,453 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://olivedrop.github.io/drop/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-21T02:41:51.229Z</updated>
+    <updated>2022-09-22T02:29:46.894Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://olivedrop.github.io/drop/index.html"/>
     <link rel="self" href="https://olivedrop.github.io/drop/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[G Cloud Gaming Handheld: Logitechs Spielkonsole startet schon im Oktober]]></title>
+        <id>https://www.computerbase.de/2022-09/g-cloud-gaming-handheld-logitechs-spielekonsole-startet-schon-im-oktober/</id>
+        <link href="https://www.computerbase.de/2022-09/g-cloud-gaming-handheld-logitechs-spielekonsole-startet-schon-im-oktober/"/>
+        <updated>2022-09-21T18:52:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/0/9/3-d4f0254cdf0944b0/article-640x360.ae9f0174.jpg"><p>Nach der Ankündigung im August, dass Logitech zusammen mit Tencent an einem Handheld arbeitet, der fürs Cloud-Gaming ausgelegt sein soll, folgt nun die offizielle Ankündigung mit allen Details und technischen Daten. Der Logitech G Cloud Gaming Handheld startet schon im Oktober und kann ab heute vorbestellt werden.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MP600 Pro XT: Corsair bietet 8 TB im M.2-Format mit NVMe (Update)]]></title>
+        <id>https://www.computerbase.de/2022-09/mp600-pro-xt-corsair-bietet-erstmals-8-tb-im-m-2-format-mit-nvme/</id>
+        <link href="https://www.computerbase.de/2022-09/mp600-pro-xt-corsair-bietet-erstmals-8-tb-im-m-2-format-mit-nvme/"/>
+        <updated>2022-09-21T18:47:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/0/8/9-bea1b240d8756b6c/article-640x360.f47badf9.jpg"><p>Eine der derzeit schnellsten SSDs bietet jetzt auch den größten Speicherplatz ihrer Klasse. Die Corsair MP600 Pro XT (Test) mit Phison-E18-Controller erhält ein weiteres Modell mit 8 TB Speicherplatz. Das entspricht dem derzeitigen Maximum im M.2-Format.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PlayStation VR2: Sony hofft auf Indie-Entwickler und veröffentlicht neues Video]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1130544</id>
+        <link href="https://stadt-bremerhaven.de/playstation-vr2-sony-hofft-auf-die-indie-entwickler/"/>
+        <updated>2022-09-21T18:30:02.000Z</updated>
+        <summary type="html"><![CDATA[Sony hat nicht nur ein neues Werbevideo zur PlayStation VR2 vorgestellt, welches die Features der VR-Brille ins Rampenlicht rückt, sondern auch Andeutungen über die Spiele gemacht, die wir da erwarten können. Man kann heraushören, dass Sony hofft, dass vor allem...
+Zum Beitrag: PlayStation VR2: Sony hofft auf Indie-Entwickler und veröffentlicht neues Video
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Xbox: September-Update veröffentlicht]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1130597</id>
+        <link href="https://stadt-bremerhaven.de/xbox-september-update-veroeffentlicht/"/>
+        <updated>2022-09-21T17:45:50.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft hat das September-Update für die Xbox veröffentlicht. Jenes beinhaltet zahlreiche neue Funktionen und Verbesserungen. Neben dem allgemeinen Spielerlebnis hat man da auch den neuen Elite Wireless Controller im Blick. Der Xbox Elite Wireless Controller 2 ist ab heute verfügbar....
+Zum Beitrag: Xbox: September-Update veröffentlicht
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>Felix Frank</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Surface: Event am 12. Oktober]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1130622</id>
+        <link href="https://stadt-bremerhaven.de/microsoft-surface-event-am-12-oktober/"/>
+        <updated>2022-09-21T17:25:00.000Z</updated>
+        <summary type="html"><![CDATA[Es geht weiter mit neuer Hardware und Events. Fans der Surface-Reihe von Microsoft können sich auf den 12. Oktober freuen. Kurz vor der Microsoft Ignite wird man offensichtlich noch neue Surface-Modelle mit stärkeren und neueren Komponenten aus dem Hut zaubern....
+Zum Beitrag: Microsoft Surface: Event am 12. Oktober
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Plex: Verbesserungen beim AirPlay-Streaming]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1130601</id>
+        <link href="https://stadt-bremerhaven.de/plex-verbesserungen-beim-airplay-streaming/"/>
+        <updated>2022-09-21T16:53:35.000Z</updated>
+        <summary type="html"><![CDATA[Nutzer von Plex bekommen eine Neuerung in der iOS-App spendiert. Nach der Aktualisierung ist es nun auch möglich, von iPad oder iPhone aus über AirPlay Live TV auf kompatible Geräte zu streamen – das können beispielsweise TV-Geräte, der Apple TV...
+Zum Beitrag: Plex: Verbesserungen beim AirPlay-Streaming
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sonos: S2-Firmware 14.16 bringt Verbesserungen]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1130594</id>
+        <link href="https://stadt-bremerhaven.de/sonos-s2-firmware-14-16-bringt-verbesserungen/"/>
+        <updated>2022-09-21T16:47:40.000Z</updated>
+        <summary type="html"><![CDATA[Sonos hat seinen neuen Sub Mini vorgestellt, der bald im Handel ist – auf der anderen Seite gibt’s mit der Firmware Probleme, da sind die Arc-Nutzer derzeit auf den Barrikaden und fordern eine Problemlösung. Des Weiteren funktioniert die Trueplay-Einrichtung mit...
+Zum Beitrag: Sonos: S2-Firmware 14.16 bringt Verbesserungen
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[20 GB Volumen: Vodafone Allnet Flat für 9,99 Euro monatlich]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1130461</id>
+        <link href="https://stadt-bremerhaven.de/20-gb-volumen-vodafone-allnet-flat-fuer-999-euro-monatlich/"/>
+        <updated>2022-09-21T16:45:44.000Z</updated>
+        <summary type="html"><![CDATA[Bei klarmobil – zu freenet gehörend – hat man mal wieder ein Angebot im Vodafone-Netz geschnürt. Die Überschrift verrät es: 20 GB Datenvolumen im Vodafone-Netz bekommt man und zahlt dafür 9,99 Euro im Monat. Für 9,99 Euro gibt’s nicht nur das reine...
+Zum Beitrag: 20 GB Volumen: Vodafone Allnet Flat für 9,99 Euro monatlich
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[realme GT Neo 4 soll den Qualcomm Snapdragon 8+ Gen 1 als SoC verwenden]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1130523</id>
+        <link href="https://stadt-bremerhaven.de/realme-gt-neo-4-soll-den-qualcomm-snapdragon-8-gen-1-als-soc-verwenden/"/>
+        <updated>2022-09-21T16:00:09.000Z</updated>
+        <summary type="html"><![CDATA[Aktuellen Leaks zufolge wird realme für sein kommendes Smartphone GT Neo 4 doch nicht auf den MediaTek Dimensity 8200 setzen, wie es ursprünglich eigentlich anvisiert gewesen ist. Stattdessen plane man nun mit dem Qualcomm Snapdragon 8+ Gen 1. Diese Entscheidung...
+Zum Beitrag: realme GT Neo 4 soll den Qualcomm Snapdragon 8+ Gen 1 als SoC verwenden
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This Week on Stadia: Neue Trials, Spiele für Pro-Abonnenten und mehr]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1130348</id>
+        <link href="https://stadt-bremerhaven.de/this-week-on-stadia-neue-trials-spiele-fuer-pro-abonnenten-und-mehr/"/>
+        <updated>2022-09-21T15:30:59.000Z</updated>
+        <summary type="html"><![CDATA[Es ist mal wieder so weit: Google hat in einem neuen Beitrag mitgeteilt, welche Spiele ihr mit einem Pro-Abonnement demnächst zusätzlich spielen könnt. So starten ab dem 1. Oktober sowohl Looking for Aliens als auch Tangle Tower, Slaycation Paradise, Drawful...
+Zum Beitrag: This Week on Stadia: Neue Trials, Spiele für Pro-Abonnenten und mehr
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>Benjamin Mamerow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EA SPORTS bringt Ted Lasso und den AFC Richmond in FIFA 23]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1130579</id>
+        <link href="https://stadt-bremerhaven.de/ea-sports-bringt-ted-lasso-und-den-afc-richmond-in-fifa-23/"/>
+        <updated>2022-09-21T15:17:48.000Z</updated>
+        <summary type="html"><![CDATA[Witzige Sache, die sich EA da hat einfallen lassen. Electronic Arts und Warner Bros. Interactive Entertainment geben heute bekannt, dass der AFC Richmond in EA SPORTS FIFA 23 dabei sein wird. Fans können ihren authentischen Lieblingsverein in mehreren Spielmodi einsetzen,...
+Zum Beitrag: EA SPORTS bringt Ted Lasso und den AFC Richmond in FIFA 23
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Neu auf Netflix – Oktober 2022]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1130574</id>
+        <link href="https://stadt-bremerhaven.de/neu-auf-netflix-oktober-2022/"/>
+        <updated>2022-09-21T15:02:38.000Z</updated>
+        <summary type="html"><![CDATA[Der Oktober steht vor der Tür. Das bedeutet auch, dass die Streaming-Dienste mal wieder neuen Content auffüllen. Der Oktober bei Netflix erwartet uns unter anderem mit der Fortsetzung der Barbarenkämpfe gegen ein übermächtiges Rom, einer Gruppe Senioren, die brutalen Horror...
+Zum Beitrag: Neu auf Netflix – Oktober 2022
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Logitech G CLOUD: Das sind die Details]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1130551</id>
+        <link href="https://stadt-bremerhaven.de/logitech-g-cloud-das-sind-die-details/"/>
+        <updated>2022-09-21T14:22:10.000Z</updated>
+        <summary type="html"><![CDATA[Neulich noch ein Leak, jetzt schon bei Logitech gelistet und von uns entdeckt: Logitech G CLOUD. Ein Handheld mit Android, mit dem man Cloud-Gaming-Dienste anzapfen kann, um zu spielen. Hier einmal ein paar Bilder von der Logitech-Webseite: Laut der Logitech-Webseite...
+Zum Beitrag: Logitech G CLOUD: Das sind die Details
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Privacy Pledge: Threema, Proton, Brave, Tor Project und mehr kooperieren]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1130538</id>
+        <link href="https://stadt-bremerhaven.de/the-privacy-pledge-threema-proton-brave-tor-project-und-mehr-kooperieren/"/>
+        <updated>2022-09-21T14:00:59.000Z</updated>
+        <summary type="html"><![CDATA[Threema erklärt in einem neuen Blog-Post, dass man mit mehreren Partnern die Initiative „The Privacy Pledge“ gegründet habe. Neben Threema sind auch noch Proton, Brave und das Tor Project mit an Bord. Man wolle dabei gemeinsam Alternativen zu den Vorgehensweisen...
+Zum Beitrag: The Privacy Pledge: Threema, Proton, Brave, Tor Project und mehr kooperieren
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple Watch Ultra: Die ersten Pressestimmen]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1130542</id>
+        <link href="https://stadt-bremerhaven.de/apple-watch-ultra-die-ersten-pressestimmen/"/>
+        <updated>2022-09-21T13:44:46.000Z</updated>
+        <summary type="html"><![CDATA[Schaute man sich Apples Vorstellung der Apple Watch Ultra und der Apple Watch Series 8 an, so konnte man nach Sichtung der Marketingvideos eigentlich nur zu einem Schluss kommen: Die Apple Watch Series 8 ist für Menschen, die nicht sterben...
+Zum Beitrag: Apple Watch Ultra: Die ersten Pressestimmen
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[YouTube: Neue Einnahmequellen für Creators vorgestellt]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1130377</id>
+        <link href="https://stadt-bremerhaven.de/youtube-neue-einnahmequellen-fuer-creators-vorgestellt/"/>
+        <updated>2022-09-21T13:30:17.000Z</updated>
+        <summary type="html"><![CDATA[Auf seiner hauseigenen Veranstaltung „Made on YouTube“ hat die Plattform bekannt gegeben, womit Creators, also die größeren Kanäle auf YouTube, die auch Geld mit dem Erstellen ihrer Videos verdienen, zukünftig zusätzlich Einnahmen erzielen können. So beispielsweise zukünftig auch über die...
+Zum Beitrag: YouTube: Neue Einnahmequellen für Creators vorgestellt
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>Benjamin Mamerow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Fire HD 8 (Plus): Vier neue Tablets mit schnellerem Prozessor]]></title>
+        <id>https://www.computerbase.de/2022-09/amazon-fire-hd-8-plus-vier-neue-tablets-mit-schnellerem-prozessor/</id>
+        <link href="https://www.computerbase.de/2022-09/amazon-fire-hd-8-plus-vier-neue-tablets-mit-schnellerem-prozessor/"/>
+        <updated>2022-09-21T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/0/8/6-8bce4c7b8f8024e4/article-640x360.e17b6249.jpg"><p>Amazon aktualisiert das Fire HD 8. Die 2022er-Version wird dünner, leichter und schneller als das 2020er-Modell. Erneut kommt auch ein leistungsfähigeres Fire HD 8 Plus mit mehr Arbeitsspeicher und einer verbesserten rückseitigen 5-MP-Kamera. Beide Modelle werden zudem als Kids-Edition mit Sorglos-Garantie und Hülle aufgelegt.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Fire HD 8, 8 Plus, 8 Kids und Fire HD 8 Kids Pro vorgestellt]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1130488</id>
+        <link href="https://stadt-bremerhaven.de/amazon-fire-hd-8-8-plus-8-pro-und-fire-hd-8-kids-pro-vorgestellt/"/>
+        <updated>2022-09-21T12:59:18.000Z</updated>
+        <summary type="html"><![CDATA[Amazon hat soeben gleich vier neue Tablets vorgestellt. Konkret sind das die beiden Amazon Fire HD 8 und Fire HD 8 Plus sowie die beiden neuen Kids-Modelle Amazon Fire HD 8 Kids und Fire HD 8 Kids Pro. Vorbestellungen sind...
+Zum Beitrag: Amazon Fire HD 8, 8 Plus, 8 Kids und Fire HD 8 Kids Pro vorgestellt
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Marvel und EA entwickeln gemeinsam neues Iron-Man-Spiel]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1130357</id>
+        <link href="https://stadt-bremerhaven.de/marvel-und-ea-entwickeln-gemeinsam-neues-iron-man-spiel/"/>
+        <updated>2022-09-21T12:30:45.000Z</updated>
+        <summary type="html"><![CDATA[Marvel Entertainment und Motive Studio von EA in Montreal teilen mit, dass sich ein neues Einzelspieler-Action-Adventure mit Iron Man in der Entwicklung befindet, allerdings noch in einer sehr frühen Entwicklungsphase, weshalb es mit einer Veröffentlichung noch etwas dauern kann. Teamleiter...
+Zum Beitrag: Marvel und EA entwickeln gemeinsam neues Iron-Man-Spiel
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>Benjamin Mamerow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google-App erlaubt bald Löschanträge, damit eure Daten aus der Suche verschwinden]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1130530</id>
+        <link href="https://stadt-bremerhaven.de/google-app-erlaubt-bald-loeschantraege-damit-eure-daten-aus-der-suche-verschwinden/"/>
+        <updated>2022-09-21T12:15:45.000Z</updated>
+        <summary type="html"><![CDATA[Google beginnt mit dem Verteilen einer Funktion an Nutzer, die im Mai im Rahmen der Entwicklerkonferenz Google I/O vorgestellt wurde. Konkret geht’s darum, dass Anwender direkt aus der Google-App bei Google Anträge stellen können, damit ihre Daten aus der Google-Suche...
+Zum Beitrag: Google-App erlaubt bald Löschanträge, damit eure Daten aus der Suche verschwinden
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Xiaomi Pad 5 erhält international Android 12 bzw. MIUI 13.1]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1130518</id>
+        <link href="https://stadt-bremerhaven.de/xiaomi-pad-5-erhaelt-international-android-12-bzw-miui-13-1/"/>
+        <updated>2022-09-21T12:00:51.000Z</updated>
+        <summary type="html"><![CDATA[Das Xiaomi Pad 5 erhält international mittlerweile Android 12 und MIUI 13.1. Auch in Deutschland ist dieses Tablet zu haben. Die Kollegen von TheUpdateBox stellen nicht nur die neue Firmware vor, sie erklären auch, wie ihr das Tablet aktualisieren könnt,...
+Zum Beitrag: Xiaomi Pad 5 erhält international Android 12 bzw. MIUI 13.1
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thunderbird 102.3 is a security and bug fix update]]></title>
+        <id>https://www.ghacks.net/?p=180884</id>
+        <link href="https://www.ghacks.net/2022/09/21/thunderbird-102-3-is-a-security-and-bug-fix-update/"/>
+        <updated>2022-09-21T11:54:39.000Z</updated>
+        <summary type="html"><![CDATA[Thunderbird 102.3 is now available. The new version of the open source email client is a security and bug fix release. The update is published already and most Thunderbird installations should receive […]
+Thank you for being a Ghacks reader. The post Thunderbird 102.3 is a security and bug fix update appeared first on gHacks Technology News.]]></summary>
+        <author>
+            <name>Martin Brinkmann</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nvidia L40: Ada Lovelace rendert auch im OVX-Server fürs Omniverse]]></title>
+        <id>https://www.computerbase.de/2022-09/nvidia-l40-ada-lovelace-rendert-auch-im-ovx-server-fuers-omniverse/</id>
+        <link href="https://www.computerbase.de/2022-09/nvidia-l40-ada-lovelace-rendert-auch-im-ovx-server-fuers-omniverse/"/>
+        <updated>2022-09-21T11:50:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/0/8/4-6851f3910f017feb/article-640x360.f7214445.jpg"><p>Abseits der neuen Consumer-Grafikkarten GeForce RTX 4090 und RTX 4080 kommt Ada Lovelace demnächst auch in Servern zum Einsatz. Nvidia hat für neue OVX-Systeme den Einsatz der L40 getauften Grafikkarte für Rendering-Workloads im Omniverse angekündigt. Die zweite Generation Nvidia OVX soll 2023 auf den Markt kommen.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nvidia GeForce RTX 40: Drei neue Grafikkarten vorgestellt]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1130501</id>
+        <link href="https://stadt-bremerhaven.de/nvidia-geforce-rtx-40-drei-neue-grafikkarten-vorgestellt/"/>
+        <updated>2022-09-21T11:30:11.000Z</updated>
+        <summary type="html"><![CDATA[Nvidia hat gestern Abend natürlich nicht nur DLSS 3 vorgestellt, sondern auch seine neuen Grafikkarten der Generation GeForce RTX 40. Anders als zuvor erwartet, ist keine RTX 4070 darunter – zumindest nicht unter diesem Namen. Stattdessen erscheint die RTX 4080...
+Zum Beitrag: Nvidia GeForce RTX 40: Drei neue Grafikkarten vorgestellt
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iOS 16.1: Hinweise auf neue Gruppierungsmöglichkeiten für HomePods und AirPlay-2-Lautsprecher]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1130413</id>
+        <link href="https://stadt-bremerhaven.de/ios-16-1-hinweise-auf-neue-gruppierungsmoeglichkeiten-fuer-homepods-und-airplay-2-lautsprecher/"/>
+        <updated>2022-09-21T11:00:53.000Z</updated>
+        <summary type="html"><![CDATA[iOS bietet Nutzern seit geraumer Zeit die Option an, AirPlay-2-Lautsprecher oder HomePods zu gruppieren und somit in mehreren Räumen denselben Audio-Stream abzuspielen. Das könnt ihr im AirPlay-Menü im Control Center einstellen und die verschiedenen Gruppen auch mit verschiedener Musik bespielen....
+Zum Beitrag: iOS 16.1: Hinweise auf neue Gruppierungsmöglichkeiten für HomePods und AirPlay-2-Lautsprecher
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>Olli</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GeForce RTX 4090 und 4080: Custom-Designs fahren schwere Geschütze auf]]></title>
+        <id>https://www.computerbase.de/2022-09/geforce-rtx-4090-rtx-4080-custom-modelle-hersteller/</id>
+        <link href="https://www.computerbase.de/2022-09/geforce-rtx-4090-rtx-4080-custom-modelle-hersteller/"/>
+        <updated>2022-09-21T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/0/8/1-0a36ec0b849cf15e/article-640x360.4b09b849.jpg"><p>Bereits kurz nach der offiziellen Präsentation der GeForce RTX 4090 sowie der beiden GeForce RTX 4080 stehen schon die ersten Custom-Designs von Asus, Gigabyte und MSI sowie weiteren Partnern von Nvidia im Schaufenster und nehmen von den Ausmaßen her mit unter fast schon bedrohliche Dimensionen an. Die Kühllösungen wachsen.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Notebook-CPU-Benchmarks: Intel Core i-1200P/U vs. AMD Ryzen 6000H/U]]></title>
+        <id>https://www.computerbase.de/2022-09/cpu-benchmarks-intel-core-1200p-1200u-amd-ryzen-6000/</id>
+        <link href="https://www.computerbase.de/2022-09/cpu-benchmarks-intel-core-1200p-1200u-amd-ryzen-6000/"/>
+        <updated>2022-09-21T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/0/4/6-48c67315a3068403/article-640x360.26c06d68.jpg"><p>Was kann Intels 12. Generation Core in den Serien U & P gegen AMD Ryzen 6000 in den Klassen H & U ausrichten? ComputerBase hat mit Core i7-1280P, Core i7-1260P und Core i5-1255U drei aktuelle Notebook-Chips getestet und stellt sie Ryzen 9 6900HS, Ryzen 7 6800U und Ryzen 5 Pro 6650U in zahlreichen Benchmarks gegenüber.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nvidia RTX 6000: Erste Ada-Profi-Lösung mit mehr Shadern und Speicher]]></title>
+        <id>https://www.computerbase.de/2022-09/nvidia-rtx-6000-erste-ada-profi-loesung-mit-mehr-shadern-und-speicher/</id>
+        <link href="https://www.computerbase.de/2022-09/nvidia-rtx-6000-erste-ada-profi-loesung-mit-mehr-shadern-und-speicher/"/>
+        <updated>2022-09-21T09:11:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/0/8/2-4dbab8c1d05cdfe6/article-640x360.63bc4a7b.jpg"><p>Im Fahrwasser der neuen GeForce RTX 4000 für Consumer hat Nvidia auch einen ersten Ada-Ableger für das Profi-Segment enthüllt. Diese setzen traditionell auf einen vergrößerten Speicher mit 48 GB und mehr Shader, aber auch eine geringere TDP. Ab Dezember sollen die ersten Karten unter anderem von PNY verfügbar werden.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Einzelkauf statt Abo: Spotify verkauft nun über 300.000 Hörbücher]]></title>
+        <id>https://www.computerbase.de/2022-09/einzelkauf-statt-abo-spotify-verkauft-nun-ueber-300-000-hoerbuecher/</id>
+        <link href="https://www.computerbase.de/2022-09/einzelkauf-statt-abo-spotify-verkauft-nun-ueber-300-000-hoerbuecher/"/>
+        <updated>2022-09-21T07:46:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/0/8/3-47c0cfa5e28170c8/article-640x360.e0a3775c.jpg"><p>Spotify startet mit dem Verkauf von Hörbüchern und führt Änderungen ein, um die App des Musikstreamingdienstes besser für Hörbücher auszulegen. Zunächst werden die Hörbücher nicht in einem Abonnement angeboten, sondern jedes Hörbuch muss einzeln erworben werden. Zum Start stehen mehr als 300.000 Hörbücher zur Auswahl bereit.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to update to Windows 11 22H2 using an ISO image]]></title>
+        <id>https://www.ghacks.net/?p=180863</id>
+        <link href="https://www.ghacks.net/2022/09/21/how-to-update-to-windows-11-22h2-using-an-iso-image/"/>
+        <updated>2022-09-21T07:21:14.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft released Windows 11 22H2 last night, you can read about it in our previous coverage. The update is rolling out to users slowly, but if you can't wait to try the […]
+Thank you for being a Ghacks reader. The post How to update to Windows 11 22H2 using an ISO image appeared first on gHacks Technology News.]]></summary>
+        <author>
+            <name>Ashwin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GeForce RTX 4000 „FE“: Drei Grafikkarten, zwei Namen und nur ein Design]]></title>
+        <id>https://www.computerbase.de/2022-09/geforce-rtx-4000-fe-drei-grafikkarten-zwei-namen-und-nur-ein-design/</id>
+        <link href="https://www.computerbase.de/2022-09/geforce-rtx-4000-fe-drei-grafikkarten-zwei-namen-und-nur-ein-design/"/>
+        <updated>2022-09-21T06:32:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/0/7/9-af7c06c8dcc6b8a6/article-640x360.59c3f127.jpg"><p>Den Auftakt der neuen nach Ada Lovelace benannten GPU-Generation von Nvidia machen drei GeForce-Modelle. Die RTX 4090 und die RTX 4080, wobei es die 4080 in zwei ganz unterschiedlichen Varianten gibt. Das neue Founders-Edition-Kühlerdesign von Nvidia teilen sich zwei davon und eines gibt es nur im Custom-Design der Partner.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Find out for how long your Windows 11 version is supported]]></title>
+        <id>https://www.ghacks.net/?p=180862</id>
+        <link href="https://www.ghacks.net/2022/09/21/find-out-for-how-long-your-windows-11-version-is-supported/"/>
+        <updated>2022-09-21T05:38:59.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft released the first feature update for its Windows 11 operating system on September 20, 2022. It includes improvements and new features, and while it may be tempting for some to upgrade […]
+Thank you for being a Ghacks reader. The post Find out for how long your Windows 11 version is supported appeared first on gHacks Technology News.]]></summary>
+        <author>
+            <name>Martin Brinkmann</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ada Lovelace: Nvidia DLSS 3 soll bis zu 4× mehr FPS als nativ liefern]]></title>
         <id>https://www.computerbase.de/2022-09/ada-lovelace-nvidia-dlss-3-soll-bis-zu-4x-mehr-fps-als-nativ-liefern/</id>
@@ -12022,321 +12465,6 @@ Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
         <updated>2022-08-23T14:30:08.000Z</updated>
         <summary type="html"><![CDATA[LG Electronics und Amazon Prime Video kooperieren enger: Die Inhalte des Streaming-Anbieters werden ab sofort direkt in den „Jetzt streamen“-Bereich des TV-Startbildschirms eingebunden. Das erspart euch möglicherweise das Aufrufen und Suchen in der separaten App, weil im Dashboard der LG-Smart-TVs...
 Zum Beitrag: LG integriert Amazon Prime Video an seinen TVs in den „Jetzt Streamen“-Bereich
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>André Westphal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Magenta Telekom und Meridiam gründen Joint Venture für Glasfaser-Partnerschaft in Österreich]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1125597</id>
-        <link href="https://stadt-bremerhaven.de/magenta-telekom-und-meridiam-gruenden-joint-venture-fuer-glasfaser-partnerschaft-in-oesterreich/"/>
-        <updated>2022-08-23T14:00:19.000Z</updated>
-        <summary type="html"><![CDATA[Magenta Telekom und Meridiam, ein französischer Investor, gründen nach eigenen Angaben ein Joint Venture für die bisher „größte private Glasfaser-Partnerschaft Österreichs“. Eine gemeinsame Investition von 1 Mrd. Euro in den Glasfaserausbau (FTTH) soll bis 2030 über 650.000 neue Haushalte und...
-Zum Beitrag: Magenta Telekom und Meridiam gründen Joint Venture für Glasfaser-Partnerschaft in Österreich
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>André Westphal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Alte Modelle fehlen noch: Apple weitet Self-Service-Reparatur auf Macbooks aus]]></title>
-        <id>https://www.computerbase.de/2022-08/alte-modelle-fehlen-noch-apple-weitet-self-service-reparatur-auf-macbooks-aus/</id>
-        <link href="https://www.computerbase.de/2022-08/alte-modelle-fehlen-noch-apple-weitet-self-service-reparatur-auf-macbooks-aus/"/>
-        <updated>2022-08-23T13:41:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/7/1/2-061099895bddde5b/article-640x360.3329c701.jpg"><p>Ab heute können auch für Apple MacBooks Originalteile und Werkzeuge direkt bei Apple erworben werden – vorerst aber nur in den USA und nur für MacBook Pro und MacBook Air mit M1-Prozessor von Apple. Noch in diesem Jahr sollen der Self-Service auf Europa erweitert werden und Ersatzteile auch für weitere Modelle erhältlich sein.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Govecs Flex: Neuer Elektroroller startet ab 3.990 Euro]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1125561</id>
-        <link href="https://stadt-bremerhaven.de/govecs-flex-neuer-elektroroller-startet-ab-3-990-euro/"/>
-        <updated>2022-08-23T13:30:28.000Z</updated>
-        <summary type="html"><![CDATA[Govecs aus München hat einen neuen Elektroroller vorgestellt: den Govecs Flex. In Deutschland startet dieses Modell heute in den Farben Vanilla White und Sunshine Yellow zu einem Basispreis von  3.990 Euro. Zuschlagen können Interessierte im Online-Shop des Anbieters oder auch...
-Zum Beitrag: Govecs Flex: Neuer Elektroroller startet ab 3.990 Euro
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>André Westphal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hikvision: Noch immer viele verwundbare Kameras erreichbar]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1125547</id>
-        <link href="https://stadt-bremerhaven.de/hikvision-noch-immer-viele-verwundbare-kameras-erreichbar/"/>
-        <updated>2022-08-23T13:00:49.000Z</updated>
-        <summary type="html"><![CDATA[Bereits im letzten Jahr berichteten wir über schwere Sicherheitslücken, die in zahlreichen Kamera-Modellen von Hikvision stecken. Der Hersteller hatte damals reagiert, gab eine entsprechende Meldung und die benötigten Patches heraus, um die Lücken zu schließen. Nicht gepatchte Modelle sind weiterhin...
-Zum Beitrag: Hikvision: Noch immer viele verwundbare Kameras erreichbar
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>caschy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DKB: Neue Version der Banking-App sorgt auf Wunsch für mehr Übersicht]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1125586</id>
-        <link href="https://stadt-bremerhaven.de/dkb-neue-version-der-banking-app-sorgt-auf-wunsch-fuer-mehr-uebersicht/"/>
-        <updated>2022-08-23T12:45:16.000Z</updated>
-        <summary type="html"><![CDATA[Die DKB hat heute eine aktualisierte Version (Version 1.15.0) ihrer Banking-App für Android und iOS veröffentlicht. Noch immer fehlen zahlreiche Funktionen in der App und es wird auch noch bis 2023 dauern, bis dort alle gewünschten und geplanten Funktionen landen....
-Zum Beitrag: DKB: Neue Version der Banking-App sorgt auf Wunsch für mehr Übersicht
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>caschy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aorus Gen5 AIC: Gigabytes SSD-Adapter soll 16 TB mit 60 GB/s ermöglichen]]></title>
-        <id>https://www.computerbase.de/2022-08/aorus-gen5-aic-gigabytes-ssd-adapter-soll-16-tb-mit-60-gb-s-ermoeglichen/</id>
-        <link href="https://www.computerbase.de/2022-08/aorus-gen5-aic-gigabytes-ssd-adapter-soll-16-tb-mit-60-gb-s-ermoeglichen/"/>
-        <updated>2022-08-23T12:20:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/7/0/9-9dbb67fc80df7916/article-640x360.9cf41671.jpg"><p>Mit der neuen Schnittstelle PCIe 5.0 bieten sich dank des erhöhten Durchsatzes auch neue Möglichkeiten für SSD-Adapter. Gigabyte stellt die Aorus Gen5 Add-In Card vor, die vier PCIe-5.0-SSDs im M.2-Format unterstützt. Im RAID-Verbund soll so ein Massenspeicher mit bis zu 16 TB und 60 GB/s entstehen.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Firefox 104: analyze a website's power usage and UI throttling]]></title>
-        <id>https://www.ghacks.net/?p=180376</id>
-        <link href="https://www.ghacks.net/2022/08/23/firefox-104-analyze-a-websites-power-usage-and-ui-throttling/"/>
-        <updated>2022-08-23T10:41:12.000Z</updated>
-        <summary type="html"><![CDATA[Firefox 104 Stable, Firefox 102.2 ESR and Firefox 91.13 ESR will be released later today. The releases fix security issues and bugs in Firefox; Firefox 104 Stable includes a handful of new […]
-Thank you for being a Ghacks reader. The post Firefox 104: analyze a website's power usage and UI throttling appeared first on gHacks Technology News.]]></summary>
-        <author>
-            <name>Martin Brinkmann</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mozilla Firefox 104.0: Open-Source-Browser soll die Akkulaufzeit verlängern]]></title>
-        <id>https://www.computerbase.de/2022-08/mozilla-firefox-104-0-browser-release/</id>
-        <link href="https://www.computerbase.de/2022-08/mozilla-firefox-104-0-browser-release/"/>
-        <updated>2022-08-23T10:31:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/7/0/7-7779bcbb682832b0/article-640x360.b2df5a60.jpg"><p>Mozillas Open-Source-Browser Firefox soll in der neuesten Version 104.0 die Akkulaufzeit von Notebooks durch das gezielte Drosseln der Leistung der grafischen Benutzeroberfläche (GUI) messbar erhöhen können, wenn der Browser minimiert wird und somit im Hintergrund läuft. Auch neue Leistungsmetriken werden eingeführt.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hot Chips 34: Intel spricht über die Leistung der HPC-GPU Ponte Vecchio]]></title>
-        <id>https://www.computerbase.de/2022-08/hot-chips-34-intel-spricht-ueber-die-leistung-der-hpc-gpu-ponte-vecchio/</id>
-        <link href="https://www.computerbase.de/2022-08/hot-chips-34-intel-spricht-ueber-die-leistung-der-hpc-gpu-ponte-vecchio/"/>
-        <updated>2022-08-23T10:17:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/7/0/6-53e7b03d7cb3151d/article-640x360.881d22ef.jpg"><p>Pointe Vecchio ist extrem schnell, verkauft Intel zu Hot Chips 34. Das extrem verspätete Produkt nimmt es laut Intel problemlos mit Nvidias Ampere-Generation auf. Doch die präsentierten Zahlen sind wie immer mit Vorsicht zu genießen. Ob die theoretischen Spitzenwerte in der Praxis ankommen, bleibt fraglich. Und H100 rückt näher.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Corsair Xeneon 32UHD144 im Test: UHD mit 144 Hz und HDMI 2.1 für Spieler]]></title>
-        <id>https://www.computerbase.de/2022-08/corsair-xeneon-32uhd144-gaming-monitor-test/</id>
-        <link href="https://www.computerbase.de/2022-08/corsair-xeneon-32uhd144-gaming-monitor-test/"/>
-        <updated>2022-08-23T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/6/2/3-f6dc67ef089e3b3d/article-640x360.ec7a6920.jpg"><p>Der Corsair Xeneon 32UHD144 setzt mit 32-Zoll-Display auf 3.840 × 2.160 Pixel, eine variable Bildwiederholfrequenz von bis zu 144 Hz und HDMI 2.1 für Spieler. Der Hersteller knüpft an die Stärken des ersten Monitors an, der Bildschirm bietet aber auch beim neuen Modell noch Potenzial.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ads in Microsoft Outlook app for Android and iOS are getting worse]]></title>
-        <id>https://www.ghacks.net/?p=180381</id>
-        <link href="https://www.ghacks.net/2022/08/23/how-to-block-ads-in-the-outlook-app-for-android-and-ios/"/>
-        <updated>2022-08-23T08:36:20.000Z</updated>
-        <summary type="html"><![CDATA[The Microsoft Outlook app for Android and iOS is displaying more ads than before. The new banners are appearing right in the inbox. Microsoft is displaying more ads in its Outlook app […]
-Thank you for being a Ghacks reader. The post Ads in Microsoft Outlook app for Android and iOS are getting worse appeared first on gHacks Technology News.]]></summary>
-        <author>
-            <name>Ashwin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PlayStation VR2: Sonys kommende Virtual-Reality-Brille erscheint 2023]]></title>
-        <id>https://www.computerbase.de/2022-08/sony-playstation-vr2-release-2023/</id>
-        <link href="https://www.computerbase.de/2022-08/sony-playstation-vr2-release-2023/"/>
-        <updated>2022-08-23T07:28:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/7/0/5-364004657e01f353/article-640x360.921d53d1.jpg"><p>Die Anfang des Jahres angekündigte Virtual-Reality-Brille Sony PlayStation VR2 für die PlayStation 5 (Test) wird erst im kommenden Jahr auf den Markt kommen, wie der Hersteller jetzt offiziell über seinen japanischen PlayStation-Account auf Twitter mitgeteilt hat.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AMD Adrenalin Edition 22.8.2: Der neue Treiber für Radeon unterstützt Saints Row]]></title>
-        <id>https://www.computerbase.de/2022-08/amd-adrenalin-edition-22-8-2-saint-row/</id>
-        <link href="https://www.computerbase.de/2022-08/amd-adrenalin-edition-22-8-2-saint-row/"/>
-        <updated>2022-08-23T07:10:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/7/0/3-08e31b48e9bf94c0/article-640x360.1adb82c0.jpg"><p>Der neueste Grafiktreiber für AMD Radeon, der Adrenalin Edition 22.8.2, unterstützt das heute für den Windows-PC, PlayStation 4 und PlayStation 5 sowie Xbox One, Xbox Series X und Xbox Series S erscheinende Open-World-Actionspiel Saints Row, einem echten Reboot der abgedrehten Serie, zum Release und behebt diverse Probleme.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meteor Lake: TSMC baut mehr Chips als Intel für Next-Gen-CPU]]></title>
-        <id>https://www.computerbase.de/2022-08/meteor-lake-tsmc-baut-mehr-chips-als-intel-fuer-next-gen-cpu/</id>
-        <link href="https://www.computerbase.de/2022-08/meteor-lake-tsmc-baut-mehr-chips-als-intel-fuer-next-gen-cpu/"/>
-        <updated>2022-08-23T06:57:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/7/0/4-64f4cd37395c0131/article-640x360.698316f6.jpg"><p>Der Großteil der einzelnen Chips auf dem Gesamtpaket von Meteor Lake kommt von TSMC, wie Intel zur Fachmesse Hot Chips 34 enthüllt hat. Die zuletzt oft vermutete N3-Fertigung von TSMC wird hingegen nicht genutzt, weshalb eine Verspätung zumindest aus diesem Grund gar nicht möglich ist. Laut Intel liegt Meteor Lake im Zeitplan.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[First look at YouTube's Podcast directory]]></title>
-        <id>https://www.ghacks.net/?p=180378</id>
-        <link href="https://www.ghacks.net/2022/08/23/first-look-at-youtubes-podcast-directory/"/>
-        <updated>2022-08-23T04:54:15.000Z</updated>
-        <summary type="html"><![CDATA[YouTube just launched a dedicated podcast page on its website. Limited to visitors from the United States at the time, it is designed as a central hub for all-things podcasts on the […]
-Thank you for being a Ghacks reader. The post First look at YouTube's Podcast directory appeared first on gHacks Technology News.]]></summary>
-        <author>
-            <name>Martin Brinkmann</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon-App für Android: eBook- und Hörspiel-Käufe sind mobil wieder möglich]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1125484</id>
-        <link href="https://stadt-bremerhaven.de/amazon-app-fuer-android-ebook-und-hoerspiel-kaeufe-sind-mobil-wieder-moeglich/"/>
-        <updated>2022-08-22T19:28:40.000Z</updated>
-        <summary type="html"><![CDATA[Ihr erinnert euch sicherlich noch daran, dass bereits seit einigen Monaten keine Möglichkeit mehr besteht, in der Amazon-Shopping-App sowohl unter iOS als auch unter Android Kindle-eBooks und Hörbücher zu erwerben? Hier hießt es seinerzeit, dass die geltenden Richtlinien des Google...
-Zum Beitrag: Amazon-App für Android: eBook- und Hörspiel-Käufe sind mobil wieder möglich
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>Benjamin Mamerow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft: Windows 11 22H2 heißt jetzt Windows 11 2022]]></title>
-        <id>https://www.computerbase.de/2022-08/windows-11-2022-feature-update/</id>
-        <link href="https://www.computerbase.de/2022-08/windows-11-2022-feature-update/"/>
-        <updated>2022-08-22T19:15:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/7/0/0-2d6a47a907f44eea/article-640x360.93e136ff.jpg"><p>Das kommende Feature-Update Windows 11 22H2 („Sun Valley 2“), das bereits als offizielle Vorschau im Release Preview Channel für Windows 11 Insider erschienen ist, heißt jetzt schlicht Windows 11 2022. Da Microsoft auf einen jährlichen Releasezyklus gewechselt ist, ergibt die Umbenennung des aktuellen Windows durchaus Sinn.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Prime Video: Kaufen und Ausleihen von Inhalten in der App und am TV wieder möglich]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1125482</id>
-        <link href="https://stadt-bremerhaven.de/amazon-prime-video-kaufen-und-ausleihen-von-inhalten-in-der-app-und-am-tv-wieder-moeglich/"/>
-        <updated>2022-08-22T19:14:05.000Z</updated>
-        <summary type="html"><![CDATA[Wir konnten vor ein paar Monaten davon berichten, dass Amazon Prime Video harte Einschnitte für Interessierte am Kaufen und Leihen von Serien und Filmen verpasst bekommen hat. Kauf-Titel verschwanden, Preise oder der Checkout-Button waren ebenfalls nicht mehr auffindbar. Kunden konnten...
-Zum Beitrag: Amazon Prime Video: Kaufen und Ausleihen von Inhalten in der App und am TV wieder möglich
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>caschy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sony Bravia XR Master Series Z9K: 8K-TVs mit Mini LED starten in Deutschland]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1125404</id>
-        <link href="https://stadt-bremerhaven.de/sony-bravia-xr-master-series-z9k-8k-tvs-mit-mini-led-starten-in-deutschland/"/>
-        <updated>2022-08-22T18:00:35.000Z</updated>
-        <summary type="html"><![CDATA[Sony hatte seinen Bravia XR Master Series Z9K schon Anfang des Jahres 2022 auf der CES in Las Vegas vorgestellt. Es handelt sich hier um 8K-LCD-TVs mit Mini-LED-Hintergrundbeleuchtung, die mit Diagonalen von 75 und 85 Zoll in den Handel kommen....
-Zum Beitrag: Sony Bravia XR Master Series Z9K: 8K-TVs mit Mini LED starten in Deutschland
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>André Westphal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google TV: Jüngste Neuerungen und ein Ausblick auf geplante Neuerungen]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1125467</id>
-        <link href="https://stadt-bremerhaven.de/google-tv-juengste-neuerungen-und-ein-ausblick-auf-geplante-neuerungen/"/>
-        <updated>2022-08-22T17:18:38.000Z</updated>
-        <summary type="html"><![CDATA[Die Umfirmierung von Android TV zu Google TV weckten bei einigen doch die Hoffnungen, dass Google im TV- und Streaming-Segment mal wieder etwas mehr Tempo macht und dem Gesamtpaket da auch mal wieder Neuerungen spendiert. Knapp zwei Jahre ist die...
-Zum Beitrag: Google TV: Jüngste Neuerungen und ein Ausblick auf geplante Neuerungen
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>Felix Frank</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Edge: Verteilung der Microsoft-Edge-Seitenleiste beginnt]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1125387</id>
-        <link href="https://stadt-bremerhaven.de/microsoft-edge-verteilung-der-microsoft-edge-seitenleiste-beginnt/"/>
-        <updated>2022-08-22T16:30:05.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft hat die stabile Version 104.0.1293.63 seines Browsers Edge veröffentlicht. Enthalten sind neue Funktionen – die allerdings kontrolliert verteilt werden, so das Unternehmen. Bedeutet für euch, dass ihr Neuerungen nach der Aktualisierung sehen könnt, vielleicht aber auch nicht. Neu ist...
-Zum Beitrag: Microsoft Edge: Verteilung der Microsoft-Edge-Seitenleiste beginnt
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>caschy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bose QuietComfort Earbuds II zeigen sich vorab]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1125450</id>
-        <link href="https://stadt-bremerhaven.de/bose-quietcomfort-earbuds-ii-zeigen-sich-vorab/"/>
-        <updated>2022-08-22T16:00:13.000Z</updated>
-        <summary type="html"><![CDATA[Derzeit sickern erste Bilder neuer TWS-Kopfhörer von Bose durch. Die Bilder von WinFuture zeigen die Bose QuietComfort Earbuds II. Dabei handelt es sich um In-Ears mit ANC, welche offenbar in den Farben Schwarz und Weiß erscheinen sollen. Auf den Markt...
-Zum Beitrag: Bose QuietComfort Earbuds II zeigen sich vorab
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>André Westphal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Datenschutzbehörde sorgt für E-Rezept-Stopp in Schleswig-Holstein]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1125456</id>
-        <link href="https://stadt-bremerhaven.de/datenschutzbehoerde-sorgt-fuer-e-rezept-stopp-in-schleswig-holstein/"/>
-        <updated>2022-08-22T15:20:51.000Z</updated>
-        <summary type="html"><![CDATA[Die Datenschutzbehörde Schleswig-Holstein schiebt dem E-Rezept erst einmal den Riegel vor. Schleswig-Holstein ist eine der Testregionen. Die Kassenärztliche Vereinigung Schleswig-Holstein informiert, dass der digitale Weg, den datenlosen QR-Code des eRezeptes per Mail- oder SMS-Verfahren an Patienten oder ggf. Apotheken zu...
-Zum Beitrag: Datenschutzbehörde sorgt für E-Rezept-Stopp in Schleswig-Holstein
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>caschy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spotify: Podcast „Fest & Flauschig“ für weitere drei Jahre verlängert]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1125435</id>
-        <link href="https://stadt-bremerhaven.de/spotify-podcast-fest-flauschig-fuer-weitere-drei-jahre-verlaengert/"/>
-        <updated>2022-08-22T15:00:49.000Z</updated>
-        <summary type="html"><![CDATA[Jan Böhmermann und Olli Schulz sind bei Spotify seit 2016 mit ihrem gemeinsamen Podcast „Fest & Flauschig vertreten. Sie reden dabei jeweils über unterschiedliche Themen aus Politik und Gesellschaft und mischen Information, Meinung und Humor. Über 320 Episoden sind im...
-Zum Beitrag: Spotify: Podcast „Fest & Flauschig“ für weitere drei Jahre verlängert
 
 Zum Blog: Caschys Blog
 
