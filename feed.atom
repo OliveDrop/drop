@@ -2,10 +2,456 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://olivedrop.github.io/drop/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-13T02:32:14.281Z</updated>
+    <updated>2022-10-14T02:43:23.237Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://olivedrop.github.io/drop/index.html"/>
     <link rel="self" href="https://olivedrop.github.io/drop/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft veröffentlicht Windows 11 Insider Preview Build 22621.746 und 22623.746]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1134162</id>
+        <link href="https://stadt-bremerhaven.de/microsoft-veroeffentlicht-windows-11-insider-preview-build-22621-746-und-22623-746/"/>
+        <updated>2022-10-13T18:00:57.000Z</updated>
+        <summary type="html"><![CDATA[Das Unternehmen Microsoft veröffentlicht im Beta-Channel die neuen Windows-11-Insider-Preview-Builds 22621.746 und 22623.746. In Build 22623.746 ist nun unter anderem eine erste Option zur Neuanordnung von Symbolen in der Taskleiste verfügbar, wohl laut Microsoft aber nicht zu Beginn gleich für alle...
+Zum Beitrag: Microsoft veröffentlicht Windows 11 Insider Preview Build 22621.746 und 22623.746
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>Benjamin Mamerow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Framework: Refurbished Laptops ab sofort für US-Kunden verfügbar]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1134147</id>
+        <link href="https://stadt-bremerhaven.de/framework-refurbished-laptops-ab-sofort-fuer-us-kunden-verfuegbar/"/>
+        <updated>2022-10-13T17:30:31.000Z</updated>
+        <summary type="html"><![CDATA[Der Hersteller Framework hat sich, als einer von wenigen Herstellern, dem Thema Reparierbarkeit verschrieben. Auch hierzulande ist man mit seinen modularen Notebooks am Markt. Diese zeigen: Modularität und kompaktes, ansprechendes Design ist kein Widerspruch. Neben der Möglichkeit für Reparaturen und...
+Zum Beitrag: Framework: Refurbished Laptops ab sofort für US-Kunden verfügbar
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>Felix Frank</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Netflix kündigt Abo mit Werbung in Deutschland an: Das sind die Details und der Preis]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1134082</id>
+        <link href="https://stadt-bremerhaven.de/netflix-kuendigt-werbegestuetztes-abo-in-deutschland-an-das-sind-die-details/"/>
+        <updated>2022-10-13T16:59:53.000Z</updated>
+        <summary type="html"><![CDATA[Vermutlich haben es bereits einige unserer Leser mitbekommen. Netflix hatte im Sommer angekündigt, ein werbegestütztes Abo einführen zu wollen. Sprich: Weniger zahlen, dafür aber Werbung sehen. Auch in Deutschland wird das Angebot bald starten. Wir haben die Details. Netflix wird...
+Zum Beitrag: Netflix kündigt Abo mit Werbung in Deutschland an: Das sind die Details und der Preis
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft brings account brute-force protections to older versions of Windows]]></title>
+        <id>https://www.ghacks.net/?p=181243</id>
+        <link href="https://www.ghacks.net/2022/10/13/microsoft-brings-account-brute-force-protections-to-older-versions-of-windows/"/>
+        <updated>2022-10-13T16:40:18.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft unveiled plans in July 2022 to roll out brute force protection against local accounts in the next version of Windows 11 and Windows Server 2022. The added protection is now enabled […]
+Thank you for being a Ghacks reader. The post Microsoft brings account brute-force protections to older versions of Windows appeared first on gHacks Technology News.]]></summary>
+        <author>
+            <name>Martin Brinkmann</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deutsche Telekom: Neue beheizbare, per Smart­phone steuerbare Kleidung]]></title>
+        <id>https://www.computerbase.de/2022-10/deutsche-telekom-neue-beheizbare-per-smartphone-steuerbare-kleidung/</id>
+        <link href="https://www.computerbase.de/2022-10/deutsche-telekom-neue-beheizbare-per-smartphone-steuerbare-kleidung/"/>
+        <updated>2022-10-13T16:35:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/3/2/3-09620acccd24acab/article-640x360.304ab626.jpg"><p>Mit der Heatable Capsule Collection (HCC) 2.0 wird die im Jahr 2020 gestartete Smart-Fashion-Serie von AlphaTauri, Deutsche Telekom und Schoeller Textil zur Herbst-Winter-Saison um zwei Stücke erweitert: einem Trenchcoat für Damen und Herren sowie einem unisex Commuter Jacket.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Snipping Tool für Windows 11: Ein Bildschirmrekorder wird künftig integriert sein]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1134122</id>
+        <link href="https://stadt-bremerhaven.de/snipping-tool-fuer-windows-11-ein-bildschirmrekorder-wird-kuenftig-integriert-sein/"/>
+        <updated>2022-10-13T16:30:06.000Z</updated>
+        <summary type="html"><![CDATA[Im Rahmen des Surface-Events zeigte Microsoft neben Hardware (Surface Pro 9, Surface Laptop 5 und Surface Studio 2+) auch einiges an Software. Das Kreativtool „Microsoft Designer“ erhält eine Integration für DALL-E 2. Zwischen Apple und Microsoft friert die Hölle zu, Windows...
+Zum Beitrag: Snipping Tool für Windows 11: Ein Bildschirmrekorder wird künftig integriert sein
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>Felix Frank</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Marvel‘s Spider-Man: Miles Morales ab dem 18. November für den PC]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1134125</id>
+        <link href="https://stadt-bremerhaven.de/marvels-spider-man-miles-morales-ab-dem-18-november-fuer-den-pc/"/>
+        <updated>2022-10-13T16:00:05.000Z</updated>
+        <summary type="html"><![CDATA[Sony und Marvel bestätigten im September, dass „Spider-Man: Miles Morales“ nach den Konsolen ab Herbst auch für PC-Gamer zur Verfügung stehen wird. Sony gibt nun den 18. November als Erscheinungsdatum für den PC bekannt.  Ähnlich zur PC-Version von Spider-Man Remastered...
+Zum Beitrag: Marvel‘s Spider-Man: Miles Morales ab dem 18. November für den PC
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>Felix Frank</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GeForce 522.25 im Benchmark: Treiber beschleunigt GeForce RTX 3000 zum RTX-4090-Start]]></title>
+        <id>https://www.computerbase.de/2022-10/geforce-522-25-im-benchmark-treiber-beschleunigt-geforce-rtx-3000-zum-rtx-4090-start/</id>
+        <link href="https://www.computerbase.de/2022-10/geforce-522-25-im-benchmark-treiber-beschleunigt-geforce-rtx-3000-zum-rtx-4090-start/"/>
+        <updated>2022-10-13T15:41:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/3/2/2-bfe5aa8fa312ee3a/article-640x360.3306359c.jpg"><p>Mit dem GeForce 522.25 hat Nvidia zum Marktstart der GeForce RTX 4090 einen neuen Treiber veröffentlicht, der die erste Ada-Lovelace-Grafikkarte unterstützt. Doch auch für GeForce-RTX-3000-Inhaber lohnt sich ein Update, denn der Treiber hebt die Leistung zum Teil deutlich an. ComputerBase hat Benchmarks.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Guillermo del Toros „Pinocchio“: Ab dem 9. Dezember auf Netflix]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1133918</id>
+        <link href="https://stadt-bremerhaven.de/guillermo-del-toros-pinocchio-ab-dem-9-dezember-auf-netflix/"/>
+        <updated>2022-10-13T15:30:21.000Z</updated>
+        <summary type="html"><![CDATA[Netflix hat das Startdatum für Guillermo del Toros „Pinocchio“ konkretisiert: Es ist der 9. Dezember. Einen ersten Trailer für den Film, bei dem del Toro mit Mark Gustafson Regie geführt hat und auch am Drehbuch mitarbeitete, zeigte man bereits im...
+Zum Beitrag: Guillermo del Toros „Pinocchio“: Ab dem 9. Dezember auf Netflix
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>Felix Frank</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Epic Games Store: „Darkwood“ und „ToeJam & Earl: Back in the Groove!“ kostenlos verfügbar]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1133979</id>
+        <link href="https://stadt-bremerhaven.de/epic-games-store-darkwood-und-toejam-earl-back-in-the-groove-kostenlos-verfuegbar/"/>
+        <updated>2022-10-13T15:00:19.000Z</updated>
+        <summary type="html"><![CDATA[Epic Games haut jeden Donnerstag mindestens ein kostenloses Spiel raus. In dieser Woche ist es nicht nur eins, sondern es sind abermals zwei Stück, aus denen ihr wählen könnt. Ihr könnt auch alle beide zu eurer Mediathek hinzufügen, ein Epic-Account...
+Zum Beitrag: Epic Games Store: „Darkwood“ und „ToeJam & Earl: Back in the Groove!“ kostenlos verfügbar
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>Olli</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Husqvarna bringt kabellosen Automower für private Gärten auf den Markt]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1134116</id>
+        <link href="https://stadt-bremerhaven.de/husqvarna-bringt-kabellosen-automower-fuer-private-gaerten-auf-den-markt/"/>
+        <updated>2022-10-13T14:30:47.000Z</updated>
+        <summary type="html"><![CDATA[Pünktlich zur Rasensaison 2023 will Husqvarna seinen ersten Automower Mähroboter ohne Begrenzungskabel für private Gärten auf den Markt bringen. „NERA“ heißt die neue „Husqvarna Automower“-Serie, die wahlweise mit dem hauseigenen Satellitennavigationssystem EPOS (Exact Positioning Operating System)betrieben werden kann. Bei den...
+Zum Beitrag: Husqvarna bringt kabellosen Automower für private Gärten auf den Markt
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ghacks Deals: Microsoft Office Professional 2021 for Windows: Lifetime License (89% off)]]></title>
+        <id>https://www.ghacks.net/?p=181239</id>
+        <link href="https://www.ghacks.net/2022/10/13/ghacks-deals-microsoft-office-professional-2021-for-windows-lifetime-license-89-off/"/>
+        <updated>2022-10-13T14:29:05.000Z</updated>
+        <summary type="html"><![CDATA[Now is your chance to grab a license for Microsoft's newest Office suite for Windows and Mac OS. Windows users may get their hands on a Office Professional 2021 license for just […]
+Thank you for being a Ghacks reader. The post Ghacks Deals: Microsoft Office Professional 2021 for Windows: Lifetime License (89% off) appeared first on gHacks Technology News.]]></summary>
+        <author>
+            <name>Martin Brinkmann</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nvidia GeForce Now: Neue Spiele und höhere Auflösung in Chrome (1600p)]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1134106</id>
+        <link href="https://stadt-bremerhaven.de/nvidia-geforce-now-neue-spiele-und-hoehere-aufloesung-in-chrome-1600p/"/>
+        <updated>2022-10-13T14:00:46.000Z</updated>
+        <summary type="html"><![CDATA[Es gibt am GeForce Now Thursday mal wieder was Neues von dem Cloud-Gaming-Angebot. Dieses Mal stoßen nicht nur neue Spiele hinzu, sondern es gibt auch technische Optimierungen. So können GeForce-Now-RTX-3080-Mitglieder ab sofort PC-Spiele mit bis zu 1600p und 120 fps...
+Zum Beitrag: Nvidia GeForce Now: Neue Spiele und höhere Auflösung in Chrome (1600p)
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Verkehrsminister einigen sich auf 49-Euro-Ticket]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1134104</id>
+        <link href="https://stadt-bremerhaven.de/verkehrsminister-einigen-sich-auf-49-euro-ticket/"/>
+        <updated>2022-10-13T13:29:47.000Z</updated>
+        <summary type="html"><![CDATA[Im Gespräch war es schon länger, nun soll es tatsächlich kommen: das bundesweit gültige 49-Euro-Ticket. Das geht aus einem Beschlusspapier zur Verkehrsministerkonferenz hervor, welches der Deutschen Presse-Agentur am Donnerstag vorlag. Das Bundesverkehrsministerium zieht wohl den Namen „Deutschlandticket“ oder Klimaticket Deutschland...
+Zum Beitrag: Verkehrsminister einigen sich auf 49-Euro-Ticket
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple TV+: Teaser-Trailer zu „Spirited“ mit Ryan Reynolds, Will Ferell und Octavia Spencer veröffentlicht]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1133971</id>
+        <link href="https://stadt-bremerhaven.de/apple-tv-teaser-trailer-zu-spirited-mit-ryan-reynolds-will-ferell-und-octavia-spencer-veroeffentlicht/"/>
+        <updated>2022-10-13T13:00:41.000Z</updated>
+        <summary type="html"><![CDATA[Die meisten von euch werden vielleicht die Weihnachtsgeschichte von Charles Dickens kennen. Dabei geht es um den kalten Geizkragen Ebenezer Scrooge, der auf verschiedene Geister trifft, die ihm zeigen, wie er seinen Charakter verbessern und damit sein Schicksal ändern kann....
+Zum Beitrag: Apple TV+: Teaser-Trailer zu „Spirited“ mit Ryan Reynolds, Will Ferell und Octavia Spencer veröffentlicht
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>Olli</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dyson stellt neue Bürsten-Technologie zur Entfernung von Haaren vor]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1134084</id>
+        <link href="https://stadt-bremerhaven.de/dyson-stellt-neue-buersten-technologie-zur-entfernung-von-haaren-vor/"/>
+        <updated>2022-10-13T12:30:26.000Z</updated>
+        <summary type="html"><![CDATA[Dyson hat eine neue Bürsten-Technologie zur Entfernung von Tier- & Menschenhaaren präsentiert. Entsprechende Aufsätze seien laut dem Anbieter ab sofort für alle Dyson-Modelle erhältlich. Die abgewinkelten Haarentfernungslamellen, welche sich in der Bürstenleiste befinden, sollen dafür sorgen, dass alle Arten von...
+Zum Beitrag: Dyson stellt neue Bürsten-Technologie zur Entfernung von Haaren vor
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CPU-Gerüchte: Intel Diamond Rapids mit PCIe 6.0 und CXL 3.0]]></title>
+        <id>https://www.computerbase.de/2022-10/cpu-geruechte-intel-diamond-rapids-mit-pcie-6-0-und-cxl-3-0/</id>
+        <link href="https://www.computerbase.de/2022-10/cpu-geruechte-intel-diamond-rapids-mit-pcie-6-0-und-cxl-3-0/"/>
+        <updated>2022-10-13T12:13:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/3/2/1-a4a88e341f7c9728/article-640x360.4175d29f.jpg"><p>Intels neue Server-CPU-Generation Sapphire Rapids steht weiterhin im Stau. Dennoch gibt es bereits neue Hinweise auf den Nach-Nach-Nachfolger Diamond Rapids, der irgendwann nach 2025 erwartet wird. Bei diesen Xeon-Prozessoren soll erstmals PCIe 6.0 und CXL 3.0 unterstützt werden.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ARD Mediathek: Tester für Android und iOS gesucht]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1134071</id>
+        <link href="https://stadt-bremerhaven.de/ard-mediathek-tester-fuer-android-und-ios-gesucht/"/>
+        <updated>2022-10-13T12:00:36.000Z</updated>
+        <summary type="html"><![CDATA[Die ARD Mediathek ist das erfolgreichste Angebot der ARD und erreicht jeden Tag mehr als zwei Millionen Menschen. Nun sucht man Tester, die Lust haben, das Angebot vorab unter die Lupe zu nehmen. Konkret kann man Testversionen für Android und...
+Zum Beitrag: ARD Mediathek: Tester für Android und iOS gesucht
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PlayStation Store: Neue Rabatte durch „Unerlässliche Favoriten“ und Deals von Square Enix]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1134039</id>
+        <link href="https://stadt-bremerhaven.de/playstation-store-neue-rabatte-durch-unerlaessliche-favoriten-und-deals-von-square-enix/"/>
+        <updated>2022-10-13T11:30:43.000Z</updated>
+        <summary type="html"><![CDATA[Die PlayStation Stars sind gestartet, es gibt aber abseits des Bonusprogramms auch noch die gewohnten Angebote im PlayStation Store. Einerseits wären das die „Unerlässlichen Favoriten“ mit bis zu 75 % Rabatt und andererseits Angebote von Square Enix mit bis zu...
+Zum Beitrag: PlayStation Store: Neue Rabatte durch „Unerlässliche Favoriten“ und Deals von Square Enix
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Steam mobile app update brings a new UI, sign in with QR code]]></title>
+        <id>https://www.ghacks.net/?p=181227</id>
+        <link href="https://www.ghacks.net/2022/10/13/steam-mobile-app-update-brings-a-new-ui-sign-in-with-qr-code/"/>
+        <updated>2022-10-13T11:30:25.000Z</updated>
+        <summary type="html"><![CDATA[The new Steam mobile app for Android and iOS is here. The version 3.0 update for the app brings a redesigned UI and a few additional features. Steam mobile app with new […]
+Thank you for being a Ghacks reader. The post Steam mobile app update brings a new UI, sign in with QR code appeared first on gHacks Technology News.]]></summary>
+        <author>
+            <name>Ashwin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PlayStation Plus Extra und Premium: Das sind die neuen Spiele ab dem 18. Oktober 2022]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1134031</id>
+        <link href="https://stadt-bremerhaven.de/playstation-plus-extra-und-premium-das-sind-die-neuen-spiele-ab-dem-18-oktober-2022/"/>
+        <updated>2022-10-13T11:15:09.000Z</updated>
+        <summary type="html"><![CDATA[Ab dem 18. Oktober 2022 wird der Spielekatalog für PlayStation Plus Extra und Premium um zahlreiche Titel erweitert. Darunter sind beispielsweise „Grand Theft Auto: Vice City – The Definitive Edition“, „Assassin’s Creed Odyssey“ sowie „The Medium“. Natürlich könnt ihr als...
+Zum Beitrag: PlayStation Plus Extra und Premium: Das sind die neuen Spiele ab dem 18. Oktober 2022
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shazam: Exklusive Hintergrundbilder und Zifferblätter für Künstler kommen]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1133981</id>
+        <link href="https://stadt-bremerhaven.de/shazam-exklusive-hintergrundbilder-und-zifferblaetter-fuer-kuenstler-kommen/"/>
+        <updated>2022-10-13T11:00:07.000Z</updated>
+        <summary type="html"><![CDATA[Apple hat 2018 die App Shazam übernommen und seitdem nicht nur in iOS integriert, sondern auch stetig ein klein wenig verbessert. Abonnenten von Apple Music können Shazam mit Music verknüpfen und eine automatische Wiedergabeliste auf Basis ihrer in Shazam erkannten...
+Zum Beitrag: Shazam: Exklusive Hintergrundbilder und Zifferblätter für Künstler kommen
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>Olli</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Alexa-Schnellzugriffsbereich für den Fire TV und mehr Neuerungen]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1134058</id>
+        <link href="https://stadt-bremerhaven.de/alexa-schnellzugriffsbereich-fuer-den-fire-tv-und-mehr-neuerungen/"/>
+        <updated>2022-10-13T10:45:22.000Z</updated>
+        <summary type="html"><![CDATA[Nichts für Experten, sondern eher für absolute Neulinge am Fire TV: Das Smart Home Dashboard sowie die Wettervorhersage und Tipps für Kunden, die ihre ersten Schritte mit Alexa auf Fire TV gehen, können ab sofort auch über den neuen Alexa-Schnellzugriffsbereich...
+Zum Beitrag: Alexa-Schnellzugriffsbereich für den Fire TV und mehr Neuerungen
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Homey Pro Smart-Home-Hub: Acht Standards, mehr Leistung, Thread und Matter]]></title>
+        <id>https://www.computerbase.de/2022-10/homey-pro-smart-home-hub-acht-standards-mehr-leistung-thread-und-matter/</id>
+        <link href="https://www.computerbase.de/2022-10/homey-pro-smart-home-hub-acht-standards-mehr-leistung-thread-und-matter/"/>
+        <updated>2022-10-13T10:42:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/3/1/7-23f57b536e04a297/article-640x360.bff1ac5a.jpg"><p>Nachdem Athom mit der Homey Bridge im letzten Jahr das Smart Home in die Cloud verlagert und den Einstiegspreis so auf 69 Euro gesenkt hatte, folgt nun mit dem neuen Homey Pro wieder eine lokale Smart-Home-Basisstation mit der Unterstützung für gleich acht Übertragungsstandards.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DWD WarnWetter: Version 4.0.0 mit Neuerungen]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1134060</id>
+        <link href="https://stadt-bremerhaven.de/dwd-warnwetter-version-4-0-0-mit-neuerungen/"/>
+        <updated>2022-10-13T10:30:22.000Z</updated>
+        <summary type="html"><![CDATA[Die App DWD WarnWetter des deutschen Wetterdienstes kennen vermutlich die meisten unserer Leser. Der Name ist dabei Programm, die App warnt bei gefährlichen Wetter-Situationen. Es gibt eine eingeschränkte Version der WarnWetter-App, die nur Warnungen anzeigt und es gibt eine Vollversion,...
+Zum Beitrag: DWD WarnWetter: Version 4.0.0 mit Neuerungen
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mozilla Thunderbird: Version 102.3.3 mit Bugfixes ist da]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1133938</id>
+        <link href="https://stadt-bremerhaven.de/mozilla-thunderbird-version-102-3-3-mit-bugfixes-ist-da/"/>
+        <updated>2022-10-13T10:15:43.000Z</updated>
+        <summary type="html"><![CDATA[Mozilla hat für sein quelloffenes und kostenfreies E-Mail-Programm eine neue Version parat. Das neue Update auf Version 102.3.3 lässt es bereits vermuten: Da stecken vor allem Fehlerbehebungen drin. Beziehen könnt ihr die Aktualisierung über den Bereich „Über Thunderbird“ oder ihr...
+Zum Beitrag: Mozilla Thunderbird: Version 102.3.3 mit Bugfixes ist da
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>Felix Frank</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Qualcomm Snapdragon XR2+ Gen 1: SoC für VR-Geräte offiziell vorgestellt]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1134004</id>
+        <link href="https://stadt-bremerhaven.de/qualcomm-snapdragon-xr2-gen-1-soc-fuer-vr-geraete-offiziell-vorgestellt/"/>
+        <updated>2022-10-13T10:00:59.000Z</updated>
+        <summary type="html"><![CDATA[Qualcomm hat sein neues VR-SoC Snapdragon XR2+ Gen 1 offiziell vorgestellt. Spannend ist daran, dass das erste Produkt auf Basis des Chips, die Meta Quest Pro, bereits zuvor vorgestellt worden ist. Informationen zu dem Prozessor reicht Qualcomm also nun sozusagen...
+Zum Beitrag: Qualcomm Snapdragon XR2+ Gen 1: SoC für VR-Geräte offiziell vorgestellt
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quartalszahlen: TSMC schwimmt nach Sommer-Quartal im Geld]]></title>
+        <id>https://www.computerbase.de/2022-10/quartalszahlen-tsmc-schwimmt-nach-sommer-quartal-im-geld/</id>
+        <link href="https://www.computerbase.de/2022-10/quartalszahlen-tsmc-schwimmt-nach-sommer-quartal-im-geld/"/>
+        <updated>2022-10-13T07:11:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/3/1/8-c04c13f970191381/article-640x360.386cb267.jpg"><p>Mit Spannung blickt die IT-Welt auf TSMCs Quartalsbericht. Und wie üblich liefert der Auftragshersteller, sogar mehr als das. Denn der Gewinn legte um fast 80 Prozent zu und der Umsatz stieg sogar noch über die hohen Erwartungen.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What makes digital marketplaces so appealing to gamers?]]></title>
+        <id>https://www.ghacks.net/?p=181235</id>
+        <link href="https://www.ghacks.net/2022/10/13/what-makes-digital-marketplaces-so-appealing-to-gamers/"/>
+        <updated>2022-10-13T07:06:01.000Z</updated>
+        <summary type="html"><![CDATA[Long gone are the days when you had to take time off your busy schedule and go shopping. Some people still enjoy this experience, but many have embraced the simplicity of digital […]
+Thank you for being a Ghacks reader. The post What makes digital marketplaces so appealing to gamers? appeared first on gHacks Technology News.]]></summary>
+        <author>
+            <name>Cristian Capdevila</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anstoss 2022: Fußballmanager kurz vor Anpfiff verschoben]]></title>
+        <id>https://www.computerbase.de/2022-10/anstoss-2022-fussballmanager-kurz-vor-anpfiff-verschoben/</id>
+        <link href="https://www.computerbase.de/2022-10/anstoss-2022-fussballmanager-kurz-vor-anpfiff-verschoben/"/>
+        <updated>2022-10-13T04:57:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/3/1/6-db0434ea0ddee56d/article-640x360.1d273ebe.jpg"><p>Eigentlich sollte Anstoss 2022, das inzwischen „Anstoss – Der Fussballmanager“ wie das alte Original heißt, heute erscheinen. Doch kurz vor Anpfiff wurde die Veröffentlichung verschoben. Wegen Problemen erscheint das Spiel jetzt erst Anfang November.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft is adding support for iCloud Photos in Windows 11's Photos app; Apple TV and Apple Music apps are coming to PCs next year]]></title>
+        <id>https://www.ghacks.net/?p=181217</id>
+        <link href="https://www.ghacks.net/2022/10/13/icloud-photos-in-windows-11-photos-app/"/>
+        <updated>2022-10-13T04:49:53.000Z</updated>
+        <summary type="html"><![CDATA[Windows 11's Photos app is gaining support for iCloud Photos in the Dev Channel. The announcement was made at Microsoft's Surface event, when the Redmond company introduced its new lineup of devices. […]
+Thank you for being a Ghacks reader. The post Microsoft is adding support for iCloud Photos in Windows 11's Photos app; Apple TV and Apple Music apps are coming to PCs next year appeared first on gHacks Technology News.]]></summary>
+        <author>
+            <name>Ashwin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[0Patch promises 2 additional years of security patches for Windows 7 and Server 2008 R2]]></title>
+        <id>https://www.ghacks.net/?p=181223</id>
+        <link href="https://www.ghacks.net/2022/10/13/0patch-promises-2-additional-years-of-security-patches-for-windows-7-and-server-2008-r2/"/>
+        <updated>2022-10-13T04:44:35.000Z</updated>
+        <summary type="html"><![CDATA[Windows 7 and Windows Server 2008 R2 will get at least an additional 2 years of security updates, courtesy of the micro-patching solution 0Patch. Microsoft introduced Extended Security Updates for Windows 7 […]
+Thank you for being a Ghacks reader. The post 0Patch promises 2 additional years of security patches for Windows 7 and Server 2008 R2 appeared first on gHacks Technology News.]]></summary>
+        <author>
+            <name>Martin Brinkmann</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Homey Pro (2023) vorgestellt: Mit Thread und Matter für die Zukunft gewappnet]]></title>
         <id>https://stadt-bremerhaven.de/?p=1133941</id>
@@ -11081,483 +11527,6 @@ Zum Blog: Caschys Blog
 Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
         <author>
             <name>André Westphal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PlayStation Store: Blockbuster-Spiele mit bis zu 75 % Rabatt]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1129430</id>
-        <link href="https://stadt-bremerhaven.de/playstation-store-blockbuster-spiele-mit-bis-zu-75-rabatt/"/>
-        <updated>2022-09-14T14:30:12.000Z</updated>
-        <summary type="html"><![CDATA[Im PlayStation Store gibt es mal wieder neue Angebote. Als Angebot der Woche etwa erhaltet ihr den Titel „Teenage Mutant Ninja Turtles: Shredder’s Revenge“ für 19,99 Euro. Unter dem Motto „Blockbuster-Spiele“ kredenzt man euch wiederum Games mit bis zu 75...
-Zum Beitrag: PlayStation Store: Blockbuster-Spiele mit bis zu 75 % Rabatt
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>André Westphal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OnePlus 9/9 Pro: Update verbessert Kamera und enthält den August-Sicherheitspatch]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1129344</id>
-        <link href="https://stadt-bremerhaven.de/oneplus-9-9-pro-update-verbessert-kamera-und-enthaelt-den-august-sicherheitspatch/"/>
-        <updated>2022-09-14T14:00:55.000Z</updated>
-        <summary type="html"><![CDATA[Solltet ihr ein OnePlus 9 oder OnePlus 9 Pro euer Eigen nennen, dann könnt ihr euch schon bald – mit viel Glück schon jetzt – das C.64-Update für OxygenOS 12 laden und installieren. Leider hat es nichts mit dem guten,...
-Zum Beitrag: OnePlus 9/9 Pro: Update verbessert Kamera und enthält den August-Sicherheitspatch
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>Benjamin Mamerow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sonos Sub Mini: Günstigerer WLAN-Subwoofer für das Sonos-System]]></title>
-        <id>https://www.computerbase.de/2022-09/sonos-sub-mini-guenstigerer-wlan-subwoofer-fuer-das-sonos-system/</id>
-        <link href="https://www.computerbase.de/2022-09/sonos-sub-mini-guenstigerer-wlan-subwoofer-fuer-das-sonos-system/"/>
-        <updated>2022-09-14T13:50:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/0/1/9-c536712e0146692d/article-640x360.9aa41db4.jpg"><p>Sonos hat mit dem neuen Sonos Sub Mini einen WLAN-Subwoofer angekündigt, der sich mit seinem zylindrischen Design am Äußeren des Sonos Sub orientiert, aber kompakter ist. Dennoch soll er, so der Hersteller, „satten und klaren Sound für niedrigere Frequenzen“ bieten.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple iPhone 14: Das sagen die ersten Tests]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1129427</id>
-        <link href="https://stadt-bremerhaven.de/apple-iphone-14-das-sagen-die-ersten-tests/"/>
-        <updated>2022-09-14T13:34:01.000Z</updated>
-        <summary type="html"><![CDATA[Apple hat letzte Woche die neuen iPhone 14, 14 Plus, 14 Pro und 14 Pro Max vorgestellt. Die mobilen Endgeräte sind seit Freitag dann auch vorbestellbar. Es gibt da so einige Anpassungen. Beispielsweise haben nur die neuen Pro-Modelle das brandneue...
-Zum Beitrag: Apple iPhone 14: Das sagen die ersten Tests
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>André Westphal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GeForce RTX 4090 & RTX 4080: Details zu GPU und TGP der ersten drei GeForce RTX 4000]]></title>
-        <id>https://www.computerbase.de/2022-09/nvidia-geforce-rtx-4090-4080-leistungsaufnahme/</id>
-        <link href="https://www.computerbase.de/2022-09/nvidia-geforce-rtx-4090-4080-leistungsaufnahme/"/>
-        <updated>2022-09-14T13:31:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/0/2/2-7b3b266dfed2083b/article-640x360.b7983f5b.jpg"><p>Nach einem Monat währenden hin und her bei den Spekulationen zu den Eckdaten der ersten Nvidia GeForce RTX 4000 gibt VideoCardz mit eigenen Quellen letzten Gerüchten jetzt mehr Substanz. Konkret werden die Namen und Eckdaten inklusive TGP (Standard und Maximum) der ersten drei zu erwartenden GeForce RTX 4000 genannt.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WhatsApp Beta für Android 2.22.20.10 bereitet den Import von Sicherungen vor]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1129374</id>
-        <link href="https://stadt-bremerhaven.de/whatsapp-beta-fuer-android-2-22-20-10-bereitet-den-import-von-sicherungen-vor/"/>
-        <updated>2022-09-14T13:00:31.000Z</updated>
-        <summary type="html"><![CDATA[WhatsApp ist für Android in der neuen Beta 2.22.20.10 erschienen. Diese bereitet den Import von Sicherungen vor. Aktuell befindet sich die Funktion aber noch in der Entwicklung. Derzeit könnt ihr also aktiv noch nichts ausprobieren. Logischerweise will man dabei nicht...
-Zum Beitrag: WhatsApp Beta für Android 2.22.20.10 bereitet den Import von Sicherungen vor
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>André Westphal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AM5-Mainboards: AMD lädt zur Vorstellung der B650(E)-Modelle]]></title>
-        <id>https://www.computerbase.de/2022-09/am5-mainboards-amd-laedt-zur-vorstellung-der-b650-e-modelle/</id>
-        <link href="https://www.computerbase.de/2022-09/am5-mainboards-amd-laedt-zur-vorstellung-der-b650-e-modelle/"/>
-        <updated>2022-09-14T12:56:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/0/1/8-865cb6e8a0e487c9/article-640x360.3c0cd58a.jpg"><p>AMD lädt zu einem Web-Seminar am 4. Oktober 2022, um dort einen „exklusiven ersten Blick“ auf die kommenden AMD-Mainboards mit B650- und B650E-Chipsatz zu liefern. Neben dem Produkt-Marketing-Manager von AMD werden Vertreter von Asus, ASRock, Biostar, Gigabyte und MSI zugegen sein und ihre Produkte vorstellen.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[„Star Wars: Tales From the Galaxy’s Edge – Enhanced Edition“ kommt für die PS VR2]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1129350</id>
-        <link href="https://stadt-bremerhaven.de/star-wars-tales-from-the-galaxys-edge-enhanced-edition-kommt-fuer-die-ps-vr2/"/>
-        <updated>2022-09-14T12:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Das Spiel „Star Wars: Tales from the Galaxy’s Edge“ erscheint 2023 als Enhanced Edition für die Sony PlayStation VR2. Es handelt sich hier um eine VR-Erfahrung von Lucasfilms ILMxLAB. Der Titel wurde neu aufgezogen, um die technischen Mehrwerte des kommenden...
-Zum Beitrag: „Star Wars: Tales From the Galaxy’s Edge – Enhanced Edition“ kommt für die PS VR2
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>André Westphal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Legend of Zelda: Tears of the Kingdom folgt Breath of the Wild im Mai 2023]]></title>
-        <id>https://www.computerbase.de/2022-09/the-legend-of-zelda-tears-of-the-kingdom-12-mai-2023/</id>
-        <link href="https://www.computerbase.de/2022-09/the-legend-of-zelda-tears-of-the-kingdom-12-mai-2023/"/>
-        <updated>2022-09-14T12:02:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/0/1/6-adda269864c9faf4/article-640x360.d308859c.jpg"><p>The Legend of Zelda: Tears of the Kingdom erscheint offiziell am 12. Mai 2023 für die Nintendo Switch. Das Spiel folgt auf das äußerst erfolgreiche The Legend of Zelda: Breath of the Wild, das vor mehr als fünf Jahren seine Premiere auf der Wii U und Switch feierte.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ZDFmediathek: iOS-App mit zwei neuen Funktionen]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1129334</id>
-        <link href="https://stadt-bremerhaven.de/zdfmediathek-ios-app-mit-zwei-neuen-funktionen/"/>
-        <updated>2022-09-14T12:00:31.000Z</updated>
-        <summary type="html"><![CDATA[In unserer aktuellen Umfrage geht’s um den öffentlich-rechtlichen Rundfunk und die Frage, ob dieser reformiert oder gar abgeschafft werden soll. Knapp 12.000 Stimmen wurden bereits abgegeben. Zum öffentlich-rechtlichen Rundfunk gehören mittlerweile zahlreiche Angebote und Apps, wie die ZDFmediathek. Die hat...
-Zum Beitrag: ZDFmediathek: iOS-App mit zwei neuen Funktionen
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>caschy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GPUs auf Ebay (ver)kaufen: Die neue alte Realität am Grafikkarten-Gebrauchtmarkt]]></title>
-        <id>https://www.computerbase.de/2022-09/gpus-auf-ebay-ver-kaufen-die-neue-alte-realitaet-am-grafikkarten-gebrauchtmarkt/</id>
-        <link href="https://www.computerbase.de/2022-09/gpus-auf-ebay-ver-kaufen-die-neue-alte-realitaet-am-grafikkarten-gebrauchtmarkt/"/>
-        <updated>2022-09-14T11:30:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/0/1/4-6cc4550e1ad5bfcf/article-640x360.325477e0.jpg"><p>Die Preise für Grafikkarten sind deutlich gefallen, bei Nvidias Topmodellen wurde sogar die zuletzt an die hohen Marktpreise angepasste UVP gesenkt. Gründe dafür sind hohe Lagerbestände auch in Folge der fallenden Nachfrage von Mining-Farmen und die bevorstehenden Next-Gen-Grafikkarten. Das spürt auch der Gebrauchtmarkt.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EuGH: Google muss 4,1 Milliarden Euro Strafe zahlen]]></title>
-        <id>https://www.computerbase.de/2022-09/eugh-google-muss-4-1-milliarden-euro-strafe-zahlen/</id>
-        <link href="https://www.computerbase.de/2022-09/eugh-google-muss-4-1-milliarden-euro-strafe-zahlen/"/>
-        <updated>2022-09-14T10:48:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/0/1/5-1a4304eaba1b5789/article-640x360.7f684857.jpg"><p>Googles Rekordstrafe bleibt bestehen. Der Europäische Gerichtshof (EuGH) hat entschieden, dass der Mutterkonzern Alphabet 4,1 Milliarden Euro zahlen muss. Der Grund sind wettbewerbswidrige Vorgaben beim Mobil-Betriebssystem Android, durch die Google seine Marktmacht missbraucht hat.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Xeon Platinum 8490H: Intels erster 60-Kerner für Server im Detail]]></title>
-        <id>https://www.computerbase.de/2022-09/xeon-platinum-8490h-intels-erster-60-kerner-fuer-server-im-detail/</id>
-        <link href="https://www.computerbase.de/2022-09/xeon-platinum-8490h-intels-erster-60-kerner-fuer-server-im-detail/"/>
-        <updated>2022-09-14T10:04:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/0/1/2-815a06791ea8213f/article-640x360.e275456e.jpg"><p>Die Glaubwürdigkeit seiner Informationen zum kommenden Lineup der Server-Prozessoren vom Typ Intel Sapphire Rapids unterstreicht der Twitter-Nutzer @yuuki_ans mit Screenshots. Der Xeon Platinum 8490H bildet mit 60 Kernen die Speerspitze.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Samsung Galaxy Watch 5 im Test: Günstig und trotzdem die beste Android-Smartwatch]]></title>
-        <id>https://www.computerbase.de/2022-09/samsung-galaxy-watch-5-test/</id>
-        <link href="https://www.computerbase.de/2022-09/samsung-galaxy-watch-5-test/"/>
-        <updated>2022-09-14T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/8/8/2-6bff266b053f5cde/article-640x360.7d84cbd9.jpg"><p>Die Samsung Galaxy Watch 5 ist die beste Smartwatch für Galaxy-Smartphones. Funktionsumfang, Preis und Verarbeitung überzeugen ebenso wie Geschwindigkeit und Messgenauigkeit. Einschränkungen gibt es bei der Akkulaufzeit und wenn man kein Galaxy-Smartphone nutzt, denn dann können Blutdruck und EKG nicht gemessen werden.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitwarden password manager adds Fastmail email forwarding support]]></title>
-        <id>https://www.ghacks.net/?p=180763</id>
-        <link href="https://www.ghacks.net/2022/09/14/bitwarden-password-manager-adds-fastmail-email-forwarding-support/"/>
-        <updated>2022-09-14T09:05:57.000Z</updated>
-        <summary type="html"><![CDATA[Bitwarden is a popular choice when it comes to password managers. A late entry to the niche, it is open source, free for personal use and does not restrict functionality artificially for […]
-Thank you for being a Ghacks reader. The post Bitwarden password manager adds Fastmail email forwarding support appeared first on gHacks Technology News.]]></summary>
-        <author>
-            <name>Martin Brinkmann</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TSMC N3E: Apple nutzt optimierte 3-nm-Fertigung für A17 und M3]]></title>
-        <id>https://www.computerbase.de/2022-09/tsmc-n3e-apple-nutzt-optimierte-3-nm-fertigung-fuer-a17-und-m3/</id>
-        <link href="https://www.computerbase.de/2022-09/tsmc-n3e-apple-nutzt-optimierte-3-nm-fertigung-fuer-a17-und-m3/"/>
-        <updated>2022-09-14T08:50:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/0/1/0-8b4dd7a560ef8c22/article-640x360.aeb5950e.jpg"><p>Seit längerer Zeit wird Apple als erster Abnehmer von TSMCs 3-nm-Fertigung gehandelt. Aus dem asiatischen Raum wird das Gerücht abermals untermauert. Demnach soll der A17 den optimierten N3E-Prozess nutzen. Der neue Node könnte erneut den Pro-Modellen vorbehalten sein. Auch für den M3 soll die Fertigung zu 3 nm wechseln.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sprachchat: Discord Voice hält auf Xbox Einzug [Notiz]]]></title>
-        <id>https://www.computerbase.de/2022-09/sprachchat-discord-voice-haelt-auf-xbox-einzug/</id>
-        <link href="https://www.computerbase.de/2022-09/sprachchat-discord-voice-haelt-auf-xbox-einzug/"/>
-        <updated>2022-09-14T08:42:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/0/1/3-685bc03d02f77ca8/article-640x360.6a3d1862.jpg"><p>Wie im Juli bereits angekündigt, kann der Voice-Chat Discord nun auch auf der Xbox Series X|S (Test) und Xbox One genutzt werden. Sprachchats können dabei jetzt sogar plattformübergreifend zwischen PC, Xbox und mobilem Endgerät abgehalten werden.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[God of War Ragnarök: Sony präsentiert Story-Trailer und limitierten PS5-Controller]]></title>
-        <id>https://www.computerbase.de/2022-09/god-of-war-ragnaroek-trailer-ps5-controller/</id>
-        <link href="https://www.computerbase.de/2022-09/god-of-war-ragnaroek-trailer-ps5-controller/"/>
-        <updated>2022-09-14T08:34:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/0/1/1-046208632e4c3673/article-640x360.e235f551.jpg"><p>Sony hat im Rahmen seines State of Play einen neuen Trailer sowie einen limitierten DualSense-Controller zu dem kommenden ARPG-Blockbuster God of War Ragnarök präsentiert. In dem von SIE Santa Monica Studio entwickelten Action-Abenteuer begleiten die Spieler erneut Kratos und Atreus auf der PlayStation 4 und 5.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple releases Safari 16 for macOS Monterey and Big Sur]]></title>
-        <id>https://www.ghacks.net/?p=180742</id>
-        <link href="https://www.ghacks.net/2022/09/14/whats-new-in-apple-safari-16-update-for-macos/"/>
-        <updated>2022-09-14T08:02:47.000Z</updated>
-        <summary type="html"><![CDATA[The Safari 16 update is now available for macOS Monterey and Big Sur users. Let's take a look at the new version of the web browser. What's new in Apple Safari 16 […]
-Thank you for being a Ghacks reader. The post Apple releases Safari 16 for macOS Monterey and Big Sur appeared first on gHacks Technology News.]]></summary>
-        <author>
-            <name>Ashwin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Samurai-Open-World-ARPG: Rise of Ronin erscheint 2024 exklusiv für die PlayStation 5]]></title>
-        <id>https://www.computerbase.de/2022-09/rise-of-ronin-open-world-rpg-playstation-5/</id>
-        <link href="https://www.computerbase.de/2022-09/rise-of-ronin-open-world-rpg-playstation-5/"/>
-        <updated>2022-09-14T07:59:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/0/0/9-1bce1c0e4bad64fe/article-640x360.7c4060c4.jpg"><p>Rise of Ronin, ein Open-World-ARPG des japanischen Entwicklungsstudios Team Ninja, das im Jahre 1863, in dem unter anderem auch der Taiping-Aufstand sein Ende fand, in Japan seinen Lauf nimmt, erscheint 2024 als exklusiver Titel für die PlayStation 5 (Test) von Sony. Die Publisher haben jetzt einen ersten Trailer veröffentlicht.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Install Microsoft .NET with the Windows Package Manager winget]]></title>
-        <id>https://www.ghacks.net/?p=180760</id>
-        <link href="https://www.ghacks.net/2022/09/14/install-microsoft-net-with-the-windows-package-manager-winget/"/>
-        <updated>2022-09-14T05:17:47.000Z</updated>
-        <summary type="html"><![CDATA[Windows administrators may use the Windows Package Manager winget to install supported Microsoft .NET applications. Microsoft released Windows Package Manager 1.0 back in 2021, opening it up for use on production machines. […]
-Thank you for being a Ghacks reader. The post Install Microsoft .NET with the Windows Package Manager winget appeared first on gHacks Technology News.]]></summary>
-        <author>
-            <name>Martin Brinkmann</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iOS 16: LockFlow ermöglicht, Kurzbefehle als Widgets auf dem Homescreen abzulegen]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1129277</id>
-        <link href="https://stadt-bremerhaven.de/ios-16-lockflow-ermoeglicht-kurzbefehle-als-widgets-auf-dem-homescreen-abzulegen/"/>
-        <updated>2022-09-13T19:16:54.000Z</updated>
-        <summary type="html"><![CDATA[Eine der auffälligsten Änderungen, die mit iOS 16 Einzug auf euer iPhone gehalten hat, ist die Möglichkeit von Widgets im Sperrbildschirm. Eigentlich kein Wunder, dass ein paar findige App-Entwickler hier nicht lange gewartet haben, um Apps herauszubringen, die euch dann...
-Zum Beitrag: iOS 16: LockFlow ermöglicht, Kurzbefehle als Widgets auf dem Homescreen abzulegen
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>Benjamin Mamerow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iOS 16 und die Home-App: Schalter richtig ansteuern und Schaltflächen vergrößern]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1129254</id>
-        <link href="https://stadt-bremerhaven.de/ios-16-und-die-home-app-schalter-richtig-ansteuern-und-schaltflaechen-vergroessern/"/>
-        <updated>2022-09-13T18:30:01.000Z</updated>
-        <summary type="html"><![CDATA[iOS 16 ist da und damit auch die neue Home-App zum Steuern der Smart-Home-Hardware im HomeKit-Universum. Für Umsteiger sicher erst einmal ein Schlag, denn es gibt durchaus Dinge, da muss man sich (leider) dran gewöhnen. Klassische Räume sind ja weg,...
-Zum Beitrag: iOS 16 und die Home-App: Schalter richtig ansteuern und Schaltflächen vergrößern
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>caschy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Readdle: Apps bekommen iOS-16-Optimierung]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1129226</id>
-        <link href="https://stadt-bremerhaven.de/readdle-apps-bekommen-ios-16-optimierung/"/>
-        <updated>2022-09-13T18:00:21.000Z</updated>
-        <summary type="html"><![CDATA[Die Apps von Readdle kennen vermutliche viele iOS-Nutzer. Da gibt’s unter anderem Calendars, Spark als Mail-App, eine PDF- sowie Scanner-App hat man auch im Programm, des Weiteren gibt’s Documents, seit Jahren eine meiner Favoriten-Apps, auch wenn ich sie nicht mehr...
-Zum Beitrag: Readdle: Apps bekommen iOS-16-Optimierung
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>caschy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Windows: Updates für den Patch-Day September veröffentlicht]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1129263</id>
-        <link href="https://stadt-bremerhaven.de/windows-updates-fuer-den-patch-day-september-veroeffentlicht/"/>
-        <updated>2022-09-13T17:50:03.000Z</updated>
-        <summary type="html"><![CDATA[Der monatliche Patch-Dienstag ist angelaufen. Unterstützte Versionen von Windows 10 und Windows 11 werden also mit Updates bedacht. Wie immer ist auch dieses kumulative Windows-Update obligatorisch und wird automatisch von Windows Update während des Wartungsfensters installiert, alternativ kann man aktiv...
-Zum Beitrag: Windows: Updates für den Patch-Day September veröffentlicht
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>caschy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ghacks Deals: Supercharged Cybersecurity Bundle]]></title>
-        <id>https://www.ghacks.net/?p=180756</id>
-        <link href="https://www.ghacks.net/2022/09/13/ghacks-deals-supercharged-cybersecurity-bundle/"/>
-        <updated>2022-09-13T17:39:20.000Z</updated>
-        <summary type="html"><![CDATA[The Supercharged Cybersecurity Bundle is a huge bundle that includes ten different security released ebooks. Ebooks may be downloaded for offline access, and length of access is set to lifetime. Here is […]
-Thank you for being a Ghacks reader. The post Ghacks Deals: Supercharged Cybersecurity Bundle appeared first on gHacks Technology News.]]></summary>
-        <author>
-            <name>Martin Brinkmann</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Windows Security Updates September 2022 overview]]></title>
-        <id>https://www.ghacks.net/?p=180752</id>
-        <link href="https://www.ghacks.net/2022/09/13/microsoft-windows-security-updates-september-2022-overview/"/>
-        <updated>2022-09-13T17:30:49.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft released security and non-security updates for Windows and other company products on the September 2022 Patch Day. These updates address security issues in Microsoft products, and may also introduce improvements, fix […]
-Thank you for being a Ghacks reader. The post Microsoft Windows Security Updates September 2022 overview appeared first on gHacks Technology News.]]></summary>
-        <author>
-            <name>Martin Brinkmann</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Corel tauft sich selbst zu Alludo um]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1129184</id>
-        <link href="https://stadt-bremerhaven.de/corel-tauft-sich-selbst-zu-alludo-um/"/>
-        <updated>2022-09-13T17:30:25.000Z</updated>
-        <summary type="html"><![CDATA[Corel benennt seine eigene Marke in Alludo um. Corel sagt euch vermutlich durch seine Marken wie Parallels, CorelDRAW, MindManager und WinZip etwas. Nun führt man eben ein komplettes Re-branding durch. Damit soll wohl auch ein gewisser Wechsel des Fokus einhergehen....
-Zum Beitrag: Corel tauft sich selbst zu Alludo um
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>André Westphal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[„Call of Duty: Next“: Event zur Shooter-Reihe am 15. September 2022]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1129144</id>
-        <link href="https://stadt-bremerhaven.de/call-of-duty-next-event-zur-shooter-reihe-am-15-september-2022/"/>
-        <updated>2022-09-13T17:00:54.000Z</updated>
-        <summary type="html"><![CDATA[Am 15. September 2022 will Activision Blizzard im Rahmen des Events „Call of Duty: Next“ über die Zukunft der Spielereihe sprechen. Gleichzeitig kündigt man für den 16. September eine neue Beta zu „Call of Duty: Modern Warfare II“ an, die...
-Zum Beitrag: „Call of Duty: Next“: Event zur Shooter-Reihe am 15. September 2022
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>André Westphal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jurassic World Evolution 2: DLC Late Cretaceous Pack liefert neue Dinos [Notiz]]]></title>
-        <id>https://www.computerbase.de/2022-09/jurassic-world-evolution-2-dlc-late-cretaceous-pack-liefert-neue-dinos/</id>
-        <link href="https://www.computerbase.de/2022-09/jurassic-world-evolution-2-dlc-late-cretaceous-pack-liefert-neue-dinos/"/>
-        <updated>2022-09-13T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/0/0/7-7bdf9e6aa3b11c3c/article-640x360.c3537cfd.jpg"><p>Mit dem DLC Late Cretaceous Pack erhält die Parksimulation Jurassic World Evolution 2 zum 15. September weiteren Dinonachschub. Über ein allgemeines Update erhalten zudem alle Spieler Zugriff auf neue Funktionen im Spiel.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Community: Screenshotwettbewerb ab Oktober in neuer Aufmachung [Notiz]]]></title>
-        <id>https://www.computerbase.de/2022-09/community-screenshotwettbewerb-ab-oktober-in-neuer-aufmachung/</id>
-        <link href="https://www.computerbase.de/2022-09/community-screenshotwettbewerb-ab-oktober-in-neuer-aufmachung/"/>
-        <updated>2022-09-13T16:41:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/0/0/6-cc8f77d2f6366195/article-640x360.91014531.jpg"><p>Der bis Juni in üblicher Manier abgehaltene Screenshot-Wettbewerb kehrt ab Oktober mit einem neuen Verfahren zurück. Der Wettbewerb läuft sechs Monate, in denen die Teilnehmer Punkte sammeln können und so am Ende ein Gesamtsieger feststeht. Auch die Themen werden im Vorfeld feststehen.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AVM FRITZ!Box: Helfer-Software BoxToGo zum halben Preis]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1129206</id>
-        <link href="https://stadt-bremerhaven.de/avm-fritzbox-helfer-software-boxtogo-zum-halben-preis/"/>
-        <updated>2022-09-13T16:30:42.000Z</updated>
-        <summary type="html"><![CDATA[Android-Nutzer mit AVM FRITZ!Box im Haushalt kennen unter Umständen die App BoxToGo. Seit vielen Jahren haben so fortgeschrittene Nutzer die Möglichkeit, einige Komfortfunktionen der FRITZ!Box über die App zu nutzen. BoxToGo unterstützt vollumfänglich FRITZ!OS und alle Labor-Versionen. Kostet die Software...
-Zum Beitrag: AVM FRITZ!Box: Helfer-Software BoxToGo zum halben Preis
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>caschy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ubisoft erhöht Spielepreise ebenfalls auf 79,99 Euro]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1129221</id>
-        <link href="https://stadt-bremerhaven.de/ubisoft-erhoeht-spielepreise-ebenfalls-auf-7999-euro/"/>
-        <updated>2022-09-13T16:00:22.000Z</updated>
-        <summary type="html"><![CDATA[Zum Start der aktuellen Konsolengeneration hatten einige Entwickler und Publisher angekündigt, die Spielepreise anzuziehen: In den USA kosten ihre Games nun 69,99 US-Dollar und in Europa sind es 79,99 Euro. Ganz vorne mit dabei war Sony, die als erste nach...
-Zum Beitrag: Ubisoft erhöht Spielepreise ebenfalls auf 79,99 Euro
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>André Westphal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nintendo Direct u. a. mit The Legend of Zelda: Tears of the Kingdom]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1129235</id>
-        <link href="https://stadt-bremerhaven.de/nintendo-direct-u-a-mit-the-legend-of-zelda-tears-of-the-kingdom/"/>
-        <updated>2022-09-13T15:53:52.000Z</updated>
-        <summary type="html"><![CDATA[Auf der Nintendo Direct hat Nintendo es Spiele und Ankündigungen hageln lassen. Vielleicht für viele ein Highlight: The Legend of Zelda: Breath of the Wild. Ein geheimnisvoller Trailer zeigte zudem neue Spielszenen, die über den Wolken stattfinden. Das Abenteuer von...
-Zum Beitrag: Nintendo Direct u. a. mit The Legend of Zelda: Tears of the Kingdom
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>caschy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aqara Heizkörperthermostat E1 startet in Deutschland]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1129176</id>
-        <link href="https://stadt-bremerhaven.de/aqara-heizkoerperthermostat-e1-startet-in-deutschland/"/>
-        <updated>2022-09-13T15:30:34.000Z</updated>
-        <summary type="html"><![CDATA[Das Smart-Home-Unternehmen Aqara hat ein neues Produkt in Deutschland an den Start gebracht. Hierbei handelt es sich um das Heizkörperthermostat mit dem knappen Namen „E1“. Das E1 muss an einen Hub mit Zigbee 3 von Aqara angebunden werden und spricht dann...
-Zum Beitrag: Aqara Heizkörperthermostat E1 startet in Deutschland
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>caschy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zoom Chat wird zum Zoom Team Chat]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1129191</id>
-        <link href="https://stadt-bremerhaven.de/zoom-chat-wird-zum-zoom-team-chat/"/>
-        <updated>2022-09-13T15:00:42.000Z</updated>
-        <summary type="html"><![CDATA[Es gibt Neues von Zoom, die in der Corona-Krise natürlich ordentlich mit ihren Lösungen für Videokonferenzen im Aufwind gelegen haben. In eine recht langatmige Mitteilung verpackt man dabei derzeit eine kleine News: Aus dem Zoom Chat wird ab sofort offiziell...
-Zum Beitrag: Zoom Chat wird zum Zoom Team Chat
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>André Westphal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[„Thunderbolt 5“: Intel demonstriert neue Schnittstelle mit 80 Gbit/s]]></title>
-        <id>https://www.computerbase.de/2022-09/thunderbolt-5-intel-demonstriert-neue-schnittstelle-mit-80-gbit-s/</id>
-        <link href="https://www.computerbase.de/2022-09/thunderbolt-5-intel-demonstriert-neue-schnittstelle-mit-80-gbit-s/"/>
-        <updated>2022-09-13T14:34:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/0/0/5-06108e377b384a67/article-640x360.c66e0b72.jpg"><p>Die neuen USB-Standards und die Thunderbolt-Schnittstelle gehen Hand in Hand, das zeigt nicht nur der gemeinsam genutzte USB-C-Stecker. Nachdem kürzlich USB4 2.0 mit 80 Gbit/s angekündigt wurde, demonstrierte Intel jetzt „Thunderbolt 5“ mit der gleichen Datenrate.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
         </author>
     </entry>
 </feed>
