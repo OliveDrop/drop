@@ -2,10 +2,442 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://olivedrop.github.io/drop/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-17T02:47:02.561Z</updated>
+    <updated>2022-10-18T02:36:31.976Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://olivedrop.github.io/drop/index.html"/>
     <link rel="self" href="https://olivedrop.github.io/drop/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[A Plague Tale: Requiem im Test: Richtig schöne Grafik mit enormen GPU-Anforderungen]]></title>
+        <id>https://www.computerbase.de/2022-10/a-plague-tale-requiem-benchmark-test/</id>
+        <link href="https://www.computerbase.de/2022-10/a-plague-tale-requiem-benchmark-test/"/>
+        <updated>2022-10-17T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/3/2/6-cd3d5984b9ca8aca/article-640x360.df2c4082.jpg"><p>In A Plague Tale: Requiem sind Amicia und Hugo erneut auf der Flucht vor den Ratten. Wie gut das nach dem Überraschungserfolg des Vorgängers auf dem PC funktioniert, klärt der Technik-Test. Auffallend sind auf jeden Fall eine überraschend hübsche Grafik, doch nur High-End-PCs rendern sie auch schnell genug.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pokémon GO: Top-Raids ab sofort verfügbar]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1134622</id>
+        <link href="https://stadt-bremerhaven.de/pokemon-go-top-raids-ab-sofort-verfuegbar/"/>
+        <updated>2022-10-17T17:56:15.000Z</updated>
+        <summary type="html"><![CDATA[Gemeinsam mit Frau und Sohn konnte ich bereits daran teilnehmen: Die neuen Top-Raids haben ihren Einzug in die Spielwelt von Pokémon GO gehalten. Hierbei handelt es sich um eine etwas schwierigere Variante von Raids, die während der aktuell laufenden Saison...
+Zum Beitrag: Pokémon GO: Top-Raids ab sofort verfügbar
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>Benjamin Mamerow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Netflix: Profilübertragung von geteilten Konten wird möglich]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1134616</id>
+        <link href="https://stadt-bremerhaven.de/netflix-profiluebertragung-von-geteilten-konten-wird-moeglich/"/>
+        <updated>2022-10-17T17:27:06.000Z</updated>
+        <summary type="html"><![CDATA[Wie der Streaminganbieter Netflix informiert, wird aktuell das neue Feature der Profilübertragung eingeführt. Damit ist es in Verbindung mit geteilt-genutzten Konten möglich, sämtliche personalisierten Empfehlungen, den Verlauf, die „Meine Liste“, gespeicherte Spiele und mehr auf ein neu erstelltes Konto...
+Zum Beitrag: Netflix: Profilübertragung von geteilten Konten wird möglich
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>Benjamin Mamerow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dolby Atmos: Mercedes-Benz bringt Spatial Audio von Apple ins Auto]]></title>
+        <id>https://www.computerbase.de/2022-10/dolby-atmos-mercedes-benz-bringt-spatial-audio-von-apple-ins-auto/</id>
+        <link href="https://www.computerbase.de/2022-10/dolby-atmos-mercedes-benz-bringt-spatial-audio-von-apple-ins-auto/"/>
+        <updated>2022-10-17T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/3/5/7-b54666865a4a45b6/article-640x360.349ae17c.jpg"><p>Mercedes-Benz arbeitet mit Apple Music und der Universal Music Group zusammen, um Spatial Audio mit Dolby Atmos in die eigenen Fahrzeuge zu bringen. Damit sind die Autos von Mercedes-Benz die ersten Nicht-Apple-Produkte, die die Technik von Apple Music nativ anbieten werden.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[„Minecraft Live 2022“: Das sind die Ankündigungen]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1134551</id>
+        <link href="https://stadt-bremerhaven.de/minecraft-live-2022-das-sind-die-ankuendigungen/"/>
+        <updated>2022-10-17T16:30:16.000Z</updated>
+        <summary type="html"><![CDATA[Im Rahmen des Events „Minecraft Live 2022“ haben die Entwickler allerlei Neuigkeiten für Fans des Franchises rausgehauen. Etwa wird das Update auf Version 1.20 Neuerungen wie den Camel Mob, hängende Schilder, gemeißelte Bücherregale und das Crafting mit Bambus mit sich...
+Zum Beitrag: „Minecraft Live 2022“: Das sind die Ankündigungen
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Razer Edge 5G: Mobile Handheld-Konsole bietet 144-Hertz-Display]]></title>
+        <id>https://www.computerbase.de/2022-10/razer-edge-5g-mobile-handheld-konsole-bietet-144-hertz-display/</id>
+        <link href="https://www.computerbase.de/2022-10/razer-edge-5g-mobile-handheld-konsole-bietet-144-hertz-display/"/>
+        <updated>2022-10-17T15:59:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/3/5/2-74f168ff71eb6fa9/article-640x360.65028058.jpg"><p>Razer kombiniert den Smartphone-Controller Kishi V2 mit einer für Cloud-Gaming optimierten Android-Konsole und 144-Hertz-Display. Es entsteht ein „5G-Handheld“, laut Razer der erste seiner Art, mit anderweitigen konzeptionellen Parallelen zur Nintendo Switch oder Valves Steam Deck.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux 6.1-RC1 mit Rust: Linus Torvalds hat den neuen Systemkernel freigegeben]]></title>
+        <id>https://www.computerbase.de/2022-10/linux-6-1-release-linus-torvalds/</id>
+        <link href="https://www.computerbase.de/2022-10/linux-6-1-release-linus-torvalds/"/>
+        <updated>2022-10-17T15:52:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/3/5/3-416fb401062f4fbe/article-640x360.ce74c9f6.jpg"><p>Initiator und Chef-Entwickler Linus Torvalds hat den ersten Release Candidate des kommenden Systemkernels Linux 6.1 freigegeben, welcher unter anderem die freie Programmiersprache Rust neben C als zweite Sprache unter Linux einführen sowie neue Features und Hardware unterstützen wird.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OnePlus 11: Hersteller verzichtet wohl auf den „Pro“-Zusatz]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1134579</id>
+        <link href="https://stadt-bremerhaven.de/oneplus-11-hersteller-verzichtet-wohl-auf-den-pro-zusatz/"/>
+        <updated>2022-10-17T15:30:11.000Z</updated>
+        <summary type="html"><![CDATA[OnePlus scheint sich nicht so recht auf eine Namensgebung festlegen zu können: Im Rahmen der Serie OnePlus 9 erschien noch ein reguläres Modell sowie eben ein OnePlus 9 Pro. Anders bei dem Nachfolgemodell: Da legte man sich auf das OnePlus...
+Zum Beitrag: OnePlus 11: Hersteller verzichtet wohl auf den „Pro“-Zusatz
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft-Editor hat neue Verfeinerungen für Texte auf Lager]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1134547</id>
+        <link href="https://stadt-bremerhaven.de/microsoft-editor-hat-neue-verfeinerungen-fuer-texte-auf-lager/"/>
+        <updated>2022-10-17T15:00:30.000Z</updated>
+        <summary type="html"><![CDATA[Der Microsoft-Editor ist vielleicht dem einen oder anderen ein Begriff, der Inhalte ins Internet schreibt. Er ist als Erweiterung für Chrome und Edge zu haben und ist – stark vereinfacht geschrieben – eine Rechtschreibhilfe. Falsch geschriebene Wörter werden im besten...
+Zum Beitrag: Microsoft-Editor hat neue Verfeinerungen für Texte auf Lager
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Next DB Navigator der Deutschen Bahn veröffentlicht]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1134590</id>
+        <link href="https://stadt-bremerhaven.de/next-db-navigator-der-deutschen-bahn-veroeffentlicht/"/>
+        <updated>2022-10-17T14:49:19.000Z</updated>
+        <summary type="html"><![CDATA[Die Deutsche Bahn hat nach einiger Zeit des (internen) Betatestes den Next DB Navigator veröffentlicht. Die App ist ab sofort im Play Store für Android zu finden und im App Store von Apple für das iPhone. Seit dem 12. September...
+Zum Beitrag: Next DB Navigator der Deutschen Bahn veröffentlicht
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ista: App-Zugriff nach Cyber-Angriff weiterhin gestört]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1134573</id>
+        <link href="https://stadt-bremerhaven.de/ista-app-zugriff-nach-cyber-angriff-weiterhin-gestoert/"/>
+        <updated>2022-10-17T14:30:54.000Z</updated>
+        <summary type="html"><![CDATA[Der deutsche Energiedienstleister Ista ist im Juli 2022 Opfer eines externen Cyber-Angriffs geworden. Als Sofortmaßnahme wurden alle tatsächlich und potenziell betroffenen IT-Systeme des Unternehmens kontrolliert vom Netz genommen, um größeren Schaden an der IT-Infrastruktur zu verhindern. Zwischenzeitlich gab das Unternehmen...
+Zum Beitrag: Ista: App-Zugriff nach Cyber-Angriff weiterhin gestört
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Telegram: Bundesamt für Justiz erlässt Bußgeldbescheide in Millionenhöhe]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1134577</id>
+        <link href="https://stadt-bremerhaven.de/telegram-bundesamt-fuer-justiz-erlaesst-bussgeldbescheide-in-millionenhoehe/"/>
+        <updated>2022-10-17T14:06:15.000Z</updated>
+        <summary type="html"><![CDATA[Das Bundesamt für Justiz hat zwei Bußgeldbescheide in Höhe von mehreren Millionen Euro gegen die Betreiber des Messengers Telegram erlassen – wegen Verstößen gegen Vorgaben des Netzwerkdurchsetzungsgesetzes. „Unsere Gesetze gelten für alle“, so Bundesjustizminister Marco Buschmann dazu. Man war 2021...
+Zum Beitrag: Telegram: Bundesamt für Justiz erlässt Bußgeldbescheide in Millionenhöhe
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Moskito-Küste: Trailer zur zweiten Staffel auf Apple TV+ ist da]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1133974</id>
+        <link href="https://stadt-bremerhaven.de/moskito-kueste-trailer-zur-zweiten-staffel-auf-apple-tv-ist-da/"/>
+        <updated>2022-10-17T14:00:22.000Z</updated>
+        <summary type="html"><![CDATA[Moskito-Küste ist eine Serie, die auf dem gleichnamigen Buch von Paul Theroux basiert. Die erste Staffel der mexikanischen Produktion lief bereits und der Konzern aus Cupertino wird die Geschichte ab 4. November in 10 neuen Folgen weitererzählen. Dabei setzen Allie,...
+Zum Beitrag: Moskito-Küste: Trailer zur zweiten Staffel auf Apple TV+ ist da
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>Olli</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stromversorgung für RTX 4000: CableMod winkelt 12VHPWR-Stecker per Adapter um 90° an]]></title>
+        <id>https://www.computerbase.de/2022-10/cablemod-12vhpwr-adapter-geforce-rtx-4000/</id>
+        <link href="https://www.computerbase.de/2022-10/cablemod-12vhpwr-adapter-geforce-rtx-4000/"/>
+        <updated>2022-10-17T13:58:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/3/5/1-80f974e3348d9679/article-640x360.aeb7d988.jpg"><p>CableMod hat mit dem „12VHPWR Right Angle Adapter“ einen Stromkabeladapter für den 12VHPWR-Stecker der GeForce RTX 4000 vorgestellt, welcher den 16-Pin-Stecker um 90 Grad im rechten Winkel anwinkelt. Damit sollen die beengten Platzverhältnisse, die aus dem zentral positionierten Anschluss resultieren, deutlich verbessert werden.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Signify bringt 12 „ultraeffiziente“ Philips-LED-Leuchtmittel]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1134539</id>
+        <link href="https://stadt-bremerhaven.de/signify-bringt-12-ultraeffiziente-philips-led-leuchtmittel/"/>
+        <updated>2022-10-17T13:00:19.000Z</updated>
+        <summary type="html"><![CDATA[Signify erweitert sein Portfolio an Philips-LED-Leuchtmitteln um zwölf neue Modelle. Man bewirbt die neuen Produkte als „ultraeffizient“, denn sie verbrauchen bis zu 60 Prozent weniger Strom als herkömmliche Modelle bei einer Lebensdauer von rund 50.000 Stunden, so Signify. Die Leuchtmittel...
+Zum Beitrag: Signify bringt 12 „ultraeffiziente“ Philips-LED-Leuchtmittel
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[9-Euro-Ticket rund 52 Millionen Mal an Neukunden verkauft]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1134556</id>
+        <link href="https://stadt-bremerhaven.de/9-euro-ticket-rund-52-millionen-mal-an-neukunden-verkauft/"/>
+        <updated>2022-10-17T12:38:39.000Z</updated>
+        <summary type="html"><![CDATA[Die Nachfolge des 9-Euro-Tickets ist noch nicht geklärt. Derzeit zeichnet sich ein 49-Euro-Ticket ab, welches vor allem denen zugutekommen dürfte, die berufsmäßig pendeln müssen. Wer es sich leisten kann, der kann das bundesweit gültige Ticket natürlich auch anders nutzen. Mittlerweile...
+Zum Beitrag: 9-Euro-Ticket rund 52 Millionen Mal an Neukunden verkauft
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Britische Kartellwächter: Microsofts Verteidigung der Übernahme von Activision Blizzard überzeuge nicht]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1134530</id>
+        <link href="https://stadt-bremerhaven.de/britische-kartellwaechter-microsofts-verteidigung-der-uebernahme-von-activision-blizzard-ueberzeuge-nicht/"/>
+        <updated>2022-10-17T12:00:31.000Z</updated>
+        <summary type="html"><![CDATA[In Großbritannien hatte die Competition and Markets Authority (CMA) eine genauere Prüfung der Übernahme von Activision Blizzard anberaumt. Microsoft hatte als Reaktion gar eine Informations-Website veröffentlicht. Sony hingegen ist bekanntermaßen ein Gegner des Deals und wähnt eine Gefahr für die...
+Zum Beitrag: Britische Kartellwächter: Microsofts Verteidigung der Übernahme von Activision Blizzard überzeuge nicht
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nvidia Shield: Nutzer beklagen ein Speicherproblem]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1134518</id>
+        <link href="https://stadt-bremerhaven.de/nvidia-shield-nutzer-beklagen-ein-speicherproblem/"/>
+        <updated>2022-10-17T11:30:03.000Z</updated>
+        <summary type="html"><![CDATA[Nutzer einer Nvidia Shield könnten ein Problem haben. Obwohl auf dem Gerät eigentlich genügend Speicher vorhanden sein sollte, melden sich Nutzer, dass ihre Shield meldet, dass der Speicher voll sei. Keine Installation von Apps oder ähnliches ist so mehr möglich....
+Zum Beitrag: Nvidia Shield: Nutzer beklagen ein Speicherproblem
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Samsung Display könnte Micro LED für kommende AR-Lösungen verwenden]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1134523</id>
+        <link href="https://stadt-bremerhaven.de/samsung-display-koennte-micro-led-fuer-kommende-ar-loesungen-verwenden/"/>
+        <updated>2022-10-17T11:00:04.000Z</updated>
+        <summary type="html"><![CDATA[Samsung Display stellt bereits Micro-LED-Bildschirme her. Diese Screens gehen aktuell vorwiegend an Geschäftskunden, denn sie sind noch sehr kostspielig. 2023 sollen immerhin „kleinere“ Diagonalen mit Preisen unterhalb von 100.000 Euro folgen. Jetzt dringen zu uns Nachrichten aus Südkorea durch, laut...
+Zum Beitrag: Samsung Display könnte Micro LED für kommende AR-Lösungen verwenden
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fossil veröffentlicht Wear OS 3 für seine Gen-6-Smartwatches]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1134514</id>
+        <link href="https://stadt-bremerhaven.de/fossil-veroeffentlicht-wear-os-3-fuer-seine-gen-6-smartwatches/"/>
+        <updated>2022-10-17T10:30:26.000Z</updated>
+        <summary type="html"><![CDATA[Fossil hat via Reddit direkt mit den Nutzern über die heute startende Veröffentlichung des Updates auf Wear OS 3 für verschiedene Smartwatches des Unternehmens gesprochen. Die neue Software werde das Tracking verbessern und natürlich eine optimierte Benutzererfahrung mitbringen, so wie...
+Zum Beitrag: Fossil veröffentlicht Wear OS 3 für seine Gen-6-Smartwatches
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Silent Hill: Neuigkeiten für den 19. Oktober angekündigt]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1134455</id>
+        <link href="https://stadt-bremerhaven.de/silent-hill-neuigkeiten-fuer-den-19-oktober-angekuendigt/"/>
+        <updated>2022-10-17T10:00:06.000Z</updated>
+        <summary type="html"><![CDATA[Seit Langem warten Fans der Silent-Hill-Reihe auf einen Nachfolger und vielen glauben schon lange nicht mehr daran. Die Gerüchteküche kochte immer mal wieder hoch, doch dann wurde es wieder ruhig. Wer erinnert sich noch an P.T., den Playable Teaser, der...
+Zum Beitrag: Silent Hill: Neuigkeiten für den 19. Oktober angekündigt
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>Olli</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GeForce RTX 4090 Gallardo: Manli bestückt Grafikkarte mit Wasserwaage]]></title>
+        <id>https://www.computerbase.de/2022-10/geforce-rtx-4090-gallardo-manli-bestueckt-grafikkarte-mit-wasserwaage/</id>
+        <link href="https://www.computerbase.de/2022-10/geforce-rtx-4090-gallardo-manli-bestueckt-grafikkarte-mit-wasserwaage/"/>
+        <updated>2022-10-17T09:43:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/3/4/8-0159b85b778a74a6/article-640x360.ba4b92d0.jpg"><p>Die GeForce RTX 4090 startet wie erwartet mit zahlreichen Custom-Designs. Eines davon besitzt ein für diese Produktgattung sehr ungewöhnliches Feature: Die Manli GeForce RTX 4090 Gallardo besitzt eine integrierte Wasserwaage.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazfit Falcon: Multisport-Smartwatch für 499,99 Euro vorgestellt]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1134503</id>
+        <link href="https://stadt-bremerhaven.de/amazfit-falcon-multisport-smartwatch-fuer-49999-euro-vorgestellt/"/>
+        <updated>2022-10-17T09:30:35.000Z</updated>
+        <summary type="html"><![CDATA[Amazfit hat seine neue Premium-Multisport-Uhr, die Amazfit Falcon, offiziell vorgestellt. Eigentlich war der Hersteller bisher für aggressive Preise bekannt und hatte da auch durchaus viel zu bieten. Beispielsweise haben mir die Bip-Fitnesstracker sehr gut gefallen. Das neue Falcon-Modell kostet allerdings...
+Zum Beitrag: Amazfit Falcon: Multisport-Smartwatch für 499,99 Euro vorgestellt
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kore: Version 3.0 der Fernbedienungs-App für Kodi veröffentlicht]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1134502</id>
+        <link href="https://stadt-bremerhaven.de/kore-version-3-0-der-fernbedienungs-app-fuer-kodi-veroeffentlicht/"/>
+        <updated>2022-10-17T09:00:08.000Z</updated>
+        <summary type="html"><![CDATA[Nach langer Zeit spendiert man der offiziellen Kodi-Fernbedienungs-App für Android ein neues Update. Mit dem Update hievt man die Versionsnummer auf 3.0. Die Entwickler setzen mit der neuen Version die Empfehlungen für Googles Material-3-UI-Richtlinien durch. Das sorgt für eine vollständige...
+Zum Beitrag: Kore: Version 3.0 der Fernbedienungs-App für Kodi veröffentlicht
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chromecast mit Google TV: Android 12 ist da]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1134497</id>
+        <link href="https://stadt-bremerhaven.de/chromecast-mit-google-tv-android-12-ist-da/"/>
+        <updated>2022-10-17T08:45:06.000Z</updated>
+        <summary type="html"><![CDATA[Google hat für den Chromecast mit Google TV ein Update auf Android 12 veröffentlicht. Das Update ist 722 MB groß und enthält den Android-Sicherheitspatch mit Stand Juli 2022. Android 12 erlaubt es den Benutzern, zusätzliche Einstellungen vorzunehmen, darunter beim HDR-Format...
+Zum Beitrag: Chromecast mit Google TV: Android 12 ist da
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Verkehrsminister fordert Ende des „Durchwurstelns“ bei der Deutschen Bahn]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1134489</id>
+        <link href="https://stadt-bremerhaven.de/verkehrsminister-fordert-ende-des-durchwurstelns-bei-der-deutschen-bahn/"/>
+        <updated>2022-10-17T08:30:04.000Z</updated>
+        <summary type="html"><![CDATA[Der deutsche Verkehrsminister Volker Wissing hat im Interview mit RND gefordert, dass das „Durchwursteln“ bei der Deutschen Bahn ein Ende habe. Vielmehr müsse das Unternehmen Probleme in Zukunft konsequent lösen. So müsse die Instandhaltung der Strecken verbessert werden, denn da...
+Zum Beitrag: Verkehrsminister fordert Ende des „Durchwurstelns“ bei der Deutschen Bahn
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[US-Handelsbehörde: Untersuchungen gegen Samsung und TSMC gestartet [Notiz]]]></title>
+        <id>https://www.computerbase.de/2022-10/us-handelsbehoerde-untersuchungen-gegen-samsung-und-tsmc-gestartet/</id>
+        <link href="https://www.computerbase.de/2022-10/us-handelsbehoerde-untersuchungen-gegen-samsung-und-tsmc-gestartet/"/>
+        <updated>2022-10-17T07:41:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/3/4/4-d8ec5a1ea6bac06b/article-640x360.a70ce40f.jpg"><p>Die U.S. International Trade Commission (USITC) hat eine Untersuchung gegen Samsung und TSMC eingeleitet die auf Patentverletzungen in der Mobile- und Halbleiterindustrie zielt. Der Umfang ist dabei noch nicht ganz klar, binnen 45 Tagen soll eine erste Entscheidung getroffen werden, wie es weitergeht.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The future of streaming video is scary: Virtual Product Placement Ads incoming]]></title>
+        <id>https://www.ghacks.net/?p=181285</id>
+        <link href="https://www.ghacks.net/2022/10/17/the-future-of-streaming-video-is-scary-virtual-product-placement-ads-incoming/"/>
+        <updated>2022-10-17T07:11:52.000Z</updated>
+        <summary type="html"><![CDATA[Virtual Product Placement ads are the holy grail when it comes to product placement in video content. The new ad type may change content in streaming videos to display advertisement on billboards […]
+Thank you for being a Ghacks reader. The post The future of streaming video is scary: Virtual Product Placement Ads incoming appeared first on gHacks Technology News.]]></summary>
+        <author>
+            <name>Martin Brinkmann</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ardour 7.0: Die professionelle Audio-Workstation kostet 1 US-Dollar]]></title>
+        <id>https://www.computerbase.de/2022-10/ardour-7-0-digital-audio-workstation/</id>
+        <link href="https://www.computerbase.de/2022-10/ardour-7-0-digital-audio-workstation/"/>
+        <updated>2022-10-17T05:30:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/3/4/2-707aba301d16245f/article-640x360.1ac06dc1.jpg"><p>Die professionelle digitale Audio-Workstation Ardour, eine quelloffene Software für die Bearbeitung und das Abmischen von Audioaufzeichnungen auf dem Computer, ist in der neuesten Version 7.0 erschienen und kostet als Open Source ab 1 US-Dollar. Das äußerst mächtige Audio-Werkzeug kann aber auch kostenlos genutzt werden.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Travel Mouse MS700: Dells drehbare Maus hält zwei Jahre durch]]></title>
+        <id>https://www.computerbase.de/2022-10/travel-mouse-ms700-dells-drehbare-maus-haelt-zwei-jahre-durch/</id>
+        <link href="https://www.computerbase.de/2022-10/travel-mouse-ms700-dells-drehbare-maus-haelt-zwei-jahre-durch/"/>
+        <updated>2022-10-17T05:06:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/3/4/3-3ba49f72c5689487/article-640x360.a0257c7c.jpg"><p>Die Bluetooth Travel Mouse MS700 soll sich mit einem Drehmechanismus für kompaktere Abmessungen besonders gut für das Arbeiten unterwegs eignen. Anderweitig stattet Dell das Eingabegerät mit üblichen Office-Spezifikationen aus, doch auch die zweijährige Akkulaufzeit fällt ins Auge.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft adds RSS feed support to its Security Update Guide service]]></title>
+        <id>https://www.ghacks.net/?p=181282</id>
+        <link href="https://www.ghacks.net/2022/10/17/microsoft-adds-rss-feed-support-to-its-security-update-guide-service/"/>
+        <updated>2022-10-17T04:42:52.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft's Security Update Guide site is a core service when it comes to information about security information and updates that Microsoft releases. Up until now, users could sign-up using an account to […]
+Thank you for being a Ghacks reader. The post Microsoft adds RSS feed support to its Security Update Guide service appeared first on gHacks Technology News.]]></summary>
+        <author>
+            <name>Martin Brinkmann</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Elon Musk verspricht Starlink zeitlich unbeschränkt für die Ukraine zu gewährleisten]]></title>
         <id>https://stadt-bremerhaven.de/?p=1134434</id>
@@ -10929,192 +11361,6 @@ Zum Blog: Caschys Blog
 Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
         <author>
             <name>Benjamin Mamerow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[„NBA 2K23“ im Test]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1129636</id>
-        <link href="https://stadt-bremerhaven.de/nba-2k23-im-test/"/>
-        <updated>2022-09-18T13:30:38.000Z</updated>
-        <summary type="html"><![CDATA[„NBA 2K23“ ist da. Die Basketball-Simulation von 2K ist aktuell am Markt weitgehend konkurrenzlos. Schon zum Start der aktuellen Konsolengeneration zauberte man da grafisch einen der bestaussehenden Titel. Auch das neue Spiel machte in Videos bisher eine gute Figur. Leider...
-Zum Beitrag: „NBA 2K23“ im Test
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>André Westphal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unu Scooter Move: Neues Einsteigermodell des Elektro-Flitzers ohne smarten Schnickschnack]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1129234</id>
-        <link href="https://stadt-bremerhaven.de/unu-scooter-move-neues-einsteigermodell-des-elektro-flitzers-ohne-smarten-schnickschnack/"/>
-        <updated>2022-09-18T12:00:11.000Z</updated>
-        <summary type="html"><![CDATA[Über den Berliner E-Roller-Hersteller unu haben wir bereits berichtet. Im Laufe meines IFA-Trips nach Berlin konnte ich da doch den einen oder anderen Roller des Herstellers erspähen. Mit dem unu Scooter Move steht nun ein neues „Einsteiger-Modell“ ins Haus. Man...
-Zum Beitrag: Unu Scooter Move: Neues Einsteigermodell des Elektro-Flitzers ohne smarten Schnickschnack
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>Felix Frank</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EVGA × Nvidia = Scheidung: Wie bewertet ihr die Trennung der beiden GPU-Spezialisten?]]></title>
-        <id>https://www.computerbase.de/2022-09/evga-nvidia-trennung-umfrage/</id>
-        <link href="https://www.computerbase.de/2022-09/evga-nvidia-trennung-umfrage/"/>
-        <updated>2022-09-18T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/0/5/2-b76a1256234149e2/article-640x360.87171528.jpg"><p>Für viel Aufsehen und großes Interesse auch innerhalb der ComputerBase-Community sorgte die Ankündigung seitens EVGA, die Zusammenarbeit mit Nvidia zu beenden und zukünftig keine neuen Grafikkarten mehr zu entwickeln. Selbst die bereits evaluierten Modelle für die GeForce-RTX-4000-Serie („Nvidia Ada“) werden nicht erscheinen.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Turtle Beach React-R: „Designed for Xbox“-Controller ausprobiert]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1128815</id>
-        <link href="https://stadt-bremerhaven.de/turtle-beach-react-r-neuer-designed-for-xbox-controller-ausprobiert/"/>
-        <updated>2022-09-18T10:00:36.000Z</updated>
-        <summary type="html"><![CDATA[Turtle Beach hat im Sommer dieses Jahres einen neuen „Design for Xbox“-Controller vorgestellt. Dabei handelt es sich um einen kabelgebundenen Controller für Xbox oder Windows, der mit einigen Features um die Ecke kommt, welche die preisbewussten Gamer sicher mit Freude...
-Zum Beitrag: Turtle Beach React-R: „Designed for Xbox“-Controller ausprobiert
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>Olli</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sony Xperia Stream: Kühler soll das Xperia 1 IV beim Zocken kühl halten]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1129271</id>
-        <link href="https://stadt-bremerhaven.de/sony-xperia-stream-kuehler-soll-das-xperia-1-iv-beim-zocken-kuehl-halten/"/>
-        <updated>2022-09-18T08:00:52.000Z</updated>
-        <summary type="html"><![CDATA[Solltet ihr Besitzer eines Xperia 1 IV von Sony sein und mit dem Gerät regelmäßig viel daddeln, was das Gerät dann durchaus auch mal an seine Temperaturgrenzen bringen kann, dann könnte das folgende neue Zubehör für das Gerät durchaus etwas...
-Zum Beitrag: Sony Xperia Stream: Kühler soll das Xperia 1 IV beim Zocken kühl halten
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>Benjamin Mamerow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Yamaha AV-Receiver: Update für Auro-3D AuroMatic, ALLM sowie VRR]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1129025</id>
-        <link href="https://stadt-bremerhaven.de/yamaha-av-receiver-update-fuer-auro-3d-auromatic-allm-sowie-vrr/"/>
-        <updated>2022-09-18T06:00:14.000Z</updated>
-        <summary type="html"><![CDATA[Yamaha wappnet mit einem Firmware-Update seine AV-Receiver für die aktuelle Spielekonsolen-Generation. Während man mit vorherigen Updates bereits die Unterstützung für 8K60, 4K120 und HDR10+ spendiert hat, unterstützen mehrere Modelle nach einem weiteren Update (v17.3) nun Auto Low Latency Mode (ALLM)...
-Zum Beitrag: Yamaha AV-Receiver: Update für Auro-3D AuroMatic, ALLM sowie VRR
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>Felix Frank</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wochenrück- und Ausblick: Samsung am Arm, Arm im Laptop und EVGA am Ende]]></title>
-        <id>https://www.computerbase.de/2022-09/wochenrueckblick-und-ausblick-2022-w37/</id>
-        <link href="https://www.computerbase.de/2022-09/wochenrueckblick-und-ausblick-2022-w37/"/>
-        <updated>2022-09-18T06:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/0/4/8-ccd4be1a8f66907b/article-640x360.56c51c33.jpg"><p>Samsung hat sich diese Woche mit der Galaxy Watch 5 an die Spitze der meistgelesenen Tests katapultiert. Die Smartwatch stellt die derzeit beste Wahl für Besitzer eines Android-Smartphones dar. Unter den News hat es die überraschende Ankündigung von EVGA, aus dem Grafikkartengeschäft auszusteigen, ganz nach oben geschafft.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LastPass provides details on August 2022 hack]]></title>
-        <id>https://www.ghacks.net/?p=180821</id>
-        <link href="https://www.ghacks.net/2022/09/18/lastpass-provides-details-on-august-2022-hack/"/>
-        <updated>2022-09-18T05:58:34.000Z</updated>
-        <summary type="html"><![CDATA[LastPass informed customers about a security breach on the company's official blog in August 2022. This week, the company published additional information about the hack after its investigation. Back in August 2022, […]
-Thank you for being a Ghacks reader. The post LastPass provides details on August 2022 hack appeared first on gHacks Technology News.]]></summary>
-        <author>
-            <name>Martin Brinkmann</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Immer wieder sonntags KW 37]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1129842</id>
-        <link href="https://stadt-bremerhaven.de/immer-wieder-sonntags-kw-37-9/"/>
-        <updated>2022-09-18T04:30:15.000Z</updated>
-        <summary type="html"><![CDATA[Ich hoffe, dass ihr bisher eine schöne Woche verbringen konntet? Frühaufsteher finden hier am Sonntagmorgen wie immer einen kleinen Wochenrückblick, in dem ich auf einige spannende News der Woche verweise, die vielleicht etwas in der Flut der Blog-Artikel untergegangen sind....
-Zum Beitrag: Immer wieder sonntags KW 37
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>André Westphal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dreame L10s Ultra im Test]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1129363</id>
-        <link href="https://stadt-bremerhaven.de/dreame-l10s-ultra-im-test/"/>
-        <updated>2022-09-17T18:00:09.000Z</updated>
-        <summary type="html"><![CDATA[Neulich auf der IFA im Showcase, nun schon bei mir im Test: Der Dreame L10s Ultra  Diverse Modelle des Herstellers haben wir bereits einem Testbericht unterzogen. Derzeitige Flaggschiffe verfügen über eine Absaugstation, die zudem in der Lage ist den Wischmopp...
-Zum Beitrag: Dreame L10s Ultra im Test
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>caschy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mophie veröffentlicht neue GaN-Wallcharger mit bis zu 120 W]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1129514</id>
-        <link href="https://stadt-bremerhaven.de/mophie-veroeffentlicht-neue-gan-wallcharger-mit-bis-zu-120-w/"/>
-        <updated>2022-09-17T16:30:22.000Z</updated>
-        <summary type="html"><![CDATA[Das Unternehmen Mophie kennen unsere Leser sicherlich schon von seinen Ladelösungen – unter anderem auch durch die Ladehüllen für iPhones. Dort erweitert man nun sein Sortiment an Wallchargern um die kompakten GaN-Geräte speedport 20W, 30W, 45W, 67W und 120W. Das...
-Zum Beitrag: Mophie veröffentlicht neue GaN-Wallcharger mit bis zu 120 W
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>Benjamin Mamerow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Net Signal Pro Wi-Fi strength checker for Android]]></title>
-        <id>https://www.ghacks.net/?p=180818</id>
-        <link href="https://www.ghacks.net/2022/09/17/net-signal-pro-wi-fi-strength-checker-for-android/"/>
-        <updated>2022-09-17T15:39:04.000Z</updated>
-        <summary type="html"><![CDATA[Net Signal Pro is a commercial application for Android to check the strength of wireless connections and to display various Wi-fi related information. A free ad-powered version is also available. The app […]
-Thank you for being a Ghacks reader. The post Net Signal Pro Wi-Fi strength checker for Android appeared first on gHacks Technology News.]]></summary>
-        <author>
-            <name>Martin Brinkmann</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gaming-PC vs. Konsolen: Wie zockt man am besten?]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1129662</id>
-        <link href="https://stadt-bremerhaven.de/gaming-pc-vs-konsolen-wie-zockt-man-am-besten/"/>
-        <updated>2022-09-17T15:00:08.000Z</updated>
-        <summary type="html"><![CDATA[Seit meiner Kindheit spiele ich gerne Computer- und Videospiele. So habe ich ja beispielsweise schon über den C-64 gebloggt, der in den 1980er-Jahren mein erster Heimcomputer gewesen ist. Was Konsolen betrifft, so begann meine „Karriere“ auf dem Nintendo Game Boy...
-Zum Beitrag: Gaming-PC vs. Konsolen: Wie zockt man am besten?
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>André Westphal</name>
         </author>
     </entry>
 </feed>
