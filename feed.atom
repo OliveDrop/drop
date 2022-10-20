@@ -2,10 +2,453 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://olivedrop.github.io/drop/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-19T02:32:49.876Z</updated>
+    <updated>2022-10-20T02:34:40.478Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://olivedrop.github.io/drop/index.html"/>
     <link rel="self" href="https://olivedrop.github.io/drop/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft veröffentlicht Windows 11 Insider Preview Build 25227]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1135085</id>
+        <link href="https://stadt-bremerhaven.de/microsoft-veroeffentlicht-windows-11-insider-preview-build-25227/"/>
+        <updated>2022-10-19T19:00:55.000Z</updated>
+        <summary type="html"><![CDATA[Wie Microsoft informiert, befindet sich aktuell der Windows 11 Insider Preview Build 25227 im Dev-Channel in der Verteilung. Eine der Neuerungen, die schon im Vorfeld dieses Updates alle Insider betrifft, welche mit mindestens Build 22209 unterwegs sind, ist, dass im...
+Zum Beitrag: Microsoft veröffentlicht Windows 11 Insider Preview Build 25227
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>Benjamin Mamerow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intel stellt nächste Thunderbolt-Generation vor]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1135081</id>
+        <link href="https://stadt-bremerhaven.de/intel-stellt-naechste-thunderbolt-generation-vor/"/>
+        <updated>2022-10-19T18:05:47.000Z</updated>
+        <summary type="html"><![CDATA[Nachdem heute bereits die Spezifikationen von USB4 Version 2.0 abgenickt worden sind, zieht Intel mit dem neuen Thunderbolt-Standard nach. Das Unternehmen hat allerdings erst einmal eine Vorschau auf die nächste Generation veröffentlicht. Da muss man vermutlich nicht lange drüber nachdenken,...
+Zum Beitrag: Intel stellt nächste Thunderbolt-Generation vor
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Uncharted: Levacy of Thieves Collection ab heute für den PC erhältlich]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1135065</id>
+        <link href="https://stadt-bremerhaven.de/uncharted-levacy-of-thieves-collection-ab-heute-fuer-den-pc-erhaeltlich/"/>
+        <updated>2022-10-19T17:17:02.000Z</updated>
+        <summary type="html"><![CDATA[Nachdem „Uncharted: Legacy of Thieves Collection“ bereits für die PlayStation 5 verfügbar ist, kann man ab heute auch als PC-Nutzer zuschlagen. Wie bereits mit einigen anderen Titeln, stellen die Japaner auch für Uncharted ein PC-Game zur Verfügung. Hier ist es...
+Zum Beitrag: Uncharted: Levacy of Thieves Collection ab heute für den PC erhältlich
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>Felix Frank</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to hide Firefox's List All Tabs icon]]></title>
+        <id>https://www.ghacks.net/?p=181352</id>
+        <link href="https://www.ghacks.net/2022/10/19/how-to-hide-firefoxs-list-all-tabs-icon/"/>
+        <updated>2022-10-19T17:01:33.000Z</updated>
+        <summary type="html"><![CDATA[Mozilla released Firefox 106 Stable yesterday. Several new features were introduced in Firefox 106, including Firefox View and basic PDF editing. Some Firefox users here in the comments noticed that Firefox displayed […]
+Thank you for being a Ghacks reader. The post How to hide Firefox's List All Tabs icon appeared first on gHacks Technology News.]]></summary>
+        <author>
+            <name>Martin Brinkmann</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Systemanforderungen: CoD: Modern Warfare 2 will für UHD 10 GB VRAM und 136 GB]]></title>
+        <id>https://www.computerbase.de/2022-10/systemanforderungen-cod-modern-warfare-2-will-fuer-uhd-10-gb-vram-und-136-gb/</id>
+        <link href="https://www.computerbase.de/2022-10/systemanforderungen-cod-modern-warfare-2-will-fuer-uhd-10-gb-vram-und-136-gb/"/>
+        <updated>2022-10-19T16:35:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/3/8/2-092c1ea64e4eb55c/article-640x360.f31febc0.jpg"><p>Am 28. Oktober 2022 um 6:00 Uhr morgens erscheint mit Call of Duty: Modern Warfare 2 der nächste Ableger der populären Ego-Shooter-Serie. Vorgestellt wurde der Titel im Juni im Rahmen des Summer Game Fest 2022. Zwei Besonderheiten: Das Spiel erscheint seit langem auch wieder auf Steam und kostet mindestens 70 Euro.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon-Retouren lassen sich bei DHL nun unverpackt abgeben]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1134862</id>
+        <link href="https://stadt-bremerhaven.de/amazon-retouren-lassen-sich-bei-dhl-nun-unverpackt-abgeben/"/>
+        <updated>2022-10-19T16:30:23.000Z</updated>
+        <summary type="html"><![CDATA[Wir berichteten bereits im Sommer über die geplante Möglichkeit, Amazon-Retouren fortan auch bei DHL unverpackt zurückzugeben. Ein Versandkarton ist nicht mehr notwendig, es genügt die normale Produktverpackung. Amazon bietet einen solchen Service bereits in Kooperation mit UPS an, nun eben...
+Zum Beitrag: Amazon-Retouren lassen sich bei DHL nun unverpackt abgeben
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>Felix Frank</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Logitech stellt neuen Crayon-Stylus für das iPad vor]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1134922</id>
+        <link href="https://stadt-bremerhaven.de/logitech-stellt-neuen-crayon-stylus-fuer-das-ipad-vor/"/>
+        <updated>2022-10-19T15:30:11.000Z</updated>
+        <summary type="html"><![CDATA[Das neue iPad ist offiziell und die Zubehör-Hersteller haben natürlich auch direkt das eine oder andere Teil dafür auf Lager. Während Apple es mit dem im Preis gestiegenen Tablet verpasst, direkt den Support für den Apple Pencil der zweiten Generation...
+Zum Beitrag: Logitech stellt neuen Crayon-Stylus für das iPad vor
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>Olli</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bestandsaufnahme: Intel Arc, wo bist du?]]></title>
+        <id>https://www.computerbase.de/2022-10/bestandsaufnahme-intel-arc-wo-bist-du/</id>
+        <link href="https://www.computerbase.de/2022-10/bestandsaufnahme-intel-arc-wo-bist-du/"/>
+        <updated>2022-10-19T15:06:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/3/5/0-f355b1ffaf11d726/article-640x360.1b13e2db.jpg"><p>Vor einer Woche hat Intel die Grafikkarten Arc A750 und Arc A770 (Test) offiziell in den Markt entlassen. Doch bis heute ist die Verfügbarkeit schlecht. In Deutschland gibt es die Karten momentan gar nicht zu kaufen und auch im Ausland ist es mau.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft eruiert einen Xbox Store für mobiles Gaming]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1135043</id>
+        <link href="https://stadt-bremerhaven.de/microsoft-eruiert-einen-xbox-store-fuer-mobiles-gaming/"/>
+        <updated>2022-10-19T15:00:35.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft könnte einen Xbox Mobile Store planen, um über diesen direkt Spiele zu vertreiben. Laut einem Bericht hatte Microsoft Anfang des Jahres erstmals einen Store der „nächsten Generation“ angedeutet, den man „für Spiele bauen“ werde, nun hat man aber in...
+Zum Beitrag: Microsoft eruiert einen Xbox Store für mobiles Gaming
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DuckDuckGo for Mac is now available for everyone, it comes with Duck Player for blocking YouTube ads]]></title>
+        <id>https://www.ghacks.net/?p=181340</id>
+        <link href="https://www.ghacks.net/2022/10/19/duckduckgo-for-mac-with-duck-player-blocks-youtube-ads/"/>
+        <updated>2022-10-19T14:33:19.000Z</updated>
+        <summary type="html"><![CDATA[DuckDuckGo for Mac is now available for all users. The browser was released in April this year in a closed beta in invite-only basis. It's still in beta phase, but now you […]
+Thank you for being a Ghacks reader. The post DuckDuckGo for Mac is now available for everyone, it comes with Duck Player for blocking YouTube ads appeared first on gHacks Technology News.]]></summary>
+        <author>
+            <name>Ashwin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[YouTube Music: Neue Playlisten-Optik wird verteilt]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1135006</id>
+        <link href="https://stadt-bremerhaven.de/youtube-music-neue-playlisten-optik-wird-verteilt/"/>
+        <updated>2022-10-19T14:30:28.000Z</updated>
+        <summary type="html"><![CDATA[Solltet ihr YouTube Music abonniert oder auf der Android-Plattform im Einsatz haben, dann könnte es sein, dass ihr bald eine neue Optik erblickt. Das Unternehmen hat damit begonnen, die neue Playlisten-Ansicht mit aktualisierten Player-Elementen zu verteilen. Die neue Optik ist...
+Zum Beitrag: YouTube Music: Neue Playlisten-Optik wird verteilt
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gigabit-Förderung: Die Töpfe sind leer]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1135004</id>
+        <link href="https://stadt-bremerhaven.de/gigabit-foerderung-die-toepfe-sind-leer/"/>
+        <updated>2022-10-19T14:00:56.000Z</updated>
+        <summary type="html"><![CDATA[In Deutschland sind wir in Sachen Gigabit-Ausbau nicht unbedingt führend, wenn man uns mit anderen Ländern vergleicht. Mit Verspätung hat das auch die Politik begriffen und vor einiger Zeit ein Bundesprogramm zur Förderung des Internet-Leitungsausbaus im ländlichen Raum ausgerufen. Das...
+Zum Beitrag: Gigabit-Förderung: Die Töpfe sind leer
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Netflix möchte Ambitionen im Gaming-Geschäft weiter vorantreiben]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1134931</id>
+        <link href="https://stadt-bremerhaven.de/netflix-moechte-ambitionen-im-gaming-geschaeft-weiter-vorantreiben/"/>
+        <updated>2022-10-19T13:30:43.000Z</updated>
+        <summary type="html"><![CDATA[Netflix hat seine Quartalszahlen bekannt gegeben und möchte sein Geschäft natürlich weiter ausbauen und somit attraktiver für Abonnenten werden. Dazu gehört auch die Gaming-Sparte, die man vor einiger Zeit öffnete. Bis dato hat man insgesamt 35 Spiele, die Abonnenten für...
+Zum Beitrag: Netflix möchte Ambitionen im Gaming-Geschäft weiter vorantreiben
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>Olli</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows 10 2022 Update: Microsoft veröffentlicht das Feature-Update ohne Features]]></title>
+        <id>https://www.computerbase.de/2022-10/windows-10-2022-update-iso-release/</id>
+        <link href="https://www.computerbase.de/2022-10/windows-10-2022-update-iso-release/"/>
+        <updated>2022-10-19T13:02:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/3/7/7-69118876219189b6/article-640x360.138082a8.jpg"><p>Microsoft hat die planmäßige und bislang jährliche erfolgende Produktpflege für sein Auslaufmodell Windows 10 auf die neue Version 19045 alias „22H2“ veröffentlicht. Schon zuvor hatte sich das „neue“ Windows 10 22H2 über die Pakete in einem kumulativen Update zu erkennen gegeben. Echte Neuerungen gibt es allerdings nicht.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Schnellerer Aufbau von Ladeinfrastruktur in Deutschland geplant]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1135011</id>
+        <link href="https://stadt-bremerhaven.de/schnellere-aufbau-von-ladeinfrastruktur-in-deutschland-geplant/"/>
+        <updated>2022-10-19T13:00:41.000Z</updated>
+        <summary type="html"><![CDATA[Bundesminister Dr. Volker Wissing hat heute den vom Kabinett beschlossenen Masterplan Ladeinfrastruktur II vorgestellt. Unter Federführung des Bundesverkehrsministeriums haben sich rund 80 Akteure, darunter Bundesländer, Kommunen, Verbände und Unternehmen, an der Entwicklung der knapp 70 Maßnahmen eingebracht. Schnell mehr Ladestationen...
+Zum Beitrag: Schnellerer Aufbau von Ladeinfrastruktur in Deutschland geplant
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VESA: Produkte mit DP 2.0 unterstützen DisplayPort 2.1]]></title>
+        <id>https://www.computerbase.de/2022-10/vesa-produkte-mit-dp-2-0-unterstuetzen-displayport-2-1/</id>
+        <link href="https://www.computerbase.de/2022-10/vesa-produkte-mit-dp-2-0-unterstuetzen-displayport-2-1/"/>
+        <updated>2022-10-19T12:52:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/3/8/1-c027d4da5e3d6b3a/article-640x360.d3d5d360.jpg"><p>Immer dichter rücken die Schnittstellen DisplayPort und USB zusammen. So geht die Veröffentlichung der neuen USB4-V2.0-Spezifikation Hand in Hand mit einem Upgrade der Videoschnittstelle DisplayPort von Version 2.0 auf Version 2.1.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Samsung kooperiert mit TikTok und stellt StemDrop vor]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1134986</id>
+        <link href="https://stadt-bremerhaven.de/samsung-kooperiert-mit-tiktok-und-stellt-stemdrop-vor/"/>
+        <updated>2022-10-19T12:30:05.000Z</updated>
+        <summary type="html"><![CDATA[Samsung teilt mit, dass man eine Kooperation mit TikTok gestartet habe. In diesem Zusammenhang stellt man direkt StemDrop vor. Darunter versteht man nichts Geringeres, als „die nächste Evolution der Musikkomposition“. Letzten Endes handelt es sich dabei um eine Funktion der...
+Zum Beitrag: Samsung kooperiert mit TikTok und stellt StemDrop vor
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Game Pass: Das sind die aktuellen und kommenden Neuzugänge]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1134811</id>
+        <link href="https://stadt-bremerhaven.de/game-pass-das-sind-die-aktuellen-und-kommenden-neuzugaenge/"/>
+        <updated>2022-10-19T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft hat mal wieder Neuigkeiten für Abonnenten des Xbox Game Pass Ultimate. Direkt ab heute steht nämlich das Spiel „A Plague Tale: Requiem“ stramm. Das ist zwar ab dem Launch Teil der Spiele-Flatrate, aber auch für die PlayStation 5 und...
+Zum Beitrag: Game Pass: Das sind die aktuellen und kommenden Neuzugänge
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USB4 Version 2.0: Spezifikationen bestätigt]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1134989</id>
+        <link href="https://stadt-bremerhaven.de/usb4-version-spezifikationen-bestaetigt/"/>
+        <updated>2022-10-19T11:30:57.000Z</updated>
+        <summary type="html"><![CDATA[Wir haben neulich schon darüber berichtet, dass die USB Promoter Group den Standard USB4 Version 2.0 vorgestellt hat. Kurz danach haben wir noch einmal einen Artikel verfasst, der darüber informiert, was die neuen Logos auf den USB-Kabeln bedeuten. Nun gibt’s...
+Zum Beitrag: USB4 Version 2.0: Spezifikationen bestätigt
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Das neue iPad mit 10,9 Zoll: A14 Bionic, USB-C und neues Design kosten jetzt 579 Euro]]></title>
+        <id>https://www.computerbase.de/2022-10/apple-ipad-2022-10-9-zoll-a14-bionic/</id>
+        <link href="https://www.computerbase.de/2022-10/apple-ipad-2022-10-9-zoll-a14-bionic/"/>
+        <updated>2022-10-19T11:21:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/3/7/9-19ef45fbc2eb829e/article-640x360.3f71c80e.jpg"><p>Apples neues „Brot-und-Butter-Tablet“, das iPad 2022 mit A14 Bionic, wächst auf eine Bildschirmdiagonale von 10,9 Zoll, vormals 10,2 Zoll, an und wird im neuen Design, welches an die Formsprache des iPad Pro und iPad Air angelegt ist, zudem deutlich teurer. Unterhalb der 10. Generation markiert der Vorgänger den Einstieg.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Neu auf Disney+ im November]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1134996</id>
+        <link href="https://stadt-bremerhaven.de/neu-auf-disney-im-november-2/"/>
+        <updated>2022-10-19T11:13:51.000Z</updated>
+        <summary type="html"><![CDATA[Das Unternehmen Disney hat die Inhalte bekannt gegeben, die im November auf der Plattform Disney+ Einzug halten werden. Da werden sich bestimmt einige finden, die sich freuen, dass Staffel 20 von Family Guy im Anmarsch ist, da geht’s gleich am...
+Zum Beitrag: Neu auf Disney+ im November
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Revolut Homes: Weltweit Ferienhäuser ohne Zusatzkosten und mit Cashback buchen]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1134882</id>
+        <link href="https://stadt-bremerhaven.de/revolut-homes-weltweit-ferienhaeuser-ohne-zusatzkosten-und-mit-cashback-buchen/"/>
+        <updated>2022-10-19T11:00:35.000Z</updated>
+        <summary type="html"><![CDATA[Das Fintech-Unternehmen Revolut dürfte den meisten Lesern hier vermutlich geläufig sein. Dort gibt es nun für Kunden (zumindest in Großbritannien und in der EU) eine neue Funktion namens Revolut Homes. Hiermit lanciert man sich noch weiter im Reisesegment, indem man...
+Zum Beitrag: Revolut Homes: Weltweit Ferienhäuser ohne Zusatzkosten und mit Cashback buchen
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>Benjamin Mamerow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Starlink Aviation: Satelliten-Internet für Flugzeuge vorgestellt]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1134978</id>
+        <link href="https://stadt-bremerhaven.de/starlink-aviation-satelliten-internet-fuer-flugzeuge-vorgestellt/"/>
+        <updated>2022-10-19T10:30:11.000Z</updated>
+        <summary type="html"><![CDATA[SpaceX hat Starlink Aviation vorgestellt: Das Projekt soll Hochgeschwindigkeits-Internetverbindungen an Bord von Flugzeugen ermöglichen – mit kurzer Verzögerungszeit (Latenz) und Anschlussmöglichkeiten auf der ganzen Welt. Interessierte Geschäftskunden können ab sofort Reservierungen vornehmen. Die Auslieferung beginnt ab 2023. Da Starlink Aviation...
+Zum Beitrag: Starlink Aviation: Satelliten-Internet für Flugzeuge vorgestellt
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mortal Kombat: Onslaught – Neues Spiel für Mobilgeräte kommt im nächsten Jahr]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1134919</id>
+        <link href="https://stadt-bremerhaven.de/mortal-kombat-onslaught-neues-spiel-fuer-mobilgeraete-kommt-im-naechsten-jahr/"/>
+        <updated>2022-10-19T10:00:37.000Z</updated>
+        <summary type="html"><![CDATA[Mortal Kombat hat in diesem Jahr seinen 30. Geburtstag gefeiert und mittlerweile gibt es viele Spiele und auch diverse Filme in dem Franchise. Warner Bros. Games kündigt nun an, dass mit Mortal Kombat: Onslaught im nächsten Jahr ein weiterer Titel...
+Zum Beitrag: Mortal Kombat: Onslaught – Neues Spiel für Mobilgeräte kommt im nächsten Jahr
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>Olli</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Telekom baut ihre Infrastruktur in Bayern aus]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1134963</id>
+        <link href="https://stadt-bremerhaven.de/telekom-baut-ihre-infrastruktur-in-bayern-aus/"/>
+        <updated>2022-10-19T09:30:29.000Z</updated>
+        <summary type="html"><![CDATA[Die Telekom prahlt derzeit: „Wir digitalisieren Bayern“. Gemeint ist damit, dass man bis 2025 über 1,8 Mio. Haushalte ans Glasfaser-Netz anschließen will. Man habe „jeder bayrischen Kommune“ Angebote für einen Vollausbau unterbreitet. Ebenfalls hebt man hervor, dass man bereits ca....
+Zum Beitrag: Telekom baut ihre Infrastruktur in Bayern aus
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows Terminal ist jetzt der Standard in Windows 11]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1134973</id>
+        <link href="https://stadt-bremerhaven.de/windows-terminal-ist-jetzt-der-standard-in-windows-11/"/>
+        <updated>2022-10-19T09:18:02.000Z</updated>
+        <summary type="html"><![CDATA[Lange wurde es getestet, nun ist es so weit, das Windows Terminal ist jetzt der Standard in Windows 11. Vorausgesetzt wird Windows 11 mit dem aktuellen „Groß-Update“, also Windows 11 22H2. Das bedeutet, dass alle Befehlszeilenanwendungen jetzt automatisch in Windows...
+Zum Beitrag: Windows Terminal ist jetzt der Standard in Windows 11
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Motorola stellt rollbare Display-Lösungen für Smartphones und Laptops vor]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1134859</id>
+        <link href="https://stadt-bremerhaven.de/motorola-stellt-rollbare-display-loesungen-fuer-smartphones-und-laptops-vor/"/>
+        <updated>2022-10-19T09:00:06.000Z</updated>
+        <summary type="html"><![CDATA[Auf der Lenovo Tech World 22 stellte Motorola jüngst ein Konzept für ein rollbares Smartphone-Display vor. Damit ist man vielleicht nicht unbedingt der erste mit der Idee, interessant aussehen tut das Ganze aber dennoch. Das Konzept entstamme der internen Innovationsgruppe...
+Zum Beitrag: Motorola stellt rollbare Display-Lösungen für Smartphones und Laptops vor
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>Benjamin Mamerow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows Terminal becomes new default command line tool in Windows 11]]></title>
+        <id>https://www.ghacks.net/?p=181330</id>
+        <link href="https://www.ghacks.net/2022/10/19/windows-terminal-becomes-new-default-command-line-tool-in-windows-11/"/>
+        <updated>2022-10-19T08:42:23.000Z</updated>
+        <summary type="html"><![CDATA[Windows users have quite a few options when it comes to using the command line. There is the classic Command Prompt for one, and PowerShell. Now, with the release of Windows 11 […]
+Thank you for being a Ghacks reader. The post Windows Terminal becomes new default command line tool in Windows 11 appeared first on gHacks Technology News.]]></summary>
+        <author>
+            <name>Martin Brinkmann</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fehlende Nachfrage: DDR5-Speicherpreise könnten deutlich stärker fallen]]></title>
+        <id>https://www.computerbase.de/2022-10/fehlende-nachfrage-ddr5-speicherpreise-koennten-deutlich-staerker-fallen/</id>
+        <link href="https://www.computerbase.de/2022-10/fehlende-nachfrage-ddr5-speicherpreise-koennten-deutlich-staerker-fallen/"/>
+        <updated>2022-10-19T08:15:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/3/7/5-76d40142b4aefaa1/article-640x360.d505d87b.jpg"><p>Hohe Inventarbestände und die fehlende Nachfrage könnten zu einem deutlich stärkeren Preisverfall bei neuem DDR5-Speicher führen. Da gleichzeitig auch die Produktion stetig weiter erhöht wird, unter anderem auch weil zuvor fehlende Komponenten nun wieder besser lieferbar werden, ist ein Preisrückgang quasi unvermeidlich.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Arc A770, A750 und A380: Intel findet Lösung für den hohen Verbrauch im Leerlauf]]></title>
+        <id>https://www.computerbase.de/2022-10/intel-arc-a770-750-380-verbrauch-leerlauf/</id>
+        <link href="https://www.computerbase.de/2022-10/intel-arc-a770-750-380-verbrauch-leerlauf/"/>
+        <updated>2022-10-19T07:27:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/3/7/6-c426647e60fc280e/article-640x360.d7ed625e.jpg"><p>Auch die Redaktion von ComputerBase hatte den vergleichsweise hohen Verbrauch der drei Desktop-Grafikkarten Intel Arc A770 und A750 (Test) sowie Intel Arc A380 (Test) im Leerlauf kritisiert, jetzt präsentiert der Hersteller eine Lösung. Zuvor hatte sich die Alchemist-Generation bis zu 40 Watt und mehr auf dem Desktop genehmigt.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kein Abschwung in Sicht: Gutes ASML-Quartal mit massiven Neubestellungen]]></title>
+        <id>https://www.computerbase.de/2022-10/kein-abschwung-in-sicht-gutes-amsl-quartal-mit-massiven-neubestellungen/</id>
+        <link href="https://www.computerbase.de/2022-10/kein-abschwung-in-sicht-gutes-amsl-quartal-mit-massiven-neubestellungen/"/>
+        <updated>2022-10-19T06:28:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/3/7/4-48faf47e0bf14879/article-640x360.0810b224.jpg"><p>Wie geht es in der Halbleiterindustrie, die sich aktuell wie viele Kunden mitten im Abschwung befindet, in Zukunft weiter? ASML als Fabrik-Ausrüster aller großen Hersteller liefert im Quartalsbericht einige Antworten. Schon die Neubestellungen für fast 9 Milliarden Euro zeigen einen positiven Trend.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Die neuen iPad Pro mit iPadOS 16: M2-Prozessor, Wi-Fi 6E und ein schwebender Apple Pencil]]></title>
+        <id>https://www.computerbase.de/2022-10/ipadpro-2022-ipados16-m2-wifi-6/</id>
+        <link href="https://www.computerbase.de/2022-10/ipadpro-2022-ipados16-m2-wifi-6/"/>
+        <updated>2022-10-19T04:21:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/3/7/3-ade2590dc29b7c50/article-640x360.c0165860.jpg"><p>Nachdem der M1-Prozessor aus dem Mac und nicht der „A14X“ den A14 Bionic bei der Produktpflege 2021 im iPad Pro 11" und 12,9" abgelöst hat, nimmt jetzt abermals Apples aktuellstes „Desktop-SoC“, der M2-Prozessor, den Platz in den beiden neuen iPad Pro ein. Das Mini-LED-Display bleibt weiterhin dem großen Modell vorbehalten.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Nach Lobby-Vorwürfen: BSI-Präsident Schönbohm ist abberufen]]></title>
         <id>https://www.computerbase.de/2022-10/nach-lobby-vorwuerfen-bsi-praesident-schoenbohm-ist-abberufen/</id>
@@ -11120,419 +11563,6 @@ Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
         <updated>2022-09-20T14:51:00.000Z</updated>
         <summary type="html"><![CDATA[Amazon wird neue Hardware vorstellen. Das Unternehmen hat einen Termin gefunden und Journalisten eingeladen. Sicherlich wird man einiges zu zeigen haben, letztens erst konnten wir von einem neuen Echo Studio berichten. Ich weiß allerdings auch, dass Amazon mehr in petto...
 Zum Beitrag: Amazon stellt neue Hardware vor, Termin für das Event steht
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>caschy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[figr: Taschenrechner mit Notepad-Funktion für Windows und macOS]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1130275</id>
-        <link href="https://stadt-bremerhaven.de/figr-taschenrechner-mit-notepad-funktion-fuer-windows-und-macos/"/>
-        <updated>2022-09-20T14:30:19.000Z</updated>
-        <summary type="html"><![CDATA[Der kleine Werkzeug-Tipp für Windows- und Mac-Nutzer, die sich einen Taschenrechner mit Notepad-Funktionen wünschen. Vielleicht kennt ihr ja Apps wie Numi oder Soulver – in die ähnliche Kerbe schlägt die kostenlose App figr. figr kann umrechnen, rechnen, wissenschaftliche Berechnungen durchführen...
-Zum Beitrag: figr: Taschenrechner mit Notepad-Funktion für Windows und macOS
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>caschy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Xbox Game Pass: Diese Spiele stoßen bald hinzu]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1130282</id>
-        <link href="https://stadt-bremerhaven.de/xbox-game-pass-diese-spiele-stossen-bald-hinzu-2/"/>
-        <updated>2022-09-20T14:00:06.000Z</updated>
-        <summary type="html"><![CDATA[Olli hatte schon einige Neuzugänge, die ihr ab sofort im Xbox Game Pass vorfindet, hier im Blog vorgestellt – etwa „Deathloop“. Solltet ihr Lust auf diesen Shooter von Arkane haben, dann könnt ihr ab heute loslegen. Es kommen aber noch...
-Zum Beitrag: Xbox Game Pass: Diese Spiele stoßen bald hinzu
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>André Westphal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Radeon RX 7000: Kurz vor GeForce RTX 4000 nennt AMD den RDNA-3-Termin]]></title>
-        <id>https://www.computerbase.de/2022-09/radeon-rx-7000-kurz-vor-geforce-rtx-4000-nennt-amd-den-rdna-3-termin/</id>
-        <link href="https://www.computerbase.de/2022-09/radeon-rx-7000-kurz-vor-geforce-rtx-4000-nennt-amd-den-rdna-3-termin/"/>
-        <updated>2022-09-20T13:43:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/0/7/5-6c7a0efbf4c5afb2/article-640x360.823b9b0e.jpg"><p>AMD wird die RDNA-3-Architektur, die aller Voraussicht nach Grafikkarten der Serie Radeon RX 7000 hervorbringen wird, am 3. November veröffentlichen. Das hat Scott Herkelman, bei AMD verantwortlich für Radeon, auf Twitter bekanntgegeben – zwei Stunden bevor Nvidia CEO Jensen Huang GeForce RTX 4000 präsentieren wird.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[STRATO HiDrive: Preise werden angepasst]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1130285</id>
-        <link href="https://stadt-bremerhaven.de/strato-hidrive-preise-werden-angepasst/"/>
-        <updated>2022-09-20T13:30:53.000Z</updated>
-        <summary type="html"><![CDATA[Mit einer neuen Tarifstruktur möchte STRATO den Cloud-Speicher HiDrive besonders für jüngere Zielgruppen interessanter machen. Das günstigste HiDrive Paket „Starter“ kostet monatlich 3,50 Euro bei 500 GB Speicher. 1 Terabyte Speicher (1.024 GB) kostet fortan monatlich 5 Euro. Berechnet wird...
-Zum Beitrag: STRATO HiDrive: Preise werden angepasst
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>caschy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Firefox 105 veröffentlicht: Das ist neu]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1130287</id>
-        <link href="https://stadt-bremerhaven.de/firefox-105-veroeffentlicht-das-ist-neu/"/>
-        <updated>2022-09-20T13:12:34.000Z</updated>
-        <summary type="html"><![CDATA[Mozilla hat den Browser Firefox in Version 105 veröffentlicht. Da Update steht ab sofort zum Download bereit. Neben einer Handvoll Fehlerbehebungen gibt es auch ein paar neue Funktionen. Es wurde unter anderem eine Option hinzugefügt, um nur die aktuelle Seite...
-Zum Beitrag: Firefox 105 veröffentlicht: Das ist neu
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>caschy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LG Display: Deutsche Bahn stellt Konzeptzug mit transparenten OLED-Displays vor]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1130187</id>
-        <link href="https://stadt-bremerhaven.de/lg-display-deutsche-bahn-stellt-konzeptzug-mit-transparenten-oled-displays-vor/"/>
-        <updated>2022-09-20T13:00:59.000Z</updated>
-        <summary type="html"><![CDATA[Die Deutsche Bahn hat für die Messe für Verkehrstechnik InnoTrans 2022 einen Konzeptzug erstmals mit transparenten OLED-Displays von LG ausgestattet. Gedacht ist diese Neuerung sowohl für den ÖPNV als auch den Fernverkehr. LG Display stellt auf der Messe natürlich auch...
-Zum Beitrag: LG Display: Deutsche Bahn stellt Konzeptzug mit transparenten OLED-Displays vor
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>Benjamin Mamerow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AMD Mendocino: Drei Modelle starten als erste Ryzen/Athlon-7020-APUs]]></title>
-        <id>https://www.computerbase.de/2022-09/amd-mendocino-drei-modelle-starten-als-erste-ryzen-athlon-7020-apus/</id>
-        <link href="https://www.computerbase.de/2022-09/amd-mendocino-drei-modelle-starten-als-erste-ryzen-athlon-7020-apus/"/>
-        <updated>2022-09-20T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/0/6/3-8cb99b63b35bf426/article-640x360.a9d071ba.jpg"><p>Die im Mai dieses Jahres erstmals von AMD bestätigte neue Einsteiger-APU-Serie, Codename Mendocino, geht mit drei Modellen ab dem vierten Quartal an den Start. Diese bieten einige Überraschungen, denn AMD bastelt hier sprichwörtlich aus vielen einzelnen IP-Bauteilen eine interessante Lösung für Notebooks zusammen.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Firefox 105 is out: here is what is new]]></title>
-        <id>https://www.ghacks.net/?p=180844</id>
-        <link href="https://www.ghacks.net/2022/09/20/firefox-105-is-out-here-is-what-is-new/"/>
-        <updated>2022-09-20T12:37:42.000Z</updated>
-        <summary type="html"><![CDATA[Mozilla published Firefox Stable and Firefox ESR updates on September 20, 2022. Firefox 105 Stable and Firefox 102.3 ESR are the new versions that are now available. The main improvement in Firefox […]
-Thank you for being a Ghacks reader. The post Firefox 105 is out: here is what is new appeared first on gHacks Technology News.]]></summary>
-        <author>
-            <name>Martin Brinkmann</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ghacks Deals: The 2023 Premium Python Programming Mega Certification Bundle]]></title>
-        <id>https://www.ghacks.net/?p=180850</id>
-        <link href="https://www.ghacks.net/2022/09/20/ghacks-deals-the-2023-premium-python-programming-mega-certification-bundle/"/>
-        <updated>2022-09-20T12:35:26.000Z</updated>
-        <summary type="html"><![CDATA[If you always wanted to learn how to code in Python, this is the ultimate way to achieve that goal. The bundle includes 14 Python related courses, including several designed for beginners […]
-Thank you for being a Ghacks reader. The post Ghacks Deals: The 2023 Premium Python Programming Mega Certification Bundle appeared first on gHacks Technology News.]]></summary>
-        <author>
-            <name>Martin Brinkmann</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Samsung Galaxy S23: Möglicherweise doch Exynos-Varianten geplant]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1130263</id>
-        <link href="https://stadt-bremerhaven.de/samsung-galaxy-s23-moeglicherweise-doch-exynos-varianten-geplant/"/>
-        <updated>2022-09-20T12:30:37.000Z</updated>
-        <summary type="html"><![CDATA[Bereits im Juli 2022 kamen Gerüchte auf, laut denen Samsungs kommende Smartphone-Flaggschiffe der Reihe Galaxy S23 nur noch auf die Qualcomm Snapdragon als Chips setzen könnten. Nun kommt es wieder zu gegenteiligen Behauptungen: Auch Versionen mit Exynos-SoCs seien angedacht. Aktuell...
-Zum Beitrag: Samsung Galaxy S23: Möglicherweise doch Exynos-Varianten geplant
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>André Westphal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Peloton Row erscheint – und neue Funktionen für den Guide]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1130270</id>
-        <link href="https://stadt-bremerhaven.de/peloton-row-erscheint-und-neue-funktionen-fuer-den-guide/"/>
-        <updated>2022-09-20T12:00:10.000Z</updated>
-        <summary type="html"><![CDATA[Peloton hat sein neues Fitnessgerät, den Peloton Row, vorgestellt. Er ist ab sofort in den USA vorbestellbar, auf der dt. Website taucht das Rudergerät aktuell allerdings noch nicht auf. Zusätzlich hat der Hersteller auch seinen Guide aufgestockt, damit Abonnenten eine...
-Zum Beitrag: Peloton Row erscheint – und neue Funktionen für den Guide
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>André Westphal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple to increase App Store prices in several regions in October]]></title>
-        <id>https://www.ghacks.net/?p=180843</id>
-        <link href="https://www.ghacks.net/2022/09/20/apple-to-increase-app-store-prices-in-several-regions-next-month/"/>
-        <updated>2022-09-20T11:55:54.000Z</updated>
-        <summary type="html"><![CDATA[Apple has announced that it plans to increase App Store prices starting next month. The price hike will be effective in several regions. Apple to increase App Store prices Inflation is likely […]
-Thank you for being a Ghacks reader. The post Apple to increase App Store prices in several regions in October appeared first on gHacks Technology News.]]></summary>
-        <author>
-            <name>Ashwin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[„Call of Duty: Warzone Mobile“: Android-Vorregistrierung ab sofort möglich]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1130203</id>
-        <link href="https://stadt-bremerhaven.de/call-of-duty-warzone-mobile-android-vorregistrierung-ab-sofort-moeglich/"/>
-        <updated>2022-09-20T11:30:16.000Z</updated>
-        <summary type="html"><![CDATA[Im März dieses Jahres erstmals bestätigt, jüngst dann für 2023 angekündigt: „Call of Duty: Warzone“ bekommt einen mobilen Ableger. Bis zu 120 Spieler sollen dann auf ihrem Smartphone in der Lage sein, gegeneinander im Battle-Royale-Modus anzutreten. Und falls ihr zu...
-Zum Beitrag: „Call of Duty: Warzone Mobile“: Android-Vorregistrierung ab sofort möglich
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>Benjamin Mamerow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Xbox: Microsoft lockert die DRM-Beschränkungen für Disc-basierte Spiele]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1130253</id>
-        <link href="https://stadt-bremerhaven.de/xbox-microsoft-lockert-die-drm-beschraenkungen-fuer-disc-basierte-spiele/"/>
-        <updated>2022-09-20T11:00:27.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft hat mit dem Update 2208 für die Xbox Series X unverhofft im Hintergrund eine kleine Verbesserung integriert: Installiert ihr ein Disc-basiertes Spiel für die Xbox One, müsst ihr nicht mehr zwangsläufig bei der Installation online sein. Zuvor ist es...
-Zum Beitrag: Xbox: Microsoft lockert die DRM-Beschränkungen für Disc-basierte Spiele
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>André Westphal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vorschau auf Fritz!OS 7.50: Neue Labor-Firmware für DSL-, Kabel-, LTE- und 5G-Router]]></title>
-        <id>https://www.computerbase.de/2022-09/avm-fritzos-7-50-vorschau-fritzbox/</id>
-        <link href="https://www.computerbase.de/2022-09/avm-fritzos-7-50-vorschau-fritzbox/"/>
-        <updated>2022-09-20T10:46:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/0/7/1-378bab72bd569b5b/article-640x360.2bedaf6f.jpg"><p>AVM hat eine neue Labor-Firmware für seine ADSL-, VDSL-, Kabel-, LTE- und 5G-Router aus der Serie Fritz!Box zum Testen freigegeben. Die Beta-Firmware stellt eine der letzten Vorschauversionen vor dem Release des kommenden Router-Betriebssystems Fritz!OS 7.50 dar und ist erstmals mit der Fritz!Box 6850 5G kompatibel.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ford erforscht neue Technologien für mehr Sicherheit im Straßenverkehr]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1130215</id>
-        <link href="https://stadt-bremerhaven.de/ford-erforscht-neue-technologien-fuer-mehr-sicherheit-im-strassenverkehr/"/>
-        <updated>2022-09-20T10:30:26.000Z</updated>
-        <summary type="html"><![CDATA[Der US-Autohersteller Ford erklärt, dass er gemeinsam mit Commsignia, PSS, der Ohio State University, T-Mobile und Tome Software an einer Smartphone-basierten Kommunikations-Technologie arbeite, welche am Ende Auto- und Radfahrer sowie Fußgänger vor potenziellen Gefahren warnen könnte. Ford hat da schon...
-Zum Beitrag: Ford erforscht neue Technologien für mehr Sicherheit im Straßenverkehr
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>André Westphal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vodafone plant mit ZF in Düsseldorf den Straßenverkehr der Zukunft]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1130186</id>
-        <link href="https://stadt-bremerhaven.de/vodafone-plant-mit-zf-in-duesseldorf-den-strassenverkehr-der-zukunft/"/>
-        <updated>2022-09-20T10:00:10.000Z</updated>
-        <summary type="html"><![CDATA[Vodafone und ZF arbeiten in Düsseldorf laut einer aktuellen Pressemitteilung am „Straßenverkehr der Zukunft“. Ein Schlüsselelement sei da die cloudbasierte V2X-Plattform („Vehicle to everything“) für Fahrzeughersteller und Verkehrsbehörden. Ziel ist es, Sicherheitsinformationen in Echtzeit für Autos, LKWs, Motorräder, Radfahrer und...
-Zum Beitrag: Vodafone plant mit ZF in Düsseldorf den Straßenverkehr der Zukunft
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>André Westphal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vorratsdaten­speicherung: EuGH kippt deutsches Gesetz (Update)]]></title>
-        <id>https://www.computerbase.de/2022-09/vorratsdatenspeicherung-eugh-kippt-deutsches-gesetz/</id>
-        <link href="https://www.computerbase.de/2022-09/vorratsdatenspeicherung-eugh-kippt-deutsches-gesetz/"/>
-        <updated>2022-09-20T09:40:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/0/6/8-edd6ced9f266433e/article-640x360.1804c5e6.jpg"><p>Das Urteil ist lang erwartet und im Ergebnis wenig überraschend: Der Europäische Gerichtshof (EuGH) hat heute entschieden, dass das deutsche Gesetz zur Vorratsdatenspeicherung gegen das EU-Recht verstößt. Angewendet wurde das Gesetz aber ohnehin nicht. Nun ist aber klar, dass eine Neuregelung erforderlich ist.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Arc A770 („Alchemist“): Intel-CEO bestätigt, die erste Charge ist startklar]]></title>
-        <id>https://www.computerbase.de/2022-09/intel-arc-a770-ready-for-retail/</id>
-        <link href="https://www.computerbase.de/2022-09/intel-arc-a770-ready-for-retail/"/>
-        <updated>2022-09-20T08:11:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/0/6/7-ba5e3b5f7bb634b3/article-640x360.989b8fee.jpg"><p>Das Warten auf Intels Arc-Grafikkarten der ersten Generation Intel Xe HPG („Alchemist“) nähert sich dem Ende, die erste Charge ist startklar. Wie Intel-CEO Pat Gelsinger über den Kurznachrichtendienst Twitter mitteilte, ist der erste Batch des Spitzenmodells Intel Arc A770 mit ACM-G11-Grafikchip jetzt bereit für den Retailmarkt.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple App Store: Apps werden ab Oktober rund 20 Prozent teurer]]></title>
-        <id>https://www.computerbase.de/2022-09/apple-app-store-apps-werden-ab-oktober-rund-20-prozent-teurer/</id>
-        <link href="https://www.computerbase.de/2022-09/apple-app-store-apps-werden-ab-oktober-rund-20-prozent-teurer/"/>
-        <updated>2022-09-20T07:20:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/0/6/6-2a128b34b30d0734/article-640x360.659054fe.jpg"><p>Wie Apple in einer Mitteilung an Entwickler bekannt gegeben hat, werden die Preise für Endkunden im App Store ab dem 5. Oktober in einigen Ländern angehoben. Betroffen davon ist auch der gesamte Euroraum, also auch Deutschland. Die Anpassung betrifft sowohl Apps als auch In-App-Käufe.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google continues extensions Manifest v3 push even though some APIs are not ready yet]]></title>
-        <id>https://www.ghacks.net/?p=180840</id>
-        <link href="https://www.ghacks.net/2022/09/20/google-continues-extensions-manifest-v3-push-even-though-some-apis-are-not-ready-yet/"/>
-        <updated>2022-09-20T04:54:05.000Z</updated>
-        <summary type="html"><![CDATA[Remember when Mozilla switched to WebExtensions? Back then, developers had to port their extensions to the new extensions system for them to remain compatibility with Firefox. Mozilla did not release major APIs […]
-Thank you for being a Ghacks reader. The post Google continues extensions Manifest v3 push even though some APIs are not ready yet appeared first on gHacks Technology News.]]></summary>
-        <author>
-            <name>Martin Brinkmann</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iPhone 14 Pro: Fix für Kameraproblem bei Drittanbieter-Apps soll kommende Woche erscheinen]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1130145</id>
-        <link href="https://stadt-bremerhaven.de/iphone-14-pro-fix-fuer-kameraproblem-bei-drittanbieter-apps-soll-kommende-woche-erscheinen/"/>
-        <updated>2022-09-19T19:28:05.000Z</updated>
-        <summary type="html"><![CDATA[Ihr hattet es vermutlich schon mitbekommen oder seid im Negativfall selbst davon betroffen: Einige Nutzer eines iPhone 14 Pro oder Pro Max haben aktuell mit Kamera-Problemen bei Drittanbieter-Apps zu tun. Die Kamera fängt dabei an, unkontrolliert vor sich hin zu...
-Zum Beitrag: iPhone 14 Pro: Fix für Kameraproblem bei Drittanbieter-Apps soll kommende Woche erscheinen
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>Benjamin Mamerow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Signal: Update gegen Probleme bei der Registrierung]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1130143</id>
-        <link href="https://stadt-bremerhaven.de/signal-update-gegen-probleme-bei-der-registrierung/"/>
-        <updated>2022-09-19T19:14:02.000Z</updated>
-        <summary type="html"><![CDATA[Ein kleiner Hinweis an die Nutzer des Signal Messengers, die vielleicht eine neue Instanz auf dem iPhone oder dem iPad einrichten wollen. Signal hat ein wichtiges Update veröffentlicht, welches ab sofort für iOS zu haben ist. Mit dieser Version behebt...
-Zum Beitrag: Signal: Update gegen Probleme bei der Registrierung
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>caschy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Logitechs Webseite erwähnt kommende iPad-Pro-Modelle]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1130124</id>
-        <link href="https://stadt-bremerhaven.de/logitechs-webseite-erwaehnt-kommende-ipad-pro-modelle/"/>
-        <updated>2022-09-19T18:29:40.000Z</updated>
-        <summary type="html"><![CDATA[Logitech scheint schon etwas mehr zu wissen. Auf der Webseite des Unternehmens kündigte man die Unterstützung des iPad Pro mit 12,9 Zoll und des iPad Pro mit 11 Zoll mit dem Logitech Crayon, einem digitalen Stift, an. Pikant: Die iPads...
-Zum Beitrag: Logitechs Webseite erwähnt kommende iPad-Pro-Modelle
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>caschy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iPhone 14: Bug mit Kopier-/Einfügen-Abfrage ist mittlerweile bekannt, soll schleunigst behoben werden]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1130113</id>
-        <link href="https://stadt-bremerhaven.de/iphone-14-bug-mit-kopier-einfuegen-abfrage-ist-mittlerweile-bekannt-soll-schleunigst-behoben-werden/"/>
-        <updated>2022-09-19T17:55:51.000Z</updated>
-        <summary type="html"><![CDATA[Es ist eine Sicherheitsabfrage, die in ihrer Form durchaus ihre Berechtigung hat: iOS 16 erkundigt sich beim Einfügen von Zwischenspeicherdaten von einer App in eine andere, ob jene Aktion vom Nutzer gewünscht wird oder blockiert werden soll. Nun häuften sich...
-Zum Beitrag: iPhone 14: Bug mit Kopier-/Einfügen-Abfrage ist mittlerweile bekannt, soll schleunigst behoben werden
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>Benjamin Mamerow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Telegram adds more free reactions for users, new username links and more]]></title>
-        <id>https://www.ghacks.net/?p=180833</id>
-        <link href="https://www.ghacks.net/2022/09/19/telegram-adds-more-free-reactions-for-users-new-username-links-and-more/"/>
-        <updated>2022-09-19T16:24:15.000Z</updated>
-        <summary type="html"><![CDATA[Telegram has rolled out an update for its apps on Desktop, Android and iOS that increases the number of free animated reactions. It also introduces a new way to share profile links, […]
-Thank you for being a Ghacks reader. The post Telegram adds more free reactions for users, new username links and more appeared first on gHacks Technology News.]]></summary>
-        <author>
-            <name>Ashwin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nothing phone (1): Update auf Nothing OS 1.1.4 wird verteilt]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1130095</id>
-        <link href="https://stadt-bremerhaven.de/nothing-phone-1-update-auf-nothing-os-1-1-4-wird-verteilt/"/>
-        <updated>2022-09-19T16:20:34.000Z</updated>
-        <summary type="html"><![CDATA[Nothing feilt weiterhin am Betriebssystem für sein Smartphone, das Nothing phone (1). Jenes habe ich bereits einem ausführlichen Testbericht unterzogen und hat sich zu einem meiner derzeit liebsten Android-Smartphones gemausert. Mit Android 13 wird das wohl leider noch etwas dauern,...
-Zum Beitrag: Nothing phone (1): Update auf Nothing OS 1.1.4 wird verteilt
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>Felix Frank</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tokyo Game Show: Nextorage zeigt PCIe-5.0-SSD mit 10 GB/s und Riesenkühler]]></title>
-        <id>https://www.computerbase.de/2022-09/tokyo-game-show-nextorage-zeigt-pcie-5-0-ssd-mit-10-gb-s-und-riesenkuehler/</id>
-        <link href="https://www.computerbase.de/2022-09/tokyo-game-show-nextorage-zeigt-pcie-5-0-ssd-mit-10-gb-s-und-riesenkuehler/"/>
-        <updated>2022-09-19T15:58:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/0/5/9-736fae0e8378de27/article-640x360.860880a0.jpg"><p>Das japanische Unternehmen Nextorage, das inzwischen vollständig dem taiwanischen SSD-Controller-Hersteller Phison gehört, hat im Rahmen der Tokyo Game Show 2022 einen Ausblick auf seine bisher schnellste SSD gegeben. Das „Flaggschiff“ nutzt PCIe 5.0 für bis zu 10.000 MB/s. Der angedachte Kühler ist ein Riese.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ransomware LockerGoga: Entschlüsselungs-Tool veröffentlicht]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1130091</id>
-        <link href="https://stadt-bremerhaven.de/ransomware-lockergoga-entschluesselungs-tool-veroeffentlicht/"/>
-        <updated>2022-09-19T15:22:20.000Z</updated>
-        <summary type="html"><![CDATA[Die Entwickler der Antiviren-Software Bitdefender und die NoMoreRansom-Initiative haben ein kostenloses Entschlüsselungstool für von der Ransomware LockerGoga verschlüsselte Daten veröffentlicht. Anzeichen für eine LockerGoga-Infektion ist das Vorhandensein von Dateien mit der Dateierweiterung „.locked“. Die Gruppe, die hinter der Ransomware steckt,...
-Zum Beitrag: Ransomware LockerGoga: Entschlüsselungs-Tool veröffentlicht
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>caschy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zeichen-App Krita wird von Intel unterstützt]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1130087</id>
-        <link href="https://stadt-bremerhaven.de/zeichen-app-krita-wird-von-intel-unterstuetzt/"/>
-        <updated>2022-09-19T14:56:17.000Z</updated>
-        <summary type="html"><![CDATA[Über die Zeichen-App Krita für Windows, Linux und macOS haben wir in der Vergangenheit schon häufiger berichtet. Sie ist kostenlos zu haben und wurde bislang unter anderem durch Spenden finanziert. Nun springt Chip-Gigant Intel ein. Die Krita Foundation freue sich,...
-Zum Beitrag: Zeichen-App Krita wird von Intel unterstützt
 
 Zum Blog: Caschys Blog
 
