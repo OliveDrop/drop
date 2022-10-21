@@ -6,6 +6,206 @@
       "siteUrl": "https://stadt-bremerhaven.de",
       "articles": [
         {
+          "id": "https://stadt-bremerhaven.de/?p=1135274",
+          "author": "Benjamin Mamerow",
+          "description": "Windows-11-Insider aufgepasst, neue Beta-Builds sind verfügbar. Nämlich: Windows 11 Insider Preview Build 22621.870 und 22623.870, die laut Windows bereits in der Verteilung sind. In Build 22623.870 enthalten ist unter anderem die Neuerung, dass der Task-Manager sich nun über das Kontextmenü...\nZum Beitrag: Microsoft veröffentlicht Windows 11 Insider Preview Build 22621.870 und 22623.870\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
+          "link": "https://stadt-bremerhaven.de/microsoft-veroeffentlicht-windows-11-insider-preview-build-22621-870-und-22623-870/",
+          "publishedOn": "2022-10-20T18:13:13.000Z",
+          "wordCount": 1627,
+          "title": "Microsoft veröffentlicht Windows 11 Insider Preview Build 22621.870 und 22623.870",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2021/06/windows11.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1135263",
+          "author": "caschy",
+          "description": "Im Rahmen der Vorstellung von neuen iPads und neuem Apple TV hat Apple neulich auch bekannt gegeben, wann es Updates gibt. Release-Tag für macOS Ventura 13.0 und iPadOS 16 ist da der 24. Oktober, also bereits kommende Woche. Auch iOS 16.1 dürfte kommende Woche für...\nZum Beitrag: macOS Ventura RC 2 veröffentlicht\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
+          "link": "https://stadt-bremerhaven.de/macos-ventura-rc-2-veroeffentlicht/",
+          "publishedOn": "2022-10-20T17:17:21.000Z",
+          "wordCount": 1763,
+          "title": "macOS Ventura RC 2 veröffentlicht",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/06/macOS-ventura_.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1135242",
+          "author": "caschy",
+          "description": "Das reichen wir einmal gerne für Nutzer und Ausprobierfreudige durch: Ubuntu 22.10 wurde veröffentlicht. Diese Zwischenversion mit dem Codenamen „Kinetic Kudu“ verbessert die Erfahrungen für Unternehmensentwickler und IT-Administratoren mit dem System, so die Entwickler. Ubuntu 22.10 enthält auch die neuesten...\nZum Beitrag: Ubuntu 22.10 veröffentlicht\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
+          "link": "https://stadt-bremerhaven.de/ubuntu-22-10-veroeffentlicht/",
+          "publishedOn": "2022-10-20T16:00:39.000Z",
+          "wordCount": 1781,
+          "title": "Ubuntu 22.10 veröffentlicht",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/10/ubuntu2210.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1135224",
+          "author": "caschy",
+          "description": "Nvidia hat Neuerungen zu Spielen bei GeForce NOW, dem Cloud-Gaming-Dienst, geteilt. So habe man die Liste der Spiele, die die neue Mobile-Touch-Steuerung unterstützen, um mehr als ein Dutzend Titel erweitert – inklusive der Titel Fortnite und Genshin Impact. Durch die...\nZum Beitrag: GeForce NOW: Mehr Unterstützung für Mobile-Touch-Steuerungen\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
+          "link": "https://stadt-bremerhaven.de/geforce-now-mehr-unterstuetzung-fuer-mobile-touch-steuerungen/",
+          "publishedOn": "2022-10-20T15:30:00.000Z",
+          "wordCount": 1870,
+          "title": "GeForce NOW: Mehr Unterstützung für Mobile-Touch-Steuerungen",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/10/GFN_Thursday-Dota_Underlords_.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1135238",
+          "author": "caschy",
+          "description": "Da dürften Benutzer von Google Home mal ein Auge drauf werfen: Erste Nutzer berichten davon, dass sie nun Geräte nutzen können, um Abläufe zu triggern. Sprich: Wenn Gerät A etwas macht, dann wird eine Routine ausgeführt. Wenn beispielsweise eine Kaffeemaschine...\nZum Beitrag: Google Home: Abläufe durch Gerätestatus ausführen lassen\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
+          "link": "https://stadt-bremerhaven.de/google-home-ablaeufe-durch-geraetestatus-ausfuehren-lassen/",
+          "publishedOn": "2022-10-20T15:15:33.000Z",
+          "wordCount": 1708,
+          "title": "Google Home: Abläufe durch Gerätestatus ausführen lassen",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/10/google-home_.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1135222",
+          "author": "caschy",
+          "description": "Neulich erschien Firefox in Version 106 mit einigen Neuerungen. Unter anderem an Bord: Geräteübergreifende Task Continuity, ein PDF-Editor und die Bild-Text-Erkennung. Der zuerst genannte Punkt ermöglicht es euch, nahtlos zwischen verschiedenen Geräten zu wechseln. Mithilfe der neuen Task Continuity könnt...\nZum Beitrag: Firefox 106.0.1 veröffentlicht\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
+          "link": "https://stadt-bremerhaven.de/firefox-106-0-1-veroeffentlicht/",
+          "publishedOn": "2022-10-20T15:00:48.000Z",
+          "wordCount": 1800,
+          "title": "Firefox 106.0.1 veröffentlicht",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2021/11/Firefox-1_.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1135105",
+          "author": "Olli",
+          "description": "Es ist Donnerstag und damit wieder Zeit für neue kostenlose Spiele im Epic Games Store. Dieses Mal hat man wieder zwei Dinge für euch im Angebot, mit denen ihr euch die Zeit vertreiben könnten. Fangen wir mit dem kostenlosen Spiel...\nZum Beitrag: Epic Games: „Evoland Legendary Edition“ und „Fallout 3: Fallout 3: Game of the Year Edition“ kostenlos erhältlich\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
+          "link": "https://stadt-bremerhaven.de/epic-games-evoland-legendary-edition-und-fallout-3-fallout-3-game-of-the-year-edition-kostenlos-erhaeltlich/",
+          "publishedOn": "2022-10-20T15:00:39.000Z",
+          "wordCount": 1785,
+          "title": "Epic Games: „Evoland Legendary Edition“ und „Fallout 3: Fallout 3: Game of the Year Edition“ kostenlos erhältlich",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/03/Epic-Games-Logo.jpeg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1135143",
+          "author": "caschy",
+          "description": "Die Entwickler von Thunderbird haben die Version 102.4.0 des kostenlosen Open-Source-Mailers veröffentlicht. Hauptsächlich handelt es sich um ein Update, mit dem Fehlerbehebungen vorgenommen werden, aber es gibt auch eine Änderung. Thunderbird erkennt und repariert automatisch die Beschädigung des OpenPGP-Schlüsselspeichers, die...\nZum Beitrag: Thunderbird 102.4.0 veröffentlicht\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
+          "link": "https://stadt-bremerhaven.de/thunderbird-102-4-0-veroeffentlicht/",
+          "publishedOn": "2022-10-20T14:45:35.000Z",
+          "wordCount": 1768,
+          "title": "Thunderbird 102.4.0 veröffentlicht",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2020/01/thunderbird.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1135103",
+          "author": "Olli",
+          "description": "Apple wird in der nächsten Woche die neuen Versionen von macOS Ventura, iOS 16.1, iPadOS und Co. veröffentlichen. Davor folgt noch die neue Version der Safari Technology Preview, die Nutzer seit 2016 parallel zum normalen Safari installieren können. Release 156...\nZum Beitrag: Safari Technology Preview: Version 156 veröffentlicht\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
+          "link": "https://stadt-bremerhaven.de/safari-technology-preview-version-156-veroeffentlicht/",
+          "publishedOn": "2022-10-20T14:30:32.000Z",
+          "wordCount": 1727,
+          "title": "Safari Technology Preview: Version 156 veröffentlicht",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/09/Safari-Technology.jpeg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1135234",
+          "author": "caschy",
+          "description": "Wir hatten euch im Rahmen unserer Berichterstattung schon darüber informiert, dass es mal möglich sein wird, Apple Fitness+ nur mit dem iPhone, ohne die Apple Watch, zu nutzen. Durch die Verteilung von iOS 16.1 nimmt das bald konkret Gestalt an....\nZum Beitrag: Apple Fitness+ ab dem 24. Oktober für iPhone-Nutzer verfügbar\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
+          "link": "https://stadt-bremerhaven.de/apple-fitness-ab-dem-24-oktober-fuer-iphone-nutzer-verfuegbar/",
+          "publishedOn": "2022-10-20T14:12:44.000Z",
+          "wordCount": 1936,
+          "title": "Apple Fitness+ ab dem 24. Oktober für iPhone-Nutzer verfügbar",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/10/Apple-Fitness-Plus-HIIT-workout-device-lineup_big.jpg.large_2x_.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1135229",
+          "author": "caschy",
+          "description": "Google hat bekannt gegeben, dass die Messages-App, also die Nachrichten-App auf vielen Android-Smartphones, Neuerungen erhalten wird. Fangen wir mit Kleinigkeiten an: Google Messages wird ein neues Icon erhalten – die Kontakte-App sowie die Telefon-App übrigens auch, wie ihr über diesem...\nZum Beitrag: Google Messages: Neue Funktionen angekündigt\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
+          "link": "https://stadt-bremerhaven.de/google-messages-neue-funktionen-angekuendigt/",
+          "publishedOn": "2022-10-20T13:43:56.000Z",
+          "wordCount": 2031,
+          "title": "Google Messages: Neue Funktionen angekündigt",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/10/google-messages-1_.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1135188",
+          "author": "caschy",
+          "description": "Das neue Google Pixel 7 / 7 Pro ist auf dem Markt und auch die Google Pixel Watch hat schon ihre ersten Nutzer gefunden. Nicht überraschend haben sich auch die Menschen bei ifixit die Smartwatch vorgenommen. Sie richten sich mit...\nZum Beitrag: Google Pixel Watch auf dem Seziertisch\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
+          "link": "https://stadt-bremerhaven.de/google-pixel-watch-auf-dem-seziertisch/",
+          "publishedOn": "2022-10-20T13:30:55.000Z",
+          "wordCount": 1840,
+          "title": "Google Pixel Watch auf dem Seziertisch",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/10/ifixit-pixel-watch-2.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1135218",
+          "author": "caschy",
+          "description": "Amazon hat neulich nicht nur einen ganzen Schwung neuer Hardware vorgestellt, auch bezüglich der Software gabs einiges zu hören. Im Rahmen des Echo Dot Kids für den deutschen Markt ließ man auch etwas zu Amazon Kids für Alexa verlauten. Das...\nZum Beitrag: Amazon Kids für Alexa: Echos lassen sich ab sofort in Deutschland konfigurieren\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
+          "link": "https://stadt-bremerhaven.de/amazon-kids-fuer-alexa-echos-lassen-sich-ab-sofort-in-deutschland-konfigurieren/",
+          "publishedOn": "2022-10-20T13:00:20.000Z",
+          "wordCount": 1989,
+          "title": "Amazon Kids für Alexa: Echos lassen sich ab sofort in Deutschland konfigurieren",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/10/amazonkids_.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1135110",
+          "author": "Olli",
+          "description": "Vor einigen Tagen hat Microsoft Neuerungen für Office vorgestellt. Da wird unter anderem die Office-App durch eine neue Microsoft-365-App ersetzt, die es für das Web, Windows, iOS, iPadOS und Android geben wird. Dabei ist jedoch nicht alles neu und man...\nZum Beitrag: Microsoft: Ein erster Blick auf die neue Microsoft-365-App\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
+          "link": "https://stadt-bremerhaven.de/microsoft-ein-erster-blick-auf-die-neue-microsoft-365-app/",
+          "publishedOn": "2022-10-20T12:30:30.000Z",
+          "wordCount": 1731,
+          "title": "Microsoft: Ein erster Blick auf die neue Microsoft-365-App",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/10/Microsoft-365-App.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1135213",
+          "author": "caschy",
+          "description": "UGREEN hat ein neues Netzteil / Ladegerät in die Amazon-Auslage gelegt. Das Unternehmen hat sich in der letzten Zeit Mühe damit gegeben, möglichst viel Watt in ein kompaktes Gehäuse zu pressen. Das UGREEN Nexode 140W ist dabei kein Netzteil mit...\nZum Beitrag: UGREEN Nexode: 140 Watt für 150 Euro\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
+          "link": "https://stadt-bremerhaven.de/ugreen-nexode-140-wat-fuer-150-euro/",
+          "publishedOn": "2022-10-20T12:15:07.000Z",
+          "wordCount": 1804,
+          "title": "UGREEN Nexode: 140 Watt für 150 Euro",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/10/ugreen-nexode-140-watt_.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1135101",
+          "author": "Benjamin Mamerow",
+          "description": "Die Podcast-App Pocket Casts gehört mittlerweile zu Automattic, dem Betreiber von WordPress und neuem Eigentümer von Tumblr. Von dort heißt es nun, dass die Pocket Casts Mobile Apps ab sofort Open Source (Mozilla Public License) sind. Mit dieser Entscheidung will...\nZum Beitrag: Pocket Casts: Podcast-App ab sofort Open Source\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
+          "link": "https://stadt-bremerhaven.de/pocket-casts-podcast-app-ab-sofort-open-source/",
+          "publishedOn": "2022-10-20T12:00:58.000Z",
+          "wordCount": 1824,
+          "title": "Pocket Casts: Podcast-App ab sofort Open Source",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2019/03/pocketcasts_logo.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1135196",
+          "author": "caschy",
+          "description": "Bei einigen vielleicht untergegangen: Freevee ist mittlerweile auch in Deutschland gestartet. Kurzbeschreibung: Serien und Filme gratis schauen, dafür wird Werbung kredenzt. Gehört zu Amazon und wird auch innerhalb von Prime Video angezeigt. Freevee fungiert nicht als Ersatz, sondern als Ergänzung...\nZum Beitrag: Amazon Freevee: Das gibt’s kostenlos im November mit Werbung zu sehen\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
+          "link": "https://stadt-bremerhaven.de/amazon-freevee-das-gibts-kostenlos-im-november-mit-werbung-zu-sehen/",
+          "publishedOn": "2022-10-20T11:30:17.000Z",
+          "wordCount": 2455,
+          "title": "Amazon Freevee: Das gibt’s kostenlos im November mit Werbung zu sehen",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/04/freevee_.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1135193",
+          "author": "caschy",
+          "description": "The Document Foundation (TDF) kündigte die Veröffentlichung von LibreOffice im Microsoft Store an, um Endanwender zu unterstützen, die ihre gesamte Desktop-Software über den Vertriebskanal von Microsoft beziehen möchten. Bisher ließ sich die Software direkt herunterladen und dies wird auch weiter...\nZum Beitrag: LibreOffice im Microsoft Store verfügbar\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
+          "link": "https://stadt-bremerhaven.de/libreoffice-im-microsoft-store-verfuegbar/",
+          "publishedOn": "2022-10-20T11:23:38.000Z",
+          "wordCount": 1832,
+          "title": "LibreOffice im Microsoft Store verfügbar",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/10/libreoffice-2.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1135057",
+          "author": "Felix Frank",
+          "description": "Die Weihnachtszeit steht bald bevor. Für den Online-Handel wird da das Geschäft sicherlich, im Rahmen der derzeitigen wirtschaftlichen Lage, florieren. Entsprechend rüsten sich auch die Paketdienstleister zur „volumenstärksten Jahreszeit“. Post und Paket Deutschland der Deutschen Post DHL Group rechnen bereits...\nZum Beitrag: DHL-Gruppe erwartet zum Weihnachtsgeschäft an Spitzentagen 11 Millionen Sendungen\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
+          "link": "https://stadt-bremerhaven.de/dhl-gruppe-erwartet-zum-weihnachtsgeschaeft-an-spitzentagen-11-millionen-sendungen/",
+          "publishedOn": "2022-10-20T11:00:10.000Z",
+          "wordCount": 2379,
+          "title": "DHL-Gruppe erwartet zum Weihnachtsgeschäft an Spitzentagen 11 Millionen Sendungen",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/10/dhl-paket-gogreen-delivery-1592x896.web_.1592.896.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1135191",
+          "author": "caschy",
+          "description": "Nachdem OnePlus bereits vor einiger Zeit OxygenOS 12 auf Basis von Android 12 für den indischen Markt verteilte, sind nun auch Geräte in anderen Märkten dran. Auch in Deutschland können Besitzer der Smartphones bereits das Update OxygenOS 12 MP2 herunterladen,...\nZum Beitrag: OnePlus 7: Vier Modelle bekommen OxygenOS 12\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
+          "link": "https://stadt-bremerhaven.de/oneplus-7-vier-modelle-bekommen-oxygenos-12/",
+          "publishedOn": "2022-10-20T10:46:26.000Z",
+          "wordCount": 2628,
+          "title": "OnePlus 7: Vier Modelle bekommen OxygenOS 12",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/02/oneplus.png"
+        },
+        {
           "id": "https://stadt-bremerhaven.de/?p=1135085",
           "author": "Benjamin Mamerow",
           "description": "Wie Microsoft informiert, befindet sich aktuell der Windows 11 Insider Preview Build 25227 im Dev-Channel in der Verteilung. Eine der Neuerungen, die schon im Vorfeld dieses Updates alle Insider betrifft, welche mit mindestens Build 22209 unterwegs sind, ist, dass im...\nZum Beitrag: Microsoft veröffentlicht Windows 11 Insider Preview Build 25227\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
@@ -4849,186 +5049,6 @@
           "wordCount": 2369,
           "title": "Logitech G CLOUD: Das sind die Details",
           "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/09/cloud-handheld-intro-new_.jpg"
-        },
-        {
-          "id": "https://stadt-bremerhaven.de/?p=1130538",
-          "author": "André Westphal",
-          "description": "Threema erklärt in einem neuen Blog-Post, dass man mit mehreren Partnern die Initiative „The Privacy Pledge“ gegründet habe. Neben Threema sind auch noch Proton, Brave und das Tor Project mit an Bord. Man wolle dabei gemeinsam Alternativen zu den Vorgehensweisen...\nZum Beitrag: The Privacy Pledge: Threema, Proton, Brave, Tor Project und mehr kooperieren\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
-          "link": "https://stadt-bremerhaven.de/the-privacy-pledge-threema-proton-brave-tor-project-und-mehr-kooperieren/",
-          "publishedOn": "2022-09-21T14:00:59.000Z",
-          "wordCount": 2655,
-          "title": "The Privacy Pledge: Threema, Proton, Brave, Tor Project und mehr kooperieren",
-          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/09/Privacy-Pledge.jpeg"
-        },
-        {
-          "id": "https://stadt-bremerhaven.de/?p=1130542",
-          "author": "caschy",
-          "description": "Schaute man sich Apples Vorstellung der Apple Watch Ultra und der Apple Watch Series 8 an, so konnte man nach Sichtung der Marketingvideos eigentlich nur zu einem Schluss kommen: Die Apple Watch Series 8 ist für Menschen, die nicht sterben...\nZum Beitrag: Apple Watch Ultra: Die ersten Pressestimmen\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
-          "link": "https://stadt-bremerhaven.de/apple-watch-ultra-die-ersten-pressestimmen/",
-          "publishedOn": "2022-09-21T13:44:46.000Z",
-          "wordCount": 2669,
-          "title": "Apple Watch Ultra: Die ersten Pressestimmen",
-          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/09/apple-watch-ultra_.jpg"
-        },
-        {
-          "id": "https://stadt-bremerhaven.de/?p=1130377",
-          "author": "Benjamin Mamerow",
-          "description": "Auf seiner hauseigenen Veranstaltung „Made on YouTube“ hat die Plattform bekannt gegeben, womit Creators, also die größeren Kanäle auf YouTube, die auch Geld mit dem Erstellen ihrer Videos verdienen, zukünftig zusätzlich Einnahmen erzielen können. So beispielsweise zukünftig auch über die...\nZum Beitrag: YouTube: Neue Einnahmequellen für Creators vorgestellt\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
-          "link": "https://stadt-bremerhaven.de/youtube-neue-einnahmequellen-fuer-creators-vorgestellt/",
-          "publishedOn": "2022-09-21T13:30:17.000Z",
-          "wordCount": 2074,
-          "title": "YouTube: Neue Einnahmequellen für Creators vorgestellt",
-          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/09/Creator-Music-Image_Blog.jpg"
-        },
-        {
-          "id": "https://stadt-bremerhaven.de/?p=1130488",
-          "author": "André Westphal",
-          "description": "Amazon hat soeben gleich vier neue Tablets vorgestellt. Konkret sind das die beiden Amazon Fire HD 8 und Fire HD 8 Plus sowie die beiden neuen Kids-Modelle Amazon Fire HD 8 Kids und Fire HD 8 Kids Pro. Vorbestellungen sind...\nZum Beitrag: Amazon Fire HD 8, 8 Plus, 8 Kids und Fire HD 8 Kids Pro vorgestellt\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
-          "link": "https://stadt-bremerhaven.de/amazon-fire-hd-8-8-plus-8-pro-und-fire-hd-8-kids-pro-vorgestellt/",
-          "publishedOn": "2022-09-21T12:59:18.000Z",
-          "wordCount": 2407,
-          "title": "Amazon Fire HD 8, 8 Plus, 8 Kids und Fire HD 8 Kids Pro vorgestellt",
-          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/09/Fire-HD-8_06.jpg"
-        },
-        {
-          "id": "https://stadt-bremerhaven.de/?p=1130357",
-          "author": "Benjamin Mamerow",
-          "description": "Marvel Entertainment und Motive Studio von EA in Montreal teilen mit, dass sich ein neues Einzelspieler-Action-Adventure mit Iron Man in der Entwicklung befindet, allerdings noch in einer sehr frühen Entwicklungsphase, weshalb es mit einer Veröffentlichung noch etwas dauern kann. Teamleiter...\nZum Beitrag: Marvel und EA entwickeln gemeinsam neues Iron-Man-Spiel\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
-          "link": "https://stadt-bremerhaven.de/marvel-und-ea-entwickeln-gemeinsam-neues-iron-man-spiel/",
-          "publishedOn": "2022-09-21T12:30:45.000Z",
-          "wordCount": 1707,
-          "title": "Marvel und EA entwickeln gemeinsam neues Iron-Man-Spiel",
-          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/09/marvel-iron-man-game_Blog.jpg"
-        },
-        {
-          "id": "https://stadt-bremerhaven.de/?p=1130530",
-          "author": "caschy",
-          "description": "Google beginnt mit dem Verteilen einer Funktion an Nutzer, die im Mai im Rahmen der Entwicklerkonferenz Google I/O vorgestellt wurde. Konkret geht’s darum, dass Anwender direkt aus der Google-App bei Google Anträge stellen können, damit ihre Daten aus der Google-Suche...\nZum Beitrag: Google-App erlaubt bald Löschanträge, damit eure Daten aus der Suche verschwinden\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
-          "link": "https://stadt-bremerhaven.de/google-app-erlaubt-bald-loeschantraege-damit-eure-daten-aus-der-suche-verschwinden/",
-          "publishedOn": "2022-09-21T12:15:45.000Z",
-          "wordCount": 1673,
-          "title": "Google-App erlaubt bald Löschanträge, damit eure Daten aus der Suche verschwinden",
-          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/06/Google-Logokai-wenzel-06MHFfYv6YY-unsplash_.jpg"
-        },
-        {
-          "id": "https://stadt-bremerhaven.de/?p=1130518",
-          "author": "André Westphal",
-          "description": "Das Xiaomi Pad 5 erhält international mittlerweile Android 12 und MIUI 13.1. Auch in Deutschland ist dieses Tablet zu haben. Die Kollegen von TheUpdateBox stellen nicht nur die neue Firmware vor, sie erklären auch, wie ihr das Tablet aktualisieren könnt,...\nZum Beitrag: Xiaomi Pad 5 erhält international Android 12 bzw. MIUI 13.1\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
-          "link": "https://stadt-bremerhaven.de/xiaomi-pad-5-erhaelt-international-android-12-bzw-miui-13-1/",
-          "publishedOn": "2022-09-21T12:00:51.000Z",
-          "wordCount": 1807,
-          "title": "Xiaomi Pad 5 erhält international Android 12 bzw. MIUI 13.1",
-          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/09/Xiaomi-Pad-5.jpg"
-        },
-        {
-          "id": "https://stadt-bremerhaven.de/?p=1130501",
-          "author": "André Westphal",
-          "description": "Nvidia hat gestern Abend natürlich nicht nur DLSS 3 vorgestellt, sondern auch seine neuen Grafikkarten der Generation GeForce RTX 40. Anders als zuvor erwartet, ist keine RTX 4070 darunter – zumindest nicht unter diesem Namen. Stattdessen erscheint die RTX 4080...\nZum Beitrag: Nvidia GeForce RTX 40: Drei neue Grafikkarten vorgestellt\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
-          "link": "https://stadt-bremerhaven.de/nvidia-geforce-rtx-40-drei-neue-grafikkarten-vorgestellt/",
-          "publishedOn": "2022-09-21T11:30:11.000Z",
-          "wordCount": 2492,
-          "title": "Nvidia GeForce RTX 40: Drei neue Grafikkarten vorgestellt",
-          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/09/GeForce_RTX_4090_Announce.jpg"
-        },
-        {
-          "id": "https://stadt-bremerhaven.de/?p=1130413",
-          "author": "Olli",
-          "description": "iOS bietet Nutzern seit geraumer Zeit die Option an, AirPlay-2-Lautsprecher oder HomePods zu gruppieren und somit in mehreren Räumen denselben Audio-Stream abzuspielen. Das könnt ihr im AirPlay-Menü im Control Center einstellen und die verschiedenen Gruppen auch mit verschiedener Musik bespielen....\nZum Beitrag: iOS 16.1: Hinweise auf neue Gruppierungsmöglichkeiten für HomePods und AirPlay-2-Lautsprecher\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
-          "link": "https://stadt-bremerhaven.de/ios-16-1-hinweise-auf-neue-gruppierungsmoeglichkeiten-fuer-homepods-und-airplay-2-lautsprecher/",
-          "publishedOn": "2022-09-21T11:00:53.000Z",
-          "wordCount": 1807,
-          "title": "iOS 16.1: Hinweise auf neue Gruppierungsmöglichkeiten für HomePods und AirPlay-2-Lautsprecher",
-          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2021/03/HomePods.jpg"
-        },
-        {
-          "id": "https://stadt-bremerhaven.de/?p=1130349",
-          "author": "caschy",
-          "description": "Microsoft hat das Windows 11 2022 Update veröffentlicht und auch die Android-Apps sind unter Windows bald direkt nutzbar. Noch etwas? Ja, der Microsoft Store bekommt Werbung für Apps. Auf der Microsoft Build hat man die Microsoft Store Ads angekündigt, ein...\nZum Beitrag: Microsoft Store: Pilotprogramm für Werbung startet\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
-          "link": "https://stadt-bremerhaven.de/microsoft-store-pilotprogramm-fuer-werbung-startet/",
-          "publishedOn": "2022-09-20T17:29:16.000Z",
-          "wordCount": 1799,
-          "title": "Microsoft Store: Pilotprogramm für Werbung startet",
-          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/09/Microsoft-Store-Ads-dev-pilot-image_.jpg"
-        },
-        {
-          "id": "https://stadt-bremerhaven.de/?p=1129977",
-          "author": "Olli",
-          "description": "Apple hat das iPhone 14 Pro und 14 seit dem 16. September ins Rennen geschickt und hat kurz davor bereits iOS 16 an iPhones ausgeliefert. iPadOS ist bisher noch nicht aktualisiert worden, die Tablets werden erst mit 16.1 aktualisiert werden,...\nZum Beitrag: iOS 16.1 – Zweite Entwickler-Beta erschienen\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
-          "link": "https://stadt-bremerhaven.de/ios-16-1-zweite-entwickler-beta-erschienen/",
-          "publishedOn": "2022-09-20T17:19:12.000Z",
-          "wordCount": 1760,
-          "title": "iOS 16.1 – Zweite Entwickler-Beta erschienen",
-          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/04/iOS16_.jpg"
-        },
-        {
-          "id": "https://stadt-bremerhaven.de/?p=1130343",
-          "author": "caschy",
-          "description": "Microsoft hat das Windows 11 2022 Update veröffentlicht – da stecken viele Neuerungen drin. Auch unter der Haube tut sich einiges, denn die Integration von Android-Apps wird nun auch offiziell in Deutschland starten, bislang war dies nur über Workarounds möglich....\nZum Beitrag: Windows: Zugriff auf Android-Apps auch für deutsche Nutzer\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
-          "link": "https://stadt-bremerhaven.de/windows-zugriff-auf-android-apps-auch-fuer-deutsche-nutzer/",
-          "publishedOn": "2022-09-20T17:15:32.000Z",
-          "wordCount": 1880,
-          "title": "Windows: Zugriff auf Android-Apps auch für deutsche Nutzer",
-          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/09/Win11-Silhouette_Amazon-Appstore-Preview-1024x576_.jpg"
-        },
-        {
-          "id": "https://stadt-bremerhaven.de/?p=1129715",
-          "author": "Felix Frank",
-          "description": "Microsoft hat Windows 11 bereits einige neue Features spendiert. Mit dem Windows 11 2022 Update steht eine ganze Palette an Neuerungen ins Haus. Besagtes Update rollt Microsoft heute in über 190 Ländern aus. Im Fokus des Updates: Produktivität, einfachere Bedienung...\nZum Beitrag: Windows 11 2022 Update veröffentlicht: Das steckt drin\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
-          "link": "https://stadt-bremerhaven.de/windows-11-2022-update-das-steckt-drin/",
-          "publishedOn": "2022-09-20T16:59:07.000Z",
-          "wordCount": 2313,
-          "title": "Windows 11 2022 Update veröffentlicht: Das steckt drin",
-          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2021/06/windows11.jpg"
-        },
-        {
-          "id": "https://stadt-bremerhaven.de/?p=1130331",
-          "author": "caschy",
-          "description": "Friert die Hölle zu und Google bekommt sein Notiz- und Aufgaben-Kuddelmuddel in den Griff? Zumindest versucht man es wieder. In Kürze wird man die Aufgabenverwaltungslösungen vereinfachen, indem man Assistant- und Kalender-Erinnerungen zu Google Tasks migriert. Das bedeutet, dass Nutzer nun...\nZum Beitrag: Google Tasks: Neue Funktionen kommen\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
-          "link": "https://stadt-bremerhaven.de/google-tasks-neue-funktionen-kommen/",
-          "publishedOn": "2022-09-20T16:17:24.000Z",
-          "wordCount": 2013,
-          "title": "Google Tasks: Neue Funktionen kommen",
-          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/09/google-tasks.jpg"
-        },
-        {
-          "id": "https://stadt-bremerhaven.de/?p=1130296",
-          "author": "André Westphal",
-          "description": "Sky Deutschland will am 8. Oktober 2022 das Spiel Borussia Dortmund gegen FC Bayern München auch in einer speziellen Übertragung für Kinder zeigen. „Sky Next Generation“ tauft man die spezielle Live-Produktion, die in enger Zusammenarbeit mit der DFL entstehen soll....\nZum Beitrag: Sky überträgt Borussia Dortmund gegen FC Bayern München am 8. Oktober in spezieller Kids-Version\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
-          "link": "https://stadt-bremerhaven.de/sky-uebertraegt-borussia-dortmund-gegen-fc-bayern-muenchen-am-8-oktober-in-spezieller-kids-version/",
-          "publishedOn": "2022-09-20T16:00:38.000Z",
-          "wordCount": 1923,
-          "title": "Sky überträgt Borussia Dortmund gegen FC Bayern München am 8. Oktober in spezieller Kids-Version",
-          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/09/fussball.jpg"
-        },
-        {
-          "id": "https://stadt-bremerhaven.de/?p=1130321",
-          "author": "caschy",
-          "description": "Fans von Automationen können einmal in den App Store spazieren und ein Update für die Philips-Hue-App durchführen. Da sollte dann auch eine neue Funktion auf euch warten, die auf den Namen Mimic-Präsenzautomation hört. Was die kann? Nun ja, diese Automatisierung...\nZum Beitrag: Philips Hue: Update bringt neue Mimic-Präsenzautomation\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
-          "link": "https://stadt-bremerhaven.de/philips-hue-update-bringt-neue-mimic-praesenzautomation/",
-          "publishedOn": "2022-09-20T15:38:36.000Z",
-          "wordCount": 1697,
-          "title": "Philips Hue: Update bringt neue Mimic-Präsenzautomation",
-          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/06/philips-hue_.jpg"
-        },
-        {
-          "id": "https://stadt-bremerhaven.de/?p=1130310",
-          "author": "caschy",
-          "description": "Der Musikstreamingdienst Spotify verkauft nun auch Audiobücher. Bislang können aber erst einmal nur Kunden in den USA zugreifen. Ebenso hat man eine neue Benutzeroberfläche eingeführt, die auf das Hören von Hörbüchern ausgelegt ist. Ab heute können Nutzer in den USA...\nZum Beitrag: Spotify startet Verkauf von Audiobüchern\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
-          "link": "https://stadt-bremerhaven.de/spotify-startet-verkauf-von-audiobuechern/",
-          "publishedOn": "2022-09-20T15:12:18.000Z",
-          "wordCount": 2004,
-          "title": "Spotify startet Verkauf von Audiobüchern",
-          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/01/spotify.jpeg"
-        },
-        {
-          "id": "https://stadt-bremerhaven.de/?p=1130308",
-          "author": "caschy",
-          "description": "Amazon wird neue Hardware vorstellen. Das Unternehmen hat einen Termin gefunden und Journalisten eingeladen. Sicherlich wird man einiges zu zeigen haben, letztens erst konnten wir von einem neuen Echo Studio berichten. Ich weiß allerdings auch, dass Amazon mehr in petto...\nZum Beitrag: Amazon stellt neue Hardware vor, Termin für das Event steht\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
-          "link": "https://stadt-bremerhaven.de/amazon-stellt-neue-hardware-vor-termin-fuer-das-event-steht/",
-          "publishedOn": "2022-09-20T14:51:00.000Z",
-          "wordCount": 1760,
-          "title": "Amazon stellt neue Hardware vor, Termin für das Event steht",
-          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2021/11/Amazon-Logo.jpg"
         }
       ]
     },
@@ -5037,6 +5057,76 @@
       "feedUrl": "https://www.computerbase.de/rss/news.xml",
       "siteUrl": "https://www.computerbase.de/",
       "articles": [
+        {
+          "id": "https://www.computerbase.de/2022-10/am5-secure-frame-thermalright-bringt-cpu-rahmen-fuer-ryzen-7000/",
+          "author": null,
+          "description": "<img src=\"https://pics.computerbase.de/1/0/5/3/9/1-3b46700bec481603/article-640x360.4680eeaf.jpg\"><p>Das neue Heatspreader-Design der Ryzen-7000-CPUs von AMD bringt ein neues Problem mit sich: In den Aussparungen kann leicht Wärmeleitpaste versickern. Noctua hat dafür bereits eine Blende zur Abdichtung vorgestellt. Thermalright hat etwas Ähnliches in petto, das optisch aber mehr hermacht.</p>",
+          "link": "https://www.computerbase.de/2022-10/am5-secure-frame-thermalright-bringt-cpu-rahmen-fuer-ryzen-7000/",
+          "publishedOn": "2022-10-20T19:14:00.000Z",
+          "wordCount": 1027,
+          "title": "AM5 Secure Frame: Thermalright bringt CPU-Rahmen für Ryzen 7000",
+          "imageUrl": "https://pics.computerbase.de/1/0/5/3/9/1-3b46700bec481603/article-1280x720.4680eeaf.jpg"
+        },
+        {
+          "id": "https://www.computerbase.de/2022-10/geforce-rtx-3060-ti-neuauflage-im-3dmark-7-prozent-schneller-dank-gddr6x/",
+          "author": null,
+          "description": "<img src=\"https://pics.computerbase.de/1/0/5/3/9/0-885e2fa6d41f9bde/article-640x360.2d7454c3.jpg\"><p>Die Gerüchte verdichten sich, dass Nvidia eine Neuauflage der GeForce RTX 3060 Ti plant, die mit schnellerem Speicher vom Typ GDDR6X bestückt ist. Während sich die GPU nicht ändere, soll das Upgrade die Speicherbandbreite um 36 Prozent erhöhen. In ersten Benchmarks resultiere dies aber lediglich in 7 Prozent mehr Leistung.</p>",
+          "link": "https://www.computerbase.de/2022-10/geforce-rtx-3060-ti-neuauflage-im-3dmark-7-prozent-schneller-dank-gddr6x/",
+          "publishedOn": "2022-10-20T16:05:00.000Z",
+          "wordCount": 898,
+          "title": "GeForce RTX 3060 Ti: Neuauflage im 3DMark 7 % schneller dank GDDR6X",
+          "imageUrl": "https://pics.computerbase.de/1/0/5/3/9/0-885e2fa6d41f9bde/article-1280x720.2d7454c3.jpg"
+        },
+        {
+          "id": "https://www.computerbase.de/2022-10/intel-core-i9-13900k-i7-13700-i5-13600k-test/",
+          "author": null,
+          "description": "<img src=\"https://pics.computerbase.de/1/0/5/1/4/3-a9a7119cadee794f/article-640x360.b6b9bdce.jpg\"><p>Intel Raptor Lake als Refresh der Alder-Lake-Architektur ist da. Zum Start hat ComputerBase Core i9-13900K, i7-13700K und i5-13600K unter die Lupe genommen: Der Test mit Benchmarks in Apps und Spielen sowie IPC-, Takt- und Effizienz-Analysen vermittelt einen umfassenden Eindruck der neuen Generation – Überraschungen inklusive.</p>",
+          "link": "https://www.computerbase.de/2022-10/intel-core-i9-13900k-i7-13700-i5-13600k-test/",
+          "publishedOn": "2022-10-20T13:00:00.000Z",
+          "wordCount": 10172,
+          "title": "Intel Raptor Lake im Test: Core i9-13900K, i7-13700K & i5-13600K jagen Ryzen 7000",
+          "imageUrl": "https://pics.computerbase.de/1/0/5/1/4/3-a9a7119cadee794f/article-1280x720.b6b9bdce.jpg"
+        },
+        {
+          "id": "https://www.computerbase.de/2022-10/microsoft-datenschutz-kundendaten-65000-unternehmen/",
+          "author": null,
+          "description": "<img src=\"https://pics.computerbase.de/1/0/5/3/8/9-059a8bfed8345449/article-640x360.49a5fa46.jpg\"><p>Eine Sicherheitslücke eines von Microsoft fehlerhaft konfigurierten Azure-Servers ermöglichte es einer Sicherheitsfirma auf 2,4 Terabyte sensibler Kundendaten, darunter mehr als 300.000 E-Mails und zahlreiche geschäftliche B2B-Transaktionsdaten, von über 65.000 Geschäftskunden aus 111 Ländern ungehindert zuzugreifen.</p>",
+          "link": "https://www.computerbase.de/2022-10/microsoft-datenschutz-kundendaten-65000-unternehmen/",
+          "publishedOn": "2022-10-20T12:24:00.000Z",
+          "wordCount": 1120,
+          "title": "Microsoft: Kundendaten von 65.000 Unternehmen frei einsehbar",
+          "imageUrl": "https://pics.computerbase.de/1/0/5/3/8/9-059a8bfed8345449/article-1280x720.49a5fa46.jpg"
+        },
+        {
+          "id": "https://www.computerbase.de/2022-10/tean-group-t-force-delta-rgb-ddr5-7600-cl36/",
+          "author": null,
+          "description": "<img src=\"https://pics.computerbase.de/1/0/5/3/8/8-26e92fb1ebd4b331/article-640x360.d1ba4e36.jpg\"><p>Nach den T-Force VULCANα mit DDR5-6000 CL38 und AMD EXPO für die gerade erst vorgestellten Zen-4-RDNA-2-Prozessoren der Produktfamilie AMD Ryzen 7000 (Test) hat der Speicherhersteller Team Group mit den T-Force Delta RGB neue Speicherkits mit bis zu 7.600 MT/s vorgestellt, welche für Core-i-13000 („Raptor Lake“) optimiert sind.</p>",
+          "link": "https://www.computerbase.de/2022-10/tean-group-t-force-delta-rgb-ddr5-7600-cl36/",
+          "publishedOn": "2022-10-20T11:51:00.000Z",
+          "wordCount": 983,
+          "title": "Team Group T-Force Delta RGB: DDR5-7600 CL36 für Intel Raptor Lake vorgestellt",
+          "imageUrl": "https://pics.computerbase.de/1/0/5/3/8/8-26e92fb1ebd4b331/article-1280x720.d1ba4e36.jpg"
+        },
+        {
+          "id": "https://www.computerbase.de/2022-10/linux-user-repository-lure-arch-user-repository-aur/",
+          "author": null,
+          "description": "<img src=\"https://pics.computerbase.de/1/0/5/3/8/7-66c57b958bfa93ba/article-640x360.a74a637f.jpg\"><p>Die Linux User Repository („LURE“) soll später einmal für alle freien Betriebssysteme auf Basis von Linux das sein, was die Arch User Repository (AUR) für das bekannte Rolling Release Arch Linux ist: Eine von der Gemeinschaft betriebene Quelle für aktuelle Softwarepakete, die nicht in den offiziellen Repositories zu finden sind.</p>",
+          "link": "https://www.computerbase.de/2022-10/linux-user-repository-lure-arch-user-repository-aur/",
+          "publishedOn": "2022-10-20T08:45:00.000Z",
+          "wordCount": 984,
+          "title": "Linux User Repository: LURE soll ein AUR für alle Distributionen sein",
+          "imageUrl": "https://pics.computerbase.de/1/0/5/3/8/7-66c57b958bfa93ba/article-1280x720.a74a637f.jpg"
+        },
+        {
+          "id": "https://www.computerbase.de/2022-10/paid-sharing-netflix-will-ab-2023-mehr-geld-fuer-geteilte-accounts/",
+          "author": null,
+          "description": "<img src=\"https://pics.computerbase.de/1/0/5/3/8/4-689ea00c306794ad/article-640x360.94432e3c.jpg\"><p>Ab dem Frühjahr 2023 will Netflix das gängige Account-Sharing international unterbinden respektive monetarisieren, wie nun im Rahmen des Quartalsberichts bekannt wurde. Konkrete Pläne legt der Streaming-Anbieter allerdings nicht offen, sodass über die Details nur gemutmaßt werden kann. Südamerika gibt einen ersten Eindruck.</p>",
+          "link": "https://www.computerbase.de/2022-10/paid-sharing-netflix-will-ab-2023-mehr-geld-fuer-geteilte-accounts/",
+          "publishedOn": "2022-10-20T06:43:00.000Z",
+          "wordCount": 1398,
+          "title": "Paid Sharing: Netflix will ab 2023 mehr Geld für geteilte Accounts",
+          "imageUrl": "https://pics.computerbase.de/1/0/5/3/8/4-689ea00c306794ad/article-1280x720.94432e3c.jpg"
+        },
         {
           "id": "https://www.computerbase.de/2022-10/systemanforderungen-cod-modern-warfare-2-will-fuer-uhd-10-gb-vram-und-136-gb/",
           "author": null,
@@ -7366,126 +7456,6 @@
           "wordCount": 1007,
           "title": "MP600 Pro XT: Corsair bietet 8 TB im M.2-Format mit NVMe (Update)",
           "imageUrl": "https://pics.computerbase.de/1/0/5/0/8/9-bea1b240d8756b6c/article-1280x720.f47badf9.jpg"
-        },
-        {
-          "id": "https://www.computerbase.de/2022-09/amazon-fire-hd-8-plus-vier-neue-tablets-mit-schnellerem-prozessor/",
-          "author": null,
-          "description": "<img src=\"https://pics.computerbase.de/1/0/5/0/8/6-8bce4c7b8f8024e4/article-640x360.e17b6249.jpg\"><p>Amazon aktualisiert das Fire HD 8. Die 2022er-Version wird dünner, leichter und schneller als das 2020er-Modell. Erneut kommt auch ein leistungsfähigeres Fire HD 8 Plus mit mehr Arbeitsspeicher und einer verbesserten rückseitigen 5-MP-Kamera. Beide Modelle werden zudem als Kids-Edition mit Sorglos-Garantie und Hülle aufgelegt.</p>",
-          "link": "https://www.computerbase.de/2022-09/amazon-fire-hd-8-plus-vier-neue-tablets-mit-schnellerem-prozessor/",
-          "publishedOn": "2022-09-21T13:00:00.000Z",
-          "wordCount": 2313,
-          "title": "Amazon Fire HD 8 (Plus): Vier neue Tablets mit schnellerem Prozessor",
-          "imageUrl": "https://pics.computerbase.de/1/0/5/0/8/6-8bce4c7b8f8024e4/article-1280x720.e17b6249.jpg"
-        },
-        {
-          "id": "https://www.computerbase.de/2022-09/nvidia-l40-ada-lovelace-rendert-auch-im-ovx-server-fuers-omniverse/",
-          "author": null,
-          "description": "<img src=\"https://pics.computerbase.de/1/0/5/0/8/4-6851f3910f017feb/article-640x360.f7214445.jpg\"><p>Abseits der neuen Consumer-Grafikkarten GeForce RTX 4090 und RTX 4080 kommt Ada Lovelace demnächst auch in Servern zum Einsatz. Nvidia hat für neue OVX-Systeme den Einsatz der L40 getauften Grafikkarte für Rendering-Workloads im Omniverse angekündigt. Die zweite Generation Nvidia OVX soll 2023 auf den Markt kommen.</p>",
-          "link": "https://www.computerbase.de/2022-09/nvidia-l40-ada-lovelace-rendert-auch-im-ovx-server-fuers-omniverse/",
-          "publishedOn": "2022-09-21T11:50:00.000Z",
-          "wordCount": 1125,
-          "title": "Nvidia L40: Ada Lovelace rendert auch im OVX-Server fürs Omniverse",
-          "imageUrl": "https://pics.computerbase.de/1/0/5/0/8/4-6851f3910f017feb/article-1280x720.f7214445.jpg"
-        },
-        {
-          "id": "https://www.computerbase.de/2022-09/geforce-rtx-4090-rtx-4080-custom-modelle-hersteller/",
-          "author": null,
-          "description": "<img src=\"https://pics.computerbase.de/1/0/5/0/8/1-0a36ec0b849cf15e/article-640x360.4b09b849.jpg\"><p>Bereits kurz nach der offiziellen Präsentation der GeForce RTX 4090 sowie der beiden GeForce RTX 4080 stehen schon die ersten Custom-Designs von Asus, Gigabyte und MSI sowie weiteren Partnern von Nvidia im Schaufenster und nehmen von den Ausmaßen her mit unter fast schon bedrohliche Dimensionen an. Die Kühllösungen wachsen.</p>",
-          "link": "https://www.computerbase.de/2022-09/geforce-rtx-4090-rtx-4080-custom-modelle-hersteller/",
-          "publishedOn": "2022-09-21T11:00:00.000Z",
-          "wordCount": 2535,
-          "title": "GeForce RTX 4090 und 4080: Custom-Designs fahren schwere Geschütze auf",
-          "imageUrl": "https://pics.computerbase.de/1/0/5/0/8/1-0a36ec0b849cf15e/article-1280x720.4b09b849.jpg"
-        },
-        {
-          "id": "https://www.computerbase.de/2022-09/cpu-benchmarks-intel-core-1200p-1200u-amd-ryzen-6000/",
-          "author": null,
-          "description": "<img src=\"https://pics.computerbase.de/1/0/4/0/4/6-48c67315a3068403/article-640x360.26c06d68.jpg\"><p>Was kann Intels 12. Generation Core in den Serien U & P gegen AMD Ryzen 6000 in den Klassen H & U ausrichten? ComputerBase hat mit Core i7-1280P, Core i7-1260P und Core i5-1255U drei aktuelle Notebook-Chips getestet und stellt sie Ryzen 9 6900HS, Ryzen 7 6800U und Ryzen 5 Pro 6650U in zahlreichen Benchmarks gegenüber.</p>",
-          "link": "https://www.computerbase.de/2022-09/cpu-benchmarks-intel-core-1200p-1200u-amd-ryzen-6000/",
-          "publishedOn": "2022-09-21T10:00:00.000Z",
-          "wordCount": 15135,
-          "title": "Notebook-CPU-Benchmarks: Intel Core i-1200P/U vs. AMD Ryzen 6000H/U",
-          "imageUrl": "https://pics.computerbase.de/1/0/4/0/4/6-48c67315a3068403/article-1280x720.26c06d68.jpg"
-        },
-        {
-          "id": "https://www.computerbase.de/2022-09/nvidia-rtx-6000-erste-ada-profi-loesung-mit-mehr-shadern-und-speicher/",
-          "author": null,
-          "description": "<img src=\"https://pics.computerbase.de/1/0/5/0/8/2-4dbab8c1d05cdfe6/article-640x360.63bc4a7b.jpg\"><p>Im Fahrwasser der neuen GeForce RTX 4000 für Consumer hat Nvidia auch einen ersten Ada-Ableger für das Profi-Segment enthüllt. Diese setzen traditionell auf einen vergrößerten Speicher mit 48 GB und mehr Shader, aber auch eine geringere TDP. Ab Dezember sollen die ersten Karten unter anderem von PNY verfügbar werden.</p>",
-          "link": "https://www.computerbase.de/2022-09/nvidia-rtx-6000-erste-ada-profi-loesung-mit-mehr-shadern-und-speicher/",
-          "publishedOn": "2022-09-21T09:11:00.000Z",
-          "wordCount": 883,
-          "title": "Nvidia RTX 6000: Erste Ada-Profi-Lösung mit mehr Shadern und Speicher",
-          "imageUrl": "https://pics.computerbase.de/1/0/5/0/8/2-4dbab8c1d05cdfe6/article-1280x720.63bc4a7b.jpg"
-        },
-        {
-          "id": "https://www.computerbase.de/2022-09/einzelkauf-statt-abo-spotify-verkauft-nun-ueber-300-000-hoerbuecher/",
-          "author": null,
-          "description": "<img src=\"https://pics.computerbase.de/1/0/5/0/8/3-47c0cfa5e28170c8/article-640x360.e0a3775c.jpg\"><p>Spotify startet mit dem Verkauf von Hörbüchern und führt Änderungen ein, um die App des Musikstreamingdienstes besser für Hörbücher auszulegen. Zunächst werden die Hörbücher nicht in einem Abonnement angeboten, sondern jedes Hörbuch muss einzeln erworben werden. Zum Start stehen mehr als 300.000 Hörbücher zur Auswahl bereit.</p>",
-          "link": "https://www.computerbase.de/2022-09/einzelkauf-statt-abo-spotify-verkauft-nun-ueber-300-000-hoerbuecher/",
-          "publishedOn": "2022-09-21T07:46:00.000Z",
-          "wordCount": 974,
-          "title": "Einzelkauf statt Abo: Spotify verkauft nun über 300.000 Hörbücher",
-          "imageUrl": "https://pics.computerbase.de/1/0/5/0/8/3-47c0cfa5e28170c8/article-1280x720.e0a3775c.jpg"
-        },
-        {
-          "id": "https://www.computerbase.de/2022-09/geforce-rtx-4000-fe-drei-grafikkarten-zwei-namen-und-nur-ein-design/",
-          "author": null,
-          "description": "<img src=\"https://pics.computerbase.de/1/0/5/0/7/9-af7c06c8dcc6b8a6/article-640x360.59c3f127.jpg\"><p>Den Auftakt der neuen nach Ada Lovelace benannten GPU-Generation von Nvidia machen drei GeForce-Modelle. Die RTX 4090 und die RTX 4080, wobei es die 4080 in zwei ganz unterschiedlichen Varianten gibt. Das neue Founders-Edition-Kühlerdesign von Nvidia teilen sich zwei davon und eines gibt es nur im Custom-Design der Partner.</p>",
-          "link": "https://www.computerbase.de/2022-09/geforce-rtx-4000-fe-drei-grafikkarten-zwei-namen-und-nur-ein-design/",
-          "publishedOn": "2022-09-21T06:32:00.000Z",
-          "wordCount": 1531,
-          "title": "GeForce RTX 4000 „FE“: Drei Grafikkarten, zwei Namen und nur ein Design",
-          "imageUrl": "https://pics.computerbase.de/1/0/5/0/7/9-af7c06c8dcc6b8a6/article-1280x720.59c3f127.jpg"
-        },
-        {
-          "id": "https://www.computerbase.de/2022-09/ada-lovelace-nvidia-dlss-3-soll-bis-zu-4x-mehr-fps-als-nativ-liefern/",
-          "author": null,
-          "description": "<img src=\"https://pics.computerbase.de/1/0/5/0/7/8-68b0d37b4815c04d/article-640x360.c586b432.jpg\"><p>Nvidia hat die Next-Gen-Grafikkarten GeForce RTX 4090 sowie GeForce RTX 4080 mit 12 und 16 GB VRAM auf Basis der neuen Architektur Ada Lovelace vorgestellt. Wenig verwunderlich macht auch die eigene Upsampling-Technik DLSS einen Schritt nach vorne. DLSS 3 soll vor allem mehr FPS als DLSS 2 liefern. Doch RTX 40 ist Pflicht.</p>",
-          "link": "https://www.computerbase.de/2022-09/ada-lovelace-nvidia-dlss-3-soll-bis-zu-4x-mehr-fps-als-nativ-liefern/",
-          "publishedOn": "2022-09-20T18:13:00.000Z",
-          "wordCount": 1306,
-          "title": "Ada Lovelace: Nvidia DLSS 3 soll bis zu 4× mehr FPS als nativ liefern",
-          "imageUrl": "https://pics.computerbase.de/1/0/5/0/7/8-68b0d37b4815c04d/article-1280x720.c586b432.jpg"
-        },
-        {
-          "id": "https://www.computerbase.de/2022-09/nvidia-rtx-remix-portal-und-morrowind-erstrahlen-im-neuen-glanz/",
-          "author": null,
-          "description": "<img src=\"https://pics.computerbase.de/1/0/5/0/7/7-57358a8f16ef79f9/article-640x360.2aaa098f.jpg\"><p>Mit RTX Remix bietet Nvidia im Rahmen des Omniverse-Programms ein neues Tool an, mit dem alte Spiele dank AI und Deep Learning mit „RTX“-Grafik aufgepeppt werden können. Zur GTC 2022 wurden auf diese Weise modifizierte Versionen der Klassiker Portal und Morrowind demonstriert.</p>",
-          "link": "https://www.computerbase.de/2022-09/nvidia-rtx-remix-portal-und-morrowind-erstrahlen-im-neuen-glanz/",
-          "publishedOn": "2022-09-20T17:04:00.000Z",
-          "wordCount": 1168,
-          "title": "Nvidia RTX Remix: Portal und Morrowind erstrahlen in neuem Glanz",
-          "imageUrl": "https://pics.computerbase.de/1/0/5/0/7/7-57358a8f16ef79f9/article-1280x720.2aaa098f.jpg"
-        },
-        {
-          "id": "https://www.computerbase.de/2022-09/windows-11-2022-update-final-release/",
-          "author": null,
-          "description": "<img src=\"https://pics.computerbase.de/1/0/5/0/6/4-304eb915ff57e2bf/article-640x360.d8711c0d.jpg\"><p>Nach einer Vorschau im Release Preview Channel und mehreren Insider Preview Builds hat Microsoft das Windows 11 2022 Update („22H2“) jetzt offiziell veröffentlicht. Windows 11 soll auch in der neuesten Version Kreative, Spieler und Menschen ansprechen, die sich verbinden wollen. Tabs im Explorer gibt es aber dennoch erst später.</p>",
-          "link": "https://www.computerbase.de/2022-09/windows-11-2022-update-final-release/",
-          "publishedOn": "2022-09-20T17:00:00.000Z",
-          "wordCount": 1735,
-          "title": "Windows 11 2022 Update: Erster Feature Drop auf „22H2“ jetzt offiziell zum Download",
-          "imageUrl": "https://pics.computerbase.de/1/0/5/0/6/4-304eb915ff57e2bf/article-1280x720.d8711c0d.jpg"
-        },
-        {
-          "id": "https://www.computerbase.de/2022-09/geforce-rtx-4090-und-rtx-4080-ada-lovelace-fuer-899-dollar-bis-1-599-dollar-im-oktober-und-november/",
-          "author": null,
-          "description": "<img src=\"https://pics.computerbase.de/1/0/5/0/7/2-4f26d4143c6946b1/article-640x360.a0659e38.jpg\"><p>Nvidia hat mit der GeForce RTX 4090 sowie zwei Varianten der RTX 4080 die ersten drei Spieler-Grafikkarten der Ada-Lovelace-Generation vorgestellt. Und auch wenn eigene Erfahrungen noch fehlen, alleine Nvidias Angaben sind beeindruckend und deuten auf massive Leistungssteigerungen gegenüber der Vorgänger-Generation Ampere hin.</p>",
-          "link": "https://www.computerbase.de/2022-09/geforce-rtx-4090-und-rtx-4080-ada-lovelace-fuer-899-dollar-bis-1-599-dollar-im-oktober-und-november/",
-          "publishedOn": "2022-09-20T16:45:00.000Z",
-          "wordCount": 1980,
-          "title": "GeForce RTX 4090 & RTX 4080: Ada Lovelace startet für 1.099 bis 1.949 Euro ab Oktober (Update)",
-          "imageUrl": "https://pics.computerbase.de/1/0/5/0/7/2-4f26d4143c6946b1/article-1280x720.a0659e38.jpg"
-        },
-        {
-          "id": "https://www.computerbase.de/2022-09/nvidia-drive-thor-2-000-tflops-soc-ersetzt-atlan-fuer-autonomes-fahren/",
-          "author": null,
-          "description": "<img src=\"https://pics.computerbase.de/1/0/4/9/2/6-948ed8be7b310dfe/article-640x360.c2a679ff.jpg\"><p>Die vor anderthalb Jahren vorgestellte Plattform Drive Atlan ist schon wieder Geschichte bei Nvidia und wird durch Drive Thor mit einer Leistung von 2.000 TFLOPS ersetzt. Sie soll mit 2025 aber im selben Jahr einsatzbereit sein. Thor ist ein Zentralcomputer mit Funktionen für autonomes Fahren, Monitoring, Infotainment und mehr.</p>",
-          "link": "https://www.computerbase.de/2022-09/nvidia-drive-thor-2-000-tflops-soc-ersetzt-atlan-fuer-autonomes-fahren/",
-          "publishedOn": "2022-09-20T15:55:00.000Z",
-          "wordCount": 1372,
-          "title": "Nvidia Drive Thor: 2.000-TFLOPS-SoC ersetzt Atlan für autonomes Fahren",
-          "imageUrl": "https://pics.computerbase.de/1/0/4/9/2/6-948ed8be7b310dfe/article-1280x720.c2a679ff.jpg"
         }
       ]
     },
@@ -7494,6 +7464,66 @@
       "feedUrl": "https://www.ghacks.net/feed/",
       "siteUrl": "https://www.ghacks.net",
       "articles": [
+        {
+          "id": "https://www.ghacks.net/?p=181387",
+          "author": "Martin Brinkmann",
+          "description": "Canonical released a new version of its Linux distribution Ubuntu today. Ubuntu 22.10, codename Kinetic Kudu, is a short term support release that will be supported until July 2023. Ubuntu users who […]\nThank you for being a Ghacks reader. The post Linux distribution Ubuntu 22.10 is now available appeared first on gHacks Technology News.",
+          "link": "https://www.ghacks.net/2022/10/20/linux-distribution-ubuntu-22-10-is-now-available/",
+          "publishedOn": "2022-10-20T16:40:55.000Z",
+          "wordCount": 2481,
+          "title": "Linux distribution Ubuntu 22.10 is now available",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.ghacks.net/?p=181378",
+          "author": "Ashwin",
+          "description": "Windows 11 Insider Preview Build 25227 has been released to the Dev Channel. Microsoft is testing some changes in the Widgets panel, the Start Menu and the Store app. What's new Windows […]\nThank you for being a Ghacks reader. The post Windows 11 Insider Preview Build 25227 ships to the Dev Channel with some changes to the Widgets, Start and Microsoft Store appeared first on gHacks Technology News.",
+          "link": "https://www.ghacks.net/2022/10/20/windows-11-insider-preview-build-25227-ships-to-the-dev-channel-with-some-changes-to-the-widgets-start-and-microsoft-store/",
+          "publishedOn": "2022-10-20T16:09:29.000Z",
+          "wordCount": 3360,
+          "title": "Windows 11 Insider Preview Build 25227 ships to the Dev Channel with some changes to the Widgets, Start and Microsoft Store",
+          "imageUrl": "https://www.ghacks.net/wp-content/uploads/2022/10/Windows-11-Insider-Preview-Build-25227-new-Widgets-board-header-position.jpg"
+        },
+        {
+          "id": "https://www.ghacks.net/?p=181383",
+          "author": "Martin Brinkmann",
+          "description": "The Ultimate Microsoft Excel Certification Training Bundle is an excellent training bundle for beginners, intermediate and even advanced Excel users. It includes six courses in total that include a beginner to advanced […]\nThank you for being a Ghacks reader. The post Ghacks Deals: The Ultimate Microsoft Excel Certification Training Bundle appeared first on gHacks Technology News.",
+          "link": "https://www.ghacks.net/2022/10/20/ghacks-deals-the-ultimate-microsoft-excel-certification-training-bundle/",
+          "publishedOn": "2022-10-20T12:45:20.000Z",
+          "wordCount": 2170,
+          "title": "Ghacks Deals: The Ultimate Microsoft Excel Certification Training Bundle",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.ghacks.net/?p=181361",
+          "author": "Ashwin",
+          "description": "Mozilla has updated Firefox Beta for Android to version 107.0 b1. The new version adds support for custom add-on collections. If you are using Firefox on your phone, you are probably aware […]\nThank you for being a Ghacks reader. The post Firefox Beta for Android now supports custom add-on collections appeared first on gHacks Technology News.",
+          "link": "https://www.ghacks.net/2022/10/20/firefox-beta-for-android-now-supports-custom-add-on-collections/",
+          "publishedOn": "2022-10-20T09:45:44.000Z",
+          "wordCount": 3575,
+          "title": "Firefox Beta for Android now supports custom add-on collections",
+          "imageUrl": "https://www.ghacks.net/wp-content/uploads/2022/10/How-to-add-a-custom-add-on-collection-in-Firefox-Beta-for-Android.jpg"
+        },
+        {
+          "id": "https://www.ghacks.net/?p=181373",
+          "author": "Martin Brinkmann",
+          "description": "Hot on the heels of Firefox 106 Stable comes the first point release update for the browser. Firefox 106.0.1 addresses a crash on systems with certain AMD processors. Mozilla released Firefox 106 […]\nThank you for being a Ghacks reader. The post Firefox 106.0.1 fixes a crash on certain AMD systems appeared first on gHacks Technology News.",
+          "link": "https://www.ghacks.net/2022/10/20/firefox-106-0-1-fixes-a-crash-on-certain-amd-systems/",
+          "publishedOn": "2022-10-20T09:27:10.000Z",
+          "wordCount": 2681,
+          "title": "Firefox 106.0.1 fixes a crash on certain AMD systems",
+          "imageUrl": "https://www.ghacks.net/wp-content/uploads/2022/10/firefox-106.0.1.png"
+        },
+        {
+          "id": "https://www.ghacks.net/?p=181358",
+          "author": "Martin Brinkmann",
+          "description": "Security researchers at SOCRadar informed Microsoft about a misconfigured data bucket that exposed 2.4 Terabytes of data to the public. The data includes sensitive information, including personally identifiable information, product orders and […]\nThank you for being a Ghacks reader. The post Misconfigured Microsoft Endpoint exposed B2B customer data appeared first on gHacks Technology News.",
+          "link": "https://www.ghacks.net/2022/10/20/misconfigured-microsoft-endpoint-exposed-b2b-customer-data/",
+          "publishedOn": "2022-10-20T04:51:40.000Z",
+          "wordCount": 2750,
+          "title": "Misconfigured Microsoft Endpoint exposed B2B customer data",
+          "imageUrl": null
+        },
         {
           "id": "https://www.ghacks.net/?p=181352",
           "author": "Martin Brinkmann",
@@ -8458,53 +8488,13 @@
           "wordCount": 7357,
           "title": "Brave integrates privacy friendly translate option in its browser",
           "imageUrl": "https://www.ghacks.net/wp-content/uploads/2022/09/brave-translate.png"
-        },
-        {
-          "id": "https://www.ghacks.net/?p=180884",
-          "author": "Martin Brinkmann",
-          "description": "Thunderbird 102.3 is now available. The new version of the open source email client is a security and bug fix release. The update is published already and most Thunderbird installations should receive […]\nThank you for being a Ghacks reader. The post Thunderbird 102.3 is a security and bug fix update appeared first on gHacks Technology News.",
-          "link": "https://www.ghacks.net/2022/09/21/thunderbird-102-3-is-a-security-and-bug-fix-update/",
-          "publishedOn": "2022-09-21T11:54:39.000Z",
-          "wordCount": 2433,
-          "title": "Thunderbird 102.3 is a security and bug fix update",
-          "imageUrl": "https://www.ghacks.net/wp-content/uploads/2022/06/thunderbird-102-1.png"
-        },
-        {
-          "id": "https://www.ghacks.net/?p=180863",
-          "author": "Ashwin",
-          "description": "Microsoft released Windows 11 22H2 last night, you can read about it in our previous coverage. The update is rolling out to users slowly, but if you can't wait to try the […]\nThank you for being a Ghacks reader. The post How to update to Windows 11 22H2 using an ISO image appeared first on gHacks Technology News.",
-          "link": "https://www.ghacks.net/2022/09/21/how-to-update-to-windows-11-22h2-using-an-iso-image/",
-          "publishedOn": "2022-09-21T07:21:14.000Z",
-          "wordCount": 3282,
-          "title": "How to update to Windows 11 22H2 using an ISO image",
-          "imageUrl": "https://www.ghacks.net/wp-content/uploads/2022/09/How-to-update-to-Windows-11-22H2-using-an-ISO-image.jpg"
-        },
-        {
-          "id": "https://www.ghacks.net/?p=180862",
-          "author": "Martin Brinkmann",
-          "description": "Microsoft released the first feature update for its Windows 11 operating system on September 20, 2022. It includes improvements and new features, and while it may be tempting for some to upgrade […]\nThank you for being a Ghacks reader. The post Find out for how long your Windows 11 version is supported appeared first on gHacks Technology News.",
-          "link": "https://www.ghacks.net/2022/09/21/find-out-for-how-long-your-windows-11-version-is-supported/",
-          "publishedOn": "2022-09-21T05:38:59.000Z",
-          "wordCount": 2973,
-          "title": "Find out for how long your Windows 11 version is supported",
-          "imageUrl": "https://www.ghacks.net/wp-content/uploads/2022/09/windows-11-version-settings.png"
-        },
-        {
-          "id": "https://www.ghacks.net/?p=180856",
-          "author": "Martin Brinkmann",
-          "description": "Microsoft announced just a moment ago that the first feature update for Windows 11, the Windows 11 2022 Update, is rolling out to users from all over the world. Panos Panay, EVP, […]\nThank you for being a Ghacks reader. The post Windows 11 2022 Update is out appeared first on gHacks Technology News.",
-          "link": "https://www.ghacks.net/2022/09/20/windows-11-2022-update-is-out/",
-          "publishedOn": "2022-09-20T17:41:14.000Z",
-          "wordCount": 2743,
-          "title": "Windows 11 2022 Update is out",
-          "imageUrl": "https://www.ghacks.net/wp-content/uploads/2022/08/windows-11-2022-update-task-manager.png"
         }
       ]
     },
     {
-      "title": "Deutschlandfunk - Fortlaufende Nachrichten vom 20. Oktober 2022",
+      "title": "Deutschlandfunk - Fortlaufende Nachrichten vom 21. Oktober 2022",
       "feedUrl": "https://www.deutschlandfunk.de/nachrichten-100.rss",
-      "siteUrl": "https://www.deutschlandfunk.de/nachrichten-index-25796.html",
+      "siteUrl": "https://www.deutschlandfunk.de/nachrichten-index-25806.html",
       "articles": []
     }
   ],
