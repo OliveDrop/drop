@@ -2,10 +2,452 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://olivedrop.github.io/drop/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-21T02:05:37.818Z</updated>
+    <updated>2022-10-22T02:23:44.112Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://olivedrop.github.io/drop/index.html"/>
     <link rel="self" href="https://olivedrop.github.io/drop/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Logitech: Neue Tastatur-Cases für das iPad der 10. Generation]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1135417</id>
+        <link href="https://stadt-bremerhaven.de/logitech-neue-tastatur-cases-fuer-das-ipad-der-10-generation/"/>
+        <updated>2022-10-21T17:30:24.000Z</updated>
+        <summary type="html"><![CDATA[Apple hat diese Woche mit dem iPad der 10. Generation ein neues „Basis-iPad“ vorgestellt, welches sich zwischen jenem der 9. Generation und dem iPad Air einordnen lässt. Zurecht höchst umstritten: Apple setzt weiterhin auf den Apple Pencil der ersten Generation...
+Zum Beitrag: Logitech: Neue Tastatur-Cases für das iPad der 10. Generation
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>Felix Frank</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Xtrfy M8 Wireless: Maus leiht sich High-End-Hardware von Endgame Gear]]></title>
+        <id>https://www.computerbase.de/2022-10/xtrfy-m8-wireless-maus-leiht-sich-high-end-hardware-von-endgame-gear/</id>
+        <link href="https://www.computerbase.de/2022-10/xtrfy-m8-wireless-maus-leiht-sich-high-end-hardware-von-endgame-gear/"/>
+        <updated>2022-10-21T17:13:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/4/0/8-d2ba773924af33d4/article-640x360.8462bb55.jpg"><p>Mit der M8 Wireless stellt Xtrfy die bislang leichteste Gaming-Maus mit dem 2022er High-End-Standard im Inneren vor und wandelt damit in den Fußstapfen von Pulsar Gaming Gears mit der X2 Wireless sowie Endgame Gear mit der XM2w. Ohne Kompromisse geht das aber nicht – und der Marktstart erfolgt erst zum Ende des Jahres.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SMI SM8366: PCIe-5.0-SSD mit 3,4 Millionen IOPS vorgeführt]]></title>
+        <id>https://www.computerbase.de/2022-10/smi-sm8366-pcie-5-0-ssd-mit-3-4-millionen-iops-vorgefuehrt/</id>
+        <link href="https://www.computerbase.de/2022-10/smi-sm8366-pcie-5-0-ssd-mit-3-4-millionen-iops-vorgefuehrt/"/>
+        <updated>2022-10-21T14:45:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/4/0/6-5ad8eeb7c284caf5/article-640x360.d70f7068.jpg"><p>Der Wechsel von PCIe 4.0 auf PCIe 5.0 macht SSDs theoretisch doppelt so schnell. Der Controller-Hersteller Silicon Motion hat die Leistung eines Prototypen mit SM8366-Controller demonstriert. Die SSD erreichte beim wahlfreien Lesen von 4K-Daten 3,4 Millionen IOPS oder umgerechnet 13,6 GB/s.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon: Weitere Klagen aufgrund gefälschter Bewertungen]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1135414</id>
+        <link href="https://stadt-bremerhaven.de/amazon-weitere-klagen-aufgrund-gefaelschter-bewertungen/"/>
+        <updated>2022-10-21T14:30:59.000Z</updated>
+        <summary type="html"><![CDATA[Amazon geht weiterhin gegen Fake-Bewertungen vor. Dies gab das Unternehmen am Freitag bekannt. Sowohl in Italien als auch in Spanien habe man Klage eingereicht. Diese beiden Gerichtsverfahren sowie 10 weitere, kürzlich in den USA eingeleitete Klagen richten sich gegen bösartige...
+Zum Beitrag: Amazon: Weitere Klagen aufgrund gefälschter Bewertungen
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OnlyOffice 7.2.1: Freie Office-Suite für Windows, Linux und macOS erschienen]]></title>
+        <id>https://www.computerbase.de/2022-10/onlyoffice-7-2-1-windows-linux-macos-release/</id>
+        <link href="https://www.computerbase.de/2022-10/onlyoffice-7-2-1-windows-linux-macos-release/"/>
+        <updated>2022-10-21T14:11:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/4/0/5-f0fb101d66a30585/article-640x360.d46e5693.jpg"><p>Die freie Office-Suite OnlyOffice aus Lettland ist in der neuesten Version 7.2.1 für die Plattformen Windows, Linux und macOS erschienen. OnlyOffice konzentriert sich dabei auf Texte, Tabellen und Präsentationen und möchte eine Alternative zu bekannten Open-Source-Office-Suiten wie LibreOffice und OpenOffice darstellen.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Telekom brachte im September weitere 215.000 Haushalte ans Glasfaser-Netz]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1135332</id>
+        <link href="https://stadt-bremerhaven.de/telekom-brachte-im-september-weitere-215-000-haushalte-ans-glasfaser-netz/"/>
+        <updated>2022-10-21T14:00:56.000Z</updated>
+        <summary type="html"><![CDATA[516.000 Haushalte in Deutschland surfen seit September dieses Jahres mit einer potenteren Leitung als bisher, das berichtet die Telekom und bezieht sich dabei unter anderem auf den durch das Unternehmen betriebenen Ausbau des deutschen Glasfaser-Netzwerks. So seien allein im September...
+Zum Beitrag: Telekom brachte im September weitere 215.000 Haushalte ans Glasfaser-Netz
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>Benjamin Mamerow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google stellt „Meine Anzeigen-Center“ vor]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1135265</id>
+        <link href="https://stadt-bremerhaven.de/google-stellt-meine-anzeigen-center-vor/"/>
+        <updated>2022-10-21T13:30:25.000Z</updated>
+        <summary type="html"><![CDATA[Google hat eine neue Plattform namens „Mein Anzeigen-Center“ weltweit veröffentlicht. Darin soll sich für jedermann verwalten lassen, welche Art von Anzeigen ihr auf YouTube, in der Google-Suche und Discover seht. Zudem lassen sich hier auch einzelne Anzeigen mit sensiblen Inhalten...
+Zum Beitrag: Google stellt „Meine Anzeigen-Center“ vor
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>Benjamin Mamerow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple TV+: Trailer zur Kinderserie „Slumberkins – Deine Kuschelfreunde“ von The Jim Henson Company]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1134658</id>
+        <link href="https://stadt-bremerhaven.de/apple-tv-trailer-zur-kinderserie-slumberkins-deine-kuschelfreunde-von-the-jim-henson-company/"/>
+        <updated>2022-10-21T13:00:50.000Z</updated>
+        <summary type="html"><![CDATA[Kinderserien gibt es zuhauf, einige davon kommen auch aus dem Hause von The Jim Henson Company. Dazu gehören die Muppets, die Fraggles oder der dunkle Kristall. Demnächst – genauer gesagt am 4. November – startet bei Apple TV+ eine weitere...
+Zum Beitrag: Apple TV+: Trailer zur Kinderserie „Slumberkins – Deine Kuschelfreunde“ von The Jim Henson Company
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>Olli</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ubuntu 22.10 („Kinetic Kudu“): Linux 5.19 und Gnome 43 nicht nur für die Ein- und Umsteiger]]></title>
+        <id>https://www.computerbase.de/2022-10/ubuntu-22-10-kinetic-kudu-linux-5-19-und-gnome-43-nicht-nur-fuer-die-ein-und-umsteiger/</id>
+        <link href="https://www.computerbase.de/2022-10/ubuntu-22-10-kinetic-kudu-linux-5-19-und-gnome-43-nicht-nur-fuer-die-ein-und-umsteiger/"/>
+        <updated>2022-10-21T12:54:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/3/9/7-0f0f6fc1d62adb06/article-640x360.2e29004a.jpg"><p>Der britische Linux-Distributor Canonical hat mit Ubuntu 22.10 („Kinetic Kudu“) und dessen acht offiziellen Derivaten die nächsten regulären Releases veröffentlicht, die jetzt bis zum 20. Juli 2023 mit Updates und Support unterstützt werden. Auf der Basis von Linux 5.19 und Gnome 43 eignet sich Ubuntu für die breite Masse.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DB Navigator: Klage gegen die Bahn eingereicht]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1135394</id>
+        <link href="https://stadt-bremerhaven.de/db-navigator-klage-gegen-die-bahn-eingereicht/"/>
+        <updated>2022-10-21T12:24:13.000Z</updated>
+        <summary type="html"><![CDATA[Die Deutsche Bahn hatte im Juli Kritik aufgrund der App DB Navigator bekommen. Vorwürfe kamen unter anderem vom Datenschutzverein Digitalcourage. Die warfen der App Datensammelei und deren Weitergabe vor. Schon damals stand das Wort „Klage“ im Raum. Die Bahn teilte...
+Zum Beitrag: DB Navigator: Klage gegen die Bahn eingereicht
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Netflix zeigt Trailer zur 5. Staffel von „The Crown“]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1135252</id>
+        <link href="https://stadt-bremerhaven.de/netflix-zeigt-trailer-zur-5-staffel-von-the-crown/"/>
+        <updated>2022-10-21T12:00:54.000Z</updated>
+        <summary type="html"><![CDATA[Am 9. November geht die exklusive Netflix-Serie „The Crown“ in die fünfte Runde. Das möchte euch Netflix natürlich schmackhaft machen, weshalb man nun einen ersten, offiziellen Trailer veröffentlicht hat. Im Trailer zeigt Netflix die neue Besetzung der königlichen Familie von...
+Zum Beitrag: Netflix zeigt Trailer zur 5. Staffel von „The Crown“
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>Felix Frank</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bundesnetzagentur: 1&1 muss Doppelstellung beenden]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1135390</id>
+        <link href="https://stadt-bremerhaven.de/bundesnetzagentur-11-muss-doppelstellung-beenden/"/>
+        <updated>2022-10-21T11:33:58.000Z</updated>
+        <summary type="html"><![CDATA[Die 1&1 Mobilfunk GmbH hat in der Auktion im Jahr 2019 Frequenzen erworben, verbunden mit der Verpflichtung, die wettbewerbliche Unabhängigkeit als Mobilfunknetzbetreiber herzustellen. Damit möchte 1&1 als vierter Betreiber hierzulande ein Stück vom Kuchen abhaben. Das Ganze sollte aber damals...
+Zum Beitrag: Bundesnetzagentur: 1&1 muss Doppelstellung beenden
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Raijintek Morpheus 8069: Neuer GPU-Kühler für Radeon RX und Nvidia GeForce RTX]]></title>
+        <id>https://www.computerbase.de/2022-10/raijintek-morpheus-8069-amd-radeon-nvidia-geforce/</id>
+        <link href="https://www.computerbase.de/2022-10/raijintek-morpheus-8069-amd-radeon-nvidia-geforce/"/>
+        <updated>2022-10-21T11:12:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/4/0/2-49c188e148b1bfc1/article-640x360.632a53de.jpg"><p>Der taiwanische Hersteller Raijintek feiert bald sein Comeback auf dem Retail-Markt für nachrüstbare GPU-Kühler und stellt mit dem Morpheus 8069 eine neue Kühllösung für die Grafikkartenserien Radeon RX 6000 („RDNA 2“), GeForce RTX 3000 („Ampere“) und GeForce RTX 4000 („Ada Lovelace“) der beiden Hersteller AMD und Nvidia vor.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aufbau eines europäischen Satelliten-Internets gefordert]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1135381</id>
+        <link href="https://stadt-bremerhaven.de/aufbau-eines-europaeischen-satelliten-internets-gefordert/"/>
+        <updated>2022-10-21T10:46:29.000Z</updated>
+        <summary type="html"><![CDATA[Schaut man sich derzeit um, dann bekommt man bezüglich Satelliten-Internet vor allem Starlink um die Ohren geschmissen, das Unternehmen, welches Elon Musk gehört. Doch auch der Aufbau eines europäischen Satelliten-Internets könnte starten. Der Bundestag berät am heutigen Freitag, 21. Oktober...
+Zum Beitrag: Aufbau eines europäischen Satelliten-Internets gefordert
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MasterCard: Studie zeigt langfristig erhöhte Nutzung des Online-Lebensmittelhandel]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1135261</id>
+        <link href="https://stadt-bremerhaven.de/mastercard-studie-zeigt-langfristig-erhoehte-nutzung-des-online-lebensmittelhandel/"/>
+        <updated>2022-10-21T10:30:34.000Z</updated>
+        <summary type="html"><![CDATA[MasterCard hat beim Marktforschungsinstitut GfK eine Studie zur Nutzung von Lieferservice-Angeboten für Lebensmittel in Auftrag gegeben. Die Ergebnisse zeigen: Die Pandemie war nicht nur ein Booster, sondern viele Nutzer setzen auch weiterhin auf den Online-Lebensmittelhandel – Online-Bestellungen von Lebensmitteln sind...
+Zum Beitrag: MasterCard: Studie zeigt langfristig erhöhte Nutzung des Online-Lebensmittelhandel
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>Felix Frank</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Signal: Messenger bekommt zwei Verbesserungen]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1135379</id>
+        <link href="https://stadt-bremerhaven.de/signal-messenger-bekommt-zwei-verbesserungen/"/>
+        <updated>2022-10-21T10:21:38.000Z</updated>
+        <summary type="html"><![CDATA[Nutzer von Signal bekommen über den App Store von Apple eine kleine Aktualisierung für den Messenger angeboten. Damit einhergehend sind zwei Verbesserungen, denn es gibt nun eine schnellere Fotoauswahl für iOS 16 und Gruppenanrufe werden jetzt in der iOS-Anrufliste angezeigt....
+Zum Beitrag: Signal: Messenger bekommt zwei Verbesserungen
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gaming-Monitore: Philips Evnia startet mit Mini-LED, QD-OLED und OLED]]></title>
+        <id>https://www.computerbase.de/2022-10/gaming-monitore-philips-evnia-startet-mit-mini-led-qd-oled-und-oled/</id>
+        <link href="https://www.computerbase.de/2022-10/gaming-monitore-philips-evnia-startet-mit-mini-led-qd-oled-und-oled/"/>
+        <updated>2022-10-21T10:17:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/3/9/6-54550e3654bc8d72/article-640x360.7c879416.jpg"><p>In Paris hat Philips seine neue Marke Evnia präsentiert, hinter der sich neue Gaming-Monitore, -Tastaturen, -Mäuse und ein RGB-Mauspad verbergen. Unter den vier vorgestellten Monitoren sind breite 34"-Displays mit QD-OLED oder Mini-LED, ein 42"-OLED-Monitor sowie ein 27"-VA-Bildschirm mit 240 Hz.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pokémon GO: Das erwartet euch beim zweiten Teil des Halloween-Events 2022]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1135279</id>
+        <link href="https://stadt-bremerhaven.de/pokemon-go-das-erwartet-euch-beim-zweiten-teil-des-halloween-events-2022/"/>
+        <updated>2022-10-21T10:00:56.000Z</updated>
+        <summary type="html"><![CDATA[Alljährlich wird Halloween auch innerhalb des noch immer beliebten AR-Mobile-Games Pokémon GO gefeiert, wenngleich auch schon einige Zeit vor dem 31. Oktober. Auch in diesem Jahr findet dazu ingame einiges statt, der erste Teil des Halloween-Events 2022 ist bereits in...
+Zum Beitrag: Pokémon GO: Das erwartet euch beim zweiten Teil des Halloween-Events 2022
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>Benjamin Mamerow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Akko 3068B Plus im Test: Überzeugende Premiere vom Tastatur-Newcomer]]></title>
+        <id>https://www.computerbase.de/2022-10/akko-3068plus-review/</id>
+        <link href="https://www.computerbase.de/2022-10/akko-3068plus-review/"/>
+        <updated>2022-10-21T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/4/8/7/7-5876e65e624fc4a3/article-640x360.1607cd3c.jpg"><p>Hot-Swap-Sockel, kompaktes Layout, Akkubetrieb und hochwertige Tastenkappen sollen Newcomer Akko die Tür zum deutschen Markt öffnen. Interessant wird die 3068B Plus durch zwei Aspekte: ihren vergleichsweise günstigen Preis und eine breite Auswahl eigener Taster, die eine Alternative zu gängigen Modellen sind.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft PC Manager: Optimierungs-Werkzeug geht in den öffentlichen Betatest]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1135359</id>
+        <link href="https://stadt-bremerhaven.de/microsoft-pc-manager-optimierungs-werkzeug-geht-in-den-oeffentlichen-betatest/"/>
+        <updated>2022-10-21T09:31:18.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft baut sich selbst eine Art „CCleaner“ für Windows. Mittlerweile hat man den Microsoft PC Manager in die öffentliche Beta geschickt. Im Store gibt’s den noch nicht, allerdings kann man das kostenfreie Werkzeug über die Seite des Unternehmens herunterladen. Grundsätzlich...
+Zum Beitrag: Microsoft PC Manager: Optimierungs-Werkzeug geht in den öffentlichen Betatest
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FRITZ!Box: 7 Modelle bekommen ein Update (Laborversion)]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1135357</id>
+        <link href="https://stadt-bremerhaven.de/fritzbox-7-modelle-bekommen-ein-update-laborversion/"/>
+        <updated>2022-10-21T09:11:06.000Z</updated>
+        <summary type="html"><![CDATA[Mal wieder großer Update-Tag bei AVM. Gleich sieben Modelle der FRITZ!Box schickt man in eine neue Labor-Runde. Alle gehen dabei langsam in die Zielgeraden zu Version 7.50 von FRITZ!OS. Konkret werden momentan die FRITZ!Box-Modelle 7590 AX, 7590, 7530 AX, 7530,...
+Zum Beitrag: FRITZ!Box: 7 Modelle bekommen ein Update (Laborversion)
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Assistant: Verbesserungen für die Smart-Home-Steuerung unterwegs]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1135284</id>
+        <link href="https://stadt-bremerhaven.de/google-assistant-verbesserungen-fuer-die-smart-home-steuerung-unterwegs/"/>
+        <updated>2022-10-21T09:02:40.000Z</updated>
+        <summary type="html"><![CDATA[Mit dem Google Assistant lassen sich neben vielen anderen Dingen natürlich auch heimische, unterstützte Smart-Home-Gerätschaften steuern, vor allem diejenigen aus dem eigenen Ökosystem wie Google Nest und Co. Nun hat das Unternehmen ein paar Verbesserungen beim Google Assistant im Umgang...
+Zum Beitrag: Google Assistant: Verbesserungen für die Smart-Home-Steuerung unterwegs
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>Benjamin Mamerow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[60 GB LTE-Allnet-Flat für 19,99 Euro (monatlich kündbar)]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1135337</id>
+        <link href="https://stadt-bremerhaven.de/60-gb-lte-allnet-flat-fuer-1999-euro-monatlich-kuendbar/"/>
+        <updated>2022-10-21T08:59:02.000Z</updated>
+        <summary type="html"><![CDATA[Freenet hat einen neuen Tarif gebastelt, der euch eine 60-GB-LTE-Allnet-Flat im Telefónica-Netz für 19,99 Euro + 9,99 Euro Anschlusspreis mit monatlicher Kündbarkeit bietet. Der Vertragsbeginn ist flexibel legbar, der Preis für das Gebotene meiner Meinung nach durchaus in Ordnung. Wie...
+Zum Beitrag: 60 GB LTE-Allnet-Flat für 19,99 Euro (monatlich kündbar)
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>Benjamin Mamerow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Porsche 911 Soundbar 2.0 Pro: Soundbar im Auspuff-Design]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1135256</id>
+        <link href="https://stadt-bremerhaven.de/porsche-911-soundbar-2-0-pro-soundbar-im-auspuff-design/"/>
+        <updated>2022-10-21T08:30:56.000Z</updated>
+        <summary type="html"><![CDATA[Porsche ist für seine Technik-Produkte mit spacigem Design bekannt. Der jüngste Coup: Die 911 Soundbar 2.0 Pro. Die auf 500 Stück limitierte Sonderedition ist optisch an die originale Leichtbau-Edelstahl-Abgasanlage des Porsche 911 GT3 angelehnt. In der Soundbar steckt ein 2.1.2-Sound-System....
+Zum Beitrag: Porsche 911 Soundbar 2.0 Pro: Soundbar im Auspuff-Design
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>Felix Frank</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Speicher für Intel Raptor Lake: G.Skill präsentiert DDR5-7800 und demonstriert DDR5-8000]]></title>
+        <id>https://www.computerbase.de/2022-10/gskill-ddr5-7800-8000-intel-core-i-13000-raptor-lake/</id>
+        <link href="https://www.computerbase.de/2022-10/gskill-ddr5-7800-8000-intel-core-i-13000-raptor-lake/"/>
+        <updated>2022-10-21T08:25:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/3/9/5-22d20ee82587d7cd/article-640x360.1b09f02e.jpg"><p>Nach der Premiere der neuen Gaming-Könige der Core-i-13000-Serie (Test) legt der Speicherhersteller G.Skill schnellen DDR5-Speicher mit bis zu 8.000 MT/s nach, welcher erstmals demonstriert wird. Aber auch bei den bereits zur Marktreife gebrachten Speichermodulen beschleunigt G.Skill seine RAM-Kits bis auf DDR5-7800 CL38.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[First look at Microsoft's CCleaner-like PC Manager application]]></title>
+        <id>https://www.ghacks.net/?p=181396</id>
+        <link href="https://www.ghacks.net/2022/10/21/first-look-at-microsofts-ccleaner-like-pc-manager-application/"/>
+        <updated>2022-10-21T08:15:53.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft PC Manager is a new beta application by Microsoft that promises one-click speed boosts, full system check-ups, virus removals and more. If that reminds you of applications such as CCleaner, or […]
+Thank you for being a Ghacks reader. The post First look at Microsoft's CCleaner-like PC Manager application appeared first on gHacks Technology News.]]></summary>
+        <author>
+            <name>Martin Brinkmann</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Stadia: Bethesda informiert Nutzer über kostenlosen Transfer des Elder-Scrolls-Online-Accounts zu PC/Mac]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1135287</id>
+        <link href="https://stadt-bremerhaven.de/google-stadia-bethesda-informiert-nutzer-ueber-kostenlosen-transfer-des-elder-scrolls-online-accounts-zu-pc-mac/"/>
+        <updated>2022-10-21T08:00:28.000Z</updated>
+        <summary type="html"><![CDATA[Google Stadia wird Anfang nächsten Jahres wie so viele Dienste auf dem „Google-Friedhof“ landen, was bei dem einen oder anderen Spieler nicht unbedingt für Freude sorgte. Bethesda hat jedoch einen kleinen Ausweg für Spieler von Elder Scrolls Online im Gepäck....
+Zum Beitrag: Google Stadia: Bethesda informiert Nutzer über kostenlosen Transfer des Elder-Scrolls-Online-Accounts zu PC/Mac
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>Olli</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DiscMaster: Über 100 Millionen Dateien im Disketten- und CD-ROM-Archiv]]></title>
+        <id>https://www.computerbase.de/2022-10/discmaster-datei-archiv-1980-2000-cd-disc-floppy/</id>
+        <link href="https://www.computerbase.de/2022-10/discmaster-datei-archiv-1980-2000-cd-disc-floppy/"/>
+        <updated>2022-10-21T07:55:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/3/9/4-f96df0c980ad2216/article-640x360.0e67934e.jpg"><p>Der Archivar Jason Scott hat mit DiscMaster, einem Disketten- und CD-ROM-Archiv, mehr als 100 Millionen Dateien mit einer Gesamtgröße von 11,4 Terabyte (~ 20.000 CD-ROMs) katalogisiert und so für die Nachwelt festgehalten. Neben 5,6 Millionen Programmen finden sich unter anderem fast 60 Millionen Fotos und 2 Millionen Dokumente.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple TV+: Trailer zu „Echo 3“ von Mark Boal und Staffel 2 von „Slow Horses“ verfügbar]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1135107</id>
+        <link href="https://stadt-bremerhaven.de/apple-tv-trailer-zu-echo-3-von-mark-boal-und-staffel-2-von-slow-horses-verfuegbar/"/>
+        <updated>2022-10-21T07:30:34.000Z</updated>
+        <summary type="html"><![CDATA[Apple hat den Trailer zu einer neuen Serie namens „Echo 3“ ins Rennen geworfen. Der 10 Episoden lange Thriller kommt von Oscar-Preisträger Mark Boal (The Hurt Locker, Zero Dark Thirty) mit Luke Evans (Hobbit, Dracula Untold, Crisis), Michiel Huisman und...
+Zum Beitrag: Apple TV+: Trailer zu „Echo 3“ von Mark Boal und Staffel 2 von „Slow Horses“ verfügbar
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>Olli</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Capcom zeigt neuen Trailer zum Remake von Resident Evil 4]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1135296</id>
+        <link href="https://stadt-bremerhaven.de/capcom-zeigt-neuen-trailer-zum-remake-von-resident-evil-4/"/>
+        <updated>2022-10-21T07:00:22.000Z</updated>
+        <summary type="html"><![CDATA[Capcom hat in der Nacht einen Showcase zu Resident Evil veranstaltet, indem man neue Informationen zum Franchise teilte. Den größeren Teil nahm natürlich das am 24. März 2023 geplante Remake von Resident Evil 4 ein. So zeigte man unter anderem...
+Zum Beitrag: Capcom zeigt neuen Trailer zum Remake von Resident Evil 4
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>Olli</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Silent Hill Showcase: Konami baut Remake von Teil 2 und die Marke massiv aus]]></title>
+        <id>https://www.computerbase.de/2022-10/silent-hill-showcase-konami-baut-remake-von-teil-2-und-die-marke-massiv-aus/</id>
+        <link href="https://www.computerbase.de/2022-10/silent-hill-showcase-konami-baut-remake-von-teil-2-und-die-marke-massiv-aus/"/>
+        <updated>2022-10-21T05:30:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/3/9/2-b0f39f12a91e0f0b/article-640x360.bc9cfe3e.jpg"><p>Silent Hill weilte Jahrelang im unfreiwilligen Exil. In einem Showcase zur Serie kannte Konami überraschend kein Halten: In Arbeit sind ein Remake, Fortsetzungen, Film und eine Live-Action-Show. Am meisten Informationen gab es zur Neufassung von Silent Hill 2, der auch als erstes erscheinen dürfte.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google is increasing the price of YouTube Premium Family significantly]]></title>
+        <id>https://www.ghacks.net/?p=181393</id>
+        <link href="https://www.ghacks.net/2022/10/21/google-is-increasing-the-price-of-youtube-premium-family-significantly/"/>
+        <updated>2022-10-21T04:50:54.000Z</updated>
+        <summary type="html"><![CDATA[Google is informing YouTube Premium Family subscribers currently that the price of the service will go up for them. Especially those grandfathered into YouTube Premium plans receive emails, but the price increase […]
+Thank you for being a Ghacks reader. The post Google is increasing the price of YouTube Premium Family significantly appeared first on gHacks Technology News.]]></summary>
+        <author>
+            <name>Martin Brinkmann</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AM5 Secure Frame: Thermalright bringt CPU-Rahmen für Ryzen 7000]]></title>
         <id>https://www.computerbase.de/2022-10/am5-secure-frame-thermalright-bringt-cpu-rahmen-fuer-ryzen-7000/</id>
@@ -11127,453 +11569,6 @@ Zum Blog: Caschys Blog
 Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
         <author>
             <name>Felix Frank</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Call of Duty: Modern Warfare 2: Systemanforderungen steigen, bleiben aber niedrig]]></title>
-        <id>https://www.computerbase.de/2022-09/call-of-duty-modern-warfare-2-systemanforderungen-steigen-bleiben-aber-niedrig/</id>
-        <link href="https://www.computerbase.de/2022-09/call-of-duty-modern-warfare-2-systemanforderungen-steigen-bleiben-aber-niedrig/"/>
-        <updated>2022-09-22T14:13:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/1/0/3-805f0af676c1504f/article-640x360.2045b32c.jpg"><p>In zwei Tagen startet der frei zugängliche, zwei Tage dauernde Beta-Test des nächsten Call of Duty. Laut den rechtzeitig dafür veröffentlichten Systemanforderungen steigt der Prozessorhunger des Shooters in diesem Jahr am unteren Ende des Spektrums an.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pixelmator Pro 3.0: Bildbearbeitungssoftware hat neue Tricks drauf]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1130816</id>
-        <link href="https://stadt-bremerhaven.de/pixelmator-pro-3-0-bildbearbeitungssoftware-hat-neue-tricks-drauf/"/>
-        <updated>2022-09-22T14:00:34.000Z</updated>
-        <summary type="html"><![CDATA[Die Entwickler der Bildbearbeitungssoftware Pixelmator haben die Version 3.0 der Pro-Version veröffentlicht. Ein kostenfreies Update für Anwender (Pixelmator Photo ist jüngst ins Abo-Modell gewechselt, noch ist unbekannt, ob diese App auch das Schicksal ereilt). Zu den Neuerungen der macOS-Software: Neben...
-Zum Beitrag: Pixelmator Pro 3.0: Bildbearbeitungssoftware hat neue Tricks drauf
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>caschy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PICO 4: Neues All-in-One-VR-Headset ohne Kabel vorgestellt]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1130617</id>
-        <link href="https://stadt-bremerhaven.de/pico-4-neues-all-in-one-vr-headset-ohne-kabel-vorgestellt/"/>
-        <updated>2022-09-22T13:30:52.000Z</updated>
-        <summary type="html"><![CDATA[Vielleicht sagt dem einen oder anderen VR-Interessierten unter euch das Unternehmen PICO etwas? Dort baut man schon seit einigen Jahren eigene VR-Headsets und möchte nun mit dem neuen PICO 4 das neueste Flaggschiff des Unternehmens vorstellen. Das PICO 4 ist...
-Zum Beitrag: PICO 4: Neues All-in-One-VR-Headset ohne Kabel vorgestellt
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>Benjamin Mamerow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chromecast mit Google TV (HD) 2022 offiziell vorgestellt]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1130781</id>
-        <link href="https://stadt-bremerhaven.de/chromecast-mit-google-tv-hd-2022-offiziell-vorgestellt/"/>
-        <updated>2022-09-22T13:03:09.000Z</updated>
-        <summary type="html"><![CDATA[Google hat heute den neuen Chromecast mit Google TV (HD) offiziell vorgestellt, das Gerät ist ab sofort im Handel für einen Preis von 39,99 Euro erhältlich. Im Grunde ist zu den letzten Leaks keine neue Information mehr hinzugekommen, der neue Chromecast...
-Zum Beitrag: Chromecast mit Google TV (HD) 2022 offiziell vorgestellt
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>Benjamin Mamerow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple AirPods Pro (2. Generation) im Test]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1130206</id>
-        <link href="https://stadt-bremerhaven.de/apple-airpods-pro-2-generation-im-test/"/>
-        <updated>2022-09-22T13:00:29.000Z</updated>
-        <summary type="html"><![CDATA[Auf seinem September-Event stellte Apple nicht nur neue iPhones und Modelle der Apple Watch vor, auch neue AirPods gab es zu sehen und zu hören. Da ich täglich während der Arbeit Musik höre und auch täglich Sport mache, sind Kopfhörer...
-Zum Beitrag: Apple AirPods Pro (2. Generation) im Test
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>caschy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chromecast mit Google TV (HD): 1080p-HDR-Streaming-Stick für 40 Euro startet heute]]></title>
-        <id>https://www.computerbase.de/2022-09/chromecast-mit-google-tv-hd-1080p-hdr-streaming-stick-fuer-40-euro-startet-heute/</id>
-        <link href="https://www.computerbase.de/2022-09/chromecast-mit-google-tv-hd-1080p-hdr-streaming-stick-fuer-40-euro-startet-heute/"/>
-        <updated>2022-09-22T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/1/0/2-e9f7cfd7943caa9a/article-640x360.f206efbc.jpg"><p>Mit dem Chromecast mit Google TV (HD) hat Google einen neuen Streaming-Stick angekündigt, der ab sofort für 39,99 Euro im Handel erhältlich ist. Das neue Modell stellt eine günstigere Alternative zu dem im Jahr 2020 eingeführten Chromecast mit Google TV (4K) dar, dessen unverbindliche Preisempfehlung bei 69,99 Euro liegt.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pico 4: VR-Headset aus China kommt der Meta Quest Pro zuvor]]></title>
-        <id>https://www.computerbase.de/2022-09/pico-4-vr-headset-aus-china-kommt-metas-quest-pro-zuvor/</id>
-        <link href="https://www.computerbase.de/2022-09/pico-4-vr-headset-aus-china-kommt-metas-quest-pro-zuvor/"/>
-        <updated>2022-09-22T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/0/9/4-bfdfa28b38e95681/article-640x360.2ef3831a.jpg"><p>Mit dem Pico 4 will das chinesische Unternehmen der Meta Quest Pro zuvorkommen und auch außerhalb Chinas Fuß fassen. Während es sich bei der im Mai vorgestellten Pico Neo 3 Link noch um ein abgewandeltes Businessgerät handelt, richtet sich das Pico 4 direkt an Endkunden und soll eine Alternative zur Meta Quest Pro darstellen.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[„Die Kaiserin“: Netflix Original zeigt sich im offiziellen Trailer]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1130735</id>
-        <link href="https://stadt-bremerhaven.de/die-kaiserin-netflix-original-zeigt-sich-im-offiziellen-trailer/"/>
-        <updated>2022-09-22T12:30:42.000Z</updated>
-        <summary type="html"><![CDATA[Netflix nimmt mit „Die Kaiserin“ eine neue Originalserie in deutscher Sprache ins Programm. Jetzt hat man einen Trailer veröffentlicht, der einen Ausblick auf das Format gibt. Die historische Serie dreht sich um die österreichische Kaiserin Elisabeth und die Welt der...
-Zum Beitrag: „Die Kaiserin“: Netflix Original zeigt sich im offiziellen Trailer
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>André Westphal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Pixel Buds Pro: Neue Funktionen stehen wohl kurz vor dem Start]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1130703</id>
-        <link href="https://stadt-bremerhaven.de/google-pixel-buds-pro-neue-funktionen-stehen-wohl-kurz-vor-dem-start/"/>
-        <updated>2022-09-22T12:00:23.000Z</updated>
-        <summary type="html"><![CDATA[Google bereitet für seine TWS-Kopfhörer, die Pixel Buds Pro, neue Funktionen vor. Die Kollegen von 9to5Google haben hinter die Kulissen gestöbert und Hinweise auf einen 5-Band-Equalizer und eine verbesserte Lautstärkeregelung entdeckt. Aktiviert sind die Features noch nicht. Vielmehr finden sich...
-Zum Beitrag: Google Pixel Buds Pro: Neue Funktionen stehen wohl kurz vor dem Start
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>André Westphal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google soll an Konkurrenzformaten für Dolby Atmos und Dolby Vision arbeiten]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1130716</id>
-        <link href="https://stadt-bremerhaven.de/google-soll-an-konkurrenzformaten-fuer-dolby-atmos-und-dolby-vision-arbeiten/"/>
-        <updated>2022-09-22T11:30:16.000Z</updated>
-        <summary type="html"><![CDATA[Derzeit dominiert als dynamisches HDR-Format Dolby Vision, während im Bereich des 3D-Sounds Dolby Atmos im wahrsten Sinne des Wortes den Ton angibt. Zwar hat Samsung mit HDR10+ eine offene Alternative forciert, doch gegen Dolby Vision konnte man sich bisher nicht...
-Zum Beitrag: Google soll an Konkurrenzformaten für Dolby Atmos und Dolby Vision arbeiten
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>André Westphal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gigaset GX6: „Made in Germany“-Outdoor-Smartphone mit Wechselakku]]></title>
-        <id>https://www.computerbase.de/2022-09/gigaset-gx6-made-in-germany-outdoor-smartphone-mit-wechselakku/</id>
-        <link href="https://www.computerbase.de/2022-09/gigaset-gx6-made-in-germany-outdoor-smartphone-mit-wechselakku/"/>
-        <updated>2022-09-22T11:14:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/0/9/6-f4b78fcb02599b6b/article-640x360.ccf39442.jpg"><p>Das Outdoor-Smartphone Gigaset GX6 startet als Nachfolger des GX290 (Test) und bietet zusätzlich nicht nur einen auswechselbaren Akku, sondern nun auch 5G und ein Display mit 120 Hz Bildwiederholfrequenz. Beim SoC wird auf den Octa-Core-Prozessor MediaTek Dimensity 900 5G gewechselt.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Windows 11 2022 Update: security improvements]]></title>
-        <id>https://www.ghacks.net/?p=180860</id>
-        <link href="https://www.ghacks.net/2022/09/22/windows-11-2022-update-security-improvements/"/>
-        <updated>2022-09-22T11:12:52.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft released the first feature update for Windows 11 this week. The new version of Windows 11 introduces a number of usability improvements and some new features, with more promised to be […]
-Thank you for being a Ghacks reader. The post Windows 11 2022 Update: security improvements appeared first on gHacks Technology News.]]></summary>
-        <author>
-            <name>Martin Brinkmann</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft veröffentlicht neue Xbox Insider Alpha (2210.220919-2200)]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1130646</id>
-        <link href="https://stadt-bremerhaven.de/microsoft-veroeffentlicht-neue-xbox-insider-alpha-2210-220919-2200/"/>
-        <updated>2022-09-22T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Wie Microsoft mitteilt, erreicht Xbox-Insider im Alpha-Ring ein neuer Build mit der Versionsnummer 2210.220919-2200. Natürlich verspricht auch dieses Update wieder einmal mehr Stabilität, doch auch weitere Neuerungen werden im Changelog mit erwähnt. So lassen sich von nun an Startup-Sounds beim...
-Zum Beitrag: Microsoft veröffentlicht neue Xbox Insider Alpha (2210.220919-2200)
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>Benjamin Mamerow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nintendo Switch 2: Nvidia Tegra T239 könnte neue Spielkonsole antreiben]]></title>
-        <id>https://www.computerbase.de/2022-09/nintendo-switch-2-nvidia-tegra-t239/</id>
-        <link href="https://www.computerbase.de/2022-09/nintendo-switch-2-nvidia-tegra-t239/"/>
-        <updated>2022-09-22T10:40:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/0/9/9-564f88ea22c0bda2/article-640x360.244204e9.jpg"><p>Das Octa-Core-SoC Nvidia Tegra T239, ein Custom-Design des bereits bekannten Nvidia Tegra T234 („Orin“), gilt laut jüngsten Gerüchten als Kandidat für eine mögliche „Nintendo Switch 2“ oder „Switch Pro“. Neben einer signifikant höheren Rohleistung stehen auch Raytracing und DLSS im Raum.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HiSilicon: Huawei will Chip-Sparte „US-frei“ neu in China aufbauen]]></title>
-        <id>https://www.computerbase.de/2022-09/hisilicon-huawei-will-chip-sparte-us-frei-neu-in-china-aufbauen/</id>
-        <link href="https://www.computerbase.de/2022-09/hisilicon-huawei-will-chip-sparte-us-frei-neu-in-china-aufbauen/"/>
-        <updated>2022-09-22T10:26:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/1/0/0-4ba6151a688eb5fc/article-640x360.08e4e9ac.jpg"><p>Huawei will mit der Hilfe chinesischer Partner die eigene Chip-Produktion wieder hochfahren. Die durch US-Sanktionen geschwächte Sparte soll den Fokus dabei auf Chips und Komponenten für die Mobilfunkausrüstung statt Smartphones legen. JHICC und NSI gelten laut Nikkei Asia als wichtige Partner für „US-freie“ Fertigungslinien.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nvidia GeForce RTX 4000: Weitere Details zu Architektur, DLSS 3 und Founders Editions]]></title>
-        <id>https://www.computerbase.de/2022-09/geforce-rtx-4000-dlss-3-founders-edition-technik/</id>
-        <link href="https://www.computerbase.de/2022-09/geforce-rtx-4000-dlss-3-founders-edition-technik/"/>
-        <updated>2022-09-22T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/0/9/0-b607f7e3ed70fbb6/article-640x360.c564dc65.jpg"><p>Nvidia hat die GeForce RTX 4090 sowie die GeForce RTX 4080 angekündigt und damit die ersten drei Spieler-Grafikkarten auf Basis der neuen Architektur Ada Lovelace. Auf einem virtuellen Editors Day gab der Hersteller nun weitere Details zu Technik, DLSS 3 und Founders-Edition-Modellen bekannt.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft: Surface Pro 9 und Laptop 5 kommen am 12. Oktober]]></title>
-        <id>https://www.computerbase.de/2022-09/microsoft-surface-pro-9-und-laptop-5-kommen-am-12-oktober/</id>
-        <link href="https://www.computerbase.de/2022-09/microsoft-surface-pro-9-und-laptop-5-kommen-am-12-oktober/"/>
-        <updated>2022-09-22T09:21:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/0/9/5-d514a572f8ea0860/article-640x360.06749fa3.jpg"><p>Am 12. Oktober wird Microsoft die nächste Generation Surface Pro und Surface Laptop vorstellen. Spekulationen rund um die neuen Geräte besagen, dass Surface Pro und Surface Pro X diesmal zu einer Baureihe zusammengelegt werden. Für den neuen Surface Laptop sollen diesmal nur Prozessoren von Intel zum Einsatz kommen.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mozilla is testing Firefox View - a feature that allows you to pickup tabs from other devices and access recently closed tabs]]></title>
-        <id>https://www.ghacks.net/?p=180889</id>
-        <link href="https://www.ghacks.net/2022/09/22/mozilla-is-testing-a-new-feature-called-firefox-view/"/>
-        <updated>2022-09-22T06:32:30.000Z</updated>
-        <summary type="html"><![CDATA[Mozilla has added a new feature called Firefox View in the Beta, Developer, and Nightly builds of its browser. It lets you view a list of your recently accessed tabs. Firefox View […]
-Thank you for being a Ghacks reader. The post Mozilla is testing Firefox View - a feature that allows you to pickup tabs from other devices and access recently closed tabs appeared first on gHacks Technology News.]]></summary>
-        <author>
-            <name>Ashwin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Brave integrates privacy friendly translate option in its browser]]></title>
-        <id>https://www.ghacks.net/?p=180890</id>
-        <link href="https://www.ghacks.net/2022/09/22/brave-integrates-privacy-friendly-translate-option-in-its-browser/"/>
-        <updated>2022-09-22T04:52:14.000Z</updated>
-        <summary type="html"><![CDATA[Brave browser users may have noticed translate prompts in the browser when they visit foreign language sites for several weeks now. Brave, which relied on Google Translate up until now, has switched […]
-Thank you for being a Ghacks reader. The post Brave integrates privacy friendly translate option in its browser appeared first on gHacks Technology News.]]></summary>
-        <author>
-            <name>Martin Brinkmann</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wärmeleitpaste: Arctic stellt MX-5 komplett ein und bringt MX-6 (Update)]]></title>
-        <id>https://www.computerbase.de/2022-09/waermeleitpaste-arctic-stellt-mx-5-komplett-ein-und-bringt-mx-6/</id>
-        <link href="https://www.computerbase.de/2022-09/waermeleitpaste-arctic-stellt-mx-5-komplett-ein-und-bringt-mx-6/"/>
-        <updated>2022-09-22T04:43:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/0/9/1-06ebee8109e0ff64/article-640x360.29337fa3.jpg"><p>Nach Problemen mit der Konsistenz stellt Arctic augenscheinlich die Wärmeleitpasten der Serie MX-5 komplett ein. Zumindest wird das Produkt bei Arctic nun mit „End of Life“ markiert. Ein Nachfolger steht aber schon in den Startlöchern: Bei Amazon findet sich bereits die neue MX-6.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[G Cloud Gaming Handheld: Logitechs Spielkonsole startet schon im Oktober]]></title>
-        <id>https://www.computerbase.de/2022-09/g-cloud-gaming-handheld-logitechs-spielekonsole-startet-schon-im-oktober/</id>
-        <link href="https://www.computerbase.de/2022-09/g-cloud-gaming-handheld-logitechs-spielekonsole-startet-schon-im-oktober/"/>
-        <updated>2022-09-21T18:52:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/0/9/3-d4f0254cdf0944b0/article-640x360.ae9f0174.jpg"><p>Nach der Ankündigung im August, dass Logitech zusammen mit Tencent an einem Handheld arbeitet, der fürs Cloud-Gaming ausgelegt sein soll, folgt nun die offizielle Ankündigung mit allen Details und technischen Daten. Der Logitech G Cloud Gaming Handheld startet schon im Oktober und kann ab heute vorbestellt werden.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MP600 Pro XT: Corsair bietet 8 TB im M.2-Format mit NVMe (Update)]]></title>
-        <id>https://www.computerbase.de/2022-09/mp600-pro-xt-corsair-bietet-erstmals-8-tb-im-m-2-format-mit-nvme/</id>
-        <link href="https://www.computerbase.de/2022-09/mp600-pro-xt-corsair-bietet-erstmals-8-tb-im-m-2-format-mit-nvme/"/>
-        <updated>2022-09-21T18:47:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/0/8/9-bea1b240d8756b6c/article-640x360.f47badf9.jpg"><p>Eine der derzeit schnellsten SSDs bietet jetzt auch den größten Speicherplatz ihrer Klasse. Die Corsair MP600 Pro XT (Test) mit Phison-E18-Controller erhält ein weiteres Modell mit 8 TB Speicherplatz. Das entspricht dem derzeitigen Maximum im M.2-Format.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PlayStation VR2: Sony hofft auf Indie-Entwickler und veröffentlicht neues Video]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1130544</id>
-        <link href="https://stadt-bremerhaven.de/playstation-vr2-sony-hofft-auf-die-indie-entwickler/"/>
-        <updated>2022-09-21T18:30:02.000Z</updated>
-        <summary type="html"><![CDATA[Sony hat nicht nur ein neues Werbevideo zur PlayStation VR2 vorgestellt, welches die Features der VR-Brille ins Rampenlicht rückt, sondern auch Andeutungen über die Spiele gemacht, die wir da erwarten können. Man kann heraushören, dass Sony hofft, dass vor allem...
-Zum Beitrag: PlayStation VR2: Sony hofft auf Indie-Entwickler und veröffentlicht neues Video
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>André Westphal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Xbox: September-Update veröffentlicht]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1130597</id>
-        <link href="https://stadt-bremerhaven.de/xbox-september-update-veroeffentlicht/"/>
-        <updated>2022-09-21T17:45:50.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft hat das September-Update für die Xbox veröffentlicht. Jenes beinhaltet zahlreiche neue Funktionen und Verbesserungen. Neben dem allgemeinen Spielerlebnis hat man da auch den neuen Elite Wireless Controller im Blick. Der Xbox Elite Wireless Controller 2 ist ab heute verfügbar....
-Zum Beitrag: Xbox: September-Update veröffentlicht
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>Felix Frank</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Surface: Event am 12. Oktober]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1130622</id>
-        <link href="https://stadt-bremerhaven.de/microsoft-surface-event-am-12-oktober/"/>
-        <updated>2022-09-21T17:25:00.000Z</updated>
-        <summary type="html"><![CDATA[Es geht weiter mit neuer Hardware und Events. Fans der Surface-Reihe von Microsoft können sich auf den 12. Oktober freuen. Kurz vor der Microsoft Ignite wird man offensichtlich noch neue Surface-Modelle mit stärkeren und neueren Komponenten aus dem Hut zaubern....
-Zum Beitrag: Microsoft Surface: Event am 12. Oktober
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>caschy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Plex: Verbesserungen beim AirPlay-Streaming]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1130601</id>
-        <link href="https://stadt-bremerhaven.de/plex-verbesserungen-beim-airplay-streaming/"/>
-        <updated>2022-09-21T16:53:35.000Z</updated>
-        <summary type="html"><![CDATA[Nutzer von Plex bekommen eine Neuerung in der iOS-App spendiert. Nach der Aktualisierung ist es nun auch möglich, von iPad oder iPhone aus über AirPlay Live TV auf kompatible Geräte zu streamen – das können beispielsweise TV-Geräte, der Apple TV...
-Zum Beitrag: Plex: Verbesserungen beim AirPlay-Streaming
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>caschy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sonos: S2-Firmware 14.16 bringt Verbesserungen]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1130594</id>
-        <link href="https://stadt-bremerhaven.de/sonos-s2-firmware-14-16-bringt-verbesserungen/"/>
-        <updated>2022-09-21T16:47:40.000Z</updated>
-        <summary type="html"><![CDATA[Sonos hat seinen neuen Sub Mini vorgestellt, der bald im Handel ist – auf der anderen Seite gibt’s mit der Firmware Probleme, da sind die Arc-Nutzer derzeit auf den Barrikaden und fordern eine Problemlösung. Des Weiteren funktioniert die Trueplay-Einrichtung mit...
-Zum Beitrag: Sonos: S2-Firmware 14.16 bringt Verbesserungen
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>caschy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[20 GB Volumen: Vodafone Allnet Flat für 9,99 Euro monatlich]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1130461</id>
-        <link href="https://stadt-bremerhaven.de/20-gb-volumen-vodafone-allnet-flat-fuer-999-euro-monatlich/"/>
-        <updated>2022-09-21T16:45:44.000Z</updated>
-        <summary type="html"><![CDATA[Bei klarmobil – zu freenet gehörend – hat man mal wieder ein Angebot im Vodafone-Netz geschnürt. Die Überschrift verrät es: 20 GB Datenvolumen im Vodafone-Netz bekommt man und zahlt dafür 9,99 Euro im Monat. Für 9,99 Euro gibt’s nicht nur das reine...
-Zum Beitrag: 20 GB Volumen: Vodafone Allnet Flat für 9,99 Euro monatlich
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>caschy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[realme GT Neo 4 soll den Qualcomm Snapdragon 8+ Gen 1 als SoC verwenden]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1130523</id>
-        <link href="https://stadt-bremerhaven.de/realme-gt-neo-4-soll-den-qualcomm-snapdragon-8-gen-1-als-soc-verwenden/"/>
-        <updated>2022-09-21T16:00:09.000Z</updated>
-        <summary type="html"><![CDATA[Aktuellen Leaks zufolge wird realme für sein kommendes Smartphone GT Neo 4 doch nicht auf den MediaTek Dimensity 8200 setzen, wie es ursprünglich eigentlich anvisiert gewesen ist. Stattdessen plane man nun mit dem Qualcomm Snapdragon 8+ Gen 1. Diese Entscheidung...
-Zum Beitrag: realme GT Neo 4 soll den Qualcomm Snapdragon 8+ Gen 1 als SoC verwenden
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>André Westphal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This Week on Stadia: Neue Trials, Spiele für Pro-Abonnenten und mehr]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1130348</id>
-        <link href="https://stadt-bremerhaven.de/this-week-on-stadia-neue-trials-spiele-fuer-pro-abonnenten-und-mehr/"/>
-        <updated>2022-09-21T15:30:59.000Z</updated>
-        <summary type="html"><![CDATA[Es ist mal wieder so weit: Google hat in einem neuen Beitrag mitgeteilt, welche Spiele ihr mit einem Pro-Abonnement demnächst zusätzlich spielen könnt. So starten ab dem 1. Oktober sowohl Looking for Aliens als auch Tangle Tower, Slaycation Paradise, Drawful...
-Zum Beitrag: This Week on Stadia: Neue Trials, Spiele für Pro-Abonnenten und mehr
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>Benjamin Mamerow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EA SPORTS bringt Ted Lasso und den AFC Richmond in FIFA 23]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1130579</id>
-        <link href="https://stadt-bremerhaven.de/ea-sports-bringt-ted-lasso-und-den-afc-richmond-in-fifa-23/"/>
-        <updated>2022-09-21T15:17:48.000Z</updated>
-        <summary type="html"><![CDATA[Witzige Sache, die sich EA da hat einfallen lassen. Electronic Arts und Warner Bros. Interactive Entertainment geben heute bekannt, dass der AFC Richmond in EA SPORTS FIFA 23 dabei sein wird. Fans können ihren authentischen Lieblingsverein in mehreren Spielmodi einsetzen,...
-Zum Beitrag: EA SPORTS bringt Ted Lasso und den AFC Richmond in FIFA 23
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>caschy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Neu auf Netflix – Oktober 2022]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1130574</id>
-        <link href="https://stadt-bremerhaven.de/neu-auf-netflix-oktober-2022/"/>
-        <updated>2022-09-21T15:02:38.000Z</updated>
-        <summary type="html"><![CDATA[Der Oktober steht vor der Tür. Das bedeutet auch, dass die Streaming-Dienste mal wieder neuen Content auffüllen. Der Oktober bei Netflix erwartet uns unter anderem mit der Fortsetzung der Barbarenkämpfe gegen ein übermächtiges Rom, einer Gruppe Senioren, die brutalen Horror...
-Zum Beitrag: Neu auf Netflix – Oktober 2022
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>caschy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Logitech G CLOUD: Das sind die Details]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1130551</id>
-        <link href="https://stadt-bremerhaven.de/logitech-g-cloud-das-sind-die-details/"/>
-        <updated>2022-09-21T14:22:10.000Z</updated>
-        <summary type="html"><![CDATA[Neulich noch ein Leak, jetzt schon bei Logitech gelistet und von uns entdeckt: Logitech G CLOUD. Ein Handheld mit Android, mit dem man Cloud-Gaming-Dienste anzapfen kann, um zu spielen. Hier einmal ein paar Bilder von der Logitech-Webseite: Laut der Logitech-Webseite...
-Zum Beitrag: Logitech G CLOUD: Das sind die Details
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>caschy</name>
         </author>
     </entry>
 </feed>
