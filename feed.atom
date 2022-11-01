@@ -2,10 +2,446 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://olivedrop.github.io/drop/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-31T02:27:09.346Z</updated>
+    <updated>2022-11-01T02:33:32.806Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://olivedrop.github.io/drop/index.html"/>
     <link rel="self" href="https://olivedrop.github.io/drop/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Abo oder Rausschmiss: Elon Musk baut Twitter ohne Rücksichtnahme weiter um]]></title>
+        <id>https://www.computerbase.de/2022-10/twitter-blue-abo-elon-musk-wirtschaft/</id>
+        <link href="https://www.computerbase.de/2022-10/twitter-blue-abo-elon-musk-wirtschaft/"/>
+        <updated>2022-10-31T21:54:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/5/3/4-931bd2de44cd322e/article-640x360.f2885967.jpg"><p>Der neue Twitter-CEO Elon Musk baut den Kurznachrichtendienst kurzerhand mit einem neuen und deutlich teureren Abonnement, aber ohne jedwede Rücksichtnahme auf die Mitarbeiter weiter um. Twitter Blue soll bis zum 7. November umgestellt werden, ansonsten soll das für die Implementierung zuständigen Personal entlassen werden.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anycubic Kobra Go: 3D-Drucker-Bausatz für 209 Euro getestet]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1136418</id>
+        <link href="https://stadt-bremerhaven.de/anycubic-kobra-go-3d-drucker-bausatz-fuer-209-euro-getestet/"/>
+        <updated>2022-10-31T19:00:57.000Z</updated>
+        <summary type="html"><![CDATA[Anycubic baut seine Kobra-Serie weiter aus und hat kürzlich den Kobra Go vorgestellt. Dieser besticht zunächst mit seinem sehr geringen Preis von etwas über 200 Euro und Features, die andere Hersteller in diesem Preissegment nicht bieten (Auto-Level, PEI-Platte). Der geringe...
+Zum Beitrag: Anycubic Kobra Go: 3D-Drucker-Bausatz für 209 Euro getestet
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>Gastautor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chrome: Neue Sidebar-Funktion angekündigt]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1136575</id>
+        <link href="https://stadt-bremerhaven.de/chrome-neue-sidebar-funktion-angekuendigt/"/>
+        <updated>2022-10-31T18:34:00.000Z</updated>
+        <summary type="html"><![CDATA[Google führt eine neue Sidebar-Funktion in den Browser ein. Suchenden soll die Recherche einfacher gemacht werden, so lassen sich mehrere Suchergebnisse hintereinander ansehen, ohne dass man zwischen der Suchseite und den Websites, zu denen sie verlinkt ist, hin- und herspringen...
+Zum Beitrag: Chrome: Neue Sidebar-Funktion angekündigt
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Canalys: Weltweiter Smartphone-Markt mit fast zweistelligem Rückgang im dritten Quartal 2022]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1136272</id>
+        <link href="https://stadt-bremerhaven.de/canalys-weltweiter-smartphone-markt-mit-fast-zweistelligem-rueckgang-im-dritten-quartal-2022/"/>
+        <updated>2022-10-31T17:30:11.000Z</updated>
+        <summary type="html"><![CDATA[Die weiterhin sinkende Nachfrage, auch bedingt durch die weltweit steigende Inflation, hat dazu geführt, dass laut aktuellen Zahlen von Canalys der weltweite Smartphone-Markt im dritten Quartal 2022 einen Rückgang von 9 % (damit 297,8 Mio. Geräte) bei den Auslieferungen im...
+Zum Beitrag: Canalys: Weltweiter Smartphone-Markt mit fast zweistelligem Rückgang im dritten Quartal 2022
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>Benjamin Mamerow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MediaTek Dimensity 9200: Arm Immortalis und Adreno 740 sollen Apple-GPU schlagen]]></title>
+        <id>https://www.computerbase.de/2022-10/mediatek-dimensity-9200-arm-immortalis-und-adreno-740-sollen-apple-gpu-schlagen/</id>
+        <link href="https://www.computerbase.de/2022-10/mediatek-dimensity-9200-arm-immortalis-und-adreno-740-sollen-apple-gpu-schlagen/"/>
+        <updated>2022-10-31T16:35:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/5/3/0-2dec5333c53f4feb/article-640x360.f32b52b9.jpg"><p>Kommenden Monat sollen sowohl MediaTek als auch Qualcomm die nächste Generation Flaggschiff-SoC für den Einsatz in Smartphones vorstellen. Der Dimensity 9200 wird mit der neuen Arm-GPU Immortalis-G715 samt Raytracing erwartet, die schneller als Apples GPU im A16 Bionic sei. Der Snapdragon 8 Gen 2 soll ebenso schneller arbeiten.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows schneller booten: Startup Timer macht bremsende Apps ausfindig]]></title>
+        <id>https://www.computerbase.de/2022-10/windows-11-windows-10-startup-timer/</id>
+        <link href="https://www.computerbase.de/2022-10/windows-11-windows-10-startup-timer/"/>
+        <updated>2022-10-31T16:14:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/5/2/8-15248f69cc72aac4/article-640x360.6623f0cb.jpg"><p>Das winzige System-Tool Startup Timer, welches jetzt in der neuesten Version 1.2 erschienen ist, findet bremsende Anwendungen im Autostart und hilft dem Anwender dabei, die Microsoft-Betriebssysteme Windows 11 und Windows 10 sowie Windows 8, Windows 8.1 und Windows 7 schneller booten und einsetzen zu können.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5G: O2 Telefónica überholt Vodafone beim Netzausbau]]></title>
+        <id>https://www.computerbase.de/2022-10/5g-o2-telefonica-ueberholt-vodafone-beim-netzausbau/</id>
+        <link href="https://www.computerbase.de/2022-10/5g-o2-telefonica-ueberholt-vodafone-beim-netzausbau/"/>
+        <updated>2022-10-31T16:10:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/5/2/9-ddc471ea001d0fec/article-640x360.908f8545.jpg"><p>Die Netzbetreiber O2 Telefónica und Vodafone haben heute jeweils über den aktuellen Stand des Ausbaus im Mobilfunknetz mit Fokus auf 5G berichtet. Demnach zählt Telefónica mittlerweile über 18.000 Antennen für 5G und erreicht 75 Prozent der Bevölkerung. Bei Vodafone werden 41.000 Antennen für 60 Millionen Menschen gemeldet.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jeder zehnte Haushalt in Deutschland verfügt über smarte Energiemanagement-Systeme]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1136165</id>
+        <link href="https://stadt-bremerhaven.de/jeder-zehnte-haushalt-in-deutschland-verfuegt-ueber-smarte-energiemanagement-systeme/"/>
+        <updated>2022-10-31T16:00:49.000Z</updated>
+        <summary type="html"><![CDATA[Laut Statistischem Bundesamt verfügt mittlerweile jeder zehnte Haushalt in Deutschland über smarte Energiemanagement-Systeme. Dazu zählt man intelligente Thermostate, Stromzähler und Beleuchtung. Etwa 3,7 Millionen Haushalte nutzen online steuerbare Energiemanagement-Systeme. Diese Systeme helfen dabei, Energie zu sparen, indem sie zum Beispiel...
+Zum Beitrag: Jeder zehnte Haushalt in Deutschland verfügt über smarte Energiemanagement-Systeme
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Firefox 106.0.3 veröffentlicht]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1136573</id>
+        <link href="https://stadt-bremerhaven.de/firefox-106-0-3-veroeffentlicht/"/>
+        <updated>2022-10-31T15:23:27.000Z</updated>
+        <summary type="html"><![CDATA[Das nächste (Update) bitte! Mozilla hat den Browser Firefox in Version 106.0.3 veröffentlicht. Grund für das Update ist ein Fehler, der dafür sorgen konnte, dass der Browser beim Start abstürzen konnte, wenn er unter Windows ausgeführt wird. Ferner wurde eine...
+Zum Beitrag: Firefox 106.0.3 veröffentlicht
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AMD is investigating Ryzen 7000 performance issues]]></title>
+        <id>https://www.ghacks.net/?p=181564</id>
+        <link href="https://www.ghacks.net/2022/10/31/amd-is-investigating-ryzen-7000-performance-issues/"/>
+        <updated>2022-10-31T15:11:28.000Z</updated>
+        <summary type="html"><![CDATA[AMD released a performance advisory for its Ryzen 7000 series of processors. The company addresses claims in the advisory that the Ryzen 7000 family of processors have performance-related issues. Reports about performance […]
+Thank you for being a Ghacks reader. The post AMD is investigating Ryzen 7000 performance issues appeared first on gHacks Technology News.]]></summary>
+        <author>
+            <name>Martin Brinkmann</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenSSL 3.0: Kritische Schwachstelle soll am 1.11. gepatcht werden]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1136570</id>
+        <link href="https://stadt-bremerhaven.de/openssl-3-0-kritische-schwachstelle-soll-am-1-11-gepatcht-werden/"/>
+        <updated>2022-10-31T15:10:07.000Z</updated>
+        <summary type="html"><![CDATA[IT-Verantwortliche aufgepasst, morgen liegt unter Umständen kurzfristig ein Patch-Day an. Das Bundesamt für Sicherheit in der Informationstechnik informiert bereits, dass am 1. November ein Patch für eine Schwachstelle in OpenSSL 3.0 veröffentlicht wird. Die Schwachstelle wird nach Angaben des Teams...
+Zum Beitrag: OpenSSL 3.0: Kritische Schwachstelle soll am 1.11. gepatcht werden
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GeForce RTX 4080: Erste Custom-Designs sind für 1.619 bis 1.969 Euro im Handel]]></title>
+        <id>https://www.computerbase.de/2022-10/nvidia-geforce-rtx-4080-custom-designs-handel/</id>
+        <link href="https://www.computerbase.de/2022-10/nvidia-geforce-rtx-4080-custom-designs-handel/"/>
+        <updated>2022-10-31T14:59:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/5/2/7-d299cbd852b012b8/article-640x360.58b2f089.jpg"><p>Gut zwei Wochen vor dem offiziellen Marktstart der GeForce RTX 4080 mit 16 Gigabyte GDDR6X am 16. November bevorraten sich die ersten Händler mit den entsprechenden Herstellerlösungen. Die ersten Custom-Designs sind jetzt für 1.619 bis 1.969 Euro im europäischen Einzelhandel zu finden.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Instagram: Account verschwunden oder kein Zugang?]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1136568</id>
+        <link href="https://stadt-bremerhaven.de/instagram-account-verschwunden-oder-kein-zugang/"/>
+        <updated>2022-10-31T14:40:44.000Z</updated>
+        <summary type="html"><![CDATA[Ihr versucht euch gerade bei Instagram einzuloggen, aber es gibt gar keine Möglichkeit, da euer Account verschwunden scheint? Oder ihr könnt euch gar nicht erst einloggen? Da seid ihr nicht alleine, denn weltweit haben Nutzer diese Probleme, die erstmalig am...
+Zum Beitrag: Instagram: Account verschwunden oder kein Zugang?
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Genshin Impact: GeForce RTX 4090 rendert 178 Millionen Pixel mit 30 FPS]]></title>
+        <id>https://www.computerbase.de/2022-10/genshin-impact-nvidia-geforce-rtx-4090-13k-gaming/</id>
+        <link href="https://www.computerbase.de/2022-10/genshin-impact-nvidia-geforce-rtx-4090-13k-gaming/"/>
+        <updated>2022-10-31T14:37:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/5/2/5-a922e0c8d410503c/article-640x360.9d467815.jpg"><p>Die Nvidia GeForce RTX 4090 (Test) ist die derzeit mit Abstand schnellste Grafikkarte und erreicht im beliebten Action-Rollenspiel Genshin Impact im Durchschnitt 30 Bilder pro Sekunde in der höchstmöglichen Detailstufe sowie einer enorm hohen Auflösung von 13.760 × 5.760 Pixeln und einer 1,5-fachen Rendering-Auflösung.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[„PGA Tour 2K23“ im Test]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1136544</id>
+        <link href="https://stadt-bremerhaven.de/pga-tour-2k23-im-test/"/>
+        <updated>2022-10-31T14:30:52.000Z</updated>
+        <summary type="html"><![CDATA[Eigentlich bin ich selbst vor allem in den Genres der Rollenspiele, Third-Person-Action und Adventures jeglicher Couleur zu Hause. Generell werden Open-World-Titel bei mir immer gerne genommen. Durch Zufall kam ich jedoch, man sollte es kaum glauben, vor einigen Jahren auf...
+Zum Beitrag: „PGA Tour 2K23“ im Test
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scammer geben sich bevorzugt als DHL aus]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1135994</id>
+        <link href="https://stadt-bremerhaven.de/scammer-geben-sich-bevorzugt-als-dhl-aus/"/>
+        <updated>2022-10-31T13:30:38.000Z</updated>
+        <summary type="html"><![CDATA[Wahrscheinlich erhalten nicht nur wir im Blog-Team, sondern auch so gut wie alle Leser, täglich Scam-Nachrichten im Postfach. Spamfilter bewahren vor einem Teil des Bombardements, dennoch tröpfelt immer mal wieder etwas durch. Die Sicherheitsexperten von Check Point Research kommen dabei...
+Zum Beitrag: Scammer geben sich bevorzugt als DHL aus
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vodafone und o2: Ausbau bei LTE und 5G]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1136548</id>
+        <link href="https://stadt-bremerhaven.de/vodafone-und-o2-ausbau-bei-lte-und-5g/"/>
+        <updated>2022-10-31T12:30:59.000Z</updated>
+        <summary type="html"><![CDATA[Neulich gab es für Provider noch Schelte von der Bundesnetzagentur, nun haben o2 und Vodafone am 31. Oktober erst einmal neue Wasserstände veröffentlicht. So sei man fleißig gewesen. O2 Telefónica komme laut Unternehmensangaben beim bundesweiten Aufbau seines 5G-Netzes »deutlich schneller«...
+Zum Beitrag: Vodafone und o2: Ausbau bei LTE und 5G
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[„Sackboy: A Big Adventure“: PC-Version ausprobiert]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1136511</id>
+        <link href="https://stadt-bremerhaven.de/sackboy-a-big-adventure-pc-version-ausprobiert/"/>
+        <updated>2022-10-31T11:30:47.000Z</updated>
+        <summary type="html"><![CDATA[„Sackboy: A Big Adventure“ hatte ich bereits zum Launch der Sony PlayStation 5 hier im Blog getestet. Ich bin seit langem Fan der Spielereihe „Little Big Planet“ und habe auch das jüngste Spin-off somit sehr genossen. Die farbenfrohe Welt von...
+Zum Beitrag: „Sackboy: A Big Adventure“: PC-Version ausprobiert
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Auswertung Umfrage Oktober 2022: Energieeffizienz ist den Lesern durchaus wichtig]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1136361</id>
+        <link href="https://stadt-bremerhaven.de/auswertung-umfrage-oktober-2022-energieeffizienz-ist-den-lesern-durchaus-wichtig/"/>
+        <updated>2022-10-31T10:45:25.000Z</updated>
+        <summary type="html"><![CDATA[Der November bricht morgen an und da ist es an der Zeit, die Blog-Umfrage aus dem Oktober 2022 auszuwerten, damit ein neues Thema in den Fokus rücken kann. In diesem Monat hatte ich euch gefragt: Achtet ihr beim Neukauf auf...
+Zum Beitrag: Auswertung Umfrage Oktober 2022: Energieeffizienz ist den Lesern durchaus wichtig
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bosch: „Help Connect Notruf-Service“ wird eingestellt]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1136542</id>
+        <link href="https://stadt-bremerhaven.de/bosch-help-connect-notruf-service-wird-eingestellt/"/>
+        <updated>2022-10-31T10:00:56.000Z</updated>
+        <summary type="html"><![CDATA[Nicht ganz überraschend: Bosch wird seinen kostenpflichtigen „Help Connect Notruf-Service“ Ende November 2022 einstellen. Worum handelt es sich? Um einen 24/7-Notrufservice. Durch den 24/7-Schutz wird laut Bosch im Falle eines Brandes, Einbruchs oder Wasseraustritts umgehend Hilfe koordiniert. Wenn Nutzer nicht...
+Zum Beitrag: Bosch: „Help Connect Notruf-Service“ wird eingestellt
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TSMC-Fertigung: Planung für die erste 300-mm-Wafer-Fabrik für 1-nm-Chips]]></title>
+        <id>https://www.computerbase.de/2022-10/tsmc-fertigung-planung-fuer-die-erste-300-mm-wafer-fabrik-fuer-1-nm-chips/</id>
+        <link href="https://www.computerbase.de/2022-10/tsmc-fertigung-planung-fuer-die-erste-300-mm-wafer-fabrik-fuer-1-nm-chips/"/>
+        <updated>2022-10-31T09:45:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/5/2/3-c730865bea1a63ea/article-640x360.727637c0.jpg"><p>Bei TSMC sind die Planungen für die erste Fabrik auf heimischen Boden angelaufen, die den Meilenstein der „1 nm“ erreichen soll. Real wird der Wert natürlich nicht erreicht, er steht jedoch als Marke für den nächsten großen Schritt, der nach der Einführung von Gate All Around bei TSMCs N2-Fertigung kommen soll.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aqara: Smart-Home-App derzeit nicht im Google Play Store]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1136535</id>
+        <link href="https://stadt-bremerhaven.de/aqara-smart-home-app-derzeit-nicht-im-google-play-store/"/>
+        <updated>2022-10-31T09:15:14.000Z</updated>
+        <summary type="html"><![CDATA[Solltet ihr zu den Nutzern gehören, die derzeit ein Smart Home mit Komponenten von Aqara einrichten wollen, dann müsst ihr, sofern ihr Android nutzt, aktuell zu einer APK-Datei greifen, denn derzeit ist die Aqara-App zur Steuerung und Einrichtung nicht im...
+Zum Beitrag: Aqara: Smart-Home-App derzeit nicht im Google Play Store
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Android Auto: Google hat einen Pixel-7-Bug behoben]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1136533</id>
+        <link href="https://stadt-bremerhaven.de/android-auto-google-hat-einen-pixel-7-bug-behoben/"/>
+        <updated>2022-10-31T08:30:35.000Z</updated>
+        <summary type="html"><![CDATA[Nutzer, die ihr Google Pixel 7 mit einem Fahrzeug per Kabel verbunden haben, um Android Auto zu nutzen, konnten in der letzten Zeit Pech gehabt haben. Laut zahlreicher Beschwerden in den Produktforen von Google gab es wohl das Problem, dass...
+Zum Beitrag: Android Auto: Google hat einen Pixel-7-Bug behoben
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Adobe Creative Cloud: Pantone-Farben fliegen raus und verlangen extra Abo]]></title>
+        <id>https://www.computerbase.de/2022-10/adobe-creative-cloud-pantone-farben-fliegen-raus-und-verlangen-extra-abo/</id>
+        <link href="https://www.computerbase.de/2022-10/adobe-creative-cloud-pantone-farben-fliegen-raus-und-verlangen-extra-abo/"/>
+        <updated>2022-10-31T08:05:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/5/2/2-4a72fdc3d5b02b27/article-640x360.0eed5bee.jpg"><p>Ab November benötigen Nutzer der Adobe Creative Cloud ein zusätzliches Abo, um den Großteil der erhältlichen Farbbibliotheken des Anbieters Pantone nutzen zu können. Dieser Schritt wurde bereits seit langem angekündigt, doch nun wird die Unterstützung schrittweise durch Updates entfernt.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows: Smartphone-Link bekommt Hotspot-Zugriff]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1136538</id>
+        <link href="https://stadt-bremerhaven.de/windows-smartphone-link-bekommt-hotspot-zugriff/"/>
+        <updated>2022-10-31T07:45:27.000Z</updated>
+        <summary type="html"><![CDATA[Nutzer von Samsung-Smartphones wissen es vermutlich. Microsoft und Samsung haben seit vielen Jahren eine Partnerschaft, die dafür sorgt, dass einige Funktionen der „Smartphone-Link“-App exklusiv für Samsung-Smartphone-Besitzer sind. Die App, mit der sich das Android-Smartphone mit dem Windows-PC für einige Mehrwert-Funktionen...
+Zum Beitrag: Windows: Smartphone-Link bekommt Hotspot-Zugriff
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FIFA Uncovered: Netflix zeigt ersten Trailer zur kommenden Mini-Serie]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1135816</id>
+        <link href="https://stadt-bremerhaven.de/fifa-uncovered-netflix-zeigt-ersten-trailer-zur-kommenden-mini-serie/"/>
+        <updated>2022-10-31T07:00:12.000Z</updated>
+        <summary type="html"><![CDATA[Die vierteilige Mini-Serie „FIFA Uncovered“ wird am 9. November 2022 weltweit auf Netflix verfügbar werden und soll einen strengen Blick hinter die ach so schönen Fassaden der FIFA werfen. Kernthemen sind dabei unter anderem Betrug, Korruption und Verschwörungen. Produziert wird...
+Zum Beitrag: FIFA Uncovered: Netflix zeigt ersten Trailer zur kommenden Mini-Serie
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>Benjamin Mamerow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KaOS 2022.10 im Porträt: KDE Plasma 5.25.90 in seiner reinsten Form mit Qt-6-Apps]]></title>
+        <id>https://www.computerbase.de/2022-10/kaos-2022-10-linux-im-portrait/</id>
+        <link href="https://www.computerbase.de/2022-10/kaos-2022-10-linux-im-portrait/"/>
+        <updated>2022-10-31T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/2/9/1-ed186fd74f3c4878/article-640x360.bf8806dc.jpg"><p>KaOS tritt an, die pure Essenz des jeweils neuesten KDE Plasma zu sein, und wird diesem selbst definierten Anspruch auch mit der neuesten Ausgabe, der vor wenigen Tagen erschienenen Version 2022.10, absolut gerecht. KDE Plasma 5.25.90 und Linux 5.19.13 dienen als Fundament für die „Plasma-Distribution“ mit ersten Qt-6-Apps.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple: Neue MacBook Pro mit M2 fürs erste Quartal 2023 erwartet]]></title>
+        <id>https://www.computerbase.de/2022-10/apple-neue-macbook-pro-mit-m2-fuers-erste-quartal-2023-erwartet/</id>
+        <link href="https://www.computerbase.de/2022-10/apple-neue-macbook-pro-mit-m2-fuers-erste-quartal-2023-erwartet/"/>
+        <updated>2022-10-31T06:39:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/5/2/1-061bfc0f6507acc0/article-640x360.b6c64bb8.jpg"><p>Neue Hardware von Apple steht für dieses Jahr nicht mehr an, wie bereits CEO Tim Cook zur Bekanntgabe der letzten Quartalszahlen zu verstehen gab. Laut Bloomberg sollen neue MacBook Pro mit M2 Pro und M2 Max gegen Ende des ersten Quartals 2023 vorgestellt werden. Zuvor sei der Release neuer Versionen von macOS und iOS geplant.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EK-Quantum Vector² FE RTX 4080: Wasserkühler für die GeForce RTX 4080 FE in zwei Varianten]]></title>
+        <id>https://www.computerbase.de/2022-10/ek-quantum-vector2-fe-rtx-4080d-rgb-gpu-wasserblock/</id>
+        <link href="https://www.computerbase.de/2022-10/ek-quantum-vector2-fe-rtx-4080d-rgb-gpu-wasserblock/"/>
+        <updated>2022-10-31T06:30:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/5/2/0-5f9c060b1d200f40/article-640x360.40e35500.jpg"><p>Der EK-Quantum Vector² FE RTX 4080 D-RGB, so der vollständige Name des neuen Fullcover-Wasserblocks von EKWB für die Nvidia GeForce RTX 4080, ist in zwei optisch ganz unterschiedlichen Ausführungen vorgestellt worden und kann bereits sowohl über den Hersteller selbst als auch über den Einzelhandel vorbestellt werden.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Twitter: Der blaue Haken könnte zukünftig kosten]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1136530</id>
+        <link href="https://stadt-bremerhaven.de/twitter-der-blaue-haken-koennte-zukuenftig-kosten/"/>
+        <updated>2022-10-31T06:01:35.000Z</updated>
+        <summary type="html"><![CDATA[Laut Medienberichten möchte Elon Musk Besitzer eines blauen Hakens bei Twitter zur Kasse bitten. Der blaue Haken ist für verifizierte Nutzer, also jene, die nachgewiesen haben, dass sie auch wirklich »sie« sind – und nicht irgendein Troll- oder Fake-Account, von...
+Zum Beitrag: Twitter: Der blaue Haken könnte zukünftig kosten
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FSNotes 6 erschienen: Notiz-App für macOS]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1136515</id>
+        <link href="https://stadt-bremerhaven.de/fsnotes-6-erschienen-notiz-app-fuer-macos/"/>
+        <updated>2022-10-31T05:30:57.000Z</updated>
+        <summary type="html"><![CDATA[Notiz-Apps gibt es einen ganzen Haufen. Mit ihnen werden unterschiedliche Dinge erfüllt. Da gibt’s natürlich die großen Sammel-Tools wie OneNote, oder die iPad-Spezialisten GoodNotes, Notability sowie auch Agenda und Simplenote – oder man nutzt Google Keep oder die Apple Notizen....
+Zum Beitrag: FSNotes 6 erschienen: Notiz-App für macOS
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Firefox 106.0.3 fixes a crash and hangs on Windows]]></title>
+        <id>https://www.ghacks.net/?p=181560</id>
+        <link href="https://www.ghacks.net/2022/10/31/firefox-106-0-3-fixes-a-crash-and-hangs-on-windows/"/>
+        <updated>2022-10-31T04:47:57.000Z</updated>
+        <summary type="html"><![CDATA[Mozilla plans to release Firefox 106.0.3 Stable later today, if you are reading this on October 31, 2022. The new release for Firefox addresses a crash and a hang issue that may […]
+Thank you for being a Ghacks reader. The post Firefox 106.0.3 fixes a crash and hangs on Windows appeared first on gHacks Technology News.]]></summary>
+        <author>
+            <name>Martin Brinkmann</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[KeePassXC: Version 2.7.4 des Passwortmanagers behebt einige Fehler]]></title>
         <id>https://stadt-bremerhaven.de/?p=1136518</id>
@@ -11308,250 +11744,6 @@ Zum Blog: Caschys Blog
 Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
         <author>
             <name>caschy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Der Cloud-Gaming-Rückblick am Sonntag – KW 39]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1132105</id>
-        <link href="https://stadt-bremerhaven.de/der-cloud-gaming-rueckblick-am-sonntag-kw-39/"/>
-        <updated>2022-10-02T13:30:59.000Z</updated>
-        <summary type="html"><![CDATA[Wieder einmal meldet sich an dieser Stelle unser Gastautor Stefan mit seinem Cloud-Gaming-Rückblick am Sonntag zurück. Einige der Themen wurden in der vergangenen Woche hier bereits verbloggt, andere Inhalte bringt Stefan aus seinem Fundus mit eigenen Quellen mit. Mit dabei...
-Zum Beitrag: Der Cloud-Gaming-Rückblick am Sonntag – KW 39
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>Gastautor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Stadia: Bewahrt Google die Stadia Controller mit einem Bluetooth-Update vor dem Elektroschrott?]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1132363</id>
-        <link href="https://stadt-bremerhaven.de/google-stadia-bewahrt-google-die-stadia-controller-mit-einem-bluetooth-update-vor-dem-elektroschrott/"/>
-        <updated>2022-10-02T12:00:50.000Z</updated>
-        <summary type="html"><![CDATA[Ich denke, viele von euch haben es lange kommen sehen: Google Stadia wird im Januar 2023 eingestampft. Für mich war das Ende quasi mit der Schließung des internen Entwicklerstudios besiegelt. Denn ab jenem Zeitpunkt war klar, dass dem Cloud-Gaming-Angebot das...
-Zum Beitrag: Google Stadia: Bewahrt Google die Stadia Controller mit einem Bluetooth-Update vor dem Elektroschrott?
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>André Westphal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nachhaltigkeit: Ist der Stromverbrauch neuer Hardware noch zeitgemäß?]]></title>
-        <id>https://www.computerbase.de/2022-10/nachhaltigkeit-stromverbrauch-computer-hardware/</id>
-        <link href="https://www.computerbase.de/2022-10/nachhaltigkeit-stromverbrauch-computer-hardware/"/>
-        <updated>2022-10-02T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/2/0/3-843b0d234371074a/article-640x360.600fab03.jpg"><p>Die neuen CPU- und GPU-Generationen von AMD, Intel und Nvidia stehen kurz vor dem Start oder wurden bereits präsentiert und locken einmal mehr mit nochmals mehr Takt, Leistung und FPS. Doch sind 450 Watt für eine GeForce RTX 4090, 251 Watt für einen Core i9-13900K oder 230 Watt für einen Ryzen 9 7950X überhaupt noch zeitgemäß?</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KB5017389: Microsoft bessert am Windows 11 2022 Update nach]]></title>
-        <id>https://www.computerbase.de/2022-10/windows-11-2022-update-kb5017389-build-22622-608/</id>
-        <link href="https://www.computerbase.de/2022-10/windows-11-2022-update-kb5017389-build-22622-608/"/>
-        <updated>2022-10-02T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/2/0/2-3c8bce73a1cf8342/article-640x360.8b862cdb.jpg"><p>Microsoft hat das kumulative Update KB5017389, welches zuletzt noch einmal von Insidern im Release Preview Channel unter die Lupe genommen wurde, jetzt für alle Nutzer des Windows 11 2022 Updates freigegeben und bessert den Feature Drop damit hinsichtlich noch fehlender Funktionen sowie noch zu behebender Fehler weiter nach.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[„Serial Cleaners“ angespielt: Überraschend gutes Stealth-Game]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1131921</id>
-        <link href="https://stadt-bremerhaven.de/serial-cleaners-angespielt-ueberraschend-gutes-stealth-game/"/>
-        <updated>2022-10-02T10:30:44.000Z</updated>
-        <summary type="html"><![CDATA[Das Spiel „Serial Cleaners“ flog komplett unter meinem Radar. So wusste ich nicht einmal, dass es sich hier um ein Sequel handelt, denn auch der erste Part namens „Serial Cleaner“ aus dem Jahr 2017 rauschte an mir vorbei. Der Vertrieb...
-Zum Beitrag: „Serial Cleaners“ angespielt: Überraschend gutes Stealth-Game
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>André Westphal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Pixel Watch zwischenzeitlich bereits bei Amazon.de gelistet]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1132353</id>
-        <link href="https://stadt-bremerhaven.de/google-pixel-watch-zwischenzeitlich-bereits-bei-amazon-de-gelistet/"/>
-        <updated>2022-10-02T08:58:57.000Z</updated>
-        <summary type="html"><![CDATA[Die Google Pixel Watch war zwischenzeitlich bereits bei Amazon.de gelistet. Ich selbst konnte nicht rechtzeitig einen Blick auf die Listung werfen, bei Reddit hatten einige Nutzer aber Glück. So ließen sich aus den Angaben wieder mal einige Einzelheiten zu Googles...
-Zum Beitrag: Google Pixel Watch zwischenzeitlich bereits bei Amazon.de gelistet
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>André Westphal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GfK-Studie: Kaufkrafteinbußen lassen Konsumklima weiter abstürzen]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1131685</id>
-        <link href="https://stadt-bremerhaven.de/gfk-studie-kaufkrafteinbussen-lassen-konsumklima-weiter-abstuerzen/"/>
-        <updated>2022-10-02T08:00:20.000Z</updated>
-        <summary type="html"><![CDATA[Die Marktforscher der GfK kommen in ihren letzten Untersuchungen zu den Aussagen, dass starke Kaufkrafteinbußen das Konsumklima weiter abstürzen lassen. GfK prognostiziert für das Konsumklima für Oktober 2022 -42,5 Punkte und damit 5,7 Punkte weniger als im September dieses Jahres...
-Zum Beitrag: GfK-Studie: Kaufkrafteinbußen lassen Konsumklima weiter abstürzen
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>André Westphal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple Health: Handgelenktemperatur in Grad Celsius betrachten]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1132349</id>
-        <link href="https://stadt-bremerhaven.de/apple-health-handgelenktemperatur-in-grad-celsius-betrachten/"/>
-        <updated>2022-10-02T07:00:52.000Z</updated>
-        <summary type="html"><![CDATA[Die neuen Apple Watches können die Temperatur am Handgelenk überwachen. Die Handgelenktemperatur ist eine Messung, die sich auf die Körpertemperatur bezieht, die von eurer Apple Watch gemessen wird, während ihr schlaft. Eure Körpertemperatur schwankt von Natur aus und kann jede...
-Zum Beitrag: Apple Health: Handgelenktemperatur in Grad Celsius betrachten
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>caschy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Kindle Unlimited: 3 Monate kostenlos]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1132347</id>
-        <link href="https://stadt-bremerhaven.de/amazon-kindle-unlimited-3-monate-kostenlos/"/>
-        <updated>2022-10-02T06:30:36.000Z</updated>
-        <summary type="html"><![CDATA[Amazon hat derzeit einige Aktionen im Feuer. So kann man beispielsweise 4 Monate Amazon Music Unlimited kostenlos bekommen, aber es gibt auch 3 Monate Audible gratis, da könnt ihr dann ein paar Hörbücher beziehen. Wer lieber etwas liest, der kann...
-Zum Beitrag: Amazon Kindle Unlimited: 3 Monate kostenlos
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>caschy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rumor: You may soon need YouTube Premium to watch 4K video]]></title>
-        <id>https://www.ghacks.net/?p=181053</id>
-        <link href="https://www.ghacks.net/2022/10/02/rumor-you-may-soon-need-youtube-premium-to-watch-4k-video/"/>
-        <updated>2022-10-02T06:20:37.000Z</updated>
-        <summary type="html"><![CDATA[Google experimented on YouTube to increase the company's revenue on the platform recently. After running tests with up to 10 unskippable ads before videos, users on Reddit report that YouTube limited 4K […]
-Thank you for being a Ghacks reader. The post Rumor: You may soon need YouTube Premium to watch 4K video appeared first on gHacks Technology News.]]></summary>
-        <author>
-            <name>Martin Brinkmann</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[YouTube Premium: Exklusivität der 4K- und 8K-Auflösungen für Abonnenten wird getestet]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1132341</id>
-        <link href="https://stadt-bremerhaven.de/youtube-premium-exklusivitaet-der-4k-aufloesung-fuer-abonnenten-wird-getestet/"/>
-        <updated>2022-10-02T06:00:11.000Z</updated>
-        <summary type="html"><![CDATA[YouTube bietet euch Inhalte in unterschiedlichen Auflösungen an: Ein paar Clips liegen sogar in 8K vor. Wie einige Nutzer bei Reddit berichten, führt die Plattform aber offensichtlich mit einigen „Auserwählten“ einen Test durch: Sie können keine Inhalte mehr frei ansehen,...
-Zum Beitrag: YouTube Premium: Exklusivität der 4K- und 8K-Auflösungen für Abonnenten wird getestet
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>André Westphal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wochenrück- und Ausblick: Ryzen reißt in Reihe die Ränge]]></title>
-        <id>https://www.computerbase.de/2022-10/wochenrueckblick-und-ausblick-2022-w39/</id>
-        <link href="https://www.computerbase.de/2022-10/wochenrueckblick-und-ausblick-2022-w39/"/>
-        <updated>2022-10-02T06:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/1/9/8-96760e28b76b603a/article-640x360.eb6131e3.jpg"><p>Die neuen Ryzen 7000 mit Zen-4-Architektur sind zum 27. September im Handel angekommen und pünktlich zum Marktstart hat ComputerBase diese Woche Anwendungs- und Spiele-Tests veröffentlicht, die viel Interesse unter den Lesern auf sich gezogen haben. Mit Raptor Lake steht aber schon ein Konter von Intel vor der Tür.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Immer wieder sonntags KW 39]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1132166</id>
-        <link href="https://stadt-bremerhaven.de/immer-wieder-sonntags-kw-39-9/"/>
-        <updated>2022-10-02T04:30:52.000Z</updated>
-        <summary type="html"><![CDATA[In dieser Woche gab es so einige News, auf die es sich lohnt, am frühen Sonntagmorgen ein wenig zurückzublicken. Beispielsweise hat Google den Hammer fallen lassen: Das Cloud-Gaming-Angebot Stadia wird ersatzlos gestrichen. In den Kommentaren habt ihr bereits eifrig über...
-Zum Beitrag: Immer wieder sonntags KW 39
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>André Westphal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple Watch Series 8 und SE angeschaut – „If it ain’t broke, don’t fix it“]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1130133</id>
-        <link href="https://stadt-bremerhaven.de/apple-watch-series-8-und-se-angeschaut-if-it-aint-broke-dont-fix-it/"/>
-        <updated>2022-10-01T18:00:54.000Z</updated>
-        <summary type="html"><![CDATA[Apple hat am 7. September nicht nur neue iPhones vorgestellt, sondern bringt wie jedes Jahr auch eine neue Apple Watch auf den Markt. Der Konzern hat dieses Mal gleich drei Stück vorgestellt, die Apple Watch Ultra, Series 8 und eine...
-Zum Beitrag: Apple Watch Series 8 und SE angeschaut – „If it ain’t broke, don’t fix it“
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>Olli</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Auswertung Umfrage September 2022: Gros der Leser kritisch gegenüber dem öffentlich-rechtlichen Rundfunk]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1132190</id>
-        <link href="https://stadt-bremerhaven.de/auswertung-umfrage-september-2022-gros-der-leser-kritisch-gegenueber-dem-oeffentlich-rechtlichen-rundfunk/"/>
-        <updated>2022-10-01T16:30:09.000Z</updated>
-        <summary type="html"><![CDATA[Im letzten Monat hatte ich euch danach gefragt, wie ihr zum öffentlich-rechtlichen Rundfunk in Deutschland steht. Es ging um die Frage, ob das System erhalten, reformiert oder gar abgeschafft werden sollte. Die Resonanz war enorm: Über 13.100 Leser haben sich...
-Zum Beitrag: Auswertung Umfrage September 2022: Gros der Leser kritisch gegenüber dem öffentlich-rechtlichen Rundfunk
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>André Westphal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Facebook koppelt seinen In-App-Browser von Androids WebView ab]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1132318</id>
-        <link href="https://stadt-bremerhaven.de/facebook-koppelt-seinen-in-app-browser-von-androids-webview-ab/"/>
-        <updated>2022-10-01T15:00:41.000Z</updated>
-        <summary type="html"><![CDATA[Facebook hatte in seiner Android-App bisher für den In-App-Browser auf WebView des Systems, basierend auf Chromium gesetzt. Laut dem sozialen Netzwerk hatte das aber in der Vergangenheit mehrere Probleme zur Folge: Etwa müssen die Anwender Chrome und WebView separat und...
-Zum Beitrag: Facebook koppelt seinen In-App-Browser von Androids WebView ab
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>André Westphal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google released a second Chrome security update this week]]></title>
-        <id>https://www.ghacks.net/?p=181050</id>
-        <link href="https://www.ghacks.net/2022/10/01/google-released-a-second-chrome-security-update-this-week/"/>
-        <updated>2022-10-01T14:54:27.000Z</updated>
-        <summary type="html"><![CDATA[Google published a new security update for the company's Chrome web browser that addresses three security issues in the browser. The new update comes less than a week after the release of […]
-Thank you for being a Ghacks reader. The post Google released a second Chrome security update this week appeared first on gHacks Technology News.]]></summary>
-        <author>
-            <name>Martin Brinkmann</name>
         </author>
     </entry>
 </feed>

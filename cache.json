@@ -6,6 +6,196 @@
       "siteUrl": "https://stadt-bremerhaven.de",
       "articles": [
         {
+          "id": "https://stadt-bremerhaven.de/?p=1136418",
+          "author": "Gastautor",
+          "description": "Anycubic baut seine Kobra-Serie weiter aus und hat kürzlich den Kobra Go vorgestellt. Dieser besticht zunächst mit seinem sehr geringen Preis von etwas über 200 Euro und Features, die andere Hersteller in diesem Preissegment nicht bieten (Auto-Level, PEI-Platte). Der geringe...\nZum Beitrag: Anycubic Kobra Go: 3D-Drucker-Bausatz für 209 Euro getestet\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
+          "link": "https://stadt-bremerhaven.de/anycubic-kobra-go-3d-drucker-bausatz-fuer-209-euro-getestet/",
+          "publishedOn": "2022-10-31T19:00:57.000Z",
+          "wordCount": 2516,
+          "title": "Anycubic Kobra Go: 3D-Drucker-Bausatz für 209 Euro getestet",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/10/Titel-A.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1136575",
+          "author": "caschy",
+          "description": "Google führt eine neue Sidebar-Funktion in den Browser ein. Suchenden soll die Recherche einfacher gemacht werden, so lassen sich mehrere Suchergebnisse hintereinander ansehen, ohne dass man zwischen der Suchseite und den Websites, zu denen sie verlinkt ist, hin- und herspringen...\nZum Beitrag: Chrome: Neue Sidebar-Funktion angekündigt\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
+          "link": "https://stadt-bremerhaven.de/chrome-neue-sidebar-funktion-angekuendigt/",
+          "publishedOn": "2022-10-31T18:34:00.000Z",
+          "wordCount": 1716,
+          "title": "Chrome: Neue Sidebar-Funktion angekündigt",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/10/Bildschirm­foto-2022-10-31-um-19.29.20_.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1136272",
+          "author": "Benjamin Mamerow",
+          "description": "Die weiterhin sinkende Nachfrage, auch bedingt durch die weltweit steigende Inflation, hat dazu geführt, dass laut aktuellen Zahlen von Canalys der weltweite Smartphone-Markt im dritten Quartal 2022 einen Rückgang von 9 % (damit 297,8 Mio. Geräte) bei den Auslieferungen im...\nZum Beitrag: Canalys: Weltweiter Smartphone-Markt mit fast zweistelligem Rückgang im dritten Quartal 2022\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
+          "link": "https://stadt-bremerhaven.de/canalys-weltweiter-smartphone-markt-mit-fast-zweistelligem-rueckgang-im-dritten-quartal-2022/",
+          "publishedOn": "2022-10-31T17:30:11.000Z",
+          "wordCount": 2048,
+          "title": "Canalys: Weltweiter Smartphone-Markt mit fast zweistelligem Rückgang im dritten Quartal 2022",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/06/smartphone-gilles-lambert-pb_lF8VWaPU-unsplash_.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1136165",
+          "author": "André Westphal",
+          "description": "Laut Statistischem Bundesamt verfügt mittlerweile jeder zehnte Haushalt in Deutschland über smarte Energiemanagement-Systeme. Dazu zählt man intelligente Thermostate, Stromzähler und Beleuchtung. Etwa 3,7 Millionen Haushalte nutzen online steuerbare Energiemanagement-Systeme. Diese Systeme helfen dabei, Energie zu sparen, indem sie zum Beispiel...\nZum Beitrag: Jeder zehnte Haushalt in Deutschland verfügt über smarte Energiemanagement-Systeme\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
+          "link": "https://stadt-bremerhaven.de/jeder-zehnte-haushalt-in-deutschland-verfuegt-ueber-smarte-energiemanagement-systeme/",
+          "publishedOn": "2022-10-31T16:00:49.000Z",
+          "wordCount": 2261,
+          "title": "Jeder zehnte Haushalt in Deutschland verfügt über smarte Energiemanagement-Systeme",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2021/08/tado-Smart-AC6_cb_09.webp"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1136573",
+          "author": "caschy",
+          "description": "Das nächste (Update) bitte! Mozilla hat den Browser Firefox in Version 106.0.3 veröffentlicht. Grund für das Update ist ein Fehler, der dafür sorgen konnte, dass der Browser beim Start abstürzen konnte, wenn er unter Windows ausgeführt wird. Ferner wurde eine...\nZum Beitrag: Firefox 106.0.3 veröffentlicht\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
+          "link": "https://stadt-bremerhaven.de/firefox-106-0-3-veroeffentlicht/",
+          "publishedOn": "2022-10-31T15:23:27.000Z",
+          "wordCount": 1642,
+          "title": "Firefox 106.0.3 veröffentlicht",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2021/11/Firefox-1_.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1136570",
+          "author": "caschy",
+          "description": "IT-Verantwortliche aufgepasst, morgen liegt unter Umständen kurzfristig ein Patch-Day an. Das Bundesamt für Sicherheit in der Informationstechnik informiert bereits, dass am 1. November ein Patch für eine Schwachstelle in OpenSSL 3.0 veröffentlicht wird. Die Schwachstelle wird nach Angaben des Teams...\nZum Beitrag: OpenSSL 3.0: Kritische Schwachstelle soll am 1.11. gepatcht werden\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
+          "link": "https://stadt-bremerhaven.de/openssl-3-0-kritische-schwachstelle-soll-am-1-11-gepatcht-werden/",
+          "publishedOn": "2022-10-31T15:10:07.000Z",
+          "wordCount": 1873,
+          "title": "OpenSSL 3.0: Kritische Schwachstelle soll am 1.11. gepatcht werden",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2018/07/Server-Daten.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1136568",
+          "author": "caschy",
+          "description": "Ihr versucht euch gerade bei Instagram einzuloggen, aber es gibt gar keine Möglichkeit, da euer Account verschwunden scheint? Oder ihr könnt euch gar nicht erst einloggen? Da seid ihr nicht alleine, denn weltweit haben Nutzer diese Probleme, die erstmalig am...\nZum Beitrag: Instagram: Account verschwunden oder kein Zugang?\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
+          "link": "https://stadt-bremerhaven.de/instagram-account-verschwunden-oder-kein-zugang/",
+          "publishedOn": "2022-10-31T14:40:44.000Z",
+          "wordCount": 1762,
+          "title": "Instagram: Account verschwunden oder kein Zugang?",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2021/01/Instagram-Logo-2020.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1136544",
+          "author": "André Westphal",
+          "description": "Eigentlich bin ich selbst vor allem in den Genres der Rollenspiele, Third-Person-Action und Adventures jeglicher Couleur zu Hause. Generell werden Open-World-Titel bei mir immer gerne genommen. Durch Zufall kam ich jedoch, man sollte es kaum glauben, vor einigen Jahren auf...\nZum Beitrag: „PGA Tour 2K23“ im Test\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
+          "link": "https://stadt-bremerhaven.de/pga-tour-2k23-im-test/",
+          "publishedOn": "2022-10-31T14:30:52.000Z",
+          "wordCount": 2448,
+          "title": "„PGA Tour 2K23“ im Test",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/10/PGA-Tour-2K23.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1135994",
+          "author": "André Westphal",
+          "description": "Wahrscheinlich erhalten nicht nur wir im Blog-Team, sondern auch so gut wie alle Leser, täglich Scam-Nachrichten im Postfach. Spamfilter bewahren vor einem Teil des Bombardements, dennoch tröpfelt immer mal wieder etwas durch. Die Sicherheitsexperten von Check Point Research kommen dabei...\nZum Beitrag: Scammer geben sich bevorzugt als DHL aus\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
+          "link": "https://stadt-bremerhaven.de/scammer-geben-sich-bevorzugt-als-dhl-aus/",
+          "publishedOn": "2022-10-31T13:30:38.000Z",
+          "wordCount": 2186,
+          "title": "Scammer geben sich bevorzugt als DHL aus",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/10/dhl-paket-gogreen-delivery-1592x896.web_.1592.896.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1136548",
+          "author": "caschy",
+          "description": "Neulich gab es für Provider noch Schelte von der Bundesnetzagentur, nun haben o2 und Vodafone am 31. Oktober erst einmal neue Wasserstände veröffentlicht. So sei man fleißig gewesen. O2 Telefónica komme laut Unternehmensangaben beim bundesweiten Aufbau seines 5G-Netzes »deutlich schneller«...\nZum Beitrag: Vodafone und o2: Ausbau bei LTE und 5G\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
+          "link": "https://stadt-bremerhaven.de/vodafone-und-o2-ausbau-bei-lte-und-5g/",
+          "publishedOn": "2022-10-31T12:30:59.000Z",
+          "wordCount": 2278,
+          "title": "Vodafone und o2: Ausbau bei LTE und 5G",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/02/mobile-iPhone-smartphone-paul-hanaoka-HbyYFFokvm0-unsplash_.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1136511",
+          "author": "André Westphal",
+          "description": "„Sackboy: A Big Adventure“ hatte ich bereits zum Launch der Sony PlayStation 5 hier im Blog getestet. Ich bin seit langem Fan der Spielereihe „Little Big Planet“ und habe auch das jüngste Spin-off somit sehr genossen. Die farbenfrohe Welt von...\nZum Beitrag: „Sackboy: A Big Adventure“: PC-Version ausprobiert\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
+          "link": "https://stadt-bremerhaven.de/sackboy-a-big-adventure-pc-version-ausprobiert/",
+          "publishedOn": "2022-10-31T11:30:47.000Z",
+          "wordCount": 2103,
+          "title": "„Sackboy: A Big Adventure“: PC-Version ausprobiert",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/10/Sackboy-Big.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1136361",
+          "author": "André Westphal",
+          "description": "Der November bricht morgen an und da ist es an der Zeit, die Blog-Umfrage aus dem Oktober 2022 auszuwerten, damit ein neues Thema in den Fokus rücken kann. In diesem Monat hatte ich euch gefragt: Achtet ihr beim Neukauf auf...\nZum Beitrag: Auswertung Umfrage Oktober 2022: Energieeffizienz ist den Lesern durchaus wichtig\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
+          "link": "https://stadt-bremerhaven.de/auswertung-umfrage-oktober-2022-energieeffizienz-ist-den-lesern-durchaus-wichtig/",
+          "publishedOn": "2022-10-31T10:45:25.000Z",
+          "wordCount": 1955,
+          "title": "Auswertung Umfrage Oktober 2022: Energieeffizienz ist den Lesern durchaus wichtig",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/09/Energie-Strom.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1136542",
+          "author": "caschy",
+          "description": "Nicht ganz überraschend: Bosch wird seinen kostenpflichtigen „Help Connect Notruf-Service“ Ende November 2022 einstellen. Worum handelt es sich? Um einen 24/7-Notrufservice. Durch den 24/7-Schutz wird laut Bosch im Falle eines Brandes, Einbruchs oder Wasseraustritts umgehend Hilfe koordiniert. Wenn Nutzer nicht...\nZum Beitrag: Bosch: „Help Connect Notruf-Service“ wird eingestellt\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
+          "link": "https://stadt-bremerhaven.de/bosch-help-connect-notruf-service-wird-eingestellt/",
+          "publishedOn": "2022-10-31T10:00:56.000Z",
+          "wordCount": 1893,
+          "title": "Bosch: „Help Connect Notruf-Service“ wird eingestellt",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/03/bosch_.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1136535",
+          "author": "caschy",
+          "description": "Solltet ihr zu den Nutzern gehören, die derzeit ein Smart Home mit Komponenten von Aqara einrichten wollen, dann müsst ihr, sofern ihr Android nutzt, aktuell zu einer APK-Datei greifen, denn derzeit ist die Aqara-App zur Steuerung und Einrichtung nicht im...\nZum Beitrag: Aqara: Smart-Home-App derzeit nicht im Google Play Store\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
+          "link": "https://stadt-bremerhaven.de/aqara-smart-home-app-derzeit-nicht-im-google-play-store/",
+          "publishedOn": "2022-10-31T09:15:14.000Z",
+          "wordCount": 1644,
+          "title": "Aqara: Smart-Home-App derzeit nicht im Google Play Store",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/10/aqara-logo_.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1136533",
+          "author": "caschy",
+          "description": "Nutzer, die ihr Google Pixel 7 mit einem Fahrzeug per Kabel verbunden haben, um Android Auto zu nutzen, konnten in der letzten Zeit Pech gehabt haben. Laut zahlreicher Beschwerden in den Produktforen von Google gab es wohl das Problem, dass...\nZum Beitrag: Android Auto: Google hat einen Pixel-7-Bug behoben\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
+          "link": "https://stadt-bremerhaven.de/android-auto-google-hat-einen-pixel-7-bug-behoben/",
+          "publishedOn": "2022-10-31T08:30:35.000Z",
+          "wordCount": 2110,
+          "title": "Android Auto: Google hat einen Pixel-7-Bug behoben",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/05/android-auto_.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1136538",
+          "author": "caschy",
+          "description": "Nutzer von Samsung-Smartphones wissen es vermutlich. Microsoft und Samsung haben seit vielen Jahren eine Partnerschaft, die dafür sorgt, dass einige Funktionen der „Smartphone-Link“-App exklusiv für Samsung-Smartphone-Besitzer sind. Die App, mit der sich das Android-Smartphone mit dem Windows-PC für einige Mehrwert-Funktionen...\nZum Beitrag: Windows: Smartphone-Link bekommt Hotspot-Zugriff\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
+          "link": "https://stadt-bremerhaven.de/windows-smartphone-link-bekommt-hotspot-zugriff/",
+          "publishedOn": "2022-10-31T07:45:27.000Z",
+          "wordCount": 1652,
+          "title": "Windows: Smartphone-Link bekommt Hotspot-Zugriff",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/10/FgLebP6VQAAmGv0_.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1135816",
+          "author": "Benjamin Mamerow",
+          "description": "Die vierteilige Mini-Serie „FIFA Uncovered“ wird am 9. November 2022 weltweit auf Netflix verfügbar werden und soll einen strengen Blick hinter die ach so schönen Fassaden der FIFA werfen. Kernthemen sind dabei unter anderem Betrug, Korruption und Verschwörungen. Produziert wird...\nZum Beitrag: FIFA Uncovered: Netflix zeigt ersten Trailer zur kommenden Mini-Serie\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
+          "link": "https://stadt-bremerhaven.de/fifa-uncovered-netflix-zeigt-ersten-trailer-zur-kommenden-mini-serie/",
+          "publishedOn": "2022-10-31T07:00:12.000Z",
+          "wordCount": 1902,
+          "title": "FIFA Uncovered: Netflix zeigt ersten Trailer zur kommenden Mini-Serie",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/10/Netflix_Logo_RGB_.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1136530",
+          "author": "caschy",
+          "description": "Laut Medienberichten möchte Elon Musk Besitzer eines blauen Hakens bei Twitter zur Kasse bitten. Der blaue Haken ist für verifizierte Nutzer, also jene, die nachgewiesen haben, dass sie auch wirklich »sie« sind – und nicht irgendein Troll- oder Fake-Account, von...\nZum Beitrag: Twitter: Der blaue Haken könnte zukünftig kosten\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
+          "link": "https://stadt-bremerhaven.de/twitter-der-blaue-haken-koennte-zukuenftig-kosten/",
+          "publishedOn": "2022-10-31T06:01:35.000Z",
+          "wordCount": 3423,
+          "title": "Twitter: Der blaue Haken könnte zukünftig kosten",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/05/Twitter-logo-2022.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1136515",
+          "author": "caschy",
+          "description": "Notiz-Apps gibt es einen ganzen Haufen. Mit ihnen werden unterschiedliche Dinge erfüllt. Da gibt’s natürlich die großen Sammel-Tools wie OneNote, oder die iPad-Spezialisten GoodNotes, Notability sowie auch Agenda und Simplenote – oder man nutzt Google Keep oder die Apple Notizen....\nZum Beitrag: FSNotes 6 erschienen: Notiz-App für macOS\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
+          "link": "https://stadt-bremerhaven.de/fsnotes-6-erschienen-notiz-app-fuer-macos/",
+          "publishedOn": "2022-10-31T05:30:57.000Z",
+          "wordCount": 1890,
+          "title": "FSNotes 6 erschienen: Notiz-App für macOS",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/10/fsnotes_.jpg"
+        },
+        {
           "id": "https://stadt-bremerhaven.de/?p=1136518",
           "author": "caschy",
           "description": "Die Entwickler von KeePassXC haben Version 2.7.4 für die Benutzer freigegeben. Der Passwortmanager ist ein Fork von KeePassX, der für Linux, macOS und Windows bereitgestellt wird, KeePass-Datenbanken unterstützt und diese mit AES und einem 256-Bit-Key verschlüsselt. KeePassXC ist kostenlos und...\nZum Beitrag: KeePassXC: Version 2.7.4 des Passwortmanagers behebt einige Fehler\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
@@ -4849,126 +5039,6 @@
           "wordCount": 2362,
           "title": "Ikea Dirigera Hub in Deutschland gelistet",
           "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/08/ikea-dirigera_.jpg"
-        },
-        {
-          "id": "https://stadt-bremerhaven.de/?p=1132105",
-          "author": "Gastautor",
-          "description": "Wieder einmal meldet sich an dieser Stelle unser Gastautor Stefan mit seinem Cloud-Gaming-Rückblick am Sonntag zurück. Einige der Themen wurden in der vergangenen Woche hier bereits verbloggt, andere Inhalte bringt Stefan aus seinem Fundus mit eigenen Quellen mit. Mit dabei...\nZum Beitrag: Der Cloud-Gaming-Rückblick am Sonntag – KW 39\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
-          "link": "https://stadt-bremerhaven.de/der-cloud-gaming-rueckblick-am-sonntag-kw-39/",
-          "publishedOn": "2022-10-02T13:30:59.000Z",
-          "wordCount": 3290,
-          "title": "Der Cloud-Gaming-Rückblick am Sonntag – KW 39",
-          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/07/xbox-cloud_.jpg"
-        },
-        {
-          "id": "https://stadt-bremerhaven.de/?p=1132363",
-          "author": "André Westphal",
-          "description": "Ich denke, viele von euch haben es lange kommen sehen: Google Stadia wird im Januar 2023 eingestampft. Für mich war das Ende quasi mit der Schließung des internen Entwicklerstudios besiegelt. Denn ab jenem Zeitpunkt war klar, dass dem Cloud-Gaming-Angebot das...\nZum Beitrag: Google Stadia: Bewahrt Google die Stadia Controller mit einem Bluetooth-Update vor dem Elektroschrott?\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
-          "link": "https://stadt-bremerhaven.de/google-stadia-bewahrt-google-die-stadia-controller-mit-einem-bluetooth-update-vor-dem-elektroschrott/",
-          "publishedOn": "2022-10-02T12:00:50.000Z",
-          "wordCount": 2288,
-          "title": "Google Stadia: Bewahrt Google die Stadia Controller mit einem Bluetooth-Update vor dem Elektroschrott?",
-          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/10/google_stadia_controller-scaled.jpg"
-        },
-        {
-          "id": "https://stadt-bremerhaven.de/?p=1131921",
-          "author": "André Westphal",
-          "description": "Das Spiel „Serial Cleaners“ flog komplett unter meinem Radar. So wusste ich nicht einmal, dass es sich hier um ein Sequel handelt, denn auch der erste Part namens „Serial Cleaner“ aus dem Jahr 2017 rauschte an mir vorbei. Der Vertrieb...\nZum Beitrag: „Serial Cleaners“ angespielt: Überraschend gutes Stealth-Game\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
-          "link": "https://stadt-bremerhaven.de/serial-cleaners-angespielt-ueberraschend-gutes-stealth-game/",
-          "publishedOn": "2022-10-02T10:30:44.000Z",
-          "wordCount": 2391,
-          "title": "„Serial Cleaners“ angespielt: Überraschend gutes Stealth-Game",
-          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/10/Serial-Cleaners.jpg"
-        },
-        {
-          "id": "https://stadt-bremerhaven.de/?p=1132353",
-          "author": "André Westphal",
-          "description": "Die Google Pixel Watch war zwischenzeitlich bereits bei Amazon.de gelistet. Ich selbst konnte nicht rechtzeitig einen Blick auf die Listung werfen, bei Reddit hatten einige Nutzer aber Glück. So ließen sich aus den Angaben wieder mal einige Einzelheiten zu Googles...\nZum Beitrag: Google Pixel Watch zwischenzeitlich bereits bei Amazon.de gelistet\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
-          "link": "https://stadt-bremerhaven.de/google-pixel-watch-zwischenzeitlich-bereits-bei-amazon-de-gelistet/",
-          "publishedOn": "2022-10-02T08:58:57.000Z",
-          "wordCount": 2731,
-          "title": "Google Pixel Watch zwischenzeitlich bereits bei Amazon.de gelistet",
-          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/05/Google_Pixel_Watch_1_.jpg"
-        },
-        {
-          "id": "https://stadt-bremerhaven.de/?p=1131685",
-          "author": "André Westphal",
-          "description": "Die Marktforscher der GfK kommen in ihren letzten Untersuchungen zu den Aussagen, dass starke Kaufkrafteinbußen das Konsumklima weiter abstürzen lassen. GfK prognostiziert für das Konsumklima für Oktober 2022 -42,5 Punkte und damit 5,7 Punkte weniger als im September dieses Jahres...\nZum Beitrag: GfK-Studie: Kaufkrafteinbußen lassen Konsumklima weiter abstürzen\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
-          "link": "https://stadt-bremerhaven.de/gfk-studie-kaufkrafteinbussen-lassen-konsumklima-weiter-abstuerzen/",
-          "publishedOn": "2022-10-02T08:00:20.000Z",
-          "wordCount": 3177,
-          "title": "GfK-Studie: Kaufkrafteinbußen lassen Konsumklima weiter abstürzen",
-          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2021/08/euro-geld.webp"
-        },
-        {
-          "id": "https://stadt-bremerhaven.de/?p=1132349",
-          "author": "caschy",
-          "description": "Die neuen Apple Watches können die Temperatur am Handgelenk überwachen. Die Handgelenktemperatur ist eine Messung, die sich auf die Körpertemperatur bezieht, die von eurer Apple Watch gemessen wird, während ihr schlaft. Eure Körpertemperatur schwankt von Natur aus und kann jede...\nZum Beitrag: Apple Health: Handgelenktemperatur in Grad Celsius betrachten\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
-          "link": "https://stadt-bremerhaven.de/apple-health-handgelenktemperatur-in-grad-celsius-betrachten/",
-          "publishedOn": "2022-10-02T07:00:52.000Z",
-          "wordCount": 2262,
-          "title": "Apple Health: Handgelenktemperatur in Grad Celsius betrachten",
-          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/09/apple-watch-Ultra_-1.jpg"
-        },
-        {
-          "id": "https://stadt-bremerhaven.de/?p=1132347",
-          "author": "caschy",
-          "description": "Amazon hat derzeit einige Aktionen im Feuer. So kann man beispielsweise 4 Monate Amazon Music Unlimited kostenlos bekommen, aber es gibt auch 3 Monate Audible gratis, da könnt ihr dann ein paar Hörbücher beziehen. Wer lieber etwas liest, der kann...\nZum Beitrag: Amazon Kindle Unlimited: 3 Monate kostenlos\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
-          "link": "https://stadt-bremerhaven.de/amazon-kindle-unlimited-3-monate-kostenlos/",
-          "publishedOn": "2022-10-02T06:30:36.000Z",
-          "wordCount": 1750,
-          "title": "Amazon Kindle Unlimited: 3 Monate kostenlos",
-          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/02/kindle-unlimited_.jpg"
-        },
-        {
-          "id": "https://stadt-bremerhaven.de/?p=1132341",
-          "author": "André Westphal",
-          "description": "YouTube bietet euch Inhalte in unterschiedlichen Auflösungen an: Ein paar Clips liegen sogar in 8K vor. Wie einige Nutzer bei Reddit berichten, führt die Plattform aber offensichtlich mit einigen „Auserwählten“ einen Test durch: Sie können keine Inhalte mehr frei ansehen,...\nZum Beitrag: YouTube Premium: Exklusivität der 4K- und 8K-Auflösungen für Abonnenten wird getestet\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
-          "link": "https://stadt-bremerhaven.de/youtube-premium-exklusivitaet-der-4k-aufloesung-fuer-abonnenten-wird-getestet/",
-          "publishedOn": "2022-10-02T06:00:11.000Z",
-          "wordCount": 3852,
-          "title": "YouTube Premium: Exklusivität der 4K- und 8K-Auflösungen für Abonnenten wird getestet",
-          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2018/07/YouTube-Logo.jpg"
-        },
-        {
-          "id": "https://stadt-bremerhaven.de/?p=1132166",
-          "author": "André Westphal",
-          "description": "In dieser Woche gab es so einige News, auf die es sich lohnt, am frühen Sonntagmorgen ein wenig zurückzublicken. Beispielsweise hat Google den Hammer fallen lassen: Das Cloud-Gaming-Angebot Stadia wird ersatzlos gestrichen. In den Kommentaren habt ihr bereits eifrig über...\nZum Beitrag: Immer wieder sonntags KW 39\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
-          "link": "https://stadt-bremerhaven.de/immer-wieder-sonntags-kw-39-9/",
-          "publishedOn": "2022-10-02T04:30:52.000Z",
-          "wordCount": 2261,
-          "title": "Immer wieder sonntags KW 39",
-          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/07/Kaffee-Sonntags.jpg"
-        },
-        {
-          "id": "https://stadt-bremerhaven.de/?p=1130133",
-          "author": "Olli",
-          "description": "Apple hat am 7. September nicht nur neue iPhones vorgestellt, sondern bringt wie jedes Jahr auch eine neue Apple Watch auf den Markt. Der Konzern hat dieses Mal gleich drei Stück vorgestellt, die Apple Watch Ultra, Series 8 und eine...\nZum Beitrag: Apple Watch Series 8 und SE angeschaut – „If it ain’t broke, don’t fix it“\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
-          "link": "https://stadt-bremerhaven.de/apple-watch-series-8-und-se-angeschaut-if-it-aint-broke-dont-fix-it/",
-          "publishedOn": "2022-10-01T18:00:54.000Z",
-          "wordCount": 3620,
-          "title": "Apple Watch Series 8 und SE angeschaut – „If it ain’t broke, don’t fix it“",
-          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/09/photo_2022-09-26_20-12-47.jpg"
-        },
-        {
-          "id": "https://stadt-bremerhaven.de/?p=1132190",
-          "author": "André Westphal",
-          "description": "Im letzten Monat hatte ich euch danach gefragt, wie ihr zum öffentlich-rechtlichen Rundfunk in Deutschland steht. Es ging um die Frage, ob das System erhalten, reformiert oder gar abgeschafft werden sollte. Die Resonanz war enorm: Über 13.100 Leser haben sich...\nZum Beitrag: Auswertung Umfrage September 2022: Gros der Leser kritisch gegenüber dem öffentlich-rechtlichen Rundfunk\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
-          "link": "https://stadt-bremerhaven.de/auswertung-umfrage-september-2022-gros-der-leser-kritisch-gegenueber-dem-oeffentlich-rechtlichen-rundfunk/",
-          "publishedOn": "2022-10-01T16:30:09.000Z",
-          "wordCount": 1959,
-          "title": "Auswertung Umfrage September 2022: Gros der Leser kritisch gegenüber dem öffentlich-rechtlichen Rundfunk",
-          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2020/03/ard-zdf.jpg"
-        },
-        {
-          "id": "https://stadt-bremerhaven.de/?p=1132318",
-          "author": "André Westphal",
-          "description": "Facebook hatte in seiner Android-App bisher für den In-App-Browser auf WebView des Systems, basierend auf Chromium gesetzt. Laut dem sozialen Netzwerk hatte das aber in der Vergangenheit mehrere Probleme zur Folge: Etwa müssen die Anwender Chrome und WebView separat und...\nZum Beitrag: Facebook koppelt seinen In-App-Browser von Androids WebView ab\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
-          "link": "https://stadt-bremerhaven.de/facebook-koppelt-seinen-in-app-browser-von-androids-webview-ab/",
-          "publishedOn": "2022-10-01T15:00:41.000Z",
-          "wordCount": 2045,
-          "title": "Facebook koppelt seinen In-App-Browser von Androids WebView ab",
-          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/10/Facebook-Browser-Chromium.webp"
         }
       ]
     },
@@ -4977,6 +5047,116 @@
       "feedUrl": "https://www.computerbase.de/rss/news.xml",
       "siteUrl": "https://www.computerbase.de/",
       "articles": [
+        {
+          "id": "https://www.computerbase.de/2022-10/twitter-blue-abo-elon-musk-wirtschaft/",
+          "author": null,
+          "description": "<img src=\"https://pics.computerbase.de/1/0/5/5/3/4-931bd2de44cd322e/article-640x360.f2885967.jpg\"><p>Der neue Twitter-CEO Elon Musk baut den Kurznachrichtendienst kurzerhand mit einem neuen und deutlich teureren Abonnement, aber ohne jedwede Rücksichtnahme auf die Mitarbeiter weiter um. Twitter Blue soll bis zum 7. November umgestellt werden, ansonsten soll das für die Implementierung zuständigen Personal entlassen werden.</p>",
+          "link": "https://www.computerbase.de/2022-10/twitter-blue-abo-elon-musk-wirtschaft/",
+          "publishedOn": "2022-10-31T21:54:00.000Z",
+          "wordCount": 1013,
+          "title": "Abo oder Rausschmiss: Elon Musk baut Twitter ohne Rücksichtnahme weiter um",
+          "imageUrl": "https://pics.computerbase.de/1/0/5/5/3/4-931bd2de44cd322e/article-1280x720.f2885967.jpg"
+        },
+        {
+          "id": "https://www.computerbase.de/2022-10/mediatek-dimensity-9200-arm-immortalis-und-adreno-740-sollen-apple-gpu-schlagen/",
+          "author": null,
+          "description": "<img src=\"https://pics.computerbase.de/1/0/5/5/3/0-2dec5333c53f4feb/article-640x360.f32b52b9.jpg\"><p>Kommenden Monat sollen sowohl MediaTek als auch Qualcomm die nächste Generation Flaggschiff-SoC für den Einsatz in Smartphones vorstellen. Der Dimensity 9200 wird mit der neuen Arm-GPU Immortalis-G715 samt Raytracing erwartet, die schneller als Apples GPU im A16 Bionic sei. Der Snapdragon 8 Gen 2 soll ebenso schneller arbeiten.</p>",
+          "link": "https://www.computerbase.de/2022-10/mediatek-dimensity-9200-arm-immortalis-und-adreno-740-sollen-apple-gpu-schlagen/",
+          "publishedOn": "2022-10-31T16:35:00.000Z",
+          "wordCount": 1306,
+          "title": "MediaTek Dimensity 9200: Arm Immortalis und Adreno 740 sollen Apple-GPU schlagen",
+          "imageUrl": "https://pics.computerbase.de/1/0/5/5/3/0-2dec5333c53f4feb/article-1280x720.f32b52b9.jpg"
+        },
+        {
+          "id": "https://www.computerbase.de/2022-10/windows-11-windows-10-startup-timer/",
+          "author": null,
+          "description": "<img src=\"https://pics.computerbase.de/1/0/5/5/2/8-15248f69cc72aac4/article-640x360.6623f0cb.jpg\"><p>Das winzige System-Tool Startup Timer, welches jetzt in der neuesten Version 1.2 erschienen ist, findet bremsende Anwendungen im Autostart und hilft dem Anwender dabei, die Microsoft-Betriebssysteme Windows 11 und Windows 10 sowie Windows 8, Windows 8.1 und Windows 7 schneller booten und einsetzen zu können.</p>",
+          "link": "https://www.computerbase.de/2022-10/windows-11-windows-10-startup-timer/",
+          "publishedOn": "2022-10-31T16:14:00.000Z",
+          "wordCount": 934,
+          "title": "Windows schneller booten: Startup Timer macht bremsende Apps ausfindig",
+          "imageUrl": "https://pics.computerbase.de/1/0/5/5/2/8-15248f69cc72aac4/article-1280x720.6623f0cb.jpg"
+        },
+        {
+          "id": "https://www.computerbase.de/2022-10/5g-o2-telefonica-ueberholt-vodafone-beim-netzausbau/",
+          "author": null,
+          "description": "<img src=\"https://pics.computerbase.de/1/0/5/5/2/9-ddc471ea001d0fec/article-640x360.908f8545.jpg\"><p>Die Netzbetreiber O2 Telefónica und Vodafone haben heute jeweils über den aktuellen Stand des Ausbaus im Mobilfunknetz mit Fokus auf 5G berichtet. Demnach zählt Telefónica mittlerweile über 18.000 Antennen für 5G und erreicht 75 Prozent der Bevölkerung. Bei Vodafone werden 41.000 Antennen für 60 Millionen Menschen gemeldet.</p>",
+          "link": "https://www.computerbase.de/2022-10/5g-o2-telefonica-ueberholt-vodafone-beim-netzausbau/",
+          "publishedOn": "2022-10-31T16:10:00.000Z",
+          "wordCount": 974,
+          "title": "5G: O2 Telefónica überholt Vodafone beim Netzausbau",
+          "imageUrl": "https://pics.computerbase.de/1/0/5/5/2/9-ddc471ea001d0fec/article-1280x720.908f8545.jpg"
+        },
+        {
+          "id": "https://www.computerbase.de/2022-10/nvidia-geforce-rtx-4080-custom-designs-handel/",
+          "author": null,
+          "description": "<img src=\"https://pics.computerbase.de/1/0/5/5/2/7-d299cbd852b012b8/article-640x360.58b2f089.jpg\"><p>Gut zwei Wochen vor dem offiziellen Marktstart der GeForce RTX 4080 mit 16 Gigabyte GDDR6X am 16. November bevorraten sich die ersten Händler mit den entsprechenden Herstellerlösungen. Die ersten Custom-Designs sind jetzt für 1.619 bis 1.969 Euro im europäischen Einzelhandel zu finden.</p>",
+          "link": "https://www.computerbase.de/2022-10/nvidia-geforce-rtx-4080-custom-designs-handel/",
+          "publishedOn": "2022-10-31T14:59:00.000Z",
+          "wordCount": 1008,
+          "title": "GeForce RTX 4080: Erste Custom-Designs sind für 1.619 bis 1.969 Euro im Handel",
+          "imageUrl": "https://pics.computerbase.de/1/0/5/5/2/7-d299cbd852b012b8/article-1280x720.58b2f089.jpg"
+        },
+        {
+          "id": "https://www.computerbase.de/2022-10/genshin-impact-nvidia-geforce-rtx-4090-13k-gaming/",
+          "author": null,
+          "description": "<img src=\"https://pics.computerbase.de/1/0/5/5/2/5-a922e0c8d410503c/article-640x360.9d467815.jpg\"><p>Die Nvidia GeForce RTX 4090 (Test) ist die derzeit mit Abstand schnellste Grafikkarte und erreicht im beliebten Action-Rollenspiel Genshin Impact im Durchschnitt 30 Bilder pro Sekunde in der höchstmöglichen Detailstufe sowie einer enorm hohen Auflösung von 13.760 × 5.760 Pixeln und einer 1,5-fachen Rendering-Auflösung.</p>",
+          "link": "https://www.computerbase.de/2022-10/genshin-impact-nvidia-geforce-rtx-4090-13k-gaming/",
+          "publishedOn": "2022-10-31T14:37:00.000Z",
+          "wordCount": 902,
+          "title": "Genshin Impact: GeForce RTX 4090 rendert 178 Millionen Pixel mit 30 FPS",
+          "imageUrl": "https://pics.computerbase.de/1/0/5/5/2/5-a922e0c8d410503c/article-1280x720.9d467815.jpg"
+        },
+        {
+          "id": "https://www.computerbase.de/2022-10/tsmc-fertigung-planung-fuer-die-erste-300-mm-wafer-fabrik-fuer-1-nm-chips/",
+          "author": null,
+          "description": "<img src=\"https://pics.computerbase.de/1/0/5/5/2/3-c730865bea1a63ea/article-640x360.727637c0.jpg\"><p>Bei TSMC sind die Planungen für die erste Fabrik auf heimischen Boden angelaufen, die den Meilenstein der „1 nm“ erreichen soll. Real wird der Wert natürlich nicht erreicht, er steht jedoch als Marke für den nächsten großen Schritt, der nach der Einführung von Gate All Around bei TSMCs N2-Fertigung kommen soll.</p>",
+          "link": "https://www.computerbase.de/2022-10/tsmc-fertigung-planung-fuer-die-erste-300-mm-wafer-fabrik-fuer-1-nm-chips/",
+          "publishedOn": "2022-10-31T09:45:00.000Z",
+          "wordCount": 867,
+          "title": "TSMC-Fertigung: Planung für die erste 300-mm-Wafer-Fabrik für 1-nm-Chips",
+          "imageUrl": "https://pics.computerbase.de/1/0/5/5/2/3-c730865bea1a63ea/article-1280x720.727637c0.jpg"
+        },
+        {
+          "id": "https://www.computerbase.de/2022-10/adobe-creative-cloud-pantone-farben-fliegen-raus-und-verlangen-extra-abo/",
+          "author": null,
+          "description": "<img src=\"https://pics.computerbase.de/1/0/5/5/2/2-4a72fdc3d5b02b27/article-640x360.0eed5bee.jpg\"><p>Ab November benötigen Nutzer der Adobe Creative Cloud ein zusätzliches Abo, um den Großteil der erhältlichen Farbbibliotheken des Anbieters Pantone nutzen zu können. Dieser Schritt wurde bereits seit langem angekündigt, doch nun wird die Unterstützung schrittweise durch Updates entfernt.</p>",
+          "link": "https://www.computerbase.de/2022-10/adobe-creative-cloud-pantone-farben-fliegen-raus-und-verlangen-extra-abo/",
+          "publishedOn": "2022-10-31T08:05:00.000Z",
+          "wordCount": 971,
+          "title": "Adobe Creative Cloud: Pantone-Farben fliegen raus und verlangen extra Abo",
+          "imageUrl": "https://pics.computerbase.de/1/0/5/5/2/2-4a72fdc3d5b02b27/article-1280x720.0eed5bee.jpg"
+        },
+        {
+          "id": "https://www.computerbase.de/2022-10/kaos-2022-10-linux-im-portrait/",
+          "author": null,
+          "description": "<img src=\"https://pics.computerbase.de/1/0/5/2/9/1-ed186fd74f3c4878/article-640x360.bf8806dc.jpg\"><p>KaOS tritt an, die pure Essenz des jeweils neuesten KDE Plasma zu sein, und wird diesem selbst definierten Anspruch auch mit der neuesten Ausgabe, der vor wenigen Tagen erschienenen Version 2022.10, absolut gerecht. KDE Plasma 5.25.90 und Linux 5.19.13 dienen als Fundament für die „Plasma-Distribution“ mit ersten Qt-6-Apps.</p>",
+          "link": "https://www.computerbase.de/2022-10/kaos-2022-10-linux-im-portrait/",
+          "publishedOn": "2022-10-31T07:00:00.000Z",
+          "wordCount": 1784,
+          "title": "KaOS 2022.10 im Porträt: KDE Plasma 5.25.90 in seiner reinsten Form mit Qt-6-Apps",
+          "imageUrl": "https://pics.computerbase.de/1/0/5/2/9/1-ed186fd74f3c4878/article-1280x720.bf8806dc.jpg"
+        },
+        {
+          "id": "https://www.computerbase.de/2022-10/apple-neue-macbook-pro-mit-m2-fuers-erste-quartal-2023-erwartet/",
+          "author": null,
+          "description": "<img src=\"https://pics.computerbase.de/1/0/5/5/2/1-061bfc0f6507acc0/article-640x360.b6c64bb8.jpg\"><p>Neue Hardware von Apple steht für dieses Jahr nicht mehr an, wie bereits CEO Tim Cook zur Bekanntgabe der letzten Quartalszahlen zu verstehen gab. Laut Bloomberg sollen neue MacBook Pro mit M2 Pro und M2 Max gegen Ende des ersten Quartals 2023 vorgestellt werden. Zuvor sei der Release neuer Versionen von macOS und iOS geplant.</p>",
+          "link": "https://www.computerbase.de/2022-10/apple-neue-macbook-pro-mit-m2-fuers-erste-quartal-2023-erwartet/",
+          "publishedOn": "2022-10-31T06:39:00.000Z",
+          "wordCount": 1027,
+          "title": "Apple: Neue MacBook Pro mit M2 fürs erste Quartal 2023 erwartet",
+          "imageUrl": "https://pics.computerbase.de/1/0/5/5/2/1-061bfc0f6507acc0/article-1280x720.b6c64bb8.jpg"
+        },
+        {
+          "id": "https://www.computerbase.de/2022-10/ek-quantum-vector2-fe-rtx-4080d-rgb-gpu-wasserblock/",
+          "author": null,
+          "description": "<img src=\"https://pics.computerbase.de/1/0/5/5/2/0-5f9c060b1d200f40/article-640x360.40e35500.jpg\"><p>Der EK-Quantum Vector² FE RTX 4080 D-RGB, so der vollständige Name des neuen Fullcover-Wasserblocks von EKWB für die Nvidia GeForce RTX 4080, ist in zwei optisch ganz unterschiedlichen Ausführungen vorgestellt worden und kann bereits sowohl über den Hersteller selbst als auch über den Einzelhandel vorbestellt werden.</p>",
+          "link": "https://www.computerbase.de/2022-10/ek-quantum-vector2-fe-rtx-4080d-rgb-gpu-wasserblock/",
+          "publishedOn": "2022-10-31T06:30:00.000Z",
+          "wordCount": 1312,
+          "title": "EK-Quantum Vector² FE RTX 4080: Wasserkühler für die GeForce RTX 4080 FE in zwei Varianten",
+          "imageUrl": "https://pics.computerbase.de/1/0/5/5/2/0-5f9c060b1d200f40/article-1280x720.40e35500.jpg"
+        },
         {
           "id": "https://www.computerbase.de/2022-10/aorus-gen4-5000e-gigabytes-nvme-ssd-mit-5-000-mb-s-spart-strom/",
           "author": null,
@@ -7496,36 +7676,6 @@
           "wordCount": 1077,
           "title": "Tuxedo OS 1: Betriebssystem auf Basis von Ubuntu 22.04 aus Deutschland",
           "imageUrl": "https://pics.computerbase.de/1/0/5/2/0/7-bba7e0698f5880ef/article-1280x720.f6ece914.jpg"
-        },
-        {
-          "id": "https://www.computerbase.de/2022-10/nachhaltigkeit-stromverbrauch-computer-hardware/",
-          "author": null,
-          "description": "<img src=\"https://pics.computerbase.de/1/0/5/2/0/3-843b0d234371074a/article-640x360.600fab03.jpg\"><p>Die neuen CPU- und GPU-Generationen von AMD, Intel und Nvidia stehen kurz vor dem Start oder wurden bereits präsentiert und locken einmal mehr mit nochmals mehr Takt, Leistung und FPS. Doch sind 450 Watt für eine GeForce RTX 4090, 251 Watt für einen Core i9-13900K oder 230 Watt für einen Ryzen 9 7950X überhaupt noch zeitgemäß?</p>",
-          "link": "https://www.computerbase.de/2022-10/nachhaltigkeit-stromverbrauch-computer-hardware/",
-          "publishedOn": "2022-10-02T12:00:00.000Z",
-          "wordCount": 2006,
-          "title": "Nachhaltigkeit: Ist der Stromverbrauch neuer Hardware noch zeitgemäß?",
-          "imageUrl": "https://pics.computerbase.de/1/0/5/2/0/3-843b0d234371074a/article-1280x720.600fab03.jpg"
-        },
-        {
-          "id": "https://www.computerbase.de/2022-10/windows-11-2022-update-kb5017389-build-22622-608/",
-          "author": null,
-          "description": "<img src=\"https://pics.computerbase.de/1/0/5/2/0/2-3c8bce73a1cf8342/article-640x360.8b862cdb.jpg\"><p>Microsoft hat das kumulative Update KB5017389, welches zuletzt noch einmal von Insidern im Release Preview Channel unter die Lupe genommen wurde, jetzt für alle Nutzer des Windows 11 2022 Updates freigegeben und bessert den Feature Drop damit hinsichtlich noch fehlender Funktionen sowie noch zu behebender Fehler weiter nach.</p>",
-          "link": "https://www.computerbase.de/2022-10/windows-11-2022-update-kb5017389-build-22622-608/",
-          "publishedOn": "2022-10-02T12:00:00.000Z",
-          "wordCount": 1187,
-          "title": "KB5017389: Microsoft bessert am Windows 11 2022 Update nach",
-          "imageUrl": "https://pics.computerbase.de/1/0/5/2/0/2-3c8bce73a1cf8342/article-1280x720.8b862cdb.jpg"
-        },
-        {
-          "id": "https://www.computerbase.de/2022-10/wochenrueckblick-und-ausblick-2022-w39/",
-          "author": null,
-          "description": "<img src=\"https://pics.computerbase.de/1/0/5/1/9/8-96760e28b76b603a/article-640x360.eb6131e3.jpg\"><p>Die neuen Ryzen 7000 mit Zen-4-Architektur sind zum 27. September im Handel angekommen und pünktlich zum Marktstart hat ComputerBase diese Woche Anwendungs- und Spiele-Tests veröffentlicht, die viel Interesse unter den Lesern auf sich gezogen haben. Mit Raptor Lake steht aber schon ein Konter von Intel vor der Tür.</p>",
-          "link": "https://www.computerbase.de/2022-10/wochenrueckblick-und-ausblick-2022-w39/",
-          "publishedOn": "2022-10-02T06:00:00.000Z",
-          "wordCount": 1452,
-          "title": "Wochenrück- und Ausblick: Ryzen reißt in Reihe die Ränge",
-          "imageUrl": "https://pics.computerbase.de/1/0/5/1/9/8-96760e28b76b603a/article-1280x720.eb6131e3.jpg"
         }
       ]
     },
@@ -7534,6 +7684,26 @@
       "feedUrl": "https://www.ghacks.net/feed/",
       "siteUrl": "https://www.ghacks.net",
       "articles": [
+        {
+          "id": "https://www.ghacks.net/?p=181564",
+          "author": "Martin Brinkmann",
+          "description": "AMD released a performance advisory for its Ryzen 7000 series of processors. The company addresses claims in the advisory that the Ryzen 7000 family of processors have performance-related issues. Reports about performance […]\nThank you for being a Ghacks reader. The post AMD is investigating Ryzen 7000 performance issues appeared first on gHacks Technology News.",
+          "link": "https://www.ghacks.net/2022/10/31/amd-is-investigating-ryzen-7000-performance-issues/",
+          "publishedOn": "2022-10-31T15:11:28.000Z",
+          "wordCount": 2457,
+          "title": "AMD is investigating Ryzen 7000 performance issues",
+          "imageUrl": "https://www.ghacks.net/wp-content/uploads/2022/10/amd-ryzen-7000-performance-issues.png"
+        },
+        {
+          "id": "https://www.ghacks.net/?p=181560",
+          "author": "Martin Brinkmann",
+          "description": "Mozilla plans to release Firefox 106.0.3 Stable later today, if you are reading this on October 31, 2022. The new release for Firefox addresses a crash and a hang issue that may […]\nThank you for being a Ghacks reader. The post Firefox 106.0.3 fixes a crash and hangs on Windows appeared first on gHacks Technology News.",
+          "link": "https://www.ghacks.net/2022/10/31/firefox-106-0-3-fixes-a-crash-and-hangs-on-windows/",
+          "publishedOn": "2022-10-31T04:47:57.000Z",
+          "wordCount": 4178,
+          "title": "Firefox 106.0.3 fixes a crash and hangs on Windows",
+          "imageUrl": "https://www.ghacks.net/wp-content/uploads/2022/10/firefox-106.0.3.png"
+        },
         {
           "id": "https://www.ghacks.net/?p=181557",
           "author": "Martin Brinkmann",
@@ -8498,33 +8668,13 @@
           "wordCount": 2618,
           "title": "Maigret: create user dossiers based on username searches on thousands of sites",
           "imageUrl": "https://www.ghacks.net/wp-content/uploads/2022/10/maigret-username-search.png"
-        },
-        {
-          "id": "https://www.ghacks.net/?p=181053",
-          "author": "Martin Brinkmann",
-          "description": "Google experimented on YouTube to increase the company's revenue on the platform recently. After running tests with up to 10 unskippable ads before videos, users on Reddit report that YouTube limited 4K […]\nThank you for being a Ghacks reader. The post Rumor: You may soon need YouTube Premium to watch 4K video appeared first on gHacks Technology News.",
-          "link": "https://www.ghacks.net/2022/10/02/rumor-you-may-soon-need-youtube-premium-to-watch-4k-video/",
-          "publishedOn": "2022-10-02T06:20:37.000Z",
-          "wordCount": 3757,
-          "title": "Rumor: You may soon need YouTube Premium to watch 4K video",
-          "imageUrl": "https://www.ghacks.net/wp-content/uploads/2022/10/youtube-2160p-premium.png"
-        },
-        {
-          "id": "https://www.ghacks.net/?p=181050",
-          "author": "Martin Brinkmann",
-          "description": "Google published a new security update for the company's Chrome web browser that addresses three security issues in the browser. The new update comes less than a week after the release of […]\nThank you for being a Ghacks reader. The post Google released a second Chrome security update this week appeared first on gHacks Technology News.",
-          "link": "https://www.ghacks.net/2022/10/01/google-released-a-second-chrome-security-update-this-week/",
-          "publishedOn": "2022-10-01T14:54:27.000Z",
-          "wordCount": 4022,
-          "title": "Google released a second Chrome security update this week",
-          "imageUrl": "https://www.ghacks.net/wp-content/uploads/2022/10/chrome-106-security-update.png"
         }
       ]
     },
     {
-      "title": "Deutschlandfunk - Fortlaufende Nachrichten vom 31. Oktober 2022",
+      "title": "Deutschlandfunk - Fortlaufende Nachrichten vom 01. November 2022",
       "feedUrl": "https://www.deutschlandfunk.de/nachrichten-100.rss",
-      "siteUrl": "https://www.deutschlandfunk.de/nachrichten-index-25900.html",
+      "siteUrl": "https://www.deutschlandfunk.de/nachrichten-index-25914.html",
       "articles": []
     }
   ],
