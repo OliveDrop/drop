@@ -2,10 +2,534 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://olivedrop.github.io/drop/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-01T02:33:32.806Z</updated>
+    <updated>2022-11-02T02:23:28.053Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://olivedrop.github.io/drop/index.html"/>
     <link rel="self" href="https://olivedrop.github.io/drop/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Quartalszahlen: AMDs Gewinn verpufft durch Ryzen und Xilinx]]></title>
+        <id>https://www.computerbase.de/2022-11/quartalszahlen-amds-gewinn-verpufft-durch-ryzen-und-xilinx/</id>
+        <link href="https://www.computerbase.de/2022-11/quartalszahlen-amds-gewinn-verpufft-durch-ryzen-und-xilinx/"/>
+        <updated>2022-11-01T21:04:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/5/5/2-0f5ea3596ba24cdd/article-640x360.baac2f1a.jpg"><p>Nach der Umsatzwarnung vor einigen Wochen und dem Absturz von Hauptkonkurrent Intel in vielen Segmenten wurden am Abend mit Spannung AMDs Quartalszahlen für den Sommerzeitraum erwartet. Und auch AMD kam nicht ohne Wunden davon.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenSSL 3.0: Patch 3.0.7 für kritische Schwachstelle ist da]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1136739</id>
+        <link href="https://stadt-bremerhaven.de/openssl-3-0-patch-3-0-7-fuer-kritische-schwachstelle-ist-da/"/>
+        <updated>2022-11-01T20:30:51.000Z</updated>
+        <summary type="html"><![CDATA[Das Bundesamt für Sicherheit in der Informationstechnik hatte über eine kritische Schwachstelle in OpenSSL 3.0 berichtet. Man könne da eine größere Betroffenheit von IT-Systemen nicht ausschließen, weshalb man das Ganze als IT-Bedrohungsstufe 3 (Orange) einsortierte. Bedeutet: »Die IT-Bedrohungslage ist geschäftskritisch....
+Zum Beitrag: OpenSSL 3.0: Patch 3.0.7 für kritische Schwachstelle ist da
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>Felix Frank</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Enpass aktuell mit Startproblemen unter Windows]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1136723</id>
+        <link href="https://stadt-bremerhaven.de/enpass-aktuell-mit-startproblemen-unter-windows/"/>
+        <updated>2022-11-01T20:00:28.000Z</updated>
+        <summary type="html"><![CDATA[Solltet ihr kürzlich auf die aktuelle Version von Enpass aktualisiert haben und diesen Passwortmanager unter Windows verwenden, dann kann es gut sein, dass sich das Programm aktuell gar nicht erst starten lässt und stattdessen den Fehlercode 0x803F8001 ausspuckt. Zwar gibt...
+Zum Beitrag: Enpass aktuell mit Startproblemen unter Windows
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>Benjamin Mamerow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shokz OpenRun Pro Mini: Knochenschall-Kopfhörer startet für 189,95 Euro]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1136715</id>
+        <link href="https://stadt-bremerhaven.de/shokz-openrun-pro-mini-knochenschall-kopfhoerer-startet-fuer-18995-euro/"/>
+        <updated>2022-11-01T19:30:52.000Z</updated>
+        <summary type="html"><![CDATA[Ich hatte ja bereits den Shokz OpenRun Pro hier im Blog getestet. Er ist für mich immer noch beim Joggen der Kopfhörer der Wahl. Jenes Modell ist sozusagen der große Bruder des OpenRun, welcher ja mittlerweile auch als Mini-Variante zu...
+Zum Beitrag: Shokz OpenRun Pro Mini: Knochenschall-Kopfhörer startet für 189,95 Euro
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[„Total War: Medieval II – Kingdoms“ erscheint am 10.11.2022 für Apple iOS und Android]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1136710</id>
+        <link href="https://stadt-bremerhaven.de/total-war-medieval-ii-kingdoms-erscheint-am-10-11-2022-fuer-apple-ios-und-android/"/>
+        <updated>2022-11-01T18:45:55.000Z</updated>
+        <summary type="html"><![CDATA[Die Entwickler von Feral Interactive haben mitgeteilt, dass am 10. November 2022 die Strategiespiel-Erweiterung „Total War: Medieval II – Kingdoms“ für Apple iOS und Android erscheint. Das umfangreiche Add-on enthält vier neue Kampagnen, die dann über einen einzelnen In-App-Kauf freigeschaltet...
+Zum Beitrag: „Total War: Medieval II – Kingdoms“ erscheint am 10.11.2022 für Apple iOS und Android
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Activision-Blizzard: EU wird Übernahme durch Microsoft genauer prüfen]]></title>
+        <id>https://www.computerbase.de/2022-11/activision-blizzard-eu-wird-uebernahme-durch-microsoft-genauer-pruefen/</id>
+        <link href="https://www.computerbase.de/2022-11/activision-blizzard-eu-wird-uebernahme-durch-microsoft-genauer-pruefen/"/>
+        <updated>2022-11-01T18:19:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/5/4/8-c64bebe342758686/article-640x360.7b856855.jpg"><p>Es soll die größte Übernahme der Gaming-Branche werden. Für 68,7 Milliarden US-Dollar will Microsoft Activision-Blizzard und damit das Unternehmen hinter Call of Duty und Diablo übernehmen. Die Wettbewerbshüter der EU werden laut Berichten nun aber genauer prüfen, ob der Deal zustande kommen darf.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RTX 4090 HOF: Galax verbaut zwei 12VHPWR-Stecker für bis zu 1.275 Watt]]></title>
+        <id>https://www.computerbase.de/2022-11/rtx-4090-hof-galax-verbaut-zwei-12vhpwr-stecker-fuer-bis-zu-1-275-watt/</id>
+        <link href="https://www.computerbase.de/2022-11/rtx-4090-hof-galax-verbaut-zwei-12vhpwr-stecker-fuer-bis-zu-1-275-watt/"/>
+        <updated>2022-11-01T18:04:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/5/4/4-9a93ccbfa3d3a86b/article-640x360.251f2a8a.jpg"><p>Bereits vor dem Start der brachialen Nvidia RTX 4090 (Test) berichtete ComputerBase über zahlreiche Custom-Designs der ersten Ada-Grafikkarte. Einige Modelle stechen besonders hervor, wie beispielsweise Manlis RTX 4090 Gallardo mit einer Wasserwaage. Oder nun Galax' RTX 4090 HOF, die mit gleich zwei 12VHPWR-Steckern daherkommt.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[„Sackboy: A Big Adventure“: PC-Launch verläuft schleppend]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1136673</id>
+        <link href="https://stadt-bremerhaven.de/sackboy-a-big-adventure-pc-launch-verlaeuft-schleppend/"/>
+        <updated>2022-11-01T18:00:11.000Z</updated>
+        <summary type="html"><![CDATA[Erst gestern habe ich meinen Anspielbericht zu „Sackboy: A Big Adventure“ für den PC veröffentlicht. Ursprünglich erschien dieser Titel bereits 2020 als einer der Launch-Titel für die Sony PlayStation 5 – und auch für die PlayStation 4. Wie zumindest aus...
+Zum Beitrag: „Sackboy: A Big Adventure“: PC-Launch verläuft schleppend
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows 10 sehr beliebt – und auch Windows 7 wird noch genutzt]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1136638</id>
+        <link href="https://stadt-bremerhaven.de/windows-10-sehr-beliebt-und-auch-windows-7-wird-noch-genutzt/"/>
+        <updated>2022-11-01T17:30:30.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft hat im Oktober die zweite Stufe des Rollouts für das große Update auf Windows 11 Version 22H2 losgetreten, rund 1 Jahr nach der Veröffentlichung der ersten Version von Windows 11. Grund genug für uns, mal wieder einen Blick in...
+Zum Beitrag: Windows 10 sehr beliebt – und auch Windows 7 wird noch genutzt
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Miles Mobility übernimmt den Carsharing-Anbieter WeShare]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1136705</id>
+        <link href="https://stadt-bremerhaven.de/miles-mobility-uebernimmt-den-carsharing-anbieter-weshare/"/>
+        <updated>2022-11-01T17:00:18.000Z</updated>
+        <summary type="html"><![CDATA[Miles Mobility hat zum 01.11.2022 den vollelektrischen Carsharing-Anbieter WeShare übernommen, wie man per Pressemitteilung bestätigt. WeShare war zuletzt mit rund 2.000 Fahrzeugen in Berlin und Hamburg aktiv und ein Service der Urban Mobility International GmbH, bis dato eine Gesellschaft der...
+Zum Beitrag: Miles Mobility übernimmt den Carsharing-Anbieter WeShare
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[realme C33: Neues Einstiegs-Smartphone startet für 169 Euro]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1136666</id>
+        <link href="https://stadt-bremerhaven.de/realme-c33-neues-einstiegs-smartphone-startet-fuer-169-euro/"/>
+        <updated>2022-11-01T16:30:13.000Z</updated>
+        <summary type="html"><![CDATA[realme bringt mit dem C33 ein neues Einstiegs-Smartphone auf den Markt. Im Ausland ist dieses Modell scon seit Anfang September 2022 zu haben, mittlerweile hat es seinen Weg nach Deutschland gefunden. Zu den technischen Daten gehören ein LC-Display mit 6,5...
+Zum Beitrag: realme C33: Neues Einstiegs-Smartphone startet für 169 Euro
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Game Pass im November 2022 mit „Return to Monkey Island“ und mehr]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1136698</id>
+        <link href="https://stadt-bremerhaven.de/game-pass-diese-spiele-kommen-im-november-2022-neu-dazu/"/>
+        <updated>2022-11-01T16:00:26.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft hat die kommenden Neuzugänge für die Spiele-Flatrate Game Pass bestätigt. Es sind Titel für die Xbox-Konsolen, den PC, aber auch das Cloud-Gaming mit von der Partie. Nicht nur ich freue mich da sicherlich auf „Return to Monkey Island“. Ohne...
+Zum Beitrag: Game Pass im November 2022 mit „Return to Monkey Island“ und mehr
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EU-Kommission plant wohl genauere Prüfung der Übernahme von Activision Blizzard]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1136679</id>
+        <link href="https://stadt-bremerhaven.de/eu-kommission-plant-wohl-genauere-pruefung-der-uebernahme-von-activision-blizzard/"/>
+        <updated>2022-11-01T15:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft könnte es immer schwerer haben, seine geplante Übernahme von Activision Blizzard unbehelligt durchzuboxen. Die britischen Wettbewerbshüter der CMA haben bereits eine tiefergehende Prüfung angekündigt. Sie folgten dabei im Wesentlichen Sonys Kritikpunkten an dem Deal und befürchten, der Einfluss der...
+Zum Beitrag: EU-Kommission plant wohl genauere Prüfung der Übernahme von Activision Blizzard
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WhatsApp: Inhalte zur einmaligen Ansicht sind nur noch mobil abrufbar]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1136692</id>
+        <link href="https://stadt-bremerhaven.de/whatsapp-inhalte-zur-einmaligen-ansicht-sind-nur-noch-mobil-abrufbar/"/>
+        <updated>2022-11-01T14:58:04.000Z</updated>
+        <summary type="html"><![CDATA[WhatsApp bietet euch auch die Chance, Inhalte zu versenden, die nur ein einziges Mal angesehen werden können. Danach werden sie automatisch entfernt. Erst kürzlich hatte der Messenger da nachgebessert und auch das Anfertigen von Screenshots bzw. Video-Aufzeichnungen (Screen Recording) endlich...
+Zum Beitrag: WhatsApp: Inhalte zur einmaligen Ansicht sind nur noch mobil abrufbar
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[„Call of Duty“: Microsoft will die Spielereihe dauerhaft für PlayStation-Konsolen anbieten]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1136650</id>
+        <link href="https://stadt-bremerhaven.de/call-of-duty-microsoft-will-die-spielereihe-dauerhaft-fuer-playstation-konsolen-anbieten/"/>
+        <updated>2022-11-01T14:30:43.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft will Activision Blizzard übernehmen. Doch Sony erweist sich als größer Gegner der Übernahme und lobbyiert entsprechend auch bei internationalen Wettbewerbshütern. So war man mit Microsofts bisherigen Zusagen rund um das Franchise „Call of Duty“ unzufrieden. Die Redmonder hatten weitere...
+Zum Beitrag: „Call of Duty“: Microsoft will die Spielereihe dauerhaft für PlayStation-Konsolen anbieten
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CB-Screenshotwettbewerb: Die Community sucht Bilder aus „the middle of the night“ [Notiz]]]></title>
+        <id>https://www.computerbase.de/2022-11/cb-screenshotwettbewerb-die-community-sucht-bilder-aus-the-middle-of-the-night/</id>
+        <link href="https://www.computerbase.de/2022-11/cb-screenshotwettbewerb-die-community-sucht-bilder-aus-the-middle-of-the-night/"/>
+        <updated>2022-11-01T14:25:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/5/4/3-ba8422939d67f4ca/article-640x360.3942724d.jpg"><p>Letzten Monat nahm der Screenshotwettbewerb der ComputerBase-Community nach einer kurzen Sommerpause einen neuen Anlauf. Über sechs Monate werden sechs Wettbewerbe abgehalten, in Rahmen derer sich bis inklusive März 2023 Punkte sammeln lassen. Diesmal werden Aufnahmen zum Thema „in the middle of the night“ gesucht.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PCIe-5.0-SSDs: Japanischer Händler verlangt doppelten Preis zu PCIe 4.0]]></title>
+        <id>https://www.computerbase.de/2022-11/pcie-5-0-ssds-japanischer-haendler-verlangt-doppelten-preis-zu-pcie-4-0/</id>
+        <link href="https://www.computerbase.de/2022-11/pcie-5-0-ssds-japanischer-haendler-verlangt-doppelten-preis-zu-pcie-4-0/"/>
+        <updated>2022-11-01T14:20:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/5/4/2-a27e65841c067e0b/article-640x360.ae425642.jpg"><p>Noch immer sind die ersten PCIe-5.0-SSDs für Verbraucher nicht verfügbar. Aus Japan gibt es aber erste Hinweise auf das Preisniveau, das sich demnach gewaschen hat. Umgerechnet fast 40 Cent pro Gigabyte werden für ein allerdings ungewöhnliches Modell mit Lüfter verlangt.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Music erweitert Prime-Vorteile um den kompletten Musikkatalog]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1136682</id>
+        <link href="https://stadt-bremerhaven.de/amazon-music-erweitert-prime-vorteile-um-den-kompletten-musikkatalog/"/>
+        <updated>2022-11-01T14:00:02.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Music erweitert ab heute die Vorteile für Prime-Mitglieder, mit seinem kompletten Musikkatalog von 100 Millionen Songs. Allerdings gibt es einen Haken: Das gilt nur für den Zufallsmodus bei der Wiedergabe. Mit dabei sind auch die meisten Top-Podcasts – ohne...
+Zum Beitrag: Amazon Music erweitert Prime-Vorteile um den kompletten Musikkatalog
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DRAM-Fertigung: Micron fertigt ohne EUV-Lithografie als erster 1β-Chips]]></title>
+        <id>https://www.computerbase.de/2022-11/dram-fertigung-micron-fertigt-ohne-euv-als-erster-1-chips/</id>
+        <link href="https://www.computerbase.de/2022-11/dram-fertigung-micron-fertigt-ohne-euv-als-erster-1-chips/"/>
+        <updated>2022-11-01T13:46:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/5/2/6-3b1ff2ff4627107c/article-640x360.b5efeed1.jpg"><p>Micron vermeldet den Start der Sampling-Phase für ersten Speicher der neuen 1-Beta-Generation. Los geht es in Smartphones, denn die größten Boni kommen zum Tragen, wenn die Lösungen in gestapelten Chips zum Einsatz kommen. Doch über die exakten Eigenschaften schweigt Micron, einige Details sind jedoch interessant.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Electronic Arts und Marvel Entertainment kündigen Partnerschaft an]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1136594</id>
+        <link href="https://stadt-bremerhaven.de/electronic-arts-und-marvel-entertainment-kuendigen-partnerschaft-an/"/>
+        <updated>2022-11-01T13:30:33.000Z</updated>
+        <summary type="html"><![CDATA[Marvel hat man in den letzten Jahren nicht nur eine Handvoll Male im Kino zu sehen bekommen. Auch in der Spiele-Industrie liebäugelt man immer wieder mit den Marken des Unternehmens. Wenn es nach Marvel Entertainment und Electronic Arts geht, soll...
+Zum Beitrag: Electronic Arts und Marvel Entertainment kündigen Partnerschaft an
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>Olli</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Model O 2 & I 2 Wireless: Glorious zieht mit Generation 2 die Preise gefährlich an]]></title>
+        <id>https://www.computerbase.de/2022-11/model-o-2-und-i-2-wireless-glorious-zieht-mit-generation-2-die-preise-gefaehrlich-an/</id>
+        <link href="https://www.computerbase.de/2022-11/model-o-2-und-i-2-wireless-glorious-zieht-mit-generation-2-die-preise-gefaehrlich-an/"/>
+        <updated>2022-11-01T13:23:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/5/3/5-91a30e69ad98be9c/article-640x360.8541a9c5.jpg"><p>Glorious modernisiert die mittlerweile über drei Jahre alte Shooter-Maus Model O (Test) sowie die Model O Wireless (Test) mit einem neuen Erscheinungsbild, einem besseren Sensor und einem höheren Preis. Auch Löcher sind wieder mit von der Partie. Die kabellose Version der Model I (Test) trifft das gleiche Schicksal.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sonys Quartalsergebnisse: PlayStation-Sparte steht vor Herausforderungen]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1136644</id>
+        <link href="https://stadt-bremerhaven.de/sonys-quartalsergebnisse-playstation-sparte-steht-vor-herausforderungen/"/>
+        <updated>2022-11-01T13:00:46.000Z</updated>
+        <summary type="html"><![CDATA[Sony hat seine Ergebnisse des zweiten Fiskalquartals veröffentlicht, welches für die Japaner am 30.09.2022 endete. Die Ergebnisse sind durchwachsen, auch wenn nach dem Gaming-Boom in der Corona-Krise damit zu rechnen gewesen ist, dass sich etwas Ernüchterung einstellt. Spannend ist, dass...
+Zum Beitrag: Sonys Quartalsergebnisse: PlayStation-Sparte steht vor Herausforderungen
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Corsair MP600 GS: Die neue SSD-Mittelklasse mit PCIe 4.0 und Phison E21T]]></title>
+        <id>https://www.computerbase.de/2022-11/corsair-mp600-gs-die-neue-ssd-mittelklasse-mit-pcie-4-0-und-phison-e21t/</id>
+        <link href="https://www.computerbase.de/2022-11/corsair-mp600-gs-die-neue-ssd-mittelklasse-mit-pcie-4-0-und-phison-e21t/"/>
+        <updated>2022-11-01T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/5/0/9-1a0dcae9a60dec4f/article-640x360.8bf42747.jpg"><p>Die neue Mittelklasse bilden sparsame M.2-SSDs mit PCIe 4.0 und Phison-E21T-Controller ohne eigenen DRAM-Cache. Nach Gigabyte stellt Corsair ein solches Modell vor. Die Corsair MP600 GS bringt es auf bis zu 4.800 MB/s beim Lesen und 4.500 MB/s beim Schreiben. Der Stromverbrauch ist vergleichsweise gering.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zagg stellt kabellos aufladbare Pro Mouse für 90 Euro vor]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1136213</id>
+        <link href="https://stadt-bremerhaven.de/zagg-stellt-kabellos-aufladbare-pro-mouse-fuer-90-euro-vor/"/>
+        <updated>2022-11-01T12:30:05.000Z</updated>
+        <summary type="html"><![CDATA[Das Unternehmen Zagg kennt man unter anderem von seinem Zubehör für Apple-Produkte. Nun hat Zagg seine neue Qi-kompatible und damit kabellos aufladbare Pro Mouse veröffentlicht, die ab sofort für 89,99 Euro bei Zagg.com erworben werden kann. Als besonderes Feature hebt...
+Zum Beitrag: Zagg stellt kabellos aufladbare Pro Mouse für 90 Euro vor
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>Benjamin Mamerow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Netflix kauft „Cozy Grove“-Entwickler Spry Fox]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1136591</id>
+        <link href="https://stadt-bremerhaven.de/netflix-kauft-cozy-grove-entwickler-spry-fox/"/>
+        <updated>2022-11-01T12:00:11.000Z</updated>
+        <summary type="html"><![CDATA[Netflix hat bereits zur Verkündung der letzten Quartalszahlen bestätigt, dass man seine Ambitionen im Gaming-Markt weiter festigen möchte. Eben jene Aussage bestätigt man jetzt mit der Bekanntgabe der Übernahme des Spiele-Entwicklers Spry Fox. Das Studio ist vor allem durch die...
+Zum Beitrag: Netflix kauft „Cozy Grove“-Entwickler Spry Fox
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>Olli</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intel Xeon: Sapphire Rapids steht bis 2023 im Stau (Teil 3) (Update)]]></title>
+        <id>https://www.computerbase.de/2022-11/intel-xeon-sapphire-rapids-steht-im-stau-teil-3/</id>
+        <link href="https://www.computerbase.de/2022-11/intel-xeon-sapphire-rapids-steht-im-stau-teil-3/"/>
+        <updated>2022-11-01T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/5/4/0-333bfcf6d6434960/article-640x360.4f77c697.jpg"><p>Bereits zwei Mal griff ComputerBase das Thema auf, doch beendet ist es mitnichten: Intel Sapphire Rapids (SPR) braucht Zeit. Noch mehr. Nun sollen zur Verzögerung der ohnehin schon langen Art auch noch Probleme bei der Ausbeute kommen. Intel beschwichtigt zumindest ein wenig, ein Datum nennt der Konzern aber weiter nicht.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ryzen 7000 unter Windows 11/10: Differenzen in Spielen zwingen AMD jetzt zu Untersuchungen]]></title>
+        <id>https://www.computerbase.de/2022-11/amd-ryzen-7000-windows-11-10-spiele-untersuchung/</id>
+        <link href="https://www.computerbase.de/2022-11/amd-ryzen-7000-windows-11-10-spiele-untersuchung/"/>
+        <updated>2022-11-01T11:39:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/5/4/1-c7bcd681ef92f45a/article-640x360.2d0c5646.jpg"><p>Wie AMD jetzt offiziell bekanntgegeben hat, wird der Hersteller die Abweichungen, die in einigen Spielen unter Windows 11 und Windows 10 auf Ryzen 7000 (Test) auftreten können, näher untersuchen. Zuvor hatte AMD diese Differenzen noch als normale „Anomalien“ bezeichnet, die mit jeder neuen Generation einhergehen würden.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vine: Elon Musk prüft nach der Twitter-Übernahme wohl ein Revival]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1136657</id>
+        <link href="https://stadt-bremerhaven.de/vine-elon-musk-prueft-nach-der-twitter-uebernahme-wohl-ein-revival/"/>
+        <updated>2022-11-01T11:30:19.000Z</updated>
+        <summary type="html"><![CDATA[Erinnert sich noch jemand an die Kurzvideo-Plattform Vine? Der Dienst machte bereits 2016 dicht. Viele ehemalige Vine-Stars, wie die Paul-Brüder, wanderten anschließend zu YouTube ab. Vine gehörte zu Twitter und könnte jetzt unverhofft eine Rückkehr erleben. Denn es heißt, dass...
+Zum Beitrag: Vine: Elon Musk prüft nach der Twitter-Übernahme wohl ein Revival
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gigabyte erreicht Weltrekorde: DDR5-8333 per XMP 3.0 und DDR5-9300 mit Overclocking]]></title>
+        <id>https://www.computerbase.de/2022-11/gigabyte-ddr5-8333-ddr5-9300-overclocking/</id>
+        <link href="https://www.computerbase.de/2022-11/gigabyte-ddr5-8333-ddr5-9300-overclocking/"/>
+        <updated>2022-11-01T11:27:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/5/3/8-cc9fc8413051c6e3/article-640x360.5e69fa5b.jpg"><p>Gigabyte präsentiert DDR5-8333 mit Hilfe von Intel XMP 3.0 und demonstriert DDR5-9300 durch Overclocking und stellt damit ganz nebenbei mehrere neue Weltrekorde in den Benchmarks von Cinebench R23 auf. Als Basis dienten ein noch nicht veröffentlichtes Z790-Mainboard des Herstellers sowie ein Intel Core i9-13900K (Test).</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zoom setzt ab sofort regelmäßige Client-Updates voraus]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1136632</id>
+        <link href="https://stadt-bremerhaven.de/zoom-setzt-ab-sofort-regelmaessige-client-updates-voraus/"/>
+        <updated>2022-11-01T11:00:35.000Z</updated>
+        <summary type="html"><![CDATA[Zoom erlebte in der Corona-Krise einen erheblichen Aufschwung: Das Tool für Videokonferenzen erfreut sich anhaltender Beliebtheit. Jetzt führt man laut einem aktualisierten Support-Dokument einige, neue Anforderungen ein. So wird zur Nutzung von Zoom am Rechner sowie auch an mobilen Endgeräten...
+Zum Beitrag: Zoom setzt ab sofort regelmäßige Client-Updates voraus
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pixel 7 und Pixel 7 Pro im Test: Googles cleverste Android-Smartphones]]></title>
+        <id>https://www.computerbase.de/2022-11/google-pixel-7-pro-test/</id>
+        <link href="https://www.computerbase.de/2022-11/google-pixel-7-pro-test/"/>
+        <updated>2022-11-01T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/4/3/6-d3b288f75407b23d/article-640x360.f3b55d8d.jpg"><p>Ein Google-Smartphone soll vor allem ein intelligentes Smartphone sein. Im Pixel 7 und Pixel 7 Pro ist dafür der eigene Tensor G2 verantwortlich, der auch die Kamera unterstützt. Fotos sind erneut Googles Paradedisziplin, aber auch Videos sind besser geworden. Der Chip selbst ist kaum schneller, doch die Akkus halten länger.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bundesregierung: Das ist Stand der Dinge bei der Gigabitstrategie]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1136582</id>
+        <link href="https://stadt-bremerhaven.de/bundesregierung-das-ist-stand-der-dinge-bei-der-gigabitstrategie/"/>
+        <updated>2022-11-01T10:30:22.000Z</updated>
+        <summary type="html"><![CDATA[Die derzeitige Bundesregierung hatte im Sommer ihre Gigabitstrategie verabschiedet. Bis Ende des Jahres 2025 soll demnach mindestens jeder zweite Haushalt Glasfaser nutzen, bis zum Jahr 2030 wolle man Glasfaser bis ins Haus und den neuesten Mobilfunkstandard überall dort, wo Menschen...
+Zum Beitrag: Bundesregierung: Das ist Stand der Dinge bei der Gigabitstrategie
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>Felix Frank</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Chrome now lets you compare search results from the sidebar]]></title>
+        <id>https://www.ghacks.net/?p=181568</id>
+        <link href="https://www.ghacks.net/2022/11/01/google-chrome-now-lets-you-compare-search-results-from-the-sidebar/"/>
+        <updated>2022-11-01T10:28:46.000Z</updated>
+        <summary type="html"><![CDATA[Google updated its Chrome browser to version 107 a few days ago. It fixed some security issues, and brought a couple of new features, including a way to compare search results directly […]
+Thank you for being a Ghacks reader. The post Google Chrome now lets you compare search results from the sidebar appeared first on gHacks Technology News.]]></summary>
+        <author>
+            <name>Ashwin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mehr Umsatz mit weniger: Sony hat über 25 Mio. PS5 verkauft, aber weniger PS+-Nutzer]]></title>
+        <id>https://www.computerbase.de/2022-11/mehr-umsatz-mit-weniger-sony-hat-ueber-25-mio-ps5-verkauft-aber-weniger-ps-plus-nutzer/</id>
+        <link href="https://www.computerbase.de/2022-11/mehr-umsatz-mit-weniger-sony-hat-ueber-25-mio-ps5-verkauft-aber-weniger-ps-plus-nutzer/"/>
+        <updated>2022-11-01T10:26:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/5/3/9-7b3feb709fe860f9/article-640x360.559e6a1b.jpg"><p>Im Rahmen der Bekanntgabe der Quartalszahlen für das dritte Quartal 2022 hat Sony erneut Absatzzahlen für die PlayStation 5 (Test) genannt. Mit 3,3 Millionen verkauften Exemplaren stagniert der Absatz der aktuellen Konsolengeneration auf dem Niveau des Vorjahres. Die Nutzer des neuen Abo-Modells PlayStation Plus sinken sogar.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ghacks Deals: AdGuard Family Plan: Lifetime Subscription (84% off)]]></title>
+        <id>https://www.ghacks.net/?p=181585</id>
+        <link href="https://www.ghacks.net/2022/11/01/ghacks-deals-adguard-family-plan-lifetime-subscription-84-off/"/>
+        <updated>2022-11-01T10:24:17.000Z</updated>
+        <summary type="html"><![CDATA[AdGuard calls its content blocking solution the world's most advanced ad blocker. Now is your chance to get a lifetime AdGuard Family Plan subscription for just $19.99. The Family Plan allows you […]
+Thank you for being a Ghacks reader. The post Ghacks Deals: AdGuard Family Plan: Lifetime Subscription (84% off) appeared first on gHacks Technology News.]]></summary>
+        <author>
+            <name>Martin Brinkmann</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mozilla may extend Firefox on Windows 7 and 8.1 support]]></title>
+        <id>https://www.ghacks.net/?p=181582</id>
+        <link href="https://www.ghacks.net/2022/11/01/mozilla-may-extend-firefox-on-windows-7-and-8-1-support/"/>
+        <updated>2022-11-01T09:44:15.000Z</updated>
+        <summary type="html"><![CDATA[With Windows 7 and 8.1 ending official support by Microsoft in January 2023, software companies face a tough decision: should they support the operating systems for longer, or drop support at the […]
+Thank you for being a Ghacks reader. The post Mozilla may extend Firefox on Windows 7 and 8.1 support appeared first on gHacks Technology News.]]></summary>
+        <author>
+            <name>Martin Brinkmann</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Alte und neue GPUs: ComputerBase-Leser testen sich durch die Generationen]]></title>
+        <id>https://www.computerbase.de/2022-11/gpu-generationen-benchmarks/</id>
+        <link href="https://www.computerbase.de/2022-11/gpu-generationen-benchmarks/"/>
+        <updated>2022-11-01T09:38:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/5/3/6-2f877e09cb37bc5d/article-640x360.a3904b39.jpg"><p>Im Treffen der Generationen testen sich ComputerBase-Leser durch ganze Epochen bekannter GPU-Generationen sowie durch die dazugehörigen Benchmarks. Dabei sind keinerlei Grenzen gesetzt und eine GeForce 3 Ti 200 von 2001 (Test) kann genauso teilnehmen wie eine GeForce RTX 4090 (Test) oder in Zukunft die Radeon RX 7900 XTX und XT.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Absatzprobleme: TSMCs Kunden kürzen Aufträge in größerem Umfang]]></title>
+        <id>https://www.computerbase.de/2022-11/absatzprobleme-tsmcs-kunden-kuerzen-auftraege-in-groesserem-umfang/</id>
+        <link href="https://www.computerbase.de/2022-11/absatzprobleme-tsmcs-kunden-kuerzen-auftraege-in-groesserem-umfang/"/>
+        <updated>2022-11-01T08:03:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/5/3/7-03de36cd1486e74e/article-640x360.899960bf.jpg"><p>Die Ungewissheit im Markt, hohe Inventarbestände und alltägliche Probleme der Menschen sorgen für insgesamt geringere Ausgaben, sodass nun auch an der Quelle gespart wird. Auftragsfertiger TSMC soll dies nun noch deutlicher zu spüren bekommen, denn auch Großkunden passen laut mehreren Meldungen ihre Bestellungen an.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Air.0: Kickstarter-Maus lässt sich für Unterwegs zusammenfalten]]></title>
+        <id>https://www.computerbase.de/2022-11/air-0-kickstarter-maus-laesst-sich-fuer-unterwegs-zusammenfalten/</id>
+        <link href="https://www.computerbase.de/2022-11/air-0-kickstarter-maus-laesst-sich-fuer-unterwegs-zusammenfalten/"/>
+        <updated>2022-11-01T06:30:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/5/3/2-884f0f532a8f716e/article-640x360.811cbc9b.jpg"><p>Für das Arbeiten unterwegs am Notebook oder Tablet eine Maus mitzunehmen, ist häufig nervig und umständlich. Die Air.0 soll das ändern – und lässt sich auf die Größe eines Bierdeckels falten. Realisiert wird das ungewöhnliche Projekt derzeit per Kickstarter – und das Finanzierungsziel wurde schnell übertroffen.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to remove your phone number or email from Facebook, even if you have no account]]></title>
+        <id>https://www.ghacks.net/?p=181570</id>
+        <link href="https://www.ghacks.net/2022/11/01/how-to-check-and-remove-your-phone-number-or-email-from-facebook-even-if-you-have-no-account/"/>
+        <updated>2022-11-01T06:14:51.000Z</updated>
+        <summary type="html"><![CDATA[Social sites such as Facebook require that users provide them with some data on sign up; this usually involves handing over a phone number or email address, name, and other personal information. […]
+Thank you for being a Ghacks reader. The post How to remove your phone number or email from Facebook, even if you have no account appeared first on gHacks Technology News.]]></summary>
+        <author>
+            <name>Martin Brinkmann</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Abo oder Rausschmiss: Elon Musk baut Twitter ohne Rücksichtnahme weiter um]]></title>
         <id>https://www.computerbase.de/2022-10/twitter-blue-abo-elon-musk-wirtschaft/</id>
@@ -11429,314 +11953,6 @@ Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
         <updated>2022-10-03T14:40:54.000Z</updated>
         <summary type="html"><![CDATA[Heute haben die Marvel Studios einen neuen Trailer für Black Panther veröffentlicht: Wakanda Forever, dem Kinofilm, der in das Königreich Wakanda zurückkehrt, wo eine neue Bedrohung aus einer verborgenen Unterwassernation namens Talokan auftaucht. Im Film kämpfen Königin Ramonda (Angela Bassett),...
 Zum Beitrag: „Black Panther: Wakanda Forever“: Trailer veröffentlicht
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>caschy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VanMoof V: Produktionsstart des E-Bikes erst Ende 2023]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1132418</id>
-        <link href="https://stadt-bremerhaven.de/vanmoof-v-produktionsstart-des-e-bikes-erst-ende-2023/"/>
-        <updated>2022-10-03T14:15:01.000Z</updated>
-        <summary type="html"><![CDATA[Ende 2021 hat VanMoof sein erstes Hyperbike angekündigt, das VanMoof V. Anfang 2022 vermeldete man 10.000 Reservierungen. Das VanMoof V verfügt über integrierte Geschwindigkeitseinstellungen, die sich an die jeweiligen lokalen Richtlinien anpassen lassen und kann Geschwindigkeiten von bis zu 50...
-Zum Beitrag: VanMoof V: Produktionsstart des E-Bikes erst Ende 2023
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>caschy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mastercard: Aktuelle Analyse zum Einkaufsverhalten]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1132015</id>
-        <link href="https://stadt-bremerhaven.de/mastercard-aktuelle-analyse-zum-einkaufsverhalten/"/>
-        <updated>2022-10-03T13:30:26.000Z</updated>
-        <summary type="html"><![CDATA[Die Inflation steigt auf krasse 10 %, die Weltwirtschaft leidet spätestens seit dem Angriffskrieg Russlands auf die Ukraine enorm – das will ich hier auch gar nicht wieder alles aufdröseln. Dennoch haben solche Entwicklungen einen großen Einfluss darauf, wie sich...
-Zum Beitrag: Mastercard: Aktuelle Analyse zum Einkaufsverhalten
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>Benjamin Mamerow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft's implementation of Tabs in File Explorer is lacking severely]]></title>
-        <id>https://www.ghacks.net/?p=181059</id>
-        <link href="https://www.ghacks.net/2022/10/03/microsofts-implementation-of-tabs-in-file-explorer-is-lacking-severely/"/>
-        <updated>2022-10-03T12:39:01.000Z</updated>
-        <summary type="html"><![CDATA[If you follow this site, you know that Microsoft plans to launch the first feature drop for Windows 11 later this month. Included in the package is the long-awaited tab support in […]
-Thank you for being a Ghacks reader. The post Microsoft's implementation of Tabs in File Explorer is lacking severely appeared first on gHacks Technology News.]]></summary>
-        <author>
-            <name>Martin Brinkmann</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sky produziert die Original-Doku „Die Relotius Affäre“]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1131407</id>
-        <link href="https://stadt-bremerhaven.de/sky-produziert-die-original-doku-die-relotius-affaere/"/>
-        <updated>2022-10-03T12:00:25.000Z</updated>
-        <summary type="html"><![CDATA[Sky produziert die Original-Doku „Die Relotius Affäre“ (Arbeitstitel), welche den Skandal um den Journalisten Claas Relotius aufarbeiten soll. Relotius arbeitete für das Magazin Der Spiegel und machte sich über die Jahre mit Reportagen einen Namen, für die er auch viele...
-Zum Beitrag: Sky produziert die Original-Doku „Die Relotius Affäre“
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>André Westphal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aorus Xtreme Waterforce: Gigabyte kühlt die RTX 4090 mittels Wasser und Kupfer]]></title>
-        <id>https://www.computerbase.de/2022-10/gigabyte-aorus-geforce-rtx-4090-extreme-waterforce/</id>
-        <link href="https://www.computerbase.de/2022-10/gigabyte-aorus-geforce-rtx-4090-extreme-waterforce/"/>
-        <updated>2022-10-03T11:19:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/2/0/4-c3b04786f05b33a7/article-640x360.5a2b085c.jpg"><p>Gigabyte hat mit der Aorus GeForce RTX 4090 Xtreme Waterforce 24G seine neue Speerspitze vorgestellt, die mit Hilfe eines Wasserblocks, eines 360-mm-Radiators mit drei 120-mm-Lüftern und einer Kupferplatte gekühlt wird. Wie bereits ihr Vorgänger auf Basis der GeForce RTX 3090 Ti baut die neue Xtreme Waterforce sehr kompakt.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple Watch Ultra ausprobiert: Apple begibt sich in neues Terrain]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1131550</id>
-        <link href="https://stadt-bremerhaven.de/apple-watch-ultra-ausprobiert-apple-begibt-sich-in-neues-terrain/"/>
-        <updated>2022-10-03T10:30:14.000Z</updated>
-        <summary type="html"><![CDATA[Am 7. September hat Apple, wie immer im Herbst, die neuen iPhone 14 und 14 Pro präsentiert und auch eine neue Apple Watch Series 8 und eine runderneuerte Variante der Watch SE gab es zu sehen. Doch der eigentliche Star...
-Zum Beitrag: Apple Watch Ultra ausprobiert: Apple begibt sich in neues Terrain
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>Olli</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux 6.0: Linus Torvalds gibt den neuen Systemkernel frei (Update)]]></title>
-        <id>https://www.computerbase.de/2022-10/linux-6-0-release-linux-torvalds/</id>
-        <link href="https://www.computerbase.de/2022-10/linux-6-0-release-linux-torvalds/"/>
-        <updated>2022-10-03T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/2/0/8-45fdefed0ab38c1d/article-640x360.6f4e48c3.jpg"><p>Initiator und Chef-Entwickler Linus Torvalds hat die finale Version des neuesten freien Systemkernels Linux 6.0 jetzt ganz offiziell für jedermann freigegeben. In den neuen Betriebssystemkern fließen insbesondere auch zahlreiche Optimierungen und Treiberpakete für AMD-GPUs mit ein.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ADAC Kreditkarte: Solarisbank wird neuer Partner]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1132402</id>
-        <link href="https://stadt-bremerhaven.de/adac-kreditkarte-solarisbank-wird-neuer-partner/"/>
-        <updated>2022-10-03T09:45:53.000Z</updated>
-        <summary type="html"><![CDATA[Die ADAC Finanzdienste GmbH und die Solarisbank AG werden künftig beim ADAC Kreditkartenprogramm kooperieren. Dies gaben beide Unternehmen bekannt. Solaris löst die Landesbank Berlin (LBB) im zweiten Halbjahr 2023 als Co-Branding-Partner für die ADAC Kreditkarte ab. Bis dahin wird die...
-Zum Beitrag: ADAC Kreditkarte: Solarisbank wird neuer Partner
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>caschy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Alienware bringt zweiten QD-OLED-Gaming-Monitor AW3423DWF auf den Markt]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1131716</id>
-        <link href="https://stadt-bremerhaven.de/alienware-bringt-zweiten-qd-oled-gaming-monitor-aw3423dwf-auf-den-markt/"/>
-        <updated>2022-10-03T09:00:18.000Z</updated>
-        <summary type="html"><![CDATA[Alienware, eine Marke von Dell, hatte bereits einen QD-OLED-Monitor auf den Markt gebracht: den AW3423DW. In Deutschland wechselt er für 1.299 Euro den Besitzer. Das neue Modell ähnelt dem bereits verfügbaren Bildschirm frappierend – auch im Namen „AW3423DWF „. Was...
-Zum Beitrag: Alienware bringt zweiten QD-OLED-Gaming-Monitor AW3423DWF auf den Markt
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>André Westphal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tuxedo OS 1: Betriebssystem auf Basis von Ubuntu 22.04 aus Deutschland]]></title>
-        <id>https://www.computerbase.de/2022-10/tuxedo-os-1-ubuntu-linux-distribution/</id>
-        <link href="https://www.computerbase.de/2022-10/tuxedo-os-1-ubuntu-linux-distribution/"/>
-        <updated>2022-10-03T08:30:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/2/0/7-bba7e0698f5880ef/article-640x360.f6ece914.jpg"><p>Erstmals abseits seiner hauseigenen Computersysteme, wie dem Tuxedo Pulse 15 - Gen2 mit AMD Lucienne oder dem InfinityBook S 17 Gen6 mit Intel Tiger Lake-H, veröffentlicht der in Augsburg beheimatete Linux-Distributor Tuxedo Computers seine Definition eines Derivats von Ubuntu Linux 22.04 LTS („Jammy Jellyfish“) für jedermann.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stellarium 1.0 veröffentlicht: Den Sternenhimmel erkunden]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1132400</id>
-        <link href="https://stadt-bremerhaven.de/stellarium-1-0-veroeffentlicht-den-sternenhimmel-erkunden/"/>
-        <updated>2022-10-03T08:15:08.000Z</updated>
-        <summary type="html"><![CDATA[Stellarium ist nach über 20 Jahren in Version 1.0 erschienen. Stellarium ist eine Open-Source-Software, die realistisch den Sternenhimmel in Echtzeit mit OpenGL rendert. Sie ist für Linux/Unix, Windows und macOS sowie Android und iOS verfügbar, auch gibt’s eine Version im...
-Zum Beitrag: Stellarium 1.0 veröffentlicht: Den Sternenhimmel erkunden
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>caschy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tom Clancy’s Jack Ryan: 3. Staffel am 21. Dezember bei Prime Video]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1131765</id>
-        <link href="https://stadt-bremerhaven.de/tom-clancys-jack-ryan-3-staffel-am-21-dezember-bei-prime-video/"/>
-        <updated>2022-10-03T07:30:17.000Z</updated>
-        <summary type="html"><![CDATA[Im Dezember ist es so weit: Amazon kehrt mit einer neuen Staffel der Action-Thriller-Serie Tom Clancy’s Jack Ryan zurück. Am 21. Dezember debütiert die dritte Staffel bei Prime Video. Diese fasst acht Episoden. In der Hauptrolle: John Krasinksi als Jack...
-Zum Beitrag: Tom Clancy’s Jack Ryan: 3. Staffel am 21. Dezember bei Prime Video
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>Felix Frank</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Alexa: Geräte zeitgesteuert schalten]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1132394</id>
-        <link href="https://stadt-bremerhaven.de/amazon-alexa-geraete-zeitgesteuert-schalten/"/>
-        <updated>2022-10-03T06:45:52.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Alexa hat einen neuen Trick auf Lager, den Google-Home-Nutzer bereits seit längerem nutzen können. So kann der Sprachassistent neben dem Befehl zum Licht ausschalten auch eine Zeitangabe verarbeiten: „Alexa schalte das Licht in 5 Minuten aus.“ – dürfte als...
-Zum Beitrag: Amazon Alexa: Geräte zeitgesteuert schalten
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>caschy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tesla Optimus: Roboter wankt über die Bühne]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1132326</id>
-        <link href="https://stadt-bremerhaven.de/tesla-optimus-roboter-wankt-ueber-die-buehne/"/>
-        <updated>2022-10-03T06:00:46.000Z</updated>
-        <summary type="html"><![CDATA[Der CEO von Tesla, Elon Musk, schickte in dieser Woche mit dem Optimus einen neuen Prototyp seines Roboters auf die Bühne. Dabei setzt der Autohersteller teilweise Technologien ein, die auch in den Fahrzeugen des Unternehmens zum Einsatz kommen, um beispielsweise...
-Zum Beitrag: Tesla Optimus: Roboter wankt über die Bühne
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>André Westphal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Maigret: create user dossiers based on username searches on thousands of sites]]></title>
-        <id>https://www.ghacks.net/?p=181056</id>
-        <link href="https://www.ghacks.net/2022/10/03/maigret-create-user-dossiers-based-on-username-searches-on-thousands-of-sites/"/>
-        <updated>2022-10-03T05:17:39.000Z</updated>
-        <summary type="html"><![CDATA[Maigret is an open source cross-platform tool to create profiles on users using just username searches. The program is free to use and does not require any APIs or configuration. The command […]
-Thank you for being a Ghacks reader. The post Maigret: create user dossiers based on username searches on thousands of sites appeared first on gHacks Technology News.]]></summary>
-        <author>
-            <name>Martin Brinkmann</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PlayStation Plus: Das sind die Essential-Titel im Oktober]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1131768</id>
-        <link href="https://stadt-bremerhaven.de/playstation-plus-das-sind-die-essential-titel-im-oktober/"/>
-        <updated>2022-10-03T04:30:30.000Z</updated>
-        <summary type="html"><![CDATA[Neuer Monat, neue Spiele bei PlayStation Plus. Wie inzwischen gewohnt: Gestaffelt in die drei Tarife Essential, Extra sowie Premium. Ab dem 4. Oktober sind neue Essential-Titel verfügbar, entsprechend auch in Extra und Premium enthalten. Im Oktober handelt es sich hierbei...
-Zum Beitrag: PlayStation Plus: Das sind die Essential-Titel im Oktober
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>Felix Frank</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tencent plant vollständige Übernahmen westlicher Gaming-Unternehmen]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1132357</id>
-        <link href="https://stadt-bremerhaven.de/tencent-plant-vollstaendige-uebernahmen-westlicher-gaming-unternehmen/"/>
-        <updated>2022-10-02T19:30:50.000Z</updated>
-        <summary type="html"><![CDATA[Der chinesische Konzern Tencent verfolgte bisher die Strategie, sich Anteile an westlichen Unternehmen aus der Gaming-Branche zu sichern. Beispielsweise ist man auf diese Weise an Epic Games, Ubisoft, Paradox Entertainment, Remedy Entertainment, PlatinumGames, Roblox Corporation und sogar Discord beteiligt. Laut...
-Zum Beitrag: Tencent plant vollständige Übernahmen westlicher Gaming-Unternehmen
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>André Westphal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jimmy BX7 Pro im Test: Anti-Milben-Sauger mit erweiterten Funktionen]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1131944</id>
-        <link href="https://stadt-bremerhaven.de/jimmy-bx7-pro-im-test-anti-milben-sauger-mit-erweiterten-funktionen/"/>
-        <updated>2022-10-02T18:30:38.000Z</updated>
-        <summary type="html"><![CDATA[Ich hatte hier im Blog im Mai bereits den Jimmy JV35 getestet: einen Anti-Milben-Staubsauger, der primär für das Absaugen von Matratzen und anderen Polstermöbeln gedacht ist. Es geht aber nur an zweiter Stelle darum, Verschmutzungen zu beseitigen, vor allem soll...
-Zum Beitrag: Jimmy BX7 Pro im Test: Anti-Milben-Sauger mit erweiterten Funktionen
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>André Westphal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Pixel 7 / Pixel 7 Pro: Folie mit allen technischen Daten durchgesickert]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1132384</id>
-        <link href="https://stadt-bremerhaven.de/google-pixel-7-pixel-7-pro-folie-mit-allen-technischen-daten-durchgesickert/"/>
-        <updated>2022-10-02T17:30:16.000Z</updated>
-        <summary type="html"><![CDATA[Zu den Google Pixel 7 und 7 Pro kursiert mittlerweile der angebliche offizielle Spec-Sheet. Er beinhaltet alle technischen Daten der beiden Smartphones. Als SoC ist für beide Modelle der Tensor G2 ausgewiesen. Beide Geräte sollen mit wahlweise 128 bzw. 256...
-Zum Beitrag: Google Pixel 7 / Pixel 7 Pro: Folie mit allen technischen Daten durchgesickert
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>André Westphal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IO Hawk Sparrow 2: Neuer E-Scooter startet ab 889 Euro]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1131698</id>
-        <link href="https://stadt-bremerhaven.de/io-hawk-sparrow-2-neuer-e-scooter-startet-ab-889-euro/"/>
-        <updated>2022-10-02T16:30:41.000Z</updated>
-        <summary type="html"><![CDATA[Ein neuer E-Scooter startet: der IO Hawk Sparrow 2. Es gibt ihn in Schwarz und Weiß. Der fahrbare Untersatz ist aus einer Aluminiumlegierung gefertigt und bringt je nach Akkugröße 19 kg (mit 15 Ah Batterie) bzw. 21 kg (mit 20...
-Zum Beitrag: IO Hawk Sparrow 2: Neuer E-Scooter startet ab 889 Euro
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>André Westphal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ikea Dirigera Hub in Deutschland gelistet]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1132372</id>
-        <link href="https://stadt-bremerhaven.de/ikea-dirigera-hub-in-deutschland-gelistet/"/>
-        <updated>2022-10-02T15:00:09.000Z</updated>
-        <summary type="html"><![CDATA[Viele, die vielleicht in Zukunft ihr Zuhause mit Smart Home aufrüsten wollen, warten eventuell schon auf den neuen Dirigera Hub von Ikea. Der wurde vor langer Zeit angekündigt, inklusive einer neuen App zur Steuerung. Der neue Dirigera-Hub ist 2,7 cm...
-Zum Beitrag: Ikea Dirigera Hub in Deutschland gelistet
 
 Zum Blog: Caschys Blog
 
