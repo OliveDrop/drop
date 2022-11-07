@@ -2,10 +2,231 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://olivedrop.github.io/drop/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-06T02:06:46.904Z</updated>
+    <updated>2022-11-07T02:01:01.658Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://olivedrop.github.io/drop/index.html"/>
     <link rel="self" href="https://olivedrop.github.io/drop/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Amazon Kindle (2022) im Test]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1137028</id>
+        <link href="https://stadt-bremerhaven.de/amazon-kindle-2022-im-test/"/>
+        <updated>2022-11-06T19:00:40.000Z</updated>
+        <summary type="html"><![CDATA[Amazon hatte Mitte September 2022 neue Kindle vorgestellt. Was ist neu? Der neue Amazon Kindle (2022) mit 6 Zoll Diagonale und Touch-Display offeriert eine erhöhte Pixeldichte von 300 ppi. Texte sollten also deutlich schärfer erscheinen als bei älteren Generationen. Als...
+Zum Beitrag: Amazon Kindle (2022) im Test
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Der Cloud-Gaming-Rückblick am Sonntag – KW 44]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1137297</id>
+        <link href="https://stadt-bremerhaven.de/der-cloud-gaming-rueckblick-am-sonntag-kw-44/"/>
+        <updated>2022-11-06T18:00:52.000Z</updated>
+        <summary type="html"><![CDATA[Der geneigte Cloud-Gamer weiß vermutlich schon Bescheid, dass mittlerweile jeden Sonntag ein umfangreicher Rückblick zum Thema Cloud-Gaming von unserem Gastautor Stefan hier erscheint. Dabei bringt er allerhand spannende und teils auch Insider-News für euch zusammen und bezieht sich hin und...
+Zum Beitrag: Der Cloud-Gaming-Rückblick am Sonntag – KW 44
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>Gastautor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DKB: Rückbuchungen fast abgeschlossen]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1137392</id>
+        <link href="https://stadt-bremerhaven.de/dkb-rueckbuchungen-fast-abgeschlossen/"/>
+        <updated>2022-11-06T17:00:52.000Z</updated>
+        <summary type="html"><![CDATA[Wir berichteten darüber: Zahlreiche Kunden der DKB stellten fest, dass Geld auf ihrem Konto fehlte. Es ist beim Institut in den vergangenen Tagen zu Doppelbuchungen im Girokonto gekommen. Dabei wurden teilweise Buchungen aus dem Oktober 2022 erneut ausgeführt. Alle Doppelbuchungen...
+Zum Beitrag: DKB: Rückbuchungen fast abgeschlossen
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple TV 4K (3. Generation) im Test]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1137037</id>
+        <link href="https://stadt-bremerhaven.de/apple-tv-4k-3-generation-im-test/"/>
+        <updated>2022-11-06T16:00:07.000Z</updated>
+        <summary type="html"><![CDATA[Apple hat im Oktober 2022 einen neuen Apple TV 4K vorgestellt. Streng genommen sind es zwei Modelle. Schaut man sich den Apple TV 4K (Modell 2022) mit ausschließlich WLAN an, dann könnte man ihn glatt als Downgrade bezeichnen – je...
+Zum Beitrag: Apple TV 4K (3. Generation) im Test
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LXQt 1.2.0 für Linux und BSD: Der freie leichte Desktop unterstützt erstmals Wayland]]></title>
+        <id>https://www.computerbase.de/2022-11/lxqt-1-2-linux-desktop-wayland-qt-5-15/</id>
+        <link href="https://www.computerbase.de/2022-11/lxqt-1-2-linux-desktop-wayland-qt-5-15/"/>
+        <updated>2022-11-06T14:51:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/6/1/1-53a0cd0d16e0b10a/article-640x360.546406ef.jpg"><p>Die schlanke und ressourcensparende freie Desktop-Umgebung LXQt ist in der neuesten Version 1.2.0 für POSIX-kompatible Betriebssysteme wie die beiden unixoiden Plattformen Linux und BSD erschienen. Der leichtgewichtige Desktop auf Basis von Qt in der Version 5.15 LTS erhält jetzt erstmals eine initiale Integration von Wayland.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WhatsApp: So versteckt ihr jetzt euren Online-Status]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1136839</id>
+        <link href="https://stadt-bremerhaven.de/whatsapp-so-versteckt-ihr-jetzt-euren-online-status/"/>
+        <updated>2022-11-06T14:30:49.000Z</updated>
+        <summary type="html"><![CDATA[Wir hatten ja schon darüber berichtet, dass WhatsApp es euch ermöglichen will, feiner zu justieren, wer euren Online-Status sehen kann. Zuletzt schaltete man diese Funktion ja Mitte September 2022 für Beta-Nutzer frei. Doch mittlerweile sollten jetzt alle Anwender, auch die...
+Zum Beitrag: WhatsApp: So versteckt ihr jetzt euren Online-Status
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Teams: Allerhand Neuerungen vorgestellt]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1136913</id>
+        <link href="https://stadt-bremerhaven.de/microsoft-teams-allerhand-neuerungen-vorgestellt/"/>
+        <updated>2022-11-06T13:30:42.000Z</updated>
+        <summary type="html"><![CDATA[Zur Microsoft Ignite 2022 gab es einiges zu Microsoft Teams zu erfahren, auch zu neuen Features. So gibt es für Meetings ja den sogenannten Together-Modus, bei dem Teilnehmer eines Meetings das Gefühl bekommen sollen, als würden sie sich im selben...
+Zum Beitrag: Microsoft Teams: Allerhand Neuerungen vorgestellt
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>Benjamin Mamerow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PC-Kühlung: Setzt ihr noch auf Luft oder schon auf Wasser?]]></title>
+        <id>https://www.computerbase.de/2022-11/pc-hardware-kuehlung-luefter-wasserkuehlung/</id>
+        <link href="https://www.computerbase.de/2022-11/pc-hardware-kuehlung-luefter-wasserkuehlung/"/>
+        <updated>2022-11-06T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/5/8/6-ed2d7382e61b4641/article-640x360.bb9cc713.jpg"><p>Die Leistungsaufnahme neuer Hardware steigt immer weiter. Wie begegnet ihr der damit steigenden Abwärme bei der Kühlung des Systems? Setzt ihr noch auf Luft oder schon auf Wasser? Und wie viele Lüfter sind überhaupt verbaut? Dieses Mal seid ihr gebeten, in den Kommentaren von eurer PC-Kühlung zu berichten.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AV1-Videokodierung mit FFmpeg: Unterstützung für die GeForce RTX 4090 und Nvidia NVENC]]></title>
+        <id>https://www.computerbase.de/2022-11/ffmpeg-av1-nvenc-support-geforce-rtx-4090/</id>
+        <link href="https://www.computerbase.de/2022-11/ffmpeg-av1-nvenc-support-geforce-rtx-4090/"/>
+        <updated>2022-11-06T12:46:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/6/1/2-2aaf535f432f2c5c/article-640x360.335e8edc.jpg"><p>FFmpeg, eine freie Tool-Sammlung für die Audio- und Videobearbeitung auf der Kommandozeile unter Windows, macOS und Linux, unterstützt jetzt auch erstmals die Kodierung von Videos im quelloffenen Kompressionsverfahren AOMedia Video 1 (AV1) mit Nvidia NVENC über die zwei Video-Engines der GeForce RTX 4090 (Test).</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Fire HD 8 Plus im Kurztest]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1137011</id>
+        <link href="https://stadt-bremerhaven.de/amazon-fire-hd-8-plus-im-test/"/>
+        <updated>2022-11-06T11:30:20.000Z</updated>
+        <summary type="html"><![CDATA[Amazon hatte Ende September 2022 neben dem neuen Tablet Fire HD8 und seiner Kids-Variante auch das Fire HD 8 Plus vorgestellt. Ich habe mir die Plus-Variante einmal für euch angesehen, die einen LC-Bildschirm mit 8 Zoll Diagonale und 1.280 x...
+Zum Beitrag: Amazon Fire HD 8 Plus im Kurztest
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Overcast: Web-Player soll im kommenden Jahr eingestellt werden, App bleibt]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1136903</id>
+        <link href="https://stadt-bremerhaven.de/overcast-web-player-soll-im-kommenden-jahr-eingestellt-werden-app-bleibt/"/>
+        <updated>2022-11-06T10:00:37.000Z</updated>
+        <summary type="html"><![CDATA[Der Entwickler der beliebten App Overcast, einem Podcast-Player, hat sich zu Wort gemeldet und darüber informiert, dass er plane, den Web-Player seines Dienstes im kommenden Jahr einzustellen. Aktuell stehe schon Anfang 2023 im Raum, einen festen Zeitpunkt will er aber...
+Zum Beitrag: Overcast: Web-Player soll im kommenden Jahr eingestellt werden, App bleibt
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>Benjamin Mamerow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TranslateLocally: local translations as an Extension and Desktop app]]></title>
+        <id>https://www.ghacks.net/?p=181673</id>
+        <link href="https://www.ghacks.net/2022/11/06/translatelocally-local-translations-as-an-extension-and-desktop-app/"/>
+        <updated>2022-11-06T09:38:00.000Z</updated>
+        <summary type="html"><![CDATA[TranslateLocally is an open source browser extension and desktop application that promises local translations. It's source is the same that the official Firefox Translations extension uses: Project Bergamot. Project Bergamot is a […]
+Thank you for being a Ghacks reader. The post TranslateLocally: local translations as an Extension and Desktop app appeared first on gHacks Technology News.]]></summary>
+        <author>
+            <name>Martin Brinkmann</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Final Fantasy XVI: Arbeiten am PS5-RPG sind zu 95 Prozent abgeschlossen]]></title>
+        <id>https://www.computerbase.de/2022-11/final-fantasy-xvi-square-enix-release/</id>
+        <link href="https://www.computerbase.de/2022-11/final-fantasy-xvi-square-enix-release/"/>
+        <updated>2022-11-06T07:30:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/6/1/0-0409145658143474/article-640x360.e5ba1129.jpg"><p>Noch vor Ablauf des Jahres möchte Square Enix den offiziellen Veröffentlichungstermin des Action-Rollenspiels Final Fantasy XVI, welches bis auf Weiteres exklusiv auf Sonys PlayStation 5 (Test) erscheinen wird, bekanntgeben. Die Arbeiten am 16. Ableger der Hauptserie seien zu 95 Prozent abgeschlossen, so der Chef-Entwickler.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mozilla Ventures: Risikokapitalfonds für Technologie-Start-ups startet 2023]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1136922</id>
+        <link href="https://stadt-bremerhaven.de/mozilla-ventures-risikokapitalfonds-fuer-technologie-start-ups-startet-2023/"/>
+        <updated>2022-11-06T07:00:18.000Z</updated>
+        <summary type="html"><![CDATA[Mozilla hat bekannt gegeben, dass man mit Mozilla Ventures nun einen Risikokapitalfonds für Start-ups in der Frühphase (Seed-Phase bis Finanzierungsrunde Series A) eröffnet hat, der vor allem den Bereich der Technologie-Investitionen ordentlich voranbringen soll. „Von Grund auf verändern“ heißt es...
+Zum Beitrag: Mozilla Ventures: Risikokapitalfonds für Technologie-Start-ups startet 2023
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>Benjamin Mamerow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wochenrück- und Ausblick: Die RX 7900 XTX stiehlt der RTX 4090 die Show]]></title>
+        <id>https://www.computerbase.de/2022-11/wochenrueckblick-und-ausblick-2022-w44/</id>
+        <link href="https://www.computerbase.de/2022-11/wochenrueckblick-und-ausblick-2022-w44/"/>
+        <updated>2022-11-06T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/6/0/0-042cbf073649875f/article-640x360.c0771021.jpg"><p>Diese Woche stellte AMD die ersten beiden RDNA-3-Grafikkarten vor. Sowohl Radeon RX 7900 XTX und Radeon 7900 XT werden für weniger als 1.000 US-Dollar in den Handel entlassen, was im ComputerBase-Forum für reichlich Gesprächsbedarf sorgte. Gleiches gilt für Henry Cavills Witcher-Abgang und frustrierte Overwatch-Spieler.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Immer wieder sonntags KW 44]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1137222</id>
+        <link href="https://stadt-bremerhaven.de/immer-wieder-sonntags-kw-44-11/"/>
+        <updated>2022-11-06T05:30:29.000Z</updated>
+        <summary type="html"><![CDATA[Es ist wieder einmal Sonntag und ich hoffe, dass ihr alle ein entspanntes Wochenende verbringen könnt. Wer in der Woche zu eingespannt gewesen ist, um täglich ins Blog zu schauen, findet an dieser Stelle wieder einmal eine kleine Zusammenfassung einiger...
+Zum Beitrag: Immer wieder sonntags KW 44
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Firefox 106.0.5 veröffentlicht]]></title>
         <id>https://stadt-bremerhaven.de/?p=1137386</id>
@@ -11486,323 +11707,6 @@ Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
         <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/2/7/7-1dfb4156f7b4bf7b/article-640x360.c790e35a.jpg"><p>Der freie Linux-Desktop KDE Plasma wird mit der für das nächsten Frühjahr erwarteten Version 6.0 auf das GUI-Toolkit und Anwendungsframework Qt in der Version 6.x umgestellt. Zuvor werden mit KDE Plasma 5.26 und 5.27 LTS noch einmal zwei Veröffentlichungen des Desktops auf Basis von Qt 5.x erscheinen.</p>]]></summary>
         <author>
             <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Chrome: Bestimmte Webseiten mit Kürzel durchsuchen]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1132185</id>
-        <link href="https://stadt-bremerhaven.de/google-chrome-bestimmte-webseiten-mit-kuerzel-durchsuchen/"/>
-        <updated>2022-10-08T13:30:37.000Z</updated>
-        <summary type="html"><![CDATA[Die Google-Suche bietet viele Möglichkeiten an, Dinge zu suchen und im besten Falle zu finden. Ich suche Inhalte oft gezielt auf Seiten, sodass ich mittlerweile nicht mehr im Suchfeld von Chrome eingebe „Suchbegriff site:Domain“, stattdessen habe ich mir Kürzel angelegt,...
-Zum Beitrag: Google Chrome: Bestimmte Webseiten mit Kürzel durchsuchen
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>caschy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nanoleaf und Corsair tun sich für Synchronisation ihrer Beleuchtungen zusammen]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1132786</id>
-        <link href="https://stadt-bremerhaven.de/nanoleaf-und-corsair-tun-sich-fuer-synchronisation-ihrer-beleuchtungen-zusammen/"/>
-        <updated>2022-10-08T12:30:46.000Z</updated>
-        <summary type="html"><![CDATA[Nanoleaf war hier im Blog natürlich schon öfter ein Thema: Man bietet smarte Beleuchtungslösungen an. Corsair dürfte euch ebenfalls etwas sagen: Das Unternehmen stellt unter anderem PC-Gehäuse, Arbeitsspeicher, Tastaturen und mehr her. Jetzt tun sich die beiden Hersteller zusammen. Dank...
-Zum Beitrag: Nanoleaf und Corsair tun sich für Synchronisation ihrer Beleuchtungen zusammen
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>André Westphal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Europa-Ausgabe: Samsung Foundry Forum gastiert in München]]></title>
-        <id>https://www.computerbase.de/2022-10/europa-ausgabe-samsung-foundry-forum-gastiert-in-muenchen/</id>
-        <link href="https://www.computerbase.de/2022-10/europa-ausgabe-samsung-foundry-forum-gastiert-in-muenchen/"/>
-        <updated>2022-10-08T12:12:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/2/7/1-340cb69d4c6250f2/article-640x360.f3b3a9a2.jpg"><p>Auf der europäischen Ausgabe des diesjährigen Foundry Forums hat Samsung seine in dieser Woche genannten Ziele noch einmal untermauert. Als Auftragshersteller hat das Unternehmen viel vor, will aber nicht nur bei High-End sondern auch in den Bereichen für Automotive und RF-Lösungen punkten und TSMC herausfordern.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bahnstörung: Sabotage soll der Grund gewesen sein]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1133297</id>
-        <link href="https://stadt-bremerhaven.de/bahnstoerung-sabotage-soll-der-grund-gewesen-sein/"/>
-        <updated>2022-10-08T11:47:53.000Z</updated>
-        <summary type="html"><![CDATA[Der Bahnverkehr stand zeitweilig in Norddeutschland still. Laut der Bahn gab es eine Störung beim digitalen Zugfunk GSM-R (Global System for Mobile Communications – Rail). Dieser dient der Kommunikation zwischen den Leitstellen, die den Zugverkehr steuern. Mittlerweile haben Bahnsprecher bestätigt,...
-Zum Beitrag: Bahnstörung: Sabotage soll der Grund gewesen sein
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>caschy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[„Pathfinder: Wrath of the Righteous“ im Test: Fabulöses RPG mit Startschwierigkeiten]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1133023</id>
-        <link href="https://stadt-bremerhaven.de/pathfinder-wrath-of-the-righteous-im-test-fabuloeses-rpg-mit-startschwierigkeiten/"/>
-        <updated>2022-10-08T10:30:27.000Z</updated>
-        <summary type="html"><![CDATA[Der russische Entwickler Owlcat Games legte bereits 2018 das RPG „Pathfinder: Kingmaker“ für den PC vor. 2020 folgte eine Konsolenportierung, die dann auch direkt alle DLCs mitbrachte. PC-Gamer konnten wiederum schon seit September 2021 die Fortsetzung „Pathfinder: Wrath of the...
-Zum Beitrag: „Pathfinder: Wrath of the Righteous“ im Test: Fabulöses RPG mit Startschwierigkeiten
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>André Westphal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Firefox 105.0.3 veröffentlicht]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1133293</id>
-        <link href="https://stadt-bremerhaven.de/firefox-105-0-3-veroeffentlicht/"/>
-        <updated>2022-10-08T09:38:45.000Z</updated>
-        <summary type="html"><![CDATA[Mozilla hat die Version 105.0.3 des Browsers Firefox an den Start gebracht. Ein kleines Bugfix-Update, denn der Browser hat(te) wohl Schwierigkeiten mit Antivirus-Software von Avast oder AVG. Das sorgte für Abstürze des Browsers auf der Windows-Plattform. Gänzlich behoben sind die...
-Zum Beitrag: Firefox 105.0.3 veröffentlicht
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>caschy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intel Creator Challenge: Raptor Lake-S erreicht bis zu 8,2 GHz unter LN2]]></title>
-        <id>https://www.computerbase.de/2022-10/intel-raptor-lake-8-2-ghz-oc-rekord/</id>
-        <link href="https://www.computerbase.de/2022-10/intel-raptor-lake-8-2-ghz-oc-rekord/"/>
-        <updated>2022-10-08T09:30:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/2/7/6-49becfa6bac45392/article-640x360.0f49a60c.jpg"><p>Ein Core i9-13900KF Engineering Sample hat gekühlt von Flüssigstickstoff (LN2) eine sehr hohe Taktfrequenz erreichen können. Das CPU-Entwicklungsmuster konnte im Finale der im Rahmen der Intel Creator Challenge veranstalteten OC-Competition schlussendlich mit bis zu 8.200 MHz auf einem Kern betrieben werden.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top Four: Tolle Sperrbildschirm-App für das iPhone 14 Pro (Max)]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1132808</id>
-        <link href="https://stadt-bremerhaven.de/top-four-tolle-sperrbildschirm-app-fuer-das-iphone-14-pro-max/"/>
-        <updated>2022-10-08T09:00:06.000Z</updated>
-        <summary type="html"><![CDATA[Der mit Widgets anpassbare Sperrbildschirm von iPhone 14 Pro und iPhone 14 Pro war hier schon einige Male Thema bei uns. Wir haben euch auch ein paar Apps dazu vorgeschlagen, unter anderem Quick Launch oder aber auch Lockflow. In eine...
-Zum Beitrag: Top Four: Tolle Sperrbildschirm-App für das iPhone 14 Pro (Max)
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>caschy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Roccat Syn Max Air sowie Vulcan II Max und Mini vorgestellt]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1132752</id>
-        <link href="https://stadt-bremerhaven.de/roccat-syn-max-air-sowie-vulcan-ii-max-und-mini-vorgestellt/"/>
-        <updated>2022-10-08T07:30:20.000Z</updated>
-        <summary type="html"><![CDATA[Die allseits bekannte, deutsche Zubehörmarke Roccat hat diese Woche angekündigt, dass ihr Gaming-Repertoire um drei neue Produkte gewachsen ist. Konkret gibt es zwei neue Tastaturen und ein neues, kabelloses Headset. Syn Max Air Das neue Funk-Headset Syn Max Air soll...
-Zum Beitrag: Roccat Syn Max Air sowie Vulcan II Max und Mini vorgestellt
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>Timo Schmidt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Logitech G: Neuer Gaming-Stuhl Vantum für 1.309 Euro vorgestellt]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1133068</id>
-        <link href="https://stadt-bremerhaven.de/logitech-g-neuer-gaming-stuhl-vantum-fuer-1-309-euro-vorgestellt/"/>
-        <updated>2022-10-08T06:00:07.000Z</updated>
-        <summary type="html"><![CDATA[Wer lange zocken will, der muss auch gut sitzen können. Das hat man sich auch bei Logitech gedacht und hat so mit seiner Gaming-Hardware-Marke Logitech G gemeinsam mit Herman Miller den neuen Gaming-Stuhl „Vantum“ vorgestellt. Jener kostet stolze 1.309 Euro,...
-Zum Beitrag: Logitech G: Neuer Gaming-Stuhl Vantum für 1.309 Euro vorgestellt
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>Benjamin Mamerow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Im Test vor 15 Jahren: Die besten Radeon HD 2600 XT waren blau]]></title>
-        <id>https://www.computerbase.de/2022-10/ati-radeon-hd-2600-xt-test-vergleich-rueckblick/</id>
-        <link href="https://www.computerbase.de/2022-10/ati-radeon-hd-2600-xt-test-vergleich-rueckblick/"/>
-        <updated>2022-10-08T06:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/2/4/5-9e2f4295709b3c4b/article-640x360.6660f2e1.jpg"><p>Im Test vor 15 Jahren standen fünf ATi Radeon HD 2600 XT (Test), die viel Bekanntes und wenig Neues boten. Die besten Modelle stammten von HIS und Sapphire, die entweder mit Übertaktung und extra Videospeicher oder einer guten passiven Kühlung und günstigem Preis überzeugten.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MSI MEG Prospect 700R: Großer Tower wirbt mit Touchscreen-Steuerung]]></title>
-        <id>https://www.computerbase.de/2022-10/msi-meg-prospect-700r-grosser-tower-wirbt-mit-touchscreen-steuerung/</id>
-        <link href="https://www.computerbase.de/2022-10/msi-meg-prospect-700r-grosser-tower-wirbt-mit-touchscreen-steuerung/"/>
-        <updated>2022-10-08T05:41:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/2/7/5-923f65370de1bfa9/article-640x360.d74bc748.jpg"><p>MSI baut ein großes Tower-Gehäuse mit rund 80 Liter Volumen. Zum Blickfang wird weniger das kantige Design, sondern ein Touchscreen an der Front zur Lüfter- und Lichtsteuerung. Hier werden zudem Statusinformationen oder einfach das Wetter angezeigt.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mozilla rushes to address an Avast bug that causes crashes in Firefox]]></title>
-        <id>https://www.ghacks.net/?p=181159</id>
-        <link href="https://www.ghacks.net/2022/10/08/mozilla-rushes-to-address-an-avast-bug-that-causes-crashes-in-firefox/"/>
-        <updated>2022-10-08T05:04:22.000Z</updated>
-        <summary type="html"><![CDATA[Thousands of Firefox users reported crashes of the Firefox web browser to Mozilla, the maker of the browser. The, often angry user comments, all reported that Firefox had crashed out of a […]
-Thank you for being a Ghacks reader. The post Mozilla rushes to address an Avast bug that causes crashes in Firefox appeared first on gHacks Technology News.]]></summary>
-        <author>
-            <name>Martin Brinkmann</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple TV+: Apple veröffentlicht Trailer zur dritten Staffel von „Ghostwriter“]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1133094</id>
-        <link href="https://stadt-bremerhaven.de/apple-tv-apple-veroeffentlicht-trailer-zur-dritten-staffel-von-ghostwriter/"/>
-        <updated>2022-10-08T04:30:27.000Z</updated>
-        <summary type="html"><![CDATA[Apple hat mit der ersten Staffel seiner Kinderserie „Ghostwriter“ bei den Daytime Emmys abgesahnt. Am 21. Oktober wird die dritte Staffel der Produktion an den Start gehen, die mit einem komplett neuen Cast um die Ecke kommt. Die in den...
-Zum Beitrag: Apple TV+: Apple veröffentlicht Trailer zur dritten Staffel von „Ghostwriter“
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>Olli</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Systemanforderungen: Next-Gen-Grafik im Dead Space Remake will Leistung]]></title>
-        <id>https://www.computerbase.de/2022-10/systemanforderungen-next-gen-grafik-im-dead-space-remake-will-leistung/</id>
-        <link href="https://www.computerbase.de/2022-10/systemanforderungen-next-gen-grafik-im-dead-space-remake-will-leistung/"/>
-        <updated>2022-10-07T18:39:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/2/7/4-1079a56e03fe29e1/article-640x360.8527cf14.jpg"><p>Das Remake von Dead Space verspricht zeitgemäße Grafik und Horror, der durch atmosphärische Licht- und andere ansehnliche Grafikeffekte verstärkt wird. Der Albtraum hat einen Preis: Die Systemanforderungen sind nicht gerade niedrig.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Samsung mit stark sinkenden Gewinnen im dritten Quartal 2022]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1133283</id>
-        <link href="https://stadt-bremerhaven.de/samsung-mit-stark-sinkenden-gewinnen-im-dritten-quartal-2022/"/>
-        <updated>2022-10-07T18:30:49.000Z</updated>
-        <summary type="html"><![CDATA[Laut dem Medium Nikkei Asia ist der Gewinn von Samsung im dritten Quartal dieses Jahres um 31,7 % (rund 7,7 Mrd. US-Dollar) gegenüber dem Vorjahreszeitraum gesunken. Gründe hierfür waren vor allem die geringe Nachfrage nach Chipsätzen und natürlich auch die...
-Zum Beitrag: Samsung mit stark sinkenden Gewinnen im dritten Quartal 2022
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>Benjamin Mamerow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Xplora Smartwatch: Sicherheitslücke in API ermöglichte GPS-Verfolgung fremder Uhren]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1133276</id>
-        <link href="https://stadt-bremerhaven.de/xplora-smartwatch-sicherheitsluecke-in-api-ermoeglichte-gps-verfolgung-fremder-uhren/"/>
-        <updated>2022-10-07T18:00:02.000Z</updated>
-        <summary type="html"><![CDATA[Vielen Eltern mit technischem Interesse könnte die sogenannte Xplora Smartwatch durchaus schon einmal untergekommen sein. Es handelt sich hierbei um eine recht beliebte Kinder-Smartwatch, die hierzulande auch bei der Telekom vertrieben wird und unter anderem das Orten der Uhr per...
-Zum Beitrag: Xplora Smartwatch: Sicherheitslücke in API ermöglichte GPS-Verfolgung fremder Uhren
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>Benjamin Mamerow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[6G: Telekom übernimmt die Leitung des Forschungsprojekts 6G-TakeOff]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1133253</id>
-        <link href="https://stadt-bremerhaven.de/6g-telekom-uebernimmt-die-leitung-des-forschungsprojekts-6g-takeoff/"/>
-        <updated>2022-10-07T17:30:08.000Z</updated>
-        <summary type="html"><![CDATA[Das Bundesministerium für Bildung und Forschung (BMBF) hat das Forschungsprojekt „6G-TakeOff“ für die nächste Mobilfunk-Generation im vergangenen Jahr ins Leben gerufen. Man erhofft sich da 6G-Industrieprojekte und möchte auch einen Fuß in die Tür für die 6. Generation Mobilfunk bekommen,...
-Zum Beitrag: 6G: Telekom übernimmt die Leitung des Forschungsprojekts 6G-TakeOff
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>Felix Frank</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Pixel: Aktualisierte Sound-App bringt neue Töne]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1133216</id>
-        <link href="https://stadt-bremerhaven.de/google-pixel-aktualisierte-sound-app-bringt-neue-toene/"/>
-        <updated>2022-10-07T16:00:18.000Z</updated>
-        <summary type="html"><![CDATA[Gestern hat Google das Pixel 7, das Pixel 7 Pro sowie die Pixel Watch vorgestellt. Damit einhergehend erfolgten auch ein paar Updates, beispielsweise gibt’s die neue Home-App für Smartwatches mit Wear OS 3.x. Doch damit nicht genug, Freunde der Systemklänge...
-Zum Beitrag: Google Pixel: Aktualisierte Sound-App bringt neue Töne
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>caschy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LEGO: Neuer Tischkicker schickt euch auf den (Kunst-)Rasen]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1133219</id>
-        <link href="https://stadt-bremerhaven.de/lego-neuer-tischkicker-schickt-euch-auf-den-kunst-rasen/"/>
-        <updated>2022-10-07T15:30:04.000Z</updated>
-        <summary type="html"><![CDATA[LEGO-Fans mit Fußball-Affinität können 250 Euro investieren, dafür gibt’s Anfang November einen Tischkicker aus Klemmbausteinen von LEGO. Nein, bei dem Preis ist er nicht in Originalgröße gehalten, stattdessen bekommt ihr  41,28 cm x 29 cm x 15,26 cm (H x...
-Zum Beitrag: LEGO: Neuer Tischkicker schickt euch auf den (Kunst-)Rasen
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>caschy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Stadia: Weitere Details zur Rückerstattung von Käufen]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1133247</id>
-        <link href="https://stadt-bremerhaven.de/google-stadia-weitere-details-zur-rueckerstattung-von-kaeufen/"/>
-        <updated>2022-10-07T15:00:21.000Z</updated>
-        <summary type="html"><![CDATA[Es ist vermutlich keinem entgangen: Die Streaming-Plattform Google Stadia wird eingestellt. Glück im Unglück: Google wird den Spielern Spiele- und Hardwarekäufe rückerstatten. Man arbeite derzeit an diesem Prozess und werde genaue Informationen bereitstellen, sobald man den Prozess für die einzelnen...
-Zum Beitrag: Google Stadia: Weitere Details zur Rückerstattung von Käufen
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>caschy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple TV: Trailer zum Film „Causeway“ mit Oscar-Gewinnerin Jennifer Lawrence]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1133100</id>
-        <link href="https://stadt-bremerhaven.de/apple-tv-trailer-zum-film-causeway-mit-oscar-gewinnerin-jennifer-lawrence/"/>
-        <updated>2022-10-07T14:30:39.000Z</updated>
-        <summary type="html"><![CDATA[Apple kauft für seinen Streaming-Dienst nicht nur Inhalte hinzu, sondern produziert mit Partnern auch selbst. Im neusten Falle sicherte sich Apple die Rechte an dem Film „Causeway“, der von A24 produziert und entwickelt wurde und in dem Oscar-Gewinnerin Jennifer Lawrence...
-Zum Beitrag: Apple TV: Trailer zum Film „Causeway“ mit Oscar-Gewinnerin Jennifer Lawrence
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>Olli</name>
         </author>
     </entry>
 </feed>
