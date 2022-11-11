@@ -2,10 +2,534 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://olivedrop.github.io/drop/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-10T02:04:35.766Z</updated>
+    <updated>2022-11-11T02:04:26.221Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://olivedrop.github.io/drop/index.html"/>
     <link rel="self" href="https://olivedrop.github.io/drop/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AMD Epyc 9004 („Genoa“): Bis zu 96-Zen-4-Kerne für Data-Center und Cloud-Server (Update)]]></title>
+        <id>https://www.computerbase.de/2022-11/amd-epyc-9004-genoa-bis-zu-96-zen-4-kerne-fuer-data-center-und-cloud-server/</id>
+        <link href="https://www.computerbase.de/2022-11/amd-epyc-9004-genoa-bis-zu-96-zen-4-kerne-fuer-data-center-und-cloud-server/"/>
+        <updated>2022-11-10T19:45:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/6/7/2-4210bb0b91e52b13/article-640x360.e454f395.jpg"><p>AMD Epyc 9004 („Genoa“) bringt bis zu 96-Zen-4-Kerne für Data-Center, Cloud-Server und Supercomputer in den professionellen Enterprise-Bereich. Der Hersteller verspricht eine 94 bis 123 Prozent höhere Leistung in den Bereichen HPC, Cloud und Enterprise sowie reduzierte Latenzen durch nochmal größere und weiter optimierte Caches.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[John Wick: Chapter 4 startet am 24. März 2023 in den Kinos]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1138229</id>
+        <link href="https://stadt-bremerhaven.de/john-wick-chapter-4-startet-am-24-maerz-2023-in-den-kinos/"/>
+        <updated>2022-11-10T19:30:59.000Z</updated>
+        <summary type="html"><![CDATA[Nicht nur ein Triple-A-Videospiel soll es zum Hundefreund John Wick geben, natürlich freuen sich die meisten Fans bereits auf den neuesten, mittlerweile vierten Teil der Filmreihe mit Keanu Reeves. Via Twitter wurde nun offiziell verkündet, dass der Film am 23....
+Zum Beitrag: John Wick: Chapter 4 startet am 24. März 2023 in den Kinos
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>Benjamin Mamerow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Call of Duty: Modern Warfare II: GeForce 526.86 ist für den Ego-Shooter optimiert]]></title>
+        <id>https://www.computerbase.de/2022-11/nvidia-geforce-526-86-call-of-duty-modern-warfare-2/</id>
+        <link href="https://www.computerbase.de/2022-11/nvidia-geforce-526-86-call-of-duty-modern-warfare-2/"/>
+        <updated>2022-11-10T19:02:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/6/7/6-3b96d53698a61cf7/article-640x360.8460c1c9.jpg"><p>Nvidias neuester Grafiktreiber, der GeForce 526.86 WHQL („Game Ready“), ist für den Ego-Shooter Call of Duty: Modern Warfare II von Activision und Infinity Ward optimiert worden. Der Treiber soll Bildfehler beheben und die Stabilität erhöhen sowie einen besseren Support für Nvidia DLSS 2 (Test) und Nvidia Reflex (Test) bieten.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[49-Euro-Ticket: Pro Bahn fordert mehr Geld von Bund und Ländern]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1138189</id>
+        <link href="https://stadt-bremerhaven.de/49-euro-ticket-pro-bahn-fordert-mehr-geld-von-bund-und-laendern/"/>
+        <updated>2022-11-10T19:00:55.000Z</updated>
+        <summary type="html"><![CDATA[Der Fahrgastverband Pro Bahn fordert laut Tagesschau, dass das kommende 49-Euro-Ticket vollständig von Bund und Ländern gestemmt werden sollte. Die Ausgabe der Verkehrsunternehmen müssten vollständig kompensiert werden, sonst könnten negative Konsequenzen für den Nahverkehr drohen. Damit stimmt man in den...
+Zum Beitrag: 49-Euro-Ticket: Pro Bahn fordert mehr Geld von Bund und Ländern
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Play weitet Pilotprojekt zur Abrechnung mit Drittanbietern aus]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1138224</id>
+        <link href="https://stadt-bremerhaven.de/google-play-weitet-pilotprojekt-zur-abrechnung-mit-drittanbietern-aus/"/>
+        <updated>2022-11-10T18:30:23.000Z</updated>
+        <summary type="html"><![CDATA[Google hat bekannt gegeben, dass man das Pilotprojekt zur Abrechnung nach Wahl des Nutzers ausweitet. Mit diesem Projekt haben Entwickler die Möglichkeit, eigene Bezahlsysteme in ihre Apps zu implementieren. Ganz neu ist das nicht, Google weitet das Ganze nur weiter...
+Zum Beitrag: Google Play weitet Pilotprojekt zur Abrechnung mit Drittanbietern aus
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nvidia GeForce Now Thursday: 10 neue Spiele und digitale GeForce-Now-Geschenkkarten]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1138196</id>
+        <link href="https://stadt-bremerhaven.de/nvidia-geforce-now-thursday-10-neue-spiele-und-digitale-geforce-now-geschenkkarten/"/>
+        <updated>2022-11-10T18:00:24.000Z</updated>
+        <summary type="html"><![CDATA[Nvidia hat zum GeForce Now Thurday diese Woche nicht nur neue Spiele für sein Cloud-Gaming-Angebot bestätigt, sondern verkündet auch die Verfügbarkeit von digitalen GeForce-Now-Geschenkkarten. Wer so eine Karte erhält, kann sie für eine Mitgliedschaft seiner Wahl einlösen, sei es eine...
+Zum Beitrag: Nvidia GeForce Now Thursday: 10 neue Spiele und digitale GeForce-Now-Geschenkkarten
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Samsung Display: QD-OLED-Panels mit 27 Zoll für Apple-Monitore geplant]]></title>
+        <id>https://www.computerbase.de/2022-11/samsung-display-qd-oled-panels-mit-27-zoll-fuer-apple-monitore-geplant/</id>
+        <link href="https://www.computerbase.de/2022-11/samsung-display-qd-oled-panels-mit-27-zoll-fuer-apple-monitore-geplant/"/>
+        <updated>2022-11-10T17:45:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/6/7/7-3f0e7a579bcdbdb4/article-640x360.fcdd8adf.jpg"><p>Die ersten Monitore mit Samsungs QD-OLED-Technik bieten 34 Zoll im UltraWide-Format 21:9. Doch bald könnte es auch 27-Zoll-Modelle (in 16:9?) geben. Laut einem Bericht aus Südkorea erwägt Samsung Display die Herstellung entsprechender Panels in der neuen Display-Fabrik A5.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Witcher: Blood Origin: Prequel-Serie startet am 25. Dezember]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1138212</id>
+        <link href="https://stadt-bremerhaven.de/the-witcher-blood-origin-prequel-serie-startet-am-25-dezember/"/>
+        <updated>2022-11-10T17:34:15.000Z</updated>
+        <summary type="html"><![CDATA[The Witcher funktioniert für Netflix – daran wird vermutlich auch der Ausstieg von Henry Cavill nicht viel ändern. Man wird das Universum rund um The Witcher gar erweitern. Einen Vorgeschmack bekommt man nun mit dem ersten Trailer zur kommenden Serie...
+Zum Beitrag: The Witcher: Blood Origin: Prequel-Serie startet am 25. Dezember
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nvidia GeForce RTX 2060 (Super): Die populärste Turing-Grafikkarte stehe vor dem Aus]]></title>
+        <id>https://www.computerbase.de/2022-11/nvidia-geforce-rtx-2060-super-die-populaerste-turing-grafikkarte-stehe-vor-dem-aus/</id>
+        <link href="https://www.computerbase.de/2022-11/nvidia-geforce-rtx-2060-super-die-populaerste-turing-grafikkarte-stehe-vor-dem-aus/"/>
+        <updated>2022-11-10T17:29:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/6/7/5-ff6ba65fafaac224/article-640x360.b9fdac2d.jpg"><p>Quellen aus Asien zufolge stehen die Anfang 2019 erschienene und nach wie vor populäre GeForce RTX 2060 (Test) und die GeForce RTX 2060 Super (Test) vor dem Aus – Nvidia stelle den entsprechenden Grafikchip TU106 nicht länger her.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WerStreamt.es zeigt, welche Titel in Netflix werbefinanziertem Basis-Tarif fehlen]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1138177</id>
+        <link href="https://stadt-bremerhaven.de/werstreamt-es-zeigt-welche-titel-in-netflix-werbefinanziertem-basis-tarif-fehlen/"/>
+        <updated>2022-11-10T17:00:35.000Z</updated>
+        <summary type="html"><![CDATA[Viele unserer Leser kennen und nutzen vielleicht sogar das Portal WerStreamt.es. Für diejenigen, die noch nicht damit in Berührung gekommen sind: Ihr könnt in der Datenbank dort nach Filmen, Serien und Co. suchen. Anschließend wird euch angezeigt, welche Streaming- oder...
+Zum Beitrag: WerStreamt.es zeigt, welche Titel in Netflix werbefinanziertem Basis-Tarif fehlen
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Razer Wolverine V2 Pro: Individualisierbarer Controller für PS5 und PC kostet 300 Euro]]></title>
+        <id>https://www.computerbase.de/2022-11/razer-wolverine-v2-pro-individualisierbarer-controller-fuer-ps5-und-pc-kostet-300-euro/</id>
+        <link href="https://www.computerbase.de/2022-11/razer-wolverine-v2-pro-individualisierbarer-controller-fuer-ps5-und-pc-kostet-300-euro/"/>
+        <updated>2022-11-10T16:46:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/6/7/3-a1c14b6a43fb1d45/article-640x360.6f2e28de.jpg"><p>Nach dem Wolverine V2 Chroma für die Xbox im letzten Jahr bringt Razer mit dem Razer Wolverine V2 Pro einen ähnlich ausgelegten Controller für die PS5 und den PC, der kabellos und anpassbar ist. Mit 300 Euro fällt er teurer aus als der Sony DualSense Edge, der für 240 Euro vorbestellt werden kann und Ende Januar 2023 erscheint.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Roku: US-Nutzer bekommen neuen Sportbereich]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1138173</id>
+        <link href="https://stadt-bremerhaven.de/roku-us-nutzer-bekommen-neuen-sportbereich/"/>
+        <updated>2022-11-10T16:30:36.000Z</updated>
+        <summary type="html"><![CDATA[Roku, in Deutschland noch als „frisch“ zu bezeichnender Anbieter von Streaming-Lösungen (hier einige unserer Berichte), hat in den USA eine neue Funktion an den Start gebracht. Sport-Interessierte finden dort neue, kuratierte Inhalte vor. Nutzer müssen sich nicht mehr durch mehrere...
+Zum Beitrag: Roku: US-Nutzer bekommen neuen Sportbereich
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thunderbird: Wichtige Info für Nutzer von „Microsoft Office 365 Enterprise“]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1138185</id>
+        <link href="https://stadt-bremerhaven.de/thunderbird-wichtige-info-fuer-nutzer-von-microsoft-office-365-enterprise/"/>
+        <updated>2022-11-10T16:15:44.000Z</updated>
+        <summary type="html"><![CDATA[Die Entwickler von Thunderbird warnen derzeit Nutzer von „Office 365 Enterprise“. In einer kommenden Version der Thunderbird 102.x-Serie werde man einige Änderungen an der Art und Weise vornehmen, wie Thunderbird die OAuth2-Autorisierung mit Microsoft-Konten handhabe. Dies kann für Benutzer, die...
+Zum Beitrag: Thunderbird: Wichtige Info für Nutzer von „Microsoft Office 365 Enterprise“
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Epic Games Store: „Shadow Tactics: Blades of the Shogun“ und „Alba – A Wildlife Adventure“ kostenlos erhältlich]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1137994</id>
+        <link href="https://stadt-bremerhaven.de/epic-games-store-shadow-tactics-blades-of-the-shogun-und-alba-a-wildlife-adventure-kostenlos-erhaeltlich/"/>
+        <updated>2022-11-10T16:00:37.000Z</updated>
+        <summary type="html"><![CDATA[Epic Games haut jeden Donnerstag mindestens ein kostenloses Spiel raus. In dieser Woche ist es nicht nur eins, sondern wieder einmal zwei Stück, aus denen ihr wählen könnt. Ihr könnt auch alle beide zu eurer Mediathek hinzufügen, ein Konto im...
+Zum Beitrag: Epic Games Store: „Shadow Tactics: Blades of the Shogun“ und „Alba – A Wildlife Adventure“ kostenlos erhältlich
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>Olli</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Canon: EOS Webcam Utility bekommt kostenpflichtige Pro-Funktionen]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1138180</id>
+        <link href="https://stadt-bremerhaven.de/canon-eos-webcam-utility-bekommt-kostenpflichtige-pro-funktionen/"/>
+        <updated>2022-11-10T15:45:24.000Z</updated>
+        <summary type="html"><![CDATA[Canon hat das Webcam Utility (für Windows und macOS zu haben) aktualisiert und hat ein Abo eingeführt. Gestartet ist die Bezahlfunktion erst einmal in den USA, 4,99 Dollar werden im Monat fällig. Das EOS Webcam Utility macht ausgewählte Canon-Kameras zu...
+Zum Beitrag: Canon: EOS Webcam Utility bekommt kostenpflichtige Pro-Funktionen
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PlayStation Plus Extra und Premium: Diese Spiele stoßen im November 2022 hinzu]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1138081</id>
+        <link href="https://stadt-bremerhaven.de/playstation-plus-extra-und-premium-diese-spiele-stossen-im-november-2022-hinzu/"/>
+        <updated>2022-11-10T15:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Sony hat bestätigt, welche Games in diesem Monat zum Abonnement bei PlayStation Plus Extra und Premium hinzustoßen. Hereinschauen könnt ihr in die neuen Titel ab dem 15. November 2022 – vorausgesetzt natürlich, dass ihr ein kostenpflichtiges Abo abgeschlossen habt bzw....
+Zum Beitrag: PlayStation Plus Extra und Premium: Diese Spiele stoßen im November 2022 hinzu
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PlayStation Store: Angebote wieder mit „Spielen unter 20 Euro“]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1138094</id>
+        <link href="https://stadt-bremerhaven.de/playstation-store-angebote-wieder-mit-spielen-unter-20-euro/"/>
+        <updated>2022-11-10T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Im PlayStation Store laufen immer noch die November-Rabatte mit bis zu 65 % Preisnachlass, die allerdings am 19.11.2022 ablaufen. Ebenfalls sind Deals für „Spiele unter 20 Euro“ aktiv. Diese erstrecken sich eine ganze Weile länger, nämlich noch bis 29.11.2022. Vielleicht...
+Zum Beitrag: PlayStation Store: Angebote wieder mit „Spielen unter 20 Euro“
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iPhone 14: Emergency SOS über Satellit startet noch diesen November]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1138167</id>
+        <link href="https://stadt-bremerhaven.de/iphone-14-emergency-sos-ueber-satellit-startet-noch-diesen-november/"/>
+        <updated>2022-11-10T14:45:42.000Z</updated>
+        <summary type="html"><![CDATA[Für die meisten Menschen auf der Welt noch nutzlos: Emergency SOS beim iPhone 14. Vereinfacht: Wenn ihr euch draußen verlauft, bietet das iPhone 14 (aktuelle Reihe) einen Satelliten-Notruf an, das funktioniert auch ohne mobilen Empfang. Auch Text-Nachrichten können über Satelliten...
+Zum Beitrag: iPhone 14: Emergency SOS über Satellit startet noch diesen November
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HPE-Server mit Epyc 9004: Erste AMD-Genoa-Systeme zum Launch bestellbar]]></title>
+        <id>https://www.computerbase.de/2022-11/hpe-server-mit-epyc-9004-erste-amd-genoa-systeme-zum-launch-bestellbar/</id>
+        <link href="https://www.computerbase.de/2022-11/hpe-server-mit-epyc-9004-erste-amd-genoa-systeme-zum-launch-bestellbar/"/>
+        <updated>2022-11-10T14:43:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/6/7/4-1fdfd307281e64ec/article-640x360.7d9f3b7b.jpg"><p>HPE hat kurz vor dem offiziellen Startschuss bereits erste Serversysteme mit AMD Epyc 9004, Codename Genoa, angekündigt. Diese sind zum Teil sogar direkt ab heute bestellbar, die Lieferung der ersten wassergekühlten Lösungen soll am 5. Dezember erfolgen.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Twitter: Musk liebäugelt mit eigenem Bezahlsystem]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1138053</id>
+        <link href="https://stadt-bremerhaven.de/twitter-musk-liebaeugelt-mit-eigenem-bezahlsystem/"/>
+        <updated>2022-11-10T14:30:16.000Z</updated>
+        <summary type="html"><![CDATA[Twitter könnte ein eigenes, natives Zahlungssystem erhalten. Elon Musk hatte dies kürzlich in einer Spaces-Fragerunde in Aussicht gestellt. Zusätzlich hat die New York Times entdeckt, dass das soziale Netzwerk in den USA bereits den entsprechenden Papierkram beim Financial Crimes Enforcement...
+Zum Beitrag: Twitter: Musk liebäugelt mit eigenem Bezahlsystem
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cyberpunk Patch 1.61 liefert lang erwartetes Feature (mit Video)]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1138151</id>
+        <link href="https://stadt-bremerhaven.de/cyberpunk-patch-1-61-liefert-lang-erwartetes-feature-mit-video/"/>
+        <updated>2022-11-10T14:00:31.000Z</updated>
+        <summary type="html"><![CDATA[Das ikonische Rollenspiel Cyberpunk 2077 des polnischen Entwickler-Studios CD Projekt Red hatte einen mehr als nur gebeutelten Start: Neben Bugs und Abstürzen auf allen Plattformen war insbesondere die alles andere als zufriedenstellende Performance maßgeblich am verständlicherweise negativen Echo des jahrelangen...
+Zum Beitrag: Cyberpunk Patch 1.61 liefert lang erwartetes Feature (mit Video)
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>Timo Schmidt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Roku SE: Aldi bringt Streaming-Stick für 18 Euro nach Deutschland]]></title>
+        <id>https://www.computerbase.de/2022-11/roku-se-aldi-bringt-streaming-stick-fuer-18-euro-nach-deutschland/</id>
+        <link href="https://www.computerbase.de/2022-11/roku-se-aldi-bringt-streaming-stick-fuer-18-euro-nach-deutschland/"/>
+        <updated>2022-11-10T13:31:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/6/6/9-073fee45a9da5ac4/article-640x360.2f684e34.jpg"><p>Der günstigste Streaming-Stick von Roku, der Roku SE, kommt in neuer Farbe nun auch nach Deutschland. Aldi Nord wird den weißen Roku SE exklusiv ab sofort bis zum 22. November in den eigenen Filialen für 17,99 Euro anbieten. Bislang war das preislich unter dem Roku Express angesiedelte Modell in Deutschland nicht erhältlich.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zufallsfund: Google Pixel erlaubte lange Zeit Umgehung des Sperrbildschirms]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1138147</id>
+        <link href="https://stadt-bremerhaven.de/zufallsfund-google-pixel-erlaubte-lange-zeit-umgehung-des-sperrbildschirms/"/>
+        <updated>2022-11-10T13:30:36.000Z</updated>
+        <summary type="html"><![CDATA[In einem Blogbeitrag berichtet ein Sicherheitsforscher, wie er zufällig eine Sicherheitslücke in Pixel-Geräten fand. Diese erlaubte es ihm, den Sperrbildschirm zu umgehen und so auf die Inhalte des Android-Smartphones zuzugreifen. Google ließ sich mehrere Monate Zeit, den Fehler zu beheben,...
+Zum Beitrag: Zufallsfund: Google Pixel erlaubte lange Zeit Umgehung des Sperrbildschirms
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sonos startet Rabattaktion vom 18. bis 28. November 2022]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1137544</id>
+        <link href="https://stadt-bremerhaven.de/sonos-startet-rabattaktion-vom-18-bis-28-november/"/>
+        <updated>2022-11-10T12:59:36.000Z</updated>
+        <summary type="html"><![CDATA[Die Weihnachtszeit rückt in greifbare Nähe. In Kürze werden wir im Rahmen des Black Fridays von Herstellern wohl wieder mit Angeboten überschüttet. Sonos läutet seine Rabattaktion für die Vorweihnachtszeit bereits ab kommender Woche ein: vom 18. bis zum 28. November,...
+Zum Beitrag: Sonos startet Rabattaktion vom 18. bis 28. November 2022
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>Felix Frank</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Miele 3D4U: Einfach mal den Staubsauger mit 3D-Zubehör pimpen]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1137786</id>
+        <link href="https://stadt-bremerhaven.de/miele-3d4u-einfach-mal-den-staubsauger-mit-3d-zubehoer-pimpen/"/>
+        <updated>2022-11-10T12:30:38.000Z</updated>
+        <summary type="html"><![CDATA[Miele-Staubsauger am Start und praktischerweise auch direkt noch einen FLM-Drucker? Dann hat Miele mit seinem neuen Angebot „3D4U“ vielleicht genau das richtige für euch. So bietet man dort, besser gesagt auf Thingiverse, allerhand 3D-druckbares Zubehör in Form von Druckvorlagen an....
+Zum Beitrag: Miele 3D4U: Einfach mal den Staubsauger mit 3D-Zubehör pimpen
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>Benjamin Mamerow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cell Broadcast: SMS informieren zum Warntag am 8. Dezember]]></title>
+        <id>https://www.computerbase.de/2022-11/cell-broadcast-sms-informieren-zum-warntag-am-8-dezember/</id>
+        <link href="https://www.computerbase.de/2022-11/cell-broadcast-sms-informieren-zum-warntag-am-8-dezember/"/>
+        <updated>2022-11-10T12:22:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/6/6/7-5724287a2f6d8ae8/article-640x360.4161e09a.jpg"><p>Für den 8. Dezember ist der bundesweite Warntag angesetzt. Dann wollen die Mobilfunknetzbetreiber wie im Sommer geplant das neue Cell-Broadcast-System testen. Über den anstehenden Warntag werden Mobilfunkkunden derzeit per SMS informiert.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thunderbird Supernova: E-Mail-Client soll sich 2023 neu erfinden]]></title>
+        <id>https://www.computerbase.de/2022-11/thunderbird-supernova-e-mail-client/</id>
+        <link href="https://www.computerbase.de/2022-11/thunderbird-supernova-e-mail-client/"/>
+        <updated>2022-11-10T12:04:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/6/6/3-39ebd02b4d8d5be8/article-640x360.63605700.jpg"><p>Der populäre Open-Source-E-Mail-Client Thunderbird soll sich unter dem Codenamen „Supernova“ in 2023 neu erfinden. Nachdem die Mozilla Foundation das Projekt im Januar 2020 in das ausgegründete Tochterunternehmen MZLA Technologies Corporation überführt hat, steht nun die Neuausrichtung inklusive neuer Benutzeroberfläche an.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FIFA World Cup: Google bietet wieder jede Menge Informationen]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1138107</id>
+        <link href="https://stadt-bremerhaven.de/fifa-world-cup-google-bietet-wieder-jede-menge-informationen/"/>
+        <updated>2022-11-10T12:00:38.000Z</updated>
+        <summary type="html"><![CDATA[Die Weltmeisterschaft im Fußball steht vor der Tür. Berechtigterweise kritisiert, werden sie viele Menschen sicherlich so gut es geht boykottieren oder ignorieren. Doch medial wird vieles wie immer sein. Für Fans, die sich auf den Fußball fokussieren, hat Google bald...
+Zum Beitrag: FIFA World Cup: Google bietet wieder jede Menge Informationen
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ghacks Deals: The Ultimate Microsoft Excel Certification Training Bundle]]></title>
+        <id>https://www.ghacks.net/?p=181750</id>
+        <link href="https://www.ghacks.net/2022/11/10/ghacks-deals-the-ultimate-microsoft-excel-certification-training-bundle-2/"/>
+        <updated>2022-11-10T11:54:33.000Z</updated>
+        <summary type="html"><![CDATA[The Ultimate Microsoft Excel Certification Training Bundle includes 6 different courses that help learners advance their Excel skills. A beginner to advanced course is included for those starting fresh with Excel, but […]
+Thank you for being a Ghacks reader. The post Ghacks Deals: The Ultimate Microsoft Excel Certification Training Bundle appeared first on gHacks Technology News.]]></summary>
+        <author>
+            <name>Martin Brinkmann</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Philips Hue Festavia: Smarte Lichterkette mit 250 LEDs nicht nur für den Weihnachts­baum]]></title>
+        <id>https://www.computerbase.de/2022-11/philips-hue-festavia-smarte-lichterkette-mit-250-leds-nicht-nur-fuer-den-weihnachtsbaum/</id>
+        <link href="https://www.computerbase.de/2022-11/philips-hue-festavia-smarte-lichterkette-mit-250-leds-nicht-nur-fuer-den-weihnachtsbaum/"/>
+        <updated>2022-11-10T11:44:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/6/6/5-31f6cfea5d5cef78/article-640x360.c1b41695.jpg"><p>Mit Philips Hue Festavia bringt Signify pünktlich zur Weihnachtszeit eine smarte Lichterkette auf den Markt, die mit verschiedenen Effekten für ein farbenfrohes Ambiente oder einen bunten Weihnachtsbaum sorgen soll.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Leica Leitz Phone 2 vorgestellt: Smartphone für Kamera-Enthusiasten]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1138059</id>
+        <link href="https://stadt-bremerhaven.de/leica-leitz-phone-2-vorgestellt-smartphone-fuer-kamera-enthusiasten/"/>
+        <updated>2022-11-10T11:30:52.000Z</updated>
+        <summary type="html"><![CDATA[Im Juli 2021 erschien in Japan das Leitz Phone 1, das Ergebnis einer Zusammenarbeit des deutschen Kameraherstellers Leica sowie des japanischen Anbieters Sharp. Diese Kooperation trägt erneut Früchte, nämlich in Form des Leica Leitz Phone 2. Leider erscheint auch dieses...
+Zum Beitrag: Leica Leitz Phone 2 vorgestellt: Smartphone für Kamera-Enthusiasten
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Elektrisches SUV: EX90 soll als erster Volvo autonom fahren können]]></title>
+        <id>https://www.computerbase.de/2022-11/elektrisches-suv-ex90-soll-als-erster-volvo-autonom-fahren-koennen/</id>
+        <link href="https://www.computerbase.de/2022-11/elektrisches-suv-ex90-soll-als-erster-volvo-autonom-fahren-koennen/"/>
+        <updated>2022-11-10T11:23:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/6/6/4-0d793e69149e415f/article-640x360.be49e0b9.jpg"><p>Volvo hat den EX90 als elektrisches SUV mit sieben Sitzen vorgestellt. Das für Ende 2023 bis Anfang 2024 geplante Fahrzeug vertraut bei den Assistenzsystemen auf Nvidia Drive Orin und soll eines Tages als erster Volvo überhaupt autonom fahren können. Das Android-Automotive-Cockpit läuft auf Snapdragon-Hardware mit Unreal Engine.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WD Black SN850X SSD im Test: Das X steht für maximale Leistung]]></title>
+        <id>https://www.computerbase.de/2022-11/wd-black-sn850x-ssd-test/</id>
+        <link href="https://www.computerbase.de/2022-11/wd-black-sn850x-ssd-test/"/>
+        <updated>2022-11-10T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/0/0/1-d001ceec9cfc799f/article-640x360.f72319d0.jpg"><p>Das schnellste Pferd im Stall von Western Digital war bis vor Kurzem noch die WD Black SN850. Inzwischen gibt es mit der WD Black SN850X ein Upgrade, das noch etwas mehr Leistung aus der Schnittstelle herausholt. Damit wird das Duell mit Phison E18 und Samsung 990 Pro an der Spitze sehr eng.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple releases macOS Ventura 13.0.1, iOS 16.1.1 and iPadOS 16.1.1 to patch two security issues]]></title>
+        <id>https://www.ghacks.net/?p=181736</id>
+        <link href="https://www.ghacks.net/2022/11/10/whats-new-in-macos-ventura-13-0-1-ios-16-1-1-and-ipados-16-1-1/"/>
+        <updated>2022-11-10T10:53:56.000Z</updated>
+        <summary type="html"><![CDATA[Apple has released the macOS Ventura 13.0.1, iOS 16.1.1 and iPadOS 16.1.1 for all users. The updates patch two security vulnerabilities in the operating systems. What's new in macOS Ventura 13.0.1, iOS […]
+Thank you for being a Ghacks reader. The post Apple releases macOS Ventura 13.0.1, iOS 16.1.1 and iPadOS 16.1.1 to patch two security issues appeared first on gHacks Technology News.]]></summary>
+        <author>
+            <name>Ashwin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FIFA World Cup Qatar 2022: Die FIFA mischt Crypto und Blockchain mit Metaverse]]></title>
+        <id>https://www.computerbase.de/2022-11/fifa-world-cup-qatar-2022-nft-crypto-blockchain-metaverse/</id>
+        <link href="https://www.computerbase.de/2022-11/fifa-world-cup-qatar-2022-nft-crypto-blockchain-metaverse/"/>
+        <updated>2022-11-10T10:25:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/6/6/1-59c6e3db8771da49/article-640x360.c3975b46.jpg"><p>Die FIFA veröffentlicht gleich vier „Spiele“ zur umstrittenen Fußball-Weltmeisterschaft 2022 in Katar, dem FIFA World Cup Qatar 2022, und mischt dabei Crypto, NFTs und Blockchain mit Metaverse zu potentiellen „Games as a Service“. So will der Weltfußballverband die Lizenz auch ohne EA zur Gelddruckmaschine verwandeln.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Legend 960 Max: Adatas SSD-Flaggschiff bekommt einen Kühler]]></title>
+        <id>https://www.computerbase.de/2022-11/legend-960-max-adatas-ssd-flaggschiff-bekommt-einen-kuehler/</id>
+        <link href="https://www.computerbase.de/2022-11/legend-960-max-adatas-ssd-flaggschiff-bekommt-einen-kuehler/"/>
+        <updated>2022-11-10T10:19:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/6/5/7-99ad518263b21a73/article-640x360.df19d6cd.jpg"><p>Bevor die neue Generation der NVMe-SSDs mit PCIe 5.0 erscheint, quetschen die Hersteller das letzte Quäntchen Leistung aus PCIe 4.0 heraus. Bei Adata geschieht dies in Form der Legend 960, die im M.2-Format bis zu 7.400/6.800 MB/s beim Lesen/Schreiben erzielt. Mit der 960 Max gibt es nun einen Kühler ab Werk.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This is Thunderbird's upcoming redesigned Calendar]]></title>
+        <id>https://www.ghacks.net/?p=181745</id>
+        <link href="https://www.ghacks.net/2022/11/10/this-is-thunderbirds-upcoming-redesigned-calendar/"/>
+        <updated>2022-11-10T09:51:40.000Z</updated>
+        <summary type="html"><![CDATA[Work on the next major release of the open source email client Thunderbird is in full swing. The developers have now published a preview of the planned Calendar changes in the new […]
+Thank you for being a Ghacks reader. The post This is Thunderbird's upcoming redesigned Calendar appeared first on gHacks Technology News.]]></summary>
+        <author>
+            <name>Martin Brinkmann</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KDE Plasma 5.26.3: Das Linux-Ökosystem für Spieler, Familien und Kreative]]></title>
+        <id>https://www.computerbase.de/2022-11/kde-plasma-5-26-3-release-linux-desktop/</id>
+        <link href="https://www.computerbase.de/2022-11/kde-plasma-5-26-3-release-linux-desktop/"/>
+        <updated>2022-11-10T08:59:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/6/5/9-42de887357d807b3/article-640x360.90a82bdc.jpg"><p>KDE Plasma und die als KDE Gear – vormals KDE Applications – firmierenden und für den hauseigenen Desktop optimierten Anwendungen sollen ein freies Ökosystem auch für Familien und Content Creator bilden. Neben dem optimierten und fehlerbereinigten KDE Plasma 5.26.3 sollen die Open-Source-Apps diesem Anspruch gerecht werden.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zweite Phase für US-Fabrik: TSMC plant angeblich weiteres Werk in Arizona]]></title>
+        <id>https://www.computerbase.de/2022-11/zweite-phase-fuer-us-fabrik-tsmc-plant-angeblich-weiteres-werk-in-arizona/</id>
+        <link href="https://www.computerbase.de/2022-11/zweite-phase-fuer-us-fabrik-tsmc-plant-angeblich-weiteres-werk-in-arizona/"/>
+        <updated>2022-11-10T08:12:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/6/6/2-11069193328f8210/article-640x360.bc475382.jpg"><p>Der erste neue TSMC-Komplex in Arizona, USA, soll nun auch N4-Chips in höherer Kapazität fertigen, ein zweiter Bau sei geplant. Dieser soll von Grund auf direkt für den N3-Prozess ausgelegt werden und damit eine der besten Fertigungslösungen für die kommenden Jahre darstellen.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Outlook.com data counts against Microsoft cloud storage quotas soon]]></title>
+        <id>https://www.ghacks.net/?p=181737</id>
+        <link href="https://www.ghacks.net/2022/11/10/outlook-com-data-counts-against-microsoft-cloud-storage-quotas-soon/"/>
+        <updated>2022-11-10T06:17:57.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft announced two changes regarding Outlook.com and its Microsoft 365 service this week. The first removes the ability of Premium Outlook.com customers to use custom email addresses. The change won't affect existing […]
+Thank you for being a Ghacks reader. The post Outlook.com data counts against Microsoft cloud storage quotas soon appeared first on gHacks Technology News.]]></summary>
+        <author>
+            <name>Martin Brinkmann</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Overwatch 2: 35 Millionen Spieler bescheren Blizzard „starke“ Einnahmen]]></title>
         <id>https://www.computerbase.de/2022-11/overwatch-2-35-millionen-spieler-bescheren-blizzard-starke-einnahmen/</id>
@@ -12040,253 +12564,6 @@ Zum Blog: Caschys Blog
 Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
         <author>
             <name>Felix Frank</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Surface Laptop 5 vorgestellt: Erneuertes Modell mit Intel-Prozessoren der 12. Generation]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1133259</id>
-        <link href="https://stadt-bremerhaven.de/surface-laptop-5-vorgestellt-erneuertes-modell-mit-intel-prozessoren-der-12-generation/"/>
-        <updated>2022-10-12T14:03:41.000Z</updated>
-        <summary type="html"><![CDATA[Neben dem Surface Pro 9 gab es auf Microsofts Event mit dem Surface Laptop 5 auch ein Surface-Gerät im klassischen Notebook-Formfaktor zu sehen. Jenes ist mit einem Display von wahlweise 13,5 Zoll (ca. 34 Zentimeter) bzw. 15 Zoll (ca. 38...
-Zum Beitrag: Surface Laptop 5 vorgestellt: Erneuertes Modell mit Intel-Prozessoren der 12. Generation
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>Felix Frank</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Audio Dock: USB-C-Docking-Station mit Lautsprecher und Mikro]]></title>
-        <id>https://www.computerbase.de/2022-10/microsoft-audio-dock-usb-c-docking-station-mit-lautsprecher-und-mikro/</id>
-        <link href="https://www.computerbase.de/2022-10/microsoft-audio-dock-usb-c-docking-station-mit-lautsprecher-und-mikro/"/>
-        <updated>2022-10-12T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/3/1/1-9416c5f24284e29a/article-640x360.1348ff98.jpg"><p>Mit dem Audio Dock bringt Microsoft eine USB-C-Docking-Station mit Lautsprecher und Mikrofonen, so dass sie nicht nur für den einfachen Anschluss des Notebooks an Monitor und Peripherie sorgt, sondern auch für Konferenzen und das Musikhören eingesetzt werden soll.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Neue Surface 2022: Laptop 5, Pro 9 und Studio 2+ lassen AMD aussetzen]]></title>
-        <id>https://www.computerbase.de/2022-10/neue-surface-2022-laptop-5-pro-9-und-studio-2-plus-lassen-amd-aussetzen/</id>
-        <link href="https://www.computerbase.de/2022-10/neue-surface-2022-laptop-5-pro-9-und-studio-2-plus-lassen-amd-aussetzen/"/>
-        <updated>2022-10-12T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/3/0/8-5ae8c9420eb06a48/article-640x360.5ad0e874.jpg"><p>Microsoft hat mit Surface Pro 9, Surface Laptop 5 und Surface Studio 2+ neue Generationen in drei Produktserien angekündigt. Alle eint, dass AMD in diesem Jahr leer ausgeht. Im All-in-One-PC Surface Studio 2+ ist der Generationssprung am deutlichsten, nichtsdestoweniger hinkt die Serie hinterher. Thunderbolt 4 bieten fast alle.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Surface Pro 9 vorgestellt: Neue Intel-Modelle und ARM-Modell mit 5G]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1133257</id>
-        <link href="https://stadt-bremerhaven.de/surface-pro-9-vorgestellt-neue-intel-modelle-und-arm-modell-mit-5g/"/>
-        <updated>2022-10-12T13:59:58.000Z</updated>
-        <summary type="html"><![CDATA[Neue Hardware aus dem Hause Microsoft: Surface Pro 9, Surface Laptop 5, Surface Studio 2+ sowie umfangreiches Zubehör. Mit dem Surface Pro 9 läutet Microsoft eine neue Generation der klassischen Surface-Geräte ein. Für mich, nach wie vor, eines meiner liebsten...
-Zum Beitrag: Surface Pro 9 vorgestellt: Neue Intel-Modelle und ARM-Modell mit 5G
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>Felix Frank</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google führt Passkeys und mehr Sicherheitsfunktionen ein]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1133891</id>
-        <link href="https://stadt-bremerhaven.de/google-fuehrt-passkeys-und-mehr-sicherheitsfunktionen-ein/"/>
-        <updated>2022-10-12T13:30:45.000Z</updated>
-        <summary type="html"><![CDATA[Die Initiative rund um die passwortlosen Login-Möglichkeiten über Passkeys hatten wir schon einige Male beleuchtet. Unter anderem ist da auch Google mit am Start, ebenso Apple, Microsoft und weitere Unternehmen. Im Einklang mit dieser passwortlosen Vision der FIDO-Allianz kündigte Google...
-Zum Beitrag: Google führt Passkeys und mehr Sicherheitsfunktionen ein
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>caschy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Warner Bros. Television legt Abteilungen zusammen und entlässt über ein Viertel der Belegschaft]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1133860</id>
-        <link href="https://stadt-bremerhaven.de/warner-bros-television-legt-abteilungen-zusammen-und-entlaesst-ueber-ein-viertel-der-belegschaft/"/>
-        <updated>2022-10-12T13:00:24.000Z</updated>
-        <summary type="html"><![CDATA[Warner Bros. Television schrumpft: Man entlässt 26 % der Mitarbeiter, also über ein Viertel der Belegschaft. Dabei verschmilzt man die Abteilungen für Animations- und Unscripted-Inhalte. Der Schritt ist Teil der Strategie von David Zaslav, dem Chef des Mutterkonzerns Warner Bros....
-Zum Beitrag: Warner Bros. Television legt Abteilungen zusammen und entlässt über ein Viertel der Belegschaft
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>André Westphal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Asus GeForce RTX 4090 TUF im Test: Größer und leiser als die Founders Edition]]></title>
-        <id>https://www.computerbase.de/2022-10/asus-geforce-rtx-4090-tuf-oc-review-test/</id>
-        <link href="https://www.computerbase.de/2022-10/asus-geforce-rtx-4090-tuf-oc-review-test/"/>
-        <updated>2022-10-12T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/2/9/2-40f17b5fd96ed8af/article-640x360.ae2eb08f.jpg"><p>Mit der Asus GeForce RTX 4090 TUF OC hat ComputerBase das erste Custom-Design der schnellsten RTX-4000-Grafikkarte im Test. Das Modell profitiert vom besseren Kühlsystem, das einen leiseren Spielebetrieb ermöglicht. Davon abgesehen wird es den Custom-Designs dieses Mal aber noch schwerer fallen, einen Unterschied zu machen.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Project Starline: Early-Access-Programm für erweiterte Tests startet]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1133866</id>
-        <link href="https://stadt-bremerhaven.de/project-starline-early-access-programm-fuer-erweiterte-tests-startet/"/>
-        <updated>2022-10-12T12:30:02.000Z</updated>
-        <summary type="html"><![CDATA[Benny hatte schon über Googles Project Starline berichtet: Hierbei handelt es sich um eine neue Form der Kommunikation von Angesicht zu Angesicht. Man muss es sich vorstellen wie einen großen Spiegel, dem man gegenüber sitzt. Nur dass sich in ihm...
-Zum Beitrag: Project Starline: Early-Access-Programm für erweiterte Tests startet
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>André Westphal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Firefox Relay maskiert nun auch Telefonnummern]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1133820</id>
-        <link href="https://stadt-bremerhaven.de/firefox-relay-maskiert-nun-auch-telefonnummern/"/>
-        <updated>2022-10-12T12:00:14.000Z</updated>
-        <summary type="html"><![CDATA[Über den Dienst Firefox Relay hatten wir bereits in der Vergangenheit berichtet. Damit sollen Kunden ihre E-Mail-Adresse geheim halten können. Über temporäre Mail-Adressen wird durch Mozilla an den gewünschten Empfänger weitergeleitet. Ähnliches bieten unter anderem auch Apple und ProtonMail an,...
-Zum Beitrag: Firefox Relay maskiert nun auch Telefonnummern
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>caschy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Huawei Watch D mit Blutdruckmessung und EKG ist ab sofort verfügbar]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1133847</id>
-        <link href="https://stadt-bremerhaven.de/huawei-watch-d-mit-blutdruckmessung-und-ekg-ist-ab-sofort-verfuegbar/"/>
-        <updated>2022-10-12T11:30:56.000Z</updated>
-        <summary type="html"><![CDATA[Ab sofort ist die Smartwatch Huawei Watch D mit Blutdruckmessung und EKG im deutschen Handel verfügbar. Vorgestellt wurde das Wearable in China erstmals Ende 2021. Huawei setzt bei der Watch D, die mit Android und iOS funktionieren soll, auf Harmony...
-Zum Beitrag: Huawei Watch D mit Blutdruckmessung und EKG ist ab sofort verfügbar
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>André Westphal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[File Explorer tabs are now available for all users in Windows 11 Build 22621.675 Release Preview]]></title>
-        <id>https://www.ghacks.net/?p=181199</id>
-        <link href="https://www.ghacks.net/2022/10/12/file-explorer-tabs-are-available-for-all-users-in-windows-11-release-preview-channel/"/>
-        <updated>2022-10-12T10:18:49.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft has announced the availability of Windows 11 Build 22621.675 in the Release Preview Channel of the Insider Program. It enables the much awaited File Explorer Tabs experience for all users, along […]
-Thank you for being a Ghacks reader. The post File Explorer tabs are now available for all users in Windows 11 Build 22621.675 Release Preview appeared first on gHacks Technology News.]]></summary>
-        <author>
-            <name>Ashwin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google promotes cloud gaming Chromebooks mere days after killing Stadia, its cloud gaming service]]></title>
-        <id>https://www.ghacks.net/?p=181211</id>
-        <link href="https://www.ghacks.net/2022/10/12/google-promotes-cloud-gaming-chromebooks-mere-days-after-killing-stadia-its-cloud-gaming-service/"/>
-        <updated>2022-10-12T10:17:01.000Z</updated>
-        <summary type="html"><![CDATA[Oh, the irony. When Google announced the end of its cloud gaming service Stadia, barely anyone thought that the company would promote anything cloud gaming related in the near future. Announced on […]
-Thank you for being a Ghacks reader. The post Google promotes cloud gaming Chromebooks mere days after killing Stadia, its cloud gaming service appeared first on gHacks Technology News.]]></summary>
-        <author>
-            <name>Martin Brinkmann</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kleiner als Kreditkarte: Externe SSD Corsair EX100U mit 1.600 MB/s und 4 TB]]></title>
-        <id>https://www.computerbase.de/2022-10/kleiner-als-kreditkarte-externe-ssd-corsair-ex100u-mit-1-600-mb-s-und-4-tb/</id>
-        <link href="https://www.computerbase.de/2022-10/kleiner-als-kreditkarte-externe-ssd-corsair-ex100u-mit-1-600-mb-s-und-4-tb/"/>
-        <updated>2022-10-12T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/3/1/0-0430257a19993bd6/article-640x360.e8df755f.jpg"><p>Die neue externe SSD EX100U von Corsair ist abgesehen von der Höhe kleiner als eine Kreditkarte. Mit bis zu 1.600 MB/s via USB-C mit 20 Gbit/s erfolgen Transfers zudem zügig. Geboten werden Modelle mit 1 TB, 2 TB oder 4 TB Speicherplatz.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Absturz des PC-Marktes: Gartner und IDC sehen Rückgang um bis zu 20 Prozent]]></title>
-        <id>https://www.computerbase.de/2022-10/absturz-des-pc-marktes-gartner-und-idc-sehen-rueckgang-um-bis-zu-20-prozent/</id>
-        <link href="https://www.computerbase.de/2022-10/absturz-des-pc-marktes-gartner-und-idc-sehen-rueckgang-um-bis-zu-20-prozent/"/>
-        <updated>2022-10-12T08:01:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/3/0/2-35f9f1cdb115ccee/article-640x360.3146742f.jpg"><p>Die finalen Zahlen stehen bei vielen Unternehmen noch aus, doch das PC-Geschäft ist eines der großen Verlierer im letzten Quartal. Die Marktforscher von IDC und Gartner sehen in ihren vorläufigen Zahlen einen Rückgang zwischen 15 und 19,5 Prozent, bei einigen Unternehmen aber auch bis zu 28 Prozent. Vor allem Europa stürzt ab.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vivaldi 5.5 for Android launches with improved onboarding and automatic tab discarding]]></title>
-        <id>https://www.ghacks.net/?p=181200</id>
-        <link href="https://www.ghacks.net/2022/10/12/vivaldi-5-5-for-android-launches-with-improved-onboarding-and-automatic-tab-discarding/"/>
-        <updated>2022-10-12T07:00:28.000Z</updated>
-        <summary type="html"><![CDATA[After launching Vivaldi 5.5 for desktop systems a week ago, Vivaldi Technologies released Vivaldi 5.5 for Android today. The new Vivaldi release for Android follows one of the company's main principles: give […]
-Thank you for being a Ghacks reader. The post Vivaldi 5.5 for Android launches with improved onboarding and automatic tab discarding appeared first on gHacks Technology News.]]></summary>
-        <author>
-            <name>Martin Brinkmann</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Abschwung im PC-Bereich: Intel plant angeblich die Streichung tausender Stellen]]></title>
-        <id>https://www.computerbase.de/2022-10/abschwung-im-pc-bereich-intel-plant-angeblich-die-streichung-tausender-stellen/</id>
-        <link href="https://www.computerbase.de/2022-10/abschwung-im-pc-bereich-intel-plant-angeblich-die-streichung-tausender-stellen/"/>
-        <updated>2022-10-12T06:28:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/3/0/7-7fe1e7d6b1099de7/article-640x360.ae1ef852.jpg"><p>Nur über die Anpassungen von Ausgaben für Fabriken und Material geht es nicht, auch Arbeitsplätze sollen bei Intel abgebaut werden. Sollte der Medienbericht von Bloomberg bestätigt werden, wäre Intel der erste Hersteller, der zu dieser Maßnahme greift, um den Absatzproblemen im PC-Segment finanziell zu begegnen.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Windows 11 2022: Sicherheitsupdates und Korrekturen durch KB5018427]]></title>
-        <id>https://www.computerbase.de/2022-10/windows-11-2022-kb5018427-update/</id>
-        <link href="https://www.computerbase.de/2022-10/windows-11-2022-kb5018427-update/"/>
-        <updated>2022-10-12T05:54:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/3/0/5-0dda8f3c1cc02627/article-640x360.afa927c5.jpg"><p>Microsoft aktualisiert Windows 11, das am 25. August mit dem Windows 11 2022 Update auf den Build 22621 angehoben wurde, mit dem kumulativen Update KB5018427 jetzt auf den neuesten Build aus dem stabilen Entwicklungszweig des Betriebssystems. Die neue Versionsnummer 22621.674 geht einher mit mehr Sicherheit und Verbesserungen.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Windows Security Updates October 2022 overview]]></title>
-        <id>https://www.ghacks.net/?p=181190</id>
-        <link href="https://www.ghacks.net/2022/10/11/microsoft-windows-security-updates-october-2022-overview/"/>
-        <updated>2022-10-11T17:51:10.000Z</updated>
-        <summary type="html"><![CDATA[It is the second Tuesday of the month, and that means that Microsoft released security updates for all supported client and server versions of Windows. The October 2022 Patch Day brings updates […]
-Thank you for being a Ghacks reader. The post Microsoft Windows Security Updates October 2022 overview appeared first on gHacks Technology News.]]></summary>
-        <author>
-            <name>Martin Brinkmann</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ViewSonic VP-Monitore: Die bisher umfassendste Null-Pixelfehler-Garantie]]></title>
-        <id>https://www.computerbase.de/2022-10/viewsonic-vp-monitore-die-bisher-umfassendste-null-pixelfehler-garantie/</id>
-        <link href="https://www.computerbase.de/2022-10/viewsonic-vp-monitore-die-bisher-umfassendste-null-pixelfehler-garantie/"/>
-        <updated>2022-10-11T17:33:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/3/0/3-944b002c88fd54e5/article-640x360.333ca866.jpg"><p>ViewSonic sagt den Pixelfehlern den Kampf an. Die neue VP Zero Error Pixel Policy soll garantieren, dass alle ViewSonic-Monitore der VP-Serie für den professionellen Einsatz ohne Pixel- und Subpixelfehler sind. Sollte doch ein Pixelfehler binnen 5 Jahren auftreten, werde der Monitor umgehend ausgetauscht.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ghacks Deals: The Complete Microsoft Windows, 365, and Teams Certification Training Bundle]]></title>
-        <id>https://www.ghacks.net/?p=181191</id>
-        <link href="https://www.ghacks.net/2022/10/11/ghacks-deals-the-complete-microsoft-windows-365-and-teams-certification-training-bundle/"/>
-        <updated>2022-10-11T16:26:06.000Z</updated>
-        <summary type="html"><![CDATA[The Complete Microsoft Windows, 365, and Teams Certification Training Bundle includes a total of seven courses to help you prep for various Microsoft certification exams. Here is the list of included courses: […]
-Thank you for being a Ghacks reader. The post Ghacks Deals: The Complete Microsoft Windows, 365, and Teams Certification Training Bundle appeared first on gHacks Technology News.]]></summary>
-        <author>
-            <name>Martin Brinkmann</name>
         </author>
     </entry>
 </feed>
