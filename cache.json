@@ -6,6 +6,131 @@
       "siteUrl": "https://stadt-bremerhaven.de",
       "articles": [
         {
+          "id": "https://stadt-bremerhaven.de/?p=1139354",
+          "author": "Gastautor",
+          "description": "Der geneigte Cloud-Gamer weiß vermutlich schon Bescheid, dass mittlerweile jeden Sonntag ein umfangreicher Rückblick zum Thema Cloud-Gaming von unserem Gastautor Stefan hier erscheint. Dabei bringt er teils auch Insider-News für euch mit und bezieht sich hin und wieder auf Beiträge,...\nZum Beitrag: Der Cloud-Gaming-Rückblick am Sonntag – KW 46\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
+          "link": "https://stadt-bremerhaven.de/der-cloud-gaming-rueckblick-am-sonntag-kw-46/",
+          "publishedOn": "2022-11-20T20:30:48.000Z",
+          "wordCount": 2792,
+          "title": "Der Cloud-Gaming-Rückblick am Sonntag – KW 46",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/11/cloud-gaming-rueckblick-am-sonntag-titel.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1139012",
+          "author": "André Westphal",
+          "description": "Auf seinem jährlichen Snapdragon Summit hat Qualcomm im Rahmen der Vorstellung des Snapdragon 8 Gen 2 auch viel über Gaming gesprochen. Das neue SoC bzw. dessen potente Adreno-GPU ist nämlich auch für das leistungshungrige Ray-Tracing mit entsprechender Hardwarebeschleunigung gerüstet. Ich...\nZum Beitrag: Ray-Tracing goes Mobile: Qualcomm prophezeit eine große Zukunft\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
+          "link": "https://stadt-bremerhaven.de/ray-tracing-goes-mobile-qualcomm-prophezeit-eine-grosse-zukunft/",
+          "publishedOn": "2022-11-20T19:00:12.000Z",
+          "wordCount": 2083,
+          "title": "Ray-Tracing goes Mobile: Qualcomm prophezeit eine große Zukunft",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/11/Ray-Tracing-Mobile-1.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1138838",
+          "author": "Benjamin Mamerow",
+          "description": "Streamer kennen das Stream Deck von Elgato bereits, ist es doch ein beliebtes Werkzeug für Twitch, YouTube und Co., um die volle Kontrolle über den eigenen Stream zu behalten und noch dazu verschiedene andere Produkte wie das Camera Hub oder...\nZum Beitrag: Elgato veröffentlicht Stream Deck+ für 230 Euro\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
+          "link": "https://stadt-bremerhaven.de/elgato-veroeffentlicht-stream-deck-fuer-230-euro/",
+          "publishedOn": "2022-11-20T17:30:22.000Z",
+          "wordCount": 1743,
+          "title": "Elgato veröffentlicht Stream Deck+ für 230 Euro",
+          "enclosure": {
+            "url": "https://www.elgato.com/sites/default/files/_sd-plus/Trailer-new.mp4",
+            "length": "12330859",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/11/elgato-stream-deck-plus.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1138914",
+          "author": "Benjamin Mamerow",
+          "description": "Mit der Garmin Bounce veröffentlicht der Hersteller seine neue Iteration einer multifunktionalen Smartwatch für Kinder. Hierbei verspricht man nicht nur GPS- und LTE-Konnektivität, eine Hilfefunktion und ein Farb-Touchdisplay, auch Geo-Fencing soll mit dabei sein. Damit können Eltern Bereiche festlegen, bei...\nZum Beitrag: Garmin Bounce: Neue Kinder-Smartwatch mit LTE und GPS für 180 Euro verfügbar\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
+          "link": "https://stadt-bremerhaven.de/garmin-bounce-neue-kinder-smartwatch-mit-lte-und-gps-fuer-180-euro-verfuegbar/",
+          "publishedOn": "2022-11-20T16:00:59.000Z",
+          "wordCount": 2019,
+          "title": "Garmin Bounce: Neue Kinder-Smartwatch mit LTE und GPS für 180 Euro verfügbar",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/11/garmin-bounce-smartwatch_cb.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1138844",
+          "author": "Benjamin Mamerow",
+          "description": "Wie das Unternehmen Fitbit nun informiert, können Besitzer einer der beiden neuen smarten Wearables Sense 2 oder Versa 4 ab sofort Google Wallet gemeinsam mit Fitbit Pay auf den Geräten zum mobilen Bezahlen nutzen. Vor dem ersten Bezahlen werdet ihr...\nZum Beitrag: Fitbit Sense 2 und Versa 4 ab sofort mit Google Wallet, bald mit Google-Maps-Navigation\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
+          "link": "https://stadt-bremerhaven.de/fitbit-sense-2-und-versa-4-ab-sofort-mit-google-wallet-bald-mit-google-maps-navigation/",
+          "publishedOn": "2022-11-20T14:30:12.000Z",
+          "wordCount": 1803,
+          "title": "Fitbit Sense 2 und Versa 4 ab sofort mit Google Wallet, bald mit Google-Maps-Navigation",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/11/sense-2-versa-4-google-maps.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1134615",
+          "author": "Felix Frank",
+          "description": "Für die meisten Nutzer eines iPads wird dieses wohl eher im mobilen Einsatz dienen. Stand jetzt ist das iPad für viele wohl kein Ersatz eines Notebooks oder Desktop-Rechners. Mit dem Update auf iOS 16.1 könnte sich das für einige nochmal...\nZum Beitrag: Kensington StudioDock ausprobiert: Halter für das iPad mit integriertem Hub\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
+          "link": "https://stadt-bremerhaven.de/kensington-studiodock-ausprobiert-halter-fuers-ipad-mit-integriertem-hub/",
+          "publishedOn": "2022-11-20T13:00:21.000Z",
+          "wordCount": 2585,
+          "title": "Kensington StudioDock ausprobiert: Halter für das iPad mit integriertem Hub",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/11/IMG_5517.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1138110",
+          "author": "Olli",
+          "description": "Das Thema Luftreiniger ist spätestens seit Corona auch in der breiten Masse angekommen und viele Hersteller haben sich auf diese Geräte gestürzt. In der Vergangenheit durfte ich vor allem die Geräte von Dyson testen. Nun habe ich ein Gerät zu...\nZum Beitrag: Aiversa Purelle AP2: Luftreiniger mit Thread- und HomeKit-Support ausprobiert\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
+          "link": "https://stadt-bremerhaven.de/aiversa-purelle-ap2-luftreiniger-mit-thread-und-homekit-support-ausprobiert/",
+          "publishedOn": "2022-11-20T11:30:17.000Z",
+          "wordCount": 2209,
+          "title": "Aiversa Purelle AP2: Luftreiniger mit Thread- und HomeKit-Support ausprobiert",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/11/Airversa-Purelle-AP2-Test-1.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1138860",
+          "author": "Olli",
+          "description": "Microsoft Stream ist eine Plattform, die unter anderem in Microsoft Teams integriert ist, um Besprechungsvideos aufzuzeichnen und später wieder anschauen zu können. Unter anderem werden Transkripte der Meetings erstellt, die man schnell durchsuchen kann. Stream-Videos sind auch einfach zu teilen,...\nZum Beitrag: Microsoft Stream: Verbesserte Integration in Office.com\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
+          "link": "https://stadt-bremerhaven.de/microsoft-stream-verbesserte-integration-in-office-com/",
+          "publishedOn": "2022-11-20T10:00:44.000Z",
+          "wordCount": 1817,
+          "title": "Microsoft Stream: Verbesserte Integration in Office.com",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/10/office-m365_groupshot_a_w-harmony_v1_print_.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1139456",
+          "author": "caschy",
+          "description": "OnePlus verteilt für das OnePlus 8, bzw. die komplette Serie an Geräten, mittlerweile die Stable-Version von Oxygen OS 13 auch an Nutzer mit der EU-Version des Smartphones. Nutzer sollten die neue Version bereits herunterladen können, wobei es bei OnePlus oft...\nZum Beitrag: OnePlus 8: Serie erhält Android 13\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
+          "link": "https://stadt-bremerhaven.de/oneplus-8-serie-erhaelt-android-13/",
+          "publishedOn": "2022-11-20T08:48:50.000Z",
+          "wordCount": 2074,
+          "title": "OnePlus 8: Serie erhält Android 13",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2020/04/OnePlus-8-Pro-1585743175-0-0.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1138778",
+          "author": "Felix Frank",
+          "description": "Die PS VR2 wird im Februar erscheinen und schlägt mit 599,99 Euro zu Buche. Sony hatte im Vorfeld bereits einige Launch-Titel genannt. Darunter „Horizon Call of the Mountain“. Das wird es auch im Bundle mit der PlayStation VR2 geben. Offizieller...\nZum Beitrag: PlayStation: PS VR2 & Horizon Call of the Mountain ab 22. Februar 2023\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
+          "link": "https://stadt-bremerhaven.de/playstation-psvr2-horizon-call-of-the-mountain-ab-22-februar-2023/",
+          "publishedOn": "2022-11-20T08:30:04.000Z",
+          "wordCount": 1941,
+          "title": "PlayStation: PS VR2 & Horizon Call of the Mountain ab 22. Februar 2023",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/03/PlayStation-5-hello-i-m-nik-wmY7gKdYSmI-unsplash_.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1132248",
+          "author": "Felix Frank",
+          "description": "Von vielen sicherlich gerne genutzt: Rücksendegebühren „auf den Nacken“ von PayPal. Der Zahlungsdienstleister bot diesen Mehrwert Kunden seit 2019 an, die bei Händlern über PayPal bezahlt haben. Bis zu zwölf Rücksendungen jährlich mit maximal 25 Euro Kosten konnte man so...\nZum Beitrag: PayPal: Zum Ende kommender Woche werden keine Retourenkosten mehr übernommen\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
+          "link": "https://stadt-bremerhaven.de/paypal-zum-ende-kommender-woche-werden-keine-retourenkosten-mehr-uebernommen/",
+          "publishedOn": "2022-11-20T07:00:59.000Z",
+          "wordCount": 2882,
+          "title": "PayPal: Zum Ende kommender Woche werden keine Retourenkosten mehr übernommen",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2018/12/paypal_logo.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1139233",
+          "author": "André Westphal",
+          "description": "Ein neuer Sonntag, ein neuer Anlass im Rahmen eines morgendlichen Beitrags für Frühaufsteher am Wochenende einen Blick zurück auf die Technik-Woche zu werfen. So hat beispielsweise Qualcomm sein neues Flaggschiff-SoC für mobile Endgeräte vorgestellt: den Qualcomm Snapdragon 8 Gen 2....\nZum Beitrag: Immer wieder sonntags KW 46\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
+          "link": "https://stadt-bremerhaven.de/immer-wieder-sonntags-kw-46-11/",
+          "publishedOn": "2022-11-20T05:30:15.000Z",
+          "wordCount": 2107,
+          "title": "Immer wieder sonntags KW 46",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/07/Kaffee-Sonntags.jpg"
+        },
+        {
           "id": "https://stadt-bremerhaven.de/?p=1139219",
           "author": "André Westphal",
           "description": "In Hawaii beim jährlichen Snapdragon Summit hat der Hersteller Qualcomm die Neuerungen für Snapdragon Sight vorgestellt. Darunter bündelt man im Wesentlichen verschiedene Aspekte seiner ISP-Hard- und Software-Pipeline, die für den neuen Snapdragon 8 Gen 2 zum Einsatz kommt. Viele Aspekte...\nZum Beitrag: Qualcomm Snapdragon Sight: Evolution der Smartphone-Kameras schreitet voran\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
@@ -5084,96 +5209,6 @@
           "wordCount": 1961,
           "title": "IO Hawk Collide: E-Scooter mit speziellem Faltmechanismus startet ab 1.099 Euro",
           "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/10/IO-HAWK-Collide_Lifestyle_8.jpeg"
-        },
-        {
-          "id": "https://stadt-bremerhaven.de/?p=1134626",
-          "author": "Benjamin Mamerow",
-          "description": "Euch müssen wir das vermutlich nicht erzählen: Seit Juli dieses Jahres gibt es neue Regelungen im Umgang mit Elektroschrott – vor allem in Bezug auf dessen Entsorgung. Wie das Verbrauchermagazin „SUPER.MARKT“ des rbb anhand von Stichproben ermitteln konnte, sind die...\nZum Beitrag: Neue Regelungen in Bezug auf Elektroschrott-Entsorgung derzeit kaum bekannt\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
-          "link": "https://stadt-bremerhaven.de/neue-regelungen-in-bezug-auf-elektroschrott-entsorgung-derzeit-kaum-bekannt/",
-          "publishedOn": "2022-10-22T12:30:35.000Z",
-          "wordCount": 1819,
-          "title": "Neue Regelungen in Bezug auf Elektroschrott-Entsorgung derzeit kaum bekannt",
-          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/10/elektro-schrott-john-cameron-7zocFMzvbpc-unsplash_.jpg"
-        },
-        {
-          "id": "https://stadt-bremerhaven.de/?p=1135451",
-          "author": "caschy",
-          "description": "Wir hatten darüber berichtet: IKEA musste den Start seines neuen Smart-Home-Hubs namens Dirigera etwas verschieben. Nicht aufgrund der Hardware, IKEA teilte uns auf Nachfrage mit, dass die App noch etwas Zeit benötigen wird. Obwohl die Hardware laut des Unternehmens erst...\nZum Beitrag: IKEA Home smart: Neue App für den Dirigera-Hub veröffentlicht\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
-          "link": "https://stadt-bremerhaven.de/ikea-home-smart-neue-app-fuer-den-dirigera-hub-veroeffentlicht/",
-          "publishedOn": "2022-10-22T11:52:18.000Z",
-          "wordCount": 1862,
-          "title": "IKEA Home smart: Neue App für den Dirigera-Hub veröffentlicht",
-          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/10/IKEA-DIRIGERA-2_.jpg"
-        },
-        {
-          "id": "https://stadt-bremerhaven.de/?p=1135447",
-          "author": "caschy",
-          "description": "Das wird Simulations- und Strategie-Fans unter Umständen freuen. Anno 1800 soll auf Konsolen durchstarten. Die Entwickler teilen mit, dass man das Grundspiel von Anno 1800 auf die Xbox Series X|S, PlayStation 5 und zu Amazon Luna bringen wird. Amazon Luna...\nZum Beitrag: Anno 1800 erscheint für Konsolen\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
-          "link": "https://stadt-bremerhaven.de/anno-1800-erscheint-fuer-konsolen/",
-          "publishedOn": "2022-10-22T11:18:09.000Z",
-          "wordCount": 1870,
-          "title": "Anno 1800 erscheint für Konsolen",
-          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/10/anno-1800_.jpg"
-        },
-        {
-          "id": "https://stadt-bremerhaven.de/?p=1134054",
-          "author": "André Westphal",
-          "description": "„Persona 5“ ist bereits 2017 erschienen – für die PlayStation 3 und PlayStation 4. Es folgte 2020 die sogenannte Royal-Edition. Letztere erweitert die Haupt- und Nebengeschichten des Spiels, führt neue Spielmechaniken durch einen Enterhaken ein und beinhaltet sogar einen neuen,...\nZum Beitrag: „Persona 5 Royal“: Next-Gen-Version des JRPGs im Kurztest\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
-          "link": "https://stadt-bremerhaven.de/persona-5-royal-next-gen-version-des-jrpgs-im-kurztest/",
-          "publishedOn": "2022-10-22T10:00:40.000Z",
-          "wordCount": 2207,
-          "title": "„Persona 5 Royal“: Next-Gen-Version des JRPGs im Kurztest",
-          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/10/Persona-5-Royal.jpeg"
-        },
-        {
-          "id": "https://stadt-bremerhaven.de/?p=1134586",
-          "author": "André Westphal",
-          "description": "Mastercard will den Kryptohandel zu Banken bringen. Ob der Zeitpunkt dafür so günstig ist, muss jeder selbst entscheiden. Jedenfalls soll das neue Programm Crypto Source Banken eine breite Palette an Handelsmöglichkeiten für Krypto-Vermögenswerte eröffnen. Es ergänzt Mastercard Crypto Secure. Crypto...\nZum Beitrag: Mastercard Crypto Source soll den Kryptohandel zu Banken bringen\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
-          "link": "https://stadt-bremerhaven.de/mastercard-crypto-source-soll-den-kryptohandel-zu-banken-bringen/",
-          "publishedOn": "2022-10-22T08:00:24.000Z",
-          "wordCount": 2252,
-          "title": "Mastercard Crypto Source soll den Kryptohandel zu Banken bringen",
-          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2019/05/mastercard_logo.jpg"
-        },
-        {
-          "id": "https://stadt-bremerhaven.de/?p=1133959",
-          "author": "Benjamin Mamerow",
-          "description": "Das Unternehmen Kensington hat mit der neuen UH1440P Mobile USB-C Duale Video Dockingstation eine neue Lösung auf den Markt gebracht, die nicht nur treiberlos funktioniert, sondern auch zwei Bildschirme dank der VGA-, DisplayPort- und HDMI-Anschlüsse sowie einem 85-Watt-Passthrough unterstützt. Die...\nZum Beitrag: Kensington veröffentlicht neue „UH1440P Mobile USB-C Duale Video Dockingstation“\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
-          "link": "https://stadt-bremerhaven.de/kensington-veroeffentlicht-neue-uh1440p-mobile-usb-c-duale-video-dockingstation/",
-          "publishedOn": "2022-10-22T06:00:41.000Z",
-          "wordCount": 1793,
-          "title": "Kensington veröffentlicht neue „UH1440P Mobile USB-C Duale Video Dockingstation“",
-          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/10/K33853WW-Application-4_cb.jpg"
-        },
-        {
-          "id": "https://stadt-bremerhaven.de/?p=1134129",
-          "author": "Felix Frank",
-          "description": "Die neue ZV-1F ist nicht die erste Vlog-Kamera aus dem Hause Sony. Als Zielgruppe benennt Sony hier Kreative, die Fotos und Videoaufnahmen anfertigen wollen. Besonderheit der ZV-1F sei, dass diese für ein kompaktes Format optimiert und mit Technologien vollgestopft sei,...\nZum Beitrag: Sony ZV-1F: Neue Kamera richtet sich an Vlogger\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
-          "link": "https://stadt-bremerhaven.de/sony-zv-1f-neue-kamera-richtet-sich-an-vlogger/",
-          "publishedOn": "2022-10-22T04:30:37.000Z",
-          "wordCount": 2002,
-          "title": "Sony ZV-1F: Neue Kamera richtet sich an Vlogger",
-          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/10/Sony-Vlog-Cam.jpg"
-        },
-        {
-          "id": "https://stadt-bremerhaven.de/?p=1135417",
-          "author": "Felix Frank",
-          "description": "Apple hat diese Woche mit dem iPad der 10. Generation ein neues „Basis-iPad“ vorgestellt, welches sich zwischen jenem der 9. Generation und dem iPad Air einordnen lässt. Zurecht höchst umstritten: Apple setzt weiterhin auf den Apple Pencil der ersten Generation...\nZum Beitrag: Logitech: Neue Tastatur-Cases für das iPad der 10. Generation\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
-          "link": "https://stadt-bremerhaven.de/logitech-neue-tastatur-cases-fuer-das-ipad-der-10-generation/",
-          "publishedOn": "2022-10-21T17:30:24.000Z",
-          "wordCount": 1968,
-          "title": "Logitech: Neue Tastatur-Cases für das iPad der 10. Generation",
-          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/10/SCR-20221021-otz.jpg"
-        },
-        {
-          "id": "https://stadt-bremerhaven.de/?p=1135414",
-          "author": "caschy",
-          "description": "Amazon geht weiterhin gegen Fake-Bewertungen vor. Dies gab das Unternehmen am Freitag bekannt. Sowohl in Italien als auch in Spanien habe man Klage eingereicht. Diese beiden Gerichtsverfahren sowie 10 weitere, kürzlich in den USA eingeleitete Klagen richten sich gegen bösartige...\nZum Beitrag: Amazon: Weitere Klagen aufgrund gefälschter Bewertungen\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
-          "link": "https://stadt-bremerhaven.de/amazon-weitere-klagen-aufgrund-gefaelschter-bewertungen/",
-          "publishedOn": "2022-10-21T14:30:59.000Z",
-          "wordCount": 1846,
-          "title": "Amazon: Weitere Klagen aufgrund gefälschter Bewertungen",
-          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2021/11/Amazon-Logo.jpg"
         }
       ]
     },
@@ -5182,6 +5217,56 @@
       "feedUrl": "https://www.computerbase.de/rss/news.xml",
       "siteUrl": "https://www.computerbase.de/",
       "articles": [
+        {
+          "id": "https://www.computerbase.de/2022-11/effizienter-spielen-am-pc/",
+          "author": null,
+          "description": "<img src=\"https://pics.computerbase.de/1/0/5/7/8/8-cbf591a33fad0ee5/article-640x360.dcb6026d.jpg\"><p>Aus der Community des ComputerBase-Forums kommt ein interessanter Beitrag, der in Erfahrung bringen möchte, wie ihr Ressourcen und Energie und damit schlussendlich auch bares Geld beim Arbeiten und Spielen an eurem PC einspart und ob ihr dafür angepasste Systemeinstellungen oder auch spezielle Betriebsmodi verwendet.</p>",
+          "link": "https://www.computerbase.de/2022-11/effizienter-spielen-am-pc/",
+          "publishedOn": "2022-11-20T14:30:00.000Z",
+          "wordCount": 1139,
+          "title": "Effiziente Systeme: Wie stellt ihr euren PC ein, um Ressourcen & Geld zu sparen?",
+          "imageUrl": "https://pics.computerbase.de/1/0/5/7/8/8-cbf591a33fad0ee5/article-1280x720.dcb6026d.jpg"
+        },
+        {
+          "id": "https://www.computerbase.de/2022-11/raytracing-games-grafikkarten-umfrage/",
+          "author": null,
+          "description": "<img src=\"https://pics.computerbase.de/1/0/5/7/7/9-cb737eead99467c2/article-640x360.92815b85.jpg\"><p>Mit dieser Sonntagsfrage möchte die Redaktion von euch erfahren, wie ihr zu Raytracing in Videospielen steht. Nutzt ihr die Strahlen für eine realistischere Darstellung von Licht, Schatten und Reflexionen und seht ihr darin die Zukunft? Ist Raytracing beim Kauf neuer Games und Hardware schon jetzt ein Thema oder nebensächlich?</p>",
+          "link": "https://www.computerbase.de/2022-11/raytracing-games-grafikkarten-umfrage/",
+          "publishedOn": "2022-11-20T11:00:00.000Z",
+          "wordCount": 2525,
+          "title": "Die Strahlen sind los: Was denkt die Community über Raytracing in Spielen?",
+          "imageUrl": "https://pics.computerbase.de/1/0/5/7/7/9-cb737eead99467c2/article-1280x720.92815b85.jpg"
+        },
+        {
+          "id": "https://www.computerbase.de/2022-11/windows-11-drucker-update-sperre-aufgehoben/",
+          "author": null,
+          "description": "<img src=\"https://pics.computerbase.de/1/0/5/7/8/7-96ea7989a0f0b695/article-640x360.b9bec973.jpg\"><p>Microsoft hat Probleme behoben, das ein Update von Windows 10 auf Windows 11 sowie auf das Windows 11 2022 Update („22H2“) verhindern konnten. Diese Probleme konnten die „Update Experience“ stören, weshalb Systeme mit den entsprechenden Druckern vom Entwickler eine vorübergehende Update-Sperre erhalten hatten.</p>",
+          "link": "https://www.computerbase.de/2022-11/windows-11-drucker-update-sperre-aufgehoben/",
+          "publishedOn": "2022-11-20T08:30:00.000Z",
+          "wordCount": 1014,
+          "title": "Druckerprobleme behoben: Microsoft entfernt die Update-Sperren für Windows 11 & 10",
+          "imageUrl": "https://pics.computerbase.de/1/0/5/7/8/7-96ea7989a0f0b695/article-1280x720.b9bec973.jpg"
+        },
+        {
+          "id": "https://www.computerbase.de/2022-11/unreal-engine-5-4-intel-xess-plugin/",
+          "author": null,
+          "description": "<img src=\"https://pics.computerbase.de/1/0/5/7/8/6-bb80a4303cc98157/article-640x360.5455b6ce.jpg\"><p>Intel hat drei Plugins veröffentlicht, die das Intel Xe Super Sampling („XeSS“) in die Versionen 5.0, 4.27 und 4.26 der Unreal Engine bringen. Spiele auf Basis von Epic Games' Grafikengine werden das KI-gestützte Upsampling deshalb zukünftig voraussichtlich vermehrt auf Intels Arc, AMDs Radeon und Nvidias GeForce anbieten.</p>",
+          "link": "https://www.computerbase.de/2022-11/unreal-engine-5-4-intel-xess-plugin/",
+          "publishedOn": "2022-11-20T07:30:00.000Z",
+          "wordCount": 928,
+          "title": "Intel Xe Super Sampling: Unreal Engine 5 und 4 erhalten XeSS-Plugins",
+          "imageUrl": "https://pics.computerbase.de/1/0/5/7/8/6-bb80a4303cc98157/article-1280x720.5455b6ce.jpg"
+        },
+        {
+          "id": "https://www.computerbase.de/2022-11/wochenrueckblick-und-ausblick-2022-w46/",
+          "author": null,
+          "description": "<img src=\"https://pics.computerbase.de/1/0/5/7/7/6-77e513cd1d167def/article-640x360.f80ec50b.jpg\"><p>Diese Woche stand Nvidias zweite Grafikkarte der Ada-Lovelace-Architektur im Fokus der Berichterstattung auf ComputerBase: Der Test der GeForce RTX 4080 erreichte mit Abstand die meisten Leser. Es gibt viel positives zu berichten, aber kein Weg führt am Elefanten im Raum vorbei: Die Grafikkarte ist vielen Lesern viel zu teuer.</p>",
+          "link": "https://www.computerbase.de/2022-11/wochenrueckblick-und-ausblick-2022-w46/",
+          "publishedOn": "2022-11-20T07:00:00.000Z",
+          "wordCount": 1452,
+          "title": "Wochenrück- und Ausblick: Die schnelle, aber teure RTX 4080 und Pleitegeier im Fokus",
+          "imageUrl": "https://pics.computerbase.de/1/0/5/7/7/6-77e513cd1d167def/article-1280x720.f80ec50b.jpg"
+        },
         {
           "id": "https://www.computerbase.de/2022-11/phanteks-eclipse-g500a-airflow-gehaeuse-zielt-auf-high-end-gaming/",
           "author": null,
@@ -8321,66 +8406,6 @@
           "wordCount": 1064,
           "title": "AMD Adrenalin 22.10.2: Der neue Grafiktreiber für Radeon behebt diverse Fehler",
           "imageUrl": "https://pics.computerbase.de/1/0/5/4/1/2-0ff15ed1a0be6bc7/article-1280x720.8c716c10.jpg"
-        },
-        {
-          "id": "https://www.computerbase.de/2022-10/intel-core-2-extreme-qx9650-test-rueckblick/",
-          "author": null,
-          "description": "<img src=\"https://pics.computerbase.de/1/0/5/4/0/3-d7256135e724c152/article-640x360.d0fc1fd0.jpg\"><p>Mit dem Intel Core 2 Extreme QX9650 (Test) kam vor 15 Jahren das erste Modell der neuen Penryn-Generation in moderner 45-nm-Fertigung auf den Markt. Das Fertigungsverfahren im Zusammenspiel mit einer neuen Befehlssatzerweiterung und einem 12 MByte großen L2-Cache sorgte für hohe Leistung bei niedriger Energieaufnahme.</p>",
-          "link": "https://www.computerbase.de/2022-10/intel-core-2-extreme-qx9650-test-rueckblick/",
-          "publishedOn": "2022-10-22T06:00:00.000Z",
-          "wordCount": 1759,
-          "title": "Im Test vor 15 Jahren: Intels 45-nm-Prozess machte Penryn schnell und sparsam",
-          "imageUrl": "https://pics.computerbase.de/1/0/5/4/0/3-d7256135e724c152/article-1280x720.d0fc1fd0.jpg"
-        },
-        {
-          "id": "https://www.computerbase.de/2022-10/resident-evil-4-remake-systemanforderungen-geben-keinen-grund-zum-fuerchten/",
-          "author": null,
-          "description": "<img src=\"https://pics.computerbase.de/1/0/5/4/1/0-08aea023a001431c/article-640x360.afec936b.jpg\"><p>Remakes liegen im Trend. Und dieser Tage geht es vor allem um Neuauflagen von Horrorspielen. So knüpft Capcom mit den Systemanforderungen zum Remake von Resident Evil 4 direkt an jene zum Remake von Silent Hill 2 an. Die Anforderungen fallen dabei durch die Bank niedriger aus – selbst mit Raytracing.</p>",
-          "link": "https://www.computerbase.de/2022-10/resident-evil-4-remake-systemanforderungen-geben-keinen-grund-zum-fuerchten/",
-          "publishedOn": "2022-10-22T05:00:00.000Z",
-          "wordCount": 1059,
-          "title": "Resident Evil 4 Remake: Systemanforderungen geben keinen Grund zum Fürchten",
-          "imageUrl": "https://pics.computerbase.de/1/0/5/4/1/0-08aea023a001431c/article-1280x720.afec936b.jpg"
-        },
-        {
-          "id": "https://www.computerbase.de/2022-10/intel-core-i9-13900k-6-ghz-gigabyte-mainboards/",
-          "author": null,
-          "description": "<img src=\"https://pics.computerbase.de/1/0/5/4/0/9-f720e4b96c1c0e35/article-640x360.b6a105a3.jpg\"><p>Gigabyte aktualisiert die BIOS-Versionen seiner Z790-Mainboards, welche damit die „Instant 6GHz Technology“ für den Intel Core i9-13900K (Test) bieten sollen. Die ohnehin aktuell schnellste Gaming-CPU soll damit automatisch zu einem „Core i9-13900KS“ werden, den Intel als limitierte Variante für Anfang 2023 vorgesehen hat.</p>",
-          "link": "https://www.computerbase.de/2022-10/intel-core-i9-13900k-6-ghz-gigabyte-mainboards/",
-          "publishedOn": "2022-10-22T04:30:00.000Z",
-          "wordCount": 966,
-          "title": "Intel Core i9-13900K: Gigabyte macht jeden Core i9-13900K zum „i9-13900KS“",
-          "imageUrl": "https://pics.computerbase.de/1/0/5/4/0/9-f720e4b96c1c0e35/article-1280x720.b6a105a3.jpg"
-        },
-        {
-          "id": "https://www.computerbase.de/2022-10/xtrfy-m8-wireless-maus-leiht-sich-high-end-hardware-von-endgame-gear/",
-          "author": null,
-          "description": "<img src=\"https://pics.computerbase.de/1/0/5/4/0/8-d2ba773924af33d4/article-640x360.8462bb55.jpg\"><p>Mit der M8 Wireless stellt Xtrfy die bislang leichteste Gaming-Maus mit dem 2022er High-End-Standard im Inneren vor und wandelt damit in den Fußstapfen von Pulsar Gaming Gears mit der X2 Wireless sowie Endgame Gear mit der XM2w. Ohne Kompromisse geht das aber nicht – und der Marktstart erfolgt erst zum Ende des Jahres.</p>",
-          "link": "https://www.computerbase.de/2022-10/xtrfy-m8-wireless-maus-leiht-sich-high-end-hardware-von-endgame-gear/",
-          "publishedOn": "2022-10-21T17:13:00.000Z",
-          "wordCount": 1846,
-          "title": "Xtrfy M8 Wireless: Maus leiht sich High-End-Hardware von Endgame Gear",
-          "imageUrl": "https://pics.computerbase.de/1/0/5/4/0/8-d2ba773924af33d4/article-1280x720.8462bb55.jpg"
-        },
-        {
-          "id": "https://www.computerbase.de/2022-10/smi-sm8366-pcie-5-0-ssd-mit-3-4-millionen-iops-vorgefuehrt/",
-          "author": null,
-          "description": "<img src=\"https://pics.computerbase.de/1/0/5/4/0/6-5ad8eeb7c284caf5/article-640x360.d70f7068.jpg\"><p>Der Wechsel von PCIe 4.0 auf PCIe 5.0 macht SSDs theoretisch doppelt so schnell. Der Controller-Hersteller Silicon Motion hat die Leistung eines Prototypen mit SM8366-Controller demonstriert. Die SSD erreichte beim wahlfreien Lesen von 4K-Daten 3,4 Millionen IOPS oder umgerechnet 13,6 GB/s.</p>",
-          "link": "https://www.computerbase.de/2022-10/smi-sm8366-pcie-5-0-ssd-mit-3-4-millionen-iops-vorgefuehrt/",
-          "publishedOn": "2022-10-21T14:45:00.000Z",
-          "wordCount": 904,
-          "title": "SMI SM8366: PCIe-5.0-SSD mit 3,4 Millionen IOPS vorgeführt",
-          "imageUrl": "https://pics.computerbase.de/1/0/5/4/0/6-5ad8eeb7c284caf5/article-1280x720.d70f7068.jpg"
-        },
-        {
-          "id": "https://www.computerbase.de/2022-10/onlyoffice-7-2-1-windows-linux-macos-release/",
-          "author": null,
-          "description": "<img src=\"https://pics.computerbase.de/1/0/5/4/0/5-f0fb101d66a30585/article-640x360.d46e5693.jpg\"><p>Die freie Office-Suite OnlyOffice aus Lettland ist in der neuesten Version 7.2.1 für die Plattformen Windows, Linux und macOS erschienen. OnlyOffice konzentriert sich dabei auf Texte, Tabellen und Präsentationen und möchte eine Alternative zu bekannten Open-Source-Office-Suiten wie LibreOffice und OpenOffice darstellen.</p>",
-          "link": "https://www.computerbase.de/2022-10/onlyoffice-7-2-1-windows-linux-macos-release/",
-          "publishedOn": "2022-10-21T14:11:00.000Z",
-          "wordCount": 1244,
-          "title": "OnlyOffice 7.2.1: Freie Office-Suite für Windows, Linux und macOS erschienen",
-          "imageUrl": "https://pics.computerbase.de/1/0/5/4/0/5-f0fb101d66a30585/article-1280x720.d46e5693.jpg"
         }
       ]
     },
@@ -8389,6 +8414,16 @@
       "feedUrl": "https://www.ghacks.net/feed/",
       "siteUrl": "https://www.ghacks.net",
       "articles": [
+        {
+          "id": "https://www.ghacks.net/?p=181901",
+          "author": "Martin Brinkmann",
+          "description": "Microsoft started to experiment with search and the search field of its Windows 11 operating system some time ago. One of Microsoft's latest addition was the display of icons in the search […]\nThank you for being a Ghacks reader. The post The big search field on Windows 11's taskbar is unnecessary appeared first on gHacks Technology News.",
+          "link": "https://www.ghacks.net/2022/11/20/the-big-search-field-on-windows-11s-taskbar-is-unnecessary/",
+          "publishedOn": "2022-11-20T12:40:12.000Z",
+          "wordCount": 3017,
+          "title": "The big search field on Windows 11's taskbar is unnecessary",
+          "imageUrl": "https://www.ghacks.net/wp-content/uploads/2022/11/windows-11-search.png"
+        },
         {
           "id": "https://www.ghacks.net/?p=181896",
           "author": "Martin Brinkmann",
@@ -9268,33 +9303,13 @@
           "wordCount": 2662,
           "title": "Microsoft working on improving Edge's Find On Page search feature",
           "imageUrl": "https://www.ghacks.net/wp-content/uploads/2022/10/edge-find-on-page-match-related.png"
-        },
-        {
-          "id": "https://www.ghacks.net/?p=181412",
-          "author": "Martin Brinkmann",
-          "description": "One of the Vivaldi web browser's greatest features, if you ask me, is the browser's ability to stack tabs. Just drag one tab on another and you have created a tab stack. […]\nThank you for being a Ghacks reader. The post Vivaldi gets official support for pinning tab stacks appeared first on gHacks Technology News.",
-          "link": "https://www.ghacks.net/2022/10/22/vivaldi-gets-official-support-for-pinning-tab-stacks/",
-          "publishedOn": "2022-10-22T05:44:26.000Z",
-          "wordCount": 2701,
-          "title": "Vivaldi gets official support for pinning tab stacks",
-          "imageUrl": "https://www.ghacks.net/wp-content/uploads/2022/10/vivaldi-pin-stacked-tabs.png"
-        },
-        {
-          "id": "https://www.ghacks.net/?p=181402",
-          "author": "Ashwin",
-          "description": "A few days ago, a cumulative update called KB5019509 was rolled out to Windows 11 22H2.  It brought a few interesting changes, including a Tabbed File Explorer, Suggested Actions, Taskbar Overflow and […]\nThank you for being a Ghacks reader. The post How to enable the Task Manager shortcut in the Taskbar context menu in Windows 11 appeared first on gHacks Technology News.",
-          "link": "https://www.ghacks.net/2022/10/22/how-to-enable-the-task-manager-shortcut-in-the-taskbar-context-menu-in-windows-11/",
-          "publishedOn": "2022-10-22T05:16:30.000Z",
-          "wordCount": 2886,
-          "title": "How to enable the Task Manager shortcut in the Taskbar context menu in Windows 11",
-          "imageUrl": "https://www.ghacks.net/wp-content/uploads/2022/10/How-to-enable-the-Task-Manager-shortcut-in-the-Taskbar-context-menu-in-Windows-11.jpg"
         }
       ]
     },
     {
-      "title": "Deutschlandfunk - Fortlaufende Nachrichten vom 20. November 2022",
+      "title": "Deutschlandfunk - Fortlaufende Nachrichten vom 21. November 2022",
       "feedUrl": "https://www.deutschlandfunk.de/nachrichten-100.rss",
-      "siteUrl": "https://www.deutschlandfunk.de/nachrichten-index-26106.html",
+      "siteUrl": "https://www.deutschlandfunk.de/nachrichten-index-26116.html",
       "articles": []
     }
   ],
