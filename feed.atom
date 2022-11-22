@@ -2,10 +2,480 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://olivedrop.github.io/drop/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-21T01:57:29.000Z</updated>
+    <updated>2022-11-22T01:58:54.351Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://olivedrop.github.io/drop/index.html"/>
     <link rel="self" href="https://olivedrop.github.io/drop/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NIO: Das kosten die E-Autos des chinesischen Herstellers in Deutschland]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1139633</id>
+        <link href="https://stadt-bremerhaven.de/nio-das-kosten-die-e-autos-des-chinesischen-herstellers-in-deutschland/"/>
+        <updated>2022-11-21T19:45:32.000Z</updated>
+        <summary type="html"><![CDATA[Mit NIO debütiert ein chinesischer E-Auto-Hersteller auf dem deutschen Markt. Der Hersteller gab vorab bereits bekannt, was seine Autos per Abo oder Leasing kosten. Nun startet auch die Kaufoption für alle Modelle. Hierzulande startet man mit einem Portfolio aus drei...
+Zum Beitrag: NIO: Das kosten die E-Autos des chinesischen Herstellers in Deutschland
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>Felix Frank</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nvidia GA102 statt GA104: Auch Colorful spendiert der RTX 3070 Ti den größeren Chip]]></title>
+        <id>https://www.computerbase.de/2022-11/nvidia-ga102-statt-ga104-auch-colorful-spendiert-der-rtx-3070-ti-den-groesseren-chip/</id>
+        <link href="https://www.computerbase.de/2022-11/nvidia-ga102-statt-ga104-auch-colorful-spendiert-der-rtx-3070-ti-den-groesseren-chip/"/>
+        <updated>2022-11-21T19:15:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/8/0/7-1c6ca382ebf2f278/article-640x360.5cc2a958.jpg"><p>Zwar ist mit GeForce RTX 4090 (Test) und RTX 4080 (Test) inzwischen die Zeit von Nvidia Ada Lovelace angebrochen, doch auch bei der RTX-3000-Generation tut sich hin und wieder noch etwas. Nach Zotac bestückt nun auch Colorful die GeForce RTX 3070 Ti (Test) alternativ mit einem lediglich zur Hälfte aktivierten GA102-Grafikchip.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Razer Edge: Kurze Eindrücke vom Handheld]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1139514</id>
+        <link href="https://stadt-bremerhaven.de/razer-edge-kurze-eindruecke-vom-handheld/"/>
+        <updated>2022-11-21T19:00:30.000Z</updated>
+        <summary type="html"><![CDATA[Razer war in Hawaii auf dem Qualcomm Summit 2022 vertreten. Dort zeigte man Anwesenden, inklusive meiner Wenigkeit, live das kommende Handheld Razer Edge. Als technische Basis dienen unter anderem ein AMOLED-Display mit FHD+ als Auflösung, 144 Hz Bildwiederholrate und 6,8...
+Zum Beitrag: Razer Edge: Kurze Eindrücke vom Handheld
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Virtualisierung: VMware Workstation 17 Pro und Player 17 vorgestellt]]></title>
+        <id>https://www.computerbase.de/2022-11/vmware-workstation-17-pro-player-release/</id>
+        <link href="https://www.computerbase.de/2022-11/vmware-workstation-17-pro-player-release/"/>
+        <updated>2022-11-21T18:36:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/8/0/5-bc65467ef92acbda/article-640x360.d82806ee.jpg"><p>VMware hat neue Virtualisierungssoftware vorgestellt. Die VMware Workstation 17 Pro und der VMware Player 17 unterstützen Windows 11 und diverse neue Distributionen auf Basis des freien Betriebssystemkernels Linux. Außerdem bieten beide Lösungen ein erweitertes Featureset mit vTPM, Autostart und Support für OpenGL 4.3.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gigabitnetze in Deutschland: Zusätzliche Milliarde für den Ausbau]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1139607</id>
+        <link href="https://stadt-bremerhaven.de/gigabitnetze-in-deutschland-zusaetzliche-milliarde-fuer-den-ausbau/"/>
+        <updated>2022-11-21T18:00:12.000Z</updated>
+        <summary type="html"><![CDATA[Aus dem Sondervermögen „Digitale Infrastruktur“ soll eine zusätzliche Milliarde in den Ausbau der Gigabitnetze in Deutschland fließen. Bekanntermaßen sieht es da teilweise noch mau aus, insbesondere auf dem Land. Die Milliarde soll in den kommenden Haushaltsjahren daher in die Unterstützung...
+Zum Beitrag: Gigabitnetze in Deutschland: Zusätzliche Milliarde für den Ausbau
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sozialverband VdK fordert günstigere Monatstickets]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1139559</id>
+        <link href="https://stadt-bremerhaven.de/sozialverband-vdk-fordert-guenstigere-monatstickets/"/>
+        <updated>2022-11-21T17:30:30.000Z</updated>
+        <summary type="html"><![CDATA[Der Sozialverband VdK empfindet das geplante 49-Euro-Monatsticket mit bundesweiter Gültigkeit nicht als ausreichend. Stattdessen sollte es ein Sozialticket zum Preis von maximal 29 Euro geben, wie Tagesschau die Sprecher des Verbands aufgreift. Dieses Ticket sollte dann gezielt nur einkommensschwachen Haushalten...
+Zum Beitrag: Sozialverband VdK fordert günstigere Monatstickets
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft startet seine Angebote zum Black Friday und Cyber Monday]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1139590</id>
+        <link href="https://stadt-bremerhaven.de/microsoft-startet-seine-angebote-zum-black-friday-und-cyber-monday/"/>
+        <updated>2022-11-21T17:00:58.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft startet mit seinen Angeboten zum Black Friday und Cyber Monday durch: Es gibt nicht nur einen Rabatt auf die Xbox Series S, die temporär nur 249 Euro kostet, auch die passenden Controller und über 900 Spiele wurden im Preis...
+Zum Beitrag: Microsoft startet seine Angebote zum Black Friday und Cyber Monday
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AVM FRITZ!App WLAN mit Verbesserungen]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1139614</id>
+        <link href="https://stadt-bremerhaven.de/avm-fritzapp-wlan-mit-verbesserungen/"/>
+        <updated>2022-11-21T16:45:43.000Z</updated>
+        <summary type="html"><![CDATA[Nutzer, die ihr WLAN messen, ausmessen oder generell testen wollen, bekommen einen ganzen Schwung Apps in den App Stores angeboten. AVM bietet ebenfalls eine App an, nämlich die FRITZ!App WLAN, mit der man nicht nur das Netz messen kann –...
+Zum Beitrag: AVM FRITZ!App WLAN mit Verbesserungen
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pixelmator Pro: Bildbearbeitung für macOS zum halben Preis]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1115332</id>
+        <link href="https://stadt-bremerhaven.de/pixelmator-pro-bildbearbeitung-fuer-macos-zum-halben-preis/"/>
+        <updated>2022-11-21T16:30:36.000Z</updated>
+        <summary type="html"><![CDATA[Falls ihr noch auf der Suche nach einem guten Bildbearbeitungsprogramm für macOS sein solltet, dann solltet ihr aktuell unbedingt mal „Pixelmator Pro“ in die Suche des App Stores eingeben. Das Programm ist aktuell für 23,99 Euro zu bekommen und kostet...
+Zum Beitrag: Pixelmator Pro: Bildbearbeitung für macOS zum halben Preis
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>Benjamin Mamerow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Caselabs: Edelgehäusemarke wird in Schweden wiederbelebt]]></title>
+        <id>https://www.computerbase.de/2022-11/caselabs-edelgehaeusemarke-wird-in-schweden-wiederbelebt/</id>
+        <link href="https://www.computerbase.de/2022-11/caselabs-edelgehaeusemarke-wird-in-schweden-wiederbelebt/"/>
+        <updated>2022-11-21T16:30:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/8/0/3-01399e3eb59501ab/article-640x360.74638055.jpg"><p>Caselabs kehrt zurück. Das 2018 in die Pleite gerutschte, in den USA beheimatete Unternehmen, das sich auf modding-freundliche, geräumige Computergehäuse für die Besitzer großer Wasserkühlungen spezialisiert hatte, wird künftig von Schweden aus operieren, wo der neue Eigentümer der Marke sitzt.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Philips 27B1U7903: UHD-Monitor mit Thunderbolt 4 und Mini-LED]]></title>
+        <id>https://www.computerbase.de/2022-11/philips-27b1u7903-uhd-monitor-mit-thunderbolt-4-und-mini-led/</id>
+        <link href="https://www.computerbase.de/2022-11/philips-27b1u7903-uhd-monitor-mit-thunderbolt-4-und-mini-led/"/>
+        <updated>2022-11-21T16:12:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/8/0/1-710c889494eee88f/article-640x360.afc3499c.jpg"><p>Für den professionellen Einsatz hat Philips den 4K-UHD-Monitor 27B1U7903 vorgesehen, der mit Mini-LED-Technik und Thunderbolt-4-Schnittstelle aufwartet. Die Leuchtkraft ist mit bis zu 1.400 cd/m² besonders hoch.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Philips plant wohl einen QD-OLED-TV]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1139498</id>
+        <link href="https://stadt-bremerhaven.de/philips-plant-einen-qd-oled-tv/"/>
+        <updated>2022-11-21T16:00:39.000Z</updated>
+        <summary type="html"><![CDATA[Philips bzw. TP Vision, die in Europa hinter der TV-Marke stecken, haben Interesse an der Entwicklung eines QD-OLED-Fernsehers auf Basis eines Panels von Samsung Display bestätigt. Es liege sogar schon ein erster, eigener Prototyp vor. Das hat der Senior Director...
+Zum Beitrag: Philips plant wohl einen QD-OLED-TV
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fernseher: Philips erwägt, Samsungs QD-OLED-Panels zu nutzen]]></title>
+        <id>https://www.computerbase.de/2022-11/fernseher-philips-erwaegt-samsungs-qd-oled-panels-zu-nutzen/</id>
+        <link href="https://www.computerbase.de/2022-11/fernseher-philips-erwaegt-samsungs-qd-oled-panels-zu-nutzen/"/>
+        <updated>2022-11-21T15:52:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/8/0/0-3b563a66a9460427/article-640x360.e818b410.jpg"><p>Philips schaut sich Samsungs QD-OLED-Technik anhand von Prototypen genauer an und will dann entscheiden, ob künftige Philips-Fernseher damit bestückt werden. Das bestätigte ein leitender Mitarbeiter in einem Interview.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows 11: VPN-Netzwerke werden bald im Infobereich ausgewiesen]]></title>
+        <id>https://www.computerbase.de/2022-11/windows-11-vpn-netzwerke-infobereich-systemtray/</id>
+        <link href="https://www.computerbase.de/2022-11/windows-11-vpn-netzwerke-infobereich-systemtray/"/>
+        <updated>2022-11-21T15:31:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/7/9/9-b604ffdeaedd8097/article-640x360.7d550693.jpg"><p>Spätestens mit dem Windows 11 2023 Update („23H2“) sollen VPN-Netzwerke im Infobereich („System Tray“) von Windows 11 ausgewiesen und entsprechend auf einen Blick erkennbar gemacht werden. Aktuell wird das neue Feature intern erprobt und kann mit der Windows 11 Insider Preview ab dem Build 25247 aktiviert werden.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WhatsApp: So können sich Nutzer Avatare erstellen]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1139587</id>
+        <link href="https://stadt-bremerhaven.de/whatsapp-so-koennen-sich-nutzer-avatare-erstellen/"/>
+        <updated>2022-11-21T15:30:40.000Z</updated>
+        <summary type="html"><![CDATA[Seit Ende Oktober testet WhatsApp mit einer neuen Möglichkeit herum, Nutzern neue Avatare zur Verfügung zu stellen. Nachdem bei Instagram und Facebook schon längst anpassbare Avatare im Stile von Bitmoji nutzbar sind, werden diese auch künftig bei WhatsApp Einzug halten....
+Zum Beitrag: WhatsApp: So können sich Nutzer Avatare erstellen
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mario Kart 8 Deluxe: Booster-Streckenpass Welle 3 erscheint am 7. Dezember]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1139597</id>
+        <link href="https://stadt-bremerhaven.de/mario-kart-8-deluxe-booster-streckenpass-welle-3-erscheint-am-7-dezember/"/>
+        <updated>2022-11-21T15:18:13.000Z</updated>
+        <summary type="html"><![CDATA[Rechtzeitig vor Weihnachten drückt Mario Kart 8 Deluxe für Nintendo Switch noch einmal kräftig aufs Gaspedal. Am 7. Dezember rast Welle 3 des Booster-Streckenpasses los –  Weg frei zu acht weiteren überarbeiteten Rennstrecken aus der gesamten Mario-Kart-Reihe. Der rasante Rundkurs...
+Zum Beitrag: Mario Kart 8 Deluxe: Booster-Streckenpass Welle 3 erscheint am 7. Dezember
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kein eigener App-Store: Google zahlte Activision Blizzard rund 360 Mio. US-Dollar dafür]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1139416</id>
+        <link href="https://stadt-bremerhaven.de/kein-eigener-app-store-google-zahlte-activision-blizzard-rund-360-mio-us-dollar-dafuer/"/>
+        <updated>2022-11-21T14:30:29.000Z</updated>
+        <summary type="html"><![CDATA[Gemäß einem aktuellen Bericht der Nachrichtenagentur Reuters, sind neue Details zur Klage aufgetaucht, die Epic Games im Jahr 2020 erstmals gegen Google eingereicht hatte und darin unter anderem wettbewerbswidrige Praktiken im Zusammenhang mit dem Android- und Play Store-Geschäft angeklagt hatte....
+Zum Beitrag: Kein eigener App-Store: Google zahlte Activision Blizzard rund 360 Mio. US-Dollar dafür
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>Benjamin Mamerow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[„Elemental“: Neuer Film von Disney und Pixar im Teaser]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1139503</id>
+        <link href="https://stadt-bremerhaven.de/elemental-neuer-film-von-disney-und-pixar-im-teaser/"/>
+        <updated>2022-11-21T14:00:24.000Z</updated>
+        <summary type="html"><![CDATA[Die letzten Filme von Pixar landeten bis auf „Lightyear“ jeweils direkt zum Start bei Disney+: Das betrifft „Soul“, „Luca“ und auch „Rot“. Der nächste Titel des Animationsstudios wird „Elemental“ sein. Dieser Film soll im Juni 2023 im Kino anlaufen. Jetzt...
+Zum Beitrag: „Elemental“: Neuer Film von Disney und Pixar im Teaser
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Payback: Ihr könnt wieder Punkte bei Amazon.de sammeln (erste Coupons in der App)]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1139574</id>
+        <link href="https://stadt-bremerhaven.de/payback-ihr-koennt-wieder-punkte-bei-amazon-de-sammeln-erste-coupons-in-der-app/"/>
+        <updated>2022-11-21T13:30:45.000Z</updated>
+        <summary type="html"><![CDATA[Amazon.de war vor Urzeiten bereits Partner des Bonusprogramms Payback. Doch schon vor Jahren ging man dann getrennte Wege. Mittlerweile könnt ihr jedoch bei Amazon.de wieder Payback-Punkte sammeln. Die Kooperation besteht offenbar schon eine Weile wieder, aber niemand rückte sie ins...
+Zum Beitrag: Payback: Ihr könnt wieder Punkte bei Amazon.de sammeln (erste Coupons in der App)
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Messaging-App Wickr Me wird von Amazon eingestellt]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1139576</id>
+        <link href="https://stadt-bremerhaven.de/messaging-app-wickr-me-wird-von-amazon-eingestellt/"/>
+        <updated>2022-11-21T13:00:17.000Z</updated>
+        <summary type="html"><![CDATA[Wickr ist eine Messaging-App, die 2012 auf den Markt kam. 2021 hat Amazon das Unternehmen für seine AWS-Sparte übernommen. AWS bot nach der Übernahme Wickr-Services direkt an. Wickr-Kunden, -Channel- und -Geschäftspartner konnten die Services von Wickr weiterhin wie bisher nutzen....
+Zum Beitrag: Messaging-App Wickr Me wird von Amazon eingestellt
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FRITZ!OS: FRITZ!Box 7590 AX, 7530 AX und 7530 mit Update im Labor]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1139572</id>
+        <link href="https://stadt-bremerhaven.de/fritzos-fritzbox-7590-ax-7590-und-7530-mit-update-im-labor-2/"/>
+        <updated>2022-11-21T12:36:51.000Z</updated>
+        <summary type="html"><![CDATA[AVM hat neue Software für die FRITZ!Box veröffentlicht. Ein aktualisiertes FRITZ!OS im Labor gibt’s gleich für drei Modelle, nämlich die FRITZ!Box 7530, 7530 AX und die 7590 AX. Nutzer, die bereits die Laborversion einsetzen, können das Update über ihre Box...
+Zum Beitrag: FRITZ!OS: FRITZ!Box 7590 AX, 7530 AX und 7530 mit Update im Labor
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[QNAP MARS sichert jetzt Google Fotos]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1139520</id>
+        <link href="https://stadt-bremerhaven.de/qnap-mars-sichert-jetzt-google-fotos/"/>
+        <updated>2022-11-21T12:30:26.000Z</updated>
+        <summary type="html"><![CDATA[QNAP, Hersteller von NAS-Systemen, ist dem Google-Fotos-Partnerprogramm beigetreten und hat eine neue mobile Fotosicherungslösung für Google Fotos eingeführt – MARS (Multi-Application Recovery Service). MARS bietet laut Angeben des Unternehmens Anwendern eine einfache Methode zur Sicherung/Migration von Fotos und Videos von...
+Zum Beitrag: QNAP MARS sichert jetzt Google Fotos
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Snapdragon 8 Gen 2 im Benchmark: Qualcomm holt sich die GPU-Krone]]></title>
+        <id>https://www.computerbase.de/2022-11/qualcomm-snapdragon-8-gen-2-benchmark/</id>
+        <link href="https://www.computerbase.de/2022-11/qualcomm-snapdragon-8-gen-2-benchmark/"/>
+        <updated>2022-11-21T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/7/6/8-c231fd4a089dbc88/article-640x360.7adc8c11.jpg"><p>Noch dieses Jahr sollen erste Smartphones mit Snapdragon 8 Gen 2 vorgestellt werden. Das System on a Chip bietet Verbesserungen in zahlreichen Bereichen wie KI-Leistung, Kamera, Gaming oder Konnektivität. ComputerBase hat erste Benchmarks für den Snapdragon 8 Gen 2 in den klassischen CPU- und GPU-Disziplinen durchgeführt.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Qualcomm Snapdragon 8 Gen 2: Hier sind die ersten Benchmarks]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1139510</id>
+        <link href="https://stadt-bremerhaven.de/qualcomm-snapdragon-8-gen-2-hier-sind-die-ersten-benchmarks/"/>
+        <updated>2022-11-21T11:59:35.000Z</updated>
+        <summary type="html"><![CDATA[Auf dem Qualcomm Summit 2022 in Hawaii hatte ich Gelegenheit erste Benchmarks mit dem neuen SoC Qualcomm Snapdragon 8 Gen 2 durchzuführen. Dabei zeigt sich, wie man es auch erwarten sollte, ein beachtlicher Performance-Sprung. Allerdings sind die Ergebnisse natürlich noch...
+Zum Beitrag: Qualcomm Snapdragon 8 Gen 2: Hier sind die ersten Benchmarks
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mageia 9: Community-Distribution mit neuen Desktops ausprobieren]]></title>
+        <id>https://www.computerbase.de/2022-11/mageia-9-alpha-1-release/</id>
+        <link href="https://www.computerbase.de/2022-11/mageia-9-alpha-1-release/"/>
+        <updated>2022-11-21T11:56:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/7/9/7-e45d611cf8e50abb/article-640x360.ff5d9e3e.jpg"><p>Die äußerst aktive Community hinter der französischen Linux-Distribution Mageia, die im Jahr 2010 als Abspaltung („Fork“) aus Mandriva Linux hervorgegangen ist, hat jetzt die kommende Version 9 mit neuen Desktops zum Testen freigegeben. Getragen wird das unter GPLv3 stehende Projekt wiederum von einer Non-Profit-Organisation.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Halbleiterproduktion: Indiens erste Fab kostet 3 Mrd. USD für 40-nm-Chips]]></title>
+        <id>https://www.computerbase.de/2022-11/halbleiterproduktion-indiens-erste-fab-kostet-3-mrd-usd-fuer-40-nm-chips/</id>
+        <link href="https://www.computerbase.de/2022-11/halbleiterproduktion-indiens-erste-fab-kostet-3-mrd-usd-fuer-40-nm-chips/"/>
+        <updated>2022-11-21T11:33:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/7/9/1-0ef0ee590e8e760d/article-640x360.a51a86b6.jpg"><p>Bisher hat Indien nicht eine einzige moderne Halbleiterfabrik für die Chip-Fertigung, sondern ist komplett auf den Import angewiesen – mit entsprechend riesigen Problemen vor allem in den letzten beiden Jahren. Das soll sich nun ändern, bereits im Februar des kommenden Jahres könnte der Baubeginn einer ersten „Fab“ starten.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ende der Telefonzellen naht: Ab sofort keine Zahlung mit Münzen mehr]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1139529</id>
+        <link href="https://stadt-bremerhaven.de/ende-der-telefonzellen-naht-ab-sofort-keine-zahlung-mit-muenzen-mehr/"/>
+        <updated>2022-11-21T11:30:19.000Z</updated>
+        <summary type="html"><![CDATA[Telefonzellen sind mittlerweile nur noch an wenigen Standorten zu finden. Die Gründe sind klar: Die meisten Menschen besitzen mittlerweile ein Mobiltelefon und somit verfallen die Zellen weitgehend ungenutzt vor sich hin. Außerdem sind sie mit Vorliebe das Ziel von Vandalismus....
+Zum Beitrag: Ende der Telefonzellen naht: Ab sofort keine Zahlung mit Münzen mehr
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Star Citizen: Bis Ende November wird kostenlos geflogen [Notiz]]]></title>
+        <id>https://www.computerbase.de/2022-11/star-citizen-bis-ende-november-wird-kostenlos-geflogen/</id>
+        <link href="https://www.computerbase.de/2022-11/star-citizen-bis-ende-november-wird-kostenlos-geflogen/"/>
+        <updated>2022-11-21T11:26:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/7/9/6-5299455ca8eb4615/article-640x360.85830537.jpg"><p>Die ewige Alpha-Version des schwarmfinanzierten Weltraum-Spiels Star Citizen ist bis Ende November kostenlos spielbar. Im Rahmen der virtuellen Raumschiff-Messe Intergalactic Aerospace Expo (IAE) darf jeder die mehr als 120 Schiffe und Vehikel ausprobieren.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LG 27GR95QE: OLED-Gaming-Monitor vorgestellt]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1139545</id>
+        <link href="https://stadt-bremerhaven.de/lg-27gr95qe-oled-gaming-monitor-vorgestellt/"/>
+        <updated>2022-11-21T11:15:31.000Z</updated>
+        <summary type="html"><![CDATA[LG hat den Ultragear 27GR95QE vorgestellt. Mit dem 26,5-Zoll-Monitor möchte man Spieler begeistern. Aus diesem Grunde nennt LG eine minimale Reaktionszeit von 0,03 Millisekunden (g2g). Ebenfalls sorgt man beim 27GR95QE für ein OLED-Panel, welches eine Bildwiederholfrequenz von 240 Hz bietet....
+Zum Beitrag: LG 27GR95QE: OLED-Gaming-Monitor vorgestellt
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Asus ROG Phone 6: Exklusive Diablo-Edition für 1.299 Euro vorgestellt]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1139410</id>
+        <link href="https://stadt-bremerhaven.de/asus-rog-phone-6-exklusive-diablo-edition-fuer-1-299-euro-vorgestellt/"/>
+        <updated>2022-11-21T11:00:13.000Z</updated>
+        <summary type="html"><![CDATA[Zugegeben: Optisch finde ich die neue Variante schon ziemlich cool, technisch hatte mich das ursprüngliche ROG Phone 6 Pro ja eh schon überzeugt. Nun stellte Asus eine Sonderedition des ROG Phone 6 vor, die ROG Phone 6 Diablo Immortal Edition....
+Zum Beitrag: Asus ROG Phone 6: Exklusive Diablo-Edition für 1.299 Euro vorgestellt
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>Benjamin Mamerow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux Mint 21.1 („Vera“): Der neue Cinnamon 5.6 steht bereits in den Startlöchern]]></title>
+        <id>https://www.computerbase.de/2022-11/linux-mint-21-1-vera-cinnamon-5-6-release/</id>
+        <link href="https://www.computerbase.de/2022-11/linux-mint-21-1-vera-cinnamon-5-6-release/"/>
+        <updated>2022-11-21T09:55:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/7/9/3-f90cd7598a7322f3/article-640x360.62a5ee84.jpg"><p>Cinnamon 5.6, der neue Desktop für das kommende Linux Mint 21.1 („Vera“), wurde bereits freigegeben und hat wieder einige Neuerungen zu bieten. Die neueste Version der insbesondere bei Ein- und Umsteigern äußerst beliebten Linux-Distribution soll im Laufe des kommenden Monats erscheinen und ebenfalls neue Features einführen.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[27 Zoll: LG kündigt OLED-Monitor mit WQHD & 240 Hz für 999 USD an]]></title>
+        <id>https://www.computerbase.de/2022-11/27-zoll-lg-kuendigt-oled-monitor-mit-wqhd-und-240-hz-fuer-999-usd-an/</id>
+        <link href="https://www.computerbase.de/2022-11/27-zoll-lg-kuendigt-oled-monitor-mit-wqhd-und-240-hz-fuer-999-usd-an/"/>
+        <updated>2022-11-21T09:35:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/7/9/4-1db96e63cd84fa89/article-640x360.eec5bf96.jpg"><p>LG hat mit dem UltraGear 27GR95QE-B einen 27-Zoll-Monitor mit OLED-Display vorgestellt, der auf die WQHD-Auflösung mit 2.560 × 1.440 Bildpunkten im klassischen 16:9-Format setzt und eine Bildwiederholfrequenz von bis zu 240 HZ bietet. In den USA liegt die unverbindliche Preisempfehlung bei 999 US-Dollar.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tesla & Ford: Automobilhersteller wollen mehr Chips direkt von TSMC]]></title>
+        <id>https://www.computerbase.de/2022-11/tesla-und-ford-automobilhersteller-wollen-mehr-chips-direkt-von-tsmc/</id>
+        <link href="https://www.computerbase.de/2022-11/tesla-und-ford-automobilhersteller-wollen-mehr-chips-direkt-von-tsmc/"/>
+        <updated>2022-11-21T09:30:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/7/9/2-4940ebe9154d8756/article-640x360.4fac3aec.jpg"><p>Sowohl Tesla als auch Ford sollen in Verhandlungen mit TSMC für zusätzliche Chip-Kapazitäten stehen. Die Automobil-Industrie und die Nachfrage nach Millionen Chips für die Umstellung auf E-Automobile wird ein Zugpferd für die kommenden Jahre, dass haben neben TSMC auch andere Halbleiterhersteller erkannt.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GeForce RTX 4090 HOF: Galax übertaktet Ada Lovelace auf über 3,8 GHz]]></title>
+        <id>https://www.computerbase.de/2022-11/geforce-rtx-4090-hof-galax-uebertaktet-ada-lovelace-auf-ueber-3-8-ghz/</id>
+        <link href="https://www.computerbase.de/2022-11/geforce-rtx-4090-hof-galax-uebertaktet-ada-lovelace-auf-ueber-3-8-ghz/"/>
+        <updated>2022-11-21T08:27:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/7/9/0-2e2922eaaca337c1/article-640x360.594a6dab.jpg"><p>Bei der GeForce RTX 4090 HOF (Hall of Fame) handelt es sich um Galax' gänzlich in weiß gehaltenes Flaggschiff-Modell der Ada-Lovelace-Generation, etwa vergleichbar mit Asus' ROG Strix OC. Dank LN2-Kühlung erreicht der Hersteller in diversen Benchmarks zahlreiche neue Rekorde, auch beim GPU-Takt.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AMD Radeon RX 7900 XTX & XT: PowerColor Red Devil erstmals offiziell abgelichtet]]></title>
+        <id>https://www.computerbase.de/2022-11/powercolor-radeon-rx-7900-xtx-red-devil-24-gb/</id>
+        <link href="https://www.computerbase.de/2022-11/powercolor-radeon-rx-7900-xtx-red-devil-24-gb/"/>
+        <updated>2022-11-21T06:30:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/7/8/9-35f0df5136d651d9/article-640x360.c846fa42.jpg"><p>PowerColor, neben Sapphire der zweite große Exklusivpartner von AMD, hat jetzt ein erstes offizielles Bild einer der neuen Red Devil auf Basis einer der beiden kommenden RDNA-3-Grafikkarten Radeon RX 7900 XTX und Radeon RX 7900 XT veröffentlicht, das ein mächtiges 4-Slot-Design zeigt. Dreimal 8-Pin sind obligatorisch.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Der Cloud-Gaming-Rückblick am Sonntag – KW 46]]></title>
         <id>https://stadt-bremerhaven.de/?p=1139354</id>
@@ -12258,80 +12728,6 @@ Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[EcoFlow Delta 2 Powerstation im Test]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1135388</id>
-        <link href="https://stadt-bremerhaven.de/ecoflow-delta-2-powerstation-im-test/"/>
-        <updated>2022-10-23T13:30:06.000Z</updated>
-        <summary type="html"><![CDATA[Ich konnte in den letzten Wochen die neue EcoFlow Delta 2 Powerstation testen. Seit einiger Zeit machen sich auch hierzulande die Hersteller sehr breit und sind auch sehr emsig, was die Vermarktung ihrer Produkte angeht. Hat man es früher nur...
-Zum Beitrag: EcoFlow Delta 2 Powerstation im Test
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>caschy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kosten für Hardware: Ist eure Schmerzgrenze beim Gaming-PC erreicht?]]></title>
-        <id>https://www.computerbase.de/2022-10/hardware-kosten-umfrage/</id>
-        <link href="https://www.computerbase.de/2022-10/hardware-kosten-umfrage/"/>
-        <updated>2022-10-23T12:30:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/4/1/4-ab002ae353eece23/article-640x360.46c62dc2.jpg"><p>Aktuelle Grafikkarten für mehr als 2.000 Euro und Mainboards mit einer unverbindlichen Preisempfehlung von 1.000 Euro und mehr: Ist eure Schmerzgrenze für aktuelle Hardware bereits erreicht, oder seid ihr noch immer bereit, die nach wie vor steigenden Kosten aufzubringen? Wo liegt euer Limit für CPU, GPU, RAM und Mainboard?</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon entstehen wohl hohe Kosten durch enorme Mitarbeiterfluktuation]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1134817</id>
-        <link href="https://stadt-bremerhaven.de/amazon-entstehen-wohl-hohe-kosten-durch-enorme-mitarbeiterfluktuation/"/>
-        <updated>2022-10-23T12:00:44.000Z</updated>
-        <summary type="html"><![CDATA[Unternehmen können grundsätzlich aus mehreren Strategien wählen, wenn es um das Personal geht. Zwei Maschen sind besonders in Abstufungen verbreitet: Man versucht das Personal gut zu bezahlen, Mitarbeiter zu fördern und so kompetente Kräfte langfristig zu binden. Das kostet zwar...
-Zum Beitrag: Amazon entstehen wohl hohe Kosten durch enorme Mitarbeiterfluktuation
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>André Westphal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bosch Smart Home: Die neuen Heizkörper-Thermostate und Tür-/Fensterkontakte im Test]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1134354</id>
-        <link href="https://stadt-bremerhaven.de/bosch-smart-home-die-neuen-heizkoerper-thermostate-und-tuer-fensterkontakte-im-test/"/>
-        <updated>2022-10-23T10:30:55.000Z</updated>
-        <summary type="html"><![CDATA[In Zeiten von Inflation und steigenden Energiepreisen schauen sich allerhand Menschen nach Möglichkeiten um, ihre Ausgaben in diesem Bereich ein wenig zu optimieren. Als eine Option, mit der sich zumindest das Heizverhalten optimieren lässt, bieten sich smarte Heizkörperthermostate an, so...
-Zum Beitrag: Bosch Smart Home: Die neuen Heizkörper-Thermostate und Tür-/Fensterkontakte im Test
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>Benjamin Mamerow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iRobot Combo j7+ im Test: iRobots nächster Versuch der Saug-Wisch-Kombination]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1133738</id>
-        <link href="https://stadt-bremerhaven.de/irobot-combo-j7-im-test-irobots-naechster-versuch-der-saug-wisch-kombination/"/>
-        <updated>2022-10-23T09:00:15.000Z</updated>
-        <summary type="html"><![CDATA[iRobot hat schon vor einiger Zeit die ersten Schritte im Segment der kombinierten Saug- und Wischroboter gemacht. Der Roomba Combo ist für knapp 250 Euro verfügbar und saugt und wischt in einem einzigen Durchgang. Vor kurzer Zeit stellte man dann...
-Zum Beitrag: iRobot Combo j7+ im Test: iRobots nächster Versuch der Saug-Wisch-Kombination
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>Olli</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Windows 11 Task Manager is preventing the Safely Remove Hardware feature]]></title>
         <id>https://www.ghacks.net/?p=181420</id>
         <link href="https://www.ghacks.net/2022/10/23/windows-11-task-manager-is-preventing-the-safely-remove-hardware-feature/"/>
@@ -12343,80 +12739,6 @@ Thank you for being a Ghacks reader. The post Windows 11 Task Manager is prevent
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[KeePassXC 2.7.2: Passwortmanager liegt als Vorschauversion vor]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1135459</id>
-        <link href="https://stadt-bremerhaven.de/keepassxc-2-7-2-passwortmanager-liegt-als-vorschauversion-vor/"/>
-        <updated>2022-10-23T07:30:12.000Z</updated>
-        <summary type="html"><![CDATA[Wer sich im Umfeld des Passwortmanagers KeePass etwas informiert hat, der weiß, dass es einige Derivate gibt. Eines davon, KeePassX, wurde Ende 2021 eingestellt. KeePassXC  wird allerdings noch gepflegt. Der Passwortmanager ist ein Fork von KeePassX, der für Linux, macOS und...
-Zum Beitrag: KeePassXC 2.7.2: Passwortmanager liegt als Vorschauversion vor
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>caschy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iPhone 14 im Test: Gutes Smartphone – aber wenig Neues]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1132872</id>
-        <link href="https://stadt-bremerhaven.de/iphone-14-im-test-gutes-smartphone-aber-wenig-neues/"/>
-        <updated>2022-10-23T06:00:04.000Z</updated>
-        <summary type="html"><![CDATA[Apple hat in diesem Jahr vier neue iPhones vorgestellt, das iPhone 14 Pro Max, das iPhone 14 Pro, das iPhone 14 Plus (kommt im Oktober) und das iPhone 14. Während das Pro wieder eine Menge Liebe erfahren hat (hier unser...
-Zum Beitrag: iPhone 14 im Test: Gutes Smartphone – aber wenig Neues
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>Olli</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wochenrück- und Ausblick: Intels Dino-CPUs und eine wunderschöne Rattenplage]]></title>
-        <id>https://www.computerbase.de/2022-10/wochenrueckblick-und-ausblick-2022-w42/</id>
-        <link href="https://www.computerbase.de/2022-10/wochenrueckblick-und-ausblick-2022-w42/"/>
-        <updated>2022-10-23T06:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/4/0/7-42ddb9f7352e9db1/article-640x360.51abe3fb.jpg"><p>Im Fokus der Woche stand der Test von Intels Raptor-Lake-Prozessoren. Der Core i9-13900K hat sich neben dem Core i7-13700K und dem Core i5-13600K für einen Test eingefunden und alle drei schneiden dabei stark ab. Vor bei der Spiele-Leistung wissen die Hybrid-CPUs zu überzeugen.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Immer wieder sonntags KW 42]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1135028</id>
-        <link href="https://stadt-bremerhaven.de/immer-wieder-sonntags-kw-42-11/"/>
-        <updated>2022-10-23T04:30:57.000Z</updated>
-        <summary type="html"><![CDATA[Eine weitere Woche ist schon fast verstrichen: Erstmals schreibe ich euch heute aus Hamburg, denn in dieser Woche habe ich meine jahrelange Heimat, Kiel, verlassen. Egal, wo ihr wiederum ansässig seid: Ich hoffe ihr verlebt heute einen angenehmen Sonntag, während...
-Zum Beitrag: Immer wieder sonntags KW 42
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>André Westphal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Turtle Beach Recon Cloud Hybrid Game Controller im Kurztest]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1134880</id>
-        <link href="https://stadt-bremerhaven.de/turtle-beach-recon-cloud-hybrid-game-controller-im-kurztest/"/>
-        <updated>2022-10-22T18:00:38.000Z</updated>
-        <summary type="html"><![CDATA[Turtle Beach hat vor kurzem eine neue Version seines Recon-Controllers vorgestellt, die auf den Beinamen Cloud hört. Im Gegensatz zu seinem Namensvetter kommt der Recon Cloud nicht mit einer kabelgebundenen Verbindung aus, sondern kann sich auch per Bluetooth mit Android-Geräten...
-Zum Beitrag: Turtle Beach Recon Cloud Hybrid Game Controller im Kurztest
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>Olli</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Microsoft working on improving Edge's Find On Page search feature]]></title>
         <id>https://www.ghacks.net/?p=181415</id>
         <link href="https://www.ghacks.net/2022/10/22/microsoft-working-on-improving-edges-find-search-feature/"/>
@@ -12425,58 +12747,6 @@ Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
 Thank you for being a Ghacks reader. The post Microsoft working on improving Edge's Find On Page search feature appeared first on gHacks Technology News.]]></summary>
         <author>
             <name>Martin Brinkmann</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gaming-Benchmarks: Intel Core i5-13600K mit DDR5 und DDR4 im Vergleich]]></title>
-        <id>https://www.computerbase.de/2022-10/gaming-benchmarks-intel-core-i5-13600k-mit-ddr5-und-ddr4-im-vergleich/</id>
-        <link href="https://www.computerbase.de/2022-10/gaming-benchmarks-intel-core-i5-13600k-mit-ddr5-und-ddr4-im-vergleich/"/>
-        <updated>2022-10-22T16:30:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/4/0/4-e4ba6d981ca294da/article-640x360.542cb269.jpg"><p>Der Umfangreiche Test von Core i9-13900K, Core i7-13700K und Core i5-13600K am Donnerstag hat viele Aspekte der neuen Raptor-Lake-Generation beleuchtet, einen allerdings noch nicht: Die Leistung in Spielen in Kombination mit DDR4, den die neuen CPUs weiterhin unterstützen. Für den Core i5-13600K wird das jetzt nachgereicht.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Markt für TV-Geräte auch im dritten Quartal 2022 mit Rückgang]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1134827</id>
-        <link href="https://stadt-bremerhaven.de/markt-fuer-tv-geraete-auch-im-dritten-quartal-2022-mit-rueckgang/"/>
-        <updated>2022-10-22T16:00:21.000Z</updated>
-        <summary type="html"><![CDATA[Es ist bekannt, dass die hohe Inflation, vor allem bedingt durch steigende Energiekosten und Lebensmittelpreise, das Konsumklima in Deutschland arg ausbremst. Folgerichtig verzeichnete der Markt für TV-Geräte in Deutschland im dritten Quartal 2022 erneut Rückgänge bei Absatz und Umsatz, wie...
-Zum Beitrag: Markt für TV-Geräte auch im dritten Quartal 2022 mit Rückgang
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>André Westphal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AMD Adrenalin 22.10.2: Der neue Grafiktreiber für Radeon behebt diverse Fehler]]></title>
-        <id>https://www.computerbase.de/2022-10/amd-adrenalin-22-10-2-radeon-grafiktreiber/</id>
-        <link href="https://www.computerbase.de/2022-10/amd-adrenalin-22-10-2-radeon-grafiktreiber/"/>
-        <updated>2022-10-22T15:57:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/4/1/2-0ff15ed1a0be6bc7/article-640x360.8c716c10.jpg"><p>Mit dem neuen Grafiktreiber Adrenalin 22.10.2, der bereits per WHQL zertifiziert wurde, behebt AMD diverse Fehler auf Grafikkarten der Produktfamilie Radeon RX 6000. So wurden beispielsweise Probleme mit Radeon Super Resolution sowie HDR im Rollenspiel Nioh 2 und mit dem Hardware-Encoder für HEVC korrigiert.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IO Hawk Collide: E-Scooter mit speziellem Faltmechanismus startet ab 1.099 Euro]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1134735</id>
-        <link href="https://stadt-bremerhaven.de/io-hawk-collide-e-scooter-mit-speziellem-faltmechanismus-startet-ab-1-099-euro/"/>
-        <updated>2022-10-22T14:00:44.000Z</updated>
-        <summary type="html"><![CDATA[IO Hawk hat einen neuen E-Scooter vorgestellt: den Collide mit einem speziellen Faltmechanismus für den kompakten Transport. Der Lenker und der Vorbau werden dazu komplett eingeklappt, die Lenkstange wird teleskopartig ineinandergeschoben. Gefaltet kommt der Flitzer so auf Maße von nur...
-Zum Beitrag: IO Hawk Collide: E-Scooter mit speziellem Faltmechanismus startet ab 1.099 Euro
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>André Westphal</name>
         </author>
     </entry>
 </feed>
