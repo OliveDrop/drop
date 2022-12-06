@@ -6,6 +6,206 @@
       "siteUrl": "https://stadt-bremerhaven.de",
       "articles": [
         {
+          "id": "https://stadt-bremerhaven.de/?p=1141683",
+          "author": "Benjamin Mamerow",
+          "description": "Für Pixel-Nutzer war es heute endlich mal wieder so weit: Ein neuer Feature-Drop stand an, das entsprechende Update wird aktuell auf die Geräte verteilt. Hierzulande sollte ab frühestens 20 Uhr ein Blick zum Systemupdate riskiert werden, dann sollten alle erwähnten...\nZum Beitrag: Android: Security-Bulletin für Dezember 2022 veröffentlicht\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
+          "link": "https://stadt-bremerhaven.de/android-security-bulletin-fuer-dezember-2022-veroeffentlicht/",
+          "publishedOn": "2022-12-05T18:59:54.000Z",
+          "wordCount": 1826,
+          "title": "Android: Security-Bulletin für Dezember 2022 veröffentlicht",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/01/android-logo_.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1141666",
+          "author": "Felix Frank",
+          "description": "Neben den alljährlichen Android-Updates versorgt Google seine eigenen Pixel-Geräte regelmäßig mit sogenannten „Feature Drops“. Im Zuge dieser erhalten die Pixel-Smartphones sowie das restliche Pixel-Hardware-Portfolio auch „unter dem Jahr“ die eine oder andere Neuerung spendiert. Laut Google sei es der bisher...\nZum Beitrag: Google Pixel Feature Drop: Diese Neuerungen gibt es im Dezember 2022\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
+          "link": "https://stadt-bremerhaven.de/google-pixel-feature-drop-diese-neuerungen-gibt-es-im-dezember-2022/",
+          "publishedOn": "2022-12-05T17:59:58.000Z",
+          "wordCount": 2400,
+          "title": "Google Pixel Feature Drop: Diese Neuerungen gibt es im Dezember 2022",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/12/SCR-20221205-o4v.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1141669",
+          "author": "caschy",
+          "description": "Von vielen vielleicht unbemerkt geblieben ist Facebook Dating. Das kann man in den Einstellungen der App aktivieren und sich auf die Suche nach potenziellen Menschen machen, die irgendwie passen. In den USA erweitert das Social Network den Altersverifikationstest. Man verlange...\nZum Beitrag: Facebook Dating: Altersüberprüfung startet\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
+          "link": "https://stadt-bremerhaven.de/facebook-dating-altersueberpruefung-startet/",
+          "publishedOn": "2022-12-05T17:30:46.000Z",
+          "wordCount": 1716,
+          "title": "Facebook Dating: Altersüberprüfung startet",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/12/04_Confirmation-notification_.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1141649",
+          "author": "caschy",
+          "description": "eM Client, der gleichnamige Softwareentwickler aus der Tschechischen Republik des E-Mail-Clients für Windows und macOS, bringt mit Version 9.2 neue Features und UI-Verbesserungen auf den Weg. Diese Neuerungen wurden von der Community vielfach gewünscht und machen den Client laut der...\nZum Beitrag: eM Client 9.2 veröffentlicht\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
+          "link": "https://stadt-bremerhaven.de/em-client-9-2-veroeffentlicht/",
+          "publishedOn": "2022-12-05T17:00:46.000Z",
+          "wordCount": 2047,
+          "title": "eM Client 9.2 veröffentlicht",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/12/emc_img_screenshot_main_DE_.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1141658",
+          "author": "caschy",
+          "description": "Seit langer Zeit berichten wir über den Passwortmanager Bitwarden und sprechen dahingehend auch unsere Empfehlung aus. Ob kostenloser Account, Bezahl-Modell, fremd- oder selbstgehostet: Bitwarden wird auch von vielen unserer Leser eingesetzt. Im Juli haben wir uns bereits die Roadmap vorgenommen und...\nZum Beitrag: Bitwarden: Passwortlose Authentifizierung möglich\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
+          "link": "https://stadt-bremerhaven.de/bitwarden-passwortlose-authentifizierung-moeglich/",
+          "publishedOn": "2022-12-05T15:58:26.000Z",
+          "wordCount": 2065,
+          "title": "Bitwarden: Passwortlose Authentifizierung möglich",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/12/bitwarden-device-signon_.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1141622",
+          "author": "caschy",
+          "description": "Smart-Home-Geräte von SilverCrest sind sicherlich vielen bekannt. Hierbei handelt es sich um eine Eigenmarke von Lidl. Man kauft oft bei anderen Unternehmen groß ein, um dann Hardware unter dem SilverCrest-Label zu verkaufen. Im Falle von Sensoren und smarten Thermostaten hat...\nZum Beitrag: SilverCrest: Smart-Home-App wird eingestellt\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
+          "link": "https://stadt-bremerhaven.de/silvercrest-smart-home-app-wird-eingestellt/",
+          "publishedOn": "2022-12-05T15:30:44.000Z",
+          "wordCount": 2004,
+          "title": "SilverCrest: Smart-Home-App wird eingestellt",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/12/silvercrest_.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1141632",
+          "author": "caschy",
+          "description": "Microsoft hat im Oktober die zweite Stufe des Rollouts für das große Update auf Windows 11 Version 22H2 losgetreten, rund 1 Jahr nach der Veröffentlichung der ersten Version von Windows 11. Grund genug für uns, mal wieder einen Blick in...\nZum Beitrag: Windows 11 legt leicht zu\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
+          "link": "https://stadt-bremerhaven.de/windows-11-legt-leicht-zu/",
+          "publishedOn": "2022-12-05T15:00:15.000Z",
+          "wordCount": 2037,
+          "title": "Windows 11 legt leicht zu",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/12/AI-Cmputer-Windows-Retro-Steampunk_.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1141642",
+          "author": "caschy",
+          "description": "Dass The Boys ein Spinoff bekommen wird, das ist schon länger klar. Nun hat man bei Prime Video von Amazon einen ersten Blick darauf veröffentlicht. Gen V geht 2023 an den Start – in den Hauptrollen: Jaz Sinclair, Chance Perdomo,...\nZum Beitrag: Gen V: Erster Blick auf das The-Boys-Spinoff\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
+          "link": "https://stadt-bremerhaven.de/gen-v-erster-blick-auf-das-the-boys-spinoff/",
+          "publishedOn": "2022-12-05T14:42:28.000Z",
+          "wordCount": 1645,
+          "title": "Gen V: Erster Blick auf das The-Boys-Spinoff",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/12/gen-v_.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1141628",
+          "author": "André Westphal",
+          "description": "Shokz ist hier im Blog schon öfter ein Thema gewesen. Caschy hatte etwa die OpenSwim getestet, Knochenschall-Kopfhörer zum Schwimmen. Ich selbst nutze schon länger die OpenRun Pro und hatte euch auch die kompakteren OpenRun Mini näher gebracht. Mir gefallen die...\nZum Beitrag: Shokz startet Weihnachtsangebote für seine Knochenschall-Kopfhörer\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
+          "link": "https://stadt-bremerhaven.de/shokz-schubst-zu-weihnachten-seine-knochenschnall-kopfhoerer-ins-angebot/",
+          "publishedOn": "2022-12-05T14:30:25.000Z",
+          "wordCount": 1981,
+          "title": "Shokz startet Weihnachtsangebote für seine Knochenschall-Kopfhörer",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/11/OpenRun-Pro-Mini-2.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1141618",
+          "author": "André Westphal",
+          "description": "Nvidia senkt die Preisempfehlungen der Founders Editionen seiner beiden Grafikkarten GeForce RTX 4090 und 4080. Insbesondere die zuletzt genannte Karte wurde in den Gaming-Communities scharf kritisiert. Vielfach vernahm man da die Kritik, dass das Preisschild nicht zu der Leistung passe,...\nZum Beitrag: Nvidia GeForce RTX 4080 und 4090: Preisempfehlungen offiziell gesenkt\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
+          "link": "https://stadt-bremerhaven.de/nvidia-geforce-rtx-4080-und-4090-preisempfehlungen-offiziell-gesenkt/",
+          "publishedOn": "2022-12-05T14:00:29.000Z",
+          "wordCount": 2352,
+          "title": "Nvidia GeForce RTX 4080 und 4090: Preisempfehlungen offiziell gesenkt",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/09/GeForce_RTX_4090_Announce.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1141601",
+          "author": "André Westphal",
+          "description": "Netflix bewirbt das Format als „Dokuserie“, es dürfte sich aber wohl eher um eine Art Dauerwerbesendung für die Beteiligten handeln: „Harry & Meghan“ startet beim Streaming-Anbieter mit den ersten drei Episoden bereits diese Woche, nämlich am 8. Dezember 2022. Ein...\nZum Beitrag: „Harry & Meghan“: Neuer Trailer zur Serie von Netflix\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
+          "link": "https://stadt-bremerhaven.de/harry-meghan-neuer-trailer-zur-serie-von-netflix/",
+          "publishedOn": "2022-12-05T13:30:00.000Z",
+          "wordCount": 2742,
+          "title": "„Harry & Meghan“: Neuer Trailer zur Serie von Netflix",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/10/Netflix_Logo_RGB_.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1141597",
+          "author": "caschy",
+          "description": "Zugegeben, vielen fehlt die Sinnhaftigkeit für solche Geräte, feststeht aber, dass zumindest die Hersteller Potenzial sehen und es auch in Deutschland mit ihren Energiespeichern versuchen, die sich meist auch über ein Solarpanel laden lassen. Anker darf sicherlich als Batterie- und...\nZum Beitrag: Anker PowerHouse 767 geht an den Start\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
+          "link": "https://stadt-bremerhaven.de/anker-powerhouse-767-geht-an-den-start/",
+          "publishedOn": "2022-12-05T13:00:57.000Z",
+          "wordCount": 2268,
+          "title": "Anker PowerHouse 767 geht an den Start",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/12/anker-powerhouse-767-2_.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1141611",
+          "author": "caschy",
+          "description": "Die Niedersächsische Landesregierung wird ihren im November 2011 angelegten Twitter-Account löschen. Die Begründung dafür? Fehlende Kontrollen und mangelnde Verifizierungen führen zunehmend zur Verbreitung von Hass und Hetze, Falschinformationen sowie Verschwörungserzählungen. Dies sei nicht mehr länger hinnehmbar. Und nun? Die Accounts...\nZum Beitrag: Auf Facebook bleibt man: Niedersächsische Landesregierung zieht sich aufgrund von Hass und mehr von Twitter zurück\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
+          "link": "https://stadt-bremerhaven.de/auf-facebook-bleibt-man-niedersaechsische-landesregierung-zieht-sich-aufgrund-von-hass-und-mehr-von-twitter-zurueck/",
+          "publishedOn": "2022-12-05T12:45:30.000Z",
+          "wordCount": 3115,
+          "title": "Auf Facebook bleibt man: Niedersächsische Landesregierung zieht sich aufgrund von Hass und mehr von Twitter zurück",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/05/Twitter-logo-2022.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1141575",
+          "author": "André Westphal",
+          "description": "Xiaomi wird zunächst die Reihe der Xiaomi 13 mit zwei Modellen einläuten: dem Xiaomi 13 und dem Xiaomi 13 Pro. Als gesichert gilt jedoch, dass wenig später ein Xiaomi 13 Ultra folgen sollte. Dieses würde dann das aktuelle Xiaomi 12S...\nZum Beitrag: Xiaomi 13 Ultra: Kamera wohl ähnlich der des 12S Ultra\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
+          "link": "https://stadt-bremerhaven.de/xiaomi-13-ultra-kamera-wohl-aehnlich-dem-12s-ultra/",
+          "publishedOn": "2022-12-05T12:30:47.000Z",
+          "wordCount": 1742,
+          "title": "Xiaomi 13 Ultra: Kamera wohl ähnlich der des 12S Ultra",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/12/Xiaomi-12s-Ultra.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1141607",
+          "author": "caschy",
+          "description": "Mit den jüngsten Zinserhöhungen der Europäischen Zentralbank kann auch bunq seine Zinssätze weiter anheben. Aus diesem Grunde erhält MassInteress nun ein Upgrade. Der Zinssatz steigt auf 1,05 Prozent. Die Zinsen erhalten Kunden für Einlagen bis zu 100.000 Euro, bislang war man...\nZum Beitrag: bunq: MassInterest bekommt ein Upgrade\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
+          "link": "https://stadt-bremerhaven.de/bunq-massinterest-bekommt-ein-upgrade/",
+          "publishedOn": "2022-12-05T12:15:23.000Z",
+          "wordCount": 1671,
+          "title": "bunq: MassInterest bekommt ein Upgrade",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/11/bunq-debit.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1141583",
+          "author": "André Westphal",
+          "description": "Zum OnePlus 11 gibt es seit einer Weile Leaks, welche die (angeblichen) technischen Daten herausposaunen. Jetzt hagelt es abermals Informationen und auch eine Renderaufnahme, die dem finalen Design entsprechen soll – siehe Artikelbild. Demnach würde OnePlus auf einen runden Kamerahügel,...\nZum Beitrag: OnePlus 11: Neuer Leak zu den technischen Daten plus Bild\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
+          "link": "https://stadt-bremerhaven.de/oneplus-11-leak-zu-den-technischen-daten/",
+          "publishedOn": "2022-12-05T12:00:05.000Z",
+          "wordCount": 1999,
+          "title": "OnePlus 11: Neuer Leak zu den technischen Daten plus Bild",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/12/OnePlus-11.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1141594",
+          "author": "André Westphal",
+          "description": "Die Deutsche Bahn hatte schon im Februar 2022 angekündigt, dass sie 43 weitere Züge des ICE 3neo für rund 1,5 Milliarden Euro bei Siemens kauft. Damit kommt man dann auf insgesamt 73 Züge. Der neue ICE 3neo bietet bei einer...\nZum Beitrag: Deutsche Bahn nimmt neue ICE 3neo heute in Betrieb\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
+          "link": "https://stadt-bremerhaven.de/deutsche-bahn-nimmt-neue-ice-3neo-heute-in-betrieb/",
+          "publishedOn": "2022-12-05T11:30:07.000Z",
+          "wordCount": 2574,
+          "title": "Deutsche Bahn nimmt neue ICE 3neo heute in Betrieb",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/12/Neue-ICE.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1141568",
+          "author": "André Westphal",
+          "description": "Ford Pro und Deutsche Post DHL Group arbeiten nach eigenen Angaben zusammen, um die Zustellung auf der letzten Meile weltweit zu elektrifizieren. Konkreter bedeutet das, Ford Pro stattet die Deutsche Post DHL Group bis Ende 2023 mit mehr als 2.000...\nZum Beitrag: Ford Pro und Deutsche Post DHL Group planen mehr E-Mobilität auf der letzten Meile\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
+          "link": "https://stadt-bremerhaven.de/ford-pro-und-deutsche-post-dhl-group-planen-mehr-e-mobilitaet-auf-der-letzten-meile/",
+          "publishedOn": "2022-12-05T11:00:39.000Z",
+          "wordCount": 1819,
+          "title": "Ford Pro und Deutsche Post DHL Group planen mehr E-Mobilität auf der letzten Meile",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/12/DHL-Ford-Pro.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1141586",
+          "author": "caschy",
+          "description": "Die Schweizer Proton AG hat mittlerweile recht viele Produkte im Angebot, nicht mehr nur Proton Mail. Es gibt ein VPN, einen Kalender und mittlerweile auch einen Cloud-Speicher, den Proton Drive. Da wollen wir einmal darauf hinweisen, dass es mittlerweile auch...\nZum Beitrag: Proton Drive für Android verfügbar\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
+          "link": "https://stadt-bremerhaven.de/proton-drive-fuer-android-verfuegbar/",
+          "publishedOn": "2022-12-05T10:43:47.000Z",
+          "wordCount": 1686,
+          "title": "Proton Drive für Android verfügbar",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/12/protondrive_.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1141562",
+          "author": "André Westphal",
+          "description": "Die App „FIFA+“ ist schon seit April 2022 für diverse Geräte verfügbar. Zur Markteinführung versorgte man Android und Apple iOS sowie zunächst im Bereich der Smart-TVs exklusiv die Plattform VIDAA von Hisense. Kein Wunder, denn VIDAA und Tremor International stecken...\nZum Beitrag: FIFA+: App steht mittlerweile für Android TV zur Verfügung\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
+          "link": "https://stadt-bremerhaven.de/fifa-app-steht-mittlerweile-fuer-android-tv-zur-verfuegung/",
+          "publishedOn": "2022-12-05T10:30:16.000Z",
+          "wordCount": 1964,
+          "title": "FIFA+: App steht mittlerweile für Android TV zur Verfügung",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/12/fifa-android.jpeg"
+        },
+        {
           "id": "https://stadt-bremerhaven.de/?p=1140669",
           "author": "Olli",
           "description": "Xiaomi hat erst vor Kurzem einen neuen elektrischen Roller vorgestellt, der auf den Namen Xiaomi Electric Scooter 4 Pro hört. Es ist das aktuelle Spitzenmodell des Herstellers. Ich durfte mir das gute Stück für euch ansehen. Im Paket selbst liegt...\nZum Beitrag: Xiaomi Electric Scooter 4 Pro ausprobiert\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
@@ -5124,121 +5324,6 @@
           "wordCount": 2567,
           "title": "WhatsApp: So versteckt ihr jetzt euren Online-Status",
           "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2018/07/WhatsApp-logo.jpg"
-        },
-        {
-          "id": "https://stadt-bremerhaven.de/?p=1136913",
-          "author": "Benjamin Mamerow",
-          "description": "Zur Microsoft Ignite 2022 gab es einiges zu Microsoft Teams zu erfahren, auch zu neuen Features. So gibt es für Meetings ja den sogenannten Together-Modus, bei dem Teilnehmer eines Meetings das Gefühl bekommen sollen, als würden sie sich im selben...\nZum Beitrag: Microsoft Teams: Allerhand Neuerungen vorgestellt\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
-          "link": "https://stadt-bremerhaven.de/microsoft-teams-allerhand-neuerungen-vorgestellt/",
-          "publishedOn": "2022-11-06T13:30:42.000Z",
-          "wordCount": 1948,
-          "title": "Microsoft Teams: Allerhand Neuerungen vorgestellt",
-          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/11/teams-sitzplatzzuweisung.jpg"
-        },
-        {
-          "id": "https://stadt-bremerhaven.de/?p=1137011",
-          "author": "André Westphal",
-          "description": "Amazon hatte Ende September 2022 neben dem neuen Tablet Fire HD8 und seiner Kids-Variante auch das Fire HD 8 Plus vorgestellt. Ich habe mir die Plus-Variante einmal für euch angesehen, die einen LC-Bildschirm mit 8 Zoll Diagonale und 1.280 x...\nZum Beitrag: Amazon Fire HD 8 Plus im Kurztest\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
-          "link": "https://stadt-bremerhaven.de/amazon-fire-hd-8-plus-im-test/",
-          "publishedOn": "2022-11-06T11:30:20.000Z",
-          "wordCount": 2843,
-          "title": "Amazon Fire HD 8 Plus im Kurztest",
-          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/11/Amazon-Fire-HD-8-Plus-2022-1.jpg"
-        },
-        {
-          "id": "https://stadt-bremerhaven.de/?p=1136903",
-          "author": "Benjamin Mamerow",
-          "description": "Der Entwickler der beliebten App Overcast, einem Podcast-Player, hat sich zu Wort gemeldet und darüber informiert, dass er plane, den Web-Player seines Dienstes im kommenden Jahr einzustellen. Aktuell stehe schon Anfang 2023 im Raum, einen festen Zeitpunkt will er aber...\nZum Beitrag: Overcast: Web-Player soll im kommenden Jahr eingestellt werden, App bleibt\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
-          "link": "https://stadt-bremerhaven.de/overcast-web-player-soll-im-kommenden-jahr-eingestellt-werden-app-bleibt/",
-          "publishedOn": "2022-11-06T10:00:37.000Z",
-          "wordCount": 2203,
-          "title": "Overcast: Web-Player soll im kommenden Jahr eingestellt werden, App bleibt",
-          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/11/overcast.jpg"
-        },
-        {
-          "id": "https://stadt-bremerhaven.de/?p=1136922",
-          "author": "Benjamin Mamerow",
-          "description": "Mozilla hat bekannt gegeben, dass man mit Mozilla Ventures nun einen Risikokapitalfonds für Start-ups in der Frühphase (Seed-Phase bis Finanzierungsrunde Series A) eröffnet hat, der vor allem den Bereich der Technologie-Investitionen ordentlich voranbringen soll. „Von Grund auf verändern“ heißt es...\nZum Beitrag: Mozilla Ventures: Risikokapitalfonds für Technologie-Start-ups startet 2023\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
-          "link": "https://stadt-bremerhaven.de/mozilla-ventures-risikokapitalfonds-fuer-technologie-start-ups-startet-2023/",
-          "publishedOn": "2022-11-06T07:00:18.000Z",
-          "wordCount": 1917,
-          "title": "Mozilla Ventures: Risikokapitalfonds für Technologie-Start-ups startet 2023",
-          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2019/01/mozilla.jpg"
-        },
-        {
-          "id": "https://stadt-bremerhaven.de/?p=1137222",
-          "author": "André Westphal",
-          "description": "Es ist wieder einmal Sonntag und ich hoffe, dass ihr alle ein entspanntes Wochenende verbringen könnt. Wer in der Woche zu eingespannt gewesen ist, um täglich ins Blog zu schauen, findet an dieser Stelle wieder einmal eine kleine Zusammenfassung einiger...\nZum Beitrag: Immer wieder sonntags KW 44\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
-          "link": "https://stadt-bremerhaven.de/immer-wieder-sonntags-kw-44-11/",
-          "publishedOn": "2022-11-06T05:30:29.000Z",
-          "wordCount": 2052,
-          "title": "Immer wieder sonntags KW 44",
-          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/07/Kaffee-Sonntags.jpg"
-        },
-        {
-          "id": "https://stadt-bremerhaven.de/?p=1137386",
-          "author": "caschy",
-          "description": "Mozilla hat den Browser Firefox in Version 106.0.5 veröffentlicht. Die Aktualisierung kann ab sofort heruntergeladen werden. Ein Mini-Update, welches nur einen Fehler behebt. So behebt die neue Version einen Bug, der bei Benutzern mit Intel-Gemini-Lake-CPUs einen Absturz des Browsers verursachte....\nZum Beitrag: Firefox 106.0.5 veröffentlicht\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
-          "link": "https://stadt-bremerhaven.de/firefox-106-0-5-veroeffentlicht/",
-          "publishedOn": "2022-11-05T19:56:32.000Z",
-          "wordCount": 1599,
-          "title": "Firefox 106.0.5 veröffentlicht",
-          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2021/11/Firefox-1_.jpg"
-        },
-        {
-          "id": "https://stadt-bremerhaven.de/?p=1137376",
-          "author": "caschy",
-          "description": "Neue Funktionen gibt’s bei Telegram. Das aktuelle Update fügt Themen hinzu, um Diskussionen in großen Gruppen zu organisieren. Ferner gibt’s eine Option, um Videonachrichten in Text umzuwandeln. Zu beachten: Videonachrichten in Text umwandeln ist eine Premiumfunktion – und Premium ist...\nZum Beitrag: Telegram: Themen für Gruppen und mehr\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
-          "link": "https://stadt-bremerhaven.de/telegram-themen-fuer-gruppen-und-mehr/",
-          "publishedOn": "2022-11-05T19:51:20.000Z",
-          "wordCount": 1863,
-          "title": "Telegram: Themen für Gruppen und mehr",
-          "enclosure": {
-            "url": "https://telegram.org/file/464001316/11f12/M7mpWWooRzQ.8929282.mp4/ef5432174ec78e7910",
-            "length": "8926205",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://telegram.org/file/464001316/11f12/M7mpWWooRzQ.8929282.mp4/ef5432174ec78e7910"
-        },
-        {
-          "id": "https://stadt-bremerhaven.de/?p=1136185",
-          "author": "Timo Schmidt",
-          "description": "Trotz großer Beliebtheit starben klappbare Telefone irgendwann aus, da die ersten Telefone mit Touchscreens Einzug hielten. Nach zig eher katastrophalen Iterationen und Versuchen, ein flexibles biegsames Display mit allen anderen notwendigen Komponenten handlich zu vereinen, landeten wir am 25. August...\nZum Beitrag: Das Samsung Galaxy Z Flip4 im Test\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
-          "link": "https://stadt-bremerhaven.de/das-samsung-galaxy-z-flip4-im-test/",
-          "publishedOn": "2022-11-05T19:00:12.000Z",
-          "wordCount": 3291,
-          "title": "Das Samsung Galaxy Z Flip4 im Test",
-          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/10/galaxy-z-flip4-12.jpg"
-        },
-        {
-          "id": "https://stadt-bremerhaven.de/?p=1137148",
-          "author": "Benjamin Mamerow",
-          "description": "Laut aktuellen Zahlen von Canalys brachte das dritte Quartal dieses Jahres nun schon den fünften Rückgang in Folge für den weltweiten PC-Markt (einschließlich Tablets). Verglichen wurde hier natürlich mit dem Vorjahr. So wurden insgesamt im genannten Quartal nur noch 105,6...\nZum Beitrag: Canalys: Weltweite PC- und Tabletverkäufe weiterhin rückläufig\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
-          "link": "https://stadt-bremerhaven.de/canalys-weltweite-pc-und-tabletverkaeufe-weiterhin-ruecklaeufig/",
-          "publishedOn": "2022-11-05T17:30:14.000Z",
-          "wordCount": 2196,
-          "title": "Canalys: Weltweite PC- und Tabletverkäufe weiterhin rückläufig",
-          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2020/04/logo-canalys.jpg"
-        },
-        {
-          "id": "https://stadt-bremerhaven.de/?p=1137185",
-          "author": "caschy",
-          "description": "Hier im Haus wird viel am Schreibtisch gesessen und gearbeitet, aber auch das eine oder andere Spiel gespielt. Die Industrie hat vor Jahren schon abgecheckt, wie sich Dinge verändern – und somit sind Gaming-Stühle mittlerweile an jeder Ecke und in...\nZum Beitrag: Razer Enki Pro im Test\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
-          "link": "https://stadt-bremerhaven.de/razer-enki-pro-im-test/",
-          "publishedOn": "2022-11-05T16:00:24.000Z",
-          "wordCount": 2296,
-          "title": "Razer Enki Pro im Test",
-          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/05/razer-enki-pro_.jpg"
-        },
-        {
-          "id": "https://stadt-bremerhaven.de/?p=1137146",
-          "author": "André Westphal",
-          "description": "In Deutschland erfreuen sich Soundbars mit Unterstützung für 3D-Sound (Dolby Atmos, DTS:X, Auro 3D) wachsender Beliebtheit. Laut Untersuchungen der Marktforscher von der gfu sieht es generell gut aus für den Umsatz mit den Klangriegeln. Denn auch wenn die verkauften Stückzahlen...\nZum Beitrag: Soundbars mit 3D-Sound werden immer beliebter\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
-          "link": "https://stadt-bremerhaven.de/soundbars-mit-3d-sound-werden-immer-beliebter/",
-          "publishedOn": "2022-11-05T14:30:19.000Z",
-          "wordCount": 1988,
-          "title": "Soundbars mit 3D-Sound werden immer beliebter",
-          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2021/05/Samsung-Soundbar-HW-Q950A-2.jpg"
         }
       ]
     },
@@ -5247,6 +5332,136 @@
       "feedUrl": "https://www.computerbase.de/rss/news.xml",
       "siteUrl": "https://www.computerbase.de/",
       "articles": [
+        {
+          "id": "https://www.computerbase.de/2022-12/radeon-rx-7900-xtx-erste-benchmarks-sind-mit-vorsicht-zu-geniessen/",
+          "author": null,
+          "description": "<img src=\"https://pics.computerbase.de/1/0/5/9/8/0-6bfaf7a055c84980/article-640x360.8eb6c851.jpg\"><p>Eine Woche vor dem Verkaufsstart der Radeon RX 7900 XTX und Radeon RX 7900 XT kursieren im Netz erste Benchmark-Ergebnisse zu AMDs neuer Flaggschiff-Grafikkarte. Die Aussagekraft ist allerdings fraglich – einerseits, weil die Benchmarks fernab der Realität liegen und andererseits, weil Treiber noch nicht final sein dürften.</p>",
+          "link": "https://www.computerbase.de/2022-12/radeon-rx-7900-xtx-erste-benchmarks-sind-mit-vorsicht-zu-geniessen/",
+          "publishedOn": "2022-12-05T21:10:00.000Z",
+          "wordCount": 1016,
+          "title": "Radeon RX 7900 XTX: Erste Benchmarks sind mit Vorsicht zu genießen",
+          "imageUrl": "https://pics.computerbase.de/1/0/5/9/8/0-6bfaf7a055c84980/article-1280x720.8eb6c851.jpg"
+        },
+        {
+          "id": "https://www.computerbase.de/2022-12/feature-drop-december-2022-neue-funktionen-fuer-pixel-smartphones-und-pixel-watch/",
+          "author": null,
+          "description": "<img src=\"https://pics.computerbase.de/1/0/5/9/7/9-333087d4bc0638e8/article-640x360.0348fb5b.jpg\"><p>Pixel-Smartphones und diesmal auch die Pixel Watch erhalten mit dem „Pixel Feature Drop December 2022“ abermals neue exklusive Funktionen. Die Neuerungen betreffen teils nur das Pixel 7 und Pixel 7 Pro, erstrecken sich je nach Feature aber bis zum Pixel 4a. Google gibt auch einen Ausblick auf neue Funktionen für kommendes Jahr.</p>",
+          "link": "https://www.computerbase.de/2022-12/feature-drop-december-2022-neue-funktionen-fuer-pixel-smartphones-und-pixel-watch/",
+          "publishedOn": "2022-12-05T18:00:00.000Z",
+          "wordCount": 1276,
+          "title": "Feature Drop December 2022: Neue Funktionen für Pixel-Smartphones und Pixel Watch",
+          "imageUrl": "https://pics.computerbase.de/1/0/5/9/7/9-333087d4bc0638e8/article-1280x720.0348fb5b.jpg"
+        },
+        {
+          "id": "https://www.computerbase.de/2022-12/ganz-offensichtlich-cyberpunk-2077-erhaelt-nach-erweiterung-eine-goty-edition/",
+          "author": null,
+          "description": "<img src=\"https://pics.computerbase.de/1/0/5/9/7/8-d0bebf4febc65f4d/article-640x360.9892dd72.jpg\"><p>Nach den Worten des CEOs „ganz offensichtlich“ und dennoch jetzt erst bestätigt ist, dass es vom Sci-Fi-Rollenspiel Cyberpunk 2077 (Test) eine Game-of-the-Year-Edition (GOTY) geben wird. Adam Kiciński, der Chef des Entwicklerstudios CD Projekt, hat dies auf einer Investoren-Konferenz in Polen inzwischen bestätigt.</p>",
+          "link": "https://www.computerbase.de/2022-12/ganz-offensichtlich-cyberpunk-2077-erhaelt-nach-erweiterung-eine-goty-edition/",
+          "publishedOn": "2022-12-05T17:41:00.000Z",
+          "wordCount": 766,
+          "title": "„Ganz offensichtlich“: Cyberpunk 2077 erhält nach Erweiterung eine GOTY-Edition [Notiz]",
+          "imageUrl": "https://pics.computerbase.de/1/0/5/9/7/8-d0bebf4febc65f4d/article-1280x720.9892dd72.jpg"
+        },
+        {
+          "id": "https://www.computerbase.de/2022-12/ventoy-1-0-84-fat32-support/",
+          "author": null,
+          "description": "<img src=\"https://pics.computerbase.de/1/0/5/9/7/6-6e9a2807f7cd7742/article-640x360.7011bdd4.jpg\"><p>Das sehr mächtige Multi-Boot-Tool Ventoy v1.0.84, welches unter anderem auch Installationsmedien für Windows 11 ohne eine TPM- und Kontopflicht erstellen kann, unterstützt jetzt auch Partitionen, die mit dem von Microsoft entwickelten Dateisystem FAT32 formatiert sind und eine Speicherkapazität von 32 GB und mehr aufweisen.</p>",
+          "link": "https://www.computerbase.de/2022-12/ventoy-1-0-84-fat32-support/",
+          "publishedOn": "2022-12-05T17:25:00.000Z",
+          "wordCount": 990,
+          "title": "Ventoy 1.0.84: Multi-Boot-Tool unterstützt jetzt FAT32 mit 32 GB und mehr",
+          "imageUrl": "https://pics.computerbase.de/1/0/5/9/7/6-6e9a2807f7cd7742/article-1280x720.7011bdd4.jpg"
+        },
+        {
+          "id": "https://www.computerbase.de/2022-12/geforce-rtx-4070-ti-haendler-wollte-grafikkarte-am-5-januar-liefern/",
+          "author": null,
+          "description": "<img src=\"https://pics.computerbase.de/1/0/5/9/7/5-2540dbeddd3dbbe6/article-640x360.a2c033ed.jpg\"><p>Ein italienischer Online-Händler hat die Tage bis zum Erscheinen der GeForce RTX 4070 Ti per Countdown heruntergezählt. Demnach erfolgt der Marktstart am 5. Januar 2023. Dieses Datum war in der Gerüchteküche schon zuvor genannt worden und gilt nun als sehr wahrscheinlich.</p>",
+          "link": "https://www.computerbase.de/2022-12/geforce-rtx-4070-ti-haendler-wollte-grafikkarte-am-5-januar-liefern/",
+          "publishedOn": "2022-12-05T16:19:00.000Z",
+          "wordCount": 1343,
+          "title": "GeForce RTX 4070 Ti: Händler wollte Grafikkarte am 5. Januar liefern",
+          "imageUrl": "https://pics.computerbase.de/1/0/5/9/7/5-2540dbeddd3dbbe6/article-1280x720.a2c033ed.jpg"
+        },
+        {
+          "id": "https://www.computerbase.de/2022-12/grafikspeicher-samsungs-gddr7-nutzt-pam-3-fuer-36-gbit-s/",
+          "author": null,
+          "description": "<img src=\"https://pics.computerbase.de/1/0/5/9/7/1-42c10b50bd684ec5/article-640x360.aff1e4f5.jpg\"><p>Samsung hat auf dem IEDM 2022 weitere Details zur kommenden Grafikspeichergeneration GDDR7 mit 36 Gbit/s verraten. Demnach wird bei der Signalübertragung auf die dreistufige Pulsamplitudenmodulation (PAM-3) gewechselt. Dies soll die Energieeffizienz steigern.</p>",
+          "link": "https://www.computerbase.de/2022-12/grafikspeicher-samsungs-gddr7-nutzt-pam-3-fuer-36-gbit-s/",
+          "publishedOn": "2022-12-05T13:56:00.000Z",
+          "wordCount": 854,
+          "title": "Grafikspeicher: Samsungs GDDR7 nutzt PAM-3 für 36 Gbit/s",
+          "imageUrl": "https://pics.computerbase.de/1/0/5/9/7/1-42c10b50bd684ec5/article-1280x720.aff1e4f5.jpg"
+        },
+        {
+          "id": "https://www.computerbase.de/2022-12/besserer-euro-kurs-nvidia-gibt-fuenf-prozent-preisnachlass-auf-rtx-4000/",
+          "author": null,
+          "description": "<img src=\"https://pics.computerbase.de/1/0/5/9/7/4-b66cab0685cb5a0c/article-640x360.46e1f9f2.jpg\"><p>Seit dem Start der RTX-4000-Familie hat der Euro gegenüber dem US-Dollar zugelegt. Genau zur Ankündigung am 20. September und dem ersten Euro-Preis lag der Kurs etwa sechs Prozent schlechter als heute, nun gibt Nvidia fünf Prozent in Form einer Preissenkung ab und gewinnt so am Ende noch immer.</p>",
+          "link": "https://www.computerbase.de/2022-12/besserer-euro-kurs-nvidia-gibt-fuenf-prozent-preisnachlass-auf-rtx-4000/",
+          "publishedOn": "2022-12-05T13:21:00.000Z",
+          "wordCount": 996,
+          "title": "Besserer Euro-Kurs: Nvidia gibt fünf Prozent Preisnachlass auf RTX 4000",
+          "imageUrl": "https://pics.computerbase.de/1/0/5/9/7/4-b66cab0685cb5a0c/article-1280x720.46e1f9f2.jpg"
+        },
+        {
+          "id": "https://www.computerbase.de/2022-12/gimp-apple-silicon-m1-m2-build/",
+          "author": null,
+          "description": "<img src=\"https://pics.computerbase.de/1/0/5/9/7/2-c813486c93b5f36e/article-640x360.6456a23c.jpg\"><p>Das Open-Source-Grafikprogramm GNU Image Manipulation Program (GIMP), das gemeinhin als freie Alternative zu Adobe Photoshop angesehen wird, läuft jetzt auch nativ auf den Arm64-Prozessoren M1, M1 Pro, M1 Max und M1 Ultra sowie M2 von Apple Silicon. Die Version 2.10.32 ist als AArch64-Build erschienen.</p>",
+          "link": "https://www.computerbase.de/2022-12/gimp-apple-silicon-m1-m2-build/",
+          "publishedOn": "2022-12-05T13:10:00.000Z",
+          "wordCount": 974,
+          "title": "GIMP für M1 und M2: Grafikprogramm läuft jetzt auch nativ auf Apple Silicon",
+          "imageUrl": "https://pics.computerbase.de/1/0/5/9/7/2-c813486c93b5f36e/article-1280x720.6456a23c.jpg"
+        },
+        {
+          "id": "https://www.computerbase.de/2022-12/amd-ryzen-7000-drei-65-watt-cpus-flankieren-angeblich-drei-x3ds/",
+          "author": null,
+          "description": "<img src=\"https://pics.computerbase.de/1/0/5/9/6/7-1259afb405e36122/article-640x360.8184c783.jpg\"><p>Komplette AMD-Ryzen-Schwemme zur CES 2023? Weitere Gerüchte stellen dies in den Raum, das Portfolio könnte sich so mehr als verdoppeln. Genau deshalb steht am Ende darüber dann eben doch ein kleines Fragezeichen, denn das klingt etwas zu viel für einen Start direkt im Januar, vielmehr nach einem Lineup für das erste Halbjahr.</p>",
+          "link": "https://www.computerbase.de/2022-12/amd-ryzen-7000-drei-65-watt-cpus-flankieren-angeblich-drei-x3ds/",
+          "publishedOn": "2022-12-05T12:18:00.000Z",
+          "wordCount": 1238,
+          "title": "AMD Ryzen 7000: Drei 65-Watt-CPUs flankieren angeblich drei X3Ds",
+          "imageUrl": "https://pics.computerbase.de/1/0/5/9/6/7-1259afb405e36122/article-1280x720.8184c783.jpg"
+        },
+        {
+          "id": "https://www.computerbase.de/2022-12/arc-a770-a750-benchmark-test/",
+          "author": null,
+          "description": "<img src=\"https://pics.computerbase.de/1/0/5/8/8/3-cf10eb0e92b2c560/article-640x360.d7ed625e.jpg\"><p>Exakt zwei Monate nach dem ersten Test stellen sich Intel Arc A770 und Arc 750 im Benchmark-Duell erneut Radeon RX 6000 und GeForce RTX 3000. Die Treiber sind aktueller und der Parcours umfasst mehr Spiele. Darüber hinaus setzt die Plattform auf die 12. Generation Core statt Ryzen 7000.</p>",
+          "link": "https://www.computerbase.de/2022-12/arc-a770-a750-benchmark-test/",
+          "publishedOn": "2022-12-05T11:00:00.000Z",
+          "wordCount": 10094,
+          "title": "State of the Arc: A770 & A750 im zweiten Duell gegen RTX 3000 und RX 6000",
+          "imageUrl": "https://pics.computerbase.de/1/0/5/8/8/3-cf10eb0e92b2c560/article-1280x720.d7ed625e.jpg"
+        },
+        {
+          "id": "https://www.computerbase.de/2022-12/linux-mint-21-1-vera-beta-version-erschienen/",
+          "author": null,
+          "description": "<img src=\"https://pics.computerbase.de/1/0/5/9/6/8-033b8074dbed42fd/article-640x360.bb85f9ee.jpg\"><p>Das kommende Linux Mint 21.1 („Vera“) mit dem neuen Desktop Cinnamon 5.6 wurde jetzt als öffentliche Beta zum Ausprobieren freigegeben. Die neueste Ausgabe der insbesondere bei Ein- und Umsteigern äußerst beliebten Linux-Distribution soll voraussichtlich rund um Weihnachten erscheinen und neue Features bieten.</p>",
+          "link": "https://www.computerbase.de/2022-12/linux-mint-21-1-vera-beta-version-erschienen/",
+          "publishedOn": "2022-12-05T10:39:00.000Z",
+          "wordCount": 1146,
+          "title": "Linux Mint 21.1 („Vera“): Öffentliche Beta mit Cinnamon 5.6 zum Ausprobieren",
+          "imageUrl": "https://pics.computerbase.de/1/0/5/9/6/8-033b8074dbed42fd/article-1280x720.bb85f9ee.jpg"
+        },
+        {
+          "id": "https://www.computerbase.de/2022-12/asus-tuf-gaming-oc-radeon-rx-7900-xtx-7900-xt-custom-design/",
+          "author": null,
+          "description": "<img src=\"https://pics.computerbase.de/1/0/5/9/6/6-6c8158881982331b/article-640x360.72df57e1.jpg\"><p>Asus hat die Spezifikationen der TUF Gaming Radeon RX 7900 XTX und 7900 XT sowie deren OC-Versionen bekanntgegeben. Die vier Herstellermodelle besitzen allesamt drei klassische 8-Pin-PCIe-Anschlüsse und bieten im OC-Modus eine um rund 5 bis 9 Prozent höhere Taktfrequenz als die beiden Referenzdesigns von AMD.</p>",
+          "link": "https://www.computerbase.de/2022-12/asus-tuf-gaming-oc-radeon-rx-7900-xtx-7900-xt-custom-design/",
+          "publishedOn": "2022-12-05T09:55:00.000Z",
+          "wordCount": 1168,
+          "title": "AMD Radeon RX 7900 XTX und XT: Asus TUF Gaming OC takten rund 5 bis 9 Prozent höher",
+          "imageUrl": "https://pics.computerbase.de/1/0/5/9/6/6-6c8158881982331b/article-1280x720.72df57e1.jpg"
+        },
+        {
+          "id": "https://www.computerbase.de/2022-12/gnoppix-linux-22-12-gnome-windows-11/",
+          "author": null,
+          "description": "<img src=\"https://pics.computerbase.de/1/0/5/9/6/3-a1a7bcc82a8d7519/article-640x360.4de3a19f.jpg\"><p>Das im Juni 2003 erstmals veröffentlichte Gnoppix Linux basierte über viele Jahre auf der bekannten deutschen Linux-Distribution Knoppix des deutschen Linux-Entwicklers Klaus Knopper, nutzt heute aber das auf digitale Forensik ausgelegte Kali Linux als Fundament. Das neue Gnoppix 22.12 setzt jetzt auf Linux 6.0 und Gnome 43.2.</p>",
+          "link": "https://www.computerbase.de/2022-12/gnoppix-linux-22-12-gnome-windows-11/",
+          "publishedOn": "2022-12-05T09:08:00.000Z",
+          "wordCount": 1112,
+          "title": "Gnoppix 22.12: Linux 6.0, Gnome 43.2 und ein Hauch von Windows 11",
+          "imageUrl": "https://pics.computerbase.de/1/0/5/9/6/3-a1a7bcc82a8d7519/article-1280x720.4de3a19f.jpg"
+        },
         {
           "id": "https://www.computerbase.de/2022-12/eu-kommissar-breton-twitter-drohen-in-der-eu-strafen-bis-zur-abschaltung/",
           "author": null,
@@ -8276,56 +8491,6 @@
           "wordCount": 1187,
           "title": "LXQt 1.2.0 für Linux und BSD: Der freie leichte Desktop unterstützt erstmals Wayland",
           "imageUrl": "https://pics.computerbase.de/1/0/5/6/1/1-53a0cd0d16e0b10a/article-1280x720.546406ef.jpg"
-        },
-        {
-          "id": "https://www.computerbase.de/2022-11/pc-hardware-kuehlung-luefter-wasserkuehlung/",
-          "author": null,
-          "description": "<img src=\"https://pics.computerbase.de/1/0/5/5/8/6-ed2d7382e61b4641/article-640x360.bb9cc713.jpg\"><p>Die Leistungsaufnahme neuer Hardware steigt immer weiter. Wie begegnet ihr der damit steigenden Abwärme bei der Kühlung des Systems? Setzt ihr noch auf Luft oder schon auf Wasser? Und wie viele Lüfter sind überhaupt verbaut? Dieses Mal seid ihr gebeten, in den Kommentaren von eurer PC-Kühlung zu berichten.</p>",
-          "link": "https://www.computerbase.de/2022-11/pc-hardware-kuehlung-luefter-wasserkuehlung/",
-          "publishedOn": "2022-11-06T13:00:00.000Z",
-          "wordCount": 2047,
-          "title": "PC-Kühlung: Setzt ihr noch auf Luft oder schon auf Wasser?",
-          "imageUrl": "https://pics.computerbase.de/1/0/5/5/8/6-ed2d7382e61b4641/article-1280x720.bb9cc713.jpg"
-        },
-        {
-          "id": "https://www.computerbase.de/2022-11/ffmpeg-av1-nvenc-support-geforce-rtx-4090/",
-          "author": null,
-          "description": "<img src=\"https://pics.computerbase.de/1/0/5/6/1/2-2aaf535f432f2c5c/article-640x360.335e8edc.jpg\"><p>FFmpeg, eine freie Tool-Sammlung für die Audio- und Videobearbeitung auf der Kommandozeile unter Windows, macOS und Linux, unterstützt jetzt auch erstmals die Kodierung von Videos im quelloffenen Kompressionsverfahren AOMedia Video 1 (AV1) mit Nvidia NVENC über die zwei Video-Engines der GeForce RTX 4090 (Test).</p>",
-          "link": "https://www.computerbase.de/2022-11/ffmpeg-av1-nvenc-support-geforce-rtx-4090/",
-          "publishedOn": "2022-11-06T12:46:00.000Z",
-          "wordCount": 950,
-          "title": "AV1-Videokodierung mit FFmpeg: Unterstützung für die GeForce RTX 4090 und Nvidia NVENC",
-          "imageUrl": "https://pics.computerbase.de/1/0/5/6/1/2-2aaf535f432f2c5c/article-1280x720.335e8edc.jpg"
-        },
-        {
-          "id": "https://www.computerbase.de/2022-11/final-fantasy-xvi-square-enix-release/",
-          "author": null,
-          "description": "<img src=\"https://pics.computerbase.de/1/0/5/6/1/0-0409145658143474/article-640x360.e5ba1129.jpg\"><p>Noch vor Ablauf des Jahres möchte Square Enix den offiziellen Veröffentlichungstermin des Action-Rollenspiels Final Fantasy XVI, welches bis auf Weiteres exklusiv auf Sonys PlayStation 5 (Test) erscheinen wird, bekanntgeben. Die Arbeiten am 16. Ableger der Hauptserie seien zu 95 Prozent abgeschlossen, so der Chef-Entwickler.</p>",
-          "link": "https://www.computerbase.de/2022-11/final-fantasy-xvi-square-enix-release/",
-          "publishedOn": "2022-11-06T07:30:00.000Z",
-          "wordCount": 954,
-          "title": "Final Fantasy XVI: Arbeiten am PS5-RPG sind zu 95 Prozent abgeschlossen",
-          "imageUrl": "https://pics.computerbase.de/1/0/5/6/1/0-0409145658143474/article-1280x720.e5ba1129.jpg"
-        },
-        {
-          "id": "https://www.computerbase.de/2022-11/wochenrueckblick-und-ausblick-2022-w44/",
-          "author": null,
-          "description": "<img src=\"https://pics.computerbase.de/1/0/5/6/0/0-042cbf073649875f/article-640x360.c0771021.jpg\"><p>Diese Woche stellte AMD die ersten beiden RDNA-3-Grafikkarten vor. Sowohl Radeon RX 7900 XTX und Radeon 7900 XT werden für weniger als 1.000 US-Dollar in den Handel entlassen, was im ComputerBase-Forum für reichlich Gesprächsbedarf sorgte. Gleiches gilt für Henry Cavills Witcher-Abgang und frustrierte Overwatch-Spieler.</p>",
-          "link": "https://www.computerbase.de/2022-11/wochenrueckblick-und-ausblick-2022-w44/",
-          "publishedOn": "2022-11-06T07:00:00.000Z",
-          "wordCount": 1457,
-          "title": "Wochenrück- und Ausblick: Die RX 7900 XTX stiehlt der RTX 4090 die Show",
-          "imageUrl": "https://pics.computerbase.de/1/0/5/6/0/0-042cbf073649875f/article-1280x720.c0771021.jpg"
-        },
-        {
-          "id": "https://www.computerbase.de/2022-11/neue-generation-solidigms-qlc-bietet-192-layer-und-mehr-schreibleistung/",
-          "author": null,
-          "description": "<img src=\"https://pics.computerbase.de/1/0/5/6/0/6-230b9cd95fba37e2/article-640x360.fd1cfbe9.jpg\"><p>Im Rahmen der Fachveranstaltung Storage Field Day 24 hat Solidigm die kommende vierte Generation des von Intel übernommenen QLC-NAND-Flash mit Floating-Gate-Architektur angekündigt. Die Zahl der Ebenen (Layer) steigt von 144 auf 192 für noch mehr Bit pro Fläche. Zudem soll das wahlfreie Schreiben massiv beschleunigt werden.</p>",
-          "link": "https://www.computerbase.de/2022-11/neue-generation-solidigms-qlc-bietet-192-layer-und-mehr-schreibleistung/",
-          "publishedOn": "2022-11-05T18:31:00.000Z",
-          "wordCount": 1328,
-          "title": "Neue Generation: Solidigms QLC bietet 192 Layer und mehr Schreibleistung",
-          "imageUrl": "https://pics.computerbase.de/1/0/5/6/0/6-230b9cd95fba37e2/article-1280x720.fd1cfbe9.jpg"
         }
       ]
     },
@@ -9227,9 +9392,9 @@
       ]
     },
     {
-      "title": "Deutschlandfunk - Fortlaufende Nachrichten vom 05. Dezember 2022",
+      "title": "Deutschlandfunk - Fortlaufende Nachrichten vom 06. Dezember 2022",
       "feedUrl": "https://www.deutschlandfunk.de/nachrichten-100.rss",
-      "siteUrl": "https://www.deutschlandfunk.de/nachrichten-index-26252.html",
+      "siteUrl": "https://www.deutschlandfunk.de/nachrichten-index-26266.html",
       "articles": [
         {
           "id": "49-euro-ticket-soll-im-april-starten-kein-enddatum-fuer-maskenpflicht-100",
