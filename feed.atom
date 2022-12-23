@@ -2,10 +2,400 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://olivedrop.github.io/drop/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-22T01:33:14.317Z</updated>
+    <updated>2022-12-23T01:26:38.158Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://olivedrop.github.io/drop/index.html"/>
     <link rel="self" href="https://olivedrop.github.io/drop/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Intel degradiert Raja Koduri: Grafikkartensparte wird unter neuer Leitung umstrukturiert]]></title>
+        <id>https://www.computerbase.de/2022-12/intel-grafikkartensparte-umstrukturierung/</id>
+        <link href="https://www.computerbase.de/2022-12/intel-grafikkartensparte-umstrukturierung/"/>
+        <updated>2022-12-22T21:20:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/6/2/2/9-ef626d3c94f1a3fa/article-640x360.98fd965f.jpg"><p>Intel strukturiert seine Grafikkartensparte unter neuer Leitung um und degradiert den bisherigen Leiter Raja Koduri, der auf seinen vorherigen Posten als Chefarchitekt zurückkehrt. Die Accelerated Computing Systems and Graphics Group („AXG“) wird Teil der Client Compute Group („CCG“) und nicht mehr eigenständig operieren.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gerüchte zu Nvidia-Grafikkarten: GeForce RTX 4070 Ti, 4070 und 4060 Ti werden konkreter]]></title>
+        <id>https://www.computerbase.de/2022-12/gpu-geruechte-geforce-rtx-4070-ti-4070-und-4060-ti-werden-konkreter/</id>
+        <link href="https://www.computerbase.de/2022-12/gpu-geruechte-geforce-rtx-4070-ti-4070-und-4060-ti-werden-konkreter/"/>
+        <updated>2022-12-22T20:41:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/6/2/2/1-f32e2a880252743e/article-640x360.0785a5d1.jpg"><p>Die Existenz der GeForce RTX 4070 Ti, die ehemals als GeForce RTX 4080 12 GB erscheinen sollte, gelten nach zahlreichen durchgesickerten Datenblättern und aufgetauchten Custom-Designs inzwischen als gesichert. Die kolportierten Spezifikationen der beiden nächstkleineren Ada-Lovelace-Grafikkarten werden derweil immer konkreter.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Twitter: View Count zeigt, wie oft Tweets angesehen werden]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1144454</id>
+        <link href="https://stadt-bremerhaven.de/twitter-view-count-zeigt-wie-oft-tweets-angesehen-werden/"/>
+        <updated>2022-12-22T18:28:35.000Z</updated>
+        <summary type="html"><![CDATA[Musk zieht weiterhin die Strippen beim Kurznachrichtendienst Twitter. Derzeit ist offen, ob jemand das Amt des CEO übernehmen wird. Entsprechend plaudert Musk auch munter weiter über Neuerungen, welche Twitter spendiert bekommt. Während Twitter bereits einen „View Count“ für Videos implementiert hat,...
+Zum Beitrag: Twitter: View Count zeigt, wie oft Tweets angesehen werden
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>Felix Frank</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Steam Winter Sale 2022 bis zum 5. Januar 2023 gestartet]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1143901</id>
+        <link href="https://stadt-bremerhaven.de/steam-winter-sale-2022-bis-zum-5-januar-2023-gestartet/"/>
+        <updated>2022-12-22T18:00:46.000Z</updated>
+        <summary type="html"><![CDATA[Haltet eure Portemonnaies fest, es ist wieder einmal so weit: Bei Steam startet ein neuer Winter-Sale. Versprochen werden hierbei Preisnachlässe auf mehrere zehntausende Inhalte. Die Aktion startet ab sofort und läuft dann bis zum 5. Januar 2023. Am zuletzt genannten...
+Zum Beitrag: Steam Winter Sale 2022 bis zum 5. Januar 2023 gestartet
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>Benjamin Mamerow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Das sind die Highlights im Januar 2023 bei Prime Video]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1144457</id>
+        <link href="https://stadt-bremerhaven.de/das-sind-die-highlights-im-januar-2023-bei-prime-video/"/>
+        <updated>2022-12-22T17:30:27.000Z</updated>
+        <summary type="html"><![CDATA[Amazon hat die neuen Inhalte für Prime Video bekannt gegeben, die im Januar starten. Unter anderem am Start: die zweite Staffel von The Legend of Vox Machina. In der auf Dungeons & Dragons basierenden Animationsserie, versucht Vox Machina auch in...
+Zum Beitrag: Das sind die Highlights im Januar 2023 bei Prime Video
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Samsung Galaxy A73: Angeblich kein Nachfolger für 2023 geplant]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1144422</id>
+        <link href="https://stadt-bremerhaven.de/samsung-galaxy-a73-angeblich-kein-nachfolger-fuer-2023-geplant/"/>
+        <updated>2022-12-22T17:00:08.000Z</updated>
+        <summary type="html"><![CDATA[Samsung wird 2023 laut aktuellen Meldungen keine neuen Smartphones mehr für seine Reihe der Galaxy A7X veröffentlichen. Das letzte Model, das A73, kam in diesem Jahr ohnehin bereits etwas halbherzig auf den Markt. Denn für Deutschland sparte man sich dieses...
+Zum Beitrag: Samsung Galaxy A73: Angeblich kein Nachfolger für 2023 geplant
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kostenlos: Fallout 1, 2 und Tactics]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1144446</id>
+        <link href="https://stadt-bremerhaven.de/kostenlos-fallout-1-2-und-tactics/"/>
+        <updated>2022-12-22T16:32:40.000Z</updated>
+        <summary type="html"><![CDATA[Gleich drei Spiele gibts derzeit im Epic Games Store: Fallout 1, 2 und Tactics. Für mich gehört der 1997 veröffentlichte Erstling noch immer zu den Meilensteinen der Spielegeschichte – ich habe unzählige Stunden in dem post-apokalyptischen Rollenspiel verbracht und versucht,...
+Zum Beitrag: Kostenlos: Fallout 1, 2 und Tactics
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intel spaltet seine Abteilung für Grafiklösungen auf]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1144430</id>
+        <link href="https://stadt-bremerhaven.de/intel-spaltet-seine-abteilung-fuer-grafikloesungen-auf/"/>
+        <updated>2022-12-22T16:30:30.000Z</updated>
+        <summary type="html"><![CDATA[Neuigkeiten bei Intel: Die sind 2022 mit ihren Arc-Modellen bekanntermaßen in den Markt für Grafikkarten eingestiegen. Jetzt hat das Unternehmen bestätigt, dass man seine Abteilung neu aufstelle bzw. in zwei getrennte Teams aufspalte. Das bedeutet auch eine Herabsetzung des bisher...
+Zum Beitrag: Intel spaltet seine Abteilung für Grafiklösungen auf
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SteamOS 3.4: Steam Deck erhält ein neues Arch Linux und KDE Plasma]]></title>
+        <id>https://www.computerbase.de/2022-12/steamos-3-4-arch-linux-steam-deck-update/</id>
+        <link href="https://www.computerbase.de/2022-12/steamos-3-4-arch-linux-steam-deck-update/"/>
+        <updated>2022-12-22T16:12:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/6/2/0/8-aff91db559f5fdca/article-640x360.f3e77217.jpg"><p>Valve hat sein auf Gaming- und Handheld-PCs optimiertes Betriebssystem SteamOS in der neuesten Version 3.4 im Stable Channel für das Steam Deck veröffentlicht. Als Basis kommen jetzt ein aktualisiertes Systemabbild der Linux-Distribution Arch Linux sowie eine neue Version des freien Desktops KDE Plasma zum Einsatz.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GeForce Now Thursday mit Weihnachtsgeschenk für Ubisoft+-Multi-Access-Abonnenten]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1144417</id>
+        <link href="https://stadt-bremerhaven.de/geforce-now-thursday-mit-weihnachtsgeschenk-fuer-ubisoft-multi-access-abonnenten/"/>
+        <updated>2022-12-22T16:00:43.000Z</updated>
+        <summary type="html"><![CDATA[Nvidia zelebriert heute einmal wieder seinen sogenannten GeForce Now Thursday. Allerdings stößt kurz vor Weihnachten nur ein einsamer Titel zum Cloud-Gaming-Angebot hinzu. Dafür hat man ein kleines Weihnachtsgeschenk für ausgewählte Ubisoft+-Multi-Access-Abonnenten auf Lager. Die erhalten diese Woche einen Gutschein für...
+Zum Beitrag: GeForce Now Thursday mit Weihnachtsgeschenk für Ubisoft+-Multi-Access-Abonnenten
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deutsche Bahn: Pünktlichkeit lässt zu wünschen übrig]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1144413</id>
+        <link href="https://stadt-bremerhaven.de/deutsche-bahn-puenktlichkeit-laesst-zu-wuenschen-uebrig/"/>
+        <updated>2022-12-22T15:30:57.000Z</updated>
+        <summary type="html"><![CDATA[Offenbar kein gutes Jahr für die Deutsche Bahn – man könnte glatt von einem DBakel sprechen: Im Fernverkehr waren laut einem Bericht von Januar bis November im Schnitt lediglich 65,6 Prozent der Züge pünktlich, in den Sommermonaten Juli bis August...
+Zum Beitrag: Deutsche Bahn: Pünktlichkeit lässt zu wünschen übrig
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NFL Sunday Ticket kommt zu YouTube TV (USA)]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1144431</id>
+        <link href="https://stadt-bremerhaven.de/nfl-sunday-ticket-kommt-zu-youtube-tv-usa/"/>
+        <updated>2022-12-22T15:17:17.000Z</updated>
+        <summary type="html"><![CDATA[Kunden in den USA haben bald eine neue Anlaufstelle für einige NFL-Spiele. Die National Football League gab heute eine mehrjährige Vereinbarung mit Google bekannt, die YouTube TV und YouTube Primetime Channels das Recht einräumt, ab der NFL-Saison 2023 das NFL...
+Zum Beitrag: NFL Sunday Ticket kommt zu YouTube TV (USA)
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Silvester: Alexa gibt Tipps vom Hundeexperten und unterstützt mit einer Routine]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1144409</id>
+        <link href="https://stadt-bremerhaven.de/silvester-alexa-gibt-tipps-vom-hundeexperten-und-unterstuetzt-mit-einer-routine/"/>
+        <updated>2022-12-22T15:00:09.000Z</updated>
+        <summary type="html"><![CDATA[Als Nutzer von Amazon Alexa wisst ihr es natürlich: Auch Geräusche können von euch angelegte Routinen auslösen. Darunter befinden sich mittlerweile Geräusche, die ein weinendes Baby verursacht, Wassergeräusche, Husten, Schnarchen, piepsende Haushaltsgeräte und eben auch Hundegebell. Auf letztere Option weist...
+Zum Beitrag: Silvester: Alexa gibt Tipps vom Hundeexperten und unterstützt mit einer Routine
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FRITZ!OS 7.50: Ab Januar 2023 für weitere Router]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1144398</id>
+        <link href="https://stadt-bremerhaven.de/fritzos-7-50-ab-januar-2023-fuer-weitere-router/"/>
+        <updated>2022-12-22T14:30:46.000Z</updated>
+        <summary type="html"><![CDATA[Die FRITZ!Box 7590 war der erste Router von AVM, der das neue FRITZ!OS 7.50 spendiert bekommen hat, Laborversionen nicht eingerechnet. Im großen Update stecken rund 150 neue Funktionen und Verbesserungen für die FRITZ!-Produkte. Andere Modelle befinden sich schon lange im...
+Zum Beitrag: FRITZ!OS 7.50: Ab Januar 2023 für weitere Router
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Penny Mobil im Januar 2023 mit 70 Prozent Rabatt auf Starter-Pakete]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1144348</id>
+        <link href="https://stadt-bremerhaven.de/penny-mobil-mit-70-prozent-rabatt-auf-starter-pakete/"/>
+        <updated>2022-12-22T14:00:25.000Z</updated>
+        <summary type="html"><![CDATA[Penny Mobil gewährt schon bald 70 % Rabatt auf seine Starter-Pakete. Die geplante Aktion wird vom 2. bis 8. Januar 2023 laufen. In der Aktionswoche kosten die Starter-Parkete dann nur 2,99 Euro statt 9,95 Euro. Das Angebot gilt nur beim...
+Zum Beitrag: Penny Mobil im Januar 2023 mit 70 Prozent Rabatt auf Starter-Pakete
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Treiber für Radeon RX 7900 XT(X): Adrenalin Edition 22.12.2 soll den Stromverbrauch senken]]></title>
+        <id>https://www.computerbase.de/2022-12/treiber-fuer-radeon-rx-7900-xt-x-adrenalin-edition-22-12-2-soll-den-stromverbrauch-senken/</id>
+        <link href="https://www.computerbase.de/2022-12/treiber-fuer-radeon-rx-7900-xt-x-adrenalin-edition-22-12-2-soll-den-stromverbrauch-senken/"/>
+        <updated>2022-12-22T13:51:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/6/2/1/7-f1bb767f5d13d61d/article-640x360.26859868.jpg"><p>AMD hat einen zweiten Treiber für Radeon RX 7900 XTX und 7900 XT (Test) mit der RDNA-3-GPU Navi 31 veröffentlicht. Der Adrenalin Edition 22.12.2 behebt Fehler und soll den Stromverbrauch senken, wenn die Grafikkarte Videos decodiert. Erneut gibt es diesen Treiber exklusiv für RX 7900, ältere Modelle bleiben bei 22.11.2.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Netflix: Videos des Nike Training Club ab 30. Dezember verfügbar]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1144301</id>
+        <link href="https://stadt-bremerhaven.de/netflix-videos-des-nike-training-club-ab-30-dezember-verfuegbar/"/>
+        <updated>2022-12-22T13:30:47.000Z</updated>
+        <summary type="html"><![CDATA[Der eine oder andere von euch treibt Sport eventuell allein (daheim). Die mögliche Bandbreite dafür deckt mittlerweile alles ab: Fahrradfahren, Joggen, Gerätetraining, Freeletics und mehr. Diverse Plattformen stellen heutzutage Videos bereit, die euch antreiben. Dazu gehören unter anderem Apple Fitness+,...
+Zum Beitrag: Netflix: Videos des Nike Training Club ab 30. Dezember verfügbar
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>Olli</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sony: Neue Technologie ermöglicht objektbasierten Spatial Sound für Live-Übertragungen]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1144355</id>
+        <link href="https://stadt-bremerhaven.de/sony-neue-technologie-ermoeglicht-objektbasierten-spatial-sound-fuer-live-uebertragungen/"/>
+        <updated>2022-12-22T13:00:45.000Z</updated>
+        <summary type="html"><![CDATA[Sony präsentiert die nach eigenen Angaben weltweit erste Echtzeit-Live-Verteilungstechnologie mit vollständig objektbasiertem Spatial Sound. Übersetzt: Die Japaner wollen es ermöglichen, dass Live-Übertragungen direkt mit Spatial Audio angeboten werden. Als Basis nutzt man da natürlich die hauseigene Technik 360 Reality Audio....
+Zum Beitrag: Sony: Neue Technologie ermöglicht objektbasierten Spatial Sound für Live-Übertragungen
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Meet mit neuen Filtern]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1144259</id>
+        <link href="https://stadt-bremerhaven.de/google-meet-mit-neuen-filtern/"/>
+        <updated>2022-12-22T12:30:33.000Z</updated>
+        <summary type="html"><![CDATA[Google spendiert seiner Videokonferenzsoftware Google Meet neue Filter. Diese stehen sowohl in der mobilen App, als auch im Web zur Verfügung. Google zeigt da als Beispiele einen Baumstamm, eine Erdbeere sowie ein arbeitendes Kaninchen. Die Effekte lassen sich über das...
+Zum Beitrag: Google Meet mit neuen Filtern
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>Felix Frank</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pokémon GO feiert Weihnachten: Neues Event angekündigt]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1144271</id>
+        <link href="https://stadt-bremerhaven.de/pokemon-go-feiert-weihnachten-neues-event-angekuendigt/"/>
+        <updated>2022-12-22T12:00:34.000Z</updated>
+        <summary type="html"><![CDATA[Solltet ihr auch noch immer in Pokémon GO unterwegs sein, dann dürften euch die regelmäßig stattfindenden Events im Spiel keineswegs verwundern. Damit dürftet ihr dann auch mitbekommen haben, dass es auch in Pokémon GO mittlerweile winterlich geworden ist und nun...
+Zum Beitrag: Pokémon GO feiert Weihnachten: Neues Event angekündigt
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>Benjamin Mamerow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Audible: 3 Monate kostenlos für ausgewählte Kunden]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1144387</id>
+        <link href="https://stadt-bremerhaven.de/audible-3-monate-kostenlos-fuer-ausgewaehlte-kunden/"/>
+        <updated>2022-12-22T11:49:21.000Z</updated>
+        <summary type="html"><![CDATA[3 Monate gibt’s derzeit Audible gratis. Hierbei handelt es sich um das Hörbuch-Angebot des Unternehmens Amazon, welches sonst mit 9,95 Euro monatlich zu Buche schlägt. Das Angebot gilt laut Amazon für ausgewählte Kunden in Deutschland, Österreich und der Schweiz, die seit...
+Zum Beitrag: Audible: 3 Monate kostenlos für ausgewählte Kunden
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[easybell: FTTH für Kunden des Anbieters möglicherweise schon 2023]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1144277</id>
+        <link href="https://stadt-bremerhaven.de/easybell-ftth-fuer-kunden-des-anbieters-moeglicherweise-schon-2023/"/>
+        <updated>2022-12-22T11:30:08.000Z</updated>
+        <summary type="html"><![CDATA[Kleiner Teaser an alle Kunden des Anbieters easybell, welcher mittlerweile auch schon seit 16 Jahren existiert und damit mit Sicherheit den einen oder anderen Kunden unter unseren Lesern haben wird: Vor einigen Tagen informierte mich einer unserer Leser in einem...
+Zum Beitrag: easybell: FTTH für Kunden des Anbieters möglicherweise schon 2023
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>Benjamin Mamerow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cryptomator: Verschlüsselungssoftware derzeit reduziert zu haben]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1144367</id>
+        <link href="https://stadt-bremerhaven.de/cryptomator-verschluesselungssoftware-derzeit-reduziert-zu-haben/"/>
+        <updated>2022-12-22T11:15:40.000Z</updated>
+        <summary type="html"><![CDATA[Über die Software Cryptomator berichten wir seit ihrer ersten Veröffentlichung. Cryptomator ist eine Open-Source-Software, die dazu dient, Daten vor neugierigen Augen zu schützen. Sie ermöglicht es Benutzern, Dateien und Ordner auf ihren Computer, Cloud-Speicherdiensten oder anderen Speichermedien zu verschlüsseln. Die...
+Zum Beitrag: Cryptomator: Verschlüsselungssoftware derzeit reduziert zu haben
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WhatsApp Beta: Option zum Einloggen eines Zweitgeräts per Verifizierungscode]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1144341</id>
+        <link href="https://stadt-bremerhaven.de/whatsapp-beta-option-zum-einloggen-eines-zweitgeraets-per-verifizierungscode/"/>
+        <updated>2022-12-22T11:00:37.000Z</updated>
+        <summary type="html"><![CDATA[In der Beta des Messengers WhatsApp gibt es mittlerweile für einige Nutzer die Chance, ein Zweitgerät hinzuzufügen. Dies ist dann im sogenannten „Companion Mode“ aktiv. Laut WABetaInfo wurde auch diese Option noch etwas erweitert. Am Zweitgerät können sich Beta-Nutzer nämlich...
+Zum Beitrag: WhatsApp Beta: Option zum Einloggen eines Zweitgeräts per Verifizierungscode
+
+Zum Blog: Caschys Blog
+
+
+Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Radeon RX 7900 XTX Customs im Test: Asus, PowerColor, Sapphire & XFX mit Navi 31 im Vergleich]]></title>
+        <id>https://www.computerbase.de/2022-12/radeon-rx-7900-xtx-custom-design-test/</id>
+        <link href="https://www.computerbase.de/2022-12/radeon-rx-7900-xtx-custom-design-test/"/>
+        <updated>2022-12-22T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/6/0/8/2-91dbb0cc95c89546/article-640x360.1947a815.jpg"><p>Welche Vor- oder Nachteile bieten Custom-Designs der AMD Radeon RX 7900 XTX mit Navi-31-GPU im Vergleich zum Referenzdesign in Bezug auf Leistung, Lautstärke, Temperaturen und Verbrauch? ComputerBase hat mit Asus TUF Gaming OC, PowerColor Hellhound, Sapphire Nitro+ und XFX Merc 310 die Probe aufs Exempel gemacht.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intel Core i9-13900KS: Der weltweit erste Prozessor, der 9 GHz erreicht hat]]></title>
+        <id>https://www.computerbase.de/2022-12/intel-core-i9-13900ks-9ghz-overclocking-world-record/</id>
+        <link href="https://www.computerbase.de/2022-12/intel-core-i9-13900ks-9ghz-overclocking-world-record/"/>
+        <updated>2022-12-22T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/6/2/0/7-32919a7536dc9e5c/article-640x360.b5f2eb34.jpg"><p>Asus hat einmal mehr zahlreiche neue Weltrekorde im Bereich Overclocking aufstellen können und mit einem Intel Core i9-13900KS, welcher auf der vom 5. bis 8. Januar 2023 in Las Vegas stattfindenden Fach- und Branchenmesse CES 2023 präsentiert werden soll, erstmals überhaupt die zuvor „harte“ Barriere von 9 GHz durchbrochen.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Star Wars: Dark Forces (1995): Engine-Port holt Klassiker zurück in die Moderne]]></title>
+        <id>https://www.computerbase.de/2022-12/star-wars-dark-forces-1995-engine-port-holt-klassiker-zurueck-in-die-moderne/</id>
+        <link href="https://www.computerbase.de/2022-12/star-wars-dark-forces-1995-engine-port-holt-klassiker-zurueck-in-die-moderne/"/>
+        <updated>2022-12-22T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/6/2/0/5-13d62e0441113704/article-640x360.69affed6.jpg"><p>Dark Forces war 1995 ein richtig guter Shooter im Star-Wars-Universum. Ein Mod-Projekt macht den Klassiker in der Moderne kinderleicht spielbar und fügt zahlreiche Komfort-Extras ein. Das Projekt The Force Engine tauscht dazu die Grafik-Engine aus.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Netflix zeigt Teaser zu kommendem Science-Fiction-Film „JUNG_E“]]></title>
         <id>https://stadt-bremerhaven.de/?p=1144282</id>
@@ -8639,7 +9029,7 @@ Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
         <updated>2022-11-29T22:59:00.000Z</updated>
         <summary type="html"><![CDATA[Die Bundesländer wollen das geplante 49-Euro-Ticket für den Nah- und Regionalverkehr Anfang April einführen. Das haben die Verkehrsministerinnen und -minister der Länder am Abend beschlossen. Die Vorsitzende der Konferenzrunde, Bremens Senatorin Schaefer sagte, der ursprüngliche Termin zum Jahresbeginn sei zu ambitioniert gewesen.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 22. Dezember 2022</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 23. Dezember 2022</name>
         </author>
     </entry>
     <entry>
@@ -8649,7 +9039,7 @@ Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
         <updated>2022-11-29T22:59:00.000Z</updated>
         <summary type="html"><![CDATA[In den USA hat Ex-Präsident Trump durch ein Treffen mit dem bekannten Rechtsextremen Fuentes Kritik seiner Republikaner auf sich gezogen.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 22. Dezember 2022</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 23. Dezember 2022</name>
         </author>
     </entry>
     <entry>
@@ -8659,7 +9049,7 @@ Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
         <updated>2022-11-29T22:59:00.000Z</updated>
         <summary type="html"><![CDATA[Die Ukraine hat auch heute wieder zahlreiche Angriffe mit russischen Raketen gemeldet.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 22. Dezember 2022</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 23. Dezember 2022</name>
         </author>
     </entry>
     <entry>
@@ -8669,7 +9059,7 @@ Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
         <updated>2022-11-29T22:59:00.000Z</updated>
         <summary type="html"><![CDATA[Die Ukraine hat von der Nato Patriot-Luftabwehrsysteme zur Verteidigung gegen russische Angriffe gefordert.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 22. Dezember 2022</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 23. Dezember 2022</name>
         </author>
     </entry>
     <entry>
@@ -8679,7 +9069,7 @@ Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
         <updated>2022-11-29T22:59:00.000Z</updated>
         <summary type="html"><![CDATA[Bundeskanzler Scholz hat die Vereinbarung mit Katar über die Lieferung von Flüssig-Erdgas begrüßt.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 22. Dezember 2022</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 23. Dezember 2022</name>
         </author>
     </entry>
     <entry>
@@ -8689,7 +9079,7 @@ Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
         <updated>2022-11-29T22:59:00.000Z</updated>
         <summary type="html"><![CDATA[Bundesverteidigungsministerin Lambrecht fordert einen größeren Etat, um Munition für die Bundeswehr zu beschaffen.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 22. Dezember 2022</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 23. Dezember 2022</name>
         </author>
     </entry>
     <entry>
@@ -8699,7 +9089,7 @@ Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
         <updated>2022-11-29T22:59:00.000Z</updated>
         <summary type="html"><![CDATA[Bei der Fußball-Weltmeisterschaft in Katar haben sich nach den Niederlanden und dem Senegal auch die USA und England für das Achtelfinale qualifiziert.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 22. Dezember 2022</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 23. Dezember 2022</name>
         </author>
     </entry>
     <entry>
@@ -8709,7 +9099,7 @@ Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
         <updated>2022-11-29T22:59:00.000Z</updated>
         <summary type="html"><![CDATA[Bei der Fußball-WM in Katar leitet die französische Schiedsrichterin Stephanie Frappart das Spiel der deutschen Nationalmannschaft gegen Costa Rica am Donnerstag.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 22. Dezember 2022</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 23. Dezember 2022</name>
         </author>
     </entry>
     <entry>
@@ -8719,7 +9109,7 @@ Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
         <updated>2022-11-29T22:59:00.000Z</updated>
         <summary type="html"><![CDATA[Der Bundesrechnungshof kritisiert die Pläne von Bundesfinanzminister Lindner, die Rentenversicherung mit einem Aktiendepot zu erweitern.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 22. Dezember 2022</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 23. Dezember 2022</name>
         </author>
     </entry>
     <entry>
@@ -8729,7 +9119,7 @@ Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
         <updated>2022-11-29T22:59:00.000Z</updated>
         <summary type="html"><![CDATA[Die grenzübergreifende Zusammenarbeit der Polizeibehörden in den EU-Staaten soll vereinfacht werden.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 22. Dezember 2022</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 23. Dezember 2022</name>
         </author>
     </entry>
     <entry>
@@ -8739,7 +9129,7 @@ Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
         <updated>2022-11-29T22:59:00.000Z</updated>
         <summary type="html"><![CDATA[Die Inflationsrate in Deutschland ist im November erstmals wieder gesunken. Wie das Statistische Bundesamt aufgrund erster Berechnungen aus sechs Bundesländern mitteilte, lag die Teuerungsrate bei 10 Prozent im Vergleich zum Vorjahresmonat. Im Oktober hatte die Teuerungsrate noch bei 10,4 Prozent gelegen.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 22. Dezember 2022</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 23. Dezember 2022</name>
         </author>
     </entry>
     <entry>
@@ -8749,7 +9139,7 @@ Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
         <updated>2022-11-29T22:59:00.000Z</updated>
         <summary type="html"><![CDATA[In Berlin wird es einen Volksentscheid zu mehr Klimaschutz gegeben.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 22. Dezember 2022</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 23. Dezember 2022</name>
         </author>
     </entry>
     <entry>
@@ -8759,7 +9149,7 @@ Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
         <updated>2022-11-29T22:59:00.000Z</updated>
         <summary type="html"><![CDATA[In Belarus befindet sich die inhaftierte Regierungskritikerin Maria Kolesnikowa auf der Intensivstation eines Krankenhauses.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 22. Dezember 2022</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 23. Dezember 2022</name>
         </author>
     </entry>
     <entry>
@@ -8769,7 +9159,7 @@ Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
         <updated>2022-11-29T22:59:00.000Z</updated>
         <summary type="html"><![CDATA["Holodomor in der Ukraine: Erinnern - Gedenken - Mahnen" - so heißt ein Antrag, der dem Bundestag vorliegt. 45 Minuten soll darüber diskutiert werden, danach stufen die Parlamentarierinnen und Parlamentarier die Hungersnot vor 90 Jahren voraussichtlich als Völkermord ein.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 22. Dezember 2022</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 23. Dezember 2022</name>
         </author>
     </entry>
     <entry>
@@ -8779,7 +9169,7 @@ Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
         <updated>2022-11-29T22:59:00.000Z</updated>
         <summary type="html"><![CDATA[Die FDP dringt darauf, die Modernisierung des Einbürgerungsrechts mit der Reform zur Einwanderung von ausländischen Fachkräften zu verknüpfen. Der Vorsitzende der FDP-Bundestagsfraktion, Dürr, sagte im Deutschlandfunk, beide Themen sollten gemeinsam kommen, damit alles aus einem Guss sei. Deutschland müsse ähnlich wie Kanada, Neuseeland oder Australien ein modernes Einwanderungsland werden.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 22. Dezember 2022</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 23. Dezember 2022</name>
         </author>
     </entry>
     <entry>
@@ -8789,7 +9179,7 @@ Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
         <updated>2022-11-29T22:59:00.000Z</updated>
         <summary type="html"><![CDATA[Nach jahrelangen Protesten werden im sogenannten Afrikanischen Viertel in Berlin-Wedding ein Platz und eine Straße umbenannt.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 22. Dezember 2022</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 23. Dezember 2022</name>
         </author>
     </entry>
     <entry>
@@ -8799,7 +9189,7 @@ Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
         <updated>2022-11-29T22:59:00.000Z</updated>
         <summary type="html"><![CDATA[Der US-Schauspieler Clarence Gilyard Jr. ist tot. Er starb im Alter von 66 Jahren, wie die University of Nevada in Las Vegas mitteilte. Dort hatte Gilyard zuletzt als Dozent für Film und Theater gearbeitet.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 22. Dezember 2022</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 23. Dezember 2022</name>
         </author>
     </entry>
     <entry>
@@ -8809,7 +9199,7 @@ Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
         <updated>2022-11-29T22:59:00.000Z</updated>
         <summary type="html"><![CDATA[In Großbritannien hat die Polizei einen mutmaßlichen Schleuser festgenommen, dem fahrlässige Tötung in 27 Fällen vorgeworfen wird.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 22. Dezember 2022</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 23. Dezember 2022</name>
         </author>
     </entry>
     <entry>
@@ -8819,7 +9209,7 @@ Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
         <updated>2022-11-29T22:59:00.000Z</updated>
         <summary type="html"><![CDATA[Bundeskanzler Scholz hat sich für eine Stärkung der öffentlichen Verwaltung ausgesprochen.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 22. Dezember 2022</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 23. Dezember 2022</name>
         </author>
     </entry>
     <entry>
@@ -8829,7 +9219,7 @@ Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
         <updated>2022-11-29T22:59:00.000Z</updated>
         <summary type="html"><![CDATA[In Singapur ist Sex zwischen Männern nicht mehr strafbar.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 22. Dezember 2022</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 23. Dezember 2022</name>
         </author>
     </entry>
     <entry>
@@ -8839,7 +9229,7 @@ Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
         <updated>2022-11-29T22:59:00.000Z</updated>
         <summary type="html"><![CDATA[Nach den Protesten gegen die strikte Null-Covid-Politik in mehreren chinesischen Städten ist die Polizeipräsenz massiv verstärkt worden. Journalisten vor Ort berichten von hunderten Streifenfahrzeugen und Beamten auf den Straßen der Hauptstadt Peking und Shanghais. Mehrere geplante Demonstrationen kamen nicht zustande.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 22. Dezember 2022</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 23. Dezember 2022</name>
         </author>
     </entry>
     <entry>
@@ -8849,7 +9239,7 @@ Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
         <updated>2022-11-29T22:59:00.000Z</updated>
         <summary type="html"><![CDATA[Die meisten Immobilien in Deutschland werden nicht neu gebaut, sondern "im Bestand" erworben.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 22. Dezember 2022</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 23. Dezember 2022</name>
         </author>
     </entry>
     <entry>
@@ -8859,7 +9249,7 @@ Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
         <updated>2022-11-29T22:59:00.000Z</updated>
         <summary type="html"><![CDATA[Drei chinesische Astronauten sind mit einer Rakete vom Typ "Langer Marsch 2F" ins All gestartet.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 22. Dezember 2022</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 23. Dezember 2022</name>
         </author>
     </entry>
     <entry>
@@ -8869,7 +9259,7 @@ Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
         <updated>2022-11-29T22:59:00.000Z</updated>
         <summary type="html"><![CDATA[In Katar hat das Organisationskomitee der Fußball-Weltmeisterschaft Aussagen seines Generalsekretärs zur Zahl der ums Leben gekommenen Gastarbeiter auf WM-Baustellen mehr oder weniger als falsch bezeichnet.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 22. Dezember 2022</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 23. Dezember 2022</name>
         </author>
     </entry>
     <entry>
@@ -8879,7 +9269,7 @@ Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
         <updated>2022-11-29T22:59:00.000Z</updated>
         <summary type="html"><![CDATA[Der Grünen-Bundestagsabgeordnete Trittin geht davon aus, dass die Proteste der chinesischen Bevölkerung gegen die Null-Covid-Politik der Regierung nicht mehr zu stoppen sind.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 22. Dezember 2022</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 23. Dezember 2022</name>
         </author>
     </entry>
     <entry>
@@ -8889,7 +9279,7 @@ Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
         <updated>2022-11-29T22:59:00.000Z</updated>
         <summary type="html"><![CDATA[Das britische Außenministerium hat wegen der Festnahme eines BBC-Reporters in Schanghai den chinesischen Botschafter einbestellt.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 22. Dezember 2022</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 23. Dezember 2022</name>
         </author>
     </entry>
     <entry>
@@ -8899,7 +9289,7 @@ Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
         <updated>2022-11-29T22:59:00.000Z</updated>
         <summary type="html"><![CDATA[Der Vorsitzende des Bundeswehrverbands, Wüstner, dringt auf mehr Tempo bei der Ausstattung der Bundeswehr. Wüstner sagte im DLF, das Gebot der Stunde sei nicht Perfektionismus, sondern Geschwindigkeit. Egal, wo man hinschaue, gebe es einen Mangel. Demnach fehlt unter anderem Munition im Wert von 20 bis 30 Milliarden Euro.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 22. Dezember 2022</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 23. Dezember 2022</name>
         </author>
     </entry>
     <entry>
@@ -8909,7 +9299,7 @@ Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
         <updated>2022-11-29T22:59:00.000Z</updated>
         <summary type="html"><![CDATA[Wegen Unterstützung einer terroristischen Vereinigung im Ausland hat das Berliner Kammergericht fünf Mitglieder des mittlerweile verbotenen Moscheevereins Fussilet 33 zu Bewährungsstrafen verurteilt.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 22. Dezember 2022</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 23. Dezember 2022</name>
         </author>
     </entry>
     <entry>
@@ -8919,7 +9309,7 @@ Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
         <updated>2022-11-29T22:59:00.000Z</updated>
         <summary type="html"><![CDATA[Der Insolvenzverwalter der ehemaligen Drogeriemarktkette Schlecker kann möglicherweise doch noch auf einen Millionenbetrag von früheren Lieferanten wegen illegaler Preisabsprachen hoffen.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 22. Dezember 2022</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 23. Dezember 2022</name>
         </author>
     </entry>
     <entry>
@@ -8929,7 +9319,7 @@ Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
         <updated>2022-11-29T22:59:00.000Z</updated>
         <summary type="html"><![CDATA[Die hohe Inflation lässt die Reallöhne in Deutschland weiter sinken.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 22. Dezember 2022</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 23. Dezember 2022</name>
         </author>
     </entry>
     <entry>
@@ -8939,7 +9329,7 @@ Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
         <updated>2022-11-29T22:59:00.000Z</updated>
         <summary type="html"><![CDATA[Der wiedergewählte Präsident des Bundesverbands der Deutschen Industrie, Russwurm, hat eine Abkehr vom "akuten Krisenmodus" der deutschen Wirtschaftspolitik angemahnt.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 22. Dezember 2022</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 23. Dezember 2022</name>
         </author>
     </entry>
     <entry>
@@ -8949,7 +9339,7 @@ Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
         <updated>2022-11-29T22:59:00.000Z</updated>
         <summary type="html"><![CDATA[Pflegeheime sind nach einer Untersuchung der Barmer-Krankenkasse besonders stark von Corona betroffen.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 22. Dezember 2022</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 23. Dezember 2022</name>
         </author>
     </entry>
     <entry>
@@ -8959,7 +9349,7 @@ Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
         <updated>2022-11-29T22:59:00.000Z</updated>
         <summary type="html"><![CDATA[Bundespräsident Steinmeier hat angesichts der massiven Zerstörung der Energieinfrastruktur in der Ukraine zu mehr Hilfe für das Land aufgerufen.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 22. Dezember 2022</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 23. Dezember 2022</name>
         </author>
     </entry>
     <entry>
@@ -8969,7 +9359,7 @@ Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
         <updated>2022-11-29T22:59:00.000Z</updated>
         <summary type="html"><![CDATA[Der Tech-Konzern Twitter hat in Ghana das gesamte Team bis auf eine Person entlassen.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 22. Dezember 2022</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 23. Dezember 2022</name>
         </author>
     </entry>
     <entry>
@@ -8979,7 +9369,7 @@ Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
         <updated>2022-11-29T22:59:00.000Z</updated>
         <summary type="html"><![CDATA[Das Wetter: Nachts bedeckt mit etwas Regen oder Sprühregen. Tiefstwerte plus 6 bis minus 1 Grad. Am Tag teils stark bewölkt, teils hochnebelartig bedeckt. Im Nordwesten und Westen etwas Regen. Temperaturen im Westen 4 bis 9 und im Osten 1 bis 5 Grad.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 22. Dezember 2022</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 23. Dezember 2022</name>
         </author>
     </entry>
     <entry>
@@ -11514,490 +11904,6 @@ Zum Blog: Caschys Blog
 Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
         <author>
             <name>Benjamin Mamerow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Xbox Series X|S: Microsoft geht mit aggressiven Angeboten auf Kundenfang]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1139948</id>
-        <link href="https://stadt-bremerhaven.de/xbox-series-xs-microsoft-geht-mit-aggressiven-angeboten-auf-kundenfang/"/>
-        <updated>2022-11-23T13:00:42.000Z</updated>
-        <summary type="html"><![CDATA[Spannende Entwicklung: Während Sony den Preis der PlayStation 5 vor einiger Zeit um 50 Euro erhöht hatte, geht Microsoft in den Preiskampf. Aktuell ist die Xbox Series S ja offiziell für 249 Euro zu haben – bzw. bei Amazon.de sogar...
-Zum Beitrag: Xbox Series X|S: Microsoft geht mit aggressiven Angeboten auf Kundenfang
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>André Westphal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[„Kaleidoskop“: Krimi-Anthologieserie startet ab 1. Januar 2023 bei Netflix]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1139910</id>
-        <link href="https://stadt-bremerhaven.de/kaleidoskop-krimi-anthologieserie-startet-ab-1-januar-2023-bei-netflix/"/>
-        <updated>2022-11-23T12:30:59.000Z</updated>
-        <summary type="html"><![CDATA[Netflix teilt mit, dass die neue Krimi-Anthologieserie „Kaleidoskop“ ab 1. Januar 2023 beim Streaming-Anbieter startet. Zum Cast zählen unter anderem der aus „Breaking Bad“ bekannte Giancarlo Esposito sowie des Weiteren Paz Vega, Rosaline Elbay, Jai Courtney, Peter Mark Kendall, Jordan...
-Zum Beitrag: „Kaleidoskop“: Krimi-Anthologieserie startet ab 1. Januar 2023 bei Netflix
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>André Westphal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Honor MagicOS 7.0 (Android 13) startet in China]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1139930</id>
-        <link href="https://stadt-bremerhaven.de/honor-magicos-7-0-android-13-startet-in-china/"/>
-        <updated>2022-11-23T12:00:09.000Z</updated>
-        <summary type="html"><![CDATA[Honor beginnt mit der Verteilung von MagicOS 7.0 in China. Die neue Oberfläche für mobile Endgeräte basiert auf Android 13 und bringt die entsprechenden Verbesserungen mit. Honor hat aber auch eigenes Flair ergänzt. Der mit MagicOS 7.0 neu eingeführte MagicRing...
-Zum Beitrag: Honor MagicOS 7.0 (Android 13) startet in China
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>André Westphal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Honor Magic Vs: Neues Foldable vorgestellt – kommt auch nach Europa]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1139938</id>
-        <link href="https://stadt-bremerhaven.de/honor-magic-vs-neues-foldable-vorgestellt-kommt-auch-nach-europa/"/>
-        <updated>2022-11-23T11:30:54.000Z</updated>
-        <summary type="html"><![CDATA[Das Honor Magic Vs ist ein neues Foldable des chinesischen Herstellers, der früher eine Huawei-Tochter darstellte, mittlerweile aber unabhängig vom ehemaligen Mutterkonzern agiert. Daher ist man auch nicht mehr von den US-Sanktionen betroffen. Das neue Honor Magic Vs erscheint dabei...
-Zum Beitrag: Honor Magic Vs: Neues Foldable vorgestellt – kommt auch nach Europa
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>André Westphal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[App-Update: Homematic IP integriert Philips Hue ins Smart-Home-System]]></title>
-        <id>https://www.computerbase.de/2022-11/app-update-homematic-ip-integriert-philips-hue-ins-smart-home-system/</id>
-        <link href="https://www.computerbase.de/2022-11/app-update-homematic-ip-integriert-philips-hue-ins-smart-home-system/"/>
-        <updated>2022-11-23T11:24:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/8/2/7-8ef584cb60a795f4/article-640x360.a7e9fbd5.jpg"><p>Homematic IP von eQ-3 integriert per App-Update die smarten Lampen und Leuchten von Philips Hue in die Installationen des eigenen Smart-Home-Systems. Um Philips Hue in Homematic IP integrieren und über die App steuern zu können, ist die Homematic-IP-App in Version 2.14.0 (iOS) beziehungsweise 2.14.6 (Android) erforderlich.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Paint.net: Version 5 startet als Alpha]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1139926</id>
-        <link href="https://stadt-bremerhaven.de/paint-net-version-5-startet-als-alpha/"/>
-        <updated>2022-11-23T11:00:24.000Z</updated>
-        <summary type="html"><![CDATA[Das beliebte Bildbearbeitungsprogramm paint.net (die Domain ist getpaint.net) geht in die Alpha zu Version 5. Damit einhergehend gibt’s zahlreiche Neuerungen, so der Entwickler. Wichtige Leistungsverbesserungen, neue Funktionen, einschließlich Drucksensitivität für Stifte und Zeichentablets, und ein brandneues Effekt-Plugin-System mit GPU-Rendering-Unterstützung nennt...
-Zum Beitrag: Paint.net: Version 5 startet als Alpha
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>caschy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Samsung Galaxy Watch 5 Pro im Test: Wear-OS-Smartwatch trägt dick auf]]></title>
-        <id>https://www.computerbase.de/2022-11/samsung-galaxy-watch-5-pro-test/</id>
-        <link href="https://www.computerbase.de/2022-11/samsung-galaxy-watch-5-pro-test/"/>
-        <updated>2022-11-23T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/6/7/1-e8a8fa5f10c6ccdf/article-640x360.e3581f7d.jpg"><p>Die Samsung Galaxy Watch 5 Pro aus Titan trägt dick auf – über 4 mm dicker als von Samsung angegeben. Smartwatch und Wear OS überzeugen dennoch, aber das Pro-Modell ist nicht immer die bessere Wahl im Vergleich zur kleinen und leichten Galaxy Watch 5.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tails 5.7: Metadaten-Cleaner und Tor-Update für mehr Anonymität (Update)]]></title>
-        <id>https://www.computerbase.de/2022-11/tails-5-7-metadata-cleaner-tor-browser-update/</id>
-        <link href="https://www.computerbase.de/2022-11/tails-5-7-metadata-cleaner-tor-browser-update/"/>
-        <updated>2022-11-23T10:51:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/8/2/6-23ee21cde212b73a/article-640x360.b474d7ed.jpg"><p>Die auf Debian GNU/Linux basierende und insbesondere auf Datenschutz ausgelegte Live-Distribution Tails, das sogenannte „Amnesic Incognito Live System“, ist in der neuesten Version 5.7 erschienen und bringt ein großes Tor-Update sowie einen Metadaten-Cleaner für noch mehr Privatsphäre und Sicherheit am PC mit.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Android Auto 8.6 kann getestet werden]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1139936</id>
-        <link href="https://stadt-bremerhaven.de/android-auto-8-6-kann-getestet-werden/"/>
-        <updated>2022-11-23T10:30:55.000Z</updated>
-        <summary type="html"><![CDATA[Android Auto ist jüngst in der finalen Version 8.5 erschienen und hat unter anderem die neue Coolwalk-Oberfläche mitgebracht. Doch mit Android Auto 8.5 hat Google nicht alle Baustellen fertigstellen können, noch immer gibt es zahlreiche Probleme, teilweise sind diese in...
-Zum Beitrag: Android Auto 8.6 kann getestet werden
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>caschy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vivo: X90-Serie nutzt Snapdragon 8 Gen 2 und Dimensity 9200]]></title>
-        <id>https://www.computerbase.de/2022-11/vivo-x90-serie-nutzt-snapdragon-8-gen-2-und-dimensity-9200/</id>
-        <link href="https://www.computerbase.de/2022-11/vivo-x90-serie-nutzt-snapdragon-8-gen-2-und-dimensity-9200/"/>
-        <updated>2022-11-23T10:28:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/8/2/5-9b36533484fde479/article-640x360.9638d07f.jpg"><p>Vivo hat für den chinesischen Markt die Smartphones X90 Pro+, X90 Pro und X90 vorgestellt, die bereits auf die neuesten Prozessoren von Qualcomm und MediaTek setzen. Das X90 Pro+ nutzt den Snapdragon 8 Gen 2, das X90 Pro und X90 hingegen den Dimensity 9200. Zwei der Smartphones nutzen einen 1 Zoll großen 50-MP-Sensor.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Xiaomi 12T Pro erscheint als limitierte Daniel Arsham Edition]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1139916</id>
-        <link href="https://stadt-bremerhaven.de/xiaomi-12t-pro-erscheint-als-limitierte-daniel-arsham-edition/"/>
-        <updated>2022-11-23T10:00:02.000Z</updated>
-        <summary type="html"><![CDATA[Xiaomi bringt eine Sonderedition seines 12T Pro auf den Markt: das Xiaomi 12T Pro Daniel Arsham Edition. Sollte euch Daniel Arsham nichts sagen, seid ihr sicherlich nicht allein – auch ich hatte noch nie von diesem Künstler gehört. Jedenfalls hat...
-Zum Beitrag: Xiaomi 12T Pro erscheint als limitierte Daniel Arsham Edition
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>André Westphal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Homematic IP: Philips Hue lässt sich einbinden]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1139921</id>
-        <link href="https://stadt-bremerhaven.de/homematic-ip-philips-hue-laesst-sich-einbinden/"/>
-        <updated>2022-11-23T09:34:52.000Z</updated>
-        <summary type="html"><![CDATA[Da kann man sich fast fragen, warum es so lange gedauert hat: Homematic IP ermöglicht es Anwendern schon seit Langem, ihre Beleuchtung mit vernetzten Tastern und Aktoren smart zu machen und sie durch Automatisierungen, die Verbindung zu Präsenz- und Bewegungsmeldern...
-Zum Beitrag: Homematic IP: Philips Hue lässt sich einbinden
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>caschy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intel On Demand: Xeon-CPUs lassen sich bald nach dem Kauf aufwerten]]></title>
-        <id>https://www.computerbase.de/2022-11/intel-on-demand-xeon-sapphire-rapids-upgrade/</id>
-        <link href="https://www.computerbase.de/2022-11/intel-on-demand-xeon-sapphire-rapids-upgrade/"/>
-        <updated>2022-11-23T09:22:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/8/2/4-2fdfe286613ef1b3/article-640x360.bf795b66.jpg"><p>Gemeinsam mit den Server-Prozessoren Xeon und Xeon Max soll Intel On Demand das Freischalten von CPU-Features auch nach dem Kauf möglich machen, was für mehr Flexibilität sorgen soll. Über ein Aktivierungsmodell bietet Intel die Aktivierung ausgewählter Features und Sicherheitsfunktionen für Sapphire Rapids an.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stellenstreichungen: HP und Cisco bauen je über 4.000 Arbeitsplätze ab]]></title>
-        <id>https://www.computerbase.de/2022-11/stellenstreichungen-hp-und-cisco-bauen-je-ueber-4-000-arbeitsplaetze-ab/</id>
-        <link href="https://www.computerbase.de/2022-11/stellenstreichungen-hp-und-cisco-bauen-je-ueber-4-000-arbeitsplaetze-ab/"/>
-        <updated>2022-11-23T07:45:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/8/2/3-c4dda3efa0269cb3/article-640x360.7fb4372f.jpg"><p>HP und Cisco reihen sich in die Firmen ein, die kurz vor dem Jahresende planen, Tausende Angestellte zu entlassen. Bei beiden Konzernen wird die Anzahl wohl bei über 4.000 Mitarbeitern liegen, bei HP könnte dies am Ende sogar auf bis zu 6.000 Stellen ausgeweitet werden.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Proxmox Virtual Environment 7.3: Debian 11.5 mit neuem Linux-Kernel und erstmals CRS]]></title>
-        <id>https://www.computerbase.de/2022-11/proxmox-virtual-environment-7-3-release/</id>
-        <link href="https://www.computerbase.de/2022-11/proxmox-virtual-environment-7-3-release/"/>
-        <updated>2022-11-23T07:30:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/8/2/0-75ac94b484913344/article-640x360.a145bacd.jpg"><p>Die Open-Source-Virtualisierungssoftware Proxmox Virtual Environment basiert auf Debian und verwaltet virtuelle Maschinen und Container auf x86-Basis. In der neuen Version 7.3, die wahlweise den Linux-Kernel 5.15 LTS oder 5.19 nutzt, wird erstmals initial ein Cluster Resource Scheduler als „Technology Preview“ angeboten.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GeForce 474.04 und 474.06: Sicherheitsupdates für Nvidia Kepler unter Windows 7 bis 11]]></title>
-        <id>https://www.computerbase.de/2022-11/nvidia-geforce-474-06-474-04-geforce-600-700-kepler/</id>
-        <link href="https://www.computerbase.de/2022-11/nvidia-geforce-474-06-474-04-geforce-600-700-kepler/"/>
-        <updated>2022-11-23T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/8/2/1-4b0abe018d1626d5/article-640x360.e81e50b3.jpg"><p>Nvidia hat ein Sicherheitsupdate für GPUs respektive Grafikkarten der Serie GeForce 600 und GeForce 700 alias Nvidia Kepler unter Windows 7 bis Windows 11 veröffentlicht und damit zwei Schwachstellen schließen können, welche mit der Risikobewertung „Hoch“ eingestuft und über die freie Software OpenSSL ausnutzbar waren.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Steam-Herbstaktion: Valve lockt mit Rabatten und den Steam Awards]]></title>
-        <id>https://www.computerbase.de/2022-11/steam-herbstaktion-valve-lockt-mit-rabatten-und-den-steam-awards/</id>
-        <link href="https://www.computerbase.de/2022-11/steam-herbstaktion-valve-lockt-mit-rabatten-und-den-steam-awards/"/>
-        <updated>2022-11-23T06:24:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/8/2/2-a405a7386d863642/article-640x360.c578d290.jpg"><p>Zwar ist der Herbst bereits in sein letztes Drittel gestartet und Weihnachten steht gefühlt schon vor der Tür, aber Valve lockt wie übliche Ende November mit der Steam-Herbstaktion, also der zweitletzten großen Rabattschlacht der Plattform für dieses Jahr. Damit einher geht die Nominierungsphase der Steam Awards.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Call of Duty Warzone 2: 25 Millionen Spieler trotzen vernichtenden Rezensionen]]></title>
-        <id>https://www.computerbase.de/2022-11/call-of-duty-warzone-2-25-millionen-spieler-trotzen-vernichtenden-rezensionen/</id>
-        <link href="https://www.computerbase.de/2022-11/call-of-duty-warzone-2-25-millionen-spieler-trotzen-vernichtenden-rezensionen/"/>
-        <updated>2022-11-23T06:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/8/1/9-f562a534f6d6b257/article-640x360.29b92f4c.jpg"><p>Call of Duty Warzone 2.0 konnte in nur fünf Tagen mehr als 25 Millionen Spieler verzeichnen, wie Publisher Activision freudig bekannt gibt. In den Rezensionen zum neuen Ego-Shooter, beispielsweise auf Steam, fällt die Stimmung aber ganz anders aus: Nur knapp ein Drittel der Spieler bewertet Warzone 2.0 positiv.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Steam mit Herbstaktion bis 29. November 2022]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1139855</id>
-        <link href="https://stadt-bremerhaven.de/steam-mit-herbstaktion-bis-29-november-2022/"/>
-        <updated>2022-11-22T19:02:13.000Z</updated>
-        <summary type="html"><![CDATA[Steam-Nutzer kennen die zahlreichen Aktionen der Plattform, bei denen man reichlich Geld für eine Vielzahl von Titeln sparen kann und oft sind auch aktuelle Titel mit am Start. So auch bei der neuen Herbstaktion, die vom 22. bis einschließlich 29....
-Zum Beitrag: Steam mit Herbstaktion bis 29. November 2022
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>Benjamin Mamerow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Shazam mit neuem Android-Widget]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1139843</id>
-        <link href="https://stadt-bremerhaven.de/shazam-mit-neuem-android-widget/"/>
-        <updated>2022-11-22T18:15:39.000Z</updated>
-        <summary type="html"><![CDATA[Ich bin nicht der größte Fan von Widgets, aber bekanntlich ist jeder Nutzer da anders unterwegs. Unter iOS benötige ich beispielsweise kein Shazam-Widget zur Musikerkennung, da ich es da über das Kontrollzentrum aufrufe, unter Android muss man das anders regeln....
-Zum Beitrag: Shazam mit neuem Android-Widget
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>caschy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Garmin: Q4-Update bringt neue Funk­ti­onen für die Smartwatches]]></title>
-        <id>https://www.computerbase.de/2022-11/garmin-q4-update-bringt-neue-funktionen-fuer-die-smartwatches/</id>
-        <link href="https://www.computerbase.de/2022-11/garmin-q4-update-bringt-neue-funktionen-fuer-die-smartwatches/"/>
-        <updated>2022-11-22T18:09:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/8/1/5-7f549f440af12d32/article-640x360.7de822ae.jpg"><p>Garmin gibt ein erneutes Feature-Update für die eigenen Fitness- und Outdoor-Smartwatches sowie GPS-Fahrradcomputer heraus. Die Liste der Geräte, die das Update und somit neue Funktionen erhalten, ist lang und breit gefächert.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Roku startet Black-Friday-Angebote für Streaming-Player und Fernsehgeräte]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1139830</id>
-        <link href="https://stadt-bremerhaven.de/roku-startet-black-friday-angebote-fuer-streaming-player-und-fernsehgeraete/"/>
-        <updated>2022-11-22T18:00:24.000Z</updated>
-        <summary type="html"><![CDATA[Ab sofort und bis Ende November 2022 sind mehrere Streaming-Player von Roku sowie die Roku-TV-Modelle von TCL im Preis reduziert. Solltet ihr also an einem der Geräte Interesse haben, dann lohnen sie sich eventuell als Alternative zu etwa den, ebenfalls...
-Zum Beitrag: Roku startet Black-Friday-Angebote für Streaming-Player und Fernsehgeräte
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>André Westphal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta erweitert Schutzfunktionen für Teenager bei Facebook und Instagram]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1139794</id>
-        <link href="https://stadt-bremerhaven.de/meta-erweitert-schutzfunktionen-fuer-teenager-bei-facebook-und-instagram/"/>
-        <updated>2022-11-22T17:30:25.000Z</updated>
-        <summary type="html"><![CDATA[Meta will einmal wieder die Schutzfunktionen für Teenager bei Facebook und Instagram verbessern. Die Maßnahmen greifen je nach Land und Rechtslage für Personen unter 16 bzw. unter 18 Jahren. Diese jugendlichen Nutzer erhalten dann als Standardeinstellung mehr Privatsphäre. Außerdem geht...
-Zum Beitrag: Meta erweitert Schutzfunktionen für Teenager bei Facebook und Instagram
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>André Westphal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FireCuda Special Edition: Seagate bringt das Darth Vader Drive]]></title>
-        <id>https://www.computerbase.de/2022-11/firecuda-special-edition-seagate-bringt-das-darth-vader-drive/</id>
-        <link href="https://www.computerbase.de/2022-11/firecuda-special-edition-seagate-bringt-das-darth-vader-drive/"/>
-        <updated>2022-11-22T17:20:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/8/1/8-f59481581d592f8b/article-640x360.f0ed81ad.jpg"><p>Seagate bringt eine weitere Special-Edition der eignen externen FireCuda-Festplatten, die „von den Helden und Schurken des Star Wars-Universums inspiriert ist“. Die Festplatten tragen Motive von Luke Skywalker, Darth Vader und Han Solo und sollen mit ihrem ausgefallenen Design nicht nur Star-Wars-Sammler ansprechen.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Niantic Social: Handynummer wird ab sofort zur Nutzung benötigt]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1139685</id>
-        <link href="https://stadt-bremerhaven.de/niantic-social-handynummer-wird-ab-sofort-zur-nutzung-benoetigt/"/>
-        <updated>2022-11-22T17:00:34.000Z</updated>
-        <summary type="html"><![CDATA[Spieler von Pokémon GO, Ingress Prime oder auch Pikmin Bloom kennen bereits Niantic Social. Das ist ein Dienst in den Games, über den ihr eure Freunde verwalten oder auch Kontakte hinzufügen könnt. Jener Service hat jüngst ein Update erfahren, womit...
-Zum Beitrag: Niantic Social: Handynummer wird ab sofort zur Nutzung benötigt
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>Benjamin Mamerow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[vivo X90 Pro+: Eines der ersten Smartphones mit dem Qualcomm Snapdragon 8 Gen 2]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1139812</id>
-        <link href="https://stadt-bremerhaven.de/vivo-x90-pro-eines-der-ersten-smartphones-mit-dem-qualcomm-snapdragon-8-gen-2/"/>
-        <updated>2022-11-22T16:30:51.000Z</updated>
-        <summary type="html"><![CDATA[vivo prescht als einer der ersten Smartphone-Hersteller voran und hat sein erstes Smartphone mit dem brandneuen Qualcomm Snapdragon 8 Gen 2 vorgestellt: das vivo X90 Pro+. Dieses mobile Endgerät hat aber noch weitere Kniffe auf Lager, denn es nutzt den...
-Zum Beitrag: vivo X90 Pro+: Eines der ersten Smartphones mit dem Qualcomm Snapdragon 8 Gen 2
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>André Westphal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ubisoft gibt Valve klein bei: Anno 1800 und Assassin's Creed kehren zurück zu Steam]]></title>
-        <id>https://www.computerbase.de/2022-11/ubisoft-gibt-valve-klein-bei-anno-1800-und-assassins-creed-kehren-zurueck-zu-steam/</id>
-        <link href="https://www.computerbase.de/2022-11/ubisoft-gibt-valve-klein-bei-anno-1800-und-assassins-creed-kehren-zurueck-zu-steam/"/>
-        <updated>2022-11-22T16:22:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/8/1/6-c57c4b970eefcd36/article-640x360.00269b44.jpg"><p>Nach Jahren der Abstinenz wagt sich Ubisoft mit einigen Spielen zurück auf Steam, darunter sind das mittlerweile am Ende seiner vierten Season angekommene Aufbaustrategiespiel Anno 1800 (Test) und Assassin's Creed Valhalla (Test). Die Rückkehr zu Valves Store-Platzhirsch liegt derzeit im Trend.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Garmin verteilt das Q4-Update für Fitness- und Outdoor-Smartwatches sowie GPS-Fahrradcomputer]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1139783</id>
-        <link href="https://stadt-bremerhaven.de/garmin-verteilt-das-q4-update-fuer-fitness-und-outdoor-smartwatches-sowie-gps-fahrradcomputer/"/>
-        <updated>2022-11-22T16:00:09.000Z</updated>
-        <summary type="html"><![CDATA[Der Hersteller Garmin hat sein neues Q4-Update für die hauseigenen Fitness- und Outdoor-Smartwatches sowie GPS-Fahrradcomputer vorgestellt. Es wird ab sofort verteilt für die Modelle der fenix-7-Serie, epix (Gen 2), tactix 7, Enduro 2, Marq (Gen 2), Forerunner-255-Serie, Forerunner 945 LTE...
-Zum Beitrag: Garmin verteilt das Q4-Update für Fitness- und Outdoor-Smartwatches sowie GPS-Fahrradcomputer
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>André Westphal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Neu auf Netflix – Dezember 2022]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1139821</id>
-        <link href="https://stadt-bremerhaven.de/neu-auf-netflix-dezember-2022/"/>
-        <updated>2022-11-22T15:24:03.000Z</updated>
-        <summary type="html"><![CDATA[Ganz im Zeichen weihnachtlicher Besinnlichkeit stellen diesen Monat Regisseure relevante Fragen über Identitäten, die Ursprünge des Lebens und die Daseinsberechtigung alltäglicher Konflikte – zumindest bei Netflix in den Dezember-Neuheiten. In seiner typischen Handschrift schenkt Guillermo del Toro dem allseits bekannten...
-Zum Beitrag: Neu auf Netflix – Dezember 2022
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>caschy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jon Peddie Research: GPU-Absatz bricht massiv ein, bei AMD um fast die Hälfte]]></title>
-        <id>https://www.computerbase.de/2022-11/jon-peddie-research-gpu-absatz-bricht-massiv-ein-bei-amd-um-fast-die-haelfte/</id>
-        <link href="https://www.computerbase.de/2022-11/jon-peddie-research-gpu-absatz-bricht-massiv-ein-bei-amd-um-fast-die-haelfte/"/>
-        <updated>2022-11-22T15:19:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/8/1/7-b9091cc6764db355/article-640x360.50409218.jpg"><p>Vom größten sequenziellen Rückgang seit der Rezession im Jahr 2009 sprechen die Marktforscher von Jon Peddie Research (JPR) in ihrem Bericht zum globalen GPU-Absatz im dritten Quartal 2022. Dieser ging demnach um 10 Prozent gegenüber dem zweiten Quartal zurück; gegenüber dem Vorjahr beträgt das Minus sogar 25 Prozent.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ARD Audiothek erreicht Smart-TVs]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1139771</id>
-        <link href="https://stadt-bremerhaven.de/ard-audiothek-erreicht-smart-tvs/"/>
-        <updated>2022-11-22T15:00:19.000Z</updated>
-        <summary type="html"><![CDATA[Die ARD Audiothek ist laut Pressemitteilung ab sofort auch auf dem Big Screen verfügbar – also an Smart-TVs. Dadurch stehen für euch an TVs Podcasts und Radio-Livestreams von mehr als 60 öffentlich-rechtlichen Hörfunkwellen, die bisher über die entsprechende App und...
-Zum Beitrag: ARD Audiothek erreicht Smart-TVs
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>André Westphal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Für die Mittelklasse: B760-Mainboards und neue Prozessoren von Intel zur CES (Update)]]></title>
-        <id>https://www.computerbase.de/2022-11/fuer-die-mittelklasse-b760-mainboards-und-neue-prozessoren-von-intel-zur-ces/</id>
-        <link href="https://www.computerbase.de/2022-11/fuer-die-mittelklasse-b760-mainboards-und-neue-prozessoren-von-intel-zur-ces/"/>
-        <updated>2022-11-22T14:44:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/8/1/4-170e3f92a6152be1/article-640x360.9809ea10.jpg"><p>Die CES 2023 wird Intel voraussichtlich als Bühne zur Vorstellung neuer Mainboards und Prozessoren der aktuellen Desktop-Plattform nutzen. Laut einem Insider werden am 3. Januar die Mainboards mit B760-Chipsatz veröffentlicht. Außerdem wird parallel die Einführung weiterer Prozessoren der neuen Core-i-13000-Serie erwartet.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Synology MailPlus: Version 3 veröffentlicht]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1139717</id>
-        <link href="https://stadt-bremerhaven.de/synology-mailplus-version-3-veroeffentlicht/"/>
-        <updated>2022-11-22T14:30:07.000Z</updated>
-        <summary type="html"><![CDATA[Gleich zwei zusammenhängende Updates gibt’s bei Synology. Das Unternehmen hat die Applikation Synology MailPlus und den Synology MailPlus Server in Version 3 veröffentlicht. Der Sprung von 2.x auf 3.x macht es sicherlich deutlich, dass funktionell etwas hinzugekommen ist. Zuerst einmal...
-Zum Beitrag: Synology MailPlus: Version 3 veröffentlicht
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>caschy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CachyOS: Derivat von Arch Linux mit vielversprechenden Ansätzen]]></title>
-        <id>https://www.computerbase.de/2022-11/cachyos-arch-linux-derivat/</id>
-        <link href="https://www.computerbase.de/2022-11/cachyos-arch-linux-derivat/"/>
-        <updated>2022-11-22T14:26:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/8/1/3-8bdee5c47ca976ef/article-640x360.89c7d244.jpg"><p>CachyOS ist ein Derivat von Arch Linux mit teils vielversprechenden Ansätzen, die die Distribution von der breiten Masse der freien Betriebssysteme abheben. Mit einem angepassten Desktop auf Basis von KDE Plasma sowie optimierten Softwarepaketen und Tweaks soll das Betriebssystem insbesondere für eine hohe Leistung stehen.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mobilfunk: Deutsche Telekom testet 5G im 6-GHz-Spektrum]]></title>
-        <id>https://www.computerbase.de/2022-11/mobilfunk-deutsche-telekom-testet-5g-im-6-ghz-spektrum/</id>
-        <link href="https://www.computerbase.de/2022-11/mobilfunk-deutsche-telekom-testet-5g-im-6-ghz-spektrum/"/>
-        <updated>2022-11-22T14:05:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/8/1/2-98fc32dca959f0d9/article-640x360.80c1419b.jpg"><p>Die Bundesnetzagentur hat der Deutschen Telekom eine Versuchsfunklizenz erteilt, um 5G im Frequenzbereich von 6.425 bis 7.125 MHz zu testen. Nach Wünschen der deutschen Mobilfunknetzbetreiber soll jeder Anbieter weitere 200 MHz Bandbreite erhalten, um innerstädtisch höhere Kapazitäten bei 5G zur Verfügung zu stellen.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[realme GT 5G, GT Neo 2 5G und Narzo 50 5G erhalten Android 13 im Early Access]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1139711</id>
-        <link href="https://stadt-bremerhaven.de/realme-gt-5g-gt-neo-2-5g-und-narzo-50-5g-erhalten-android-13-im-early-access/"/>
-        <updated>2022-11-22T14:00:35.000Z</updated>
-        <summary type="html"><![CDATA[Der Hersteller realme schickt Android 13 in den Early Access für weitere Smartphones: die GT Neo 2 5G, GT 5G und das Narzo 50 5G. Um die entsprechenden Builds zu beziehen, müsst ihr euch aber im ersten Schritt für die...
-Zum Beitrag: realme GT 5G, GT Neo 2 5G und Narzo 50 5G erhalten Android 13 im Early Access
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>André Westphal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AMD Ryzen: Neuer Chipsatztreiber behebt mehrere Black Screens (BSOD)]]></title>
-        <id>https://www.computerbase.de/2022-11/amd-ryzen-chipsatztreiber-4-11-15-342/</id>
-        <link href="https://www.computerbase.de/2022-11/amd-ryzen-chipsatztreiber-4-11-15-342/"/>
-        <updated>2022-11-22T13:38:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/8/1/1-83431fb2c4a350a7/article-640x360.c0b2f836.jpg"><p>Der neueste Chipsatztreiber für AMD Ryzen in der Version 4.11.15.342 enthält mehrere neue Treiberpakete und behebt damit diverse Black Screens, sogenannte Black Screens of Death (BSOD). Der Treiber ist für Windows 11 und Windows 10 erschienen und für AMD Ryzen 1000 bis Ryzen 7000 sowie die Ryzen Threadripper vorgesehen.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
         </author>
     </entry>
     <entry>
