@@ -2,10 +2,177 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://olivedrop.github.io/drop/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-01T01:48:12.639Z</updated>
+    <updated>2023-01-02T01:33:52.944Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://olivedrop.github.io/drop/index.html"/>
     <link rel="self" href="https://olivedrop.github.io/drop/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Der Cloud-Gaming-Rückblick am Sonntag – der erste für 2023]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1155527</id>
+        <link href="https://stadt-bremerhaven.de/der-cloud-gaming-rueckblick-am-sonntag-der-erste-fuer-2023/"/>
+        <updated>2023-01-01T19:00:18.000Z</updated>
+        <summary type="html"><![CDATA[Das neue Jahr 2023 hat just begonnen, die alten Tugenden des Vorjahres wollen wir dennoch nicht alle über Bord werfen. Dazu zählt auch der sonntägliche Cloud-Gaming-Rückblick von unserem Gastautor Stefan: In eigener Sache: Ihr habt es bestimmt schon gemerkt, es...
+Zum Beitrag: Der Cloud-Gaming-Rückblick am Sonntag – der erste für 2023
+
+Zum Blog: Caschys Blog]]></summary>
+        <author>
+            <name>Gastautor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Calculate Linux 23: Gentoo-Distribution in drei verschiedenen Ausführungen]]></title>
+        <id>https://www.computerbase.de/2023-01/calculate-linux-23-gentoo-betriebssystem/</id>
+        <link href="https://www.computerbase.de/2023-01/calculate-linux-23-gentoo-betriebssystem/"/>
+        <updated>2023-01-01T18:36:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/6/2/8/2-6ee025d74f688822/article-640x360.021ff935.jpg"><p>Calculate Linux 23 ist ein professionelles Betriebssystem auf Basis der quellbasierten Linux-Distribution Gentoo für fortgeschrittene Benutzer, die ihr System individuell einrichten möchten, und adressiert primär Workstations, Clients und Server. Die Distribution kommt in drei Versionen und mit nützlichen Assistenten daher.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JP Performance: YouTube-Kanal gekapert]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1155555</id>
+        <link href="https://stadt-bremerhaven.de/jp-performance-youtube-kanal-gekapert/"/>
+        <updated>2023-01-01T18:02:11.000Z</updated>
+        <summary type="html"><![CDATA[Der 2012 gestartete YouTube-Kanal von JP Performance ist sicherlich jedem Auto-Freak ein Begriff, über 2,2 Millionen Abonnenten konnte der deutsche Kanal im Laufe der Jahre für sich gewinnen. Dem Team dahinter muss man wohl jetzt die Daumen drücken, dass keine...
+Zum Beitrag: JP Performance: YouTube-Kanal gekapert
+
+Zum Blog: Caschys Blog]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[„Sonic the Hedgehog“: Auch 2023 soll ein großes Jahr werden]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1155159</id>
+        <link href="https://stadt-bremerhaven.de/sonic-the-hedgehog-auch-2023-soll-ein-grosses-jahr-werden/"/>
+        <updated>2023-01-01T17:00:50.000Z</updated>
+        <summary type="html"><![CDATA[Segas blauer Igel Sonic hatte 2022 einiges zu tun: Ich habe hier im Blog beispielsweise „Sonic Frontiers“ getestet, aber auch „Sonic: Origins“ erschien für gängige Plattformen und dann war da ja auch noch der zweite Kinofilm plus eine frische Serie...
+Zum Beitrag: „Sonic the Hedgehog“: Auch 2023 soll ein großes Jahr werden
+
+Zum Blog: Caschys Blog]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Luxusgut Gaming-PC: Ist ein High-End-Rechner im Jahr 2023 noch vertretbar?]]></title>
+        <id>https://www.computerbase.de/2023-01/luxusgut-gaming-pc-hohe-preise-high-end-noch-vertretbar-2023/</id>
+        <link href="https://www.computerbase.de/2023-01/luxusgut-gaming-pc-hohe-preise-high-end-noch-vertretbar-2023/"/>
+        <updated>2023-01-01T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/6/2/8/3-3a7fb6f5fe420583/article-640x360.5080d426.jpg"><p>Ein aufregendes Jahr mit zahlreichen spannenden Neuvorstellungen und aufregender Hardware ging zu Ende und das neue Jahr bringt gleich die erste große Technik-Messe. Ein Thema schwebte in letzter Zeit aber wie ein Damoklesschwert über dem Gaming-PC: Hohe Preise. Was bedeutet das für die Plattform und wie geht ihr damit um?</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hardware-Historie: Eure Computersysteme im Wandel der Zeit]]></title>
+        <id>https://www.computerbase.de/2023-01/hardware-historie-computersysteme/</id>
+        <link href="https://www.computerbase.de/2023-01/hardware-historie-computersysteme/"/>
+        <updated>2023-01-01T15:30:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/6/2/7/9-dce123166d5834a2/article-640x360.bcc10225.jpg"><p>Ob mit einem 486er oder dem ersten Intel Pentium, könnt ihr euch noch an eure ersten Computersysteme und eure Hardware-Historie erinnern? Wenn ja, dann nichts wie her damit! Die ComputerBase-Community dokumentiert die Geschichte der Systeme der Leser in einem entsprechenden Sammelthread in der Retro-Ecke im Forum.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kompakter Beamer: Nebula Capsule 3 Laser im Test]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1155106</id>
+        <link href="https://stadt-bremerhaven.de/kompakter-beamer-nebula-capsule-3-laser-im-test/"/>
+        <updated>2023-01-01T15:00:33.000Z</updated>
+        <summary type="html"><![CDATA[Anker hat mit dem Nebula Capsule 3 Laser Ende September 2022 einen neuen Beamer vorgestellt. Den habe ich nun einmal getestet. Die Besonderheit ist sicherlich, dass der Beamer sehr kompakt und portabel nutzbar ist. Der Nebula Capsule 3 Laser arbeitet...
+Zum Beitrag: Kompakter Beamer: Nebula Capsule 3 Laser im Test
+
+Zum Blog: Caschys Blog]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RTL+ und Super RTL zeigen „Krümelmonsters Foodie Truck mit Steffen Henssler“]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1155080</id>
+        <link href="https://stadt-bremerhaven.de/rtl-und-super-rtl-zeigen-kruemelmonsters-foodie-truck-mit-steffen-henssler/"/>
+        <updated>2023-01-01T13:00:57.000Z</updated>
+        <summary type="html"><![CDATA[RTL+ und Super RTL zeigen ab 22. Januar 2023 die neue Serie „Krümelmonsters Foodie Truck mit Steffen Henssler“ des Sesame Workshops. Ihr erahnt es am Titel: Die Protagonisten sind das aus der Sesamstraße bekannte Krümelmonster sowie der Fernsehkoch Steffen Henssler....
+Zum Beitrag: RTL+ und Super RTL zeigen „Krümelmonsters Foodie Truck mit Steffen Henssler“
+
+Zum Blog: Caschys Blog]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Xbox Series X: Das sind meine Top 5 der Spiele des Jahres 2022]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1142245</id>
+        <link href="https://stadt-bremerhaven.de/microsoft-xbox-series-x-das-sind-meine-top-5-der-spiele-des-jahres-2022/"/>
+        <updated>2023-01-01T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Willkommen im Jahr 2023 und damit auch zu einem kleinen Rückblick auf 2022: In diesem Beitrag stelle ich euch meine persönlichen Top-Spiele des Jahres 2022 für die Xbox Series X vor. „Überraschung“: Im Gegensatz zur Sony PlayStation 5 sind es...
+Zum Beitrag: Microsoft Xbox Series X: Das sind meine Top 5 der Spiele des Jahres 2022
+
+Zum Blog: Caschys Blog]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Umfrage Januar 2023: Welche Technik-Käufe planst du?]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1155070</id>
+        <link href="https://stadt-bremerhaven.de/umfrage-januar-2023-welche-technik-kaeufe-planst-du/"/>
+        <updated>2023-01-01T09:00:24.000Z</updated>
+        <summary type="html"><![CDATA[Frohes neues Jahr, frohe neue Umfrage: Gleich zu Anfang des frischen Jahres 2023 möchte ich euch nach euren Vorsätzen fragen. Nein, dabei soll es nicht darum geben, ob ihr 20 Kilo abnehmen, weniger Bier trinken oder endlich die Tinder-Swiperei aufgeben...
+Zum Beitrag: Umfrage Januar 2023: Welche Technik-Käufe planst du?
+
+Zum Blog: Caschys Blog]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Prime Video, Disney+, Freevee, Netflix und Sky: Das siehst du im Januar 2023]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1154919</id>
+        <link href="https://stadt-bremerhaven.de/amazon-prime-video-disney-freevee-netflix-und-sky-das-siehst-du-im-januar-2023/"/>
+        <updated>2023-01-01T07:00:46.000Z</updated>
+        <summary type="html"><![CDATA[Ich wünsche euch ein frohes, neues Jahr! Auch im Januar 2023 steht für den Monatsanfang natürlich wieder eine Zusammenfassung der neuen Streaming-Inhalte bei den üblichen Kandidaten auf dem Plan. Mit von der Partie sind also neben Amazon Prime Video und...
+Zum Beitrag: Amazon Prime Video, Disney+, Freevee, Netflix und Sky: Das siehst du im Januar 2023
+
+Zum Blog: Caschys Blog]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wochenrück- und Ausblick: Zwei Strom-Tracker und Zelda dominieren vor der CES 2023]]></title>
+        <id>https://www.computerbase.de/2023-01/wochenrueckblick-und-ausblick-2022-w52/</id>
+        <link href="https://www.computerbase.de/2023-01/wochenrueckblick-und-ausblick-2022-w52/"/>
+        <updated>2023-01-01T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/6/2/7/5-8174b6aed4992562/article-640x360.f77503df.jpg"><p>In der letzten Woche des vergangenen Jahres standen auf ComputerBase der Test zweier Strom-Tracker, die große Community-Umfrage, Zelda: Ocarina of Time auf Basis der Unreal Engine 5.1 und die in Kürze bevorstehende GeForce RTX 4070 Ti im Fokus. Die Redaktion wünscht derweil einen guten Start ins neue Jahr 2023.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Slimbook Kymera Ventus Black: Linux-Gaming-System mit Zen-4-CPUs und RDNA-3-GPUs]]></title>
+        <id>https://www.computerbase.de/2023-01/slimbook-kymera-ventus-black-amd-linux-gaming-system/</id>
+        <link href="https://www.computerbase.de/2023-01/slimbook-kymera-ventus-black-amd-linux-gaming-system/"/>
+        <updated>2023-01-01T06:30:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/6/2/7/8-29f8f85292bb8bf0/article-640x360.d8c0a7ae.jpg"><p>Der spanische Linux-Distributor Slimbook hat mit dem Kymera Ventus Black ein ganz auf Hardware von AMD ausgerichtetes Linux-Gaming-System mit Ryzen 7000 („Raphael“) auf Basis der Zen-4-Architektur und Radeon RX 7000 („RDNA 3“) vorgestellt. Neben den neuen Radeon RX 7900 XTX und 7900 XT (Test) arbeiten bis zu 16 Prozessorkerne.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Immer wieder sonntags KW 52]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1155428</id>
+        <link href="https://stadt-bremerhaven.de/immer-wieder-sonntags-kw-52-11/"/>
+        <updated>2023-01-01T05:30:51.000Z</updated>
+        <summary type="html"><![CDATA[Frohes neues Jahr wünsche ich allen Lesern! Das erste „Immer wieder sonntags“ für 2023 schlägt auf. Heute blicken wir natürlich noch in die letzten Neuigkeiten des Jahres 2022 zurück. Doch nächste Woche beginnt bereits die CES 2023 in Las Vegas...
+Zum Beitrag: Immer wieder sonntags KW 52
+
+Zum Blog: Caschys Blog]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Auswertung Umfrage Dezember 2022: Am 49-Euro-Ticket scheiden sich die Geister]]></title>
         <id>https://stadt-bremerhaven.de/?p=1154955</id>
@@ -10086,362 +10253,6 @@ Zum Blog: Caschys Blog
 Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
         <author>
             <name>Benjamin Mamerow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Auswertung Umfrage November 2022: Sky Deutschland hat es bei euch schwer]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1141382</id>
-        <link href="https://stadt-bremerhaven.de/auswertung-umfrage-november-2022-sky-deutschland-hat-es-bei-euch-schwer/"/>
-        <updated>2022-12-03T13:00:06.000Z</updated>
-        <summary type="html"><![CDATA[Im November 2022 hatte ich im Rahmen der monatlichen Umfrage bei euch nachgehakt: „Bleibst du Sky trotz Preiserhöhung treu?“ Anlass waren zum einen die jüngsten Preiserhöhungen für Bestandskunden, aber auch die anhaltenden Verkaufsgerüchte. Angesichts der aktuellen Wirtschaftslage schnallt da vielleicht...
-Zum Beitrag: Auswertung Umfrage November 2022: Sky Deutschland hat es bei euch schwer
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>André Westphal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[„Cobra Kai 2: Dojos Rising“ angespielt: Keine Gnade für Fans]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1140465</id>
-        <link href="https://stadt-bremerhaven.de/cobra-kai-2-dojos-rising-angespielt-keine-gnade-fuer-fans/"/>
-        <updated>2022-12-03T11:30:55.000Z</updated>
-        <summary type="html"><![CDATA[Das Spiel „Cobra Kai: The Karate Kid Saga Continues“ vom Flux Game Studio hat mir persönlich gut gefallen: Ich habe das Beat ‚em up mal in einem Sale für 10 Euro mitgenommen. Als Fan der Serie wurde ich da kurzweilig...
-Zum Beitrag: „Cobra Kai 2: Dojos Rising“ angespielt: Keine Gnade für Fans
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>André Westphal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitkom-Umfrage: Viele haben schon einmal den unerlaubten Blick in fremde Smartphones gewagt]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1141277</id>
-        <link href="https://stadt-bremerhaven.de/bitkom-umfrage-viele-haben-schon-einmal-den-unerlaubten-blick-in-fremde-smartphones-gewagt/"/>
-        <updated>2022-12-03T10:00:19.000Z</updated>
-        <summary type="html"><![CDATA[Das Handy der Liebsten in der Hand, sie gerade nicht anwesend und irgendwie steigt nicht nur die Langeweile, sondern auch die Neugier darauf, was sich so alles an Chatverläufen und Co. auf dem Gerät befinden könnte? Dann seid ihr durchaus...
-Zum Beitrag: Bitkom-Umfrage: Viele haben schon einmal den unerlaubten Blick in fremde Smartphones gewagt
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>Benjamin Mamerow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Android TV 13: Betriebssystem für smarte Fernsehgeräte erschienen]]></title>
-        <id>https://www.computerbase.de/2022-12/android-tv-os-13-erschienen/</id>
-        <link href="https://www.computerbase.de/2022-12/android-tv-os-13-erschienen/"/>
-        <updated>2022-12-03T09:06:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/9/5/9-1c2f0a2d8060d9d0/article-640x360.d3ac26ea.jpg"><p>Google hat mit Android TV (OS) 13 – oder auch Android 13 for TV – die neueste Version seines Betriebssystems für smarte Fernsehgeräte und Streaming-Hardware, die Sticks und Dongle, veröffentlicht, doch die Neuerungen halten sich in Grenzen. Viele der Hersteller haben ihre Gerätschaften gerade erst auf Android 12 angehoben.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Create with Alexa: Neues KI-Storytelling-Feature startet in den USA]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1140879</id>
-        <link href="https://stadt-bremerhaven.de/create-with-alexa-neues-ki-storytelling-feature-startet-in-den-usa/"/>
-        <updated>2022-12-03T08:30:50.000Z</updated>
-        <summary type="html"><![CDATA[„Create with Alexa“ nennt sich ein neues Feature, welches seit dem 29. November zumindest in den USA verfügbar gemacht worden ist. Damit lassen sich ad hoc jederzeit bunte Geschichten per Alexa kreieren. Hierbei hilft dann die KI, sodass immer neue...
-Zum Beitrag: Create with Alexa: Neues KI-Storytelling-Feature startet in den USA
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>Benjamin Mamerow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Xfce 4.18: Ressourcensparender Desktop erscheint noch diesen Monat]]></title>
-        <id>https://www.computerbase.de/2022-12/xfce-4-18-linux-desktop/</id>
-        <link href="https://www.computerbase.de/2022-12/xfce-4-18-linux-desktop/"/>
-        <updated>2022-12-03T08:17:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/9/5/8-aa0db98c6b48bc79/article-640x360.f491be1e.jpg"><p>Der ressourcensparende modulare Desktop Xfce erscheint am 15. Dezember in der neuesten finalen Version 4.18. Die Entwickler haben jetzt das voraussichtlich vorletzte Pre-Release für versierte Anwender zum Testen freigegeben. Der Xfce-Desktop soll seine ersten Schritte in Richtung des Display-Server-Protokolls Wayland machen.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Chrome: Update schließt aktiv ausgenutzte Sicherheitslücke]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1141491</id>
-        <link href="https://stadt-bremerhaven.de/google-chrome-update-schliesst-aktiv-ausgenutzte-sicherheitsluecke/"/>
-        <updated>2022-12-03T07:41:59.000Z</updated>
-        <summary type="html"><![CDATA[Anwender sollten einmal schauen, dass sie den Browser Chrome aktualisieren, sofern sie diesen im Einsatz haben. Der Stable-Channel wurde auf Version 108.0.5359.94 für Mac und Linux und 108.0.5359.94/.95 für Windows aktualisiert. Google schließt damit genau eine Lücke, die mit dem...
-Zum Beitrag: Google Chrome: Update schließt aktiv ausgenutzte Sicherheitslücke
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>caschy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ExplorerPatcher: Kann eure Windows-11-Arbeitsumgebung verbessern]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1140754</id>
-        <link href="https://stadt-bremerhaven.de/explorerpatcher-kann-eure-windows-11-arbeitsumgebung-verbessern/"/>
-        <updated>2022-12-03T07:00:47.000Z</updated>
-        <summary type="html"><![CDATA[Windows 11 ist schon eine Weile auf dem Markt, doch sind noch viele mit älteren Systemen unterwegs. Glaubt man Steam, dann sind ein Viertel aller Nutzer, die Steam installiert haben, mit Windows 11 unterwegs. Kommt man das erste Mal mit...
-Zum Beitrag: ExplorerPatcher: Kann eure Windows-11-Arbeitsumgebung verbessern
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>caschy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Im Test vor 15 Jahren: Die GeForce 8800 GTS 512 mit dem geheimen G92-Vollausbau]]></title>
-        <id>https://www.computerbase.de/2022-12/nvidia-geforce-8800-gts-512-test-rueckblick/</id>
-        <link href="https://www.computerbase.de/2022-12/nvidia-geforce-8800-gts-512-test-rueckblick/"/>
-        <updated>2022-12-03T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/9/5/0-8723a2c8eef09d42/article-640x360.3770c874.jpg"><p>Mit der GeForce 8800 GTS 512 (Test) präsentierte Nvidia vor 15 Jahren eine Grafikkarte mit dem Vollausbau der G92-GPU, die nicht mehr viel mit der ursprünglichen GeForce 8800 GTS gemein hatte. Im Vergleich mit GeForce 8800 GTX und Ultra war die neue GTS ein Balanceakt zwischen Preis und Leistung.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Internet Archive ab sofort auch mit Anwendungen und Co. vom PalmPilot]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1140869</id>
-        <link href="https://stadt-bremerhaven.de/internet-archive-ab-sofort-auch-mit-anwendungen-und-co-vom-palmpilot/"/>
-        <updated>2022-12-03T05:30:16.000Z</updated>
-        <summary type="html"><![CDATA[Gar nicht mal so selten haben wir hier im Blog das Internet Archive erwähnt, das ihr hier finden könnt und das sich als riesengroße Sammlung kostenloser Inhalte aus allen Ecken des Internets versteht. Ganz neu dabei sind nun aber auch...
-Zum Beitrag: Internet Archive ab sofort auch mit Anwendungen und Co. vom PalmPilot
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>Benjamin Mamerow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Android 13 für TV-Geräte ist fertig]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1141484</id>
-        <link href="https://stadt-bremerhaven.de/android-13-fuer-tv-geraete-ist-fertig/"/>
-        <updated>2022-12-02T19:45:40.000Z</updated>
-        <summary type="html"><![CDATA[Google hat die neueste Version von Android TV OS, Android 13 für den TV, veröffentlicht. Die Version bringt laut Google weitere Verbesserungen bei der Leistung und Zugänglichkeit, auch um Entwicklern zu helfen, ansprechende Apps für die nächste Generation von Fernsehern...
-Zum Beitrag: Android 13 für TV-Geräte ist fertig
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>caschy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google: Duplex on the Web wird noch dieses Jahr eingestellt]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1141474</id>
-        <link href="https://stadt-bremerhaven.de/google-duplex-on-the-web-wird-noch-dieses-jahr-eingestellt/"/>
-        <updated>2022-12-02T19:00:50.000Z</updated>
-        <summary type="html"><![CDATA[Google Duplex sagt womöglich dem einen oder anderen von euch noch etwas. Der Google Assistant ruft für euch und in eurem Namen Restaurants, den Frisör und so weiter an und vereinbart telefonisch Termine (und vice versa). Die Stimme des Assistant...
-Zum Beitrag: Google: Duplex on the Web wird noch dieses Jahr eingestellt
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>Benjamin Mamerow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AMD Radeon RX 7900 XTX & XT: PowerColor Hellhound bietet 14-Layer-PCB und 20 Phasen]]></title>
-        <id>https://www.computerbase.de/2022-12/powercolor-radeon-rx-7900-xtx-hellhound/</id>
-        <link href="https://www.computerbase.de/2022-12/powercolor-radeon-rx-7900-xtx-hellhound/"/>
-        <updated>2022-12-02T18:40:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/9/5/7-a0d83d91a2e21261/article-640x360.52059b14.jpg"><p>Der Hersteller PowerColor, seines Zeichens seit Jahren neben Sapphire der zweite große Exklusivpartner für Grafikkarten aus dem Hause AMD, hat seine Custom-Designs der Radeon RX 7900 XTX und 7900 XT aus der unterhalb der Red Devil positionierten Grafikkartenserie Hellhound offiziell vorgestellt und nennt erste Eckdaten.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Disney schickt Schauspieler mittels KI-Tool in eine Verjüngung]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1141440</id>
-        <link href="https://stadt-bremerhaven.de/disney-schickt-schauspieler-mittels-ki-tool-in-eine-verjuengung/"/>
-        <updated>2022-12-02T18:05:16.000Z</updated>
-        <summary type="html"><![CDATA[Fotorealistische, digitale Nachbearbeitung ist aus der Unterhaltungs- und Werbebranche nicht mehr wegzudenken. Das ist gerade im Filmbereich dann oftmals Handarbeit, wenn man jedes Frame einzeln bearbeiten muss. Inzwischen wird ja in vielen Teilen auch schon dazu übergegangen, Inhalte komplett mittels...
-Zum Beitrag: Disney schickt Schauspieler mittels KI-Tool in eine Verjüngung
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>Felix Frank</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AirJet-Kühler: Frore Systems kühlt Notebooks aktiv ohne Lüfter]]></title>
-        <id>https://www.computerbase.de/2022-12/airjet-kuehler-frore-systems-kuehlt-notebooks-aktiv-ohne-luefter/</id>
-        <link href="https://www.computerbase.de/2022-12/airjet-kuehler-frore-systems-kuehlt-notebooks-aktiv-ohne-luefter/"/>
-        <updated>2022-12-02T18:02:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/9/5/6-5fcdebf420d72898/article-640x360.1d6da8b0.jpg"><p>Gerade in kompakten Computern wie Notebooks ist die Leistungsdrosselung durch hohe Temperaturen ein Problem. Die Firma Frore Systems will es mit ihrem AirJet besser machen als herkömmliche Lüfterlösungen. Dabei erhält sie Rückendeckung vom führenden CPU-Hersteller Intel sowie von 116 Millionen US-Dollar Investorengeld.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Volkswagen: Neuer ID.3 soll hochwertiger sein und kostet viel mehr]]></title>
-        <id>https://www.computerbase.de/2022-12/volkswagen-neuer-id-3-soll-hochwertiger-sein-und-kostet-viel-mehr/</id>
-        <link href="https://www.computerbase.de/2022-12/volkswagen-neuer-id-3-soll-hochwertiger-sein-und-kostet-viel-mehr/"/>
-        <updated>2022-12-02T17:45:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/9/5/2-7f9decf3b6426022/article-640x360.af26798c.jpg"><p>Das vermeintliche E-Auto fürs Volk, der ID.3 von VW, erhält zum Frühjahr 2023 eine Frischzellenkur, die vor allem für ein hochwertigeres Interieur sorgen soll. Der Innenraum mit seinen teils minderwertigen Materialien war bislang ein Kritikpunkt. Die Preise schnellen jedoch schon heute um rund 6.000 Euro in die Höhe.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google: Testlauf für die Ende-zu-Ende-Verschlüsselung für Gruppenchats in der Messages-App]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1141442</id>
-        <link href="https://stadt-bremerhaven.de/google-testlauf-fuer-die-ende-zu-ende-verschluesselung-fuer-gruppenchats-in-der-messages-app/"/>
-        <updated>2022-12-02T17:24:15.000Z</updated>
-        <summary type="html"><![CDATA[Google hat verkündet, dass man die Ende-zu-Ende-Verschlüsselung für RCS-basierte (RCS: Rich Communication Services) Gruppenchats in der Messages-App testet. Das Unternehmen teilte mit, dass es diese Funktion in den kommenden Wochen für erste Nutzer, die am offenen Beta-Programm der App teilnehmen,...
-Zum Beitrag: Google: Testlauf für die Ende-zu-Ende-Verschlüsselung für Gruppenchats in der Messages-App
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>caschy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CPU-Gerüchte: Dreimal AMD Ryzen 7000X3D (fast) ohne Taktverlust]]></title>
-        <id>https://www.computerbase.de/2022-12/cpu-geruechte-dreimal-amd-ryzen-7000x3d-fast-ohne-taktverlust/</id>
-        <link href="https://www.computerbase.de/2022-12/cpu-geruechte-dreimal-amd-ryzen-7000x3d-fast-ohne-taktverlust/"/>
-        <updated>2022-12-02T16:44:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/9/5/4-765df2393b9d2af2/article-640x360.80457a76.jpg"><p>Über Twitter kommen Hinweise auf die zur CES 2023 erwarteten Ryzen 7000X3D, also jene Varianten der Zen-4-CPUs, die mit zusätzlichem L3-Cache bestückt sind. Demnach ist mit drei Modellen zu rechnen, die 8, 12 oder 16 Kerne besitzen.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mobilfunk: Besserer Empfang entlang der Bahnstrecke muss warten]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1141392</id>
-        <link href="https://stadt-bremerhaven.de/mobilfunk-besserer-empfang-entlang-der-bahnstrecke-muss-warten/"/>
-        <updated>2022-12-02T16:00:29.000Z</updated>
-        <summary type="html"><![CDATA[Nutzer der Bahn müssen sich noch etwas gedulden, wenn sie besseren Mobilfunkempfang erwarten. Ursprünglich war es seitens der Bahn geplant, mit dem Fahrplanwechsel im Dezember eine weitere 4G-Funkfrequenz in Zügen in Betrieb zu nehmen. Allerdings hat dem die Bundesnetzagentur widersprochen....
-Zum Beitrag: Mobilfunk: Besserer Empfang entlang der Bahnstrecke muss warten
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>caschy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Starlink: Weniger Satelliten der zweiten Generation als geplant dürfen ins All]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1141373</id>
-        <link href="https://stadt-bremerhaven.de/starlink-weniger-satelliten-der-zweiten-generation-als-geplant-duerfen-ins-all/"/>
-        <updated>2022-12-02T15:30:59.000Z</updated>
-        <summary type="html"><![CDATA[SpaceX darf sein Satelliten-Netzwerk weiter ausbauen. Nicht das erste Mal, doch natürlich darf nicht jeder einfach so seine Satelliten in den Orbit schießen. Die US-Kommunikationsbehörde FCC (Federal Communications Commission) hatte am Donnerstag SpaceX den Einsatz von bis zu 7.500 Starlink-Satelliten...
-Zum Beitrag: Starlink: Weniger Satelliten der zweiten Generation als geplant dürfen ins All
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>caschy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Callisto Protocol: Steam-Rezensionen sprechen von ruckelndem Desaster (Update)]]></title>
-        <id>https://www.computerbase.de/2022-12/the-callisto-protocol-steam-rezensionen-sprechen-von-ruckelndem-desaster/</id>
-        <link href="https://www.computerbase.de/2022-12/the-callisto-protocol-steam-rezensionen-sprechen-von-ruckelndem-desaster/"/>
-        <updated>2022-12-02T15:08:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/9/5/1-62b3bea3881e2c71/article-640x360.385e82a6.jpg"><p>The Callisto Protocol wurde bereits vor der heutigen Veröffentlichung kritisiert: Elementare Inhalte des Survival-Horrorspiels seien von vornherein hinter Season Pass und DLCs versteckt, lautete der Vorwurf. Zum Start adressieren negative Rezensionen aber ein anderes Thema: Das Spiel ruckele auf dem PC nur so vor sich hin.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mediacenter: Kodi 20 Beta 1 veröffentlicht]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1141353</id>
-        <link href="https://stadt-bremerhaven.de/mediacenter-kodi-20-beta-1-veroeffentlicht/"/>
-        <updated>2022-12-02T15:00:16.000Z</updated>
-        <summary type="html"><![CDATA[Solltet ihr Lust und Laune haben, dann lasst euch flott ins Boot holen: Mittlerweile ist das Mediacenter Kodi 20 erschienen – allerdings ist da erst einmal die erste Beta zu haben. Wer sich da berufen fühlt, auf irgendeiner Plattform eine...
-Zum Beitrag: Mediacenter: Kodi 20 Beta 1 veröffentlicht
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>caschy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple TV+: Teaser-Trailer zur Serie „Shrinking“ mit Jason Segel und Harrison Ford erschienen]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1141131</id>
-        <link href="https://stadt-bremerhaven.de/apple-tv-teaser-trailer-zur-serie-shrinking-mit-jason-segel-und-harrison-ford-erschienen/"/>
-        <updated>2022-12-02T14:30:41.000Z</updated>
-        <summary type="html"><![CDATA[Apple ist gerade dabei, mit den aus Ted Lasso bekannten Größen Bill Lawrence und Brett Goldstein und dem How-I-Met-Your-Mother-Star Jason Segel eine Serie namens „Shrinking“ zu produzieren. Während Goldstein und Lawrence das Drehbuch und die Produktion übernehmen, tritt Segel als Hauptdarsteller...
-Zum Beitrag: Apple TV+: Teaser-Trailer zur Serie „Shrinking“ mit Jason Segel und Harrison Ford erschienen
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>Olli</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intel Sapphire Rapids-WS: Profi-CPUs für Workstations & HEDT bieten 6 bis 56 Kerne]]></title>
-        <id>https://www.computerbase.de/2022-12/intel-sapphire-rapids-ws-profi-cpus-fuer-workstations-und-hedt-bieten-6-bis-56-kerne/</id>
-        <link href="https://www.computerbase.de/2022-12/intel-sapphire-rapids-ws-profi-cpus-fuer-workstations-und-hedt-bieten-6-bis-56-kerne/"/>
-        <updated>2022-12-02T14:23:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/9/4/9-7352f2d7d07dc10e/article-640x360.e9a900da.jpg"><p>Das Gesamtbild zu den kommenden Intel Sapphire Rapids-WS für Workstations und eventuell auch das HEDT-Segment fügt sich zusammen. Dabei könnten CPU-Modelle in zwei Serien erscheinen, die eine gesamte Bandbreite von geringen sechs oder acht bis hinauf zu 56 Kernen abdecken.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kalender-App Fantastical wird noch teurer]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1141346</id>
-        <link href="https://stadt-bremerhaven.de/kalender-app-fantastical-wird-noch-teurer/"/>
-        <updated>2022-12-02T14:00:26.000Z</updated>
-        <summary type="html"><![CDATA[Vor einigen Jahren war die Kalender-App Fantastical Favorit vieler Anwender. Die App, mittlerweile auf iPhone, iPad und Mac vorzufinden, wechselte dann auf das Abo-Modell. Prinzipiell nichts Schlechtes, denn so zahlt man nur, so lange man nutzt – und die Entwickler...
-Zum Beitrag: Kalender-App Fantastical wird noch teurer
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>caschy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Netzetag 2022: Telekom will FTTH-Ausbau und 5G-Netz beschleunigen]]></title>
-        <id>https://www.computerbase.de/2022-12/netzetag-2022-telekom-will-ftth-ausbau-und-5g-netz-beschleunigen/</id>
-        <link href="https://www.computerbase.de/2022-12/netzetag-2022-telekom-will-ftth-ausbau-und-5g-netz-beschleunigen/"/>
-        <updated>2022-12-02T13:53:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/9/4/8-0628cab75ab33c88/article-640x360.bb4f71cd.jpg"><p>Die Deutsche Telekom hat ihre selbst gesteckten Ziele für den FTTH-Ausbau in Deutschland nach oben angepasst. Ab 2024 soll eine Steigerung neu angebundener FTTH-Haushalte von 3 statt 2,5 Millionen pro Jahr erreicht werden. Bis 2030 seien 25 bis 30 Millionen eigens versorgte Haushalte geplant, gemeinsam mit dem Wettbewerb alle.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
         </author>
     </entry>
     <entry>
