@@ -2,10 +2,320 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://olivedrop.github.io/drop/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-02T01:33:52.944Z</updated>
+    <updated>2023-01-03T01:34:05.257Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://olivedrop.github.io/drop/index.html"/>
     <link rel="self" href="https://olivedrop.github.io/drop/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ultrabreite Samsung-Monitore: Odyssey Neo G9 mit 8K & 57 und Odyssey OLED G9 mit 49 Zoll]]></title>
+        <id>https://www.computerbase.de/2023-01/ultrabreite-samsung-monitore-odyssey-neo-g9-mit-8k-und-57-und-odyssey-oled-g9-mit-49-zoll/</id>
+        <link href="https://www.computerbase.de/2023-01/ultrabreite-samsung-monitore-odyssey-neo-g9-mit-8k-und-57-und-odyssey-oled-g9-mit-49-zoll/"/>
+        <updated>2023-01-02T21:59:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/6/3/0/0-683adfb367184792/article-640x360.fe0051d2.jpg"><p>Samsung stellt zur CES 2023 den neuen Odyssey Neo G9 mit 57 Zoll und 7.680 × 2.160 Pixeln (Dual UHD) sowie den Odyssey OLED G9 mit 49 Zoll großem OLED-Panel vor. Beide Displays nutzen ein Seitenverhältnis von 32:9 und sind gebogen, der neue, größere Neo G9 mit 1000R und der OLED G9 mit 1800R.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Archcraft: Distribution für Puristen mit Linux 6.1.1 und Herbstluft]]></title>
+        <id>https://www.computerbase.de/2023-01/archcraft-2023-01-01-linux-distribution-herbstluft/</id>
+        <link href="https://www.computerbase.de/2023-01/archcraft-2023-01-01-linux-distribution-herbstluft/"/>
+        <updated>2023-01-02T21:19:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/6/2/9/9-c79dca369418a1c8/article-640x360.9d2ce8ef.jpg"><p>Archcraft ist eine eher spartanisch ausgelegte moderne Linux-Distribution für Puristen, die auf den Systemkernel Linux 6.1.1 und diverse Fenstermanager, wie Openbox und Fluxbox sowie den exotischen Herbstluftwm, setzt. Insgesamt stehen gleich acht Window Manager sowie zwei ausgewachsene Desktops zur Auswahl bereit.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ELSA Erazor X: Inno3D hat die GeForce RTX 4070 Ti schon jetzt vorgestellt]]></title>
+        <id>https://www.computerbase.de/2023-01/archcraft-2023-01-01-linux-distribution/</id>
+        <link href="https://www.computerbase.de/2023-01/archcraft-2023-01-01-linux-distribution/"/>
+        <updated>2023-01-02T20:53:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/6/2/9/0-95613aa9bf82dfc7/article-640x360.b1867f4e.jpg"><p>Der Grafikkartenhersteller Inno3D, der unter dem Dach der PC Partner Group operiert, zu der unter anderem auch Zotac und Manli gehören, hat sich nicht an das Embargo von Nvidia gehalten und seine GeForce RTX 4070 Ti bereits jetzt offiziell vorgestellt. Dafür setzt das Unternehmen mit ELSA auf einen historischen Markennamen.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Controller for HomeKit 6.1 veröffentlicht]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1155719</id>
+        <link href="https://stadt-bremerhaven.de/controller-for-homekit-6-1-veroeffentlicht/"/>
+        <updated>2023-01-02T19:28:14.000Z</updated>
+        <summary type="html"><![CDATA[Im November 2022 wurde die Version 6.0 der App „Controller for HomeKit“ veröffentlicht. Nun folgt ein weiteres Funktions-Update auf die Version 6.1. Controller for HomeKit ist eine Software für iPad, iPhone, Apple Watch und den Mac mit Apple-Prozessor, die ich...
+Zum Beitrag: Controller for HomeKit 6.1 veröffentlicht
+
+Zum Blog: Caschys Blog]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KeePass 1.41 veröffentlicht: Kostenloser Passwortmanager]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1155699</id>
+        <link href="https://stadt-bremerhaven.de/keepass-1-41-veroeffentlicht-kostenloser-passwortmanager/"/>
+        <updated>2023-01-02T16:40:52.000Z</updated>
+        <summary type="html"><![CDATA[KeePass ist eine kostenlose, Open-Source-Passwortverwaltung, die es Benutzern ermöglicht, sichere Passwörter für alle ihre (Online-)Konten zu speichern und zu verwalten. Die Passwörter werden in einer verschlüsselten Datenbank gespeichert, die von einem Master-Passwort geschützt wird, das der Benutzer festlegt. Nutzer der...
+Zum Beitrag: KeePass 1.41 veröffentlicht: Kostenloser Passwortmanager
+
+Zum Blog: Caschys Blog]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Samsung zeigt neue Monitore der Reihen Odyssey, ViewFinity und Smart Monitor auf der CES 2023]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1155678</id>
+        <link href="https://stadt-bremerhaven.de/samsung-zeigt-neue-monitore-der-reihen-odyssey-viewfinity-und-smart-monitor-auf-der-ces-2023/"/>
+        <updated>2023-01-02T16:00:55.000Z</updated>
+        <summary type="html"><![CDATA[Samsung stellt dieses Jahr im Rahmen der CES 2023 auch mehrere neue Monitore seiner Reihen Odyssey, ViewFinity und Smart Monitor vor. Besonders auffällig ist da der Odyssey Neo G9, den es mit einem Curved-Display und sagenhaften 57 Zoll Diagonale im...
+Zum Beitrag: Samsung zeigt neue Monitore der Reihen Odyssey, ViewFinity und Smart Monitor auf der CES 2023
+
+Zum Blog: Caschys Blog]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Batterieserviceleistungen: Preise steigen auch beim MacBook und beim iPad]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1155681</id>
+        <link href="https://stadt-bremerhaven.de/batterieserviceleistungen-preise-steigen-auch-beim-macbook-und-beim-ipad/"/>
+        <updated>2023-01-02T15:30:29.000Z</updated>
+        <summary type="html"><![CDATA[Wir berichteten bereits darüber, dass Apple die Preise für die Batterieserviceleistungen bei iPhones, die sich nicht mehr im Garantiezeitraum befinden, anheben wird. Der Preis steigt auch beim MacBook und beim iPad, die neuen Preise sind wie beim iPhone ab dem...
+Zum Beitrag: Batterieserviceleistungen: Preise steigen auch beim MacBook und beim iPad
+
+Zum Blog: Caschys Blog]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Alexa: Webseite mit Datenschutzeinstellungen wurde überarbeitet]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1155672</id>
+        <link href="https://stadt-bremerhaven.de/amazon-alexa-webseite-mit-datenschutzeinstellungen-wurde-ueberarbeitet/"/>
+        <updated>2023-01-02T15:00:14.000Z</updated>
+        <summary type="html"><![CDATA[Wir konnten neulich schon darüber berichten, dass Amazon die Webseite für Alexa im Web weiter beschneiden wird. Dafür hat man aber mittlerweile an der Seite für den Alexa-Datenschutz gearbeitet.  Bekanntlich kann man aufgezeichnete Sprachbefehle mittels Sprachbefehl löschen (auch automatisch), man...
+Zum Beitrag: Amazon Alexa: Webseite mit Datenschutzeinstellungen wurde überarbeitet
+
+Zum Blog: Caschys Blog]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bitkom: Drei Viertel der Internetnutzer waren bereits von Cyber-Kriminalität betroffen]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1155645</id>
+        <link href="https://stadt-bremerhaven.de/bitkom-drei-viertel-der-internetnutzer-waren-bereits-von-cyber-kriminalitaet-betroffen/"/>
+        <updated>2023-01-02T14:30:37.000Z</updated>
+        <summary type="html"><![CDATA[Laut einer Bitkom-Umfrage waren ca. drei Viertel der deutschen Internetnutzer bereits in der ein oder anderen Form Opfer von Cyberkriminalität. Darunter fasst man neben Phishing- und Schadsoftware-Aktionen auch Betrug beim Online-Shopping oder z. B. Beleidigungen. Lediglich 22 Prozent der Befragten...
+Zum Beitrag: Bitkom: Drei Viertel der Internetnutzer waren bereits von Cyber-Kriminalität betroffen
+
+Zum Blog: Caschys Blog]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HomePass for HomeKit unterstützt Matter-Codes]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1155646</id>
+        <link href="https://stadt-bremerhaven.de/homepass-for-homekit-unterstuetzt-matter-codes/"/>
+        <updated>2023-01-02T14:00:56.000Z</updated>
+        <summary type="html"><![CDATA[HomePass for HomeKit ist eine App für macOS, iPadOS und iOS, die man durchaus als App für HomeKit-Enthusiasten bezeichnen kann. 3,49 Euro möchte der Entwickler dafür haben, dass ihr grundsätzlich eure HomeKit-Codes der im Haushalt befindlichen Geräte verwalten und über...
+Zum Beitrag: HomePass for HomeKit unterstützt Matter-Codes
+
+Zum Blog: Caschys Blog]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Postbank kämpft mit technischen Problemen]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1155667</id>
+        <link href="https://stadt-bremerhaven.de/postbank-kaempft-mit-technischen-problemen/"/>
+        <updated>2023-01-02T13:37:03.000Z</updated>
+        <summary type="html"><![CDATA[Wir berichteten schon vorab über die neue Postbank-App, die im Zuge der Systemumstellung Pflichtprogramm wird und den Finanzassistent ablöst. Diese Umstellung läuft aber mitnichten planmäßig, denn zahlreiche Kunden können sich nicht einloggen. Die Fehler sind unterschiedlicher Natur, mal scheitert das...
+Zum Beitrag: Postbank kämpft mit technischen Problemen
+
+Zum Blog: Caschys Blog]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LineageOS 20 (Android 13) startet]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1155639</id>
+        <link href="https://stadt-bremerhaven.de/lineageos-20-android-13-startet/"/>
+        <updated>2023-01-02T13:30:37.000Z</updated>
+        <summary type="html"><![CDATA[LineageOS steht mittlerweile in der Version 20 zur Verfügung. Die neue Version des Betriebssystems basiert auf Android 13. Freilich solltet ihr im Idealfall ein offiziell als kompatibles Gerät aufgeführtes Smartphone oder auch Tablet nutzen, um LineageOS 20 zu verwenden. Beispielsweise...
+Zum Beitrag: LineageOS 20 (Android 13) startet
+
+Zum Blog: Caschys Blog]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Windows 10 weiterhin sehr beliebt]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1155620</id>
+        <link href="https://stadt-bremerhaven.de/microsoft-windows-10-weiterhin-sehr-beliebt/"/>
+        <updated>2023-01-02T13:00:38.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft hat im Oktober 2022 die zweite Stufe des Rollouts für das große Update auf Windows 11 Version 22H2 losgetreten, rund 1 Jahr nach der Veröffentlichung der ersten Version von Windows 11. Wie jeden Monat werfen wir einen Blick auf...
+Zum Beitrag: Microsoft Windows 10 weiterhin sehr beliebt
+
+Zum Blog: Caschys Blog]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FTC-Klage gegen Microsofts Übernahme von Activision Blizzard: Erste Anhörung findet morgen statt]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1155626</id>
+        <link href="https://stadt-bremerhaven.de/ftc-klage-gegen-microsofts-uebernahme-von-activision-blizzard-erste-anhoerung-findet-morgen-statt/"/>
+        <updated>2023-01-02T12:30:57.000Z</updated>
+        <summary type="html"><![CDATA[Die US-Behörde Federal Trade Commission (FTC) klagt gegen die geplante Übernahme von Activision Blizzard durch Microsoft. Eine erste Anhörung findet vor der eigentlichen Gerichtsverhandlung bereits morgen statt, wie Reuters berichtet. Dabei vertritt die FTC die Position, die Übernahme würde dem...
+Zum Beitrag: FTC-Klage gegen Microsofts Übernahme von Activision Blizzard: Erste Anhörung findet morgen statt
+
+Zum Blog: Caschys Blog]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Der SWR übernimmt ab sofort den ARD-Vorsitz]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1155618</id>
+        <link href="https://stadt-bremerhaven.de/der-swr-uebernimmt-ab-sofort-den-ard-vorsitz/"/>
+        <updated>2023-01-02T12:00:24.000Z</updated>
+        <summary type="html"><![CDATA[Der SWR (Südwestrundfunk) übernimmt ab sofort den ARD-Vorsitz. Der SWR-Intendant Kai Gniffke löst damit Tom Buhrow (Westdeutscher Rundfunk) als ARD-Vorsitzenden ab. Dabei wirbt Gniffke natürlich im eigenen Interesse für den öffentlich-rechtlichen Rundfunk und die Agenda, die Zukunft nicht ausländischen Tech-Konzernen...
+Zum Beitrag: Der SWR übernimmt ab sofort den ARD-Vorsitz
+
+Zum Blog: Caschys Blog]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[realme UI 4.0: Verteilung an die GT Neo 3T und narzo 50 Pro startet]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1155588</id>
+        <link href="https://stadt-bremerhaven.de/realme-ui-4-0-verteilung-an-die-gt-neo-3t-und-narzo-50-pro-startet/"/>
+        <updated>2023-01-02T11:30:26.000Z</updated>
+        <summary type="html"><![CDATA[realme hat mitgeteilt, dass man realme UI 4.0, basierend auf Android 13, für weitere Geräte verteilt. Konkret kommen sowohl das realme GT Neo 3T als auch das realme narzo 50 Pro 5G in den Genuss. Die Verteilung der neuen Firmwares...
+Zum Beitrag: realme UI 4.0: Verteilung an die GT Neo 3T und narzo 50 Pro startet
+
+Zum Blog: Caschys Blog]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iPhone-Batterieservice: Preise steigen für Geräte außerhalb der Garantie]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1155627</id>
+        <link href="https://stadt-bremerhaven.de/iphone-batterieservice-preise-steigen-fuer-geraete-ausserhalb-der-garantie/"/>
+        <updated>2023-01-02T11:12:24.000Z</updated>
+        <summary type="html"><![CDATA[Apple hebt die Preise für den iPhone-Batterieservice an. Allerdings nicht bei allen Geräten, sondern bei iPhones außerhalb der Garantie. Die aktuelle Gebühr für Batterieserviceleistungen außerhalb der Garantie gilt bis Ende Februar 2023. Am 1. März 2023 wird die Gebühr für...
+Zum Beitrag: iPhone-Batterieservice: Preise steigen für Geräte außerhalb der Garantie
+
+Zum Blog: Caschys Blog]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bowers & Wilkins Pi7 S2: Neue In-Ear-Kopfhörer mit aptX sickern durch]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1155613</id>
+        <link href="https://stadt-bremerhaven.de/bowers-wilkins-pi7-s2-neue-in-ear-kopfhoerer-mit-aptx-sickern-durch/"/>
+        <updated>2023-01-02T11:00:36.000Z</updated>
+        <summary type="html"><![CDATA[Bowers & Wilkins plant mit den Pi7 S2 offenbar neue In-Ear-Kopfhörer. Zumindest ist dieses Modell durchgesickert. Erste Leaks bescheinigen diesen TWS-Earbuds 9,2-mm-Treiber, adaptive Geräuschunterdrückung (ANC) sowie Qualcomm aptX – neben AAC und SBC als Codecs. Zudem sollen drei Mikrofone für...
+Zum Beitrag: Bowers & Wilkins Pi7 S2: Neue In-Ear-Kopfhörer mit aptX sickern durch
+
+Zum Blog: Caschys Blog]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LG UltraGear 45GR95QE: OLED-Monitor mit Unterstützung für DTS:X für Kopfhörer]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1155593</id>
+        <link href="https://stadt-bremerhaven.de/lg-45gr95qe-oled-monitor-mit-unterstuetzung-fuer-dtsx-fuer-kopfhoerer/"/>
+        <updated>2023-01-02T10:30:32.000Z</updated>
+        <summary type="html"><![CDATA[LG hat heute nicht nur bereits über seine OLED-TVs des Jahres 2023 gesprochen, sondern ebenfalls schon vor einigen Tagen Angaben zum OLED-Monitor UltraGear 45GR95QE getätigt. Dieses Modell für Gamer kommt im Ultrawide-Format daher und unterstützt DTS:X für Kopfhörer. Die Diagonale...
+Zum Beitrag: LG UltraGear 45GR95QE: OLED-Monitor mit Unterstützung für DTS:X für Kopfhörer
+
+Zum Blog: Caschys Blog]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ikea: Neue Symfonisk-Fernbedienung kostet 15,99 Euro]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1155603</id>
+        <link href="https://stadt-bremerhaven.de/ikea-neue-symfonisk-fernbedienung-kostet-1599-euro/"/>
+        <updated>2023-01-02T10:00:23.000Z</updated>
+        <summary type="html"><![CDATA[Ikea Symfonisk ist eine Reihe von kabellosen Lautsprechern, die von Ikea in Zusammenarbeit mit Sonos entwickelt wurden. Die Symfonisk-Lautsprecher sind in verschiedenen Größen und Stilen erhältlich, sie können über WLAN mit anderen kompatiblen Geräten verbunden werden und können Musik von...
+Zum Beitrag: Ikea: Neue Symfonisk-Fernbedienung kostet 15,99 Euro
+
+Zum Blog: Caschys Blog]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft OneDrive: Fehler sorgt für Störungen]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1155608</id>
+        <link href="https://stadt-bremerhaven.de/microsoft-onedrive-fehler-sorgt-fuer-stoerungen/"/>
+        <updated>2023-01-02T09:53:00.000Z</updated>
+        <summary type="html"><![CDATA[Solltet ihr Microsoft OneDrive nutzen, dann könnte es sein, dass ihr derzeit Probleme mit dem Dienst habt. Microsoft hat am Morgen des 2. Januar die OneDrive-Statusseite dahingehend aktualisiert, dass man Kunden mitteilt, dass es derzeit Probleme gibt. Die drücken sich...
+Zum Beitrag: Microsoft OneDrive: Fehler sorgt für Störungen
+
+Zum Blog: Caschys Blog]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LG OLED 2023: QMS-VRR und Serien C3, G3 und Z3 bestätigt]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1155597</id>
+        <link href="https://stadt-bremerhaven.de/lg-oled-2023-qms-vrr-und-serien-c3-g3-und-z3-bestaetigt/"/>
+        <updated>2023-01-02T09:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Noch vor der CES 2023 hat LG über die kommenden OLED-TVs des Jahres 2023 gesprochen. Dabei bestätigt der Hersteller bereits einige, interessante Details. So werden die neuen TV-Modelle erstmals QMS-VRR unterstützten. Das ist eine Funktion, die etwa auch der aktuelle...
+Zum Beitrag: LG OLED 2023: QMS-VRR und Serien C3, G3 und Z3 bestätigt
+
+Zum Blog: Caschys Blog]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Atlus will 2023 mehrere neue Games vorstellen]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1155583</id>
+        <link href="https://stadt-bremerhaven.de/atlus-will-2023-mehrere-neue-games-vorstellen/"/>
+        <updated>2023-01-02T09:00:55.000Z</updated>
+        <summary type="html"><![CDATA[Die Japaner von Atlus  machen immer wieder Spiele, die etwas aus dem Rahmen fallen und gerade deswegen ihre Fans haben. Am bekanntesten ist vermutlich ihre Reihe „Persona“, deren Erfolg insbesondere mit Teil 5 neue Höhen erklommen hat. 2023 will das...
+Zum Beitrag: Atlus will 2023 mehrere neue Games vorstellen
+
+Zum Blog: Caschys Blog]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Radeon RX 7900 XTX: Temperaturprobleme zwingen AMD jetzt doch zum Handeln (Update)]]></title>
+        <id>https://www.computerbase.de/2023-01/amd-radeon-rx-7900-xtx-temperaturprobleme-hotspot/</id>
+        <link href="https://www.computerbase.de/2023-01/amd-radeon-rx-7900-xtx-temperaturprobleme-hotspot/"/>
+        <updated>2023-01-02T07:30:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/6/2/8/4-f521ba4dec9a2f19/article-640x360.243eb049.jpg"><p>Die AMD Radeon RX 7900 XTX (Test), genauer gesagt das MBA-Design („Made by AMD“) wird heiß. Vereinzelt sogar zu heiß, wie der Hersteller nun nach ersten Dementi eingestehen muss. Betroffen sind sowohl vereinzelte Grafikkarten im Referenzdesign als auch Partnerkarten auf Basis des von AMD entworfenen Layouts.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Payday 3: Knapper Teaser datiert Steam-Release auf dieses Jahr]]></title>
+        <id>https://www.computerbase.de/2023-01/payday-3-knapper-teaser-datiert-steam-release-auf-dieses-jahr/</id>
+        <link href="https://www.computerbase.de/2023-01/payday-3-knapper-teaser-datiert-steam-release-auf-dieses-jahr/"/>
+        <updated>2023-01-02T06:30:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/6/2/8/5-4e0fa1f6c8e5d599/article-640x360.6e11abd5.jpg"><p>Direkt zum Beginn des neuen Jahres 2023 verkündet Starbreeze: Der lang erwartete Koop-Shooter Payday 3 soll dieses Jahr erscheinen – und zwar auch auf Steam, wo sich das Actionspiel bereits zur eigenen Wunschliste hinzufügen wird. Zwar gibt es zur vagen Ankündigung einen knappen Teaser, viel zu entnehmen ist dem aber nicht.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Der Cloud-Gaming-Rückblick am Sonntag – der erste für 2023]]></title>
         <id>https://stadt-bremerhaven.de/?p=1155527</id>
@@ -10004,248 +10314,6 @@ Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
         <updated>2022-12-04T14:30:42.000Z</updated>
         <summary type="html"><![CDATA[Auf der Suche nach einem neuen, kabelgebundenen Festnetztelefon für daheim? Gigaset erweitert seine DESK-Geräteserie um neue Modelle. Den Anfang macht das hörgerätekompatible DESK 400, das ab Anfang Dezember in Deutschland vertrieben wird. Mit den Modellen DESK 200, 600 und 800A...
 Zum Beitrag: Gigaset erweitert Festnetz-Geräteserie DESK um vier neue Modelle
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>Benjamin Mamerow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta: Supportseite gibt Auskunft, ob eure Telefonnummer beim Konzern verwaltet wird]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1141092</id>
-        <link href="https://stadt-bremerhaven.de/meta-supportseite-gibt-auskunft-ob-eure-telefonnummer-beim-konzern-verwaltet-wird/"/>
-        <updated>2022-12-04T13:00:52.000Z</updated>
-        <summary type="html"><![CDATA[Es ist bei Weitem keine Neuigkeit mehr, dass Meta, damit also auch Facebook und alle anderen Dienste des Unternehmens, nicht nur die Kontaktdaten der eigenen Nutzer verwaltet, sondern auch diejenigen Daten, die Nutzer in ihren persönlichen Kontaktbüchern auf ihren Endgeräten...
-Zum Beitrag: Meta: Supportseite gibt Auskunft, ob eure Telefonnummer beim Konzern verwaltet wird
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>Benjamin Mamerow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CB-Screenshotwettbewerb: Begebt euch in Spielen abseits ausgetretener Pfade [Notiz]]]></title>
-        <id>https://www.computerbase.de/2022-12/cb-screenshotwettbewerb-begebt-euch-in-spielen-abseits-ausgetretener-pfade/</id>
-        <link href="https://www.computerbase.de/2022-12/cb-screenshotwettbewerb-begebt-euch-in-spielen-abseits-ausgetretener-pfade/"/>
-        <updated>2022-12-04T12:12:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/9/6/1-a7ee1b99f71b8aa7/article-640x360.47beb16c.jpg"><p>Im Oktober 2022 nahm der Screenshotwettbewerb der ComputerBase-Community nach einer Sommerpause einen neuen Anlauf. Über sechs Monate werden Wettbewerbe abgehalten, in Rahmen derer sich bis inklusive März 2023 Punkte sammeln lassen. Diesmal werden Aufnahmen zum Thema „Abseits ausgetretener Pfade“ gesucht.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Das Oppo Find N im Test]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1141107</id>
-        <link href="https://stadt-bremerhaven.de/das-oppo-find-n-im-test/"/>
-        <updated>2022-12-04T11:30:40.000Z</updated>
-        <summary type="html"><![CDATA[Foldable Smartphones werden wieder populär und wie man jüngst in meinem umfangreichen Testbericht zum Samsung Galaxy Z Flip4 lesen konnte, bin ich alles andere als abgeneigt. Gerade für jemanden, der in der Regel immer Apple- Geräte als Daily Driver einsetzt,...
-Zum Beitrag: Das Oppo Find N im Test
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>Timo Schmidt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[30 Jahre SMS: Nutzt ihr noch SMS? Und wenn ja, wie?]]></title>
-        <id>https://www.computerbase.de/2022-12/30-jahre-sms-umfrage/</id>
-        <link href="https://www.computerbase.de/2022-12/30-jahre-sms-umfrage/"/>
-        <updated>2022-12-04T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/9/4/0-bb4314541c9e5bb9/article-640x360.61e2fc82.jpg"><p>Mit dieser Sonntagsfrage möchte die Redaktion von euch erfahren, ob und wie ihr dem Short Message Service noch heute – 30 Jahre nach der ersten an ein Mobiltelefon verschickten SMS – eine Daseinsberechtigung gebt. Sendet ihr noch selbst SMS? Oder empfangt ihr sie lediglich aus automatisierter Quelle?</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Versteckdose: Friends-of-Hue-Funkschalter nun mit Klebemontage und Überbaurahmen erhältlich]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1141224</id>
-        <link href="https://stadt-bremerhaven.de/versteckdose-friends-of-hue-funkschalter-nun-mit-klebemontage-und-ueberbaurahmen-erhaeltlich/"/>
-        <updated>2022-12-04T10:00:46.000Z</updated>
-        <summary type="html"><![CDATA[Als die Versteckdose auf den Markt kam, widmete man sich damals einem gängigen Problem der Nutzer smarter Leuchtmittel: Der herkömmliche Lichtschalter beraubt das smarte Leuchtmittel seiner Funkfähigkeit. Vom Strom getrennt, lässt sich dieses nicht mehr per App, Automation oder Sprachassistent...
-Zum Beitrag: Versteckdose: Friends-of-Hue-Funkschalter nun mit Klebemontage und Überbaurahmen erhältlich
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>Felix Frank</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitkom-Umfrage: Online-Terminbuchungen werden von gut einem Drittel der Deutschen genutzt]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1141280</id>
-        <link href="https://stadt-bremerhaven.de/bitkom-umfrage-online-terminbuchungen-werden-von-gut-einem-drittel-der-deutschen-genutzt/"/>
-        <updated>2022-12-04T08:30:27.000Z</updated>
-        <summary type="html"><![CDATA[Der eine oder andere von euch hat das sicher auch schon gemacht: Statt lange darauf warten zu müssen, den Arzt für einen Termin telefonisch zu erreichen, greift man flott zum Handy und bucht online seinen Termin. Dann geht es euch...
-Zum Beitrag: Bitkom-Umfrage: Online-Terminbuchungen werden von gut einem Drittel der Deutschen genutzt
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>Benjamin Mamerow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wochenrück- und Ausblick: Jeder zweite ComputerBase-Leser kauft Spiele bei Keysellern]]></title>
-        <id>https://www.computerbase.de/2022-12/wochenrueckblick-und-ausblick-2022-w48/</id>
-        <link href="https://www.computerbase.de/2022-12/wochenrueckblick-und-ausblick-2022-w48/"/>
-        <updated>2022-12-04T08:30:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/9/5/3-7b88ed016206a899/article-640x360.7e23eb33.jpg"><p>Im wöchentlichen Rückblick auf die vergangenen sieben Tage steht heute die 48. Woche 2022 im Fokus. Es sind 69 News/Notizen und 7 Tests/Berichte erschienen. Welche davon haben die ComputerBase-Leser besonders interessiert? Was empfiehlt sich als Wochenendlektüre?</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fahrerloses Parksystem von Bosch und Mercedes-Benz erhält Genehmigung für Serieneinsatz]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1140971</id>
-        <link href="https://stadt-bremerhaven.de/fahrerloses-parksystem-von-bosch-und-mercedes-benz-erhaelt-genehmigung-fuer-serieneinsatz/"/>
-        <updated>2022-12-04T07:00:39.000Z</updated>
-        <summary type="html"><![CDATA[Bosch und Mercedes-Benz feiern laut eigenen Angaben gemeinsam eine Premiere: Man hat eine Genehmigung für den Serieneinsatz seines Automated Valet Parking erhalten. In Kürze soll der Dienst also am APCOA Parkhaus P6 am Flughafen Stuttgart starten. Über das Projekt hatte...
-Zum Beitrag: Fahrerloses Parksystem von Bosch und Mercedes-Benz erhält Genehmigung für Serieneinsatz
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>André Westphal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Immer wieder sonntags KW 48]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1141347</id>
-        <link href="https://stadt-bremerhaven.de/immer-wieder-sonntags-kw-48-10/"/>
-        <updated>2022-12-04T05:30:13.000Z</updated>
-        <summary type="html"><![CDATA[Zunächst wünsche ich allen Lesern einen angenehmen 2. Advent und dass ihr vielleicht schon die ersten Weihnachtseinkäufe stressfrei über die Bühne bringen konntet. Die Technikwelt bietet dafür ja laufend neue Vorschläge an. Das war natürlich auch in der aktuellen Woche...
-Zum Beitrag: Immer wieder sonntags KW 48
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>André Westphal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Last Of Us: Der offizielle Trailer ist da]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1141507</id>
-        <link href="https://stadt-bremerhaven.de/the-last-of-us-der-offizielle-trailer-ist-da/"/>
-        <updated>2022-12-03T20:43:26.000Z</updated>
-        <summary type="html"><![CDATA[Einen Teaser gibt es schon, nun folgt der nicht wirklich längere, offizielle Trailer des kommenden HBO-Spektakels, auf welches sich sicherlich viele freuen. Der offizielle Trailer von „The Last Of Us“ wurde anlässlich des CCXP22 Panes in Sao Paulo, Brasilien, veröffentlicht....
-Zum Beitrag: The Last Of Us: Der offizielle Trailer ist da
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>caschy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intel zum IEDM 2022: Höher, Schneller und Weiter in der Chipindustrie]]></title>
-        <id>https://www.computerbase.de/2022-12/intel-zum-iedm-2022-hoeher-schneller-und-weiter-in-der-chipindustrie/</id>
-        <link href="https://www.computerbase.de/2022-12/intel-zum-iedm-2022-hoeher-schneller-und-weiter-in-der-chipindustrie/"/>
-        <updated>2022-12-03T20:03:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/9/0/2-365ce7427ac3d9ec/article-640x360.3a8e2303.jpg"><p>Zum Forschungskongress IEDM hat Intel dieses Jahr gleich neun Vorträge im Gepäck. Sie zeigen Teile einer möglichen Zukunft der Industrie für die nächsten 10 Jahre. Wie üblich sind exakte Übernahmen selten, Teile der Forschung werden jedoch mit anderen verknüpft um irgendwann wirklich in Produkten zu finden sein.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[THE WITCHER: BLOOD ORIGIN: Trailer veröffentlicht]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1141504</id>
-        <link href="https://stadt-bremerhaven.de/the-witcher-blood-origin-trailer-veroeffentlicht/"/>
-        <updated>2022-12-03T20:02:23.000Z</updated>
-        <summary type="html"><![CDATA[Netflix hat den offiziellen Trailer für The Witcher: Blood Origin veröffentlicht. Dieser gibt einen Einblick in die mystische Elfenwelt lange vor der Zeit des uns als The Witcher bekannten Geralt von Riva und enthüllt außerdem, dass Joey Batey auch in...
-Zum Beitrag: THE WITCHER: BLOOD ORIGIN: Trailer veröffentlicht
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>caschy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ownCloud 2.0 ohne Datenbank: Infinite Scale nach vier Jahren Entwicklung erschienen]]></title>
-        <id>https://www.computerbase.de/2022-12/owncloud-infinite-scale-release/</id>
-        <link href="https://www.computerbase.de/2022-12/owncloud-infinite-scale-release/"/>
-        <updated>2022-12-03T19:51:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/9/6/0-75379616f9350ccd/article-640x360.758cce5e.jpg"><p>Die Cloud-Software ownCloud Infinite Scale („oCIS“) – oder auch ownCloud 2.0 – ist jetzt nach über vier Jahren Entwicklungszeit offiziell erschienen. Sie kommt dabei gänzlich ohne Datenbank und Webserver aus. Damit fallen die Limitierungen des bisherigen Ansatzes erstmals zu Gunsten der nativen Cloud-Compute-Technology weg.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ein erster Blick auf den Beelink GTR6 6900HX]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1140718</id>
-        <link href="https://stadt-bremerhaven.de/ein-erster-blick-auf-den-beelink-gtr6-6900hx/"/>
-        <updated>2022-12-03T19:00:07.000Z</updated>
-        <summary type="html"><![CDATA[Neulich erst vorgestellt – und schon in den letzten zwei Wochen auf meinem Schreibtisch, um sein Tagewerk zu verrichten: der Beelink GTR6 6900HX. Doch worum geht es eigentlich? Bei den Geräten von Beelink handelt es sich um Mini-PCs. Computer, die...
-Zum Beitrag: Ein erster Blick auf den Beelink GTR6 6900HX
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>caschy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Roccat Kone XP Air im Test]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1141414</id>
-        <link href="https://stadt-bremerhaven.de/roccat-kone-xp-air-im-test/"/>
-        <updated>2022-12-03T17:30:46.000Z</updated>
-        <summary type="html"><![CDATA[Der Hamburger Peripherie-Hersteller Roccat konnte bereits in der Vergangenheit mit Verarbeitungsqualität und innovativen Designs glänzen. Mit der Kone XP Air erschien eine Ausführung der allseits beliebten Roccat-Kone-Mäuse in gewohnt ergonomischer Form, mit neuen Funktionen und RGB-Beleuchtung. Der Preis fällt gehoben...
-Zum Beitrag: Roccat Kone XP Air im Test
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>Timo Schmidt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Umfrage Dezember 2022: Wirst du 2023 das 49-Euro-Ticket nutzen?]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1141389</id>
-        <link href="https://stadt-bremerhaven.de/umfrage-dezember-2022-wirst-du-2023-das-49-euro-ticket-nutzen/"/>
-        <updated>2022-12-03T16:00:05.000Z</updated>
-        <summary type="html"><![CDATA[Noch ist ungewiss, wann es im nächsten Jahr exakt starten wird. Klar ist aber, dass es kommt: das 49-Euro-Ticket. Es ist der indirekte Nachfolger des 9-Euro-Tickets, das es in diesem Jahr für drei Monate gegeben hatte und welches auf enorme...
-Zum Beitrag: Umfrage Dezember 2022: Wirst du 2023 das 49-Euro-Ticket nutzen?
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>André Westphal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Smartwatch-Markt in Europa rückläufig, dafür zieht Indien an allen vorbei]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1141083</id>
-        <link href="https://stadt-bremerhaven.de/smartwatch-markt-in-europa-ruecklaeufig-dafuer-zieht-indien-an-allen-vorbei/"/>
-        <updated>2022-12-03T14:30:56.000Z</updated>
-        <summary type="html"><![CDATA[Bei den Analysten von Counterpoint Research gibt es neue Zahlen bezüglich der weltweiten Verkaufszahlen von Smartwatches, wobei sich der aktuelle Bericht vorrangig auf den indischen Markt bezieht, der nämlich mal eben um satte 171 % im Vergleich zum Vorjahr gewachsen...
-Zum Beitrag: Smartwatch-Markt in Europa rückläufig, dafür zieht Indien an allen vorbei
 
 Zum Blog: Caschys Blog
 
