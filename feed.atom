@@ -2,10 +2,550 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://olivedrop.github.io/drop/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-05T01:38:50.263Z</updated>
+    <updated>2023-01-06T01:39:13.263Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://olivedrop.github.io/drop/index.html"/>
     <link rel="self" href="https://olivedrop.github.io/drop/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Epic Games Store: Kerbal Space Program bis 12. Januar kostenlos zu bekommen]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1156495</id>
+        <link href="https://stadt-bremerhaven.de/epic-games-store-kerbal-space-program-bis-12-januar-kostenlos-zu-bekommen/"/>
+        <updated>2023-01-05T20:45:22.000Z</updated>
+        <summary type="html"><![CDATA[Im Epic Games Store gibt es immer mal wieder unterschiedliche Spiele für lau abzugreifen. Im heutigen Fall ist das das Spiel „Kerbal Space Program„, das normalerweise knapp 40 Euro kosten soll. Kerbal Space Program (KSP) ist ein Weltraum-Simulationsspiel, in dem...
+Zum Beitrag: Epic Games Store: Kerbal Space Program bis 12. Januar kostenlos zu bekommen
+
+Zum Blog: Caschys Blog]]></summary>
+        <author>
+            <name>Benjamin Mamerow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft PowerToys 0.66 sind verfügbar]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1156474</id>
+        <link href="https://stadt-bremerhaven.de/microsoft-powertoys-0-66-sind-verfuegbar/"/>
+        <updated>2023-01-05T20:30:35.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft PowerToys ist eine Sammlung von Tools und Utilities, die entwickelt wurden, um die Leistungsfähigkeit und Benutzerfreundlichkeit von Windows zu verbessern. Die Tools umfassen Funktionen wie eine Bildschirmlupe, einen Schnellzugriff auf häufig verwendete Dateien und Ordner, eine Echtzeit-Überwachung von Dateisystemänderungen...
+Zum Beitrag: Microsoft PowerToys 0.66 sind verfügbar
+
+Zum Blog: Caschys Blog]]></summary>
+        <author>
+            <name>Benjamin Mamerow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Browser: Firefox 108.0.2 ist da]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1156437</id>
+        <link href="https://stadt-bremerhaven.de/browser-firefox-108-0-2-ist-da/"/>
+        <updated>2023-01-05T20:15:23.000Z</updated>
+        <summary type="html"><![CDATA[Nachdem Mozilla für den beliebten Browser Firefox vor den Feiertagen ein Bugfix-Update auf Version 108.0.1 veröffentlicht hat, folgen im Rahmen von 108.0.2 nun weitere Fehlerbehebungen. Wie erwartet, fällt auch da das Changelog entsprechend dünn aus. Mozilla gibt an, einen Absturzfehler...
+Zum Beitrag: Browser: Firefox 108.0.2 ist da
+
+Zum Blog: Caschys Blog]]></summary>
+        <author>
+            <name>Felix Frank</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mercedes-Benz: Distronic kann langsamere Autos automatisch überholen]]></title>
+        <id>https://www.computerbase.de/2023-01/mercedes-benz-distronic-kann-langsamere-autos-automatisch-ueberholen/</id>
+        <link href="https://www.computerbase.de/2023-01/mercedes-benz-distronic-kann-langsamere-autos-automatisch-ueberholen/"/>
+        <updated>2023-01-05T20:15:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/6/3/3/2-5408ed44d06abf91/article-640x360.7d4a1ed5.jpg"><p>Zur CES stellt Mercedes-Benz eine erweiterte Funktionalität der Distronic in Aussicht, die künftig auch automatische Spurwechsel durchführen soll. Der Hersteller will das Level-2-Feature noch im Laufe dieses Jahres in Nordamerika einführen. Zudem wird der Drive Pilot nach Level 3 in den USA auf Kalifornien und Nevada erweitert.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Volkswagen ID.7: Limousine im digitalen Camouflage-Look]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1156387</id>
+        <link href="https://stadt-bremerhaven.de/volkswagen-id-7-limousine-im-digitalen-camouflage-look/"/>
+        <updated>2023-01-05T20:00:20.000Z</updated>
+        <summary type="html"><![CDATA[Volkswagen zeigt auf der CES 2023 mit dem ID.7 eine Limousine im digitalen Camouflage-Look. Es handelt sich hier um ein E-Auto mit einer Reichweite von bis zu ca. 700 Kilometern (WLTP). Was an der Optik konkret digital sein soll? Nun,...
+Zum Beitrag: Volkswagen ID.7: Limousine im digitalen Camouflage-Look
+
+Zum Blog: Caschys Blog]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Motorola: Outdoor-Smartphone mit Satelliten-SMS kommt]]></title>
+        <id>https://www.computerbase.de/2023-01/motorola-outdoor-smartphone-mit-satelliten-sms-kommt/</id>
+        <link href="https://www.computerbase.de/2023-01/motorola-outdoor-smartphone-mit-satelliten-sms-kommt/"/>
+        <updated>2023-01-05T20:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/6/3/4/9-8d8bbe5798889582/article-640x360.e1b4121a.jpg"><p>Nachdem die Bullitt Group, die Outdoor-Smartphones der Marken Cat Phones und Motorola fertigt, im November ein Outdoor-Smartphone mit Satelliten-Technik in Kooperation mit MediaTek in Aussicht gestellt hatte, erfolgt zur CES 2023 nun die offizielle Ankündigung. Das Outdoor-Smartphone wird unter der Marke Motorola erscheinen.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Android bekommt „unterbrechungsfreies“ Übertragen von Audioinhalten zwischen kompatiblen Geräten]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1156461</id>
+        <link href="https://stadt-bremerhaven.de/android-bekommt-unterbrechungsfreies-uebertragen-von-audioinhalten-zwischen-kompatiblen-geraeten/"/>
+        <updated>2023-01-05T19:45:37.000Z</updated>
+        <summary type="html"><![CDATA[Google erweitert den Funktionsumfang des Mediaplayers, der mit Android 13 seine letzte Generalüberholung erhalten hat. So ist es dort mittlerweile möglich, innerhalb von YouTube und YouTube Music schnell zwischen euren kompatiblen Bluetooth- und Chromecast-Geräten für die Wiedergabe zu wechseln. In...
+Zum Beitrag: Android bekommt „unterbrechungsfreies“ Übertragen von Audioinhalten zwischen kompatiblen Geräten
+
+Zum Blog: Caschys Blog]]></summary>
+        <author>
+            <name>Benjamin Mamerow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows 11: Drei neue Insider-Builds in der Verteilung]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1156467</id>
+        <link href="https://stadt-bremerhaven.de/windows-11-drei-neue-insider-builds-in-der-verteilung/"/>
+        <updated>2023-01-05T19:30:53.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft hat nochmal eine Schüppe draufgelegt und verteilt zu Beginn dieses Jahres direkt mal drei neue Builds für Windows-11-Insider: Windows 11 Insider Preview Build 25272 im Dev-Channel und die beiden Windows 11 Insider Preview Builds 22621.1095 und 22623.1095 im Beta-Channel....
+Zum Beitrag: Windows 11: Drei neue Insider-Builds in der Verteilung
+
+Zum Blog: Caschys Blog]]></summary>
+        <author>
+            <name>Benjamin Mamerow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BMW i Vision Dee: Konzept-Auto kann die Farbe wechseln und bringt AR-Features mit]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1156328</id>
+        <link href="https://stadt-bremerhaven.de/bmw-i-vision-dee-konzept-auto-kann-die-farbe-wechseln-und-bringt-ar-features-mit/"/>
+        <updated>2023-01-05T19:00:27.000Z</updated>
+        <summary type="html"><![CDATA[Der deutsche Autohersteller BMW hat im Rahmen der CES 2023 sein neues Konzeptfahrzeug BMW i Vision Dee vorgestellt. Auffallen will man da mit mehreren Merkmalen. Einerseits zeigt man ein neues Heads-up-Display, dass in der Reihe „Neue Klasse“ ab 2025 stecken...
+Zum Beitrag: BMW i Vision Dee: Konzept-Auto kann die Farbe wechseln und bringt AR-Features mit
+
+Zum Blog: Caschys Blog]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Razer Leviathan V2 Pro: THX-PC-Soundbar mit Head-Tracking und Chroma RGB]]></title>
+        <id>https://www.computerbase.de/2023-01/razer-leviathan-v2-pro-thx-pc-soundbar-mit-head-tracking-und-chroma-rgb/</id>
+        <link href="https://www.computerbase.de/2023-01/razer-leviathan-v2-pro-thx-pc-soundbar-mit-head-tracking-und-chroma-rgb/"/>
+        <updated>2023-01-05T19:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/6/2/1/3-29c32f51840ec5ba/article-640x360.ef08084e.jpg"><p>Nach der Razer Leviathan V2, einer Low-Latency-Soundbar mit THX Spatial Audio und RGB, im letzten Jahr stellt Razer zur CES 2023 die neue Leviathan V2 Pro Soundbar vor. Die Leviathan V2 Pro ist die erste Soundbar für den PC, die über Head-Tracking-AI verfügt.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Android Auto: Neue Funktionen angekündigt]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1156457</id>
+        <link href="https://stadt-bremerhaven.de/android-auto-neue-funktionen-angekuendigt/"/>
+        <updated>2023-01-05T18:21:48.000Z</updated>
+        <summary type="html"><![CDATA[Wir haben hier in den letzten Wochen und Monaten viel über Android Auto berichtet, über neue Optik, Funktionen und auch die Fehler. Nun stellt auch Google selbst Neuerungen vor, die kurz oder lang bei Nutzern mit Android Auto ankommen sollten....
+Zum Beitrag: Android Auto: Neue Funktionen angekündigt
+
+Zum Blog: Caschys Blog]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Android: Besserer Gerätewechsel für unterbrechungsfreie Wiedergabe]]></title>
+        <id>https://www.computerbase.de/2023-01/google-android-besserer-geraetewechsel-fuer-unterbrechungsfreie-wiedergabe/</id>
+        <link href="https://www.computerbase.de/2023-01/google-android-besserer-geraetewechsel-fuer-unterbrechungsfreie-wiedergabe/"/>
+        <updated>2023-01-05T18:10:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/6/3/5/5-a48670c30a9f4e28/article-640x360.c0e88692.jpg"><p>Mit Android auf unterschiedlichsten Gerätetypen variiert auch die Art und Weise stark, wann, wie und wo Musik gehört wird. Google möchte die Musikwiedergabe unter Android verbessern, indem die Art und Weise, wie die Musikwiedergabe von einem Gerät auf ein anderes übertragen werden kann, angepasst und vereinfacht wird.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google: Neues Android Auto mit optimiertem Layout ist jetzt verfügbar]]></title>
+        <id>https://www.computerbase.de/2023-01/google-neues-android-auto-mit-optimiertem-layout-ist-jetzt-verfuegbar/</id>
+        <link href="https://www.computerbase.de/2023-01/google-neues-android-auto-mit-optimiertem-layout-ist-jetzt-verfuegbar/"/>
+        <updated>2023-01-05T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/6/3/3/8-5fc84ec05ff082e2/article-640x360.c23ff6cd.jpg"><p>Weil die CES über die letzten Jahre immer mehr auch zu einer Automesse geworden ist, lässt es sich auch Google nicht nehmen, in Las Vegas Neuigkeiten rund um Android Auto und Android Automotive OS anzukündigen. Für das im Frühjahr 2022 zur I/O gezeigte neue Android Auto mit einem optimierten Layout startet ab sofort der Rollout.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blade 16 und 18: Razer verbaut Dual-Mode-Display für Spieler und Creator]]></title>
+        <id>https://www.computerbase.de/2023-01/blade-16-und-18-razer-verbaut-dual-mode-display-fuer-spieler-und-creator/</id>
+        <link href="https://www.computerbase.de/2023-01/blade-16-und-18-razer-verbaut-dual-mode-display-fuer-spieler-und-creator/"/>
+        <updated>2023-01-05T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/6/2/1/8-b06ea8cac8b7de76/article-640x360.f366ddcb.jpg"><p>Passend zur Vorstellung neuer Intel-Prozessoren und Nvidia-Grafikkarten legt auch Razer zur CES 2023 die Gaming-Notebooks Blade 16 und Blade 18 neu auf. Wie die neuen Namen bereits verraten, wachsen die Bildschirme auf 16 und 18 Zoll. Im Blade 16 steckt dabei ein Display mit Mini-LED-Backlight und Modi für Spieler und Creator.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HTC Vive XR Elite: Mixed-Reality-Headset wiegt 625 g und kostet 1.399 Euro]]></title>
+        <id>https://www.computerbase.de/2023-01/htc-vive-xr-elite-mixed-reality-headset-wiegt-625-g-und-kostet-1-399-euro/</id>
+        <link href="https://www.computerbase.de/2023-01/htc-vive-xr-elite-mixed-reality-headset-wiegt-625-g-und-kostet-1-399-euro/"/>
+        <updated>2023-01-05T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/6/1/1/7-f0e00e4b1d333a76/article-640x360.53fe800b.jpg"><p>HTC hat zur CES 2023 in Las Vegas das Mixed-Reality-Headset Vive XR Elite im Gepäck, das sich dank des integrierten Qualcomm-Prozessors autark nutzen lässt, alternativ aber auch am PC gerenderte Inhalte ausgeben kann. Im Fokus der Entwicklung lagen auch Faktoren wie die Praktikabilität, Abmessungen und Gewichtsverteilung.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HTC Vive XR Elite: Neue Brille für Virtual- und Mixed-Reality-Inhalte]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1155713</id>
+        <link href="https://stadt-bremerhaven.de/htc-vive-xr-elite-neue-brille-fuer-virtual-und-mixed-reality-inhalte/"/>
+        <updated>2023-01-05T17:59:20.000Z</updated>
+        <summary type="html"><![CDATA[Mit der HTC Vive XR Elite hat HTC ein neues „All-in-One-Flaggschiff“ für Endverbraucher vorgestellt. Neben VR-Funktionen (Virtual Reality) lässt sich das Headset wahlweise auch für MR-Inhalte (Mixed Reality) einsetzen. Im Headset verbaut ist dafür eine Vollfarb-RGB-Passthrough-Kamera. Dazu stoßen vier weitere...
+Zum Beitrag: HTC Vive XR Elite: Neue Brille für Virtual- und Mixed-Reality-Inhalte
+
+Zum Blog: Caschys Blog]]></summary>
+        <author>
+            <name>Felix Frank</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lenovo Smart Paper: E-Book-Reader für 479 Euro]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1155150</id>
+        <link href="https://stadt-bremerhaven.de/lenovo-smart-paper-e-book-reader-fuer-479-euro/"/>
+        <updated>2023-01-05T17:30:21.000Z</updated>
+        <summary type="html"><![CDATA[Lenovo Smart Paper: Der neue E-Book-Reader von Lenovo wurde vorgestellt. Dieses Modell mit entspiegeltem 10,3-Zoll-E-Ink-Touch-Display kostet 479 Euro. Der Hersteller verspricht ein Metallgehäuse und auch die produktive Nutzung mit einem Stylus, ähnlich wie etwa beim Kindle Scribe von Amazon. Im...
+Zum Beitrag: Lenovo Smart Paper: E-Book-Reader für 479 Euro
+
+Zum Blog: Caschys Blog]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lenovo Tab Extreme: Großes und leistungsstarkes Tablet vorgestellt]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1155133</id>
+        <link href="https://stadt-bremerhaven.de/lenovo-tab-extreme-grosses-und-leistungsstarkes-tablet-vorgestellt/"/>
+        <updated>2023-01-05T17:00:45.000Z</updated>
+        <summary type="html"><![CDATA[Lenovo bringt mit dem Tab Extreme sein laut eigenen Aussagen bisher „größtes und leistungsstärkstes Tablet“ auf den Markt. Euch verheißt das in diesem Fall einen OLED-Bildschirm mit 14,5 Zoll Diagonale, 3K-Auflösung und 120 Hz Bildwiederholrate. Der Screen kann Farbdarstellung und...
+Zum Beitrag: Lenovo Tab Extreme: Großes und leistungsstarkes Tablet vorgestellt
+
+Zum Blog: Caschys Blog]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lenovo Legion: Gaming-Monitore mit 250 und 280 Hz für 400 und 500 Euro]]></title>
+        <id>https://www.computerbase.de/2023-01/lenovo-legion-gaming-monitore-mit-250-und-280-hz-fuer-400-und-500-euro/</id>
+        <link href="https://www.computerbase.de/2023-01/lenovo-legion-gaming-monitore-mit-250-und-280-hz-fuer-400-und-500-euro/"/>
+        <updated>2023-01-05T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/6/2/3/6-bf4cde7919f88a5f/article-640x360.edd2d689.jpg"><p>Mit dem Legion Y27qf-30 und Legion Y27f-30 bringt Lenovo zur CES 2023 zwei neue Gaming-Monitore, die übertaktet eine variable Bildwiederholrate von bis zu 250 und 280 Hz erreichen – nativ werden bei beiden Modellen 240 Hz erzielt. Beide Monitore unterstützen Adaptive Sync und FreeSync Premium.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WhatsApp bekommt Funktion gegen Internetsperren]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1156430</id>
+        <link href="https://stadt-bremerhaven.de/whatsapp-bekommt-funktion-gegen-internetsperren/"/>
+        <updated>2023-01-05T16:44:47.000Z</updated>
+        <summary type="html"><![CDATA[In einigen Ländern werden Dienste und auch Messenger gesperrt. Das gilt in einigen Ländern auch für WhatsApp. Um dagegen vorzugehen, bietet WhatsApp Nutzern jetzt weltweit Proxy-Unterstützung für WhatsApp an. Das heißt, dass Benutzer selbst bei blockierter oder unterbrochener Verbindung weiterhin...
+Zum Beitrag: WhatsApp bekommt Funktion gegen Internetsperren
+
+Zum Blog: Caschys Blog]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GeForce 528.02 WHQL: Neuer Game-Ready-Treiber unterstützt die RTX 4070 Ti [Notiz]]]></title>
+        <id>https://www.computerbase.de/2023-01/geforce-528-02-whql-neuer-game-ready-treiber-unterstuetzt-die-rtx-4070-ti/</id>
+        <link href="https://www.computerbase.de/2023-01/geforce-528-02-whql-neuer-game-ready-treiber-unterstuetzt-die-rtx-4070-ti/"/>
+        <updated>2023-01-05T16:32:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/6/3/5/0-3a24e7b74c9a99a9/article-640x360.c2d48d9d.jpg"><p>Nvidias neuester Grafiktreiber, der GeForce 528.02 WHQL „Game Ready“ bringt neben der Unterstützung für die heute in den Handel entlassene GeForce RTX 4070 Ti (Test) auch Vorbereitungen für DLSS 3 (Test) in Conqueror's Blade und Dakar Desert Rally. Darüber hinaus gibt es die obligatorischen Fehlerbehebungen.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon: Neue Ring-Kameras für den Türspion und für das Auto (US-only)]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1156417</id>
+        <link href="https://stadt-bremerhaven.de/amazon-neue-ring-kameras-fuer-den-tuerspion-und-fuer-das-auto-us-only/"/>
+        <updated>2023-01-05T16:31:51.000Z</updated>
+        <summary type="html"><![CDATA[Wie andere Unternehmen hat auch Amazon im Rahmen der CES 2023 einige Neuerungen zu verkünden. Da gab man unter anderem mehr Details zum Matter-Zeitplan bekannt. Für US-Nutzer gibt es mit der Ring Peephole Cam außerdem eine Kamera für den Türspion....
+Zum Beitrag: Amazon: Neue Ring-Kameras für den Türspion und für das Auto (US-only)
+
+Zum Blog: Caschys Blog]]></summary>
+        <author>
+            <name>Felix Frank</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Xbox Series X – Forza Horizon 5 Premium Edition Bundle vorgestellt]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1156418</id>
+        <link href="https://stadt-bremerhaven.de/xbox-series-x-forza-horizon-5-premium-edition-bundle-vorgestellt/"/>
+        <updated>2023-01-05T16:24:38.000Z</updated>
+        <summary type="html"><![CDATA[Wer sich eine Xbox Series X zulegen wollte und zudem noch Racing-Fan ist, der kann nun schauen, ob das neue Bundle passt. Das kommende Xbox Series X – Forza Horizon 5 Bundle enthält laut Microsoft für 600 Euro alles, was...
+Zum Beitrag: Xbox Series X – Forza Horizon 5 Premium Edition Bundle vorgestellt
+
+Zum Blog: Caschys Blog]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gratisspiel: Shadow Tactics – Aiko’s Choice]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1156413</id>
+        <link href="https://stadt-bremerhaven.de/gratisspiel-shadow-tactics-aikos-choice/"/>
+        <updated>2023-01-05T16:12:26.000Z</updated>
+        <summary type="html"><![CDATA[Im Epic Games Store gibt es wieder einmal ein kostenloses Spiel für Nutzer. Shadow Tactics: Aiko’s Choice ist ein Stealth-Action-Adventure-Computerspiel, das von Mimimi Productions entwickelt und von Daedalic Entertainment für Windows veröffentlicht wurde. Es ist im Japan des Edo-Zeitalters angesiedelt...
+Zum Beitrag: Gratisspiel: Shadow Tactics – Aiko’s Choice
+
+Zum Blog: Caschys Blog]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lenovo ThinkPhone by Motorola: Business-Smartphone vorgestellt]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1155296</id>
+        <link href="https://stadt-bremerhaven.de/lenovo-thinkphone-by-motorola-business-smartphone-vorgestellt/"/>
+        <updated>2023-01-05T16:00:40.000Z</updated>
+        <summary type="html"><![CDATA[Lenovo hat offiziell das bereits vorab durchgesickerte „Lenovo ThinkPhone by Motorola“ vorgestellt. Als Herzstück fungiert hier der Qualcomm Snapdragon 8+ Gen 1. Mit dem mobilen Endgerät visiert man jedoch gar nicht den gemeinen Privat-, sondern vielmehr Geschäftskunden an. Entsprechend gebe...
+Zum Beitrag: Lenovo ThinkPhone by Motorola: Business-Smartphone vorgestellt
+
+Zum Blog: Caschys Blog]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lenovo ThinkPhone: Motorola bringt Android-Smartphone als ThinkPad-Begleiter]]></title>
+        <id>https://www.computerbase.de/2023-01/lenovo-thinkphone-motorola-bringt-android-smartphone-als-thinkpad-begleiter/</id>
+        <link href="https://www.computerbase.de/2023-01/lenovo-thinkphone-motorola-bringt-android-smartphone-als-thinkpad-begleiter/"/>
+        <updated>2023-01-05T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/6/2/6/8-f606eea2ff340b35/article-640x360.3a6e9775.jpg"><p>Lenovo will in den kommenden Monaten mit dem ThinkPhone einen von Motorola hergestellten Begleiter für die eigenen ThinkPad-Notebooks auf den Markt bringen. Das Smartphone zeichnet sich durch ein ThinkPad-Design ähnlich des X1 Carbon sowie im Unternehmensumfeld sinnvolle Funktionen aus. Einen Preis nennt Lenovo noch nicht.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lenovo Yoga Book 9i: Zwei OLED-Displays bilden ein flexibles Notebook]]></title>
+        <id>https://www.computerbase.de/2023-01/lenovo-yoga-book-9i-zwei-oled-displays-bilden-ein-flexibles-notebook/</id>
+        <link href="https://www.computerbase.de/2023-01/lenovo-yoga-book-9i-zwei-oled-displays-bilden-ein-flexibles-notebook/"/>
+        <updated>2023-01-05T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/6/2/1/5-909098d293c767a2/article-640x360.bc0078c1.jpg"><p>Was entsteht, wenn man zwei 13,3 Zoll große OLED-Bildschirme über ein 360-Grad-Scharnier miteinander verbindet? Bei Lenovo ist dabei zur CES 2023 das Yoga Book 9i herausgekommen, ein Notebook mit hoher Flexibilität, die an das ThinkPad X1 Fold G2 erinnert, in diesem Fall aber mit zwei dedizierten Bildschirmen umgesetzt wurde.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ThinkBook Plus Twist: Lenovo vereint OLED- und farbiges E-Ink-Display]]></title>
+        <id>https://www.computerbase.de/2023-01/thinkbook-plus-twist-lenovo-vereint-oled-und-farbiges-e-ink-display/</id>
+        <link href="https://www.computerbase.de/2023-01/thinkbook-plus-twist-lenovo-vereint-oled-und-farbiges-e-ink-display/"/>
+        <updated>2023-01-05T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/6/1/2/3-12ff3d01dd6c61ec/article-640x360.a6d6c407.jpg"><p>Das neue ThinkBook Plus Twist tritt bei Lenovo in die Fußstapfen von Geräten wie dem ThinkPad X41 Tablet von 2005 oder ThinkPad Twist von 2012 und setzt auf zwei Bildschirme, die sich auf ein OLED-Panel auf der Innenseite und ein farbiges E-Ink-Panel außen verteilen. Der Clou ist das Twist-Scharnier für mehrere Betriebsmodi.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lenovo Legion Pro 5(i) und 7(i): Ryzen 7000 oder Raptor Lake treffen auf RTX 4000]]></title>
+        <id>https://www.computerbase.de/2023-01/lenovo-legion-pro-5-i-und-7-i-ryzen-7000-oder-raptor-lake-treffen-auf-rtx-4000/</id>
+        <link href="https://www.computerbase.de/2023-01/lenovo-legion-pro-5-i-und-7-i-ryzen-7000-oder-raptor-lake-treffen-auf-rtx-4000/"/>
+        <updated>2023-01-05T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/6/1/2/2-677fef7c54aef0e8/article-640x360.43296371.jpg"><p>Lenovo stellt die Gaming-Notebooks Legion Pro 5 und Legion Pro 7 neu auf und lässt Käufern dabei die Wahl zwischen neuen Ryzen-7000- und Raptor-Lake-Prozessoren. Bei den Grafikkarten ist hingegen Nvidia der exklusive Lieferant mit Ada-Lovelace-Modellen bis hoch zur RTX 4090. Beide Modelle kommen auf 16 Zoll und starten ab März.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon kündigt nächste Phase des Matter-Rollouts an]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1156399</id>
+        <link href="https://stadt-bremerhaven.de/amazon-kuendigt-naechste-phase-des-matter-rollouts-an/"/>
+        <updated>2023-01-05T15:35:21.000Z</updated>
+        <summary type="html"><![CDATA[Im Dezember hat Amazon die erste Phase des Matter-Rollouts abgeschlossen. Kunden haben seitdem durch Matter über WLAN noch mehr Möglichkeiten, ihre Geräte zu verbinden. Unterstützt werden in der ersten Phase 17 verschiedene Echo-Geräte sowie Steckdosen, Schalter und Glühbirnen mit Android-Setup...
+Zum Beitrag: Amazon kündigt nächste Phase des Matter-Rollouts an
+
+Zum Blog: Caschys Blog]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Plex: Leihen und Kaufen von Filmen und Serien stehen auf der Roadmap]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1156390</id>
+        <link href="https://stadt-bremerhaven.de/plex-leihen-und-kaufen-von-filmen-und-serien-steht-auf-der-roadmap/"/>
+        <updated>2023-01-05T15:30:32.000Z</updated>
+        <summary type="html"><![CDATA[Plex ist eine Software, die es ermöglicht, eigene Medien wie Filme, TV-Sendungen, Musik und Fotos zu organisieren und zu verwalten. Es ermöglicht auch das Streamen dieser Medien auf verschiedenen Geräten, wie zum Beispiel Smart TVs, Smartphones, Streaming-Boxen und Spielkonsolen. Um...
+Zum Beitrag: Plex: Leihen und Kaufen von Filmen und Serien stehen auf der Roadmap
+
+Zum Blog: Caschys Blog]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nvidia GeForce Now Thursday: Neue Spiele für Abonnenten starten heute]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1156350</id>
+        <link href="https://stadt-bremerhaven.de/nvidia-geforce-now-thursday-neue-spiele-fuer-abonnenten-starten-heute/"/>
+        <updated>2023-01-05T15:00:56.000Z</updated>
+        <summary type="html"><![CDATA[Am ersten GFN-Thursday im neuen Jahr weist Nvidia zum einen auf den neuen Tarif GeForce Now Ultimate mit RTX 4080 hin, kann aber zum anderen auch wieder mit neuen Spielen für den Cloud-Gaming-Dienst aufwarten, die verknüpft werden. Mittlerweile bietet GeFore...
+Zum Beitrag: Nvidia GeForce Now Thursday: Neue Spiele für Abonnenten starten heute
+
+Zum Blog: Caschys Blog]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows 8.1: Microsoft stellt den erweiterten Support ein]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1156335</id>
+        <link href="https://stadt-bremerhaven.de/windows-8-1-microsoft-stellt-den-erweiterten-support-ein/"/>
+        <updated>2023-01-05T14:30:58.000Z</updated>
+        <summary type="html"><![CDATA[Monatlich beleuchten wir seit Jahren Zahlen irgendwelcher Statistikdienste, die versuchen uns zu zeigen, welche Systeme besonders verbreitet sind und welche nicht. Viele Windows-Betriebssysteme haben unsere Leser hinter sich gebracht, da hat jeder so seine Favoriten – vermutlich aber gehören Windows...
+Zum Beitrag: Windows 8.1: Microsoft stellt den erweiterten Support ein
+
+Zum Blog: Caschys Blog]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Philips Hue Sync TV App: App für Samsung Smart TVs ersetzt die Sync Box]]></title>
+        <id>https://www.computerbase.de/2023-01/philips-hue-sync-tv-app-app-fuer-samsung-smart-tvs-ersetzt-die-sync-box/</id>
+        <link href="https://www.computerbase.de/2023-01/philips-hue-sync-tv-app-app-fuer-samsung-smart-tvs-ersetzt-die-sync-box/"/>
+        <updated>2023-01-05T13:49:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/6/3/4/5-680898fa1b1fa592/article-640x360.a795ea01.jpg"><p>Die ab heute erhältliche Philips Hue Sync TV App ersetzt die teure Philips Hue Play HDMI Sync Box (Test) exklusiv auf Samsung Smart TVs und erlaubt eine Synchronisation der Philips-Hue-Beleuchtung passend zum Bild des Fernsehers. Dies funktioniert auch mit integrierten Apps der Smart TVs wie Netflix oder Disney+.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sony: PS5-Knappheit beendet und Gran Turismo 7 für PSVR2]]></title>
+        <id>https://www.computerbase.de/2023-01/sony-ps5-knappheit-beendet-und-gran-turismo-7-fuer-psvr2/</id>
+        <link href="https://www.computerbase.de/2023-01/sony-ps5-knappheit-beendet-und-gran-turismo-7-fuer-psvr2/"/>
+        <updated>2023-01-05T13:40:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/6/3/4/7-166653b103b00679/article-640x360.ed37832d.jpg"><p>Sony kündigt zur CES 2023 nicht nur ein kostenloses Update für Gran Turismo 7 an, mit dem die VR-Brille PSVR2 unterstützt wird, sondern erklärt auch die Knappheit der PlayStation 5 für beendet. Der Dezember 2022 war der absatzstärkste Monat der PlayStation 5, sodass inzwischen mehr als 30 Millionen Konsolen verkauft wurden.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zen 4 + CDNA 3 + 128 GB HBM3: AMD Instinct MI300 stapelt Chiplets für AI und HPC]]></title>
+        <id>https://www.computerbase.de/2023-01/amd-instinct-mi300-zen-4-cdna-3-hbm3/</id>
+        <link href="https://www.computerbase.de/2023-01/amd-instinct-mi300-zen-4-cdna-3-hbm3/"/>
+        <updated>2023-01-05T13:14:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/6/3/4/2-bf118551fd28e0f4/article-640x360.f863a69b.jpg"><p>AMD Instinct MI300 stapelt insgesamt 24 Prozessorkerne auf Basis von Zen 4, eine auf CDNA 3 basierende Grafikeinheit sowie 128 GB HBM3 und den Infinity Cache erstmals mit Hilfe von „3D-Chiplet-Packaging“ sowie eines „Unified-Memory-Interface“ auf einem „Multi-Chip-Package“ zu einer 146 Milliarden Transistoren starken „HPC-APU“.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[B760 vs. H770 vs. Z790: Intels neue Mainboard-Chipsätze für LGA 1700 im Vergleich]]></title>
+        <id>https://www.computerbase.de/2023-01/b760-vs-h770-vs-z790-intels-neue-mainboard-chipsaetze-fuer-lga-1700-im-vergleich/</id>
+        <link href="https://www.computerbase.de/2023-01/b760-vs-h770-vs-z790-intels-neue-mainboard-chipsaetze-fuer-lga-1700-im-vergleich/"/>
+        <updated>2023-01-05T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/6/3/1/8-abb40bbdf1786ebf/article-640x360.be9fbd81.jpg"><p>Nach dem Flaggschiff Z790 starten jetzt die kleineren Intel-Chipsätze H770 und B760 für Intels 13. (und 12.) Generation Core-CPUs. Wer ein neues Mainboard kaufen möchte, steht nun vor der Qual der Wahl. Dieser Artikel leistet Hilfestellung und vergleicht die Ausstattung der neuen Chipsätze.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Asus ROG Raikiri Pro: Selbst Controller bekommen 2023 ein OLED-Display]]></title>
+        <id>https://www.computerbase.de/2023-01/asus-rog-raikiri-pro-selbst-controller-bekommen-2023-ein-oled-display/</id>
+        <link href="https://www.computerbase.de/2023-01/asus-rog-raikiri-pro-selbst-controller-bekommen-2023-ein-oled-display/"/>
+        <updated>2023-01-05T11:39:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/6/3/4/3-2915760d9395791e/article-640x360.c182ba13.jpg"><p>Was bislang RGB-Beleuchtung war, wird bei Asus zum OLED-Display: Ein unverzichtbares Gaming-Accessoire, das 2023 auch in ein Luxus-Gamepad integriert wird. Der ROG Raikiri Pro wartet darüber hinaus mit allen üblichen Extras seiner Klasse, darunter zusätzliche Trigger an der Unterseite, auf.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Asus ROG Hyperion GR701: 21-kg-Gaming-Gehäuse priorisiert Design und Airflow]]></title>
+        <id>https://www.computerbase.de/2023-01/asus-rog-hyperion-gr701-21-kg-gaming-gehaeuse-priorisiert-design-und-airflow/</id>
+        <link href="https://www.computerbase.de/2023-01/asus-rog-hyperion-gr701-21-kg-gaming-gehaeuse-priorisiert-design-und-airflow/"/>
+        <updated>2023-01-05T10:49:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/6/3/4/1-8ab1e9a3eb71a313/article-640x360.2b5370a2.jpg"><p>Asus stellt zur CES ein Flaggschiff-Gehäuse unter dem Republic-of-Gamers-Label vor, bei dem das Aussehen im Mittelpunkt steht. Auf Kompromisse bei der Kühlung soll dennoch verzichtet werden können, kündigt der Hersteller an: Auch guter Luftfluss sei eine Priorität.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Über 2.000 nits: Samsung zeigt das OLED-Display des Galaxy S23]]></title>
+        <id>https://www.computerbase.de/2023-01/ueber-2-000-nits-samsung-zeigt-das-oled-display-des-galaxy-s23/</id>
+        <link href="https://www.computerbase.de/2023-01/ueber-2-000-nits-samsung-zeigt-das-oled-display-des-galaxy-s23/"/>
+        <updated>2023-01-05T09:45:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/6/3/3/9-385ebe57328959a6/article-640x360.b2c10330.jpg"><p>Samsung Display zeigt zur CES 2023 in Las Vegas ein neues OLED-Display für Smartphones, das erstmals über 2.000 cd/m² hell wird. Das passt überraschend gut zu den Gerüchten der letzten Wochen, laut denen das Samsung Galaxy S23 genau solch ein Display aufweisen wird.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gerüchte zu Intel Arc: Xe² HPG „Battlemage“ soll erst Mitte 2024 erscheinen]]></title>
+        <id>https://www.computerbase.de/2023-01/intel-arc-battlemage-xe-2-hpg-2024/</id>
+        <link href="https://www.computerbase.de/2023-01/intel-arc-battlemage-xe-2-hpg-2024/"/>
+        <updated>2023-01-05T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/6/3/3/6-a1ec36d1229d2f59/article-640x360.c9340ba1.jpg"><p>Einer neuen unbestätigten Roadmap zufolge werden die GPUs auf Basis von Xe² HPG („Battlemage“) erst in zweiten Quartal 2024 auf Xe HPG („Alchemist“) folgen. Während das Jahr 2023 demnach mit dem Refresh „Alchemist+“ überbrückt werden soll, steht die dritte Generation Xe³ HPG („Celestial“) noch nicht auf dem Fahrplan bis Q3/2024.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deepcool Quadstellar Infinity: X-förmiges Raumschiff-Gehäuse neu aufgelegt]]></title>
+        <id>https://www.computerbase.de/2023-01/deepcool-quadstellar-infinity-x-foermiges-raumschiff-gehaeuse-neu-aufgelegt/</id>
+        <link href="https://www.computerbase.de/2023-01/deepcool-quadstellar-infinity-x-foermiges-raumschiff-gehaeuse-neu-aufgelegt/"/>
+        <updated>2023-01-05T08:35:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/6/3/3/1-dd566b9df146b6b3/article-640x360.e1b8f59b.jpg"><p>Deepcool legt das futuristische „Raumschiffgehäuse“ Quadstellar neu auf. Das neue Quadstellar Infinity greift gängige Trends auf und modernisiert das Layout. Sorgsam beibehalten wird das X-förmige Design mit vier internen Kammern, das das Markenzeichen des Quadstellars bleibt.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Atomic Heart: Sowjet-Utopie scheitert ab Februar an Roboter-Aufstand]]></title>
+        <id>https://www.computerbase.de/2023-01/atomic-heart-sowjet-utopie-scheitert-ab-februar-an-roboter-aufstand/</id>
+        <link href="https://www.computerbase.de/2023-01/atomic-heart-sowjet-utopie-scheitert-ab-februar-an-roboter-aufstand/"/>
+        <updated>2023-01-05T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/6/3/3/3-ee6f9eba5f977182/article-640x360.1fd334da.jpg"><p>Atomic Heart fällt seit dem ersten Trailer auf. Der Singleplayer-Shooter verfrachtet Spieler in die 1950er-Jahre, in denen die Sowjetunion eine Roboter-gestützte Utopie errichtet hat. Dass diese keinen Bestand hat, versteht sich von selbst – im Februar soll der Kollektivstaat nach langer Entwicklungszeit untergehen.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ROG Harpe Ace Aim Lab Edition: Asus' leichteste Gaming-Maus besteht aus Nylon]]></title>
+        <id>https://www.computerbase.de/2023-01/rog-harpe-ace-aim-lab-edition-asus-leichteste-gaming-maus-besteht-aus-nylon/</id>
+        <link href="https://www.computerbase.de/2023-01/rog-harpe-ace-aim-lab-edition-asus-leichteste-gaming-maus-besteht-aus-nylon/"/>
+        <updated>2023-01-05T07:20:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/6/3/3/0-3447f82b7c109a59/article-640x360.65c30911.jpg"><p>Asus war in der Vergangenheit meist für besonders schwere Gaming-Mäuse bekannt, zuletzt beispielsweise den Allrounder ROG Chakram X. Zur CES 2023 folgt nun das erste Leichtgewicht für kompetitive Spieler: Die ROG Harpe Ace Aim Lab Edition vereint eine Masse von 54 Gramm mit einem Nylon-Chassis und High-End-Sensorik.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BMW i Vision Dee: Die ganze Windschutzscheibe wird zum Head-up-Display]]></title>
+        <id>https://www.computerbase.de/2023-01/bmw-i-vision-dee-die-ganze-windschutzscheibe-wird-zum-head-up-display/</id>
+        <link href="https://www.computerbase.de/2023-01/bmw-i-vision-dee-die-ganze-windschutzscheibe-wird-zum-head-up-display/"/>
+        <updated>2023-01-05T04:15:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/6/0/0/3-c01015edda6a62a7/article-640x360.c8acf0e3.jpg"><p>Kaum eine Stadt eignet sich so gut für die Vorstellung eines Konzepts wie das schillernde Las Vegas. Zur CES präsentiert BMW den „i Vision Dee“, eine futuristische Limousine, die einen Ausblick auf die nahe und ferne Zukunft gibt. In die Serie schaffen soll es ein Head-up-Display über die gesamte Breite der Windschutzscheibe.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AMD Ryzen 7000X3D: 7950X3D, 7900X3D & 7800X3D mit hohem Takt im Februar (Update)]]></title>
+        <id>https://www.computerbase.de/2023-01/amd-ryzen-7000x3d-7950x3d-7900x3d-und-7800x3d-mit-hohem-takt-im-februar/</id>
+        <link href="https://www.computerbase.de/2023-01/amd-ryzen-7000x3d-7950x3d-7900x3d-und-7800x3d-mit-hohem-takt-im-februar/"/>
+        <updated>2023-01-05T03:30:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/6/3/1/5-15b2ee3175324d40/article-640x360.cf338606.jpg"><p>Das ging schnell: AMD hat zur CES 2023 in der Tat die X3D-Varianten der neuen Ryzen-7000-Serie vorgestellt. Ryzen 9 7950X3D, Ryzen 9 7900X3D und Ryzen 7 7800X3D sollen Intel Raptor Lake in Spielen Beine machen. Die Zutaten: 64 MB 3D V-Cache, hohe Taktraten und 120 Watt TDP. Alle drei CPUs erscheinen bereits im Februar.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AMD Ryzen 7000 Mobile: RDNA 3 in der Zen-4-APU und 16 Kerne per Chiplet-Ansatz (Update)]]></title>
+        <id>https://www.computerbase.de/2023-01/amd-ryzen-7000-mobile-rdna-3-in-der-zen-4-apu-und-16-kerne-per-chiplet-ansatz/</id>
+        <link href="https://www.computerbase.de/2023-01/amd-ryzen-7000-mobile-rdna-3-in-der-zen-4-apu-und-16-kerne-per-chiplet-ansatz/"/>
+        <updated>2023-01-05T03:30:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/6/3/1/7-637bfefbc6eba1e5/article-640x360.b783890d.jpg"><p>Neben Ryzen 7000X3D präsentiert AMD zur CES die neue Generation Ryzen für Notebooks. Mit Ryzen 7000 Mobile verdoppelt AMD mit dem Desktop-Chiplet-Ansatz in der HX-Serie an der Spitze die Anzahl der Kerne auf 16. Die neue, technisch eindeutig interessantere Phoenix-APU kommt wiederum mit Zen 4, RDNA 3 und AI-Einheit in 4 nm.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Radeon RX 7000 Mobile: AMD Navi 33 feiert als RX 7600M/S (XT) und 7700S Premiere]]></title>
+        <id>https://www.computerbase.de/2023-01/radeon-rx-7000-mobile-amd-navi-33-feiert-als-rx-7600m-s-xt-und-7700s-premiere/</id>
+        <link href="https://www.computerbase.de/2023-01/radeon-rx-7000-mobile-amd-navi-33-feiert-als-rx-7600m-s-xt-und-7700s-premiere/"/>
+        <updated>2023-01-05T03:30:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/6/3/1/1-4477e9d67a4d9ed6/article-640x360.7f30db47.jpg"><p>AMDs neue RDNA-3-Architektur hat ihre Premiere im Desktop mit den High-End-Modellen Radeon RX 7900 XTX und Radeon RX 7900 XT (Test) gefeiert, im Notebook startet AMD hingegen am unteren Ende der Skala: Als Radeon RX 7600 und Radeon RX 7700 in verschiedenen Ausbaustufen geht die Navi-33-GPU im Einsteiger-Segment an den Start.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Teurer Spaß: „Philips Hue Sync TV“-App für Samsung-Smart-TVs angekündigt]]></title>
         <id>https://stadt-bremerhaven.de/?p=1156166</id>
@@ -10145,418 +10685,6 @@ Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
         <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/6/0/0/4-51e97970a6b6dc6b/article-640x360.06330191.jpg"><p>Apple überarbeitet die für App-Anbieter mögliche Preisgestaltung im App Store um mehr Preispunkte. Insgesamt erhalten Entwickler mehr Flexibilität, indem günstigere und teurere Preise zur Verfügung stehen und die Sprünge dazwischen präziser gewählt werden können. Los geht es bei 0,29 Euro, das Maximum liegt bei 11.999,99 Euro.</p>]]></summary>
         <author>
             <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google TV: Mobile App erhält Material-You-Re-Design]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1141961</id>
-        <link href="https://stadt-bremerhaven.de/google-tv-mobile-app-erhaelt-material-you-re-design/"/>
-        <updated>2022-12-07T13:30:42.000Z</updated>
-        <summary type="html"><![CDATA[Google TV hat in der mobilen App ein Re-Design im Stil von Material You erhalten. Diese neue Ästhetik rollt Google recht langsam für alle seine Apps aus. So kamen kürzich auch Android Auto, Nearby Share und die Google Suche in...
-Zum Beitrag: Google TV: Mobile App erhält Material-You-Re-Design
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>André Westphal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Threema für iOS: Ihr könnt die Multi-Device-Unterstützung vorab testen]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1142011</id>
-        <link href="https://stadt-bremerhaven.de/threema-fuer-ios-ihr-koennt-die-multi-device-unterstuetzung-vorab-testen/"/>
-        <updated>2022-12-07T13:00:48.000Z</updated>
-        <summary type="html"><![CDATA[Der Messenger Threema kommt in unseren Kommentaren bei den Lesern in der Regel recht gut weg und wird gerne als Alternative zu WhatsApp empfohlen. Jetzt ermöglichen es die Entwickler unter iOS, die Multi-Device-Unterstützung vorab zu testen. Denn es steht die...
-Zum Beitrag: Threema für iOS: Ihr könnt die Multi-Device-Unterstützung vorab testen
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>André Westphal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Synology DS923+ im Test: Das Ryzen-NAS kann viel, aber 10 GbE nur optional]]></title>
-        <id>https://www.computerbase.de/2022-12/synology-ds923-nas-amd-ryzen-test/</id>
-        <link href="https://www.computerbase.de/2022-12/synology-ds923-nas-amd-ryzen-test/"/>
-        <updated>2022-12-07T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/9/1/4-920bb1a0f97b213a/article-640x360.c35b8ffd.jpg"><p>Die Synology DS923+ setzt auf einen AMD Ryzen und bietet als Server erneut sehr viele Funktionen und Möglichkeiten. Schnelleres LAN, um die Leistung im Netzwerk auszunutzen, gibt es aber wieder nur mit einer 10-GbE-Steckkarte des Herstellers. M.2-SSDs lassen sich jetzt als Speicherpool nutzen, jedoch nicht ohne Einschränkungen.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Project Titan: Das Apple-Auto steht vor weiteren Herausforderungen]]></title>
-        <id>https://www.computerbase.de/2022-12/project-titan-das-apple-auto-steht-vor-weiteren-herausforderungen/</id>
-        <link href="https://www.computerbase.de/2022-12/project-titan-das-apple-auto-steht-vor-weiteren-herausforderungen/"/>
-        <updated>2022-12-07T10:45:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/6/0/0/0-710c3ab963c97cb0/article-640x360.83fb7dc1.jpg"><p>Apple soll die Pläne für ein eigenes vollständig autonom fahrendes Auto zurückgefahren und den Launch um ein Jahr auf 2026 verschoben haben, berichtet Bloomberg unter Berufung auf mit dem Projekt vertraute Personen. Stattdessen soll wie bei den Mitbewerbern nur auf der Autobahn das Fahren ohne Hände am Lenkrad möglich sein.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VSA-100 („Napalm“): Wie der T-Buffer von 3dfx Kinoeffekte in Spiele brachte]]></title>
-        <id>https://www.computerbase.de/2022-12/3dfx-voodoo4-vsa-100-t-buffer/</id>
-        <link href="https://www.computerbase.de/2022-12/3dfx-voodoo4-vsa-100-t-buffer/"/>
-        <updated>2022-12-07T10:23:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/9/9/9-8248446ec29ba3f2/article-640x360.9f16f19d.jpg"><p>Im Juli 1999 kündigte der heute legendäre Grafikkartenhersteller 3dfx mit dem T-Buffer eine neue Technologie an, die Kinoeffekte in Spiele brachte und so für deutlich mehr Realismus sorgte. Zu den wegweisenden Verbesserungen gehörten unter anderem weiche Schatten und Reflexionen sowie Tiefen- und Bewegungsunschärfe.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Suchbegriffe des Jahres 2022: Negativschlagzeilen beherrschen Google-Suche]]></title>
-        <id>https://www.computerbase.de/2022-12/suchbegriffe-des-jahres-2022-negativschlagzeilen-beherrschen-google-suche/</id>
-        <link href="https://www.computerbase.de/2022-12/suchbegriffe-des-jahres-2022-negativschlagzeilen-beherrschen-google-suche/"/>
-        <updated>2022-12-07T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/9/6/5-5b31104ead131c47/article-640x360.ed8c5871.jpg"><p>Im Jahresrückblick 2022 hat Google erneut die Top-Trends der eigenen Suchmaschine im vergangenen Jahr veröffentlicht. Die Suchanfragen werden erneut vom aktuellen Weltgeschehen dominiert, insbesondere bei den Fragen, die an Google gestellt werden, gibt es aber wieder überraschende Trends.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Back to the roots: Multiplayer für Cyberpunk 2077 gestrichen]]></title>
-        <id>https://www.computerbase.de/2022-12/back-to-the-roots-multiplayer-fuer-cyberpunk-2077-gestrichen/</id>
-        <link href="https://www.computerbase.de/2022-12/back-to-the-roots-multiplayer-fuer-cyberpunk-2077-gestrichen/"/>
-        <updated>2022-12-06T20:45:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/9/9/8-eded530834206dbd/article-640x360.dfa029ea.jpg"><p>Der Multiplayer-Ableger von Cyberpunk 2077 ist eingestellt worden. Ursprünglich solle er als Multiplayer-Teil mit Mikrotransaktionen nachgereicht werden. Daraus wurde nach der unfertigen Veröffentlichung des Rollenspiels nichts, da alle Ressourcen in „den wichtigen Teil“ gesteckt wurden.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mehr Leistung: Micron stattet erste SSD mit 232-Layer-NAND aus]]></title>
-        <id>https://www.computerbase.de/2022-12/mehr-leistung-micron-stattet-erste-ssd-mit-232-layer-nand-aus/</id>
-        <link href="https://www.computerbase.de/2022-12/mehr-leistung-micron-stattet-erste-ssd-mit-232-layer-nand-aus/"/>
-        <updated>2022-12-06T20:15:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/9/9/2-0c243c2f9b46c919/article-640x360.df1c696f.jpg"><p>Bereits im Sommer hatte Micron mit der Serienfertigung seines 232-Layer-3D-NAND begonnen, doch erst jetzt erscheint die erste SSD-Serie mit dem neuen Speicher. Die an OEM-Systeme für Verbraucher gerichtete Micron 2550 liefert mehr Leistung, aber überraschend nicht mehr Speicherkapazität als der Vorgänger.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AGP-Plattform-Test: Athlon und Phenom II treffen auf Pentium 4 und Core 2 Duo]]></title>
-        <id>https://www.computerbase.de/2022-12/agp-plattformen-im-test/</id>
-        <link href="https://www.computerbase.de/2022-12/agp-plattformen-im-test/"/>
-        <updated>2022-12-06T19:50:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/9/9/7-5b2faccabace63f2/article-640x360.2de37a67.jpg"><p>Auf der Suche nach der stärksten verfügbaren Plattform mit dem altehrwürdigen Accelerated Graphics Port (AGP), der im Jahre 1997 eingeführt wurde, mussten sich der Athlon XP, der Athlon 64 und der Phenom II gegen den Pentium 4 und den Core 2 Duo beweisen und die stärksten AGP-Grafikkarten von ATi und Nvidia beschleunigen.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Star Wars: Jedi Survivor: Systemanforderungen und Termin durchgesickert]]></title>
-        <id>https://www.computerbase.de/2022-12/star-wars-jedi-survivor-systemanforderungen-und-termin-durchgesickert/</id>
-        <link href="https://www.computerbase.de/2022-12/star-wars-jedi-survivor-systemanforderungen-und-termin-durchgesickert/"/>
-        <updated>2022-12-06T19:35:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/9/9/6-39d3be14cd3b0c8c/article-640x360.be3e16de.jpg"><p>Auf Steam waren kurzzeitig Systemanforderungen und Erscheinungstermin von Star Wars: Jedi Survivor zu sehen. Laut den Informationen geht der Nachfolger von Star Wars Jedi: Fallen Order (Test) schon im ersten Quartal des kommenden Jahres an den Start.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Facebook, WhatsApp und Instagram: Keine personalisierte Werbung mehr in der EU ohne Einwilligung der Nutzer]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1141899</id>
-        <link href="https://stadt-bremerhaven.de/facebook-whatsapp-und-instagram-keine-personalisierte-werbung-mehr-in-der-eu-ohne-einwilligung-der-nutzer/"/>
-        <updated>2022-12-06T19:31:21.000Z</updated>
-        <summary type="html"><![CDATA[Der europäische Datenschutz und Meta/Facebook – das ergibt schon seit vielen Jahren eine explosive Mischung, allein in den vergangenen Monaten musste das Unternehmen Strafzahlungen in Höhe von mehreren hundert Millionen US-Dollar entgegenblicken. Nun hat wohl laut noyb.eu (None Of You...
-Zum Beitrag: Facebook, WhatsApp und Instagram: Keine personalisierte Werbung mehr in der EU ohne Einwilligung der Nutzer
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>Benjamin Mamerow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Portal with RTX im Test: Die RTX-4000-Techdemo im Grafik­karten-Benchmark]]></title>
-        <id>https://www.computerbase.de/2022-12/portal-with-rtx-benchmark-test/</id>
-        <link href="https://www.computerbase.de/2022-12/portal-with-rtx-benchmark-test/"/>
-        <updated>2022-12-06T19:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/9/5/5-423745384ba31416/article-640x360.f1d94a97.jpg"><p>Mit Portal with RTX erhält ein weiterer Klassiker ein Raytracing-Remake. Die realistische Berechnung von Licht und Schatten hat allerdings ihren Preis: Ohne DLSS stemmt nur die RTX-4000-Serie WQHD (und höher), RTX 2000 und Radeon RX 6000 sind komplett raus. Portal with RTX ist damit zurzeit mehr Techdemo denn Spiele-Remake.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft veröffentlicht Windows 11 Insider Preview Builds 22621.1028 und 22623.1028]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1141897</id>
-        <link href="https://stadt-bremerhaven.de/microsoft-veroeffentlicht-windows-11-insider-preview-builds-22621-1028-und-22623-1028/"/>
-        <updated>2022-12-06T18:50:28.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft verteilt aktuell für alle Insider im Beta-Channel die neuen Windows 11 Insider Preview Builds 22621.1028 und 22623.1028. Jene beschäftigen sich vorrangig mit dem üblichen Beheben von Fehlern, neue Features lassen sich hier keine blicken. Beispielsweise ist eine Absturzursache vom...
-Zum Beitrag: Microsoft veröffentlicht Windows 11 Insider Preview Builds 22621.1028 und 22623.1028
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>Benjamin Mamerow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intel Arc 31.0.101.3959: Neuer Treiber soll die Leistung unter DirectX 9 verbessern]]></title>
-        <id>https://www.computerbase.de/2022-12/intel-arc-31-0-101-3959-neuer-treiber-soll-die-leistung-unter-directx-9-verbessern/</id>
-        <link href="https://www.computerbase.de/2022-12/intel-arc-31-0-101-3959-neuer-treiber-soll-die-leistung-unter-directx-9-verbessern/"/>
-        <updated>2022-12-06T18:14:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/9/9/4-d98e19a1f9311882/article-640x360.1b13e2db.jpg"><p>Intel bessert bei den Treibern für die Arc-Grafikkarten stetig nach, wie auch ComputerBase erst gestern in einem erneuten Test der A770 sowie der A750 feststellen konnte. Nun soll mit einer neuen Beta-Version, dem Game On Driver 31.0.101.3959, insbesondere die Leistung unter DirectX 9 steigen.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple App Store: Größte Aktualisierung der Preisgestaltung angekündigt]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1141892</id>
-        <link href="https://stadt-bremerhaven.de/apple-app-store-groesste-aktualisierung-der-preisgestaltung-angekuendigt/"/>
-        <updated>2022-12-06T18:13:42.000Z</updated>
-        <summary type="html"><![CDATA[Für Entwickler von Apps auf Apple-Plattformen wird es unter Umständen spannender, für Nutzer weniger übersichtlich. Apple hat das umfassendste Upgrade der Preisgestaltungsmöglichkeiten seit dem Start des App Store angekündigt. Entwickler erhalten 700 zusätzliche Preispunkte und neue Werkzeuge zur Preisgestaltung, die...
-Zum Beitrag: Apple App Store: Größte Aktualisierung der Preisgestaltung angekündigt
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>caschy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DuckDuckGo: Browser integriert Bitwarden]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1141882</id>
-        <link href="https://stadt-bremerhaven.de/duckduckgo-browser-integriert-bitwarden/"/>
-        <updated>2022-12-06T17:57:04.000Z</updated>
-        <summary type="html"><![CDATA[DuckDuckGo hatte seinen Browser für den Mac im Oktober in die öffentliche Beta geschickt. Der auf Webkit basierende Browser setzt auf DuckDuckGo als Suchmaschine und will Tracker blocken sowie einen Cookie-Popup-Schutz für ca. 50 % der Websites bieten. Nutzer werden...
-Zum Beitrag: DuckDuckGo: Browser integriert Bitwarden
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>caschy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple Music Sing: Apple Music erhält Karaoke-Funktion]]></title>
-        <id>https://www.computerbase.de/2022-12/apple-music-sing-apple-music-erhaelt-karaoke-funktion/</id>
-        <link href="https://www.computerbase.de/2022-12/apple-music-sing-apple-music-erhaelt-karaoke-funktion/"/>
-        <updated>2022-12-06T17:01:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/9/9/5-d97184cd6be4d6b0/article-640x360.f48192e2.jpg"><p>Im Laufe dieses Monats will Apple den eigenen Streaming-Dienst Apple Music um eine Karaoke-Funktion namens Apple Music Sing erweitern. Das Feature soll allen Abonnenten weltweit angeboten und kann auf iPhone, iPad und dem neuen Apple TV 4K genutzt werden. Mitbewerber wie Spotify oder Amazon unterstützen ebenfalls Karaoke.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HBO Max und Discovery+: Neuer Dienst soll wohl „Max“ heißen]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1141856</id>
-        <link href="https://stadt-bremerhaven.de/hbo-max-und-discovery-neuer-dienst-soll-wohl-max-heissen/"/>
-        <updated>2022-12-06T17:00:46.000Z</updated>
-        <summary type="html"><![CDATA[Die Streaming-Plattformen HBO Max und Discovery+ werden 2023 zu einem neuen Dienst verschmelzen. Der soll dann die Inhalte beider Angebote bündeln. Für Deutschland ist das mehr eine theoretische Nummer, denn aufgrund eines Lizenzabkommens mit Sky ist HBO Max bei uns...
-Zum Beitrag: HBO Max und Discovery+: Neuer Dienst soll wohl „Max“ heißen
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>André Westphal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Elden Ring: Kostenfreies Colosseum-Update]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1141868</id>
-        <link href="https://stadt-bremerhaven.de/elden-ring-kostenfreies-colosseum-update/"/>
-        <updated>2022-12-06T16:52:17.000Z</updated>
-        <summary type="html"><![CDATA[Spieler von Elden Ring können sich schon einmal den 7. Dezember vormerken, denn da gibts ein kleines Update. Mit diesem erhält das Open-World-RPG ein PvP-Update. Nach der Installation des Updates können die Spieler in einer großen Arena gegeneinander antreten. Publisher...
-Zum Beitrag: Elden Ring: Kostenfreies Colosseum-Update
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>caschy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FRITZ!Box 6590 und 6490 Cable: Laborversion behebt Fehler]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1141861</id>
-        <link href="https://stadt-bremerhaven.de/fritzbox-6590-und-6490-cable-laborversion-behebt-fehler/"/>
-        <updated>2022-12-06T16:28:03.000Z</updated>
-        <summary type="html"><![CDATA[Keine FRITZ!OS 7.50, aber eine neue Laborversion: AVM bedient da gerade aktuell die FRITZ!Box 6590 und die 6490 Cable. Da konnte es bei beiden Modellen dazu kommen, dass, wenn die FRITZ!Box im IP-Client-Modus betrieben wurde, am WLAN-Gastzugang angemeldete WLAN-Geräte manchmal...
-Zum Beitrag: FRITZ!Box 6590 und 6490 Cable: Laborversion behebt Fehler
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>caschy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta Cross-Check: Harsche Kritik durch das Oversight Board]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1141834</id>
-        <link href="https://stadt-bremerhaven.de/meta-cross-check-harsche-kritik-durch-das-oversight-board/"/>
-        <updated>2022-12-06T16:15:33.000Z</updated>
-        <summary type="html"><![CDATA[Das Oversight Board schaut sich das Geschehen rund um Metas Plattformen an und wurde vor ca. 4 Jahren mit dem Segen von Mark Zuckerberg als möglichst unabhängiges Gremium ins Leben gerufen. So kommt es dann auch dazu, dass das Board...
-Zum Beitrag: Meta Cross-Check: Harsche Kritik durch das Oversight Board
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>André Westphal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Witcher 3 Next Gen: CD Projekt informiert zu Mod-Support und Raytracing-Modi]]></title>
-        <id>https://www.computerbase.de/2022-12/the-witcher-3-next-gen-cd-projekt-informiert-zu-mod-support-und-raytracing-modi/</id>
-        <link href="https://www.computerbase.de/2022-12/the-witcher-3-next-gen-cd-projekt-informiert-zu-mod-support-und-raytracing-modi/"/>
-        <updated>2022-12-06T16:10:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/9/9/0-5672f6974c7d5712/article-640x360.61581561.jpg"><p>Am 14. Dezember 2022 erscheint das kostenlose Next-Gen-Update für The Witcher 3: The Wild Hunt (Test). Dass nebst Nvidia DLSS und AMD FSR 2 auch Raytracing mit dabei sind wird, ist bereits bekannt. Nun geht CD Projekt aber weiter auf die Implementierung ein und informiert überdies zu Detailverbesserungen und dem Mod-Support.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[„His Dark Materials“: Dritte und finale Staffel ab heute bei Sky und WOW]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1141851</id>
-        <link href="https://stadt-bremerhaven.de/his-dark-materials-dritte-und-finale-staffel-ab-heute-bei-sky-und-wow/"/>
-        <updated>2022-12-06T15:45:04.000Z</updated>
-        <summary type="html"><![CDATA[Die Fantasy-Serie „His Dark Materials“ ist eine Koproduktion von HBO und der BBC. Die dritte und finale Staffel startet heute und ist parallel zur US-Erstausstrahlung auch bei Sky Deutschland und WOW zu sehen. Man zeigt dabei wöchentlich Doppelfolgen. Acht Episoden...
-Zum Beitrag: „His Dark Materials“: Dritte und finale Staffel ab heute bei Sky und WOW
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>André Westphal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sonos Softwareversion 14.20: Das ist neu]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1141853</id>
-        <link href="https://stadt-bremerhaven.de/sonos-softwareversion-14-20-das-ist-neu/"/>
-        <updated>2022-12-06T15:31:54.000Z</updated>
-        <summary type="html"><![CDATA[Sonos hat seine Softwareversion 14.20 veröffentlicht. Auch die Lautsprecher bekommen ein Update. Vorweg: Das iPhone 14 Pro ist weiterhin nicht in der Lage, True Play bei den Sonos-Lautsprechern einzurichten. Ein Trauerspiel. Doch zurück zum Update 14.20 von Sonos. Da gibts...
-Zum Beitrag: Sonos Softwareversion 14.20: Das ist neu
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>caschy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FRITZ!OS: FRITZ!Box 5590 Fiber bekommt ein Wartungsupdate]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1141844</id>
-        <link href="https://stadt-bremerhaven.de/fritzos-fritzbox-5590-fiber-bekommt-ein-wartungsupdate/"/>
-        <updated>2022-12-06T15:17:57.000Z</updated>
-        <summary type="html"><![CDATA[Besitzer der FRITZ!Box 5590 Fiber bekommen von AVM ein Wartungsupdate auf die Version 7.30 verpasst. Das FRITZ!OS-Update lässt sich durch euch ab sofort herunterladen. Das Changelog haben wir auch für euch: Verbesserung in FRITZ!OS 07.30 Fiber: Verbesserung: Interoperabilität zu verschiedenen Glasfasergegenstellen...
-Zum Beitrag: FRITZ!OS: FRITZ!Box 5590 Fiber bekommt ein Wartungsupdate
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>caschy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple Music Sing: Apple will euch singen lassen]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1141840</id>
-        <link href="https://stadt-bremerhaven.de/apple-music-sing-apple-will-euch-singen-lassen/"/>
-        <updated>2022-12-06T15:08:33.000Z</updated>
-        <summary type="html"><![CDATA[Apple hat „Apple Music Sing“ vorgestellt, eine neue Funktion, die es Nutzern ermöglicht, ihre Lieblingssongs mit anpassbarem Gesang- und Echtzeit-Lyrics mitzusingen. Apple Music Sing bietet mehrere Textansichten, um Sängern zu helfen, die Führung zu übernehmen, Duette zu singen, Unterstützung zu...
-Zum Beitrag: Apple Music Sing: Apple will euch singen lassen
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>caschy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Phantom Gaming und Taichi: Erste Bilder der Radeon RX 7900 XT(X) von ASRock]]></title>
-        <id>https://www.computerbase.de/2022-12/phantom-gaming-und-taichi-erste-bilder-der-radeon-rx-7900-xt-x-von-asrock/</id>
-        <link href="https://www.computerbase.de/2022-12/phantom-gaming-und-taichi-erste-bilder-der-radeon-rx-7900-xt-x-von-asrock/"/>
-        <updated>2022-12-06T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/9/8/9-0ca9367b9fb7c1fb/article-640x360.fc575b1d.jpg"><p>In genau einer Woche fällt der Startschuss für die neue Radeon RX-7900-Serie von AMD. Kein Wunder, dass immer mehr Informationen über die Partnerkarten durchsickern. VideoCardz liefert nun erste Bilder der Modelle von ASRock.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pixelmator Pro 3.2 unterstützt Videodateien]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1141836</id>
-        <link href="https://stadt-bremerhaven.de/pixelmator-pro-3-2-unterstuetzt-videodateien/"/>
-        <updated>2022-12-06T14:55:30.000Z</updated>
-        <summary type="html"><![CDATA[Pixelmator Pro ist in Version 3.2 erschienen. Falls nicht bekannt: Pixelmator Pro ist eine Bildbearbeitung, die auf dem Mac zu Hause ist. Mit der Version 3.2 gibt es nun Neuerungen. Das Update bringt Unterstützung für Videoebenen und eröffnet neue Möglichkeiten, bewegte...
-Zum Beitrag: Pixelmator Pro 3.2 unterstützt Videodateien
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>caschy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Samsung Galaxy A22 und A23 (5G) erhalten OneUI 5.0 (Android 13)]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1141826</id>
-        <link href="https://stadt-bremerhaven.de/samsung-galaxy-a22-und-a23-5g-erhalten-oneui-5-0-android-13/"/>
-        <updated>2022-12-06T14:30:59.000Z</updated>
-        <summary type="html"><![CDATA[Samsung hat in Europa damit begonnen OneUI 5.0, basierend auf Android 13, für die drei Smartphones Galaxy A22, Galaxy A23 und Galaxy A23 5G zu verteilen. Auch in Deutschland, Österreich und der Schweiz soll die Verteilung bereits angelaufen sein. Es...
-Zum Beitrag: Samsung Galaxy A22 und A23 (5G) erhalten OneUI 5.0 (Android 13)
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>André Westphal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Alienware 18: Dells Monster-Notebook mit 18-Zoll-Display kehrt zurück]]></title>
-        <id>https://www.computerbase.de/2022-12/alienware-18-dells-monster-notebook-mit-18-zoll-display-kehrt-zurueck/</id>
-        <link href="https://www.computerbase.de/2022-12/alienware-18-dells-monster-notebook-mit-18-zoll-display-kehrt-zurueck/"/>
-        <updated>2022-12-06T14:07:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/9/8/6-347565b53723468a/article-640x360.8e1ecd68.jpg"><p>Etwas großes und mächtiges kommt bald. Mit diesen Worten und der Zahl „18“ weckt Alienware mit einem Trailer Erwartungen an die Rückkehr einer Legende: Die riesigen Notebooks der Serie Alienware 18 mit ihrem namensgebenden 18-Zoll-Display.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SpaceX Starshield: Satelliten-Internet für Regierungen und das Militär]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1141823</id>
-        <link href="https://stadt-bremerhaven.de/spacex-starshield-satelliten-internet-fuer-regierungen-und-das-militaer/"/>
-        <updated>2022-12-06T14:00:57.000Z</updated>
-        <summary type="html"><![CDATA[Starlink kennen viele von euch, hier handelt es sich um Satelliten-Internet, welches durch das Unternehmen SpaceX bereitgestellt wird. Das Netzwerk hat bereits über 3.500 Satelliten und weitere sind kürzlich erst erlaubt worden. Während sich Starlink eher an Privatpersonen und Unternehmen...
-Zum Beitrag: SpaceX Starshield: Satelliten-Internet für Regierungen und das Militär
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>caschy</name>
         </author>
     </entry>
     <entry>
