@@ -2,10 +2,330 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://olivedrop.github.io/drop/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-09T01:35:05.741Z</updated>
+    <updated>2023-01-10T01:40:36.240Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://olivedrop.github.io/drop/index.html"/>
     <link rel="self" href="https://olivedrop.github.io/drop/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[GeForce RTX 4070 & 4060 Ti: Gerüchte sprechen von zwei weiteren AD104-Grafikkarten [Notiz]]]></title>
+        <id>https://www.computerbase.de/2023-01/geforce-rtx-4070-und-4060-ti-geruechte-sprechen-von-zwei-weiteren-ad104-grafikkarten/</id>
+        <link href="https://www.computerbase.de/2023-01/geforce-rtx-4070-und-4060-ti-geruechte-sprechen-von-zwei-weiteren-ad104-grafikkarten/"/>
+        <updated>2023-01-09T20:16:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/6/3/8/7-2fbdd88cf0fd80b5/article-640x360.365a9c37.jpg"><p>Die GeForce RTX 4070 Ti (Test) ist gerade erst erschienen, da erhöht sich die Frequenz der Hinweise zu den nächsten Grafikkarten auf Basis von Ada Lovelace. Erneut geht es um die in der Gerüchteküche bereits Ende 2022 thematisierten GeForce RTX 4070 und RTX 4060 Ti. Mit einem zeitnahen Marktstart ist aber nicht zu rechnen.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google bringt neue Funktionen für ältere Android-Versionen]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1156859</id>
+        <link href="https://stadt-bremerhaven.de/google-bringt-neue-funktionen-fuer-aeltere-android-versionen/"/>
+        <updated>2023-01-09T19:25:02.000Z</updated>
+        <summary type="html"><![CDATA[Google möchte modernere Android-Funktionen auch älteren Ausgaben zugänglich machen. Möglich macht dies neue die Abwärtskompatibilität des Extension SDK. Entwickler finden hier alles vor. Android 10 und höher unterstützen modulare Systemkomponenten, die es Google ermöglichen, Funktions- und Sicherheitsupdates für das Android-Ökosystem...
+Zum Beitrag: Google bringt neue Funktionen für ältere Android-Versionen
+
+Zum Blog: Caschys Blog]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deepcool: Displays auf Kühlern und Gehäuse für Temperaturen]]></title>
+        <id>https://www.computerbase.de/2023-01/deepcool-displays-auf-kuehlern-und-gehaeuse-fuer-temperaturen/</id>
+        <link href="https://www.computerbase.de/2023-01/deepcool-displays-auf-kuehlern-und-gehaeuse-fuer-temperaturen/"/>
+        <updated>2023-01-09T18:53:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/6/3/8/8-2aa25146720851ff/article-640x360.c8b7e6a4.jpg"><p>Deepcool zeigt zur CES 2023, wie die Zukunft für Kühler und Gehäuse aussehen soll. Für das Unternehmen besitzt sie eine integrierte Temperaturanzeige, die in Produkten beider Kategorien verbaut wird. Der neue Flaggschiff-Kühler Assassin IV kommt allerdings noch ohne aus.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Pixel: Android 13 QPR2 Beta 2 veröffentlicht]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1156852</id>
+        <link href="https://stadt-bremerhaven.de/google-pixel-android-13-qpr2-beta-2-veroeffentlicht/"/>
+        <updated>2023-01-09T18:23:25.000Z</updated>
+        <summary type="html"><![CDATA[Es darf wieder getestet werden. Google hat die Android 13 QPR2 Beta 2 für unterstützte Pixel-Smartphones (Pixel 4a, 5, 5a, 6, 6 pro, 6a, 7 und 7 Pro)veröffentlicht. Die Android 13 QPR2 Beta 2 (T2B2.221216.006) enthält den neuesten Sicherheitspatch vom...
+Zum Beitrag: Google Pixel: Android 13 QPR2 Beta 2 veröffentlicht
+
+Zum Blog: Caschys Blog]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[„Silent Hill 2“: Bloober Team will sein Remake zum Vorbild machen]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1156528</id>
+        <link href="https://stadt-bremerhaven.de/silent-hill-2-bloober-team-will-sein-remake-zum-vorbild-machen/"/>
+        <updated>2023-01-09T18:00:06.000Z</updated>
+        <summary type="html"><![CDATA[„Silent Hill 2“ gilt als bester Teil der Spielreihe und allgemein als eines der besten Horror-Spiele aller Zeiten. Dabei fällt dieser Eintrag in der Serienhistorie eigentlich eher aus dem Rahmen: Denn hier geht es nicht um okkulte Elemente, sondern vielmehr...
+Zum Beitrag: „Silent Hill 2“: Bloober Team will sein Remake zum Vorbild machen
+
+Zum Blog: Caschys Blog]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft will GPT von OpenAI offenbar für Bing und die Office-Suite nutzen]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1156803</id>
+        <link href="https://stadt-bremerhaven.de/microsoft-will-gpt-von-openai-offenbar-fuer-bing-und-die-office-suite-nutzen/"/>
+        <updated>2023-01-09T17:30:40.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft prüft laut einem Bericht von The Information die Möglichkeiten, GPT von OpenAI verstärkt für seine Office-Suite sowie die Suchmaschine Bing zu implementieren. Schon jetzt setzen de Redmonder demnach etwa für die Autovervollständigung in Word oder die Verbesserung der Suchergebnisse...
+Zum Beitrag: Microsoft will GPT von OpenAI offenbar für Bing und die Office-Suite nutzen
+
+Zum Blog: Caschys Blog]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Steam: Erstmals 10 Mio. Spieler gleichzeitig beim Zocken]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1156788</id>
+        <link href="https://stadt-bremerhaven.de/steam-erstmals-10-mio-spieler-gleichzeitig-beim-zocken/"/>
+        <updated>2023-01-09T17:00:48.000Z</updated>
+        <summary type="html"><![CDATA[Steam hat einen neuen Meilenstein erreicht: Am Wochenende waren erstmals parallel mehr als 10 Mio. Menschen gleichzeitig via Steam in Spielen online. Parallel erreichte man auch einen neuen Rekord, was die Anzahl der eingeloggten Nutzer betrifft: Das waren über 33...
+Zum Beitrag: Steam: Erstmals 10 Mio. Spieler gleichzeitig beim Zocken
+
+Zum Blog: Caschys Blog]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Inside Job: Nächste Netflix-Serie abgesägt]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1156839</id>
+        <link href="https://stadt-bremerhaven.de/inside-job-naechste-netflix-serie-abgesaegt/"/>
+        <updated>2023-01-09T16:45:45.000Z</updated>
+        <summary type="html"><![CDATA[Die bislang aus zwei Teilen bestehende Serie „Inside Job“ wird nicht mehr um eine weitere Staffel ergänzt. Die schräge Animationsserie aus der Hand von Shion Takeuchi behandelt schrille Verschwörungen. In der Serie geht es um die Organisation Cognito Inc., die...
+Zum Beitrag: Inside Job: Nächste Netflix-Serie abgesägt
+
+Zum Blog: Caschys Blog]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Xbox und Oreo stellen „Special Edition Cookies“ vor]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1156825</id>
+        <link href="https://stadt-bremerhaven.de/xbox-und-oreo-stellen-special-edition-cookies-vor/"/>
+        <updated>2023-01-09T16:30:35.000Z</updated>
+        <summary type="html"><![CDATA[Gaming und Snacks: Diese Kombination hat sich wohl bei vielen eingebrannt und ist auch ein gern genommenes Klischee in Filmen und Serien: Der Zocker, der mit der offenen Chipstüte, Pizza und Energydrink auf der Couch oder vor dem Monitor hängt,...
+Zum Beitrag: Xbox und Oreo stellen „Special Edition Cookies“ vor
+
+Zum Blog: Caschys Blog]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Innr: Probleme mit der Bridge bzw. Google Home / Amazon Alexa sind behoben]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1156831</id>
+        <link href="https://stadt-bremerhaven.de/innr-probleme-mit-der-bridge-bzw-google-home-amazon-alexa-sind-behoben/"/>
+        <updated>2023-01-09T16:15:58.000Z</updated>
+        <summary type="html"><![CDATA[Für diejenigen, die Beleuchtung von Innr nutzen und kürzlich auf Probleme gestoßen sind: Ihr seid nicht allein. Konkret gab es offenbar Schwierigkeiten mit der Verbindung der Bridge und Google Home bzw. Amazon Alexa. Etwa gibt der Kollege Felix an,...
+Zum Beitrag: Innr: Probleme mit der Bridge bzw. Google Home / Amazon Alexa sind behoben
+
+Zum Blog: Caschys Blog]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sony PlayStation 5: Wohl neue Bundles mit zwei Controllern geplant]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1156819</id>
+        <link href="https://stadt-bremerhaven.de/sony-playstation-5-wohl-neue-bundles-mit-zwei-controllern-geplant/"/>
+        <updated>2023-01-09T16:00:36.000Z</updated>
+        <summary type="html"><![CDATA[Die Sony PlayStation 5 habe laut Sony die Lieferengpässe überwunden. Doch was Sprecher des Unternehmens vollmundig verkünden und wie es im Handel aussieht, ist doch wieder eine andere Sache. Denn zwar lässt sich die Konsole in der Tat mittlerweile besser...
+Zum Beitrag: Sony PlayStation 5: Wohl neue Bundles mit zwei Controllern geplant
+
+Zum Blog: Caschys Blog]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KeePass 2.53 veröffentlicht: Kostenloser Passwortmanager]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1156820</id>
+        <link href="https://stadt-bremerhaven.de/keepass-2-53-veroeffentlicht-kostenloser-passwortmanager/"/>
+        <updated>2023-01-09T15:30:01.000Z</updated>
+        <summary type="html"><![CDATA[KeePass ist ein kostenloser Passwort-Manager, der es Benutzern ermöglicht, alle ihre Passwörter sicher in einer Datenbank zu speichern. Mit KeePass können Benutzer sich ein Hauptpasswort für die Datenbank setzen und dann alle ihre anderen Passwörter darin speichern. Dies ermöglicht es...
+Zum Beitrag: KeePass 2.53 veröffentlicht: Kostenloser Passwortmanager
+
+Zum Blog: Caschys Blog]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vodafone setzt die TV-Frequenzumstellung am 11.01.2023 fort]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1156736</id>
+        <link href="https://stadt-bremerhaven.de/vodafone-setzt-die-tv-frequenzumstellung-sm-11-01-2023-fort/"/>
+        <updated>2023-01-09T15:00:58.000Z</updated>
+        <summary type="html"><![CDATA[Im vergangenen Jahr hatte Vodafone damit begonnen, die TV-Frequenzen von insgesamt 350 TV-Sendern umzustellen. Damit wolle man sein Kabelnetz mit noch mehr Kapazitäten fit für die Zukunft zu machen. Vodafone gleicht deshalb das bislang regional unterschiedlich genutzte TV-Frequenzspektrum im Kabelnetz...
+Zum Beitrag: Vodafone setzt die TV-Frequenzumstellung am 11.01.2023 fort
+
+Zum Blog: Caschys Blog]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Radeon unter Linux 6.3: AMD plant zahlreiche neue Features für den neuen Kernel]]></title>
+        <id>https://www.computerbase.de/2023-01/amd-radeon-linux-6-3-graphics-driver/</id>
+        <link href="https://www.computerbase.de/2023-01/amd-radeon-linux-6-3-graphics-driver/"/>
+        <updated>2023-01-09T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/6/3/8/6-30c76e6414beafb6/article-640x360.a90159f8.jpg"><p>AMD hat bereits damit begonnen, zahlreiche neue GPU-Features für Grafikkarten der Serie Radeon und den kommenden Systemkernel Linux 6.3 einzureichen. Der Code des Open-Source-Unified-Driver („AMDGPU“) und des AMD Kernel Fusion Driver („AMDKFD“) erhält auch diverse Updates in den Bereichen DisplayPort 2.1 und Video Core Next.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OneDrive für iOS sichert RAW- und ProRAW-Fotos]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1156814</id>
+        <link href="https://stadt-bremerhaven.de/onedrive-fuer-ios-sichert-raw-und-proraw-fotos/"/>
+        <updated>2023-01-09T14:33:44.000Z</updated>
+        <summary type="html"><![CDATA[Solltet ihr OneDrive für iOS nutzen, dann gibt es mal wieder Neuerungen. Microsoft Speicherdienst, der im Microsoft-365-Abo mit satten 1 TB Speicher mit drin ist, kann auf unterschiedlichen Plattformen genutzt werden. Unter iOS unterstützt der Kameraupload jetzt das Hochladen von...
+Zum Beitrag: OneDrive für iOS sichert RAW- und ProRAW-Fotos
+
+Zum Blog: Caschys Blog]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Asus stellt neues ExpertBook B9 mit OLED-Display vor]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1155209</id>
+        <link href="https://stadt-bremerhaven.de/asus-stellt-neues-expertbook-b9-mit-oled-display-vor/"/>
+        <updated>2023-01-09T14:00:01.000Z</updated>
+        <summary type="html"><![CDATA[Das Asus ExpertBook B9 OLED wird von einer Intel-CPU der 13. Generation angetrieben und unterstützt die Intel vPro-Plattform. Es verfügt über ein aktualisiertes 2.8K-Display mit einem Screen-to-Body-Verhältnis von 90 Prozent sowie ein Kühlsystem bestehend aus zwei Lüftern mit Staubentfernungsmechanismus, um...
+Zum Beitrag: Asus stellt neues ExpertBook B9 mit OLED-Display vor
+
+Zum Blog: Caschys Blog]]></summary>
+        <author>
+            <name>Benjamin Mamerow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ryzen 7000 mit 65 Watt im Test: 7900, 7700 & 7600 sind kaum langsamer als die X-Varianten]]></title>
+        <id>https://www.computerbase.de/2023-01/ryzen-7000-65-watt-test/</id>
+        <link href="https://www.computerbase.de/2023-01/ryzen-7000-65-watt-test/"/>
+        <updated>2023-01-09T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/6/1/1/5-6acc7056f182af03/article-640x360.be21f7f3.jpg"><p>AMD Ryzen 7000 für Sockel AM5 gibt es ab sofort auch in den drei 65-Watt-TDP-Varianten Ryzen 9 7900, Ryzen 7 7700 und Ryzen 5 7600. Abseits der ab Werk reduzierten Verlustleistung und infolgedessen niedrigeren Taktraten entsprechen die drei CPUs den X-Varianten. Wie schnell sie in Anwendungen und Spielen sind, klärt der Test.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[8 Mile: Serie zum Kinofilm mit Eminem in Planung]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1156715</id>
+        <link href="https://stadt-bremerhaven.de/8-mile-serie-zum-kinofilm-mit-eminem-in-planung/"/>
+        <updated>2023-01-09T13:30:19.000Z</updated>
+        <summary type="html"><![CDATA[Der Film 8 Mile ist im November letzten Jahres 20 Jahre alt geworden. Eminem hat für seinen Titel-Song „Lose Yourself“ damals einen Oscar, einen Grammy und viele weitere Preise einheimsen können. Er selbst spielte in dem Film, der frei sein...
+Zum Beitrag: 8 Mile: Serie zum Kinofilm mit Eminem in Planung
+
+Zum Blog: Caschys Blog]]></summary>
+        <author>
+            <name>Olli</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Verbraucherzentrale möchte gegen DAZN vorgehen]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1156807</id>
+        <link href="https://stadt-bremerhaven.de/verbraucherzentrale-moechte-gegen-dazn-vorgehen/"/>
+        <updated>2023-01-09T13:16:07.000Z</updated>
+        <summary type="html"><![CDATA[Die Verbraucherzentrale möchte gegen DAZN aufgrund der im August 2022 angekündigten Preiserhöhung vorgehen. Die Preise stiegen von 14,99 auf 29,99 Euro pro Monat und bei Einmalzahlung von 149,99 auf 274,99 Euro pro Jahr. Der Verbraucherzentrale Bundesverband (vzbv) hält die zugrundeliegende...
+Zum Beitrag: Verbraucherzentrale möchte gegen DAZN vorgehen
+
+Zum Blog: Caschys Blog]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zattoo Ultimate: Einen Monat kostenlos testen mit Chance auf einen Smart TV]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1156800</id>
+        <link href="https://stadt-bremerhaven.de/zattoo-ultimate-einen-monat-kostenlos-testen-mit-chance-auf-einen-smart-tv/"/>
+        <updated>2023-01-09T13:10:19.000Z</updated>
+        <summary type="html"><![CDATA[Zattoo, der Anbieter aus der Schweiz, der das TV-Programm über das Internet für euch bringt, ist mit einer neuen Aktion gestartet. Das Angebot von Zattoo kann man derzeit als „Ultimate-Gratismonat“ als Neukunde in Anspruch nehmen. Grundsätzlich schon eine bequeme Möglichkeit,...
+Zum Beitrag: Zattoo Ultimate: Einen Monat kostenlos testen mit Chance auf einen Smart TV
+
+Zum Blog: Caschys Blog]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Razer Edge: Verkaufsstart ist am 26. Januar 2023]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1156487</id>
+        <link href="https://stadt-bremerhaven.de/razer-edge-verkaufsstart-ist-am-26-januar-2023/"/>
+        <updated>2023-01-09T13:00:10.000Z</updated>
+        <summary type="html"><![CDATA[Das Razer Edge konnte sich André zuletzt auf Hawaii schon einmal persönlich genauer anschauen und war nun gar nicht so abgeneigt von der Technik. Nun steht das Veröffentlichungsdatum dank Verizon auch fest: Der 26. Januar dieses Jahres soll es werden,...
+Zum Beitrag: Razer Edge: Verkaufsstart ist am 26. Januar 2023
+
+Zum Blog: Caschys Blog]]></summary>
+        <author>
+            <name>Benjamin Mamerow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Raspberry Pi Camera Module 3 mit Autofokus startet mit vier Varianten ab 25 US-Dollar]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1156778</id>
+        <link href="https://stadt-bremerhaven.de/raspberry-pi-camera-module-3-startet-mit-vier-varianten-ab-25-us-dollar/"/>
+        <updated>2023-01-09T12:30:33.000Z</updated>
+        <summary type="html"><![CDATA[Bei der Raspberry Pi Foundation gibt es einen neuen Launch: den des Raspberry Pi Camera Module 3. Genau genommen schickt man sogar gleich vier Varianten ins Rennen. So gibt es Standard-Modelle für sichtbares Licht und dann noch die Infrarot-Abwandlungen. Beide...
+Zum Beitrag: Raspberry Pi Camera Module 3 mit Autofokus startet mit vier Varianten ab 25 US-Dollar
+
+Zum Blog: Caschys Blog]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MSI Afterburner: Krieg in der Ukraine bringt Entwicklungen zum Erliegen (Update)]]></title>
+        <id>https://www.computerbase.de/2023-01/krieg-in-der-ukraine-bremst-msi-afterburner/</id>
+        <link href="https://www.computerbase.de/2023-01/krieg-in-der-ukraine-bremst-msi-afterburner/"/>
+        <updated>2023-01-09T12:15:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/6/3/8/5-f68176487cf6b73d/article-640x360.fa7f26e0.jpg"><p>Der anhaltende Krieg in der Ukraine und die damit verbundenen Sanktionen bremsen den MSI Afterburner aus, dessen Entwicklung deshalb ins Stocken geraten ist. Das letzte stabile Release datiert aus dem Dezember 2021 und auch zukünftig soll keine Besserung in Sicht sein, wie der russische Entwickler jetzt öffentlich gemacht hat.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jackery LightTent-AIR: Für Schönwetter-Camper geeignet]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1156724</id>
+        <link href="https://stadt-bremerhaven.de/jackery-lighttent-air/"/>
+        <updated>2023-01-09T12:00:34.000Z</updated>
+        <summary type="html"><![CDATA[Vermutlich erst einmal eine Machbarkeitsstudie, die Jackery auf der CES in Las Vegas gezeigt hat. Neben neuen Powerstationen zeigte man auch das LightTent-AIR. Hierbei handelt es sich um ein Zelt für 4 bis 5 Camper, welches gleich Solarpaneele zur Stromversorgung...
+Zum Beitrag: Jackery LightTent-AIR: Für Schönwetter-Camper geeignet
+
+Zum Blog: Caschys Blog]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Brow Magic: L’Oréal stellt einen Drucker für Augenbrauen vor]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1156775</id>
+        <link href="https://stadt-bremerhaven.de/brow-magic-loreal-stellt-einen-drucker-fuer-augenbrauen-vor/"/>
+        <updated>2023-01-09T11:30:42.000Z</updated>
+        <summary type="html"><![CDATA[Auch das Kosmetikunternehmen L’Oréal war auf der CES in Las Vegas und hat Hardware vorgestellt. Da gönnen wir uns doch einmal gerne den Blick über den Tellerrand. Mit dem L’Oréal Brow Magic hat man einen Drucker für Augenbrauen präsentiert. Der...
+Zum Beitrag: Brow Magic: L’Oréal stellt einen Drucker für Augenbrauen vor
+
+Zum Blog: Caschys Blog]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Adata, Gigabyte und Patriot: Schnelle SSDs mit PCIe 5.0 und USB4 auf der CES]]></title>
+        <id>https://www.computerbase.de/2023-01/adata-gigabyte-und-patriot-schnelle-ssds-mit-pcie-5-0-und-usb4-auf-der-ces/</id>
+        <link href="https://www.computerbase.de/2023-01/adata-gigabyte-und-patriot-schnelle-ssds-mit-pcie-5-0-und-usb4-auf-der-ces/"/>
+        <updated>2023-01-09T08:35:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/6/3/7/9-326390e4e7991543/article-640x360.bca51517.jpg"><p>Auf der CES 2023 in Las Vegas ist die neue SSD-Generation mit PCIe 5.0 wie erwartet ein großes Thema. Hersteller wie Adata, Gigabyte, MSI und Patriot zeigten ihre mal mehr und mal weniger seriennahen Modelle. Hohe Transferraten von bis zu 12 GB/s, aber auch aufwendigere Kühler prägen das Bild.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[LG Display stellt neue Lösungen für die Automobilindustrie vor]]></title>
         <id>https://stadt-bremerhaven.de/?p=1156543</id>
@@ -9966,252 +10286,6 @@ Zum Blog: Caschys Blog
 Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
         <author>
             <name>André Westphal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Maestro-Ende: Mastercard gewährt offenbar eine verlängerte Schonfrist]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1142573</id>
-        <link href="https://stadt-bremerhaven.de/maestro-ende-mastercard-gewaehrt-offenbar-eine-verlaengerte-schonfrist/"/>
-        <updated>2022-12-11T13:00:20.000Z</updated>
-        <summary type="html"><![CDATA[Mastercard hatte schon Ende 2021 das Ende von Maestro offiziell besiegelt. In Europa solle Mestro bereits Mitte 2023 weichen, hieß es damals. In Deutschland nutzt das Gros der 100 Mio. im Umlauf befindlichen Girokarten ein Ko-Badge von entweder Maestro oder...
-Zum Beitrag: Maestro-Ende: Mastercard gewährt offenbar eine verlängerte Schonfrist
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>André Westphal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Upstream, Downstream, Ping: Wie gut ist eure Internet­verbindung zuhause?]]></title>
-        <id>https://www.computerbase.de/2022-12/internet-geschwindigkeit-bandbreite-ping-umfrage/</id>
-        <link href="https://www.computerbase.de/2022-12/internet-geschwindigkeit-bandbreite-ping-umfrage/"/>
-        <updated>2022-12-11T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/6/0/5/8-900b1dd079307115/article-640x360.e2dbbe44.jpg"><p>Mit dieser Sonntagsfrage möchte die Redaktion von euch erfahren, wie ihr mit dem Internet verbunden seid. Wie schnell und zuverlässig ist eure Anbindung, welche Technik kommt dabei zum Einsatz und wie zufrieden seid ihr mit dem Status quo?</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenShot 3.0: Der freie Video-Editor erhält viele neue Funktionen]]></title>
-        <id>https://www.computerbase.de/2022-12/openshot-3-0-video-editor-windows-macos-linux/</id>
-        <link href="https://www.computerbase.de/2022-12/openshot-3-0-video-editor-windows-macos-linux/"/>
-        <updated>2022-12-11T12:30:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/6/0/5/9-95b4829267f851bc/article-640x360.45d7609e.jpg"><p>Der freie Video-Editor OpenShot für die nichtlinearen Videobearbeitung sowie den Videoschnitt unter Windows, macOS und Linux erhält mit dem Update auf die neueste Version 3.0 viele neue Funktionen und Verbesserungen. Insgesamt fließen über 1.000 Änderungen in das Release ein, das jetzt auch mit Blender 3.3 LTS kompatibel ist.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[reMarkable 2 ausprobiert: E-Ink-Tablet mit Stylus]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1140394</id>
-        <link href="https://stadt-bremerhaven.de/remarkable-2-ausprobiert-e-ink-tablet-mit-stylus/"/>
-        <updated>2022-12-11T12:00:53.000Z</updated>
-        <summary type="html"><![CDATA[Der Amazon Kindle Scribe ist nicht das einzige „Schreib-Tablet“ mit E-Ink-Display, welches ich in den letzten Wochen ausprobiert habe. Bereits seit einigen Monaten begleitet mich das reMarkable 2. Anders als bei Amazons Kindle liegt hier der Fokus mehr auf dem...
-Zum Beitrag: reMarkable 2 ausprobiert: E-Ink-Tablet mit Stylus
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>Felix Frank</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oppo und Huawei einigen sich auf Patentabkommen]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1142561</id>
-        <link href="https://stadt-bremerhaven.de/oppo-und-huawei-einigen-sich-auf-patentabkommen/"/>
-        <updated>2022-12-11T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Huawei und Oppo haben ein neues Patentabkommen unterzeichnet. Die chinesischen Hersteller lizenzieren sich also gegenseitig allerlei Patente, die sich laut Pressemitteilung etwa um Mobilfunkstandards wie 5G drehen. Weitere Details zum Abkommen verrät man nicht, dazu ist man zu beschäftigt mit...
-Zum Beitrag: Oppo und Huawei einigen sich auf Patentabkommen
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>André Westphal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[dynamicSpot: Update verbessert Animationen für Premium-Nutzer, fügt Musiksteuerung und mehr hinzu]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1142093</id>
-        <link href="https://stadt-bremerhaven.de/dynamicspot-update-verbessert-animationen-fuer-premium-nutzer-fuegt-musiksteuerung-und-mehr-hinzu/"/>
-        <updated>2022-12-11T10:00:35.000Z</updated>
-        <summary type="html"><![CDATA[Vor etwas mehr als zwei Monaten haben wir für euch über die App „dynamicSpot“ berichtet, eine Android-App, die in ihren Grundfunktionen kostenlos genutzt werden kann und das vom iPhone 14 (Pro/Pro Max) bekannte Feature Dynamic Island nachahmt. Der eine oder...
-Zum Beitrag: dynamicSpot: Update verbessert Animationen für Premium-Nutzer, fügt Musiksteuerung und mehr hinzu
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>Benjamin Mamerow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Für den guten Zweck: EVGA GeForce RTX 4090 wurde über eBay angeboten (Update)]]></title>
-        <id>https://www.computerbase.de/2022-12/evga-geforce-rtx-4090-ftx3-charity-ebay/</id>
-        <link href="https://www.computerbase.de/2022-12/evga-geforce-rtx-4090-ftx3-charity-ebay/"/>
-        <updated>2022-12-11T09:30:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/6/0/5/7-bde7407761026fb0/article-640x360.d48f8143.jpg"><p>Der ehemalige Grafikkartenhersteller EVGA, einst Partner von Nvidia, wollte einen seiner Prototypen der nie erschienenen GeForce RTX 4090 FTW3 für einen guten Zweck über eBay versteigern, doch die Auktion wurde plötzlich beendet und daraufhin offline genommen. Das Höchstgebot betrug zu dem Zeitpunkt exakt 16.000 US-Dollar.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ring Spotlight Cam Pro im Kurztest]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1138923</id>
-        <link href="https://stadt-bremerhaven.de/ring-spotlight-cam-pro-im-kurztest/"/>
-        <updated>2022-12-11T08:30:13.000Z</updated>
-        <summary type="html"><![CDATA[Das zu Amazon gehörende Unternehmen Ring hat im September zwei Kameras mit neuen Funktionen vorgestellt. Seit man letztes Jahr die radarbetriebene 3D-Bewegungserfassung und die Vogelperspektive auf den Markt gebracht hat, habe man von Kunden gehört, wie hilfreich Bewegungsbenachrichtigungen seien, die besser...
-Zum Beitrag: Ring Spotlight Cam Pro im Kurztest
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>caschy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bundesnetzagentur mahnt zur Vorsicht bei Online-Einkäufen zur Weihnachtszeit]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1142044</id>
-        <link href="https://stadt-bremerhaven.de/bundesnetzagentur-mahnt-zur-vorsicht-bei-online-einkaeufen-zur-weihnachtszeit/"/>
-        <updated>2022-12-11T07:00:15.000Z</updated>
-        <summary type="html"><![CDATA[Die Bundesnetzagentur mahnt in einer aktuellen Mitteilung zur Vorsicht bei Online-Einkäufen zur Weihnachtszeit. Dabei geht es nicht, was man auch hätte erwarten können, um Fake-Shops, sondern um den Dauerbrenner smarte Spielzeuge und andere vernetzte Alltagsgegenstände. So gibt es da allerlei...
-Zum Beitrag: Bundesnetzagentur mahnt zur Vorsicht bei Online-Einkäufen zur Weihnachtszeit
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>André Westphal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wochenrück- und Ausblick: Das große Gewinnspiel und Intel Arc im „Re-Test“]]></title>
-        <id>https://www.computerbase.de/2022-12/wochenrueckblick-und-ausblick-2022-w49/</id>
-        <link href="https://www.computerbase.de/2022-12/wochenrueckblick-und-ausblick-2022-w49/"/>
-        <updated>2022-12-11T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/6/0/4/7-980b982eabe24840/article-640x360.e22f7f00.jpg"><p>Im Fokus der Woche stand das alljährliche Gewinnspiel zum Nikolaus auf ComputerBase, in dem es auch dieses Jahr einen High-End-Gaming-PC zu gewinnen gibt. Bis zum 12. Dezember wird es täglich eine neue Frage geben, ab da an können diese bis zum 17. Dezember beantwortet werden, woraufhin dann der Gewinner gezogen wird.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Immer wieder sonntags KW 49]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1142395</id>
-        <link href="https://stadt-bremerhaven.de/immer-wieder-sonntags-kw-49-10/"/>
-        <updated>2022-12-11T05:30:50.000Z</updated>
-        <summary type="html"><![CDATA[Wir nähern uns Weihnachten, denn heute ist dann auch einfach mal bereits der 3. Advent. Ich selbst habe es noch nicht einmal zum Weihnachtsmarkt geschafft – hoffentlich seid ihr da weiter gekommen? Anregungen für Geschenke unter dem Weihnachtsbaum will natürlich...
-Zum Beitrag: Immer wieder sonntags KW 49
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>André Westphal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Alice im Wunderland: Ducky ändert Taster und Design der One 2 Pro]]></title>
-        <id>https://www.computerbase.de/2022-12/alice-im-wunderland-ducky-aendert-taster-und-design-der-one-2-pro/</id>
-        <link href="https://www.computerbase.de/2022-12/alice-im-wunderland-ducky-aendert-taster-und-design-der-one-2-pro/"/>
-        <updated>2022-12-10T19:23:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/6/0/5/6-7b57653052198e63/article-640x360.0319d911.jpg"><p>Ducky hat zusammen mit dem taiwanischen Design-Label „Dimanche“ das Design der One 2 neu gestaltet. Leitmotiv für die Sonderedition der mechanischen Tastatur ist Alice im Wunderland. Zu einem exzentrischen Design und allerlei thematisch passenden Symbolen auf den Tasten kommen leichtgängige Varmilo-Taster.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Silverstone Milo 12: „Konsolen-Gehäuse“ hilft Blow-Through-Kühlern]]></title>
-        <id>https://www.computerbase.de/2022-12/silverstone-milo-12-konsolen-gehaeuse-hilft-blow-through-kuehlern/</id>
-        <link href="https://www.computerbase.de/2022-12/silverstone-milo-12-konsolen-gehaeuse-hilft-blow-through-kuehlern/"/>
-        <updated>2022-12-10T19:01:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/6/0/5/5-b3535bf04ebdb5c1/article-640x360.9319b9a0.jpg"><p>Silverstone überarbeitet das Konzept der hauseigenen „Konsolen-Gehäuse“ für den ITX-Formfaktor mit dem Milo 12 erneut. Änderungen zielen auf die Verbesserung der Kühlleistung, um leistungsstärkeren Grafikkarten gerecht werden zu können. Beibehalten wird die Flexibilität bei der Auswahl von Komponenten.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kensington SD5700T: Thunderbolt-4-Dock im Test]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1139842</id>
-        <link href="https://stadt-bremerhaven.de/kensington-sd5700t-thunderbolt-4-dock-im-test/"/>
-        <updated>2022-12-10T19:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Neben einem Dock fürs iPad habe ich mir auch ein Standalone-Dock von Kensington mit Thunderbolt 4 angeschaut. Jenes hört auf die kryptische Bezeichnung Kensington SD5700T. Statt am iPad fand jenes an meinem MacBook Pro Verwendung. Zudem hängt am Setup mein...
-Zum Beitrag: Kensington SD5700T: Thunderbolt-4-Dock im Test
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>Felix Frank</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Weißt du’s schon? Hör-Rätsel als Podcast für Kinder vorgestellt]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1142298</id>
-        <link href="https://stadt-bremerhaven.de/weisst-dus-schon-spannendes-hoer-raetsel-als-podcast-fuer-kinder-vorgestellt/"/>
-        <updated>2022-12-10T17:30:03.000Z</updated>
-        <summary type="html"><![CDATA[„Weißt du’s schon?“ Mit eben dieser Frage wird jede einzelne Folge des gleichnamigen Podcasts von Christian Conradi eingeläutet und führt damit auch ganz klar zum Ziel des selbsternannten Hör-Rätsels. Während Christian in den kurzen Episoden nach und nach einzelne Eigenschaften...
-Zum Beitrag: Weißt du’s schon? Hör-Rätsel als Podcast für Kinder vorgestellt
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>Benjamin Mamerow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Emancipation: Neuer Trailer zum kommenden Will-Smith-Film für Apple TV+ veröffentlicht]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1142528</id>
-        <link href="https://stadt-bremerhaven.de/emancipation-neuer-trailer-zum-kommenden-will-smith-film-fuer-apple-tv-veroeffentlicht/"/>
-        <updated>2022-12-10T16:00:54.000Z</updated>
-        <summary type="html"><![CDATA[Apple hat einen weiteren Trailer zum kommenden Film Emancipation veröffentlicht, der erneut durchaus spannend aussieht. Der Film mit Will Smith ist schon seit längerem in der Pipeline von Apple TV+. Der Konzern aus Cupertino hat sich das Werk über 100 Millionen US-Dollar...
-Zum Beitrag: Emancipation: Neuer Trailer zum kommenden Will-Smith-Film für Apple TV+ veröffentlicht
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>Benjamin Mamerow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Need for Speed Unbound angespielt – Eine Bereicherung für die Serie]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1141809</id>
-        <link href="https://stadt-bremerhaven.de/need-for-speed-unbound-angespielt-eine-bereicherung-fuer-die-serie/"/>
-        <updated>2022-12-10T14:30:58.000Z</updated>
-        <summary type="html"><![CDATA[Die „Need For Speed“-Serie ist knapp 30 Jahre alt und ich schaue seit dem ersten Titel immer mal wieder rein, was es so Neues gibt. Zuletzt war das die Remastered-Version von Hot Pursuit, die ganz spaßig war, aber wenig Neues...
-Zum Beitrag: Need for Speed Unbound angespielt – Eine Bereicherung für die Serie
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>Olli</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Klare Steam-Strategie: Ubisoft verkauft Immortals Fenyx Rising bei Valve]]></title>
-        <id>https://www.computerbase.de/2022-12/klare-steam-strategie-ubisoft-verkauft-immortals-fenyx-rising-bei-valve/</id>
-        <link href="https://www.computerbase.de/2022-12/klare-steam-strategie-ubisoft-verkauft-immortals-fenyx-rising-bei-valve/"/>
-        <updated>2022-12-10T14:07:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/6/0/5/3-cfb27a3ef796b263/article-640x360.e1d862d8.jpg"><p>Ubisoft setzt die Rückkehr zu Steam mit klarer Strategie fort. Nächste Woche wird auf Valves Plattform auch das Open-World-Abenteuer Immortals Fenyx Rising verkauft, das Ideen von Nintendos legendärem Zelda mit Assassins Creed vermischt. Beim DRM-System setzt Ubisoft allerdings weiter auf eigene Dienste.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
         </author>
     </entry>
     <entry>
