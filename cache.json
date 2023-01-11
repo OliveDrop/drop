@@ -6,6 +6,206 @@
       "siteUrl": "https://stadt-bremerhaven.de",
       "articles": [
         {
+          "id": "https://stadt-bremerhaven.de/?p=1157068",
+          "author": "caschy",
+          "description": "Google hat die Version 109 von Chrome veröffentlicht. Konkret gibt es Chrome 109.0.5414.74 für Linux, 109.0.5414.74/.75 für Windows und 109.0.5414.87 für macOS. Mit dem Release behebt Google zahlreiche Schwachstellen. Insgesamt meldet man 17 Schwachstellen, die man schließen konnte, 2 davon...\nZum Beitrag: Google Chrome: Version 109 schließt Schwachstellen\r\n\r\nZum Blog: Caschys Blog",
+          "link": "https://stadt-bremerhaven.de/google-chrome-version-109-schliesst-schwachstellen/",
+          "publishedOn": "2023-01-10T20:03:36.000Z",
+          "wordCount": 1946,
+          "title": "Google Chrome: Version 109 schließt Schwachstellen",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/10/Google-Chrome-Logo_.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1157048",
+          "author": "caschy",
+          "description": "Der monatliche Patch-Dienstag von Microsoft ist gestartet. Dies bedeutet für alle, die mit der aktuellen Version von Windows 11 (22H2) unterwegs sind, dass KB5022303 zum Download angeboten wird. Benutzer von Windows 11 (21H2) bekommen KB5022287 zur Verfügung gestellt. Microsoft stopft mit...\nZum Beitrag: Windows-Update: KB5022287, KB5022303 und mehr veröffentlicht\r\n\r\nZum Blog: Caschys Blog",
+          "link": "https://stadt-bremerhaven.de/windows-update-kb5022287-kb5022303-und-mehr-veroeffentlicht/",
+          "publishedOn": "2023-01-10T18:36:53.000Z",
+          "wordCount": 1850,
+          "title": "Windows-Update: KB5022287, KB5022303 und mehr veröffentlicht",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2023/01/windows-tadas-sar-T01GZhBSyMQ-unsplash_.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1143732",
+          "author": "Olli",
+          "description": "Apple hat mit iOS 16.2 einige neue Features an die Besitzer von iPhones und iPads verteilt. Mit iOS 16.3 testet man nun das Folgerelease und hat soeben die zweite Beta für Entwickler veröffentlicht. Für letztes Jahr versprach man unter anderem...\nZum Beitrag: iPadOS und iOS 16.3 – Beta 2 für Entwickler ist da\r\n\r\nZum Blog: Caschys Blog",
+          "link": "https://stadt-bremerhaven.de/ipados-und-ios-16-3-beta-2-fuer-entwickler-ist-da/",
+          "publishedOn": "2023-01-10T18:08:02.000Z",
+          "wordCount": 1801,
+          "title": "iPadOS und iOS 16.3 – Beta 2 für Entwickler ist da",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/06/ios16.jpeg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1157019",
+          "author": "Felix Frank",
+          "description": "In Stuttgart experimentiert die Deutsche Bahn mit einer leuchtenden Bahnsteigkante. Diese zeigt vor Einfahrt des Zuges, wo sich Türen befinden, um das Einsteigen zügiger zu gestalten. Inzwischen hat man auch einen Probelauf in Berlin gestartet. Ergänzend zur Orientierung vor dem...\nZum Beitrag: Deutsche Bahn: Sitzplatz im Regionalverkehr per Auslastungsanzeige finden\r\n\r\nZum Blog: Caschys Blog",
+          "link": "https://stadt-bremerhaven.de/deutsche-bahn-sitzplatz-im-regionalverkehr-per-auslastungsanzeige-finden/",
+          "publishedOn": "2023-01-10T17:45:30.000Z",
+          "wordCount": 2337,
+          "title": "Deutsche Bahn: Sitzplatz im Regionalverkehr per Auslastungsanzeige finden",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2023/01/IMG_4409.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1156809",
+          "author": "caschy",
+          "description": "Computer geben schon seit gefühlten Ewigkeiten mehr oder weniger natürlich wirkend die menschliche Stimme wieder. Mittlerweile geht der Trend aber dahin, dass mit möglichst wenigen Samples die Stimme und Aussprache eines Menschen perfekt nachgeahmt werden kann. Klingt gruselig, wenn man...\nZum Beitrag: Text in Sprache: VALL-E kann die Stimme in drei Sekunden nachahmen\r\n\r\nZum Blog: Caschys Blog",
+          "link": "https://stadt-bremerhaven.de/text-in-sprache-vall-e-kann-die-stimme-in-drei-sekunden-nachahmen/",
+          "publishedOn": "2023-01-10T17:00:36.000Z",
+          "wordCount": 2050,
+          "title": "Text in Sprache: VALL-E kann die Stimme in drei Sekunden nachahmen",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2023/01/valle_.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1157018",
+          "author": "caschy",
+          "description": "Für Menschen mit Problemen bei der klassischen Bedienung hat Google nun die App „Schalterzugriff“ dediziert im Play Store eingestellt. Mit dem Schalterzugriff lässt sich ein Android-Gerät statt über den Touchscreen über einen oder mehrere Schalter steuern. Diese Funktion bietet sich...\nZum Beitrag: Android: Schalterzugriff landet im Play Store\r\n\r\nZum Blog: Caschys Blog",
+          "link": "https://stadt-bremerhaven.de/android-schalterzugriff-landet-im-play-store/",
+          "publishedOn": "2023-01-10T16:42:01.000Z",
+          "wordCount": 1684,
+          "title": "Android: Schalterzugriff landet im Play Store",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2023/01/schalterzugriff.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1156976",
+          "author": "André Westphal",
+          "description": "DJI bringt für spiegelloser Kameras den neuen Reisestabilisator DJI RS 3 Mini auf den Markt. Dieser wiegt nur 800 g und kann selbst ein Gewicht von bis zu 2 kg tragen. Vorhanden ist auch eine Bluetooth-Aufnahmetaste. DJI verspricht des Weiteren...\nZum Beitrag: DJI RS 3 Mini: Reisestabilisator für spiegellose Kameras\r\n\r\nZum Blog: Caschys Blog",
+          "link": "https://stadt-bremerhaven.de/dji-rs-3-mini-reisestabilisator-fuer-spiegellose-kameras/",
+          "publishedOn": "2023-01-10T15:30:26.000Z",
+          "wordCount": 2020,
+          "title": "DJI RS 3 Mini: Reisestabilisator für spiegellose Kameras",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2023/01/DJI-RS-3-Mini-Key-Visual-Street-2-of-4.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1156920",
+          "author": "André Westphal",
+          "description": "Ich hatte schon darüber berichtet: Die Prophete Gruppe ist insolvent. Bekannt dürfte euch der deutsche Fahrradhersteller entweder durch seine klassischen Räder sein, die häufig bei Discountern und Supermärkten im Angebot gewesen sind, oder durch seine verhältnismäßig günstigen E-Bikes. Die für...\nZum Beitrag: Prophete Gruppe: Insolventer Fahrradhersteller wird verkauft\r\n\r\nZum Blog: Caschys Blog",
+          "link": "https://stadt-bremerhaven.de/prophete-gruppe-insolventer-fahrradhersteller-wird-verkauft/",
+          "publishedOn": "2023-01-10T15:00:48.000Z",
+          "wordCount": 1777,
+          "title": "Prophete Gruppe: Insolventer Fahrradhersteller wird verkauft",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/12/Prophete-Fahrrad.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1156982",
+          "author": "caschy",
+          "description": "Bei DAZN bleibt bezüglich der Tarife fast kein Stein mehr auf dem anderen. Viele Kunden erinnern sich sicherlich an die extreme Preiserhöhung. Gegen diese will auch die Verbraucherzentrale vorgehen. Nun aber gibt es bei DAZN neue Abostufen. So findet man...\nZum Beitrag: Neue Tarife DAZN World, Standard und Unlimited: Das sind die Details\r\n\r\nZum Blog: Caschys Blog",
+          "link": "https://stadt-bremerhaven.de/neue-tarife-dazn-world-standard-und-unlimited-das-sind-die-details/",
+          "publishedOn": "2023-01-10T14:39:41.000Z",
+          "wordCount": 2488,
+          "title": "Neue Tarife DAZN World, Standard und Unlimited: Das sind die Details",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/05/logo-dazn_.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1156969",
+          "author": "André Westphal",
+          "description": "Outbank hat seine App für iOS und macOS in der neuen Version 3.5.6 veröffentlicht. Wichtigste Neuerung: Im Überweisungsprozess können QR-Codes aus Fotos und Dokumenten importiert und gelesen werden, um die Daten zu übernehmen. Außerdem gibt es noch ein paar Verbesserungen und...\nZum Beitrag: Outbank für iOS und macOS: Jetzt QR-Codes für Überweisungen nutzen\r\n\r\nZum Blog: Caschys Blog",
+          "link": "https://stadt-bremerhaven.de/outbank-fuer-ios-und-macos-jetzt-qr-codes-fuer-ueberweisungen-nutzen/",
+          "publishedOn": "2023-01-10T14:30:12.000Z",
+          "wordCount": 2197,
+          "title": "Outbank für iOS und macOS: Jetzt QR-Codes für Überweisungen nutzen",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2023/01/Outbank-3.5.6.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1156972",
+          "author": "caschy",
+          "description": "Sky hat in der Vergangenheit zahlreiche Übertragungsrechte verloren, dafür hat DAZN gespürt, dass Rechte und das Drumherum sehr teuer sind – und ordentlich die Preise angezogen. Dagegen möchte nun sogar die Verbraucherzentrale vorgehen. So oder so: Pech für den Kunden,...\nZum Beitrag: Sky Deutschland und DAZN wieder im Kombi-Paket günstiger buchbar\r\n\r\nZum Blog: Caschys Blog",
+          "link": "https://stadt-bremerhaven.de/sky-deutschland-und-dazn-wieder-im-kombi-paket-guenstiger-buchbar/",
+          "publishedOn": "2023-01-10T14:13:02.000Z",
+          "wordCount": 1739,
+          "title": "Sky Deutschland und DAZN wieder im Kombi-Paket günstiger buchbar",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2018/07/Sky-Logo.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1156907",
+          "author": "caschy",
+          "description": "Wir berichteten bereits in der Vergangenheit darüber, dass sich einiges beim Mail-Programm Thunderbird tut. Da wird man K-9 Mail für Android zu Thunderbird für Android machen, es soll eine iOS-Version von Thunderbird kommen – und synchronisieren wird man auch alles...\nZum Beitrag: Thunderbird Sync kann getestet werden\r\n\r\nZum Blog: Caschys Blog",
+          "link": "https://stadt-bremerhaven.de/thunderbird-sync-kann-getestet-werden/",
+          "publishedOn": "2023-01-10T14:00:42.000Z",
+          "wordCount": 1977,
+          "title": "Thunderbird Sync kann getestet werden",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2023/01/thunderbird-sync_.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1156966",
+          "author": "caschy",
+          "description": "Die Entwickler des Messengers Threema haben eine Erklärung veröffentlicht. Dem vorausgegangen ist eine Veröffentlichung einer Studie. Ein Student des Informatik-Departements der ETH Zürich hatte auf Schwachstellen im Protokoll von Threema hingewiesen. Diese Schwachstellen, sofern erfolgreich ausgenutzt, ermöglichen einem Angreifer zum...\nZum Beitrag: Threema in der Kritik\r\n\r\nZum Blog: Caschys Blog",
+          "link": "https://stadt-bremerhaven.de/threema-in-der-kritik/",
+          "publishedOn": "2023-01-10T13:46:10.000Z",
+          "wordCount": 2383,
+          "title": "Threema in der Kritik",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2021/04/Threema.png"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1156956",
+          "author": "André Westphal",
+          "description": "Intel hatte 2022 angekündigt in Magdeburg 17 Mrd. Euro in eine neue Chipfabrik zu investieren. Vielleicht bereut man die damalige Ankündigung mittlerweile: Die Situation der Chipindustrie hat sich seitdem durch den russischen Angriffskrieg auf die Ukraine gewandelt und viele Firmen...\nZum Beitrag: Intels Chipfabrik in Magdeburg: Es gibt offenbar Streit ums Geld\r\n\r\nZum Blog: Caschys Blog",
+          "link": "https://stadt-bremerhaven.de/intels-chipfabrik-in-magdeburg-es-gibt-offenbar-streit-ums-geld/",
+          "publishedOn": "2023-01-10T13:30:06.000Z",
+          "wordCount": 2481,
+          "title": "Intels Chipfabrik in Magdeburg: Es gibt offenbar Streit ums Geld",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2023/01/intel_.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1156961",
+          "author": "caschy",
+          "description": "O2 passt sein Tarif-Portfolio an, das bedeutet bisher etwas mehr Leistung für mehr Geld – oder geringere Rabatte. Feststeht, dass es grundsätzlich bei O2 und anderen Telefonica-Marken wie z. B. Blau teurer wird. Nun hat das Unternehmen auch die „o2...\nZum Beitrag: o2 Free Tarife mit doppeltem Datenvolumen\r\n\r\nZum Blog: Caschys Blog",
+          "link": "https://stadt-bremerhaven.de/o2-free-tarife-mit-doppeltem-datenvolumen/",
+          "publishedOn": "2023-01-10T13:05:44.000Z",
+          "wordCount": 2027,
+          "title": "o2 Free Tarife mit doppeltem Datenvolumen",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2023/01/20230110-Tariftabelle-o2-Free-Tarife.webp"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1156844",
+          "author": "Felix Frank",
+          "description": "Die Bundesanstalt für Finanzdienstleistungsaufsicht (kurz: BaFin) warnt derzeit vor der Schadsoftware „Godfather“. Die hat sich Banking- sowie Krypto-Apps zum Angriffsziel gemacht. Man mahnt daher zum sorgsamen Umgang mit Apps auf mobilen Geräten. Rund 400 Banking- und Krypto-Apps seien im Visier...\nZum Beitrag: BaFin: Warnung vor Schadsoftware mit Angriffsziel auf Banking- und Krypto-Apps\r\n\r\nZum Blog: Caschys Blog",
+          "link": "https://stadt-bremerhaven.de/bafin-warnung-vor-schadsoftware-mit-angriffsziel-auf-banking-und-krypto-apps/",
+          "publishedOn": "2023-01-10T13:00:37.000Z",
+          "wordCount": 1726,
+          "title": "BaFin: Warnung vor Schadsoftware mit Angriffsziel auf Banking- und Krypto-Apps",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/05/Krypto.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1156948",
+          "author": "André Westphal",
+          "description": "Paramount+ hatte gerade erst seine Neuzugänge für den Februar 2023 bestätigt, da spricht man auch schon wieder über den März 2023 bzw. die Zeit danach. So fasst man die Highlights ab Ende März zusammen. Dazu rechnet der Streaming-Anbieter selbst zunächst...\nZum Beitrag: Paramount+: Streaming-Anbieter nennt erste Highlights ab Ende März 2023\r\n\r\nZum Blog: Caschys Blog",
+          "link": "https://stadt-bremerhaven.de/paramount-streaming-anbieter-nennt-erste-highlights-ab-ende-maerz-2023/",
+          "publishedOn": "2023-01-10T12:30:08.000Z",
+          "wordCount": 2272,
+          "title": "Paramount+: Streaming-Anbieter nennt erste Highlights ab Ende März 2023",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2023/01/Rabbit-Hole.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1156952",
+          "author": "caschy",
+          "description": "Joyn ist eine anbieterübergreifende Entertainment-Streaming-Plattform. Joyn bietet auch ein kostenfreies Angebot mit zahlreichen Live-TV-Channels, Serien, Dokumentationen und Filmen auf Abruf, Mediatheken und Sportinhalten von ProSiebenSat.1 sowie weiterer Content-Partner, alles gebündelt auf einer Plattform. Mit neuen On-Demand-Streams zu ausgewählten Genres, Filmen...\nZum Beitrag: Joyn bietet ab sofort neue, kostenfreie On-Demand-Streams\r\n\r\nZum Blog: Caschys Blog",
+          "link": "https://stadt-bremerhaven.de/joyn-bietet-ab-sofort-neue-kostenfreie-on-demand-streams/",
+          "publishedOn": "2023-01-10T11:52:41.000Z",
+          "wordCount": 1905,
+          "title": "Joyn bietet ab sofort neue, kostenfreie On-Demand-Streams",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/01/joyn_.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1156713",
+          "author": "Olli",
+          "description": "Apple TV+ ist nun etwas über drei Jahre alt. Am 1. November 2019 startete der Streaming-Dienst mit einem sehr begrenzten Angebot und kann heute eine ausreichend große Mediathek vorweisen. Die Serie „Truth Be Told“ gehörte damals zu den erste Produktionen,...\nZum Beitrag: Apple TV+: Trailer zur dritten Staffel von „Truth Be Told“ veröffentlicht\r\n\r\nZum Blog: Caschys Blog",
+          "link": "https://stadt-bremerhaven.de/apple-tv-trailer-zur-dritten-staffel-von-truth-be-told-veroeffentlicht/",
+          "publishedOn": "2023-01-10T11:30:46.000Z",
+          "wordCount": 1749,
+          "title": "Apple TV+: Trailer zur dritten Staffel von „Truth Be Told“ veröffentlicht",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2021/06/Apple_TV_Truth_Be_Told_key_art_16_9.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1156930",
+          "author": "André Westphal",
+          "description": "Der Verbraucherzentrale Bundesverband fordert von der deutschen Bundesregierung, dass die nationale Umsetzung der EU-Bahngrastrechte verbessert wird. Beispielsweise sei es für Fahrgäste sinnvoller, bereits ab 30 Minuten Zugverspätung Entschädigungen anzubieten. Bei größeren Zugverspätungen oder Zugausfällen sollten Fahrgäste auf alternative Verkehrsmittel zurückgreifen...\nZum Beitrag: Verbraucherschützer fordern Nachbesserung bei nationaler Umsetzung der EU-Bahngastrechte\r\n\r\nZum Blog: Caschys Blog",
+          "link": "https://stadt-bremerhaven.de/verbraucherschuetzer-fordern-nachbesserung-bei-nationaler-umsetzung-der-eu-bahngastrechte/",
+          "publishedOn": "2023-01-10T11:00:53.000Z",
+          "wordCount": 1830,
+          "title": "Verbraucherschützer fordern Nachbesserung bei nationaler Umsetzung der EU-Bahngastrechte",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/12/Neue-ICE.jpg"
+        },
+        {
           "id": "https://stadt-bremerhaven.de/?p=1156859",
           "author": "caschy",
           "description": "Google möchte modernere Android-Funktionen auch älteren Ausgaben zugänglich machen. Möglich macht dies neue die Abwärtskompatibilität des Extension SDK. Entwickler finden hier alles vor. Android 10 und höher unterstützen modulare Systemkomponenten, die es Google ermöglichen, Funktions- und Sicherheitsupdates für das Android-Ökosystem...\nZum Beitrag: Google bringt neue Funktionen für ältere Android-Versionen\r\n\r\nZum Blog: Caschys Blog",
@@ -4859,206 +5059,6 @@
           "wordCount": 1986,
           "title": "Little Snitch Mini: Neues Netzwerküberwachungs-Tool wird getestet",
           "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/12/snitch_.jpg"
-        },
-        {
-          "id": "https://stadt-bremerhaven.de/?p=1142677",
-          "author": "André Westphal",
-          "description": "Das Smartphone OnePlus 11 wurde bereits auf durchgesickerten Bildern gesichtet. Es soll erneut das Hasselblad-Branding für seine Kamera nutzen. Als SoC dürfte standesgemäß der Qualcomm Snapdragon 8 Gen 2 herhalten. Nun gibt es Handfesteres zur Schnellladung. Laut einer Zertifizierung der...\nZum Beitrag: OnePlus 11 kommt laut Zertifizierung mit 100-Watt-Schnellladung\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
-          "link": "https://stadt-bremerhaven.de/oneplus-11-kommt-laut-zertifizierung-mit-100-watt-schnellladung/",
-          "publishedOn": "2022-12-12T13:30:13.000Z",
-          "wordCount": 1835,
-          "title": "OnePlus 11 kommt laut Zertifizierung mit 100-Watt-Schnellladung",
-          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/12/OnePlus-11.jpg"
-        },
-        {
-          "id": "https://stadt-bremerhaven.de/?p=1142708",
-          "author": "caschy",
-          "description": "WhatsApp ist dabei, seine „View Once“-Funktion auf textbasierte Nachrichten auszuweiten. Laut WABetaInfo wurden in der neuesten Beta-Version der Android-App von WhatsApp Hinweise auf die Entwicklung der Funktion gefunden. Diese Funktion würde es Nutzern ermöglichen, Nachrichten zu senden, die nur einmal...\nZum Beitrag: WhatsApp: Einmal lesbare Textnachrichten werden getestet\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
-          "link": "https://stadt-bremerhaven.de/whatsapp-einmal-lesbare-textnachrichten-werden-getestet/",
-          "publishedOn": "2022-12-12T13:00:04.000Z",
-          "wordCount": 2393,
-          "title": "WhatsApp: Einmal lesbare Textnachrichten werden getestet",
-          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/05/WhatsApp-logo_.jpg"
-        },
-        {
-          "id": "https://stadt-bremerhaven.de/?p=1142705",
-          "author": "caschy",
-          "description": "Die Notiz-App Evernote dürfte in den letzten Jahren viele zahlende Kunden verloren haben. Lange war es ruhig um die App, der letzte große Knall war der, dass die App nun neue Besitzer hat. Erstmals seit der Übernahme gibt es nun...\nZum Beitrag: Evernote bringt Offline-Notizen auf Mobilgeräte\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
-          "link": "https://stadt-bremerhaven.de/evernote-bringt-offline-notizen-auf-mobilgeraete/",
-          "publishedOn": "2022-12-12T12:30:58.000Z",
-          "wordCount": 2051,
-          "title": "Evernote bringt Offline-Notizen auf Mobilgeräte",
-          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2018/08/Evernote-logo.jpg"
-        },
-        {
-          "id": "https://stadt-bremerhaven.de/?p=1142662",
-          "author": "André Westphal",
-          "description": "Wir hatten schon darüber berichtet, dass ein Entwickler am Google Pixel 6a 90 Hz für das Display freischalten möchte. Dass dies möglich ist, hatte er bereits bewiesen. Seine Modifikation war allerdings bisher noch nicht wirklich alltagstauglich, da es zu allerlei...\nZum Beitrag: Google Pixel 6a: Projekt für 90-Hz-Freischaltung benötigt Unterstützung\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
-          "link": "https://stadt-bremerhaven.de/google-pixel-6a-projekt-fuer-90-hz-freischaltung-benoetigt-unterstuetzung/",
-          "publishedOn": "2022-12-12T12:00:58.000Z",
-          "wordCount": 1962,
-          "title": "Google Pixel 6a: Projekt für 90-Hz-Freischaltung benötigt Unterstützung",
-          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/09/google-discover-feed-pixel-6a_.jpg"
-        },
-        {
-          "id": "https://stadt-bremerhaven.de/?p=1142691",
-          "author": "caschy",
-          "description": "Kiwix ist eine App, die es ermöglicht, Inhalte von Wikipedia und anderen großen Websites offline zu lesen. Die App kann auf verschiedenen Geräten oder Systemen (Android, Windows, iOS, macOS, Linux oder über Browser-Erweiterungen) installiert werden und bietet eine einfache Möglichkeit,...\nZum Beitrag: Kiwix: Offline-Lese-App für Wikipedia und mehr nun auch Version 3 für iOS und macOS\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
-          "link": "https://stadt-bremerhaven.de/kiwix-offline-lese-app-fuer-wikipedia-und-mehr-nun-auch-version-3-fuer-ios-und-macos/",
-          "publishedOn": "2022-12-12T11:20:49.000Z",
-          "wordCount": 1841,
-          "title": "Kiwix: Offline-Lese-App für Wikipedia und mehr nun auch Version 3 für iOS und macOS",
-          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/12/kiwix_.jpg"
-        },
-        {
-          "id": "https://stadt-bremerhaven.de/?p=1142692",
-          "author": "caschy",
-          "description": "Das Unternehmen Netatmo bietet einige Smart-Home-Geräte an. Die Wetterstationen von Netatmo haben viele Freunde gefunden, mittlerweile bietet man einen ganzen Schwung mehr an Geräten an. Bereits in der letzten Woche hatten Netatmo-Geräte mit Cloud-Anbindung Schwierigkeiten, mittlerweile hat sich das Unternehmen...\nZum Beitrag: Netatmo weiterhin mit Problemen\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
-          "link": "https://stadt-bremerhaven.de/netatmo-weiterhin-mit-problemen/",
-          "publishedOn": "2022-12-12T10:55:27.000Z",
-          "wordCount": 2135,
-          "title": "Netatmo weiterhin mit Problemen",
-          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/06/netatmo.jpg"
-        },
-        {
-          "id": "https://stadt-bremerhaven.de/?p=1142688",
-          "author": "caschy",
-          "description": "Über das Mediacenter Kodi haben wir hier im Laufe der letzten Jahre schon oft berichtet. Zuletzt konnten wir euch darüber informieren, dass die Entwickler die Version Kodi 20 Beta 1 veröffentlicht haben. Für Nutzer einer Xbox vielleicht ganz interessant: Nach...\nZum Beitrag: Kodi 20: Release Candidate 1 erschienen, auch für die Xbox\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
-          "link": "https://stadt-bremerhaven.de/kodi-20-release-candidate-1-erschienen-auch-fuer-die-xbox/",
-          "publishedOn": "2022-12-12T10:34:32.000Z",
-          "wordCount": 1860,
-          "title": "Kodi 20: Release Candidate 1 erschienen, auch für die Xbox",
-          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/12/kodi-20-_.jpg"
-        },
-        {
-          "id": "https://stadt-bremerhaven.de/?p=1142673",
-          "author": "caschy",
-          "description": "Über die iOS-App „OCR Scanner – QuickScan“ haben wir schon ein paar Mal aus guten Gründen berichtet. Tolle Scanner-App, die OCR beherrscht und eure gescannten Dokumente durchsuchbar macht. Nun hat der Entwickler die Version 7 seiner kostenlos erhältlichen App veröffentlicht und dabei...\nZum Beitrag: OCR Scanner – QuickScan 7 erschienen: Neue Funktionen für die Scanner-App\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
-          "link": "https://stadt-bremerhaven.de/ocr-scanner-quickscan-7-erschienen-neue-funktionen-fuer-die-scanner-app/",
-          "publishedOn": "2022-12-12T09:45:06.000Z",
-          "wordCount": 2194,
-          "title": "OCR Scanner – QuickScan 7 erschienen: Neue Funktionen für die Scanner-App",
-          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/12/scanner_.jpg"
-        },
-        {
-          "id": "https://stadt-bremerhaven.de/?p=1142665",
-          "author": "caschy",
-          "description": "Früher lohnte es sich, auf irgendwelche Supermarkt-Aktionen zu warten, wenn man zu einer App-Store- oder iTunes-Karte griff. Da waren Rabattaktionen eher die Regel als die Ausnahme, doch das Ganze hat sich mit der neuen Geschenkkarte von Apple geändert. Momentan gibts...\nZum Beitrag: Apple-Gutscheine kaufen und Amazon-Guthaben bekommen\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
-          "link": "https://stadt-bremerhaven.de/apple-gutscheine-kaufen-und-amazon-guthaben-bekommen/",
-          "publishedOn": "2022-12-12T09:35:54.000Z",
-          "wordCount": 1787,
-          "title": "Apple-Gutscheine kaufen und Amazon-Guthaben bekommen",
-          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/12/Apple.jpg"
-        },
-        {
-          "id": "https://stadt-bremerhaven.de/?p=1142657",
-          "author": "André Westphal",
-          "description": "Vor kurzem war es Selina Gomez, die 2 Monate Apple TV+ gratis verteilte – allerdings nur für neue Abonnenten, die noch keine Trial bzw. kein Gratis-Abo zuvor genutzt hatten. Jetzt haut Will Smith wiederum zwei Monate des Streaming-Dienstes aus Cupertino...\nZum Beitrag: Will Smith verschenkt 2 Monate Apple TV+ (auch für Wiederkehrer)\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
-          "link": "https://stadt-bremerhaven.de/will-smith-verschenkt-2-monate-apple-tv-auch-fuer-wiederkehrer/",
-          "publishedOn": "2022-12-12T09:30:40.000Z",
-          "wordCount": 2560,
-          "title": "Will Smith verschenkt 2 Monate Apple TV+ (auch für Wiederkehrer)",
-          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/10/100322_Apple_Original_Films_Emancipation_Premiere_Big_Image_01_big_image_post.jpg.medium_2x.jpg"
-        },
-        {
-          "id": "https://stadt-bremerhaven.de/?p=1142650",
-          "author": "André Westphal",
-          "description": "Wer derzeit über kein Abonnement für PlayStation Plus verfügt, aber überlegt hat, ob er wieder einsteigt, hat Glück: Sony haut derzeit PlayStation Plus Essential mit 50 % Rabatt raus. Ihr zahlt für ein 12-Monats-Abonnement daher nur 29,99 Euro. Aber auch...\nZum Beitrag: PlayStation Plus Essential: Aktuell 12 Monate für nur 29,99 Euro\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
-          "link": "https://stadt-bremerhaven.de/playstation-plus-essential-aktuell-12-monate-fuer-nur-2999-euro/",
-          "publishedOn": "2022-12-12T09:00:34.000Z",
-          "wordCount": 2362,
-          "title": "PlayStation Plus Essential: Aktuell 12 Monate für nur 29,99 Euro",
-          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/12/PS-Plus-Deal.jpg"
-        },
-        {
-          "id": "https://stadt-bremerhaven.de/?p=1142642",
-          "author": "André Westphal",
-          "description": "Xiaomi hat gestern nicht nur die neuen Smartphones Xiaomi 13 und Xiaom 13 Pro vorgestellt, sondern auch die neuen Kopfhörer Buds 4 sowie die Smartwatch Watch S2. Auch diese beiden Produkte waren ja im Vorfeld angedeutet worden. Wenn wir zunächst...\nZum Beitrag: Xiaomi Buds 4 und Xiaomi Watch S2 starten in China\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
-          "link": "https://stadt-bremerhaven.de/xiaomi-buds-4-und-xiaomi-watch-s2-starten-in-china/",
-          "publishedOn": "2022-12-12T08:30:39.000Z",
-          "wordCount": 2055,
-          "title": "Xiaomi Buds 4 und Xiaomi Watch S2 starten in China",
-          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/12/Xiaomi-Buds-4.jpg"
-        },
-        {
-          "id": "https://stadt-bremerhaven.de/?p=1142269",
-          "author": "Felix Frank",
-          "description": "Die EnBW bietet deutschlandweit bereits einige Ladesäulen für Elektrofahrzeuge an. Neu auf dem deutschen Markt möchte sich der chinesische Autobauer NIO etablieren. NIO bietet auf dem chinesischen Markt eine Besonderheit: Statt an Ladesäulen aufzuladen, kann man den Akku an sogenannten...\nZum Beitrag: NIO und EnBw: Erste Power Swap Stations an 20 EnBW-Schnellladeparks\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
-          "link": "https://stadt-bremerhaven.de/nio-und-enbw-erste-power-swap-stations-an-20-enbw-schnellladeparks/",
-          "publishedOn": "2022-12-12T08:00:50.000Z",
-          "wordCount": 3539,
-          "title": "NIO und EnBw: Erste Power Swap Stations an 20 EnBW-Schnellladeparks",
-          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/12/NIO-PSS-im-EnBW-Hypendering_Header.jpg"
-        },
-        {
-          "id": "https://stadt-bremerhaven.de/?p=1141793",
-          "author": "Olli",
-          "description": "Wer unseren Blog in einer gewissen Regelmäßigkeit liest, der ist garantiert auch schon über den einen oder anderen Test eines Jabra-Headsets oder von Kopfhörern der Marke gestolpert. Das Unternehmen bietet seit langem Audiotechnik für das Privatleben, aber auch für das...\nZum Beitrag: Jabra Evolve2 Earbuds angehört: Gute Allrounder mit Ecken und Kanten\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
-          "link": "https://stadt-bremerhaven.de/jabra-evolve2-earbuds-angehoert-gute-allrounder-mit-ecken-und-kanten/",
-          "publishedOn": "2022-12-11T19:00:05.000Z",
-          "wordCount": 2803,
-          "title": "Jabra Evolve2 Earbuds angehört: Gute Allrounder mit Ecken und Kanten",
-          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/12/Jabra-Evolve2-Earbuds-Test-1.jpg"
-        },
-        {
-          "id": "https://stadt-bremerhaven.de/?p=1142424",
-          "author": "André Westphal",
-          "description": "Nvidia und die Deutsche Bank haben sich für eine Kooperation zusammengetan, in deren Rahmen man die Adoption von KI-Technologien für Finanzdienstleistungen vorantreiben möchte. Dem gingen laut einem Blog-Post bei Nvidia Monate des Testens voraus, in denen man überprüfte, in welcher...\nZum Beitrag: Nvidia und Deutsche Bank wollen den KI-Einsatz für Finanzdienstleistungen vorantreiben\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
-          "link": "https://stadt-bremerhaven.de/nvidia-und-deutsche-bank-wollen-den-ki-einsatz-fuer-finanzdienstleistungen-vorantreiben/",
-          "publishedOn": "2022-12-11T18:00:41.000Z",
-          "wordCount": 1836,
-          "title": "Nvidia und Deutsche Bank wollen den KI-Einsatz für Finanzdienstleistungen vorantreiben",
-          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/12/Nvidia-Deutsche-Bank.jpeg"
-        },
-        {
-          "id": "https://stadt-bremerhaven.de/?p=1142608",
-          "author": "André Westphal",
-          "description": "Neu sind die Gerüchte nicht: Es heißt, Comcast wolle die unliebsame Tochter Sky Deutschland verkaufen. Hauptgrund ist, dass man hierzulande nicht wie in Großbritannien Synergieeffekte nutzen kann, die sich dort daraus ergeben, dass Comcast eben auch Telekommunikationsdienste offeriert. Stattdessen drückte Sky...\nZum Beitrag: Sky Deutschland könnte noch vor Jahresende an United Internet gehen\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
-          "link": "https://stadt-bremerhaven.de/sky-deutschland-koennte-noch-vor-jahresende-an-united-internet-gehen/",
-          "publishedOn": "2022-12-11T17:00:59.000Z",
-          "wordCount": 2216,
-          "title": "Sky Deutschland könnte noch vor Jahresende an United Internet gehen",
-          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/11/sky_deutschland.jpg"
-        },
-        {
-          "id": "https://stadt-bremerhaven.de/?p=1142610",
-          "author": "caschy",
-          "description": "Derzeit gibts von Skylum das Programm Luminar AI kostenlos.  Die Software setzt auf allerhand Anpassungsoptionen für Bildwerte, bietet aber auch eine Menge eigener Filter und Filterpakete an, die ihr auf eure Bilder anwenden und nachträglich bearbeiten könnt. Mittlerweile gibt es...\nZum Beitrag: Luminar AI: Bildbearbeitung für macOS und Windows derzeit kostenlos\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
-          "link": "https://stadt-bremerhaven.de/luminar-ai-bildbearbeitung-fuer-macos-und-windows-derzeit-kostenlos/",
-          "publishedOn": "2022-12-11T16:35:44.000Z",
-          "wordCount": 1952,
-          "title": "Luminar AI: Bildbearbeitung für macOS und Windows derzeit kostenlos",
-          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/12/mac-img-chip-luminar-ai_.jpg"
-        },
-        {
-          "id": "https://stadt-bremerhaven.de/?p=1142597",
-          "author": "André Westphal",
-          "description": "Xiaomi hat Wort gehalten und heute nach einer vorangegangenen Verschiebung die beiden Smartphone-Flaggschiffe Xiaomi 13 und Xiaomi 13 Pro vorgestellt. Sie setzen auf dem Qualcomm Snapdragon 8 Gen 2 als SoC und Leica-Branding für ihre Kamera. Zeitgleich haben die Chinesen...\nZum Beitrag: Xiaomi 13 (Pro) und MIUI 14 offiziell vorgestellt\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
-          "link": "https://stadt-bremerhaven.de/xiaomi-13-pro-und-miui-14-offiziell-vorgestellt/",
-          "publishedOn": "2022-12-11T16:00:37.000Z",
-          "wordCount": 2472,
-          "title": "Xiaomi 13 (Pro) und MIUI 14 offiziell vorgestellt",
-          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/12/Xiaomi-13-Pro.jpg"
-        },
-        {
-          "id": "https://stadt-bremerhaven.de/?p=1142469",
-          "author": "Benjamin Mamerow",
-          "description": "Am vergangenen Dienstag hatten wir Daniel Ziegener zu Gast. In letzter Zeit hat er einige Artikel rund um das Thema Stadia bei golem.de geschrieben. Ich konnte hier einiges an Input liefern und möchte euch, falls euch das Thema interessiert, doch...\nZum Beitrag: Der Cloud-Gaming-Rückblick am Sonntag – KW 49\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
-          "link": "https://stadt-bremerhaven.de/der-cloud-gaming-rueckblick-am-sonntag-kw-49/",
-          "publishedOn": "2022-12-11T15:00:11.000Z",
-          "wordCount": 2769,
-          "title": "Der Cloud-Gaming-Rückblick am Sonntag – KW 49",
-          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/11/cloud-gaming-rueckblick-am-sonntag-titel.jpg"
-        },
-        {
-          "id": "https://stadt-bremerhaven.de/?p=1142564",
-          "author": "André Westphal",
-          "description": "OnePlus verteilt wieder Updates. Zum einen erreicht OxygenOS 13 mittlerweile das OnePlus 10T als Stable-Version. Obendrein wurde zum anderen das Nord CE 2 mit OxygenOS 12 C.08 bedacht. Bleiben wir aber zunächst beim OnePlus 10T. In der EU steht da...\nZum Beitrag: OxygenOS 13 erreicht das OnePlus 10T und das Nord CE 2 erhält OxygenOS 12 C.08\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
-          "link": "https://stadt-bremerhaven.de/oxygenos-13-erreicht-das-oneplus-10t-und-das-nord-ce-2-erhaelt-oxygenos-12-c-08/",
-          "publishedOn": "2022-12-11T14:00:55.000Z",
-          "wordCount": 1980,
-          "title": "OxygenOS 13 erreicht das OnePlus 10T und das Nord CE 2 erhält OxygenOS 12 C.08",
-          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/09/OnePlus-10T-4.jpg"
         }
       ]
     },
@@ -5067,6 +5067,76 @@
       "feedUrl": "https://www.computerbase.de/rss/news.xml",
       "siteUrl": "https://www.computerbase.de/",
       "articles": [
+        {
+          "id": "https://www.computerbase.de/2023-01/micron-9400-ssd-alle-modelle-lesen-und-schreiben-mit-7-gb-s/",
+          "author": null,
+          "description": "<img src=\"https://pics.computerbase.de/1/0/6/3/9/5-bff54852259c7b4f/article-640x360.0acc93a9.jpg\"><p>Bei SSDs liefern meist die „kleinsten“ Modelle einer Serie eine deutlich niedrigere Schreibleistung. Bei Microns neuen Server-SSDs der Serie 9400 ist das anders: Alle Modelle von 6,4 TB bis 30,72 TB lesen und schreiben mit bis zu 7 GB/s.</p>",
+          "link": "https://www.computerbase.de/2023-01/micron-9400-ssd-alle-modelle-lesen-und-schreiben-mit-7-gb-s/",
+          "publishedOn": "2023-01-10T19:35:00.000Z",
+          "wordCount": 1187,
+          "title": "Micron 9400 SSD: Alle Modelle Lesen und Schreiben mit 7 GB/s",
+          "imageUrl": "https://pics.computerbase.de/1/0/6/3/9/5-bff54852259c7b4f/article-1280x720.0acc93a9.jpg"
+        },
+        {
+          "id": "https://www.computerbase.de/2023-01/deepcool-ch510-mesh-digital-erstes-deepcool-display-sitzt-an-einem-gehaeuse/",
+          "author": null,
+          "description": "<img src=\"https://pics.computerbase.de/1/0/6/3/9/6-32f0d377c723c4ac/article-640x360.38ae7f3e.jpg\"><p>Dort, wo bei Gehäusen vor ewigen Jahren einmal das optische Laufwerk zu finden war, setzt Deepcool ein Display ein, das Systemtemperaturen abbildet. Die Anzeige im CH510 ist Teil einer Display-Strategie, die auch andere Produktgattungen umfasst.</p>",
+          "link": "https://www.computerbase.de/2023-01/deepcool-ch510-mesh-digital-erstes-deepcool-display-sitzt-an-einem-gehaeuse/",
+          "publishedOn": "2023-01-10T19:17:00.000Z",
+          "wordCount": 1166,
+          "title": "DeepCool CH510 Mesh Digital: Erstes Deepcool-Display sitzt an einem Gehäuse",
+          "imageUrl": "https://pics.computerbase.de/1/0/6/3/9/6-32f0d377c723c4ac/article-1280x720.38ae7f3e.jpg"
+        },
+        {
+          "id": "https://www.computerbase.de/2023-01/intel-sapphire-rapids-vorstellung-architektur-modelle/",
+          "author": null,
+          "description": "<img src=\"https://pics.computerbase.de/1/0/6/0/9/1-553aa8bfc7935abf/article-640x360.43cd1262.jpg\"><p>Was lange währt, wird endlich gut? Die ewig verspätete Server-CPU-Familie Intel Sapphire Rapids alias Xeon Scalable in 4. Generation bringt dafür viele Neuheiten mit. Bestückt mit spezialisierten Einheiten (Accelerator), werden gewisse Einsatzgebiete massiv beschleunigt. Das macht es aber auch komplizierter.</p>",
+          "link": "https://www.computerbase.de/2023-01/intel-sapphire-rapids-vorstellung-architektur-modelle/",
+          "publishedOn": "2023-01-10T18:00:00.000Z",
+          "wordCount": 3714,
+          "title": "Intel Sapphire Rapids: Elite-Einheiten als Workload-Spezialisten",
+          "imageUrl": "https://pics.computerbase.de/1/0/6/0/9/1-553aa8bfc7935abf/article-1280x720.43cd1262.jpg"
+        },
+        {
+          "id": "https://www.computerbase.de/2023-01/dazn-preiserhoehung-verbraucherzentrale-plant-klage-und-sucht-betroffene/",
+          "author": null,
+          "description": "<img src=\"https://pics.computerbase.de/1/0/6/3/9/4-f4d041b33f627cdb/article-640x360.e1078aac.jpg\"><p>Der Streaming-Dienst DAZN hat Anfang letzten Jahres zunächst für Neukunden die Preise deutlich um fast 100 Prozent erhöht und dann zum August 2022 auch Bestandskunden darüber informiert, dass für sie fortan die neuen Preise gelten: Der Verbraucherzentrale Bundesverband hält letzteres ohne Zustimmung der Kunden für rechtswidrig.</p>",
+          "link": "https://www.computerbase.de/2023-01/dazn-preiserhoehung-verbraucherzentrale-plant-klage-und-sucht-betroffene/",
+          "publishedOn": "2023-01-10T15:16:00.000Z",
+          "wordCount": 929,
+          "title": "DAZN Preiserhöhung: Verbraucherzentrale plant Klage und sucht Betroffene",
+          "imageUrl": "https://pics.computerbase.de/1/0/6/3/9/4-f4d041b33f627cdb/article-1280x720.e1078aac.jpg"
+        },
+        {
+          "id": "https://www.computerbase.de/2023-01/windows-7-secure-boot-update-kb5017361/",
+          "author": null,
+          "description": "<img src=\"https://pics.computerbase.de/1/0/6/3/9/1-0be7056212751066/article-640x360.2a48c860.jpg\"><p>Heute endet offiziell das ESU-Programm von Windows 7 und das Betriebssystem wird nicht mehr mit den kostenpflichtigen Extended Security Updates („ESU“) versorgt. Doch jetzt hält Microsoft noch einmal eine echte Überraschung bereit, die so niemand auf dem Schirm hatte und spendiert Windows 7 offiziellen Support für Secure Boot.</p>",
+          "link": "https://www.computerbase.de/2023-01/windows-7-secure-boot-update-kb5017361/",
+          "publishedOn": "2023-01-10T14:42:00.000Z",
+          "wordCount": 875,
+          "title": "Windows 7: Das unsichere Betriebssystem erhält offiziell Secure Boot",
+          "imageUrl": "https://pics.computerbase.de/1/0/6/3/9/1-0be7056212751066/article-1280x720.2a48c860.jpg"
+        },
+        {
+          "id": "https://www.computerbase.de/2023-01/windows-11-datei-explorer-neue-funktionen/",
+          "author": null,
+          "description": "<img src=\"https://pics.computerbase.de/1/0/6/3/9/0-0b5fcf46491798a1/article-640x360.d7640b9f.jpg\"><p>Microsoft erprobt aktuelle neue Features für den Datei-Explorer von Windows 11. Eine Galerie für den Verzeichnisbaum und Empfehlungen, welche für so manchen Anwender auch mit Werbung gleichzusetzen sind, werden entsprechend evaluiert und finden sich bereits als versteckte ID in der aktuellen Insider Preview des Betriebssystems.</p>",
+          "link": "https://www.computerbase.de/2023-01/windows-11-datei-explorer-neue-funktionen/",
+          "publishedOn": "2023-01-10T13:00:00.000Z",
+          "wordCount": 1000,
+          "title": "Windows 11: Der Datei-Explorer bekommt eine Galerie und neue Features",
+          "imageUrl": "https://pics.computerbase.de/1/0/6/3/9/0-0b5fcf46491798a1/article-1280x720.d7640b9f.jpg"
+        },
+        {
+          "id": "https://www.computerbase.de/thema/grafikkarte/rangliste/",
+          "author": null,
+          "description": "<img src=\"https://pics.computerbase.de/5/7/5/1/9/article-640x360.aa04c647.jpg\"><p>Die Kaufberatungs-Rangliste klärt, welche Grafikkarte von AMD oder Nvidia man sich auf Basis von Tests und Benchmarks kaufen sollte. Empfohlen werden dabei die besten Radeon- und GeForce-Gaming-Modelle in den Klassen Einsteiger, Mittelklasse und High-End (von Full HD bis 4K). Das sind die Empfehlungen für Januar 2023.</p>",
+          "link": "https://www.computerbase.de/thema/grafikkarte/rangliste/",
+          "publishedOn": "2023-01-10T09:00:00.000Z",
+          "wordCount": 7114,
+          "title": "Grafikkarten-Rangliste 2023: GPU-Vergleich mit GeForce RTX und Radeon RX für Januar",
+          "imageUrl": "https://pics.computerbase.de/5/7/5/1/9/article-1280x720.aa04c647.jpg"
+        },
         {
           "id": "https://www.computerbase.de/2023-01/geforce-rtx-4070-und-4060-ti-geruechte-sprechen-von-zwei-weiteren-ad104-grafikkarten/",
           "author": null,
@@ -7676,66 +7746,6 @@
           "wordCount": 1601,
           "title": "LG UltraGear: Preise und Termine für die OLED-Monitore mit 240 Hz",
           "imageUrl": "https://pics.computerbase.de/1/0/6/0/6/7-65a60a8535202683/article-1280x720.a5fe5381.jpg"
-        },
-        {
-          "id": "https://www.computerbase.de/2022-12/sapphire-radeon-rx-7900-pulse/",
-          "author": null,
-          "description": "<img src=\"https://pics.computerbase.de/1/0/6/0/6/8-da3f6b744e62d604/article-640x360.40d6d79a.jpg\"><p>Sapphire, einer der Exklusivpartner für Grafikkarten aus dem Hause AMD, setzt die Radeon RX 7900 XTX und Radeon RX 7900 XT nicht nur als Nitro+ und Vapor-X, sondern auch in seiner Einstiegsserie Pulse um. Erste Produktbilder der neuen Grafikkarten sowie von deren Originalverpackung sind jetzt im Internet aufgetaucht.</p>",
-          "link": "https://www.computerbase.de/2022-12/sapphire-radeon-rx-7900-pulse/",
-          "publishedOn": "2022-12-12T13:11:00.000Z",
-          "wordCount": 925,
-          "title": "AMD Radeon RX 7900 XTX und XT: Sapphire lässt die Pulse auf die Nitro+ und Vapor-X folgen",
-          "imageUrl": "https://pics.computerbase.de/1/0/6/0/6/8-da3f6b744e62d604/article-1280x720.40d6d79a.jpg"
-        },
-        {
-          "id": "https://www.computerbase.de/2022-12/geforce-rtx-4090-nvidias-neue-schnellste-geforce-auch-im-notebook/",
-          "author": null,
-          "description": "<img src=\"https://pics.computerbase.de/1/0/6/0/6/4-cbb4dd8337f52b69/article-640x360.fc0a0154.jpg\"><p>Nvidia wird die GeForce RTX 4090 auch ins Notebook bringen. Die schnellste Grafikkarte aus dem Desktop hat mit dieser Lösung aber nur noch den Namen gemein, bereits die Speicherausstattung von 16 GByte verrät, dass es sich eher um eine GeForce RTX 4080 aus dem Desktop auf Basis des AD103-Grafikchip handelt.</p>",
-          "link": "https://www.computerbase.de/2022-12/geforce-rtx-4090-nvidias-neue-schnellste-geforce-auch-im-notebook/",
-          "publishedOn": "2022-12-12T11:00:00.000Z",
-          "wordCount": 1081,
-          "title": "GeForce RTX 4090: Nvidias neue schnellste GeForce* auch im Notebook",
-          "imageUrl": "https://pics.computerbase.de/1/0/6/0/6/4-cbb4dd8337f52b69/article-1280x720.fc0a0154.jpg"
-        },
-        {
-          "id": "https://www.computerbase.de/2022-12/xiaomi-13-pro-smartphones-mit-leica-kameras-und-snapdragon-8-gen-2/",
-          "author": null,
-          "description": "<img src=\"https://pics.computerbase.de/1/0/6/0/6/3-aae406eadad26e80/article-640x360.df4904ed.jpg\"><p>Xiaomi hat für den chinesischen Markt die Xiaomi-13-Serie in Kooperation mit Leica vorgestellt. Die Serie besteht aus den Smartphones Xiaomi 13 und Xiaomi 13 Pro, die Features wie eine Triple-Kamera, den Snapdragon 8 Gen 2, modernen Speicher, schnelles Laden und helle Displays vereinen. In China starten die Geräte ab 545 Euro.</p>",
-          "link": "https://www.computerbase.de/2022-12/xiaomi-13-pro-smartphones-mit-leica-kameras-und-snapdragon-8-gen-2/",
-          "publishedOn": "2022-12-12T09:52:00.000Z",
-          "wordCount": 1407,
-          "title": "Xiaomi 13 (Pro): Smartphones mit Leica-Kameras und Snapdragon 8 Gen 2",
-          "imageUrl": "https://pics.computerbase.de/1/0/6/0/6/3-aae406eadad26e80/article-1280x720.df4904ed.jpg"
-        },
-        {
-          "id": "https://www.computerbase.de/2022-12/windows-11-2022-22h2-education-theme/",
-          "author": null,
-          "description": "<img src=\"https://pics.computerbase.de/1/0/6/0/6/1-b9e781ce3278e261/article-640x360.434f3dc3.jpg\"><p>Microsoft hat ein spezielles Theme für Windows 11 for Education konzipiert, welches sich über die Registry von jedermann aktivieren und so auch unter Windows 11 Home, Pro und Enterprise problemlos nutzen lässt. Ein Registrierungsschlüssel macht das neue Design mit zahlreichen Hintergrundbildern und Farbschemen verfügbar.</p>",
-          "link": "https://www.computerbase.de/2022-12/windows-11-2022-22h2-education-theme/",
-          "publishedOn": "2022-12-12T09:48:00.000Z",
-          "wordCount": 833,
-          "title": "Windows 11 2022 („22H2“): Education-Theme lässt sich über die Registry aktivieren",
-          "imageUrl": "https://pics.computerbase.de/1/0/6/0/6/1-b9e781ce3278e261/article-1280x720.434f3dc3.jpg"
-        },
-        {
-          "id": "https://www.computerbase.de/2022-12/intel-leak-erste-technische-daten-fuer-viele-zukuenftige-cpus/",
-          "author": null,
-          "description": "<img src=\"https://pics.computerbase.de/1/0/6/0/6/2-ce1332334bce18b8/article-640x360.ce16e868.jpg\"><p>Granite Rapids-AP, Arrow Lake und Meteor Lake für den Desktop, dazu viele Sockel- und RAM-Konfigurationen, verrät ein Leak der Intel-Webseite. Dieser erlaubt einen groben Blick auf den Fahrplan und untermauert Gerüchte und bisherige Vermutungen, wirft aber auch Fragen auf, was es beispielsweise mit Fischer Lake auf sich hat.</p>",
-          "link": "https://www.computerbase.de/2022-12/intel-leak-erste-technische-daten-fuer-viele-zukuenftige-cpus/",
-          "publishedOn": "2022-12-12T09:30:00.000Z",
-          "wordCount": 1191,
-          "title": "Intel-Leak: Erste technische Daten für viele zukünftige CPUs",
-          "imageUrl": "https://pics.computerbase.de/1/0/6/0/6/2-ce1332334bce18b8/article-1280x720.ce16e868.jpg"
-        },
-        {
-          "id": "https://www.computerbase.de/2022-12/powercolor-radeon-rx-7900-xtx-7900-xt-red-devil/",
-          "author": null,
-          "description": "<img src=\"https://pics.computerbase.de/1/0/6/0/6/0-b2e49d23bf55641e/article-640x360.547a0982.jpg\"><p>PowerColor, neben Sapphire der zweite große Exklusivpartner von AMD hat seine beiden kommenden Grafikkarten-Speerspitzen, die Radeon RX 7900 XTX Red Devil und die Radeon RX 7900 XT Red Devil, sowie deren Featureset offiziell enthüllt. Neben den regulären Versionen werden auch Limited Edition mit „Lava“-Backplate angeboten.</p>",
-          "link": "https://www.computerbase.de/2022-12/powercolor-radeon-rx-7900-xtx-7900-xt-red-devil/",
-          "publishedOn": "2022-12-12T05:33:00.000Z",
-          "wordCount": 1234,
-          "title": "Radeon RX 7900 XT(X) Red Devil: PowerColor stellt seine beiden roten Teufel jetzt offiziell vor (Update)",
-          "imageUrl": "https://pics.computerbase.de/1/0/6/0/6/0-b2e49d23bf55641e/article-1280x720.547a0982.jpg"
         }
       ]
     },
@@ -8637,9 +8647,9 @@
       ]
     },
     {
-      "title": "Deutschlandfunk - Fortlaufende Nachrichten vom 10. Januar 2023",
+      "title": "Deutschlandfunk - Fortlaufende Nachrichten vom 11. Januar 2023",
       "feedUrl": "https://www.deutschlandfunk.de/nachrichten-100.rss",
-      "siteUrl": "https://www.deutschlandfunk.de/nachrichten-index-26610.html",
+      "siteUrl": "https://www.deutschlandfunk.de/nachrichten-index-26624.html",
       "articles": []
     }
   ],
