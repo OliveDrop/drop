@@ -2,10 +2,272 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://olivedrop.github.io/drop/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-14T01:25:54.240Z</updated>
+    <updated>2023-01-15T01:41:20.239Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://olivedrop.github.io/drop/index.html"/>
     <link rel="self" href="https://olivedrop.github.io/drop/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Nvidia GeForce RTX 4080: Neuer Grafikchip soll Produktionskosten senken]]></title>
+        <id>https://www.computerbase.de/2023-01/nvidia-geforce-rtx-4080-neuer-grafikchip-soll-produktionskosten-senken/</id>
+        <link href="https://www.computerbase.de/2023-01/nvidia-geforce-rtx-4080-neuer-grafikchip-soll-produktionskosten-senken/"/>
+        <updated>2023-01-14T19:30:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/6/4/4/5-ddd972fb15ce7b8f/article-640x360.37215057.jpg"><p>Gainward setzt als mutmaßlich erster Boardpartner auf einen neuen Grafikchip für die GeForce RTX 4080 (Test), um die Produktionskosten zu senken. Für Endkunden ändert sich wiederum nichts: Die technischen Eckdaten der Grafikkarte, die Leistung und auch die unverbindliche Preisempfehlung bleiben unverändert.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intel Arc 31.0.101.4034: Release Notes nennen zwei Bugfixes und 21 offene Fehler [Notiz]]]></title>
+        <id>https://www.computerbase.de/2023-01/intel-arc-31-0-101-4034-release-notes-nennen-zwei-bugfixes-und-21-offene-fehler/</id>
+        <link href="https://www.computerbase.de/2023-01/intel-arc-31-0-101-4034-release-notes-nennen-zwei-bugfixes-und-21-offene-fehler/"/>
+        <updated>2023-01-14T19:21:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/6/4/4/4-559de2579ddfdb63/article-640x360.10488565.jpg"><p>Intel bastelt beständig weiter am Arc-Treiber. Fehlerbehebungen gibt es mit der neuen Beta-Version Arc 31.0.101.4034 allerdings kaum. Die Liste bekannter, aber noch nicht angegangener Probleme wird dafür umso länger, wie auch schon bei der Mitte Dezember 2022 veröffentlichten Version Arc 31.0.101.3975.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Samsung S95B: Tipps zu den Bildeinstellungen des QD-OLED-TVs]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1157595</id>
+        <link href="https://stadt-bremerhaven.de/samsung-s95b-tipps-zu-den-einstellungen-des-qd-oled-tvs/"/>
+        <updated>2023-01-14T19:00:35.000Z</updated>
+        <summary type="html"><![CDATA[Samsung hat mit dem S95B 2022 seinen ersten QD-OLED-Fernseher auf den Markt gebracht. Es hat eine Weile gedauert, aber Ende 2022 hatte ich dann die Gelegenheit, mir die Modellvariante mit 55 Zoll Diagonale etwas genauer anzuschauen. Ich sehe da keinen...
+Zum Beitrag: Samsung S95B: Tipps zu den Bildeinstellungen des QD-OLED-TVs
+
+Zum Blog: Caschys Blog]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Senic Muse Play: Die „Toniebox“ fürs Sonos-System kostet 200 Euro]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1157033</id>
+        <link href="https://stadt-bremerhaven.de/senic-muse-play-die-toniebox-fuers-sonos-system-kostet-200-euro/"/>
+        <updated>2023-01-14T17:30:34.000Z</updated>
+        <summary type="html"><![CDATA[Im vergangenen Jahr berichteten wir über die erwachsene „Tonie-Alternative“ fürs Sonos-System aus dem Hause Senic. In Form der sogenannten „Muse Blocks“ lassen sich Playlisten per NFC-Modul mit Cover-Artworks über ein Smartphone auf einem Sonos-System starten. Senic, ein deutsches Unternehmen, machte...
+Zum Beitrag: Senic Muse Play: Die „Toniebox“ fürs Sonos-System kostet 200 Euro
+
+Zum Blog: Caschys Blog]]></summary>
+        <author>
+            <name>Felix Frank</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Stadia: Nahender Tod haucht Gamepads neues Leben ein]]></title>
+        <id>https://www.computerbase.de/2023-01/google-stadia-nahender-tod-haucht-gamepads-neues-leben-ein/</id>
+        <link href="https://www.computerbase.de/2023-01/google-stadia-nahender-tod-haucht-gamepads-neues-leben-ein/"/>
+        <updated>2023-01-14T16:55:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/6/4/4/2-eca6f74095434da3/article-640x360.7f65051a.jpg"><p>In wenigen Tagen trägt Google den im Herbst 2019 gestarteten Cloud-Gaming-Dienst Stadia (Test) zu Grabe. Dem Controller haucht das paradoxerweise neues Leben ein – und dass die Entwickler das Ende mit einem Gratisspiel angehen, verwundert ebenso.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MediaTek Pentonic: Philips und Sony setzen als erste TV-Hersteller auf die neuen Chips]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1156938</id>
+        <link href="https://stadt-bremerhaven.de/mediatek-pentonic-philips-und-sony-stetzen-als-erste-tv-hersteller-auf-die-neuen-chips/"/>
+        <updated>2023-01-14T16:00:20.000Z</updated>
+        <summary type="html"><![CDATA[MediaTek hatte Ende 2022 neue Chips für Fernsehgeräte vorgestellt, die attraktive neue Funktionen bieten: etwa Unterstützung für vier Anschlüsse mit HDMI 2.1 bei vollen 48 Gbps, Wi-Fi 6E und auch Support für die effizienten Videocodecs AV1 und VVC. Doch auf...
+Zum Beitrag: MediaTek Pentonic: Philips und Sony setzen als erste TV-Hersteller auf die neuen Chips
+
+Zum Blog: Caschys Blog]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[„Der Ball liegt bei euch“: Ubisoft-CEO nimmt Mitarbeiter in die Pflicht]]></title>
+        <id>https://www.computerbase.de/2023-01/der-ball-liegt-bei-euch-ubisoft-ceo-nimmt-mitarbeiter-in-die-pflicht/</id>
+        <link href="https://www.computerbase.de/2023-01/der-ball-liegt-bei-euch-ubisoft-ceo-nimmt-mitarbeiter-in-die-pflicht/"/>
+        <updated>2023-01-14T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/6/4/4/1-9506fc2be7edff3f/article-640x360.9c374088.jpg"><p>Ubisoft fährt in stürmischen Gewässern. CEO Yves Guillemot nimmt nun die Angestellten in die Pflicht: Sie sollen das Line-up fristgerecht und in überzeugender Qualität fertigstellen, um das Unternehmen zurück zum Erfolg zu führen.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Montech Air 1000 Silent Edition: Gedämmter Midi-Tower soll leise laufen]]></title>
+        <id>https://www.computerbase.de/2023-01/montech-air-1000-silent-edition-gedaemmter-midi-tower-soll-leise-laufen/</id>
+        <link href="https://www.computerbase.de/2023-01/montech-air-1000-silent-edition-gedaemmter-midi-tower-soll-leise-laufen/"/>
+        <updated>2023-01-14T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/6/4/3/8-24739ae1daa196ef/article-640x360.42668fed.jpg"><p>Gehäuse besitzen 2022 normalerweise große Meshflächen, denen zur Kühlung leistungsstarker Hardware größere Notwendigkeit zukommt. Das Air 1000 Silent Edition setzt hingegen auf Schalldämmung, die an drei Seiten des Midi-Towers angebracht wird.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nacon MG-X Made for iPhone: Gaming-Controller-Aufsatz ist ab sofort erhältlich]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1157170</id>
+        <link href="https://stadt-bremerhaven.de/nacon-mg-x-made-for-iphone-gaming-controller-aufsatz-ist-ab-sofort-erhaeltlich/"/>
+        <updated>2023-01-14T14:30:09.000Z</updated>
+        <summary type="html"><![CDATA[Nacon veröffentlicht seinen MG-X Made for iPhone in Deutschland. Dabei handelt es sich um einen Controller-Aufsatz, der offiziell lizenziert ist und speziell auf das Cloud-Gaming über den Xbox Game Pass Ultimate ausgelegt ist. Eine Android-Varante gibt es ja schon seit...
+Zum Beitrag: Nacon MG-X Made for iPhone: Gaming-Controller-Aufsatz ist ab sofort erhältlich
+
+Zum Blog: Caschys Blog]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Defender: Update löscht Verknüpfungen aus Startmenü und Taskleiste]]></title>
+        <id>https://www.computerbase.de/2023-01/windows-11-microsoft-defender-update-probleme/</id>
+        <link href="https://www.computerbase.de/2023-01/windows-11-microsoft-defender-update-probleme/"/>
+        <updated>2023-01-14T14:30:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/6/4/4/0-00a43e2eb052388e/article-640x360.3343ed4f.jpg"><p>Ein Signatur-Update für den Microsoft Defender löscht Verknüpfungen im Startmenü und der Taskleiste von Windows 11 und 10. Unter anderem können Apps und auch der Edge-Browser plötzlich nicht mehr aufzufinden sein oder als „tote“ Shortcuts funktionslose Einträge hinterlassen. Ein weiteres Update soll das Problem lösen.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[QNAP TS-AI642: Kommt mit NPU für KI-Funktionen auf dem NAS]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1156846</id>
+        <link href="https://stadt-bremerhaven.de/qnap-ts-ai642-kommt-mit-npu-fuer-ki-funktionen-auf-dem-nas/"/>
+        <updated>2023-01-14T13:30:27.000Z</updated>
+        <summary type="html"><![CDATA[Der taiwanesische NAS-Hersteller QNAP schiebt pünktlich zum Jahresstart neue NAS-Modelle auf den Markt. Zu nennen wäre da unter anderem das TS-AI642, welches über eine geräteinterne KI mit NPUs verfügt und dadurch ein Experte in Sachen Bilderkennung sein sowie Verbesserungen bei...
+Zum Beitrag: QNAP TS-AI642: Kommt mit NPU für KI-Funktionen auf dem NAS
+
+Zum Blog: Caschys Blog]]></summary>
+        <author>
+            <name>Felix Frank</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ja! mobil: Im Januar mit doppeltem Startguthaben]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1157628</id>
+        <link href="https://stadt-bremerhaven.de/ja-mobil-im-januar-mit-doppeltem-sparguthaben/"/>
+        <updated>2023-01-14T12:30:51.000Z</updated>
+        <summary type="html"><![CDATA[Bereits im Dezember lockte ja! mobil mit Aktionen für Neukunden. Rewe setzt da bekanntlich bei seinem Mobilfunktarif auf eine Kooperation mit congstar. Die nächste Aktion startet bereits am 16. Januar und läuft bis zum 22. Januar. Dieses Mal spendiert man...
+Zum Beitrag: ja! mobil: Im Januar mit doppeltem Startguthaben
+
+Zum Blog: Caschys Blog]]></summary>
+        <author>
+            <name>Felix Frank</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lidar-Saugroboter DreameBot D10s Pro im Test]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1156173</id>
+        <link href="https://stadt-bremerhaven.de/lidar-saugroboter-dreamebot-d10s-pro-im-test/"/>
+        <updated>2023-01-14T11:30:16.000Z</updated>
+        <summary type="html"><![CDATA[Bei uns waren schon diverse Saugroboter für Tests im Einsatz, ein aktuelles Modell, den DreameBot D10s Pro, habe ich mir nun genauer anschauen dürfen. Jener gehört zur neuen D10s-Gerätereihe, weitere sind der D10s und der D10s Plus. Der D10s ist...
+Zum Beitrag: Lidar-Saugroboter DreameBot D10s Pro im Test
+
+Zum Blog: Caschys Blog]]></summary>
+        <author>
+            <name>Benjamin Mamerow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[QD-OLED-TVs: 2023 könnte die Technik deutlich an Fahrt aufnehmen]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1157133</id>
+        <link href="https://stadt-bremerhaven.de/qd-oled-tvs-2023-koennte-die-technik-deutlich-an-fahrt-aufnehmen/"/>
+        <updated>2023-01-14T10:30:09.000Z</updated>
+        <summary type="html"><![CDATA[Omdia Research versucht sich des Öfteren an Prognosen für den TV-Markt. Die Marktforscher rechnen nun damit, dass in den nächsten Jahren der Markt für OLED-TVs wachsen werde. Einen zunehmenden Anteil daran sollen die QD-OLED-Modelle haben. Insbesondere Samsung werde davon natürlich...
+Zum Beitrag: QD-OLED-TVs: 2023 könnte die Technik deutlich an Fahrt aufnehmen
+
+Zum Blog: Caschys Blog]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VSDI: Zumindest Entwicklung der Smart-eID soll bis zum zweiten Quartal 2023 abgeschlossen sein]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1157656</id>
+        <link href="https://stadt-bremerhaven.de/vsdi-zumindest-entwicklung-der-smart-eid-soll-bis-zum-zweiten-quartal-2023-abgeschlossen-sein/"/>
+        <updated>2023-01-14T09:30:36.000Z</updated>
+        <summary type="html"><![CDATA[Wie der Verband Sichere Digitale Identität (VSDI) mitteilt, heißt es von einer Ministeriumssprecherin des BMI nun, dass die sogenannte Smart-eID, also die digitale Ausweisfunktion, zwar noch immer nicht gestartet werden kann, zumindest aber nun die Entwicklung der Technologie bis zum...
+Zum Beitrag: VSDI: Zumindest Entwicklung der Smart-eID soll bis zum zweiten Quartal 2023 abgeschlossen sein
+
+Zum Blog: Caschys Blog]]></summary>
+        <author>
+            <name>Benjamin Mamerow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[„Hogwarts Legacy“: PC-Systemanforderungen und Bildmodi der Konsolen bekannt]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1157615</id>
+        <link href="https://stadt-bremerhaven.de/hogwarts-legacy-pc-systemanforderungen-und-bildmodi-der-konsolen-bekannt/"/>
+        <updated>2023-01-14T08:30:28.000Z</updated>
+        <summary type="html"><![CDATA[Portkey Games, die Entwickler des Anfang Februar erscheinenden Spiels „Hogwarts Legacy“, haben mittlerweile die PC-Systemanforderungen veröffentlicht. Dabei staffelt man nach den Minimum-Systemvoraussetzungen und den empfohlenen Specs für hohe Einstellungen, Ultra-Settings und auch der Technik, die euer Gaming-Rechner für Ultra-Einstellungen bei...
+Zum Beitrag: „Hogwarts Legacy“: PC-Systemanforderungen und Bildmodi der Konsolen bekannt
+
+Zum Blog: Caschys Blog]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Die CPU der Zukunft: 10 GHz, 3D V-Cache und 16 P-Cores ohne x86?]]></title>
+        <id>https://www.computerbase.de/2023-01/die-cpu-der-zukunft/</id>
+        <link href="https://www.computerbase.de/2023-01/die-cpu-der-zukunft/"/>
+        <updated>2023-01-14T08:16:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/6/4/3/7-c3612478fb62aa91/article-640x360.2d29ed91.jpg"><p>Bis zu 6 GHz im Core i9-13900KS und 64 CPU-Kerne im Ryzen Threadripper Pro 5995WX sowie 64 MB 3D V-Cache im Ryzen 7 5800X3D und den kommenden Gaming-Spezialisten Ryzen 7000X3D werden bereits heute geboten, doch wie werden eigentlich die CPUs in der Zukunft aussehen? Diese Frage beschäftigt die Community aktuell im Forum.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft behebt Problem mit verschwundenen Verknüpfungen, bringt sie aber nicht zurück]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1157701</id>
+        <link href="https://stadt-bremerhaven.de/microsoft-behebt-problem-mit-verschwundenen-verknuepfungen-bringt-sie-aber-nicht-zurueck/"/>
+        <updated>2023-01-14T07:54:07.000Z</updated>
+        <summary type="html"><![CDATA[Ein unschöner Fehler hatte sich am Freitag den 13. in Windows eingeschlichen. Nach einem Update waren Verknüpfungen aus dem Startmenü und / oder aus der Taskleiste verschwunden. Schaut man in unsere Kommentarspalte und generell ins Netz, dann hatten IT-Admins einen...
+Zum Beitrag: Microsoft behebt Problem mit verschwundenen Verknüpfungen, bringt sie aber nicht zurück
+
+Zum Blog: Caschys Blog]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Twitter: Weiter Ungewissheit für Dritt-Apps]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1157697</id>
+        <link href="https://stadt-bremerhaven.de/twitter-weiter-ungewissheit-fuer-dritt-apps/"/>
+        <updated>2023-01-14T07:31:05.000Z</updated>
+        <summary type="html"><![CDATA[Wir berichteten darüber: Seit Freitag funktionieren die meisten Dritt-Clients für Twitter nicht mehr. Nutzer wurden ausgeloggt, ein erneutes Einloggen war und ist nicht mehr möglich. Kein Fehler auf der Seite des Nutzers, sondern einer bei Twitter. Die Frage ist bislang,...
+Zum Beitrag: Twitter: Weiter Ungewissheit für Dritt-Apps
+
+Zum Blog: Caschys Blog]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Im Test vor 15 Jahren: Die GeForce 8800 Ultra zuckte und schwitzte im 3-Way-SLI]]></title>
+        <id>https://www.computerbase.de/2023-01/geforce-8800-ultra-3-way-sli/</id>
+        <link href="https://www.computerbase.de/2023-01/geforce-8800-ultra-3-way-sli/"/>
+        <updated>2023-01-14T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/6/4/3/4-57089366b73a4b15/article-640x360.f9e54bf3.jpg"><p>Für Enthusiasten führte im Januar 2008 kein Weg an der Nvidia GeForce 8800 Ultra vorbei. Wer nicht nur in hohen Auflösungen, sondern auch mit eingeschalteter Kantenglättung und anisotroper Filterung spielen wollte, an den richtete sich Nvidia mit dem 3-Way-SLI-Verbund aus drei GeForce 8800 Ultra (Test) im Test vor 15 Jahren.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sennheiser IE 200: Kabelgebundener Kopfhörer für unterwegs kostet 149 Euro]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1156627</id>
+        <link href="https://stadt-bremerhaven.de/sennheiser-ie-200-kabelgebundener-high-end-kopfhoerer-kostet-149-euro/"/>
+        <updated>2023-01-14T06:30:04.000Z</updated>
+        <summary type="html"><![CDATA[Sennheiser baut seine IE-Serie weiter aus. Das ist deren Portfolio für eher audiophile Kopfhörer. Dort beheimatet ist unter anderem der IE 300 (hier unser Testbericht), welcher im 300-Euro-Segment angesiedelt ist. Die Sennheiser IE 200, welche Ende des Monats starten werden,...
+Zum Beitrag: Sennheiser IE 200: Kabelgebundener Kopfhörer für unterwegs kostet 149 Euro
+
+Zum Blog: Caschys Blog]]></summary>
+        <author>
+            <name>Felix Frank</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[„The Menu“ startet am 18. Januar 2023 bei Disney+]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1156794</id>
+        <link href="https://stadt-bremerhaven.de/the-menu-startet-am-18-januar-2023-bei-disney/"/>
+        <updated>2023-01-14T05:30:37.000Z</updated>
+        <summary type="html"><![CDATA[Der Film „The Menu“ von Searchlight Pictures ist ab dem 18. Januar auf Disney+ verfügbar. Die Hauptrollen spielen Anya Taylor-Joy („Das Damengambit“) und Nicholas Hoult („X-Men: First Class“). Sie verkörpern ein Paar, das auf eine private Insel reist, um ein...
+Zum Beitrag: „The Menu“ startet am 18. Januar 2023 bei Disney+
+
+Zum Blog: Caschys Blog]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Stadia: Bluetooth für die Controller als Abschiedsgeschenk]]></title>
         <id>https://stadt-bremerhaven.de/?p=1157692</id>
@@ -9728,434 +9990,6 @@ Zum Blog: Caschys Blog
 Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
         <author>
             <name>Olli</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sky Q mit Apple TV 4k (2022): Fehler behoben]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1143563</id>
-        <link href="https://stadt-bremerhaven.de/sky-q-mit-apple-tv-4k-2022-fehler-behoben/"/>
-        <updated>2022-12-16T13:34:36.000Z</updated>
-        <summary type="html"><![CDATA[Wer in der letzten Zeit Probleme mit der Konstellation von Sky Q in Verbindung mit dem neuen Apple TV 4K  (hier unser Test) hatte, der sollte einmal schauen, dass das aktuelle Update der Sky-Q-App eingespielt ist. Das Problem drückte sich...
-Zum Beitrag: Sky Q mit Apple TV 4k (2022): Fehler behoben
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>caschy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jugendschutz bei Spielen: USK prüft künftig auf In-Game-Käufe und Chats]]></title>
-        <id>https://www.computerbase.de/2022-12/jugendschutz-bei-spielen-usk-prueft-kuenftig-auf-in-game-kaeufe-und-chats/</id>
-        <link href="https://www.computerbase.de/2022-12/jugendschutz-bei-spielen-usk-prueft-kuenftig-auf-in-game-kaeufe-und-chats/"/>
-        <updated>2022-12-16T12:46:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/6/1/3/3-2c56e17245f149f4/article-640x360.36525cdf.jpg"><p>Im kommenden Jahr gelten neue Regeln für die Prüfung digitaler Spiele durch die Prüfstelle Unterhaltungssoftware Selbstkontrolle (USK). Neben der bekannten Alterskennzeichnung zum Jugendschutz kommen Hinweise zum Inhalt sowie zu potenziellen Online-Risiken wie In-Game-Käufen und Chats hinzu.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crucial MX500 SSD: Neue Firmware soll seltenes Problem beheben [Notiz]]]></title>
-        <id>https://www.computerbase.de/2022-12/crucial-mx500-ssd-neue-firmware-soll-seltenes-problem-beheben/</id>
-        <link href="https://www.computerbase.de/2022-12/crucial-mx500-ssd-neue-firmware-soll-seltenes-problem-beheben/"/>
-        <updated>2022-12-16T11:30:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/6/1/3/7-f1ef285dedb3faa2/article-640x360.672e8da0.jpg"><p>Crucial hat eine neue Firmware für die SATA-SSDs der Serie MX500 veröffentlicht. Die neue Version lautet M3CR046 und soll verhindern, dass sich die SSD in seltenen Fällen „aufhängt“. Crucial bezeichnet des Update als „optional“ und erklärt, dass die meisten Windows-Nutzer von der Änderung nicht betroffen sind.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[XPS 13 (9315) vs. XPS 13 (9360) im Test: Was Dell von 2016 bis 2022 alles geändert hat]]></title>
-        <id>https://www.computerbase.de/2022-12/dell-xps-13-9315-test/</id>
-        <link href="https://www.computerbase.de/2022-12/dell-xps-13-9315-test/"/>
-        <updated>2022-12-16T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/5/9/7/0-37416c9a7ac90aec/article-640x360.b9d5d736.jpg"><p>Das Dell XPS 13 gehört zu den bekanntesten Ultrabooks am Markt und begleitet seit Jahren die Redaktion auf Messen und anderen Terminen. Ein sechs Jahre altes 9360 erhält jetzt ein Upgrade durch das jüngste 9315. Doch ist das neue Modell automatisch in allen Bereichen besser? Ein Vergleich zweier äußerst unterschiedlicher XPS 13.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Darknet: Ermittler nehmen Betreiber pädophiler Plattformen fest]]></title>
-        <id>https://www.computerbase.de/2022-12/darknet-bka-ermittler-betreiber-plattformen/</id>
-        <link href="https://www.computerbase.de/2022-12/darknet-bka-ermittler-betreiber-plattformen/"/>
-        <updated>2022-12-16T09:57:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/6/1/3/2-dfd17700a50f5447/article-640x360.c1ce4039.jpg"><p>Gemeinsam ist es den Ermittlern des Bundeskriminalamtes (BKA), der Zentralstelle Internet- und Computerkriminalität (Cybercrime) und der Zentralstelle zur Bekämpfung der Internetkriminalität (ZIT) unter der Leitung der Generalstaatsanwaltschaft Frankfurt am Main gelungen, den Betreiber pädophiler Plattformen festzunehmen.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Xfce 4.18 für Linux erschienen: Ressourcensparender Desktop erhält eine Frischzellenkur]]></title>
-        <id>https://www.computerbase.de/2022-12/xfce-4-18-linux-desktop-erschienen/</id>
-        <link href="https://www.computerbase.de/2022-12/xfce-4-18-linux-desktop-erschienen/"/>
-        <updated>2022-12-16T09:37:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/6/1/3/0-de66fff394ba7980/article-640x360.bf3fc948.jpg"><p>Die freie und modulare Desktop-Umgebung Xfce 4.18 für Unix sowie für unixartige Betriebssysteme wie beispielsweise Distributionen auf Basis des Systemkernels Linux ist die erste Neuauflage seit rund 24 Monaten. Der Nachfolger von Xfce 4.16, das im Dezember 2020 erschienen ist, wurde optisch und funktional aufgewertet.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tomb Raider: Amazon Games übernimmt Publishing der Fortsetzung]]></title>
-        <id>https://www.computerbase.de/2022-12/tomb-raider-amazon-games-uebernimmt-publishing-der-fortsetzung/</id>
-        <link href="https://www.computerbase.de/2022-12/tomb-raider-amazon-games-uebernimmt-publishing-der-fortsetzung/"/>
-        <updated>2022-12-16T06:30:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/6/1/2/9-0ef778b24d919691/article-640x360.d60a9fc5.jpg"><p>Amazon Games wird Publisher des nächsten Tomb-Raider-Spiels. Der Konzern gewinnt so einen großen Namen für seinen Gaming-Vorstoß für den außer Spesen bislang wenig gewesen ist. Entwickelt wird das Spiel von Crystal Dynamics.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dan C4-SFX vergrößert: SFF-Gehäuse wird mit mehr Platz für GPUs produziert]]></title>
-        <id>https://www.computerbase.de/2022-12/dan-c4-sfx-vergroessert-sff-gehaeuse-wird-mit-mehr-platz-fuer-gpus-produziert/</id>
-        <link href="https://www.computerbase.de/2022-12/dan-c4-sfx-vergroessert-sff-gehaeuse-wird-mit-mehr-platz-fuer-gpus-produziert/"/>
-        <updated>2022-12-16T06:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/6/1/2/7-8675e028b8f57b98/article-640x360.20cebd5b.jpg"><p>Das unter anderem auf Basis von Feedback aus dem ComputerBase-Forum entwickelte DAN C4-SFX geht in Produktion. Gebaut wird die größere Version des Kleingehäuses. Grund für die Entscheidung sind die stark gewachsenen Abmessungen aktueller Grafikkarten – selbst eine GeForce RTX 4090 passt nun in das Gehäuse.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Epic Games Store: Und wieder grüßt täglich ein Gratisspiel]]></title>
-        <id>https://www.computerbase.de/2022-12/epic-games-store-und-wieder-gruesst-taeglich-ein-gratisspiel/</id>
-        <link href="https://www.computerbase.de/2022-12/epic-games-store-und-wieder-gruesst-taeglich-ein-gratisspiel/"/>
-        <updated>2022-12-15T20:12:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/6/1/2/5-e8d9958800aa1bd6/article-640x360.fef4942e.jpg"><p>Es ist wieder soweit: Im Epic Games Store startet der alljährliche Feiertags-Sale und neben Rabatten auf Spiele gibt es täglich ein Gratisspiel abzuholen. Benötigt wird dafür ein kostenloser Account bei Epic Games. Jeweils um 17 Uhr des nächsten Tages wechselt das Gratisangebot. Der nachfolgende Titel wird aber nicht verraten.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hideo Kojima bestätigt Death-Stranding-Kinofilm]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1143441</id>
-        <link href="https://stadt-bremerhaven.de/hideo-kojima-bestaetigt-death-stranding-kinofilm/"/>
-        <updated>2022-12-15T19:39:28.000Z</updated>
-        <summary type="html"><![CDATA[Noch kein Wort dazu, ob Norman Reedus und Co. darin auch mitspielen werden, aber: Death Stranding soll einen eigenen Kinofilm bekommen. Das berichtet die Plattform Deadline und führt bezugnehmend auf ein Statement von Hideo Kojima weiter aus, dass sich hierfür...
-Zum Beitrag: Hideo Kojima bestätigt Death-Stranding-Kinofilm
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>Benjamin Mamerow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nothing OS 1.5: Offene Beta für Android 13 ist da – mit diesen Neuerungen]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1143367</id>
-        <link href="https://stadt-bremerhaven.de/nothing-os-1-5-offene-beta-fuer-android-13-ist-da-mit-diesen-neuerungen/"/>
-        <updated>2022-12-15T19:00:32.000Z</updated>
-        <summary type="html"><![CDATA[Nothing OS 1.5 auf Basis von Android 13 wird im Frühjahr 2023 starten. Wie versprochen gibt es für Interessierte aber nun bereits eine offene Beta, die schon durchblicken lässt, welche Neuerungen der Überzug Nothing OS im kommenden Release im Bauch...
-Zum Beitrag: Nothing OS 1.5: Offene Beta für Android 13 ist da – mit diesen Neuerungen
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>Felix Frank</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unreal Tournament 3 X: Shooter erhält zweites Leben in kostenloser Neuauflage]]></title>
-        <id>https://www.computerbase.de/2022-12/unreal-tournament-3-x-shooter-erhaelt-zweites-leben-in-kostenloser-neuauflage/</id>
-        <link href="https://www.computerbase.de/2022-12/unreal-tournament-3-x-shooter-erhaelt-zweites-leben-in-kostenloser-neuauflage/"/>
-        <updated>2022-12-15T18:41:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/6/1/2/4-9c303cf5447f7f94/article-640x360.f90a0eac.jpg"><p>Augenscheinlich früher als geplant ging eine Produktseite im Steam-Shop online, die eine neue Fassung des Shooters Unreal Tournament 3 enthüllte. Laut der Beschreibung handelt es sich um Unreal Tournament 3 X, das als komplett kostenloser Titel mit Crossplay zwischen Epic, GOG und Steam aufwarten wird.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Resident Evil Village: VR-Modus kommt am 22. Februar zusammen mit PS VR2 als kostenloser DLC]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1143218</id>
-        <link href="https://stadt-bremerhaven.de/resident-evil-village-vr-modus-kommt-am-22-februar-zusammen-mit-ps-vr2-als-kostenloser-dlc/"/>
-        <updated>2022-12-15T18:30:25.000Z</updated>
-        <summary type="html"><![CDATA[Sony wird im Februar des nächsten Jahres die zweite Iteration der PlayStation VR an den Start bringen. 599 Euro wird das Ganze kosten und man wird damit unter anderem auch in die Untiefen der Horizon-Welt und mehr abtauchen können. Launch-Titel...
-Zum Beitrag: Resident Evil Village: VR-Modus kommt am 22. Februar zusammen mit PS VR2 als kostenloser DLC
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>Olli</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[„Hogwarts Legacy“: Neue Gameplay-Präsentation in 4K]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1143364</id>
-        <link href="https://stadt-bremerhaven.de/hogwarts-legacy-neue-gameplay-praesentation-in-4k/"/>
-        <updated>2022-12-15T18:00:13.000Z</updated>
-        <summary type="html"><![CDATA[Warner Bros. Games hat ein neues Gameplay-Video zum kommenden Spiel „Hogwarts Legacy“ veröffentlicht. Dem Action-Rollenspiel fiebern sicherlich viele Fans von Harry Potter entgegen, denn auch dieser Titel ist in der Wizarding World angesiedelt. Ihr verkörpert dabei einen neuen Zauberschüler an...
-Zum Beitrag: „Hogwarts Legacy“: Neue Gameplay-Präsentation in 4K
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>André Westphal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Games & Crystal Dynamics: Entwicklung eines neuen Tomb-Raider-Titels]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1143406</id>
-        <link href="https://stadt-bremerhaven.de/amazon-games-crystal-dynamics-entwicklung-eines-neuen-tomb-raider-titels/"/>
-        <updated>2022-12-15T17:43:43.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Games und Crystal Dynamics haben eine gemeinsame Vereinbarung getroffen. Während Crystal Dynamics die Entwicklung eines neuen Tomb-Raider-Titels angeht, wird Amazon Games den Support gewährleisten und das Spiel weltweit an die Märkte bringen. Nach der Übernahme von Embracer hat man...
-Zum Beitrag: Amazon Games & Crystal Dynamics: Entwicklung eines neuen Tomb-Raider-Titels
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>Felix Frank</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Epic Games Store: Bloons TD6 bis morgen kostenlos]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1143377</id>
-        <link href="https://stadt-bremerhaven.de/epic-games-store-bloons-td6-bis-morgen-kostenlos/"/>
-        <updated>2022-12-15T17:13:46.000Z</updated>
-        <summary type="html"><![CDATA[Anlässlich der anstehenden Weihnachtsfeiertage zeigt sich Epic Games in Spendierlaune. Derartige Feiertags-Aktionen hat man auch in den vergangenen Jahren angeboten. Statt nur am heutigen Donnerstag wird es bis einschließlich 5. Januar 2023 täglich ein neues Spiel geben. Heute geht es...
-Zum Beitrag: Epic Games Store: Bloons TD6 bis morgen kostenlos
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>Felix Frank</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Winter Sale im Ubisoft Store gestartet]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1143392</id>
-        <link href="https://stadt-bremerhaven.de/winter-sale-im-ubisoft-store-gestartet/"/>
-        <updated>2022-12-15T17:03:52.000Z</updated>
-        <summary type="html"><![CDATA[Sollte noch jemand auf der Suche nach ein paar Spielen sein – die Feiertage laden ja quasi dazu ein, ein paar ruhige Stunden zu verbringen – dann kann man nun im Ubisoft Store wühlen Da ist aktuell der Winter Sale...
-Zum Beitrag: Winter Sale im Ubisoft Store gestartet
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>caschy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Corsair Xeneon Flex 45WQHD240 im Test: Tolles OLED-Display zum Biegen von flach bis curved]]></title>
-        <id>https://www.computerbase.de/2022-12/corsair-xeneon-flex-45wqhd240-oled-test/</id>
-        <link href="https://www.computerbase.de/2022-12/corsair-xeneon-flex-45wqhd240-oled-test/"/>
-        <updated>2022-12-15T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/6/0/6/6-3ef1e06a2f7fb27a/article-640x360.1db9ba71.jpg"><p>Der Corsair Xeneon Flex 45WQHD240 ist ein 45 Zoll großer OLED-Monitor mit 240 Hz und HDMI 2.1 im 21:9-Format. Der Clou: Der Nutzer kann das Display selbst biegen, so dass es flach oder gekrümmt verwendet werden kann. Im Test geht das Konzept auf und Bildqualität und Schnelligkeit des OLED-Panels sind hervorragend.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DKB: Version 1.21 der Banking-App mit Verbesserungen erschienen]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1143379</id>
-        <link href="https://stadt-bremerhaven.de/dkb-version-1-21-der-banking-app-mit-verbesserungen-erschienen/"/>
-        <updated>2022-12-15T16:45:44.000Z</updated>
-        <summary type="html"><![CDATA[Kunden der DKB bekommen ab sofort ein Update ihrer App angeboten. Sowohl Android als auch iOS werden da aktuell bedient. Version 1.21 erlaubt Kunden unter Android, dass sie ab sofort Lastschriften in der DKB-App zurückgeben lassen können. Dies können auch...
-Zum Beitrag: DKB: Version 1.21 der Banking-App mit Verbesserungen erschienen
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>caschy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Superman: Henry Cavill ist raus, James Gunn plant Reboot]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1143332</id>
-        <link href="https://stadt-bremerhaven.de/superman-henry-cavill-ist-raus-james-gunn-plant-reboot/"/>
-        <updated>2022-12-15T16:30:06.000Z</updated>
-        <summary type="html"><![CDATA[Der Schauspieler Henry Cavill wirkt in Interviews und seiner sonstigen Webpräsenz auf mich immer sehr sympathisch: Er ist bekennender Gamer, wirkt immer respektvoll und höflich und spielte mit Superman und Geralt („The Witcher“) zwei meiner Lieblingscharaktere. Nun bin ich alles...
-Zum Beitrag: Superman: Henry Cavill ist raus, James Gunn plant Reboot
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>André Westphal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nvidia GeForce Now Thursday: Das sind die neuen Spiele im Cloud-Gaming-Angebot]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1143356</id>
-        <link href="https://stadt-bremerhaven.de/nvidia-geforce-now-thursday-das-sind-die-neuen-spiele-im-cloud-gaming-angebot/"/>
-        <updated>2022-12-15T16:00:06.000Z</updated>
-        <summary type="html"><![CDATA[Nvidia hält heute mal wieder seinen GeForce Now Thursday ab. Für euch heißt das, dass neue Spiele zum Cloud-Gaming-Angebot von Nvidia hinzustoßen. Um die Titel nutzen zu können, solltet ihr sie natürlich in einem angebundenen Store in eure Bibliothek aufgenommen...
-Zum Beitrag: Nvidia GeForce Now Thursday: Das sind die neuen Spiele im Cloud-Gaming-Angebot
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>André Westphal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rock Band und Unreal: Epic schaltet Online-Dienste für alte Titel ab]]></title>
-        <id>https://www.computerbase.de/2022-12/rock-band-und-unreal-epic-schaltet-online-dienste-fuer-alte-titel-ab/</id>
-        <link href="https://www.computerbase.de/2022-12/rock-band-und-unreal-epic-schaltet-online-dienste-fuer-alte-titel-ab/"/>
-        <updated>2022-12-15T15:46:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/6/1/1/9-b17ec618a09c2cc7/article-640x360.39f585c8.jpg"><p>Für eine ganze Reihe älterer Spiele inklusive Titeln der Serien Rock Band und Unreal Tournament stellt Epic Games die Online-Dienste ab. Ohne Server werden einige nur noch offline spielbar und andere überhaupt nicht mehr spielbar sein.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MacBook Air: 15,5 Zoll großes Modell angeblich im Frühjahr 2023]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1143353</id>
-        <link href="https://stadt-bremerhaven.de/macbook-air-155-zoll-grosses-modell-angeblich-im-fruehjahr-2023/"/>
-        <updated>2022-12-15T15:30:12.000Z</updated>
-        <summary type="html"><![CDATA[Ross Young, Analyst und CEO der Display Supply Chain Consultants, hat mal wieder aus dem Nähkästchen geplaudert. Er hat gute Insights in die Zulieferer- und Herstellerkette und hat schon des Öfteren gute Treffer gelandet. Laut ihm scheint es so, dass...
-Zum Beitrag: MacBook Air: 15,5 Zoll großes Modell angeblich im Frühjahr 2023
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>caschy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nothing Phone (1): Android 13 als Open Beta per OTA-Update verfügbar]]></title>
-        <id>https://www.computerbase.de/2022-12/nothing-phone-1-android-13-als-open-beta-per-ota-update-verfuegbar/</id>
-        <link href="https://www.computerbase.de/2022-12/nothing-phone-1-android-13-als-open-beta-per-ota-update-verfuegbar/"/>
-        <updated>2022-12-15T15:23:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/6/1/2/1-20a017aca69e6d9b/article-640x360.a3f89d13.jpg"><p>Für das Nothing Phone (1) ist das Update auf Android 13 als Open Beta freigegeben worden. Die Nothing OS 1.5 Open Beta startet ab sofort für registrierte Nutzer, die sich dafür bei Nothing angemeldet haben, das finale Update auf Android 13 soll dann im Frühjahr 2023 für alle Besitzer des Phone (1) bereitgestellt werden.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Safari Technology Preview: Version 160 veröffentlicht]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1143222</id>
-        <link href="https://stadt-bremerhaven.de/safari-technology-preview-version-160-veroeffentlicht/"/>
-        <updated>2022-12-15T15:00:58.000Z</updated>
-        <summary type="html"><![CDATA[In 2016 führte Apple die Möglichkeit ein, neben der finalen Version von Safari auch eine Beta auf dem Mac zu installieren. Die trägt den Namen „Safari Technology Preview“ und ist in einer neuen Version erschienen. Das Release besitzt die Nummer...
-Zum Beitrag: Safari Technology Preview: Version 160 veröffentlicht
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>Olli</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trakt weiterhin mit Problemen]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1143330</id>
-        <link href="https://stadt-bremerhaven.de/trakt-weiterhin-mit-problemen/"/>
-        <updated>2022-12-15T14:45:26.000Z</updated>
-        <summary type="html"><![CDATA[Trakt.tv ist eine Online-Plattform, die es Benutzern ermöglicht, ihre Lieblingsfilme und -TV-Sendungen zu verfolgen und zu organisieren. Die Plattform bietet auch Empfehlungen für TV-Sendungen und Filme basierend auf den Interessen des Benutzers und bietet die Möglichkeit, Freunde und andere Benutzer...
-Zum Beitrag: Trakt weiterhin mit Problemen
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>caschy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nintendo eShop: Festtagsangebote sind offiziell gestartet]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1143339</id>
-        <link href="https://stadt-bremerhaven.de/nintendo-eshop-festtagsangebote-sind-offiziell-gestartet/"/>
-        <updated>2022-12-15T14:30:12.000Z</updated>
-        <summary type="html"><![CDATA[Caschy hatte schon im Vorfeld darauf hingewiesen, da die Aktion nun begonnen hat, schicke ich euch jedoch einmal eine kleine Erinnerung: Wieder einmal gibts einen Sale im Nintendo eShop. 1.500 Titel sollen da mehr (viele Titel bis zu 60 %)...
-Zum Beitrag: Nintendo eShop: Festtagsangebote sind offiziell gestartet
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>André Westphal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Matter ist jetzt auf Google-Nest- und Android-Geräten verfügbar]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1143343</id>
-        <link href="https://stadt-bremerhaven.de/matter-ist-jetzt-auf-google-nest-und-android-geraeten-verfuegbar/"/>
-        <updated>2022-12-15T14:27:54.000Z</updated>
-        <summary type="html"><![CDATA[Im Oktober kündigte Google an, dass Matter bald kommen wird – und nun geht es auch schon los. Matter ist jetzt für Google Home auf Nest- und Android-Geräten verfügbar, gerade rechtzeitig zu den Feiertagen. Die iOS-Unterstützung der Google-Home-App für Matter...
-Zum Beitrag: Matter ist jetzt auf Google-Nest- und Android-Geräten verfügbar
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>caschy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Paramount+ experimentiert mit Werbung]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1143327</id>
-        <link href="https://stadt-bremerhaven.de/paramount-experimentiert-mit-werbung/"/>
-        <updated>2022-12-15T14:00:32.000Z</updated>
-        <summary type="html"><![CDATA[Jüngst ist in Deutschland Paramount+ gestartet. Dabei handelt es sich um einen US-amerikanischen Streaming-Service von Paramount Global. Bis zur Umbenennung am 4. März 2021 hieß er CBS All Access. Durch die Umbenennung wurde auch ein internationaler Start des Diensts unter...
-Zum Beitrag: Paramount+ experimentiert mit Werbung
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>caschy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dell Concept Luna: Notebook lässt sich ohne Schrauben in Einzelteile zerlegen]]></title>
-        <id>https://www.computerbase.de/2022-12/dell-concept-luna-notebook-laesst-sich-ohne-schrauben-in-einzelteile-zerlegen/</id>
-        <link href="https://www.computerbase.de/2022-12/dell-concept-luna-notebook-laesst-sich-ohne-schrauben-in-einzelteile-zerlegen/"/>
-        <updated>2022-12-15T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/6/0/9/3-37938af01c7ca21b/article-640x360.3ddd2aca.jpg"><p>Unter dem Namen Concept Luna treibt Dell die Entwicklung eines nachhaltigeren Notebooks voran, das erstmals zur CES Anfang 2022 gezeigt wurde. In der aktuellen Ausführung zur CES 2023 geht das Unternehmen einen Schritt weiter und ermöglicht die Demontage in einzelne Komponenten ohne Schrauben mit nur einem Werkzeug.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oppo Find N2 und Find N2 Flip: Foldables offiziell vorgestellt]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1143313</id>
-        <link href="https://stadt-bremerhaven.de/oppo-find-n2-und-find-n2-flip-foldables-offiziell-vorgestellt/"/>
-        <updated>2022-12-15T13:30:30.000Z</updated>
-        <summary type="html"><![CDATA[Oppo hat mit seinen beiden Foldables Find N2 und Find N2 Flip (wie erwartet) zwei neue mobile Endgeräte vorgestellt – zunächst nur für den chinesischen Markt. Dort wird das Oppo Find N2 wohl auch verbleiben, für das N2 Flip ist...
-Zum Beitrag: Oppo Find N2 und Find N2 Flip: Foldables offiziell vorgestellt
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>André Westphal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fido 1.37: Windows 11 2022 Update per PowerShell herunterladen [Notiz]]]></title>
-        <id>https://www.computerbase.de/2022-12/fido-1-37-windows-11-2022-update-powershell-script/</id>
-        <link href="https://www.computerbase.de/2022-12/fido-1-37-windows-11-2022-update-powershell-script/"/>
-        <updated>2022-12-15T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/6/1/1/8-0cfa080c9e4435b6/article-640x360.d8711c0d.jpg"><p>Fido („Full ISO Download Script“) ist ein PowerShell-Skript zum bequemen Herunterladen der Windows 8.1, Windows 10 und Windows 11 ISO-Dateien von den Microsoft-Servern. Eigentlich für die Nutzung im USB-Tool Rufus entwickelt, lässt sich Fido auch separat nutzen. Fido 1.37 enthält jetzt auch das Windows 11 2022 Update.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
         </author>
     </entry>
     <entry>
