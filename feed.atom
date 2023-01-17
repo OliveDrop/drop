@@ -2,10 +2,560 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://olivedrop.github.io/drop/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-16T01:36:05.330Z</updated>
+    <updated>2023-01-17T01:36:22.787Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://olivedrop.github.io/drop/index.html"/>
     <link rel="self" href="https://olivedrop.github.io/drop/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Personalentscheidung - Heil: Lambrecht-Nachfolge soll heute bekanntgegeben werden]]></title>
+        <id>heil-lambrecht-nachfolge-soll-heute-bekanntgegeben-werden-100</id>
+        <link href="https://www.deutschlandfunk.de/heil-lambrecht-nachfolge-soll-heute-bekanntgegeben-werden-100.html"/>
+        <updated>2023-01-17T01:12:44.000Z</updated>
+        <summary type="html"><![CDATA[Die Nachfolge für die scheidende Bundesverteidigungsministerin Lambrecht soll heute bekannt gegeben werden.]]></summary>
+        <author>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 17. Januar 2023</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bezahlte Bildungs-Auszeit - Mittelständler sehen Plan kritisch - Zustimmung bei Gewerkschaftern]]></title>
+        <id>mittelstaendler-sehen-plan-kritisch-zustimmung-bei-gewerkschaftern-102</id>
+        <link href="https://www.deutschlandfunk.de/mittelstaendler-sehen-plan-kritisch-zustimmung-bei-gewerkschaftern-102.html"/>
+        <updated>2023-01-17T01:12:44.000Z</updated>
+        <summary type="html"><![CDATA[Der Vorstoß der Bundesregierung zu bezahlten Bildungszeiten für Beschäftigte stößt bei kleineren und mittelgroßen Unternehmen auf Skepsis.]]></summary>
+        <author>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 17. Januar 2023</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Organspende - Patientenschützer gegen Lauterbachs Forderung nach Widerspruchslösung]]></title>
+        <id>patientenschuetzer-gegen-lauterbachs-forderung-nach-widerspruchsloesung-102</id>
+        <link href="https://www.deutschlandfunk.de/patientenschuetzer-gegen-lauterbachs-forderung-nach-widerspruchsloesung-102.html"/>
+        <updated>2023-01-17T01:12:44.000Z</updated>
+        <summary type="html"><![CDATA[Die Stiftung Patientenschutz lehnt den Vorstoß von Bundesgesundheitsminister Lauterbach für ein neues Organspende-Gesetz ab.]]></summary>
+        <author>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 17. Januar 2023</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bundesfinanzhof - Solidaritätszuschlag auf den Prüfstand]]></title>
+        <id>solidaritaetszuschlag-auf-den-pruefstand-100</id>
+        <link href="https://www.deutschlandfunk.de/solidaritaetszuschlag-auf-den-pruefstand-100.html"/>
+        <updated>2023-01-17T01:12:44.000Z</updated>
+        <summary type="html"><![CDATA[Vor dem Bundesfinanzhof wird heute über die Rechtmäßigkeit des Solidaritätszuschlags verhandelt.]]></summary>
+        <author>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 17. Januar 2023</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Argentinien - Soja-Ernte durch anhaltende Dürre in Gefahr]]></title>
+        <id>soja-ernte-durch-anhaltende-duerre-in-gefahr-102</id>
+        <link href="https://www.deutschlandfunk.de/soja-ernte-durch-anhaltende-duerre-in-gefahr-102.html"/>
+        <updated>2023-01-17T01:12:44.000Z</updated>
+        <summary type="html"><![CDATA[In Argentinien droht ein größerer Ausfall bei der Soja-Ernte.]]></summary>
+        <author>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 17. Januar 2023</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Davos - Weltwirtschaftsforum in der Schweiz beginnt mit offiziellem Programm]]></title>
+        <id>weltwirtschaftsforum-in-der-schweiz-beginnt-mit-offiziellem-programm-100</id>
+        <link href="https://www.deutschlandfunk.de/weltwirtschaftsforum-in-der-schweiz-beginnt-mit-offiziellem-programm-100.html"/>
+        <updated>2023-01-17T01:12:44.000Z</updated>
+        <summary type="html"><![CDATA[Im schweizerischen Davos beginnt heute der offizielle Teil des Weltwirtschaftsforums.]]></summary>
+        <author>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 17. Januar 2023</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Marsch zum EU-Parlament - Tausende Menschen demonstrieren in Straßburg - Solidarität mit Protestkundgebungen im Iran]]></title>
+        <id>tausende-menschen-demonstrieren-in-strassburg-solidaritaet-mit-protestkundgebungen-im-iran-108</id>
+        <link href="https://www.deutschlandfunk.de/tausende-menschen-demonstrieren-in-strassburg-solidaritaet-mit-protestkundgebungen-im-iran-108.html"/>
+        <updated>2023-01-17T01:12:44.000Z</updated>
+        <summary type="html"><![CDATA[In Straßburg haben sich mehr als zehntausend Menschen an einer Solidaritätskundgebung für die Protestbewegung im Iran beteiligt.]]></summary>
+        <author>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 17. Januar 2023</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Krieg in der Ukraine - Internationaler Druck auf Bundesregierung in Panzer-Debatte steigt]]></title>
+        <id>internationaler-druck-auf-bundesregierung-in-panzer-debatte-steigt-106</id>
+        <link href="https://www.deutschlandfunk.de/internationaler-druck-auf-bundesregierung-in-panzer-debatte-steigt-106.html"/>
+        <updated>2023-01-17T01:12:44.000Z</updated>
+        <summary type="html"><![CDATA[Polen und Finnland erhöhen den Druck auf die Bundesregierung, eine Entscheidung über die Lieferung von Leopard-2-Panzern an die Ukraine zu treffen. Der polnische Ministerpräsident Morawiecki sagte, Deutschland müsse mehr Waffen liefern und - so wörtlich - "die Panzer nicht in den Depots lassen".]]></summary>
+        <author>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 17. Januar 2023</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Russischer Angriffskrieg in der Ukraine - Guterres verurteilt Raketenangriff auf Wohnhaus in Dnipro]]></title>
+        <id>guterres-verurteilt-raketenangriff-auf-wohnhaus-in-dnipro-104</id>
+        <link href="https://www.deutschlandfunk.de/guterres-verurteilt-raketenangriff-auf-wohnhaus-in-dnipro-104.html"/>
+        <updated>2023-01-17T01:12:44.000Z</updated>
+        <summary type="html"><![CDATA[UNO-Generalsekretär Guterres hat den Raketenangriff auf ein Wohnhaus in der ukrainischen Großstadt Dnipro verurteilt.]]></summary>
+        <author>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 17. Januar 2023</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Russland - Moskau: Deutsches Flugzeug über der Ostsee von russischem Jet abgefangen]]></title>
+        <id>moskau-deutsches-flugzeug-ueber-der-ostsee-von-russischem-jet-abgefangen-108</id>
+        <link href="https://www.deutschlandfunk.de/moskau-deutsches-flugzeug-ueber-der-ostsee-von-russischem-jet-abgefangen-108.html"/>
+        <updated>2023-01-17T01:12:44.000Z</updated>
+        <summary type="html"><![CDATA[Die russische Luftwaffe hat nach Angaben aus Moskau ein deutsches Marineflugzeug abgefangen, das über der Ostsee auf Patrouillenflug war.]]></summary>
+        <author>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 17. Januar 2023</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sachsen-Anhalt - Ermittlungen gegen LKA-Beamte eingestellt]]></title>
+        <id>ermittlungen-gegen-lka-beamte-eingestellt-104</id>
+        <link href="https://www.deutschlandfunk.de/ermittlungen-gegen-lka-beamte-eingestellt-104.html"/>
+        <updated>2023-01-17T01:12:44.000Z</updated>
+        <summary type="html"><![CDATA[In Sachsen-Anhalt sind die strafrechtlichen Ermittlungen wegen Extremismus-Verdachts gegen vier Beamte des Landeskriminalamts eingestellt worden.]]></summary>
+        <author>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 17. Januar 2023</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tagebau Hambach - Klimaaktivisten verlassen RWE-Schaufelradbagger]]></title>
+        <id>klimaaktivisten-verlassen-rwe-schaufelradbagger-102</id>
+        <link href="https://www.deutschlandfunk.de/klimaaktivisten-verlassen-rwe-schaufelradbagger-102.html"/>
+        <updated>2023-01-17T01:12:44.000Z</updated>
+        <summary type="html"><![CDATA[Im Braunkohletagebau Hambach im rheinischen Revier haben Klimaaktivisten die Besetzung eines Schaufelradbaggers beendet.]]></summary>
+        <author>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 17. Januar 2023</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Großbritannien - London will schottisches Gender-Gesetz blockieren]]></title>
+        <id>london-will-schottisches-gender-gesetz-blockieren-108</id>
+        <link href="https://www.deutschlandfunk.de/london-will-schottisches-gender-gesetz-blockieren-108.html"/>
+        <updated>2023-01-17T01:12:44.000Z</updated>
+        <summary type="html"><![CDATA[Die britische Regierung will das sogenannte "Gender-Gesetz" von Schottland blockieren.]]></summary>
+        <author>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 17. Januar 2023</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Italien - Gina Lollobrigida gestorben]]></title>
+        <id>gina-lollobrigida-gestorben-112</id>
+        <link href="https://www.deutschlandfunk.de/gina-lollobrigida-gestorben-112.html"/>
+        <updated>2023-01-17T01:12:44.000Z</updated>
+        <summary type="html"><![CDATA[Die italienische Schauspielerin Gina Lollobrigida ist im Alter von 95 Jahren gestorben.]]></summary>
+        <author>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 17. Januar 2023</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Italien - Meist gesuchter Mafia-Boss gefasst]]></title>
+        <id>meist-gesuchter-mafia-boss-gefasst-106</id>
+        <link href="https://www.deutschlandfunk.de/meist-gesuchter-mafia-boss-gefasst-106.html"/>
+        <updated>2023-01-17T01:12:44.000Z</updated>
+        <summary type="html"><![CDATA[Die italienische Polizei hat den meistgesuchten Mafia-Boss des Landes verhaftet.]]></summary>
+        <author>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 17. Januar 2023</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Castrop-Rauxel - Weitere Beweismittel bei Terror-Verdächtigen gefunden]]></title>
+        <id>weitere-beweismittel-bei-terror-verdaechtigen-gefunden-110</id>
+        <link href="https://www.deutschlandfunk.de/weitere-beweismittel-bei-terror-verdaechtigen-gefunden-110.html"/>
+        <updated>2023-01-17T01:12:44.000Z</updated>
+        <summary type="html"><![CDATA[Bei erneuten Durchsuchungen im Zusammenhang mit dem Terrorverdacht gegen zwei Männer in Castrop-Rauxel sind weitere Beweismittel gefunden worden.]]></summary>
+        <author>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 17. Januar 2023</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wetter - Im Norden und Osten Schauer, sonst wechselnd bewölkt]]></title>
+        <id>im-norden-und-osten-schauer-sonst-wechselnd-bewoelkt-104</id>
+        <link href="https://www.deutschlandfunk.de/im-norden-und-osten-schauer-sonst-wechselnd-bewoelkt-104.html"/>
+        <updated>2023-01-17T01:12:44.000Z</updated>
+        <summary type="html"><![CDATA[Der Wetterbericht, die Lage: Hinter einem abziehenden Tief fließt Meeresluft polaren Ursprungs ein, die das Wetter weiter unbeständig und zunehmend kühler gestaltet.]]></summary>
+        <author>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 17. Januar 2023</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple: Neues MacBook Pro mit M2 und Wi-Fi 6E aufgetaucht]]></title>
+        <id>https://www.computerbase.de/2023-01/apple-neues-macbook-pro-mit-m2-und-wi-fi-6e-aufgetaucht/</id>
+        <link href="https://www.computerbase.de/2023-01/apple-neues-macbook-pro-mit-m2-und-wi-fi-6e-aufgetaucht/"/>
+        <updated>2023-01-16T21:42:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/6/4/6/5-6b7671db7794bad2/article-640x360.e99d4888.jpg"><p>Gerüchten zufolge könnten schon am morgigen Dienstag Neuvorstellungen von Apple im Mac-Bereich anstehen. Nun wurde ein neues MacBook Pro mit Wi-Fi 6E und M2 in der Datenbank der kanadischen Industry Canada Radio Equipment List gefunden, was diese Spekulationen bekräftigt.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AMD Ryzen 7000: Die AM5-Plattform wird mit A620-Mainboards attraktiver]]></title>
+        <id>https://www.computerbase.de/2023-01/amd-ryzen-7000-a620-mainboards/</id>
+        <link href="https://www.computerbase.de/2023-01/amd-ryzen-7000-a620-mainboards/"/>
+        <updated>2023-01-16T20:53:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/6/4/6/4-e3e02db05b9a48ff/article-640x360.62984e54.jpg"><p>Die Zen-4-RDNA-2-Prozessoren der CPU-Familie AMD Ryzen 7000 (Test) und die diesen zugrunde liegende AM5-Plattform werden aktuell insbesondere durch die vergleichbar hohen Preise der Mainboards mit den Chipsätzen X670(E) und B650(E) ausgebremst, doch der A620-Chipsatz soll das ändern. Erste Platinen wurden bereits gesichtet.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google arbeitet angeblich an eigener AirTag-Lösung]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1157904</id>
+        <link href="https://stadt-bremerhaven.de/google-arbeitet-angeblich-an-eigener-airtag-loesung/"/>
+        <updated>2023-01-16T19:56:39.000Z</updated>
+        <summary type="html"><![CDATA[Laut einem Leak, der aktuell durch Kuba Wojciechowski bei Twitter die Runde macht, könnte Google aktuell an einer eigenen Lösung eines smarten Tracking-Device im Stil von Apples AirTag arbeiten. Der Codename des Geräts laute „grogu“, für die Entwicklung sei das...
+Zum Beitrag: Google arbeitet angeblich an eigener AirTag-Lösung
+
+Zum Blog: Caschys Blog]]></summary>
+        <author>
+            <name>Benjamin Mamerow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Surviving the Abyss: Aufbaustrategie führt im Kalten Krieg auf den Meeresgrund]]></title>
+        <id>https://www.computerbase.de/2023-01/surviving-the-abyss-aufbaustrategie-fuehrt-auf-den-meeresgrund-des-kalten-krieges/</id>
+        <link href="https://www.computerbase.de/2023-01/surviving-the-abyss-aufbaustrategie-fuehrt-auf-den-meeresgrund-des-kalten-krieges/"/>
+        <updated>2023-01-16T19:45:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/6/4/6/0-832105f774291412/article-640x360.4fcf9c2a.jpg"><p>Am Freitag berichtete ComputerBase zum Release von Aquatico, einem Aufbaustrategie- und Überlebens­simulationsspiel. Die Besonderheit: Gebaut wird auf dem Grund des Meeres, ein im Genre bis dato recht unverbrauchtes Setting. Mit Surviving the Abyss geht morgen allerdings direkt das nächste Tiefsee-Strategiespiel an den Start.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[40 Prozent abwärts: HDD-Markt mit starker Schlagseite im vierten Quartal]]></title>
+        <id>https://www.computerbase.de/2023-01/40-prozent-abwaerts-hdd-markt-mit-starker-schlagseite-im-vierten-quartal/</id>
+        <link href="https://www.computerbase.de/2023-01/40-prozent-abwaerts-hdd-markt-mit-starker-schlagseite-im-vierten-quartal/"/>
+        <updated>2023-01-16T19:30:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/6/4/6/3-25965d204f143b53/article-640x360.d91631c4.jpg"><p>Derzeit leiden viele Unternehmen der Hardware-Branche unter der geringen Konsumbereitschaft aufgrund schwieriger Wirtschaftslage. Der ohnehin immer schwächer werdende HDD-Markt bekommt dies drastisch zu spüren. Marktforscher rechnen mit einem Absatzrückgang von über 40 Prozent gegenüber dem Vorjahr.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Synology: Alte DSM-Versionen werden bald nicht mehr verfügbar sein]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1157895</id>
+        <link href="https://stadt-bremerhaven.de/synology-alte-dsm-versionen-werden-bald-nicht-mehr-verfuegbar-sein/"/>
+        <updated>2023-01-16T19:04:54.000Z</updated>
+        <summary type="html"><![CDATA[Das könnte unter Umständen schlecht für ein paar Wiederverkäufer von alten Synology-Geräten sein. Aufgrund von nicht näher erklärten Änderungen in den Lizenzvereinbarungen wird Synology ab dem 1. Mai 2023 bestimmte DSM-Installationsdateien, Firmware-Versionen und Softwarepakete von der offiziellen Website und aus...
+Zum Beitrag: Synology: Alte DSM-Versionen werden bald nicht mehr verfügbar sein
+
+Zum Blog: Caschys Blog]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Im Cinebench R23: Core i9-13980HX fast so schnell wie ein Core i7-13700K]]></title>
+        <id>https://www.computerbase.de/2023-01/im-cinebench-r23-core-i9-13980hx-fast-so-schnell-wie-ein-core-i7-13700k/</id>
+        <link href="https://www.computerbase.de/2023-01/im-cinebench-r23-core-i9-13980hx-fast-so-schnell-wie-ein-core-i7-13700k/"/>
+        <updated>2023-01-16T18:45:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/6/4/6/1-215e396b48a833cf/article-640x360.05d803da.jpg"><p>Der vor zwei Wochen erst vorgestellte Core i9-13980HX wird das Notebook-CPU-Portfolio von Intel demnächst anführen. Insgesamt erstmals 24 Kerne im Notebook heben die Multi-Thread-Leistung auf eine neue Ebene. Das verdeutlichen erste Benchmarks mit dem entsprechend bestückten MSI Raider GE78HX.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple wird eine Neuvorstellung am 17. Januar nachgesagt]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1157891</id>
+        <link href="https://stadt-bremerhaven.de/apple-wird-eine-neuvorstellung-am-17-januar-nachgesagt/"/>
+        <updated>2023-01-16T18:06:04.000Z</updated>
+        <summary type="html"><![CDATA[Glaubt man Gerüchten, dann ist der 17. Januar wieder ein Tag, an dem Apple etwas in seinem Newsroom vorstellt. Kein Event, eine einfache Pressemitteilung soll es sein. Informationen darüber, worum es sich handelt, waren bislang vage. Möchte man spekulieren, dann...
+Zum Beitrag: Apple wird eine Neuvorstellung am 17. Januar nachgesagt
+
+Zum Blog: Caschys Blog]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fritz!OS 7.51: AVM Fritz!Box 7490 erhält die neueste Labor-Firmware]]></title>
+        <id>https://www.computerbase.de/2023-01/fritzbox-7490-fritzos-7-51-labor-firmware/</id>
+        <link href="https://www.computerbase.de/2023-01/fritzbox-7490-fritzos-7-51-labor-firmware/"/>
+        <updated>2023-01-16T17:35:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/6/4/6/2-b7ab46b4c9c7e4bd/article-640x360.969fc0aa.jpg"><p>Das vor rund zehn Jahren erschienene ehemalige Topmodell aus dem Portfolio an VDSL2-/ADSL2-Routern des Herstellers AVM, die Fritz!Box 7490, erhält mit Fritz!OS 7.51 jetzt die neueste Labor-Firmware, wenngleich ein Update auf das finale Fritz!OS 7.50 nach wie vor aussteht. Den Wi-Fi-5-Router nutzen noch immer viele Anwender.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Red Magic 8 Pro ab 2. Februar 2023 international zu haben]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1157815</id>
+        <link href="https://stadt-bremerhaven.de/red-magic-8-pro-ab-2-februar-2023-international-zu-haben/"/>
+        <updated>2023-01-16T17:30:41.000Z</updated>
+        <summary type="html"><![CDATA[Ende Dezember wurde das Red Magic 8 Pro bereits in China vorgestellt – zusammen mit einem Geschwistermodell, dem Red Magic 8 Pro+. Während letzteres dem chinesischen Markt vorbehalten bleibt, kommt das Red Magic 8 Pro am 2. Februar 2023 auch...
+Zum Beitrag: Red Magic 8 Pro ab 2. Februar 2023 international zu haben
+
+Zum Blog: Caschys Blog]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[„Beyond Good and Evil 2“: Entwicklung läuft laut Ubisoft noch]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1157874</id>
+        <link href="https://stadt-bremerhaven.de/beyond-good-evil-2-entwicklung-laeuft-laut-ubisoft-noch/"/>
+        <updated>2023-01-16T17:00:54.000Z</updated>
+        <summary type="html"><![CDATA[„Beyond Good and Evil 2“ wurde bereits 2016 offiziell angekündigt. Der Erstling erschien 2003 und floppte zwar kommerziell, entwickelte sich aber im Nachhinein zu einem Kultspiel mit treuer Fangemeinde. In Bezug auf den Nachfolger war dann auch zuerst die Vorfreude...
+Zum Beitrag: „Beyond Good and Evil 2“: Entwicklung läuft laut Ubisoft noch
+
+Zum Blog: Caschys Blog]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AphyOS: Mobiles Betriebssystem aus der Schweiz soll Sicherheit bieten und Geld kosten]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1157875</id>
+        <link href="https://stadt-bremerhaven.de/aphyos-mobiles-betriebssystem-aus-der-schweiz-soll-sicherheit-bieten-und-geld-kosten/"/>
+        <updated>2023-01-16T16:28:25.000Z</updated>
+        <summary type="html"><![CDATA[Ein Schweizer Unternehmen möchte allem Anschein nach Fuß im Mobilfunkgeschäft fassen. Man hat nicht mehr und nicht weniger vor, ein eigenes Betriebssystem auf Smartphones zu bringen. Laut eigener Aussage hat man bereits europäische Partner, die 2023 Smartphones mit dem AphyOS...
+Zum Beitrag: AphyOS: Mobiles Betriebssystem aus der Schweiz soll Sicherheit bieten und Geld kosten
+
+Zum Blog: Caschys Blog]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows: PowerShell-Skript soll verschwundene Verknüpfungen zurückbringen]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1157861</id>
+        <link href="https://stadt-bremerhaven.de/windows-powershell-skript-soll-verschwundene-verknuepfungen-zurueckbringen/"/>
+        <updated>2023-01-16T15:30:52.000Z</updated>
+        <summary type="html"><![CDATA[Wir berichteten darüber: Microsoft hatte ein fehlerhaftes Update ausgespielt, welches auf Windows-Rechnern in Unternehmensumgebungen (oder bei Anwendern, die ASR-Regeln (Attack Surface Reduction) aktiv haben) dafür sorgte, dass Verknüpfungen aus dem Startmenü oder der Taskleiste verschwanden. Microsoft zog das fehlerhafte Update...
+Zum Beitrag: Windows: PowerShell-Skript soll verschwundene Verknüpfungen zurückbringen
+
+Zum Blog: Caschys Blog]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unschön: Deezers Hörbuch-App wird eingestellt]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1157852</id>
+        <link href="https://stadt-bremerhaven.de/unschoen-deezers-hoerbuch-app-wird-eingestellt/"/>
+        <updated>2023-01-16T15:12:11.000Z</updated>
+        <summary type="html"><![CDATA[Das ist für Nutzer richtiger Mist, wenn die Funktionen nicht 1:1 in der Deezer-App nachgebildet werden. Deezer hat bekannt gegeben, dass man die 2020 gestartete App „Audiobooks“ einstellen werde. Ab Ende Januar ist Feierabend mit Deezer Audiobooks. Tatsächlich habe ich...
+Zum Beitrag: Unschön: Deezers Hörbuch-App wird eingestellt
+
+Zum Blog: Caschys Blog]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PlayStation 5: Vorbestellbar für eine Lieferung bis spätestens 28.02.2023]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1157794</id>
+        <link href="https://stadt-bremerhaven.de/playstation-5-vorbestellbar-fuer-eine-lieferung-bis-spaetestens-28-02-2023/"/>
+        <updated>2023-01-16T15:00:22.000Z</updated>
+        <summary type="html"><![CDATA[Nein, es handelt sich nicht um eine versehentlich wiederveröffentlichte News aus dem Jahr 2020: Die PlayStation 5 ist vorbestellbar! Auch wenn Sony ein Ende der Lieferengpässe ausgerufen hat, so ist die Spielekonsole immer noch nicht permanent verfügbar in Händlerlagern bzw....
+Zum Beitrag: PlayStation 5: Vorbestellbar für eine Lieferung bis spätestens 28.02.2023
+
+Zum Blog: Caschys Blog]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[„The Callisto Protocol“: Verkaufszahlen liegen weit unter den Erwartungen]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1157805</id>
+        <link href="https://stadt-bremerhaven.de/the-callisto-protocol-verkaufszahlen-liegen-weit-unter-den-erwartungen/"/>
+        <updated>2023-01-16T14:30:07.000Z</updated>
+        <summary type="html"><![CDATA[Olli hatte das Horror-Spiel „The Callisto Protocol“ hier im Blog getestet und empfand es als technisch extrem beeindruckend, im Gameplay aber eher mittelmäßig. Mit dieser Ansicht ist er nicht allein, wenn man sich so die Reviews anderer Kollegen ansieht. Für...
+Zum Beitrag: „The Callisto Protocol“: Verkaufszahlen liegen weit unter den Erwartungen
+
+Zum Blog: Caschys Blog]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Arbeitsspeicher: Dells CAMM wird JEDEC-Standard für Notebook-RAM]]></title>
+        <id>https://www.computerbase.de/2023-01/arbeitsspeicher-dells-camm-wird-jedec-standard-fuer-notebook-ram/</id>
+        <link href="https://www.computerbase.de/2023-01/arbeitsspeicher-dells-camm-wird-jedec-standard-fuer-notebook-ram/"/>
+        <updated>2023-01-16T14:30:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/6/4/5/4-1ced249669ac22a1/article-640x360.aa0281a7.jpg"><p>Im vergangenen Jahr hat Dell mit dem Compression Attached Memory Module (CAMM) ein neues Format für modularen Arbeitsspeicher im Notebook vorgestellt. Dieser soll gegenüber den seit 25 Jahren genutzten SO-DIMMs Vorteile bieten. Noch in diesem Jahr könnte CAMM ein neuer JEDEC-Standard sein.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsofts Activision-Deal: EU soll Einwände erheben]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1157833</id>
+        <link href="https://stadt-bremerhaven.de/microsofts-activision-deal-eu-soll-einwaende-erheben/"/>
+        <updated>2023-01-16T14:05:52.000Z</updated>
+        <summary type="html"><![CDATA[Microsofts Activision-Deal wird weiterhin von allen Seiten stark beäugt. Microsoft wird, so ein Bericht von Reuters, wahrscheinlich eine kartellrechtliche Warnung der EU zu seinem 69-Milliarden-Dollar schweren Angebot für den „Call of Duty“-Hersteller Activision Blizzard erhalten, sagten Personen, die mit der...
+Zum Beitrag: Microsofts Activision-Deal: EU soll Einwände erheben
+
+Zum Blog: Caschys Blog]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Black Myth: Wukong: ARPG auf Basis der Unreal Engine 5 auf 2024 verschoben]]></title>
+        <id>https://www.computerbase.de/2023-01/black-myth-wukong-unreal-engine-5-verschoben-2024/</id>
+        <link href="https://www.computerbase.de/2023-01/black-myth-wukong-unreal-engine-5-verschoben-2024/"/>
+        <updated>2023-01-16T13:54:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/6/4/5/3-5f2cff5cb09a2767/article-640x360.af8a8a62.jpg"><p>Das Action-Rollenspiel Black Myth: Wukong des chinesischen Indie-Spieleentwicklers Game Science, das im Jahr 2020 bereits in der Pre-Alpha-Phase angekündigt wurde, erscheint nicht mehr in 2023 und wurde auf 2024 verschoben. Ursprünglich sollte das ARPG das erste Spiel sein, das die Unreal Engine 5 und DLSS kombiniert.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FRITZ!OS 7.51-102539: Laborversion für die FRITZ!Box 7490]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1157829</id>
+        <link href="https://stadt-bremerhaven.de/fritzos-7-51-102539-laborversion-fuer-die-fritzbox-7490/"/>
+        <updated>2023-01-16T13:41:37.000Z</updated>
+        <summary type="html"><![CDATA[AVM hat FRITZ!OS 7.51 als Laborversion für die betagte AVM FRITZ!Box 7490 veröffentlicht. Konkret können sich Tester da die Version 7.51-102539 installieren. AVM hat innerhalb der Laborversion ein paar Fehler behoben, wie das Changelog zeigt: Internet: Behoben IPSec-VPN-Verbindungen funktionierten sporadisch nicht...
+Zum Beitrag: FRITZ!OS 7.51-102539: Laborversion für die FRITZ!Box 7490
+
+Zum Blog: Caschys Blog]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EcoFlow Blade: Rasenmäherroboter sammelt auch Laub]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1157786</id>
+        <link href="https://stadt-bremerhaven.de/ecoflow-blade-rasenmaeherroboter-sammelt-auch-laub/"/>
+        <updated>2023-01-16T13:30:38.000Z</updated>
+        <summary type="html"><![CDATA[Auf der CES hat EcoFlow, eigentlich bekannt durch seine Powerstationen, neue Produkte vorgestellt (wir berichteten). Neben einer smarten Klimaanlage gab es auch einen tragbaren Kühlschrank und auch den EcoFlow Blade zu sehen, zu dem bis dahin aber nicht wirklich etwas...
+Zum Beitrag: EcoFlow Blade: Rasenmäherroboter sammelt auch Laub
+
+Zum Blog: Caschys Blog]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Huawei FreeBuds 5i: Neue TWS-Kopfhörer mit ANC für unter 100 Euro]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1157782</id>
+        <link href="https://stadt-bremerhaven.de/huawei-freebuds-5i-neue-tws-kopfhoerer-mit-anc-fuer-unter-100-euro/"/>
+        <updated>2023-01-16T13:00:27.000Z</updated>
+        <summary type="html"><![CDATA[Huawei bringt mit den FreeBuds 5i neue TWS-Kopfhörer mit ANC auf den Markt, die auch die Zertifizierung für Hi-Res Audio Wireless erhalten haben. Über die Begleit-App könnt ihr auch verschiedene Equalizer-Einstellungen anlegen und unterschiedliche ANC-Modi aktivieren. Ebenfalls wirbt Huawei mit...
+Zum Beitrag: Huawei FreeBuds 5i: Neue TWS-Kopfhörer mit ANC für unter 100 Euro
+
+Zum Blog: Caschys Blog]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google integriert Aufnahmefunktion für Wecktöne in die Uhr-App]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1157819</id>
+        <link href="https://stadt-bremerhaven.de/google-integriert-aufnahmefunktion-fuer-wecktoene-in-die-uhr-app/"/>
+        <updated>2023-01-16T12:42:23.000Z</updated>
+        <summary type="html"><![CDATA[Ihr benutzt die App „Uhr“ von Google auf eurem Pixel-Smartphone? Dann habt ihr eine neue Möglichkeit für einen Weckton in der App. Innerhalb der Uhr-App lassen sich bekanntlich nicht nur Töne oder Songs auswählen, nun gibt es auch direkt eine...
+Zum Beitrag: Google integriert Aufnahmefunktion für Wecktöne in die Uhr-App
+
+Zum Blog: Caschys Blog]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Online-Kündigungsbutton: Kaum ein Anbieter setzt ihn aktuell gesetzeskonform um]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1157769</id>
+        <link href="https://stadt-bremerhaven.de/online-kuendigungsbutton-kaum-ein-anbieter-setzt-ihn-aktuell-gesetzeskonform-um/"/>
+        <updated>2023-01-16T12:30:21.000Z</updated>
+        <summary type="html"><![CDATA[Die Misere um den Kündigungsbutton setzt sich fort: Seit dem 1. Juli 2022 müssen Anbieter, die online den Vertragsabschluss ermöglichen, auch einen Kündigungsbutton auf ihren Websites anbieten. Im November schauten sich die Verbraucherschützer dann mal die Umsetzung an. Doch die...
+Zum Beitrag: Online-Kündigungsbutton: Kaum ein Anbieter setzt ihn aktuell gesetzeskonform um
+
+Zum Blog: Caschys Blog]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Samsung Galaxy Z Fold5: Falte soll weniger sichtbar werden]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1157714</id>
+        <link href="https://stadt-bremerhaven.de/samsung-galaxy-z-fold-5-falte-soll-weniger-sichtbar-werden/"/>
+        <updated>2023-01-16T12:00:20.000Z</updated>
+        <summary type="html"><![CDATA[Im Bereich der Foldables ist Samsung nach wie vor einer der Vorreiter. Die Galaxy Z Fold und Flip sind Geräte, die beim Endkunden angekommen sind und dort ihren Dienst tun. Das Problem der faltbaren Geräte liegt in der Falte, die...
+Zum Beitrag: Samsung Galaxy Z Fold5: Falte soll weniger sichtbar werden
+
+Zum Blog: Caschys Blog]]></summary>
+        <author>
+            <name>Olli</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Netflix setzt verstärkt auf internationale Produktionen]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1157746</id>
+        <link href="https://stadt-bremerhaven.de/netflix-setzt-verstaerkt-auf-internationale-produktionen/"/>
+        <updated>2023-01-16T11:30:36.000Z</updated>
+        <summary type="html"><![CDATA[Netflix muss sich mehr und mehr auf die Zugkraft eigener Originals verlassen, denn die Lizenztitel gehen dem Streaming-Anbieter zunehmend aus. Das liegt freilich daran, dass Studios wie Warner (HBO Max), NBCUniversal (Peacock), Paramount (Paramount+) oder Disney (Disney+) alle lieber selbst...
+Zum Beitrag: Netflix setzt verstärkt auf internationale Produktionen
+
+Zum Blog: Caschys Blog]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OneNote für macOS erhält Diktier-Funktion (Beta)]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1157740</id>
+        <link href="https://stadt-bremerhaven.de/onenote-fuer-macos-erhaelt-diktier-funktion/"/>
+        <updated>2023-01-16T11:00:22.000Z</updated>
+        <summary type="html"><![CDATA[Microsofts OneNote beherrscht im Web und unter Windows auch eine Diktier-Funktion. Letztere erreicht nun, zunächst als Beta, auch macOS. Mit von der Partie sind Sprachbefehle zur Bearbeitung eurer Texte. Über 50 Sprachen werden unterstützt. Dabei weist Microsoft auch darauf hin,...
+Zum Beitrag: OneNote für macOS erhält Diktier-Funktion (Beta)
+
+Zum Blog: Caschys Blog]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Streaming-Box mit vorinstallierter Malware wird via Amazon angeboten]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1157758</id>
+        <link href="https://stadt-bremerhaven.de/streaming-box-mit-vorinstallierter-malware-wird-via-amazon-angeboten/"/>
+        <updated>2023-01-16T10:30:51.000Z</updated>
+        <summary type="html"><![CDATA[Falls ihr nach einem Streaming-Player sucht, macht ihr vielleicht lieber einen Bogen um die Android-TV-Box „T95“. Diese wird auch bei Amazon.de von diversen Verkäufern, auch Amazons UK-Sparte, angeboten. Wie ein Sicherheitsforscher herausgefunden hat, ist bei den Geräten direkt ab Werk...
+Zum Beitrag: Streaming-Box mit vorinstallierter Malware wird via Amazon angeboten
+
+Zum Blog: Caschys Blog]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Huawei FreeBuds 5i im Test: ANC-In-Ears für unter 100 Euro mit LDAC]]></title>
+        <id>https://www.computerbase.de/2023-01/huawei-freebuds-5i-in-ear-kopfhoerer-test/</id>
+        <link href="https://www.computerbase.de/2023-01/huawei-freebuds-5i-in-ear-kopfhoerer-test/"/>
+        <updated>2023-01-16T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/6/3/9/2-def3c805c7fdf71c/article-640x360.3c08a41c.jpg"><p>Für unter 100 Euro bringt Huawei die In-Ears FreeBuds 5i auf den Markt und bietet mit aktiver Geräuschunterdrückung, dem Hi-Res-Audio-Codec LDAC, einem Low-Latency-Modus und Bluetooth Multipoint einige Extras. Auch klanglich setzen sie nicht auf bloße Effekthascherei.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Open-Source-Mediacenter: Kodi 20 („Nexus“) mit neuen Features ist erschienen]]></title>
+        <id>https://www.computerbase.de/2023-01/kodi-20-nexus-mediacenter-release/</id>
+        <link href="https://www.computerbase.de/2023-01/kodi-20-nexus-mediacenter-release/"/>
+        <updated>2023-01-16T09:53:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/6/4/5/2-91279687491db18b/article-640x360.15879acf.jpg"><p>Das Open-Source-Mediacenter Kodi 20 („Nexus“) folgt auf Kodi 19 („Matrix“) und kann nach der erfolgreich abgeschlossenen Evaluierung durch drei Alpha-Versionen, einem Beta-Test und zwei Release Candidates jetzt in der finalen Version heruntergeladen werden. Die freie Medienzentrale erhält dabei auch zahlreiche neue Features.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Elder Scrolls: Skyblivion: Oblivion auf Basis von Skyrim soll 2025 erscheinen]]></title>
+        <id>https://www.computerbase.de/2023-01/the-elder-scrolls-sykblivion-oblivion-skyrim-mod-2025/</id>
+        <link href="https://www.computerbase.de/2023-01/the-elder-scrolls-sykblivion-oblivion-skyrim-mod-2025/"/>
+        <updated>2023-01-16T05:50:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/6/4/5/1-12d3c1a5d5a71298/article-640x360.f226d08f.jpg"><p>Während das zur E3 2018 angekündigte The Elder Scrolls VI voraussichtlich noch Jahre auf sich warten lassen wird, da sich Bethesda zuerst einmal um das neue Franchise Starfield kümmern wird, erscheint 2025 mit „Skyblivion“ eine „Oblivion-Mod“ auf „Skyrim-Basis“. Die Mod ist mehr ein Remake und ein echtes Mammutprojekt.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft × Activision Blizzard: Auch Nvidia und Google stellen sich gegen Übernahme]]></title>
+        <id>https://www.computerbase.de/2023-01/microsoft-x-activision-blizzard-auch-nvidia-und-google-stellen-sich-gegen-uebernahme/</id>
+        <link href="https://www.computerbase.de/2023-01/microsoft-x-activision-blizzard-auch-nvidia-und-google-stellen-sich-gegen-uebernahme/"/>
+        <updated>2023-01-16T05:30:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/6/4/5/0-c74bae34fab587bd/article-640x360.7b856855.jpg"><p>Einem neuen Bericht zufolge sieht sich Microsoft mit noch mehr Widerstand gegen die geplante Mega-Übernahme von Activision Blizzard konfrontiert, da inzwischen auch Nvidia und Google ihre eigenen Bedenken gegenüber der amerikanische Federal Trade Commission (FTC) geäußert haben.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PlayStation 4 Pro & Xbox One X: Alte Notebook-CPU ist 2023 am Leistungs-Ende]]></title>
         <id>https://www.computerbase.de/2023-01/playstation-4-pro-und-xbox-one-x-alte-notebook-cpu-ist-2023-am-leistungs-ende/</id>
@@ -9438,268 +9988,6 @@ Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
         <updated>2022-12-18T15:00:00.000Z</updated>
         <summary type="html"><![CDATA[LG schickt auf der CES 2023 seine Klimaanlagen der Reihe ArtCool Gallery in die nächste Generation. Im Wesentlichen kombiniert LG da die bei bereits erhältlichen Modellen austauschbaren Bilder mit einer Klimaanlage, die sich so besser in die Wohnumgebung integriert. Die...
 Zum Beitrag: LG ArtCool Gallery: Neue Modelle der Hybriden aus Klimaanlagen und digitalen Bilderrahmen
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>André Westphal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Der Cloud-Gaming-Rückblick am Sonntag – KW 50]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1143573</id>
-        <link href="https://stadt-bremerhaven.de/der-cloud-gaming-rueckblick-am-sonntag-kw-50/"/>
-        <updated>2022-12-18T13:00:39.000Z</updated>
-        <summary type="html"><![CDATA[Und an dieser Stelle nun wieder einmal der Rückblick auf die Cloud-Gaming-Neuigkeiten, diesmal aus der 50. Kalenderwoche 2022: Stadia Seit der Ankündigung des Shutdowns stellen sich viele vor allem die Frage: Was passiert mit meinen Spielständen? Wir haben die Fortschritte...
-Zum Beitrag: Der Cloud-Gaming-Rückblick am Sonntag – KW 50
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>Gastautor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nvidia vs. AMD: Wie steht ihr zum Start von GeForce RTX 4000 und Radeon RX 7000?]]></title>
-        <id>https://www.computerbase.de/2022-12/nvidia-geforce-rtx-4090-4080-amd-radeon-rx-7900-xtx-xt-umfrage/</id>
-        <link href="https://www.computerbase.de/2022-12/nvidia-geforce-rtx-4090-4080-amd-radeon-rx-7900-xtx-xt-umfrage/"/>
-        <updated>2022-12-18T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/6/1/5/1-56feaab4c73da4fe/article-640x360.01b120e3.jpg"><p>Inzwischen haben sowohl Nvidia als auch AMD mit der GeForce RTX 4090 (Test) und der GeForce RTX 4080 (Test) respektive der Radeon RX 7900 XT(X) die ersten Grafikkarten der neuen Generation auf den Markt gebracht. Wie kommen die Neuvorstellungen bei der ComputerBase-Community an? Und habt ihr vielleicht bereits zugeschlagen?</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta Quest 2 im Test: Ein durch und durch gelungenes Upgrade]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1142584</id>
-        <link href="https://stadt-bremerhaven.de/meta-quest-2-im-test-ein-durch-und-durch-gelungenes-upgrade/"/>
-        <updated>2022-12-18T11:00:40.000Z</updated>
-        <summary type="html"><![CDATA[Es ist nun schon eine Weile her, seit ich mir das VR-Headset Oculus Quest (mittlerweile Meta Quest) anschauen durfte. Da konnte ich für mich festhalten, dass VR ohne Kabelbindung zwar durchaus mit technischen/grafischen Einschränkungen kämpfen muss, was dem Spielerlebnis aber...
-Zum Beitrag: Meta Quest 2 im Test: Ein durch und durch gelungenes Upgrade
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>Benjamin Mamerow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bundesnetzagentur lädt ein Geoblocking-Verstöße bei Online-Einkäufen zu melden]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1143168</id>
-        <link href="https://stadt-bremerhaven.de/bundesnetzagentur-laedt-ein-geoblocking-verstoesse-bei-online-einkaeufen-zu-melden/"/>
-        <updated>2022-12-18T09:00:51.000Z</updated>
-        <summary type="html"><![CDATA[2018 wurde die sogenannte Geoblocking-Verordnung für Verbraucher ins Leben gerufen. Diese beinhaltet, dass bei grenzüberschreitenden Einkäufen in der EU eine Diskriminierung aufgrund der Staatsgehörigkeit oder des Wohnsitzes nicht gerechtfertigt ist. Stattdessen muss für Verbraucher in anderen EU-Ländern der gleiche Zugang...
-Zum Beitrag: Bundesnetzagentur lädt ein Geoblocking-Verstöße bei Online-Einkäufen zu melden
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>Felix Frank</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ubuntu 23.04 („Lunar Lobster“): Der neue Installer auf Basis von Google Flutter im Detail]]></title>
-        <id>https://www.computerbase.de/2022-12/ubuntu-23-04-lunar-lobster-desktop-installer-google-flutter/</id>
-        <link href="https://www.computerbase.de/2022-12/ubuntu-23-04-lunar-lobster-desktop-installer-google-flutter/"/>
-        <updated>2022-12-18T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/6/1/5/2-5b3608019539214e/article-640x360.20203523.jpg"><p>Ubuntu 23.04 („Lunar Lobster“) erscheint am 20. April 2023 und nutzt erstmals die neue grafische Installationsroutine auf Basis des Open-Source-UI-Development-Kits Flutter von Google. Die Abkehr vom freien GUI-Toolkit GTK sorgt bei Weitem nicht bei allen Anwendern für Freudensprünge, macht den Desktop-Installer aber moderner.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dyson: Produktportfolio soll bis 2025 verdoppelt werden]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1142920</id>
-        <link href="https://stadt-bremerhaven.de/dyson-produktportfolio-soll-bis-2025-verdoppelt-werden/"/>
-        <updated>2022-12-18T07:00:02.000Z</updated>
-        <summary type="html"><![CDATA[Schaut man sich die Flut von den Geräten an, die auf „klassischen“ Dyson-Märkten wildert, dann könnte man meinen, dass es das Unternehmen nicht leicht hat. Sauger und Ventilatoren im Dyson-Stil kommen von zahlreichen Firmen auf den Markt, das Gleiche gilt...
-Zum Beitrag: Dyson: Produktportfolio soll bis 2025 verdoppelt werden
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>caschy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wochenrück- und Ausblick: Eine RTX 4090 für 12.400 USD und die neuen RX 7900 XT(X)]]></title>
-        <id>https://www.computerbase.de/2022-12/wochenrueckblick-und-ausblick-2022-w50/</id>
-        <link href="https://www.computerbase.de/2022-12/wochenrueckblick-und-ausblick-2022-w50/"/>
-        <updated>2022-12-18T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/6/1/4/2-651780120cf623fa/article-640x360.d390d1eb.jpg"><p>Mit dem Start der neuen Grafikkarten von AMD auf Basis von RDNA 3 am Montag, ist das Thema der vergangenen Woche schnell gefunden worden. Der Test zu AMDs neuen Flaggschiff-Grafikkarten Radeon RX 7900 XTX und die Radeon RX 7900 XT ist unangefochten an der Spitze.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Immer wieder sonntags KW 50]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1143581</id>
-        <link href="https://stadt-bremerhaven.de/immer-wieder-sonntags-kw-50-10/"/>
-        <updated>2022-12-18T05:30:38.000Z</updated>
-        <summary type="html"><![CDATA[Das letzte Wochenende vor Weihnachten: Ich hoffe, ihr konntet alle notwendigen Einkäufe erledigen? Ansonsten habt ihr ja noch ein paar Tage Zeit für den Weg in die Innenstadt oder auch die ein oder andere Expressbestellung. Selbst versorgen könnt ihr euch...
-Zum Beitrag: Immer wieder sonntags KW 50
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>André Westphal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Produktivität: Alfred Gallery startet]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1143694</id>
-        <link href="https://stadt-bremerhaven.de/produktivitaet-alfred-gallery-startet/"/>
-        <updated>2022-12-17T20:05:42.000Z</updated>
-        <summary type="html"><![CDATA[Alfred ist eine Produktivitäts-Software für Macs, die als Alternative zum integrierten Spotlight-Suchwerkzeug dient. Mit Alfred können Benutzer schnell Dateien, Ordner, Websites, Kontakte und mehr suchen und starten. Die Software bietet auch integrierte Funktionen wie das Erstellen von Text-Snippets, das Starten...
-Zum Beitrag: Produktivität: Alfred Gallery startet
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>caschy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Humble Bundle: „Fantastische Reisen“-Bundle mit 11 Spielen im Angebot]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1143689</id>
-        <link href="https://stadt-bremerhaven.de/humble-bundle-fantastische-reisen-bundle-mit-11-spielen-im-angebot/"/>
-        <updated>2022-12-17T19:46:58.000Z</updated>
-        <summary type="html"><![CDATA[In der Vorweihnachtszeit kann man sich bei diversen Anbietern die Taschen mit günstigen Spielen ordentlich vollmachen. Wieder einmal gibt es kurzzeitig ein neues Humble Bundle. Im „Fantastic Journeys“-Bundle gibt es einen Schwung von WB-Spielen, darunter Middle-earth: Shadow of Mordor und...
-Zum Beitrag: Humble Bundle: „Fantastische Reisen“-Bundle mit 11 Spielen im Angebot
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>caschy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Alexa: Web-Version wird künftig weiter eingeschränkt]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1143684</id>
-        <link href="https://stadt-bremerhaven.de/amazon-alexa-web-version-wird-kuenftig-weiter-eingeschraenkt/"/>
-        <updated>2022-12-17T18:49:13.000Z</updated>
-        <summary type="html"><![CDATA[Amazon bietet seit vielen Jahren auch rudimentäre Einstellungsmöglichkeiten auf der Webseite von Amazon Alexa, zu finden unter alexa.amazon.com, an. Nutzer können dort Erinnerungen und Wecker, aber auch Listen und Smart-Home-Einstellungen sehen und teils verwalten. Das wird aber noch weniger werden,...
-Zum Beitrag: Amazon Alexa: Web-Version wird künftig weiter eingeschränkt
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>caschy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ab 2025: Neues EU-Energielabel zeigt Reparierbarkeit von Smartphones und Tablets an]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1143675</id>
-        <link href="https://stadt-bremerhaven.de/ab-2025-neues-eu-energielabel-zeigt-reparierbarkeit-von-smartphones-und-tablets-an/"/>
-        <updated>2022-12-17T18:00:25.000Z</updated>
-        <summary type="html"><![CDATA[Die Europäische Kommission hat in Zusammenarbeit mit den EU-Mitgliedstaaten die Einführung eines EU-Energielabels für Smartphones und Tablets beschlossen. Erstmals wird auf dem Label auch ein Reparierbarkeits-Index gezeigt, so das Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz (BMUV). Hersteller von...
-Zum Beitrag: Ab 2025: Neues EU-Energielabel zeigt Reparierbarkeit von Smartphones und Tablets an
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>caschy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Steam Deck: Valve hat Software, Akku und Display auf der Wunschliste]]></title>
-        <id>https://www.computerbase.de/2022-12/steam-deck-valve-hat-software-akku-und-display-auf-der-wunschliste/</id>
-        <link href="https://www.computerbase.de/2022-12/steam-deck-valve-hat-software-akku-und-display-auf-der-wunschliste/"/>
-        <updated>2022-12-17T17:13:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/6/1/4/9-f1aa24dfc2698bee/article-640x360.0a355e8a.jpg"><p>Seit Start hat Valve das Handheld kontinuierlich verbessert. An Hardware und Software wurden in den vergangenen Monaten viele Optimierungen vorgenommen. Für die Zukunft stehen Software, Akku und Display oben auf der Wunschliste, schnellere Hardware nicht.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Radeon RX 7900 XT(X): MSI soll erste Custom-Designs Anfang 2023 vorstellen]]></title>
-        <id>https://www.computerbase.de/2022-12/radeon-rx-7900-xt-x-msi-soll-erste-custom-designs-anfang-2023-vorstellen/</id>
-        <link href="https://www.computerbase.de/2022-12/radeon-rx-7900-xt-x-msi-soll-erste-custom-designs-anfang-2023-vorstellen/"/>
-        <updated>2022-12-17T17:12:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/6/1/5/0-35cf273914625786/article-640x360.36ae7cc2.jpg"><p>Diese Woche starteten AMDs erste RDNA-3-Grafikkarten in den Verkauf. Sowohl die Radeon RX 7900 XTX als auch die Radeon RX 7900 XT (Test) waren im Referenzdesign und bereits in Form einiger Custom-Designs erhältlich, wenngleich die Verfügbarkeit insbesondere beim leistungsstärkeren Topmodell nach wie vor begrenzt ist.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[S39: Neuer Sonos-Lautsprecher durchläuft die FCC]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1143680</id>
-        <link href="https://stadt-bremerhaven.de/s39-neuer-sonos-lautsprecher-durchlaeuft-die-fcc/"/>
-        <updated>2022-12-17T17:11:50.000Z</updated>
-        <summary type="html"><![CDATA[Ein neuer Sonos-Lautsprecher ist bei der FCC aufgetaucht. Die Federal Communications Commission (FCC) ist eine unabhängige US-Regierungsbehörde, die für die Regulierung von Kommunikation durch Rundfunk, Fernsehen, Kabel, Satellit und drahtlose Netzwerke verantwortlich ist. Die FCC setzt Regeln und Vorschriften für...
-Zum Beitrag: S39: Neuer Sonos-Lautsprecher durchläuft die FCC
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>caschy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Windows Subsystem for Android: Windows 11 erhält Update auf Android 13]]></title>
-        <id>https://www.computerbase.de/2022-12/windows-subsystem-for-android-update-android-13/</id>
-        <link href="https://www.computerbase.de/2022-12/windows-subsystem-for-android-update-android-13/"/>
-        <updated>2022-12-17T16:30:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/6/1/4/7-9f31d169ac51999b/article-640x360.d5a12965.jpg"><p>Das Windows Subsystem for Android („WSA“) für Windows 11 setzt in der neuesten Version 2211.40000.10.0 jetzt erstmals auch auf ein aktuelles Android 13 als Basis, was unter anderem auch der Leistung – insbesondere beim Booten – und der Stabilität des Subsystems zugute kommen soll.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[„Crisis Core – Final Fantasy VII – Reunion“ im Test]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1142927</id>
-        <link href="https://stadt-bremerhaven.de/crisis-core-final-fantasy-vii-reunion-im-test/"/>
-        <updated>2022-12-17T16:00:59.000Z</updated>
-        <summary type="html"><![CDATA[„Crisis Core – Final Fantasy VII – Reunion“ – was für ein Titel – ist das neueste Final Fantasy aus dem Hause Square Enix. Nachdem man schon ein hervorragendes Remake zu „Final Fantasy VII“ vorlegen konnte, schickt sich nun diese...
-Zum Beitrag: „Crisis Core – Final Fantasy VII – Reunion“ im Test
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>André Westphal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(Keine) digitale Verwaltung: Staat scheitert an selbstgesteckten Zielen]]></title>
-        <id>https://www.computerbase.de/2022-12/keine-digitale-verwaltung-staat-scheitert-an-selbstgesteckten-zielen/</id>
-        <link href="https://www.computerbase.de/2022-12/keine-digitale-verwaltung-staat-scheitert-an-selbstgesteckten-zielen/"/>
-        <updated>2022-12-17T15:31:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/6/1/4/8-8abee1194a517429/article-640x360.8127e88a.jpg"><p>579 Verwaltungsleistungen sollen eigentlich bis zum Jahresende digitalisiert werden – das ist zumindest das Ziel, das im Online-Zugangsgesetz (OZG) vom 2017 formuliert wurde. Der Staat scheitert jedoch, für viele Verwaltungsakte ist weiterhin der analoge Weg erforderlich.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Smartphone, Laptop und Co.: Beim Kauf achten die Menschen vor allem auf den Preis]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1143263</id>
-        <link href="https://stadt-bremerhaven.de/smartphone-laptop-und-co-beim-kauf-achten-deutsche-vor-allem-auf-den-preis/"/>
-        <updated>2022-12-17T14:30:41.000Z</updated>
-        <summary type="html"><![CDATA[Das Statistische Bundesamt hat sich einmal das Kaufverhalten der Menschen in Bezug auf die Auswahlkriterien bei Geräten aus dem Bereich Informations- und Kommunikationstechnologie (IKT) betrachtet. Dabei kam heraus: Nur 20 % der befragten Internetnutzer achten beim Kauf auf die Energieeffizienz....
-Zum Beitrag: Smartphone, Laptop und Co.: Beim Kauf achten die Menschen vor allem auf den Preis
 
 Zum Blog: Caschys Blog
 
