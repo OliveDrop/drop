@@ -2,10 +2,630 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://olivedrop.github.io/drop/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-20T01:39:07.282Z</updated>
+    <updated>2023-01-21T01:36:09.979Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://olivedrop.github.io/drop/index.html"/>
     <link rel="self" href="https://olivedrop.github.io/drop/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Nordrhein-Westfalen - RWE kündigt Schadensersatzforderungen gegen Klimaaktivisten nach Lützerath-Räumung an]]></title>
+        <id>rwe-kuendigt-schadensersatzforderungen-gegen-klimaaktivisten-nach-luetzerath-raeumung-an-100</id>
+        <link href="https://www.deutschlandfunk.de/rwe-kuendigt-schadensersatzforderungen-gegen-klimaaktivisten-nach-luetzerath-raeumung-an-100.html"/>
+        <updated>2023-01-21T01:20:22.000Z</updated>
+        <summary type="html"><![CDATA[Der Energiekonzern RWE hat nach der Räumung des Orts Lützerath im rheinischen Braunkohlerevier zivilrechtliche Schritte gegen Demonstranten angekündigt.]]></summary>
+        <author>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 21. Januar 2023</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Russische Söldnergruppe - USA stufen "Wagner" als kriminelle Organisation ein - "Gräueltaten und Menschenrechtsverletzungen"]]></title>
+        <id>usa-stufen-wagner-als-kriminelle-organisation-ein-graeueltaten-und-menschenrechtsverletzungen-104</id>
+        <link href="https://www.deutschlandfunk.de/usa-stufen-wagner-als-kriminelle-organisation-ein-graeueltaten-und-menschenrechtsverletzungen-104.html"/>
+        <updated>2023-01-21T01:20:22.000Z</updated>
+        <summary type="html"><![CDATA[Die USA wollen die russische Söldnergruppe Wagner als "transnationale kriminelle Organisation" einstufen. Die Entscheidung ermögliche weitere Sanktionen gegen die Truppe sowie deren Unterstützer, teilte der Sprecher des Nationalen Sicherheitsrates des Weißen Hauses, Kirby, in Washington mit.]]></summary>
+        <author>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 21. Januar 2023</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Medienbericht - Bei Ford in Köln droht ein Stellenabbau - außerordentliche Betriebsversammlung einberufen]]></title>
+        <id>bei-ford-in-koeln-droht-ein-stellenabbau-ausserordentliche-betriebsversammlung-einberufen-100</id>
+        <link href="https://www.deutschlandfunk.de/bei-ford-in-koeln-droht-ein-stellenabbau-ausserordentliche-betriebsversammlung-einberufen-100.html"/>
+        <updated>2023-01-21T01:20:22.000Z</updated>
+        <summary type="html"><![CDATA[Beim Autohersteller Ford in Köln droht einem Medienbericht zufolge ein größerer Stellenabbau.]]></summary>
+        <author>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 21. Januar 2023</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Grüne Woche - 10.000 zu Demonstration für Wandel in der Landwirtschaft in Berlin erwartet]]></title>
+        <id>10-000-zu-demonstration-fuer-wandel-in-der-landwirtschaft-in-berlin-erwartet-100</id>
+        <link href="https://www.deutschlandfunk.de/10-000-zu-demonstration-fuer-wandel-in-der-landwirtschaft-in-berlin-erwartet-100.html"/>
+        <updated>2023-01-21T01:20:22.000Z</updated>
+        <summary type="html"><![CDATA[Anlässlich der Internationale Grüne Woche in Berlin hat ein Bündnis für heute zu Demonstrationen aufgerufen.]]></summary>
+        <author>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 21. Januar 2023</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bildung - Bundesländer intensivieren Kampf gegen Lehrermangel durch verschiedene Maßnahmen]]></title>
+        <id>bundeslaender-intensivieren-kampf-gegen-lehrermangel-durch-verschiedene-massnahmen-100</id>
+        <link href="https://www.deutschlandfunk.de/bundeslaender-intensivieren-kampf-gegen-lehrermangel-durch-verschiedene-massnahmen-100.html"/>
+        <updated>2023-01-21T01:20:22.000Z</updated>
+        <summary type="html"><![CDATA[Die Bundesländer intensivieren den Kampf gegen den Lehrermangel]]></summary>
+        <author>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 21. Januar 2023</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Westsahara - Brahim Ghali als Generalsekretär der "Frente Polisario" wiedergewählt]]></title>
+        <id>brahim-ghali-als-generalsekretaer-der-frente-polisario-wiedergewaehlt-100</id>
+        <link href="https://www.deutschlandfunk.de/brahim-ghali-als-generalsekretaer-der-frente-polisario-wiedergewaehlt-100.html"/>
+        <updated>2023-01-21T01:20:22.000Z</updated>
+        <summary type="html"><![CDATA[Die linksgerichtete Unabhängigkeitsbewegung der Westsahara, Frente Polisario, hat ihren Anführer Ghali als Generalsekretär bestätigt.]]></summary>
+        <author>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 21. Januar 2023</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Neuseeland - Ex-Gesundheitsminister Hipkins soll Nachfolger von Ardern werden]]></title>
+        <id>ex-gesundheitsminister-hipkins-soll-nachfolger-von-ardern-werden-100</id>
+        <link href="https://www.deutschlandfunk.de/ex-gesundheitsminister-hipkins-soll-nachfolger-von-ardern-werden-100.html"/>
+        <updated>2023-01-21T01:20:22.000Z</updated>
+        <summary type="html"><![CDATA[Neuseelands Bildungsminister Hipkins dürfte Nachfolger der zurückgetretenen Regierungschefin Ardern werden.]]></summary>
+        <author>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 21. Januar 2023</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ausbau A66 - Polizei schließt Räumung des Fechenheimer Waldes ab]]></title>
+        <id>polizei-schliesst-raeumung-des-fechenheimer-waldes-ab-106</id>
+        <link href="https://www.deutschlandfunk.de/polizei-schliesst-raeumung-des-fechenheimer-waldes-ab-106.html"/>
+        <updated>2023-01-21T01:20:22.000Z</updated>
+        <summary type="html"><![CDATA[In Hessen hat die Polizei die Räumung des von Aktivisten besetzten Fechenheimer Waldes abgeschlossen.]]></summary>
+        <author>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 21. Januar 2023</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deutsch-französische Beziehungen - Scholz und Macron für militärische Stärkung Europas]]></title>
+        <id>scholz-und-macron-fuer-militaerische-staerkung-europas-106</id>
+        <link href="https://www.deutschlandfunk.de/scholz-und-macron-fuer-militaerische-staerkung-europas-106.html"/>
+        <updated>2023-01-21T01:20:22.000Z</updated>
+        <summary type="html"><![CDATA[Bundeskanzler Scholz und der französische Präsident Macron sprechen sich für eine militärische Stärkung Europas aus. In einem gemeinsamen Gastbeitrag in der "Frankfurter Allgemeinen Zeitung" rufen sie zu stärkeren Investitionen in die Streitkräfte beider Länder und in die Rüstungsindustrie in Europa auf.]]></summary>
+        <author>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 21. Januar 2023</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ramstein - Keine Entscheidung zur Lieferung von Kampfpanzern]]></title>
+        <id>keine-entscheidung-zur-lieferung-von-kampfpanzern-100</id>
+        <link href="https://www.deutschlandfunk.de/keine-entscheidung-zur-lieferung-von-kampfpanzern-100.html"/>
+        <updated>2023-01-21T01:20:22.000Z</updated>
+        <summary type="html"><![CDATA[Auf der Ukraine-Konferenz in Ramstein ist ungeachtet des Drängens aus Kiew keine Entscheidung zur abgestimmten Lieferung westlicher Kampfpanzer gefallen.]]></summary>
+        <author>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 21. Januar 2023</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Militärhilfen - Diese Waffen werden an die Ukraine geliefert]]></title>
+        <id>diese-waffen-werden-an-die-ukraine-geliefert-102</id>
+        <link href="https://www.deutschlandfunk.de/diese-waffen-werden-an-die-ukraine-geliefert-102.html"/>
+        <updated>2023-01-21T01:20:22.000Z</updated>
+        <summary type="html"><![CDATA[Bei dem Treffen der sogenannten Ukraine-Kontaktgruppe in Ramstein wurde zwar keine Lieferung von Kampfpanzern auf den Weg gebracht. Dennoch darf Kiew mit zahlreichen neuen Waffen rechnen. Ein Überblick.]]></summary>
+        <author>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 21. Januar 2023</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Münster - Tausende demonstrieren gegen AfD-Neujahrsempfang im Rathaus]]></title>
+        <id>tausende-demonstrieren-gegen-afd-neujahrsempfang-im-rathaus-104</id>
+        <link href="https://www.deutschlandfunk.de/tausende-demonstrieren-gegen-afd-neujahrsempfang-im-rathaus-104.html"/>
+        <updated>2023-01-21T01:20:22.000Z</updated>
+        <summary type="html"><![CDATA[Mehrere Tausend Menschen haben in Münster gegen einen Neujahrsempfang der AfD im historischen Rathaus demonstriert.]]></summary>
+        <author>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 21. Januar 2023</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wirtschaft - Google-Konzern Alphabet streicht 12.000 Stellen]]></title>
+        <id>google-konzern-alphabet-streicht-12-000-stellen-106</id>
+        <link href="https://www.deutschlandfunk.de/google-konzern-alphabet-streicht-12-000-stellen-106.html"/>
+        <updated>2023-01-21T01:20:22.000Z</updated>
+        <summary type="html"><![CDATA[In den USA geht der Stellenabbau bei den großen Technologie- und Internetfirmen weiter.]]></summary>
+        <author>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 21. Januar 2023</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Niederlande - Bisher größter Fall von sexueller Erpressung minderjähriger Mädchen im Internet]]></title>
+        <id>bisher-groesster-fall-von-sexueller-erpressung-minderjaehriger-maedchen-im-internet-102</id>
+        <link href="https://www.deutschlandfunk.de/bisher-groesster-fall-von-sexueller-erpressung-minderjaehriger-maedchen-im-internet-102.html"/>
+        <updated>2023-01-21T01:20:22.000Z</updated>
+        <summary type="html"><![CDATA[In den Niederlanden soll ein Mann online mehr als 100 minderjährige Mädchen sexuell erpresst haben.]]></summary>
+        <author>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 21. Januar 2023</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UNO-Fachleute - Massenhaftes Berufsverbot für Juristinnen in Afghanistan]]></title>
+        <id>massenhaftes-berufsverbot-fuer-juristinnen-in-afghanistan-104</id>
+        <link href="https://www.deutschlandfunk.de/massenhaftes-berufsverbot-fuer-juristinnen-in-afghanistan-104.html"/>
+        <updated>2023-01-21T01:20:22.000Z</updated>
+        <summary type="html"><![CDATA[In Afghanistan haben die herrschenden Taliban nach UNO-Angaben inzwischen mehreren hundert Juristinnen die Arbeit untersagt.]]></summary>
+        <author>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 21. Januar 2023</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sahelzone - Mehr als 60 entführte Frauen und Babys wieder frei]]></title>
+        <id>mehr-als-60-entfuehrte-frauen-und-babys-wieder-frei-100</id>
+        <link href="https://www.deutschlandfunk.de/mehr-als-60-entfuehrte-frauen-und-babys-wieder-frei-100.html"/>
+        <updated>2023-01-21T01:20:22.000Z</updated>
+        <summary type="html"><![CDATA[In Burkina Faso haben Soldaten über 60 entführte Frauen und Mädchen sowie mehrere Babys befreit.]]></summary>
+        <author>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 21. Januar 2023</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tarifstreit - Zusteller bei der Deutschen Post wollen heute streiken]]></title>
+        <id>zusteller-bei-der-deutschen-post-wollen-heute-streiken-100</id>
+        <link href="https://www.deutschlandfunk.de/zusteller-bei-der-deutschen-post-wollen-heute-streiken-100.html"/>
+        <updated>2023-01-21T01:20:22.000Z</updated>
+        <summary type="html"><![CDATA[Im Tarifstreit mit der Deutschen Post hat die Gewerkschaft Verdi erneut bundesweit zum Warnstreik aufgerufen.]]></summary>
+        <author>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 21. Januar 2023</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Verstaatlichter Energiekonzern - Neue Finanzchefin für Uniper gefunden]]></title>
+        <id>neue-finanzchefin-fuer-uniper-gefunden-104</id>
+        <link href="https://www.deutschlandfunk.de/neue-finanzchefin-fuer-uniper-gefunden-104.html"/>
+        <updated>2023-01-21T01:20:22.000Z</updated>
+        <summary type="html"><![CDATA[Der in der Gaskrise vom Staat aufgefangene Energiekonzern Uniper erhält eine neue Finanzchefin.]]></summary>
+        <author>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 21. Januar 2023</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wahlrechtsreform - Ampel-Parteien weisen Unions-Vorschlag zurück]]></title>
+        <id>ampel-parteien-weisen-unions-vorschlag-zurueck-108</id>
+        <link href="https://www.deutschlandfunk.de/ampel-parteien-weisen-unions-vorschlag-zurueck-108.html"/>
+        <updated>2023-01-21T01:20:22.000Z</updated>
+        <summary type="html"><![CDATA[Der neue Vorschlag von CDU und CSU für eine Reform des Wahlrechts zur Begrenzung der Größe des Bundestags stößt bei anderen Parteien auf Ablehnung.]]></summary>
+        <author>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 21. Januar 2023</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USA - 50. "March for Life" von Abtreibungsgegnern in den USA]]></title>
+        <id>50-march-for-life-von-abtreibungsgegnern-in-den-usa-104</id>
+        <link href="https://www.deutschlandfunk.de/50-march-for-life-von-abtreibungsgegnern-in-den-usa-104.html"/>
+        <updated>2023-01-21T01:20:22.000Z</updated>
+        <summary type="html"><![CDATA[In der US-Hauptstadt Washington haben sich tausende Abtreibungsgegner zum jährlichen "Marsch für das Leben" versammelt.]]></summary>
+        <author>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 21. Januar 2023</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bundesliga - Rückrunden-Auftakt mit Spitzenspiel Leipzig gegen Bayern]]></title>
+        <id>rueckrunden-auftakt-mit-spitzenspiel-leipzig-gegen-bayern-106</id>
+        <link href="https://www.deutschlandfunk.de/rueckrunden-auftakt-mit-spitzenspiel-leipzig-gegen-bayern-106.html"/>
+        <updated>2023-01-21T01:20:22.000Z</updated>
+        <summary type="html"><![CDATA[Zum Auftakt der Rückrunde in der Fußball-Bundesliga der Männer haben sich RB Leipzig und FC Bayern München unentschieden 1 zu 1 getrennt.]]></summary>
+        <author>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 21. Januar 2023</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wetter - In der Nacht neuer Schnee]]></title>
+        <id>in-der-nacht-neuer-schnee-116</id>
+        <link href="https://www.deutschlandfunk.de/in-der-nacht-neuer-schnee-116.html"/>
+        <updated>2023-01-21T01:20:22.000Z</updated>
+        <summary type="html"><![CDATA[Das Wetter: In der Nacht Schneefälle an den Alpen und von der Kölner Bucht bis zur Pfalz. Ansonsten teils wolkig oder stark bewölkt. 0 bis minus 8 Grad, bei längerem Aufklaren über Schnee um minus 14 Grad. Morgen Wechsel von Sonne und Wolken. Im Westen auch länger sonnig, im äußersten Süden etwas Schnee. Temperaturen minus 4 bis plus 4 Grad.]]></summary>
+        <author>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 21. Januar 2023</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Android 13 QPR2 Beta 2.1 veröffentlicht]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1158768</id>
+        <link href="https://stadt-bremerhaven.de/android-13-qpr2-beta-2-1-veroeffentlicht/"/>
+        <updated>2023-01-20T20:36:24.000Z</updated>
+        <summary type="html"><![CDATA[Ihr habt ein Google Pixel am Start und wandelt dort auf Beta-Pfaden? Dann kann ab sofort die Android 13 QPR2 Beta 2.1 von euch heruntergeladen und installiert werden. Dieses kleinere Update auf Android 13 QPR2 Beta 2 enthält die folgenden...
+Zum Beitrag: Android 13 QPR2 Beta 2.1 veröffentlicht
+
+Zum Blog: Caschys Blog]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rewe und Deutsche Bahn Einkaufs-Bus: Supermarkt auf Rädern pilotiert]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1158753</id>
+        <link href="https://stadt-bremerhaven.de/rewe-und-deutsche-bahn-einkaufs-bus-supermarkt-auf-raedern-pilotiert/"/>
+        <updated>2023-01-20T20:30:54.000Z</updated>
+        <summary type="html"><![CDATA[Rewe und die Deutsche Bahn kooperieren beim Pilotprojekt „Einkaufs-Bus“ miteinander. In einer Pilotphase versorgt ab Frühjahr ein Bus mehrere Gemeinden in Nordhessen mit Lebensmitteln. Ähnliches erprobten die beiden Unternehmen im Jahr 2021 bereits in Form eines Supermarktzugs. Rewe und DB...
+Zum Beitrag: Rewe und Deutsche Bahn Einkaufs-Bus: Supermarkt auf Rädern pilotiert
+
+Zum Blog: Caschys Blog]]></summary>
+        <author>
+            <name>Felix Frank</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Umweltbundesamt: Ein Tempolimit auf Autobahnen schützt das Klima mehr als bislang angenommen]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1158742</id>
+        <link href="https://stadt-bremerhaven.de/umweltbundesamt-ein-tempolimit-auf-autobahnen-schuetzt-das-klima-mehr-als-bislang-angenommen/"/>
+        <updated>2023-01-20T20:00:24.000Z</updated>
+        <summary type="html"><![CDATA[Erst in den vergangenen Tagen hat das Bundesverfassungsgericht eine Verfassungsbeschwerde für ein allgemeines Tempolimit auf Autobahnen als unzulässig abgewiesen. Der Vorwurf gegenüber dem Gesetzgeber lautete, man verstoße gegen Klimaschutzgebot sowie Freiheitsrechte, indem kein Tempolimit eingeführt wird. Das Verfassungsgericht sieht eine...
+Zum Beitrag: Umweltbundesamt: Ein Tempolimit auf Autobahnen schützt das Klima mehr als bislang angenommen
+
+Zum Blog: Caschys Blog]]></summary>
+        <author>
+            <name>Felix Frank</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Maps: Stadt Berlin kooperiert mit Google für zusätzliche Infos zu Radrouten]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1158749</id>
+        <link href="https://stadt-bremerhaven.de/google-maps-stadt-berlin-kooperiert-mit-google-fuer-zusaetzliche-infos-zu-radrouten/"/>
+        <updated>2023-01-20T19:30:29.000Z</updated>
+        <summary type="html"><![CDATA[In Berlin arbeitetet man mit dem Tech-Giganten Google zusammen an besseren Infos zu Radstrecken. Dank der Kooperation soll der Google-Maps-Dienst Radfahrer möglichst gut durch die Stadt führen. Man unterstütze sich da gegenseitig mit Daten. Google hat die Kooperation gegenüber dem...
+Zum Beitrag: Google Maps: Stadt Berlin kooperiert mit Google für zusätzliche Infos zu Radrouten
+
+Zum Blog: Caschys Blog]]></summary>
+        <author>
+            <name>Felix Frank</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Farlanders: Rundenbasiertes Mars-Aufbauspiel startet positiv]]></title>
+        <id>https://www.computerbase.de/2023-01/farlanders-rundenbasiertes-mars-aufbauspiel-startet-positiv/</id>
+        <link href="https://www.computerbase.de/2023-01/farlanders-rundenbasiertes-mars-aufbauspiel-startet-positiv/"/>
+        <updated>2023-01-20T19:29:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/6/5/1/6-3bfa2a78811ee722/article-640x360.4904ef35.jpg"><p>Farlanders bietet rundenbasierte Aufbaustrategie, bei der Spieler den Mars kolonisieren können – wahlweise in einer kurzen Kampagne oder aber im freien Spiel. Erste Rezensionen zum Indie-Spiel aus Kiew fallen positiv aus, bescheinigen dem Puzzlespiel allerdings einen mitunter schwierigen Einstieg.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bericht: Demo zu einem Chat-Bot von Google könnte noch in diesem Jahr debütieren]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1158751</id>
+        <link href="https://stadt-bremerhaven.de/bericht-demo-zu-einem-chat-bot-von-google-koennte-noch-in-diesem-jahr-debuetieren/"/>
+        <updated>2023-01-20T19:00:49.000Z</updated>
+        <summary type="html"><![CDATA[Mit dem Chat-Bot „ChatGPT“ hat OpenAI wohl einen wahrlichen Dauerbrenner geschaffen, der zum Ausprobieren und Staunen einlädt. Microsoft plant da unter anderem einen Einsatz der Technik für Bing und die Office-Suite. Auch Azure OpenAI soll eine Integration erhalten. Bei Google...
+Zum Beitrag: Bericht: Demo zu einem Chat-Bot von Google könnte noch in diesem Jahr debütieren
+
+Zum Blog: Caschys Blog]]></summary>
+        <author>
+            <name>Felix Frank</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DB Regio Bayern: Anschlusszüge sollen per App-Wunsch warten]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1158757</id>
+        <link href="https://stadt-bremerhaven.de/db-regio-bayern-anschlusszuege-sollen-per-app-wunsch-warten/"/>
+        <updated>2023-01-20T18:31:48.000Z</updated>
+        <summary type="html"><![CDATA[Im Regionalverkehr bibbert man oftmals schon bei wenigen Minuten Verspätung, da Umsteigezeiten zum Anschluss schwinden. Die DB Regio Bayern bietet über die DB-Streckenagent-App nun eine neue Funktion an, welche dieses Problem adressieren soll. Im Verspätungsfall kann man für den Anschlusszug...
+Zum Beitrag: DB Regio Bayern: Anschlusszüge sollen per App-Wunsch warten
+
+Zum Blog: Caschys Blog]]></summary>
+        <author>
+            <name>Felix Frank</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Battlefield 2042: Klassen kehren noch im Januar zurück]]></title>
+        <id>https://www.computerbase.de/2023-01/battlefield-2042-klassen-kehren-noch-im-januar-zurueck/</id>
+        <link href="https://www.computerbase.de/2023-01/battlefield-2042-klassen-kehren-noch-im-januar-zurueck/"/>
+        <updated>2023-01-20T18:24:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/6/5/1/8-4b47883519904903/article-640x360.f2ef11e6.jpg"><p>Keine Klasse, jeder Spieler darf fast alles ausrüsten: Zum Erscheinen brach Battlefield 2042 (Test) mit Traditionen der Serie. Das kam nicht gut an, der Rollback folgt noch im Januar. Das ausstehende Update 3.2 bringt klassische Klassen mit festen Rollen zurück.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ice Cubes: Kostenloser Mastodon-Client für iPhone und iPad]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1158740</id>
+        <link href="https://stadt-bremerhaven.de/ice-cubes-kostenloser-mastodon-client-fuer-iphone-und-ipad/"/>
+        <updated>2023-01-20T17:30:36.000Z</updated>
+        <summary type="html"><![CDATA[Seit Elon Musk Twitter übernommen hat, hat sich einiges geändert, der letzte Streich war das Sperren von Dritt-Clients. Viele feiern dieser Tage Mastodon ab – und da gibt es derzeit einige Clients, die man sich anschauen kann. Der Tweetbot-Entwickler baut...
+Zum Beitrag: Ice Cubes: Kostenloser Mastodon-Client für iPhone und iPad
+
+Zum Blog: Caschys Blog]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google-Mutterkonzern: Auch Alphabet entlässt 12.000 Mitarbeiter]]></title>
+        <id>https://www.computerbase.de/2023-01/google-mutterkonzern-auch-alphabet-entlaesst-12-000-mitarbeiter/</id>
+        <link href="https://www.computerbase.de/2023-01/google-mutterkonzern-auch-alphabet-entlaesst-12-000-mitarbeiter/"/>
+        <updated>2023-01-20T17:18:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/6/5/1/7-3ab73de816456bfc/article-640x360.672fd6b6.jpg"><p>Alphabet, der Google-Mutterkonzern, plant, tausende Arbeitsplätze zu streichen. Weltweit sollen rund 12.000 Jobs wegfallen, wie Firmenchef Sundar Pichai in einer Mitteilung erklärte. Die betroffenen Mitarbeiter in den USA wurden bereits informiert.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lernsoftware für Kinder: GCompris 3.0 liefert fast 200 pädagogische Aktivitäten]]></title>
+        <id>https://www.computerbase.de/2023-01/kinder-lernsoftware-gcompris-3-0/</id>
+        <link href="https://www.computerbase.de/2023-01/kinder-lernsoftware-gcompris-3-0/"/>
+        <updated>2023-01-20T17:16:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/6/5/0/9-d304652220b63ee5/article-640x360.38009280.jpg"><p>Das von der freien KDE-Community entwickelte und durch den KDE e.V. unterstützte GCompris ist eine hochwertige Open-Source-Lernsoftware für Kinder im Alter von 2 bis 10 Jahren und bietet in der neuesten Version 3.0 fast 200 pädagogische Aktivitäten und Lernspiele. Auch die Eltern können dabei durchaus noch etwas dazulernen.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shadow übernimmt Genymobile]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1158725</id>
+        <link href="https://stadt-bremerhaven.de/shadow-uebernimmt-genymobile/"/>
+        <updated>2023-01-20T17:00:54.000Z</updated>
+        <summary type="html"><![CDATA[Über den Cloud-Service-Anbieter Shadow hatten wir in den vergangenen Jahren schon berichtet. Mit Shadow können Nutzer auf einen voll funktionsfähigen PC mit leistungsstarker Hardware zugreifen, der in der Cloud gehostet wird. Dies ermöglicht es Nutzern, auf ihre Anwendungen und Daten...
+Zum Beitrag: Shadow übernimmt Genymobile
+
+Zum Blog: Caschys Blog]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WWF & Ecos: Grünes Label für klimafreundliche Finanzprodukte]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1158311</id>
+        <link href="https://stadt-bremerhaven.de/wwf-ecos-gruenes-label-fuer-klimafreundliche-finanzprodukte/"/>
+        <updated>2023-01-20T16:30:14.000Z</updated>
+        <summary type="html"><![CDATA[Nachdem laut EU-Einstufung Gas- und Atomkraftwerke als „klimafreundliche Geldanlagen“ gelten, haben die Umweltorganisationen WWF und Ecos ein eigenes Finanzlabel ins Leben gerufen. Zahlreiche andere Umweltorganisationen haben sich angeschlossen. Damit möchte man Banken und Versicherern nach eigenen Angaben „auf Basis von...
+Zum Beitrag: WWF & Ecos: Grünes Label für klimafreundliche Finanzprodukte
+
+Zum Blog: Caschys Blog]]></summary>
+        <author>
+            <name>Felix Frank</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GTA Trilogy: Remaster ist auf Steam und immer noch schlecht]]></title>
+        <id>https://www.computerbase.de/2023-01/gta-trilogy-remaster-ist-auf-steam-und-immer-noch-schlecht/</id>
+        <link href="https://www.computerbase.de/2023-01/gta-trilogy-remaster-ist-auf-steam-und-immer-noch-schlecht/"/>
+        <updated>2023-01-20T16:30:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/6/5/1/3-1a3033477827e374/article-640x360.8b955908.jpg"><p>Die GTA Trilogy, die Remaster von GTA III, Vice City und San Andreas enthält, wird nun auch auf Steam verkauft. Im Rahmen des New Lunar Sale auf Valves Plattform wird die Trilogie bis zum 2. Februar billiger verkauft. Besser geworden ist sie jedoch nicht.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[„Pathfinder: Wrath of the Righteous“: Neuer DLC am 7. März 2023]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1158696</id>
+        <link href="https://stadt-bremerhaven.de/pathfinder-wrath-of-the-righteous-neuer-dlc-am-7-maerz-2023/"/>
+        <updated>2023-01-20T16:00:12.000Z</updated>
+        <summary type="html"><![CDATA[Das Rollenspiel „Pathfinder: Wrath of the Righteous“ habe ich hier im Blog auch getestet – klasse RPG vom alten Schlag, das ich allen Fans von etwa „Baldur’s Gate“ empfehlen kann. Leider ist der Titel an den Konsolen, genau wie sein...
+Zum Beitrag: „Pathfinder: Wrath of the Righteous“: Neuer DLC am 7. März 2023
+
+Zum Blog: Caschys Blog]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Labor: Besitzer der FRITZ!Box 7510 können testen]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1158731</id>
+        <link href="https://stadt-bremerhaven.de/labor-besitzer-der-fritzbox-7510-koennen-testen/"/>
+        <updated>2023-01-20T15:54:51.000Z</updated>
+        <summary type="html"><![CDATA[Eine weitere FRITZ!Box von AVM startet mit in die Labortests. Das bedeutet für Besitzer der FRITZ!Box 7510, dass ab sofort eine Beta installiert werden kann, hier steht nun Version FRITZ!OS 7.39 (7.39-102302) zur Verfügung. Verbesserungen im Vergleich zu früheren Laborversionen...
+Zum Beitrag: Labor: Besitzer der FRITZ!Box 7510 können testen
+
+Zum Blog: Caschys Blog]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Samsung Display: Neues Foldable-Konzept mit um 360° drehbarem Scharnier]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1158688</id>
+        <link href="https://stadt-bremerhaven.de/samsung-display-neues-foldable-mit-um-360-drehbarem-scharnier/"/>
+        <updated>2023-01-20T15:30:31.000Z</updated>
+        <summary type="html"><![CDATA[Samsung Display hat mittlerweile ein Foldable-Konzept gezeigt, bei dem es möglich ist, das Scharnier um komplette 360° zu drehen. Man nennt dieses Modell auch „Flex In & Flex Out“. Allerdings wird Samsung Display natürlich kein derartiges Produkt veröffentlichen. Vielmehr will...
+Zum Beitrag: Samsung Display: Neues Foldable-Konzept mit um 360° drehbarem Scharnier
+
+Zum Blog: Caschys Blog]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SimCity 4 Deluxe Edition für Macs mit Apple-Chip optimiert]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1158674</id>
+        <link href="https://stadt-bremerhaven.de/simcity-4-deluxe-edition-fuer-macs-mit-apple-chip-optimiert/"/>
+        <updated>2023-01-20T15:00:46.000Z</updated>
+        <summary type="html"><![CDATA[SimCity 4 Deluxe Edition ist ein klassisches Städtebausimulationsspiel aus dem Jahr 2003 (Deluxe erschien 2004), in dem der Spieler die Rolle eines Bürgermeisters übernimmt und eine Stadt von Grund auf aufbaut und verwaltet. Der Spieler hat die Kontrolle über alle...
+Zum Beitrag: SimCity 4 Deluxe Edition für Macs mit Apple-Chip optimiert
+
+Zum Blog: Caschys Blog]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Betriebssystem: Microsoft verkauft Windows 10 in Kürze nicht mehr]]></title>
+        <id>https://www.computerbase.de/2023-01/betriebssystem-microsoft-verkauft-windows-10-in-kuerze-nicht-mehr/</id>
+        <link href="https://www.computerbase.de/2023-01/betriebssystem-microsoft-verkauft-windows-10-in-kuerze-nicht-mehr/"/>
+        <updated>2023-01-20T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/6/5/0/8-bfd73e64982d0a69/article-640x360.3e56fc89.jpg"><p>Im eigenen Web-Store wird Microsoft das Betriebssystem Windows 10 nur noch bis zum 31. Januar 2023 anbieten. Dann endet also der Verkauf, zumindest von Seiten des Herstellers. Sicherheitsupdates soll es aber noch bis ins Jahr 2025 geben.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Prime Video: Einige Leihfilme für je 99 Cent]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1158706</id>
+        <link href="https://stadt-bremerhaven.de/amazon-prime-video-einige-leihfilme-fuer-je-99-cent/"/>
+        <updated>2023-01-20T14:36:36.000Z</updated>
+        <summary type="html"><![CDATA[Es ist Freitag und da ist es für Amazon quasi monatlich Tradition, euch einige Filme für jeweils 99 Cent zum Ausleihen anzubieten. Das ist auch heute der Fall. Im Angebot sind recht viele B- und C-Movies, und nur ganz wenige...
+Zum Beitrag: Amazon Prime Video: Einige Leihfilme für je 99 Cent
+
+Zum Blog: Caschys Blog]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[„Hogwarts Legacy“: Neuer Trailer „Die Einladung“ veröffentlicht]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1158663</id>
+        <link href="https://stadt-bremerhaven.de/hogwarts-legacy-neuer-trailer-die-einladung-veroeffentlicht/"/>
+        <updated>2023-01-20T14:30:17.000Z</updated>
+        <summary type="html"><![CDATA[Warner Bros. Games und Avalanche Software enthüllen den neuen Trailer „Die Einladung“ für das kommende Spiel „Hogwarts Legacy“. Letzteres spielt in der Wizarding World, also dem Universum von „Harry Potter“ und „Phantastische Tierwesen“. Das neue Open-World-Action-Rollenspiel kommt bereits am 10....
+Zum Beitrag: „Hogwarts Legacy“: Neuer Trailer „Die Einladung“ veröffentlicht
+
+Zum Blog: Caschys Blog]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows 11 erhält ReFS: Microsoft bereitet Update auf das robuste Dateisystem vor]]></title>
+        <id>https://www.computerbase.de/2023-01/windows-11-refs-dateisystem/</id>
+        <link href="https://www.computerbase.de/2023-01/windows-11-refs-dateisystem/"/>
+        <updated>2023-01-20T14:30:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/6/5/0/7-cc5b148957b6a4d7/article-640x360.138082a8.jpg"><p>Microsoft hat damit begonnen, das zuvor insbesondere für Hochleistungsrechner und Server vorgesehene robuste Dateisystem Microsoft Resilient File System (ReFS) in der Insider Preview von Windows 11 zu evaluieren. Anwender können das Dateisystem bereits in der aktuellen Vorschau mit der Buildnummer 25281 ausprobieren.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nintendo erhöht Switch-Produktion um die Nachfrage zu decken]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1158644</id>
+        <link href="https://stadt-bremerhaven.de/nintendo-erhoeht-switch-produktion-um-die-nachfrage-zu-decken/"/>
+        <updated>2023-01-20T14:00:58.000Z</updated>
+        <summary type="html"><![CDATA[Nintendo soll laut einem Bericht von Bloomberg dabei sein, die Produktion der Switch anzukurbeln. Ende 2022 hatte man noch die für das nächste Fiskaljahr anvisierten Auslieferungsmengen auf 19 Mio. Einheiten gesenkt, glaubt aber nun daran, mehr liefern zu können und...
+Zum Beitrag: Nintendo erhöht Switch-Produktion um die Nachfrage zu decken
+
+Zum Blog: Caschys Blog]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FRITZ!OS 7.51: FRITZ!Box 7490 mit neuer Laborversion]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1158698</id>
+        <link href="https://stadt-bremerhaven.de/fritzos-7-51-fritzbox-7490-mit-neuer-laborversion/"/>
+        <updated>2023-01-20T13:54:30.000Z</updated>
+        <summary type="html"><![CDATA[Mittlerweile sind die ersten Modelle der FRITZ!Box mit FRITZ!OS 7.50 ausgestattet. Doch manche müssen noch in weitere Testrunden. Konkret gibt es ab sofort FRITZ!OS 7.51-102642 für die FRITZ!Box 7490 – innerhalb der Laborversion gibt es da die folgenden Punkte im...
+Zum Beitrag: FRITZ!OS 7.51: FRITZ!Box 7490 mit neuer Laborversion
+
+Zum Blog: Caschys Blog]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stadia ist tot: Destiny-2-Spieler erhalten kostenlosen Monat NVIDIA GeForce Now]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1158589</id>
+        <link href="https://stadt-bremerhaven.de/stadia-ist-tot-destiny-2-spieler-erhalten-kostenlosen-monat-nvidia-geforce-now/"/>
+        <updated>2023-01-20T13:30:06.000Z</updated>
+        <summary type="html"><![CDATA[Am 18. Januar ist Google Stadia offiziell vom Netz gegangen. Das hat einige Nutzer nicht wirklich gefreut, aber das Vorgehen ist ja nicht unüblich bei dem Unternehmen aus Mountain View. Solltet ihr Destiny 2 auf der Plattform gespielt haben, dann...
+Zum Beitrag: Stadia ist tot: Destiny-2-Spieler erhalten kostenlosen Monat NVIDIA GeForce Now
+
+Zum Blog: Caschys Blog]]></summary>
+        <author>
+            <name>Olli</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DAZN jetzt auch als Amazon Prime Video Channel verfügbar]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1158685</id>
+        <link href="https://stadt-bremerhaven.de/dazn-jetzt-auch-als-amazon-prime-video-channel-verfuegbar/"/>
+        <updated>2023-01-20T13:04:32.000Z</updated>
+        <summary type="html"><![CDATA[Der Sport-Streaming-Anbieter DAZN war in der letzten Zeit fleißig. Man ist Partnerschaften mit anderen Unternehmen eingegangen und man hat auch eine neue Streaming-Stufe (DAZN Unlimited, DAZN Standard und nun DAZN World) eingeführt, die auch dafür sorgt, dass das Angebot für...
+Zum Beitrag: DAZN jetzt auch als Amazon Prime Video Channel verfügbar
+
+Zum Blog: Caschys Blog]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WhatsApp plant Option fürs unkomprimierte Teilen von Bildern]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1158634</id>
+        <link href="https://stadt-bremerhaven.de/whatsapp-plant-option-fuers-unkomprimierte-teilen-von-bildern/"/>
+        <updated>2023-01-20T13:00:09.000Z</updated>
+        <summary type="html"><![CDATA[WhatsApp bereitet eine neue Option vor, über die ihr Bilder auch unkomprimiert teilen könntet. Dies deutet sich im Hintergrund der Beta-App für Android in der Version 2.23.1.11 an. Offenbar will man diese Option im Messenger dann „HD Fotos“ taufen. Aktuell...
+Zum Beitrag: WhatsApp plant Option fürs unkomprimierte Teilen von Bildern
+
+Zum Blog: Caschys Blog]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GPU-Kühlmittel im Test: Wärmeleitpasten gegen Käse, Kartoffeln und Ketchup]]></title>
+        <id>https://www.computerbase.de/2023-01/gpu-cooling-test/</id>
+        <link href="https://www.computerbase.de/2023-01/gpu-cooling-test/"/>
+        <updated>2023-01-20T12:15:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/6/5/0/6-5cb125bbbc66e9ab/article-640x360.42f117fa.jpg"><p>Aus der Community kommt ein sowohl spannender als auch witziger Lesertest zum Thema GPU-Kühlmittel, der verschiedenste Wärmeleitpasten und Wärmeleitpads mit „alternativen“ Kühlmitteln wie Käse, Kartoffeln, Ketchup, Handcreme und Kupferpaste vergleicht. Auch die von CPU-Tests bereits bekannte Zahnpasta fehlt im Test nicht.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ASRock X670 Xpansion Kit: Erweiterungskarte macht den AMD B650 zu einem AMD X670]]></title>
+        <id>https://www.computerbase.de/2023-01/asrock-x670-xpansion-kit-mainboard-upgrade/</id>
+        <link href="https://www.computerbase.de/2023-01/asrock-x670-xpansion-kit-mainboard-upgrade/"/>
+        <updated>2023-01-20T11:39:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/6/5/0/5-63d84ad79510bd04/article-640x360.ecf90e75.jpg"><p>Das ASRock X670 Xpansion Kit, eine PCIe-Erweiterungskarte, erweitert ein für die Prozessorfamilie AMD Ryzen 7000 (Test) ausgelegtes B650-Mainboard über PCIe 4.0 x4 mit einem zusätzlichen Chipsatz zu einem X670-Mainboard und bietet damit zusätzliche I/O-Schnittstellen, weitere M.2-Steckplätze und schnelles Ethernet mit 10 Gbit/s.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sony SRS-XG300 im Test: Bluetooth-Langläufer mit überzeugendem Klang]]></title>
+        <id>https://www.computerbase.de/2023-01/sony-srs-xg300-test/</id>
+        <link href="https://www.computerbase.de/2023-01/sony-srs-xg300-test/"/>
+        <updated>2023-01-20T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/6/4/3/6-410cc9aa4fdb81d2/article-640x360.17aa4c0e.jpg"><p>Der SRS-XG300 von Sony stellt einen soliden portablen Lautsprecher dar, der in vielen Bereichen überzeugt, keine echte Schwäche hat und bei dem auch die dazugehörigen Apps einen gewissen Mehrwert bieten. Der vom Hersteller genannte UVP mag zunächst abschrecken, doch der Straßenpreis wird dem Produkt gerecht.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Netflix: Gebühr für geteilte Accounts kommt und Reed Hastings geht]]></title>
+        <id>https://www.computerbase.de/2023-01/netflix-gebuehr-fuer-geteilte-accounts-kommt-und-reed-hastings-geht/</id>
+        <link href="https://www.computerbase.de/2023-01/netflix-gebuehr-fuer-geteilte-accounts-kommt-und-reed-hastings-geht/"/>
+        <updated>2023-01-20T08:38:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/6/5/0/4-8059c07347607406/article-640x360.ed1a0036.jpg"><p>Netflix hat es zum Ende des letzten Jahres überraschend doch noch geschafft, seiner Nutzer auf insgesamt 231 Millionen zu steigern, nachdem das Unternehmen zuvor mit rückläufigen Nutzerzahlen zu kämpfen hatte. Gleichzeitig und trotzdem tritt mit Reed Hastings einer der Mitgründer und Chefs von Netflix zurück.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Endgame Gear XM2we: Kabellose Gaming-Maus kommt der XM2w zuvor]]></title>
+        <id>https://www.computerbase.de/2023-01/endgame-gear-xm2we-kabellose-gaming-maus-kommt-der-xm2w-zuvor/</id>
+        <link href="https://www.computerbase.de/2023-01/endgame-gear-xm2we-kabellose-gaming-maus-kommt-der-xm2w-zuvor/"/>
+        <updated>2023-01-20T07:56:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/6/5/0/3-5c6848a2a911ce66/article-640x360.659c9358.jpg"><p>Da sich die High-End-Funkmaus XM2w immer weiter verzögert, schiebt der zum Händler Caseking gehörende Hersteller Endgame Gear mit der XM2we eine äußerlich identische, aber beim Innenleben abgespeckte Variante ein, die dank moderner Komponenten zum günstigeren Preis aber nicht weniger interessant ist.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GeForce Now Ultimate: Server in Frankfurt bieten ab sofort Leistung der RTX 4080]]></title>
+        <id>https://www.computerbase.de/2023-01/geforce-now-ultimate-server-in-frankfurt-bieten-ab-sofort-leistung-der-rtx-4080/</id>
+        <link href="https://www.computerbase.de/2023-01/geforce-now-ultimate-server-in-frankfurt-bieten-ab-sofort-leistung-der-rtx-4080/"/>
+        <updated>2023-01-20T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/6/5/0/2-a98e2ca42ad23482/article-640x360.f4fef6b4.jpg"><p>Nvidias Rechenzentrum am Internet-Knotenpunkt DE-CIX in Frankfurt am Main liefert als einer von vier Standorten weltweit bereits die Leistung einer GeForce RTX 4080 (Test) in der Cloud. Angekündigt hatte Nvidia GeForce Now Ultimate auf der CES. Das neue Abonnement ersetzt den alten RTX-3080-Tarif (Test) zum gleichen Preis.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mountain Everest Keyboard: Display-Tasten-Tastatur bekommt neue Module]]></title>
+        <id>https://www.computerbase.de/2023-01/mountain-everest-keyboard-display-tasten-tastatur-bekommt-neue-module/</id>
+        <link href="https://www.computerbase.de/2023-01/mountain-everest-keyboard-display-tasten-tastatur-bekommt-neue-module/"/>
+        <updated>2023-01-20T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/6/4/9/9-698b8c28af8ed694/article-640x360.180ff9a3.jpg"><p>Die Everest ist eine Tastatur voller ungewöhnlicher Features wie Display-Tasten. Im Mittelpunkt steht Modularität: Nummernblock und Zusatztasten lassen sich abnehmen, Zusatzmodule stellen weitere Tasten bereit. Seit kurzem gibt es für die Tastatur noch mehr Module.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Wahlrechtsreform - Union will Wahlkreise reduzieren und 15 Überhangmandate nicht ausgleichen]]></title>
         <id>union-will-wahlkreise-reduzieren-und-15-ueberhangmandate-nicht-ausgleichen-108</id>
@@ -13,7 +633,7 @@
         <updated>2023-01-20T01:09:05.000Z</updated>
         <summary type="html"><![CDATA[Im Streit über die von der Bundesregierung geplante Wahlrechtsreform gibt es übereinstimmenden Medienberichten zufolge einen neuen Vorschlag der Unionsparteien.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 20. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 21. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -23,7 +643,7 @@
         <updated>2023-01-20T01:09:05.000Z</updated>
         <summary type="html"><![CDATA[Die Vereinigten Staaten stellen der Ukraine weitere Militärhilfe in Milliardenhöhe zur Verfügung.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 20. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 21. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -33,7 +653,7 @@
         <updated>2023-01-20T01:09:05.000Z</updated>
         <summary type="html"><![CDATA[Der ukrainische Präsident Selenskyj erwartet nach eigenen Angaben von dem Treffen in Ramstein starke Entscheidungen.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 20. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 21. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -43,7 +663,7 @@
         <updated>2023-01-20T01:09:05.000Z</updated>
         <summary type="html"><![CDATA[Eine vom Europäischen Parlament geforderte Einstufung der iranischen Revolutionsgarden als Terrororganisation ist nach Angaben des Auswärtigen Dienstes der EU nur unter bestimmten Voraussetzungen möglich.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 20. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 21. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -53,7 +673,7 @@
         <updated>2023-01-20T01:09:05.000Z</updated>
         <summary type="html"><![CDATA[Der amerikanische Gitarrist und Sänger David Crosby ist tot.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 20. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 21. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -63,7 +683,7 @@
         <updated>2023-01-20T01:09:05.000Z</updated>
         <summary type="html"><![CDATA[Medienberichten zufolge kommt die von Arbeitsminister Heil angedachte Bildungszeit für Arbeitnehmer vorerst nicht.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 20. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 21. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -73,7 +693,7 @@
         <updated>2023-01-20T01:09:05.000Z</updated>
         <summary type="html"><![CDATA[Der Industriegase-Konzern Linde wird zum 27. Februar aus dem deutschen Leitindex Dax genommen.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 20. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 21. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -83,7 +703,7 @@
         <updated>2023-01-20T01:09:05.000Z</updated>
         <summary type="html"><![CDATA[Die Gewerkschaft Verdi ruft bundesweit zu Streiks in Brief- und Paketzentren der Deutschen Post auf. Die Arbeitsniederlegungen begannen am frühen Abend und sollten heute den ganzen Tag andauern. Zuvor war auch die zweite Runde der Tarifgespräche zwischen dem Unternehmen und Verdi ohne Ergebnis zu Ende gegangen.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 20. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 21. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -93,7 +713,7 @@
         <updated>2023-01-20T01:09:05.000Z</updated>
         <summary type="html"><![CDATA[Als Reaktion auf ein Urteil des Bundesgerichtshofs lässt Volkswagen die Gehälter etlicher Betriebsräte überprüfen.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 20. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 21. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -103,7 +723,7 @@
         <updated>2023-01-20T01:09:05.000Z</updated>
         <summary type="html"><![CDATA[Der Bundestag erörtert heute erstmals die Fachkräftestrategie der Bundesregierung.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 20. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 21. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -113,7 +733,7 @@
         <updated>2023-01-20T01:09:05.000Z</updated>
         <summary type="html"><![CDATA[Spanien will bis 2030 insgesamt 7,2 Milliarden Euro in die Infrastruktur für grünen Wasserstoff investieren.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 20. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 21. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -123,7 +743,7 @@
         <updated>2023-01-20T01:09:05.000Z</updated>
         <summary type="html"><![CDATA[Die Agrarmesse Grüne Woche öffnet heute nach zwei Jahren Corona-Pause wieder für Besucher.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 20. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 21. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -133,7 +753,7 @@
         <updated>2023-01-20T01:09:05.000Z</updated>
         <summary type="html"><![CDATA[Aus Protest gegen eine geplante Anhebung des Renteneintrittsalters sind in französischen Städten mehr als eine Million Menschen auf die Straße gegangen.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 20. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 21. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -143,7 +763,7 @@
         <updated>2023-01-20T01:09:05.000Z</updated>
         <summary type="html"><![CDATA[Rudi Völler wird zum 1. Februar Sportchef der deutschen Fußball-Nationalmannschaft.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 20. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 21. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -153,7 +773,7 @@
         <updated>2023-01-20T01:09:05.000Z</updated>
         <summary type="html"><![CDATA[Zahlreiche EU- und NATO-Staaten haben der Ukraine weitere militärische Unterstützung zugesichert. Das geht aus einer gemeinsamen Erklärung hervor, die von elf Ländern im estnischen Tallinn unterzeichnet wurde.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 20. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 21. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -163,7 +783,7 @@
         <updated>2023-01-20T01:09:05.000Z</updated>
         <summary type="html"><![CDATA[In den USA hat die Regierung heute die staatliche Schuldengrenze von 31,4 Billionen Dollar erreicht.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 20. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 21. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -173,7 +793,7 @@
         <updated>2023-01-20T01:09:05.000Z</updated>
         <summary type="html"><![CDATA[Die Direktorin des Internationalen Währungsfonds, Georgieva, fordert von Europa, eine Führungsrolle im Kampf gegen den Klimawandel einzunehmen.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 20. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 21. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -183,7 +803,7 @@
         <updated>2023-01-20T01:09:05.000Z</updated>
         <summary type="html"><![CDATA[Mehr als ein Jahr nach dem tödlichen Schuss bei einem Western-Dreh soll gegen den Schauspieler Alec Baldwin Anklage wegen fahrlässiger Tötung erhoben werden.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 20. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 21. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -193,7 +813,7 @@
         <updated>2023-01-20T01:09:05.000Z</updated>
         <summary type="html"><![CDATA[Bei der Handball-Weltmeisterschaft in Polen und Schweden hat Deutschland sein erstes Spiel in der Hauptrunde gewonnen. Die Mannschaft von Bundestrainer Gislason besiegte die Auswahl aus Argentinien mit 39 zu 19.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 20. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 21. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -203,7 +823,7 @@
         <updated>2023-01-20T01:09:05.000Z</updated>
         <summary type="html"><![CDATA[Das Wetter: In dieser Nacht an der Nordsee Schnee- und Regenschauer. Sonst wechselnd bis stark bewölkt, nur noch lokale Schneeschauer im Südosten. Tiefsttemperaturen zwischen 1 Grad und minus 10 Grad. Am Tag im Osten länger sonnig, sonst aufkommende Schneeschauer. Minus 2 bis plus 5 Grad.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 20. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 21. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -1043,7 +1663,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-17T01:12:44.000Z</updated>
         <summary type="html"><![CDATA[Die Nachfolge für die scheidende Bundesverteidigungsministerin Lambrecht soll heute bekannt gegeben werden.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 20. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 21. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -1053,7 +1673,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-17T01:12:44.000Z</updated>
         <summary type="html"><![CDATA[Der Vorstoß der Bundesregierung zu bezahlten Bildungszeiten für Beschäftigte stößt bei kleineren und mittelgroßen Unternehmen auf Skepsis.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 20. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 21. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -1063,7 +1683,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-17T01:12:44.000Z</updated>
         <summary type="html"><![CDATA[Die Stiftung Patientenschutz lehnt den Vorstoß von Bundesgesundheitsminister Lauterbach für ein neues Organspende-Gesetz ab.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 20. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 21. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -1073,7 +1693,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-17T01:12:44.000Z</updated>
         <summary type="html"><![CDATA[Vor dem Bundesfinanzhof wird heute über die Rechtmäßigkeit des Solidaritätszuschlags verhandelt.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 20. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 21. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -1083,7 +1703,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-17T01:12:44.000Z</updated>
         <summary type="html"><![CDATA[In Argentinien droht ein größerer Ausfall bei der Soja-Ernte.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 20. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 21. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -1093,7 +1713,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-17T01:12:44.000Z</updated>
         <summary type="html"><![CDATA[Im schweizerischen Davos beginnt heute der offizielle Teil des Weltwirtschaftsforums.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 20. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 21. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -1103,7 +1723,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-17T01:12:44.000Z</updated>
         <summary type="html"><![CDATA[In Straßburg haben sich mehr als zehntausend Menschen an einer Solidaritätskundgebung für die Protestbewegung im Iran beteiligt.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 20. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 21. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -1113,7 +1733,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-17T01:12:44.000Z</updated>
         <summary type="html"><![CDATA[Polen und Finnland erhöhen den Druck auf die Bundesregierung, eine Entscheidung über die Lieferung von Leopard-2-Panzern an die Ukraine zu treffen. Der polnische Ministerpräsident Morawiecki sagte, Deutschland müsse mehr Waffen liefern und - so wörtlich - "die Panzer nicht in den Depots lassen".]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 20. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 21. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -1123,7 +1743,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-17T01:12:44.000Z</updated>
         <summary type="html"><![CDATA[UNO-Generalsekretär Guterres hat den Raketenangriff auf ein Wohnhaus in der ukrainischen Großstadt Dnipro verurteilt.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 20. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 21. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -1133,7 +1753,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-17T01:12:44.000Z</updated>
         <summary type="html"><![CDATA[Die russische Luftwaffe hat nach Angaben aus Moskau ein deutsches Marineflugzeug abgefangen, das über der Ostsee auf Patrouillenflug war.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 20. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 21. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -1143,7 +1763,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-17T01:12:44.000Z</updated>
         <summary type="html"><![CDATA[In Sachsen-Anhalt sind die strafrechtlichen Ermittlungen wegen Extremismus-Verdachts gegen vier Beamte des Landeskriminalamts eingestellt worden.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 20. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 21. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -1153,7 +1773,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-17T01:12:44.000Z</updated>
         <summary type="html"><![CDATA[Im Braunkohletagebau Hambach im rheinischen Revier haben Klimaaktivisten die Besetzung eines Schaufelradbaggers beendet.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 20. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 21. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -1163,7 +1783,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-17T01:12:44.000Z</updated>
         <summary type="html"><![CDATA[Die britische Regierung will das sogenannte "Gender-Gesetz" von Schottland blockieren.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 20. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 21. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -1173,7 +1793,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-17T01:12:44.000Z</updated>
         <summary type="html"><![CDATA[Die italienische Schauspielerin Gina Lollobrigida ist im Alter von 95 Jahren gestorben.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 20. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 21. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -1183,7 +1803,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-17T01:12:44.000Z</updated>
         <summary type="html"><![CDATA[Die italienische Polizei hat den meistgesuchten Mafia-Boss des Landes verhaftet.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 20. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 21. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -1193,7 +1813,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-17T01:12:44.000Z</updated>
         <summary type="html"><![CDATA[Bei erneuten Durchsuchungen im Zusammenhang mit dem Terrorverdacht gegen zwei Männer in Castrop-Rauxel sind weitere Beweismittel gefunden worden.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 20. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 21. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -1203,7 +1823,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-17T01:12:44.000Z</updated>
         <summary type="html"><![CDATA[Der Wetterbericht, die Lage: Hinter einem abziehenden Tief fließt Meeresluft polaren Ursprungs ein, die das Wetter weiter unbeständig und zunehmend kühler gestaltet.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 20. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 21. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -9521,360 +10141,6 @@ Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
         <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/6/2/1/7-f1bb767f5d13d61d/article-640x360.26859868.jpg"><p>AMD hat einen zweiten Treiber für Radeon RX 7900 XTX und 7900 XT (Test) mit der RDNA-3-GPU Navi 31 veröffentlicht. Der Adrenalin Edition 22.12.2 behebt Fehler und soll den Stromverbrauch senken, wenn die Grafikkarte Videos decodiert. Erneut gibt es diesen Treiber exklusiv für RX 7900, ältere Modelle bleiben bei 22.11.2.</p>]]></summary>
         <author>
             <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Netflix: Videos des Nike Training Club ab 30. Dezember verfügbar]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1144301</id>
-        <link href="https://stadt-bremerhaven.de/netflix-videos-des-nike-training-club-ab-30-dezember-verfuegbar/"/>
-        <updated>2022-12-22T13:30:47.000Z</updated>
-        <summary type="html"><![CDATA[Der eine oder andere von euch treibt Sport eventuell allein (daheim). Die mögliche Bandbreite dafür deckt mittlerweile alles ab: Fahrradfahren, Joggen, Gerätetraining, Freeletics und mehr. Diverse Plattformen stellen heutzutage Videos bereit, die euch antreiben. Dazu gehören unter anderem Apple Fitness+,...
-Zum Beitrag: Netflix: Videos des Nike Training Club ab 30. Dezember verfügbar
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>Olli</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sony: Neue Technologie ermöglicht objektbasierten Spatial Sound für Live-Übertragungen]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1144355</id>
-        <link href="https://stadt-bremerhaven.de/sony-neue-technologie-ermoeglicht-objektbasierten-spatial-sound-fuer-live-uebertragungen/"/>
-        <updated>2022-12-22T13:00:45.000Z</updated>
-        <summary type="html"><![CDATA[Sony präsentiert die nach eigenen Angaben weltweit erste Echtzeit-Live-Verteilungstechnologie mit vollständig objektbasiertem Spatial Sound. Übersetzt: Die Japaner wollen es ermöglichen, dass Live-Übertragungen direkt mit Spatial Audio angeboten werden. Als Basis nutzt man da natürlich die hauseigene Technik 360 Reality Audio....
-Zum Beitrag: Sony: Neue Technologie ermöglicht objektbasierten Spatial Sound für Live-Übertragungen
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>André Westphal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Meet mit neuen Filtern]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1144259</id>
-        <link href="https://stadt-bremerhaven.de/google-meet-mit-neuen-filtern/"/>
-        <updated>2022-12-22T12:30:33.000Z</updated>
-        <summary type="html"><![CDATA[Google spendiert seiner Videokonferenzsoftware Google Meet neue Filter. Diese stehen sowohl in der mobilen App, als auch im Web zur Verfügung. Google zeigt da als Beispiele einen Baumstamm, eine Erdbeere sowie ein arbeitendes Kaninchen. Die Effekte lassen sich über das...
-Zum Beitrag: Google Meet mit neuen Filtern
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>Felix Frank</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pokémon GO feiert Weihnachten: Neues Event angekündigt]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1144271</id>
-        <link href="https://stadt-bremerhaven.de/pokemon-go-feiert-weihnachten-neues-event-angekuendigt/"/>
-        <updated>2022-12-22T12:00:34.000Z</updated>
-        <summary type="html"><![CDATA[Solltet ihr auch noch immer in Pokémon GO unterwegs sein, dann dürften euch die regelmäßig stattfindenden Events im Spiel keineswegs verwundern. Damit dürftet ihr dann auch mitbekommen haben, dass es auch in Pokémon GO mittlerweile winterlich geworden ist und nun...
-Zum Beitrag: Pokémon GO feiert Weihnachten: Neues Event angekündigt
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>Benjamin Mamerow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Audible: 3 Monate kostenlos für ausgewählte Kunden]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1144387</id>
-        <link href="https://stadt-bremerhaven.de/audible-3-monate-kostenlos-fuer-ausgewaehlte-kunden/"/>
-        <updated>2022-12-22T11:49:21.000Z</updated>
-        <summary type="html"><![CDATA[3 Monate gibt’s derzeit Audible gratis. Hierbei handelt es sich um das Hörbuch-Angebot des Unternehmens Amazon, welches sonst mit 9,95 Euro monatlich zu Buche schlägt. Das Angebot gilt laut Amazon für ausgewählte Kunden in Deutschland, Österreich und der Schweiz, die seit...
-Zum Beitrag: Audible: 3 Monate kostenlos für ausgewählte Kunden
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>caschy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[easybell: FTTH für Kunden des Anbieters möglicherweise schon 2023]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1144277</id>
-        <link href="https://stadt-bremerhaven.de/easybell-ftth-fuer-kunden-des-anbieters-moeglicherweise-schon-2023/"/>
-        <updated>2022-12-22T11:30:08.000Z</updated>
-        <summary type="html"><![CDATA[Kleiner Teaser an alle Kunden des Anbieters easybell, welcher mittlerweile auch schon seit 16 Jahren existiert und damit mit Sicherheit den einen oder anderen Kunden unter unseren Lesern haben wird: Vor einigen Tagen informierte mich einer unserer Leser in einem...
-Zum Beitrag: easybell: FTTH für Kunden des Anbieters möglicherweise schon 2023
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>Benjamin Mamerow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cryptomator: Verschlüsselungssoftware derzeit reduziert zu haben]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1144367</id>
-        <link href="https://stadt-bremerhaven.de/cryptomator-verschluesselungssoftware-derzeit-reduziert-zu-haben/"/>
-        <updated>2022-12-22T11:15:40.000Z</updated>
-        <summary type="html"><![CDATA[Über die Software Cryptomator berichten wir seit ihrer ersten Veröffentlichung. Cryptomator ist eine Open-Source-Software, die dazu dient, Daten vor neugierigen Augen zu schützen. Sie ermöglicht es Benutzern, Dateien und Ordner auf ihren Computer, Cloud-Speicherdiensten oder anderen Speichermedien zu verschlüsseln. Die...
-Zum Beitrag: Cryptomator: Verschlüsselungssoftware derzeit reduziert zu haben
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>caschy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WhatsApp Beta: Option zum Einloggen eines Zweitgeräts per Verifizierungscode]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1144341</id>
-        <link href="https://stadt-bremerhaven.de/whatsapp-beta-option-zum-einloggen-eines-zweitgeraets-per-verifizierungscode/"/>
-        <updated>2022-12-22T11:00:37.000Z</updated>
-        <summary type="html"><![CDATA[In der Beta des Messengers WhatsApp gibt es mittlerweile für einige Nutzer die Chance, ein Zweitgerät hinzuzufügen. Dies ist dann im sogenannten „Companion Mode“ aktiv. Laut WABetaInfo wurde auch diese Option noch etwas erweitert. Am Zweitgerät können sich Beta-Nutzer nämlich...
-Zum Beitrag: WhatsApp Beta: Option zum Einloggen eines Zweitgeräts per Verifizierungscode
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>André Westphal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Radeon RX 7900 XTX Customs im Test: Asus, PowerColor, Sapphire & XFX mit Navi 31 im Vergleich]]></title>
-        <id>https://www.computerbase.de/2022-12/radeon-rx-7900-xtx-custom-design-test/</id>
-        <link href="https://www.computerbase.de/2022-12/radeon-rx-7900-xtx-custom-design-test/"/>
-        <updated>2022-12-22T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/6/0/8/2-91dbb0cc95c89546/article-640x360.1947a815.jpg"><p>Welche Vor- oder Nachteile bieten Custom-Designs der AMD Radeon RX 7900 XTX mit Navi-31-GPU im Vergleich zum Referenzdesign in Bezug auf Leistung, Lautstärke, Temperaturen und Verbrauch? ComputerBase hat mit Asus TUF Gaming OC, PowerColor Hellhound, Sapphire Nitro+ und XFX Merc 310 die Probe aufs Exempel gemacht.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intel Core i9-13900KS: Der weltweit erste Prozessor, der 9 GHz erreicht hat]]></title>
-        <id>https://www.computerbase.de/2022-12/intel-core-i9-13900ks-9ghz-overclocking-world-record/</id>
-        <link href="https://www.computerbase.de/2022-12/intel-core-i9-13900ks-9ghz-overclocking-world-record/"/>
-        <updated>2022-12-22T06:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/6/2/0/7-32919a7536dc9e5c/article-640x360.b5f2eb34.jpg"><p>Asus hat einmal mehr zahlreiche neue Weltrekorde im Bereich Overclocking aufstellen können und mit einem Intel Core i9-13900KS, welcher auf der vom 5. bis 8. Januar 2023 in Las Vegas stattfindenden Fach- und Branchenmesse CES 2023 präsentiert werden soll, erstmals überhaupt die zuvor „harte“ Barriere von 9 GHz durchbrochen.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Star Wars: Dark Forces (1995): Engine-Port holt Klassiker zurück in die Moderne]]></title>
-        <id>https://www.computerbase.de/2022-12/star-wars-dark-forces-1995-engine-port-holt-klassiker-zurueck-in-die-moderne/</id>
-        <link href="https://www.computerbase.de/2022-12/star-wars-dark-forces-1995-engine-port-holt-klassiker-zurueck-in-die-moderne/"/>
-        <updated>2022-12-22T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/6/2/0/5-13d62e0441113704/article-640x360.69affed6.jpg"><p>Dark Forces war 1995 ein richtig guter Shooter im Star-Wars-Universum. Ein Mod-Projekt macht den Klassiker in der Moderne kinderleicht spielbar und fügt zahlreiche Komfort-Extras ein. Das Projekt The Force Engine tauscht dazu die Grafik-Engine aus.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Netflix zeigt Teaser zu kommendem Science-Fiction-Film „JUNG_E“]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1144282</id>
-        <link href="https://stadt-bremerhaven.de/netflix-zeigt-teaser-zu-kommendem-science-fiction-film-jung_e/"/>
-        <updated>2022-12-21T19:01:02.000Z</updated>
-        <summary type="html"><![CDATA[Netflix hat einen kurzen Teaser veröffentlicht, der einen Ausblick auf „JUNG_E“ geben soll. Hierbei handelt es sich nicht um den umgangssprachlichen Ausruf, wenn man sich über etwas aufregt, sondern um einen neuen Sci-Fi-Streifen, der exklusiv bei Netflix erscheinen soll. Im...
-Zum Beitrag: Netflix zeigt Teaser zu kommendem Science-Fiction-Film „JUNG_E“
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>Benjamin Mamerow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Durchsuchungen nach Abmahnwelle wegen „Google Fonts“-Nutzung]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1144274</id>
-        <link href="https://stadt-bremerhaven.de/durchsuchungen-nach-abmahnwelle-wegen-google-fonts-nutzung/"/>
-        <updated>2022-12-21T17:55:01.000Z</updated>
-        <summary type="html"><![CDATA[Es ging durch die Medien: Webseitenbetreiber, die Google Fonts eingebunden hatten, bekamen Abmahnungen. Das wurden dann allerdings so viele Abmahnungen einer Person in einer kurzen Zeit, dass es schon den Eindruck erweckte, dass dahinter ein Geschäftsmodell steckt. Andere Betroffene und...
-Zum Beitrag: Durchsuchungen nach Abmahnwelle wegen „Google Fonts“-Nutzung
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>caschy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Abmahnwelle „Google Fonts“: Bundesweite Durch­suchungen und 346.000 € sichergestellt]]></title>
-        <id>https://www.computerbase.de/2022-12/abmahnwelle-google-fonts-bundesweite-durchsuchungen-und-346-000-euro-sichergestellt/</id>
-        <link href="https://www.computerbase.de/2022-12/abmahnwelle-google-fonts-bundesweite-durchsuchungen-und-346-000-euro-sichergestellt/"/>
-        <updated>2022-12-21T17:43:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/6/2/0/4-4ea5a76796b4c20f/article-640x360.33a56a40.jpg"><p>Seit Monaten sorgen Abmahnungen von Website-Betreibern wegen der „Google Fonts“ für Aufsehen, was inzwischen auch die Justiz beschäftigt. Im Verfahren gegen zwei Beschuldigte kam es deshalb heute zu Durchsuchungen in mehreren Bundesländern.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EU-Kommission äußert Bedenken zur VMware-Übernahme durch Broadcom]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1144240</id>
-        <link href="https://stadt-bremerhaven.de/eu-kommission-aeussert-bedenken-zur-vmware-uebernahme-durch-broadcom/"/>
-        <updated>2022-12-21T17:40:34.000Z</updated>
-        <summary type="html"><![CDATA[Broadcom möchte VMware für 61 Milliarden US-Dollar übernehmen. Die EU hatte bereits im Vorfeld angekündigt, dass man den geplanten Deals mit seinen Kartellbehörden nochmals genauer unter die Lupe nehmen wird. Die EU-Kommission gab bekannt, dass die ersten, vorläufigen Untersuchungen nun...
-Zum Beitrag: EU-Kommission äußert Bedenken zur VMware-Übernahme durch Broadcom
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>Felix Frank</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Red Magic 8 Pro: Offizielle Angaben zum kommenden Gaming-Smartphone]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1144215</id>
-        <link href="https://stadt-bremerhaven.de/red-magic-8-pro-offizielle-angaben-zum-kommenden-gaming-smartphone/"/>
-        <updated>2022-12-21T17:00:58.000Z</updated>
-        <summary type="html"><![CDATA[Ich hatte kürzlich bereits über das kommende Gaming-Smartphone Red Magic 8 Pro berichtet. Konnte ich zunächst nur auf Gerüchte zurückgreifen, gibt es jetzt schon offizielle Angaben zur Technik. Vorgestellt wird das mobile Endgerät am 26.12.2022. Bestätigt ist nun, dass ein...
-Zum Beitrag: Red Magic 8 Pro: Offizielle Angaben zum kommenden Gaming-Smartphone
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>André Westphal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kostenloses Spiel: LEGO Builder’s Journey]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1144266</id>
-        <link href="https://stadt-bremerhaven.de/kostenloses-spiel-lego-builders-journey/"/>
-        <updated>2022-12-21T16:43:52.000Z</updated>
-        <summary type="html"><![CDATA[Im Epic Games Store gibt es ein weiteres Spiel kostenlos. Ihr könnt kreativ werden und euch in LEGO Builder’s Journey rätselmäßig austoben. LEGO Builder’s Journey ist ein geometrisches Rätselspiel, bei dem der Spieler manchmal die Anleitung befolgt … und manchmal...
-Zum Beitrag: Kostenloses Spiel: LEGO Builder’s Journey
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>caschy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oppo: Flaggschiff-Modelle erhalten 5 Jahre Updates]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1144253</id>
-        <link href="https://stadt-bremerhaven.de/oppo-flaggschiff-modelle-erhalten-5-jahre-updates/"/>
-        <updated>2022-12-21T16:31:07.000Z</updated>
-        <summary type="html"><![CDATA[Wie es mit Oppo (und auch OnePlus) auf dem deutschen Markt ausschaut, ist noch nicht raus – meines Wissens hat man mit Nokia noch keine Vereinbarung zur Patentnutzung treffen können, was dafür sorgt, dass neue Geräte hierzulande nicht auf den...
-Zum Beitrag: Oppo: Flaggschiff-Modelle erhalten 5 Jahre Updates
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>caschy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aqara: Sonos-Integration nun offiziell]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1144231</id>
-        <link href="https://stadt-bremerhaven.de/aqara-sonos-integration-nun-offiziell/"/>
-        <updated>2022-12-21T16:00:28.000Z</updated>
-        <summary type="html"><![CDATA[Die längste Testphase bei Aqara endet. Bereits 2020 konnten wir davon berichten, dass sich das Smart-Home-System mit Sonos-Lautsprechern nutzen lässt. Nun hat man die Funktion offiziell gemacht und man unterstützt auch die neueren Produkte von Sonos sowie von Aqara zum...
-Zum Beitrag: Aqara: Sonos-Integration nun offiziell
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>caschy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lenovo GoDesk Station: Schreibtischlampe, Webcam, Dockingstation und Wireless Charger in einem]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1144227</id>
-        <link href="https://stadt-bremerhaven.de/lenovo-godesk-station-schreibtischlampe-webcam-dockingstation-und-wireless-charger-in-einem/"/>
-        <updated>2022-12-21T15:32:02.000Z</updated>
-        <summary type="html"><![CDATA[Lenovo hat seine neue GoDesk Station mit integrierter 4K-Webcam vorgestellt. Hier handelt es sich um ein multifunktionales Gerät, das gleich mehrere Bedürfnisse abdecken soll. Die Station ist für Microsoft Teams zertifiziert und bietet außerdem Docking-Funktionalität mit allerlei Schnittstellen. Dann sind...
-Zum Beitrag: Lenovo GoDesk Station: Schreibtischlampe, Webcam, Dockingstation und Wireless Charger in einem
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>André Westphal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Selbsternannte Klimaschützer missbrauchen die Notruf-App nora]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1144221</id>
-        <link href="https://stadt-bremerhaven.de/selbsternannte-klimaschuetzer-missbrauchen-die-notruf-app-nora/"/>
-        <updated>2022-12-21T14:51:20.000Z</updated>
-        <summary type="html"><![CDATA[Die Notruf-App nora ist missbraucht worden. nora ist die offizielle Notruf-App der Bundesländer, realisiert durch das Ministerium des Innern des Landes Nordrhein-Westfalen. Mit der App erreichen Anwender Polizei, Feuerwehr und Rettungsdienst im Notfall. nora nutzt die Standort-Funktion des Smartphones, um...
-Zum Beitrag: Selbsternannte Klimaschützer missbrauchen die Notruf-App nora
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>caschy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google bessert nach: Bundeskartellamt erwirkt Änderungen an „News Showcase“]]></title>
-        <id>https://www.computerbase.de/2022-12/google-bessert-nach-bundeskartellamt-erwirkt-aenderungen-an-news-showcase/</id>
-        <link href="https://www.computerbase.de/2022-12/google-bessert-nach-bundeskartellamt-erwirkt-aenderungen-an-news-showcase/"/>
-        <updated>2022-12-21T14:50:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/6/1/9/9-6a82b41ca376abc4/article-640x360.d0b58c95.jpg"><p>Das Bundeskartellamt hat das im Juni 2021 eingeleitete Verfahren gegen Google beziehungsweise Alphabet im Zusammenhang mit dem Online-Nachrichten-Angebot „Google News Showcase“ abgeschlossen, nachdem Google eine Reihe aus Sicht des Kartellamts wichtiger Anpassungen zum Vorteil der Verlage vorgenommen hat.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Neue Postbank-App löst den Postbank Finanz­assistent ab]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1144214</id>
-        <link href="https://stadt-bremerhaven.de/neue-postbank-app-loest-den-postbank-finanzassistent-ab/"/>
-        <updated>2022-12-21T14:28:33.000Z</updated>
-        <summary type="html"><![CDATA[Endspurt bei der Postbank. Deren App, der Postbank Finanz­assistent, wird ab dem 1.1.2023 von einer neuen App für Android und iOS abgelöst, sie hört auf den Namen »Postbank App«. Kunden können die neue Postbank App nutzen, sobald ihre Produkte auf...
-Zum Beitrag: Neue Postbank-App löst den Postbank Finanz­assistent ab
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>caschy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Assistant: Todoist stellt Conversational Actions im Januar ab, weitere werden folgen]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1144146</id>
-        <link href="https://stadt-bremerhaven.de/google-assistant-todoist-stellt-conversational-actions-im-januar-ab-weitere-werden-folgen/"/>
-        <updated>2022-12-21T14:00:37.000Z</updated>
-        <summary type="html"><![CDATA[Der Google Assistant unterstützt grundsätzlich eigenständige App-Anbindungen. Vor Jahren hat Google für Entwickler die Funktion „Conversational Actions“ vorgestellt, damit sie ihre Dienste für Nutzer sprachgesteuert zugänglich machen können – zum Beispiel über Nest-Displays, -Lautsprecher oder andere Geräte, die nur den...
-Zum Beitrag: Google Assistant: Todoist stellt Conversational Actions im Januar ab, weitere werden folgen
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>caschy</name>
         </author>
     </entry>
     <entry>
