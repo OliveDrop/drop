@@ -6,6 +6,206 @@
       "siteUrl": "https://stadt-bremerhaven.de",
       "articles": [
         {
+          "id": "https://stadt-bremerhaven.de/?p=1159244",
+          "author": "Benjamin Mamerow",
+          "description": "Wine ist eine Software, die es ermöglicht, Windows-Anwendungen auf einem Computer mit einem anderen Betriebssystem, wie Linux oder macOS, auszuführen. Es funktioniert durch die Implementierung der Windows-API (Application Programming Interface) auf dem Zielbetriebssystem, anstatt die gesamte Windows-Umgebung zu emulieren. Auf...\nZum Beitrag: Wine Is Not an Emulator (Wine) in Version 8.0 erschienen\r\n\r\nZum Blog: Caschys Blog",
+          "link": "https://stadt-bremerhaven.de/wine-is-not-an-emulator-wine-in-version-8-0-erschienen/",
+          "publishedOn": "2023-01-25T19:00:29.000Z",
+          "wordCount": 1763,
+          "title": "Wine Is Not an Emulator (Wine) in Version 8.0 erschienen",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2020/01/wine.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1159411",
+          "author": "caschy",
+          "description": "Microsoft hat eine neue Windows-Insider-Version veröffentlicht. Das Windows-Insider-Programm ermöglicht Nutzern eine Vorschau auf frühe und in Entwicklung befindliche Versionen von Windows 11. Nutzer können so gemeinsam mit PC-Experten, IT-Profis und Entwicklern auf der ganzen Welt an der Entwicklung von Windows...\nZum Beitrag: Windows 11 Insider Preview Build 25284 mit neuem Widget\r\n\r\nZum Blog: Caschys Blog",
+          "link": "https://stadt-bremerhaven.de/windows-11-insider-preview-build-25284-wird-verteilt/",
+          "publishedOn": "2023-01-25T18:45:37.000Z",
+          "wordCount": 1740,
+          "title": "Windows 11 Insider Preview Build 25284 mit neuem Widget",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/12/windows-preview-build_.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1159404",
+          "author": "caschy",
+          "description": "Das reichen wir noch einmal durch, falls es dem einen oder anderen durch die Lappen gegangen ist. Synology hat auch ein Office-Paket, bislang war es aber so, dass man mit der mobilen App „Synology Drive“ keine Dokumente bearbeiten, sondern lediglich...\nZum Beitrag: Synology Drive: Mobile Apps können Dokumente erstellen und bearbeiten\r\n\r\nZum Blog: Caschys Blog",
+          "link": "https://stadt-bremerhaven.de/synology-drive-mobile-apps-koennen-dokumente-erstellen-und-bearbeiten/",
+          "publishedOn": "2023-01-25T18:30:55.000Z",
+          "wordCount": 1722,
+          "title": "Synology Drive: Mobile Apps können Dokumente erstellen und bearbeiten",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/04/synology-drive-3_.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1159383",
+          "author": "André Westphal",
+          "description": "Die Animationsserie „Invincible“ zählt zu den blutigeren Vertretern ihrer Zunft. Für Kinder ist die ganze Sache jedenfalls definitiv nichts. Wer hier also nur die Merkmale „Zeichentrick“ und „Superhelden“ sieht und an Unterhaltung für jüngere Semester denkt, ist auf dem Holzweg....\nZum Beitrag: „Invincible“: Animationsserie für Erwachsene mit Teaser zur zweiten Staffel\r\n\r\nZum Blog: Caschys Blog",
+          "link": "https://stadt-bremerhaven.de/invincible-animationsserie-fuer-erwachsene-mit-teaser-zur-zweiten-staffel/",
+          "publishedOn": "2023-01-25T18:00:18.000Z",
+          "wordCount": 1796,
+          "title": "„Invincible“: Animationsserie für Erwachsene mit Teaser zur zweiten Staffel",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2023/01/Invincible-2.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1159396",
+          "author": "Felix Frank",
+          "description": "Mit dem jüngsten Update auf Version 4.34.0 spendiert Philips Hue neue Szenen in der Hue-Szenengalerie. Unter dem Stichwort „Energiesparen“ habe man dort energieeffiziente Szenen veröffentlicht. Jene sollen also nicht nur für Stimmung sorgen, sondern auch Energie und somit den einen...\nZum Beitrag: Philips Hue: Energieeffiziente Szenen in der App integriert\r\n\r\nZum Blog: Caschys Blog",
+          "link": "https://stadt-bremerhaven.de/philips-hue-energieeffiziente-szenen-in-der-app-integriert/",
+          "publishedOn": "2023-01-25T17:27:55.000Z",
+          "wordCount": 1818,
+          "title": "Philips Hue: Energieeffiziente Szenen in der App integriert",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2021/06/hue-app4_home-dashboard.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1159370",
+          "author": "André Westphal",
+          "description": "Amazon Prime Video produziert seinen ersten, japanischen Original-Realfilm: „The Silent Service“. Falls euch das so gar nichts sagt: Das ist auch ein bekanntes Manga-Franchise. Am 29. September 2023 wird der Film im Vertrieb von Toho in Japan auch im Kino...\nZum Beitrag: Amazon Prime Video produziert seinen ersten japanischen Realfilm „The Silent Service“\r\n\r\nZum Blog: Caschys Blog",
+          "link": "https://stadt-bremerhaven.de/amazon-prime-video-produziert-seinen-ersten-japanischen-realfilm-the-silent-service/",
+          "publishedOn": "2023-01-25T17:00:42.000Z",
+          "wordCount": 1716,
+          "title": "Amazon Prime Video produziert seinen ersten japanischen Realfilm „The Silent Service“",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2021/02/amazon-prime-video.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1159161",
+          "author": "caschy",
+          "description": "Die Fitness-Plattform Strava hat jüngst die Preise erhöht. Nun gibt es Nachrichten aus einer anderen Ecke, denn man hat den Dienst Fatmap übernommen. Fatmap ist eine Outdoor-Adventure-Plattform, die detaillierte 3D-Karten und Informationen für Outdoor-Aktivitäten wie Wandern, Skifahren, Klettern und Mountainbiking...\nZum Beitrag: Strava übernimmt Fatmap\r\n\r\nZum Blog: Caschys Blog",
+          "link": "https://stadt-bremerhaven.de/strava-uebernimmt-fatmap/",
+          "publishedOn": "2023-01-25T16:30:36.000Z",
+          "wordCount": 1747,
+          "title": "Strava übernimmt Fatmap",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2020/05/strava-logo.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1159215",
+          "author": "Felix Frank",
+          "description": "Die Mozilla-App Pocket erlaubt es, Inhalte, wie Artikel oder Videos zu speichern, um diese offline zu lesen oder anzusehen. Auch als eine Merkliste, für Inhalte, die man später lesen möchte, kann sie entsprechend arbeiten. Inhalte lassen sich in der Android-App...\nZum Beitrag: Mozilla: Pocket-App erhält einige Verbesserungen\r\n\r\nZum Blog: Caschys Blog",
+          "link": "https://stadt-bremerhaven.de/mozilla-pocket-app-erhaelt-einige-verbesserungen/",
+          "publishedOn": "2023-01-25T16:00:47.000Z",
+          "wordCount": 1739,
+          "title": "Mozilla: Pocket-App erhält einige Verbesserungen",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2023/01/pocket_blog_header_generic_4.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1159365",
+          "author": "André Westphal",
+          "description": "Das Spiel „GoldenEye 007“ erscheint noch in dieser Woche als neue Auflage für die Nintendo Switch und die Xbox-Konsolen. In beiden Fällen wird es nicht nur ab 27. Januar 2023 zum Kauf zur Verfügung stehen, sondern auch Teil der jeweiligen...\nZum Beitrag: „GoldenEye 007“ ab Freitag für Xbox-Konsolen und die Nintendo Switch\r\n\r\nZum Blog: Caschys Blog",
+          "link": "https://stadt-bremerhaven.de/goldeneye-007-ab-freitag-fuer-xbox-konsolen-und-die-nintendo-switch/",
+          "publishedOn": "2023-01-25T15:30:59.000Z",
+          "wordCount": 1885,
+          "title": "„GoldenEye 007“ ab Freitag für Xbox-Konsolen und die Nintendo Switch",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2023/01/Goldeneye.jpeg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1159375",
+          "author": "caschy",
+          "description": "Heute Abend noch nichts vor? Dann lockt vielleicht um 21 Uhr der Stream von Team Xbox und Bethesda. Geboten werden soll ein Einblick in einige der größten Spiele, die diesen Frühling für die Xbox, den PC und Game Pass erscheinen,...\nZum Beitrag: Xbox und Bethesda: Developer_Direct um 21 Uhr\r\n\r\nZum Blog: Caschys Blog",
+          "link": "https://stadt-bremerhaven.de/xbox-und-bethesda-developer_direct-um-21-uhr/",
+          "publishedOn": "2023-01-25T15:23:41.000Z",
+          "wordCount": 1621,
+          "title": "Xbox und Bethesda: Developer_Direct um 21 Uhr",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2023/01/Bildschirm­foto-2023-01-25-um-16.22.30_.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1159373",
+          "author": "caschy",
+          "description": "Auch im Februar 2023 gibt es neue Filme und Serien bei Netflix. Von Ostküste zu Westküste befassen sich Reese Witherspoon und Ashton Kutcher in der romantischen Komödie Your Place Or Mine mit dem altbekannten Thema: Soll ich’s wirklich machen oder...\nZum Beitrag: Neu auf Netflix – Februar 2023\r\n\r\nZum Blog: Caschys Blog",
+          "link": "https://stadt-bremerhaven.de/neu-auf-netflix-februar-2023/",
+          "publishedOn": "2023-01-25T15:11:36.000Z",
+          "wordCount": 2059,
+          "title": "Neu auf Netflix – Februar 2023",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/10/Netflix_Logo_RGB_.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1159356",
+          "author": "caschy",
+          "description": "Das iPhone besitzt die Funktion „Notruf SOS“. Wenn Nutzer mit SOS einen Anruf tätigen, kontaktiert das iPhone automatisch den lokalen Rettungsdienst.  Man kann auch Notfallkontakte hinterlegen, die automatisch mittels Textnachricht über einen abgesetzten Notruf informiert werden. Anwender können den Versand...\nZum Beitrag: Notruf SOS auf dem iPhone: Anruf kann auch diskret erfolgen\r\n\r\nZum Blog: Caschys Blog",
+          "link": "https://stadt-bremerhaven.de/notruf-sos-auf-dem-iphone-anruf-kann-auch-diskret-erfolgen/",
+          "publishedOn": "2023-01-25T15:00:36.000Z",
+          "wordCount": 1902,
+          "title": "Notruf SOS auf dem iPhone: Anruf kann auch diskret erfolgen",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2023/01/notruf-sos-diskret_.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1159313",
+          "author": "André Westphal",
+          "description": "Schon in weniger als einem Monat kommt die PlayStation VR2 auf den Markt. Auch ich habe das Virtual-Reality-Headset für die Sony PlayStation 5 vorbestellt. Für Enttäuschung sorgte dabei Sonys Ankündigung, dass bereits erschienene Titel für die erste Generation leider nicht...\nZum Beitrag: PlayStation VR2: Entwickler bestätigen hohen Aufwand für Portierungen\r\n\r\nZum Blog: Caschys Blog",
+          "link": "https://stadt-bremerhaven.de/playstation-vr2-entwickler-bestaetigen-hohen-aufwand-fuer-portierungen/",
+          "publishedOn": "2023-01-25T14:30:03.000Z",
+          "wordCount": 2692,
+          "title": "PlayStation VR2: Entwickler bestätigen hohen Aufwand für Portierungen",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/04/PS-Vr-2.jpeg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1159233",
+          "author": "Benjamin Mamerow",
+          "description": "Windows Central hat ein paar Neuigkeiten zum kommenden Update des Datei-Explorers in Windows 11 zu berichten, wonach jener nicht nur ein überarbeitetes Suchfeld, sondern auch eine neu gestaltete Kopfzeile mit einem modernen Dateiverzeichnisfeld und einem neuen „Home“-Button haben soll. Die...\nZum Beitrag: Windows 11: Einige Neuerungen für den Datei-Explorer bekannt\r\n\r\nZum Blog: Caschys Blog",
+          "link": "https://stadt-bremerhaven.de/windows-11-einige-neuerungen-fuer-den-datei-explorer-bekannt/",
+          "publishedOn": "2023-01-25T14:00:50.000Z",
+          "wordCount": 1998,
+          "title": "Windows 11: Einige Neuerungen für den Datei-Explorer bekannt",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2023/01/win-11-dateiexplorer-neu.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1159352",
+          "author": "caschy",
+          "description": "Laut des Mediums Politico werden die Kartellwächter der Europäischen Union eine Untersuchung gegen Microsoft einleiten. Die Betreiber von Slack reichten vor zweieinhalb Jahren eine Wettbewerbsbeschwerde gegen Microsoft ein. Das Unternehmen hatte behauptet, Microsoft habe sein Produkt Microsoft Teams „unrechtmäßig an...\nZum Beitrag: Microsoft wegen Teams vor EU-Kartellverfahren\r\n\r\nZum Blog: Caschys Blog",
+          "link": "https://stadt-bremerhaven.de/microsoft-wegen-teams-vor-eu-kartellverfahren/",
+          "publishedOn": "2023-01-25T13:47:06.000Z",
+          "wordCount": 1861,
+          "title": "Microsoft wegen Teams vor EU-Kartellverfahren",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2023/01/Microsoft_.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1159249",
+          "author": "Benjamin Mamerow",
+          "description": "„1917, während der Erste Weltkrieg tobt, kämpfen zwei Brüder darum, in den Schützengräben zu überleben und sich wiederzufinden. Ihre Wege kreuzen sich mit neuen Heldenherzen, die die Freude des Wiedersehens und das Grauen der Westfront teilen – alle verzweifelt auf...\nZum Beitrag: Valiant Hearts: Coming Home erscheint am 31. Januar 2023 bei Netflix Games\r\n\r\nZum Blog: Caschys Blog",
+          "link": "https://stadt-bremerhaven.de/valiant-hearts-coming-home-erscheint-am-31-januar-2023-bei-netflix-games/",
+          "publishedOn": "2023-01-25T13:30:44.000Z",
+          "wordCount": 1774,
+          "title": "Valiant Hearts: Coming Home erscheint am 31. Januar 2023 bei Netflix Games",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2023/01/valiant-hearts-netflox-games.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1159254",
+          "author": "Olli",
+          "description": "Ende November kündigte Fitbit an, dass man »demnächst« die Turn-by-Turn-Anweisungen von Google Maps auf die eigenen Geräte bringen wird. Die Sense 2 und Versa 4 sollten dabei den Anfang machen. 9to5google berichtet, dass eben jener Zeitpunkt nun gekommen ist und...\nZum Beitrag: Fitbit Sense 2 und Versa 4 nun mit Google-Maps-Navigation\r\n\r\nZum Blog: Caschys Blog",
+          "link": "https://stadt-bremerhaven.de/fitbit-sense-2-und-versa-4-nun-mit-google-maps-navigation/",
+          "publishedOn": "2023-01-25T13:00:49.000Z",
+          "wordCount": 1695,
+          "title": "Fitbit Sense 2 und Versa 4 nun mit Google-Maps-Navigation",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/11/sense-2-versa-4-google-maps.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1159343",
+          "author": "caschy",
+          "description": "Nutzer konnten unter Windows 10 und Windows 11 unter Umständen Probleme beim Öffnen des Startmenüs und mehr haben: Das Startmenü, die Windows-Suche und Universal Windows Platform (UWP)-Apps funktionieren möglicherweise nicht wie erwartet oder haben Probleme beim Öffnen. Auf betroffenen Windows-Geräten...\nZum Beitrag: Windows: Startmenü, Windows-Suche und UWP-Anwendungen können Probleme beim Öffnen haben\r\n\r\nZum Blog: Caschys Blog",
+          "link": "https://stadt-bremerhaven.de/windows-startmenue-windows-suche-und-uwp-anwendungen-koennen-probleme-beim-oeffnen-haben/",
+          "publishedOn": "2023-01-25T12:30:12.000Z",
+          "wordCount": 2128,
+          "title": "Windows: Startmenü, Windows-Suche und UWP-Anwendungen können Probleme beim Öffnen haben",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2023/01/windows_.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1159337",
+          "author": "André Westphal",
+          "description": "Twitter hat mit „Für dich“ vor geraumer einen Tab eingeführt, der vorsichtig gesagt eher gespalten von der Community aufgenommen worden ist. Kürzlich erhob man diese Ansicht, die Empfehlungen hervorheben soll, zur Standard-Einstellung. Gut kam das bei den Usern nicht gerade...\nZum Beitrag: Twitter vereinfacht es, den Tab „Für dich“ zu meiden\r\n\r\nZum Blog: Caschys Blog",
+          "link": "https://stadt-bremerhaven.de/twitter-vereinfacht-es-den-tab-fuer-dich-zu-meiden/",
+          "publishedOn": "2023-01-25T12:00:57.000Z",
+          "wordCount": 2161,
+          "title": "Twitter vereinfacht es, den Tab „Für dich“ zu meiden",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/05/Twitter-logo-2022.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1159333",
+          "author": "caschy",
+          "description": "Als Vorwerk damals das US-Unternehmen Neato gekauft hat, dachte ich, dass das Unternehmen bei Saugrobotern richtig Schub gibt. Mittlerweile habe ich die Hoffnung da aufgegeben – in die Bresche sind andere Unternehmen gesprungen. Für den betagten VR300 aus dem Jahre...\nZum Beitrag: Vorwerk Kobold VR300: Version 4.6.4 für bessere WLAN-Stabilität\r\n\r\nZum Blog: Caschys Blog",
+          "link": "https://stadt-bremerhaven.de/vorwerk-kobold-vr300-version-4-6-4-fuer-bessere-wlan-stabilitaet/",
+          "publishedOn": "2023-01-25T11:45:06.000Z",
+          "wordCount": 2049,
+          "title": "Vorwerk Kobold VR300: Version 4.6.4 für bessere WLAN-Stabilität",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2019/11/vorwerk-logo.jpg"
+        },
+        {
           "id": "https://stadt-bremerhaven.de/?p=1159206",
           "author": "Felix Frank",
           "description": "Es könnte vom Timing glatt ein Marketing-Coup für die aktuelle Staffel der Reality-Show „Dschungelcamp“ sein. Über die ab dem 24. Januar 2023 neu zugelassenen Lebensmittel in der EU berichten aber nicht gar B-Promis aus dem Dschungel, sondern unter anderem die...\nZum Beitrag: Superfood: Neue Insekten als Lebensmittel zugelassen\r\n\r\nZum Blog: Caschys Blog",
@@ -4854,131 +5054,6 @@
           "wordCount": 1565,
           "title": "iPad mini: Neues Modell soll noch auf sich warten lassen",
           "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2021/10/iPad-mini-2021-4_.webp"
-        },
-        {
-          "id": "https://stadt-bremerhaven.de/?p=1154851",
-          "author": "André Westphal",
-          "description": "nubia hat wie erwartet das neue Gaming-Smartphone Red Magic 8 Pro vorgestellt. Zeitgleich kommt auch eine Variante namens Red Magic 8 Pro+ auf den Markt. Da gibt es wichtige Unterschiede bei Akku und Schnellladung. Während das Pro 6.000 mAh Akkukapazität...\nZum Beitrag: Red Magic 8 Pro: Gaming-Smartphone offiziell vorgestellt\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
-          "link": "https://stadt-bremerhaven.de/red-magic-8-pro-gaming-smartphone-offiziell-vorgestellt/",
-          "publishedOn": "2022-12-27T13:30:58.000Z",
-          "wordCount": 1940,
-          "title": "Red Magic 8 Pro: Gaming-Smartphone offiziell vorgestellt",
-          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/12/Red-Magic-8-Pro.jpeg"
-        },
-        {
-          "id": "https://stadt-bremerhaven.de/?p=1154886",
-          "author": "caschy",
-          "description": "Unsere regelmäßigen Leser kennen es sicherlich, andere seien kurz ins Boot geholt, was OpenRA ist. OpenRA ist ein freies, quelloffenes Echtzeit-Strategiespiel, das auf der OpenRA-Engine basiert. Es ist eine Neuinterpretation der klassischen Westwood Studios-Spiele Command & Conquer, Red Alert und...\nZum Beitrag: OpenRA: Playtest für die nächste Finalversion veröffentlicht\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
-          "link": "https://stadt-bremerhaven.de/openra-playtest-fuer-die-naechste-finalversion-veroeffentlicht/",
-          "publishedOn": "2022-12-27T13:00:25.000Z",
-          "wordCount": 1959,
-          "title": "OpenRA: Playtest für die nächste Finalversion veröffentlicht",
-          "enclosure": {
-            "url": "https://www.openra.net/videos/red-alert-sizzle.webm",
-            "length": "373410",
-            "type": "video/webm"
-          },
-          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/12/open-ra_.jpg"
-        },
-        {
-          "id": "https://stadt-bremerhaven.de/?p=1154873",
-          "author": "caschy",
-          "description": "Sollte ihr mal eine Webseite als PDF speichern wollen, so könnt ihr dies nun auch wieder direkt mit dem Browser Firefox auf der Android-Plattform machen. Die Funktion gab es früher schon, sie wurde dann aber aus dem direkten Teilen-Menü entfernt....\nZum Beitrag: Firefox für Android: Webseite als PDF speichern\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
-          "link": "https://stadt-bremerhaven.de/firefox-fuer-android-webseite-als-pdf-speichern/",
-          "publishedOn": "2022-12-27T12:30:42.000Z",
-          "wordCount": 1880,
-          "title": "Firefox für Android: Webseite als PDF speichern",
-          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2021/11/Firefox-1_.jpg"
-        },
-        {
-          "id": "https://stadt-bremerhaven.de/?p=1154869",
-          "author": "André Westphal",
-          "description": "Honor bringt mit dem Honor Pad V8 Pro ein Tablet mit einigen Besonderheiten auf den Markt. Zunächst wäre da das LC-Display mit 12,1 Zoll Diagonale, 2.560 x 1.600 Pixeln, 100 % Abdeckung des DCI-P3-Farbraums und 144 Hz Bildwiederholrate zu nennen....\nZum Beitrag: Honor Pad V8 Pro: Tablet mit 144 Hz Bildwiederholrate\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
-          "link": "https://stadt-bremerhaven.de/honor-pad-v8-pro-tablet-mit-144-hz-bildwiederholrate/",
-          "publishedOn": "2022-12-27T12:00:40.000Z",
-          "wordCount": 1775,
-          "title": "Honor Pad V8 Pro: Tablet mit 144 Hz Bildwiederholrate",
-          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/12/honor-pad-v8-pro.jpg"
-        },
-        {
-          "id": "https://stadt-bremerhaven.de/?p=1154897",
-          "author": "caschy",
-          "description": "Amazon Prime Video ist ein Online-Video-Streaming-Dienst, der von Amazon angeboten wird. Der Dienst ist Teil des Amazon Prime-Abos, das Kunden Zugang zu verschiedenen Vorteilen wie inkludiertem Versand, mittlerweile stark beschnittenes Musik-Streaming und mehr bietet. Mit Amazon Prime Video können Nutzer...\nZum Beitrag: Freevee: Das gibt es im Januar 2023 zu sehen\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
-          "link": "https://stadt-bremerhaven.de/freevee-das-gibt-es-im-januar-2023-zu-sehen/",
-          "publishedOn": "2022-12-27T11:30:16.000Z",
-          "wordCount": 1936,
-          "title": "Freevee: Das gibt es im Januar 2023 zu sehen",
-          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/12/freevee_.jpg"
-        },
-        {
-          "id": "https://stadt-bremerhaven.de/?p=1154876",
-          "author": "caschy",
-          "description": "Seit Anfang des Monats kann man mit Threema unter iOS die Multi-Device-Unterstützung testen. Nun gibt es auch die Version 4.9 von Threema für iOS im App Store, die einige Neuerungen mitbringt. Nachrichten lassen sich jetzt neu  mit «Perfect Forward Secrecy»...\nZum Beitrag: Threema: Perfect Forward Secrecy für Nachrichten nun auch in iOS\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
-          "link": "https://stadt-bremerhaven.de/threema-perfect-forward-secrecy-fuer-nachrichten-nun-auch-in-ios/",
-          "publishedOn": "2022-12-27T11:00:24.000Z",
-          "wordCount": 2079,
-          "title": "Threema: Perfect Forward Secrecy für Nachrichten nun auch in iOS",
-          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2021/04/Threema.png"
-        },
-        {
-          "id": "https://stadt-bremerhaven.de/?p=1154858",
-          "author": "André Westphal",
-          "description": "Honor hat mit dem neuen Smartphone 80 GT mal wieder ein neues, mobiles Endgerät ins Rennen geschickt. Als Herzstück dient in diesem Fall der Qualcomm Snapdragon 8+ Gen 1. An Bord ist zudem ein OLED-Display mit 2.400 x 1.080 Pixeln...\nZum Beitrag: Honor 80 GT: Smartphone mit dem Qualcomm Snapdragon 8+ Gen 1\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
-          "link": "https://stadt-bremerhaven.de/honor-80-gt-smartphone-mit-dem-qualcomm-snapdragon-8-gen-1/",
-          "publishedOn": "2022-12-27T10:30:55.000Z",
-          "wordCount": 1693,
-          "title": "Honor 80 GT: Smartphone mit dem Qualcomm Snapdragon 8+ Gen 1",
-          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/12/honor-80-gt-img7.jpg"
-        },
-        {
-          "id": "https://stadt-bremerhaven.de/?p=1154843",
-          "author": "caschy",
-          "description": "Synology Active Backup ist eine Software von Synology, die es ermöglicht, Daten von verschiedenen Quellen zu sichern und zu schützen. Mit Active Backup for Business können Nutzer Daten von Servern, Desktops und Notebooks sichern und auf einem Synology NAS (Network...\nZum Beitrag: Synology Active Backup for Business unterstützt nun macOS\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
-          "link": "https://stadt-bremerhaven.de/synology-active-backup-for-business-unterstuetzt-nun-macos/",
-          "publishedOn": "2022-12-27T10:00:04.000Z",
-          "wordCount": 2549,
-          "title": "Synology Active Backup for Business unterstützt nun macOS",
-          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/12/Synology-DS1520_.jpg"
-        },
-        {
-          "id": "https://stadt-bremerhaven.de/?p=1154864",
-          "author": "André Westphal",
-          "description": "Der Chaos Computer Club (CCC) hat aus Afghanistan Geräte erhalten und analysiert, die dort vom US-Militär beim hastigen Abzug der NATO-Truppen zurückgelassen worden sind. Die Geräte enthalten kaum abgesicherte, aber brisante Daten: Es handelt sich um biometrische und weitere personenbezogene...\nZum Beitrag: Chaos Computer Club analysiert in Afghanistan zurückgelassene Biometrie-Datenbank des US-Militärs\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
-          "link": "https://stadt-bremerhaven.de/chaos-computer-club-analysiert-in-afghanistan-zurueckgelassene-biometrie-datenbank-des-us-militaers/",
-          "publishedOn": "2022-12-27T09:30:09.000Z",
-          "wordCount": 2120,
-          "title": "Chaos Computer Club analysiert in Afghanistan zurückgelassene Biometrie-Datenbank des US-Militärs",
-          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/12/us-military.jpg"
-        },
-        {
-          "id": "https://stadt-bremerhaven.de/?p=1154839",
-          "author": "caschy",
-          "description": "Google Kontakte ist eine Android-App, die es Nutzern ermöglicht, ihre Kontaktinformationen zu verwalten und zu organisieren. Sie enthält verschiedene Funktionen, die es ermöglichen, Kontakte zu speichern, zu bearbeiten und zu teilen. Neulich erst hat Google neue Icons eingeführt, nun geht...\nZum Beitrag: Google Kontakte mit neuem Highlights-Tab\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
-          "link": "https://stadt-bremerhaven.de/google-kontakte-mit-neuem-highlights-tab/",
-          "publishedOn": "2022-12-27T09:00:59.000Z",
-          "wordCount": 1824,
-          "title": "Google Kontakte mit neuem Highlights-Tab",
-          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2018/08/Google-Kontakte-Contacts-Logo.jpg"
-        },
-        {
-          "id": "https://stadt-bremerhaven.de/?p=1154803",
-          "author": "caschy",
-          "description": "Erkunde auf einer Karte im Metroidvania-Stil mehr als ein Dutzend Bereiche. Faust, Bohrer und Peitsche sind drei Waffen mit völlig unterschiedlichen Kampfstilen, die einen nahtlosen Wechsel zwischen hoher Kombo, hohem Schaden und Angriffen mit großer Reichweite bieten. Bestehe Kämpfe in...\nZum Beitrag: Kostenlos: F.I.S.T.: Forged In Shadow Torch\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
-          "link": "https://stadt-bremerhaven.de/kostenlos-f-i-s-t-forged-in-shadow-torch/",
-          "publishedOn": "2022-12-26T16:30:38.000Z",
-          "wordCount": 1604,
-          "title": "Kostenlos: F.I.S.T.: Forged In Shadow Torch",
-          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/12/torch_.jpg"
-        },
-        {
-          "id": "https://stadt-bremerhaven.de/?p=1143882",
-          "author": "Felix Frank",
-          "description": "Die EU bietet EU-Bürgern ein neues EU-Notfallreisedokument. Im Verlustfall des Passes während einer Auslandsreise sei es so sicher möglich, wieder nach Hause zurückzukehren. Hierzu ist es möglich, die Botschaft oder das Konsulat eines anderen EU-Mitgliedsstaates zu konsultieren. Reisepass im Ausland...\nZum Beitrag: EU-Notfallreisedokument: Bei Verlust des Passes helfen auch andere EU-Länder aus\r\n\r\nZum Blog: Caschys Blog\r\n\r\n\r\nDer ungekürzte RSS-Feed wird präsentiert von:",
-          "link": "https://stadt-bremerhaven.de/eu-notfallreisedokument-bei-verlust-des-passes-helfen-auch-andere-eu-laender-aus/",
-          "publishedOn": "2022-12-26T15:00:36.000Z",
-          "wordCount": 2210,
-          "title": "EU-Notfallreisedokument: Bei Verlust des Passes helfen auch andere EU-Länder aus",
-          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/12/SCR-20221219-ox8.jpeg"
         }
       ]
     },
@@ -4987,6 +5062,106 @@
       "feedUrl": "https://www.computerbase.de/rss/news.xml",
       "siteUrl": "https://www.computerbase.de/",
       "articles": [
+        {
+          "id": "https://www.computerbase.de/2023-01/goldeneye-007-xbox-switch-release-27-januar/",
+          "author": null,
+          "description": "<img src=\"https://pics.computerbase.de/1/0/6/5/7/7-84b71a0ee69aaf8d/article-640x360.c744956c.jpg\"><p>Das von Rare – vormals Rareware – für das seinerseits wegweisende Nintendo 64 entwickelte GoldenEye 007 aus dem Jahr 1997 gilt gemeinhin als einer der Meilensteine der Videospielgeschichte. Bis dato scheiterten Neuauflagen an rechtlichen Problemen, jetzt erscheint der N64-Klassiker am 27. Januar für Xbox und Switch Online.</p>",
+          "link": "https://www.computerbase.de/2023-01/goldeneye-007-xbox-switch-release-27-januar/",
+          "publishedOn": "2023-01-25T18:26:00.000Z",
+          "wordCount": 1234,
+          "title": "GoldenEye 007: Am 27. Januar spioniert James Bond auf Xbox und Switch",
+          "imageUrl": "https://pics.computerbase.de/1/0/6/5/7/7-84b71a0ee69aaf8d/article-1280x720.c744956c.jpg"
+        },
+        {
+          "id": "https://www.computerbase.de/2023-01/macbook-pro-2023-ssd-der-basisversion-erneut-langsamer-als-beim-vorgaenger/",
+          "author": null,
+          "description": "<img src=\"https://pics.computerbase.de/1/0/6/5/7/4-f31ef5ef145c611e/article-640x360.b3f79eba.jpg\"><p>Wie schon bei anderen MacBook-Modellen von Apple gibt es auch beim neuen MacBook Pro (2023) mit M2-Chip einen Rückschritt bei der SSD-Leistung im Vergleich zum Vorgänger. Die Website 9to5mac hat festgestellt, dass die Leistung der 512-GB-SSD lesend wie schreibend niedriger als beim MacBook Pro mit M1-Chip ausfällt.</p>",
+          "link": "https://www.computerbase.de/2023-01/macbook-pro-2023-ssd-der-basisversion-erneut-langsamer-als-beim-vorgaenger/",
+          "publishedOn": "2023-01-25T16:24:00.000Z",
+          "wordCount": 860,
+          "title": "MacBook Pro (2023): SSD der Basisversion erneut langsamer als beim Vorgänger",
+          "imageUrl": "https://pics.computerbase.de/1/0/6/5/7/4-f31ef5ef145c611e/article-1280x720.b3f79eba.jpg"
+        },
+        {
+          "id": "https://www.computerbase.de/2023-01/warhammer-40k-darktide-nachbessern-statt-neuer-inhalte-und-xbox-portierung/",
+          "author": null,
+          "description": "<img src=\"https://pics.computerbase.de/1/0/6/5/7/3-b1b500356e01232a/article-640x360.441efa62.jpg\"><p>Fatshark zieht die Notbremse für Warhammer 40K: Darktide. Man habe die eigenen Erwartungen nicht erfüllt, nun soll zunächst nachgebessert werden. Die Portierung des Shooters auf die Xbox Series X|S sowie die Veröffentlichung weiterer Inhalte werden zunächst auf Eis gelegt.</p>",
+          "link": "https://www.computerbase.de/2023-01/warhammer-40k-darktide-nachbessern-statt-neuer-inhalte-und-xbox-portierung/",
+          "publishedOn": "2023-01-25T13:20:00.000Z",
+          "wordCount": 1027,
+          "title": "Warhammer 40K: Darktide: Nachbessern statt neuer Inhalte und Xbox-Portierung",
+          "imageUrl": "https://pics.computerbase.de/1/0/6/5/7/3-b1b500356e01232a/article-1280x720.441efa62.jpg"
+        },
+        {
+          "id": "https://www.computerbase.de/2023-01/lpddr5t-sk-hynix-zuendet-den-low-power-dram-turbo/",
+          "author": null,
+          "description": "<img src=\"https://pics.computerbase.de/1/0/6/5/7/2-0544b67070d327b8/article-640x360.b2630c9a.jpg\"><p>Auf X folgt T. SK Hynix beschleunigt den LPDDR5-Speicher auf 9.600 MT/s und nennt diesen nicht mehr LPDDR5X, sondern LPDDR5T. Das „T“ steht dabei für Turbo. Gegenüber LPDDR5X mit bis zu 8.533 MT/s steigt der Durchsatz um 13 Prozent.</p>",
+          "link": "https://www.computerbase.de/2023-01/lpddr5t-sk-hynix-zuendet-den-low-power-dram-turbo/",
+          "publishedOn": "2023-01-25T11:22:00.000Z",
+          "wordCount": 834,
+          "title": "LPDDR5T: SK Hynix zündet den Low-Power-DRAM-Turbo",
+          "imageUrl": "https://pics.computerbase.de/1/0/6/5/7/2-0544b67070d327b8/article-1280x720.b2630c9a.jpg"
+        },
+        {
+          "id": "https://www.computerbase.de/2023-01/microsoft-azure-microsoft-365-serverprobleme/",
+          "author": null,
+          "description": "<img src=\"https://pics.computerbase.de/1/0/6/5/7/0-22b8dcdacd022a41/article-640x360.c1e960db.jpg\"><p>Wie Microsoft offiziell bestätigt hat, legen Netzwerkfehler aktuell die Azure-Cloud und damit weltweit zahlreiche Dienste wie beispielsweise Microsoft 365, Microsoft Teams und Microsoft Exchange lahm. Betroffen sind demnach aktuell alle Regionen, auch wenn manche Dienste hin und wieder kurz ein Lebenszeichen von sich geben.</p>",
+          "link": "https://www.computerbase.de/2023-01/microsoft-azure-microsoft-365-serverprobleme/",
+          "publishedOn": "2023-01-25T09:43:00.000Z",
+          "wordCount": 1124,
+          "title": "Microsoft Azure: Netzwerkfehler legt weltweit zahlreiche Dienste lahm (Update)",
+          "imageUrl": "https://pics.computerbase.de/1/0/6/5/7/0-22b8dcdacd022a41/article-1280x720.c1e960db.jpg"
+        },
+        {
+          "id": "https://www.computerbase.de/2023-01/wine-8-0-dxvk-2-1-linux-gaming/",
+          "author": null,
+          "description": "<img src=\"https://pics.computerbase.de/1/0/6/5/6/7-8b5b7d37be4e9a21/article-640x360.c4add4d5.jpg\"><p>Die Windows-kompatible Laufzeitumgebung Wine in der Version 8.0 und der freie DirectX-zu-Vulkan-Übersetzer DXVK in der Version 2.1 werden das Spielen unter Linux weiter voranbringen und sind jetzt beide offiziell in finaler Form veröffentlicht worden.</p>",
+          "link": "https://www.computerbase.de/2023-01/wine-8-0-dxvk-2-1-linux-gaming/",
+          "publishedOn": "2023-01-25T09:30:00.000Z",
+          "wordCount": 1552,
+          "title": "Spielen unter Linux: Wine 8.0 und DXVK 2.1 sind jetzt offiziell erschienen (Update)",
+          "imageUrl": "https://pics.computerbase.de/1/0/6/5/6/7-8b5b7d37be4e9a21/article-1280x720.c4add4d5.jpg"
+        },
+        {
+          "id": "https://www.computerbase.de/2023-01/cb-funk-e4s23-to-rebrand-or-not-to-rebrand-das-ist-hier-die-frage/",
+          "author": null,
+          "description": "<img src=\"https://pics.computerbase.de/1/0/6/5/5/7-19e368581c350f98/article-640x360.b51638de.jpg\"><p>In der 4. Episode CB-Funk des Jahres 2023 machen Jan und Fabian den Sack bei den defekten RDNA-2-GPUs zu und widmen sich dem Thema „Rebranding“ am Beispiel von Core i5-13400F und Ryzen 7000 Mobile. Weitere Themen: Der Core i9-13900KS sowie aktuelle Kuriositäten aus der Hardware-Welt und der Community.</p>",
+          "link": "https://www.computerbase.de/2023-01/cb-funk-e4s23-to-rebrand-or-not-to-rebrand-das-ist-hier-die-frage/",
+          "publishedOn": "2023-01-25T09:30:00.000Z",
+          "wordCount": 929,
+          "title": "CB-Funk-Podcast E4S23: Wie legitim ist alte Hardware mit neuem Namen? [Notiz]",
+          "imageUrl": "https://pics.computerbase.de/1/0/6/5/5/7-19e368581c350f98/article-1280x720.b51638de.jpg"
+        },
+        {
+          "id": "https://www.computerbase.de/2023-01/jahresabschluss-asmls-backlog-waechst-auf-ueber-40-milliarden-euro/",
+          "author": null,
+          "description": "<img src=\"https://pics.computerbase.de/1/0/6/5/6/8-515ae18b0a3f2339/article-640x360.0810b224.jpg\"><p>„Never seen that before“ wird ASML-CEO Peter Wennick zitiert, wenn es um dem Backlog des Unternehmens geht, der erstmals auf über 40 Milliarden Euro angewachsen ist. ASMLs Erfolg hält weiter an, die großen fünf Halbleiterhersteller bestellen nicht nur EUV-Systeme, sondern auch den High-NA-Nachfolger.</p>",
+          "link": "https://www.computerbase.de/2023-01/jahresabschluss-asmls-backlog-waechst-auf-ueber-40-milliarden-euro/",
+          "publishedOn": "2023-01-25T08:35:00.000Z",
+          "wordCount": 989,
+          "title": "Jahresabschluss: ASMLs Backlog wächst auf über 40 Milliarden Euro",
+          "imageUrl": "https://pics.computerbase.de/1/0/6/5/6/8-515ae18b0a3f2339/article-1280x720.0810b224.jpg"
+        },
+        {
+          "id": "https://www.computerbase.de/2023-01/8pack-asteroid-mk2-intel-core-i9-13900ks-nvidia-geforce-rtx-4090/",
+          "author": null,
+          "description": "<img src=\"https://pics.computerbase.de/1/0/6/5/6/5-ff47d3e1294987b7/article-640x360.0610713f.jpg\"><p>Caseking präsentiert mit dem 8Pack Asteroid MK2 ein neues Komplettsystem aus der Serie 8Pack Systems seines englischen Partnerunternehmens Overclockers UK, welches mit einem Intel Core i9-13900KS und einer Nvidia GeForce RTX 4090 im Mini-ITX-Case mit Custom-Loop-Wasserkühlung für 12.399,90 Euro an Enthusiasten adressiert ist.</p>",
+          "link": "https://www.computerbase.de/2023-01/8pack-asteroid-mk2-intel-core-i9-13900ks-nvidia-geforce-rtx-4090/",
+          "publishedOn": "2023-01-25T07:30:00.000Z",
+          "wordCount": 992,
+          "title": "8Pack Asteroid MK2: 13900KS und RTX 4090 im Custom-Loop für 12.400 Euro",
+          "imageUrl": "https://pics.computerbase.de/1/0/6/5/6/5-ff47d3e1294987b7/article-1280x720.0610713f.jpg"
+        },
+        {
+          "id": "https://www.computerbase.de/2023-01/amd-adrenalin-23-1-2-radeon-rx-7900-xtx-xt/",
+          "author": null,
+          "description": "<img src=\"https://pics.computerbase.de/1/0/6/5/6/2-372e30056862c948/article-640x360.b969bff3.jpg\"><p>AMD veröffentlicht mit dem Adrenalin 23.1.2 den vierten exklusiven Grafiktreiber für die RDNA-3-Grafikkarten Radeon RX 7900 XTX und Radeon RX 7900 XT (Test) nachdem auch bereits der Adrenalin 23.1.1, Adrenalin 22.12.2 und Adrenalin 22.12.1 ausschließlich für Grafikprozessoren der neuesten Navi-31-Generation ausgelegt waren.</p>",
+          "link": "https://www.computerbase.de/2023-01/amd-adrenalin-23-1-2-radeon-rx-7900-xtx-xt/",
+          "publishedOn": "2023-01-25T06:43:00.000Z",
+          "wordCount": 1133,
+          "title": "AMD Radeon RX 7900 XTX und XT: RDNA 3 erhält einen vierten exklusiven Grafiktreiber",
+          "imageUrl": "https://pics.computerbase.de/1/0/6/5/6/2-372e30056862c948/article-1280x720.b969bff3.jpg"
+        },
         {
           "id": "https://www.computerbase.de/2023-01/game-bundle-amd-legt-ryzen-7000-das-spiel-star-wars-jedi-survivor-dazu/",
           "author": null,
@@ -7796,66 +7971,6 @@
           "wordCount": 1170,
           "title": "Radeon RX 7900 XTX: AMD Navi 31 auf einem 5800X3D im ausführlichen Lesertest",
           "imageUrl": "https://pics.computerbase.de/1/0/6/2/5/0-98c12f4953833b95/article-1280x720.855cbe2f.jpg"
-        },
-        {
-          "id": "https://www.computerbase.de/2022-12/tibber-pulse-test-stromverbrauch-zaehler/",
-          "author": null,
-          "description": "<img src=\"https://pics.computerbase.de/1/0/6/1/3/6-33f8fe68dff9fd22/article-640x360.57b86023.jpg\"><p>Ein gewissenhafter Umgang mit Energie ist das Gebot der Stunde. Das kann auch mit einem Verständnis des eigenen Energieverbrauchs beginnen. ComputerBase testet deshalb den Strom-Tracker Tibber Pulse und einen Eigenbau aus Raspberry Pi und IR-Lesekopf für Home Assistant. Sie lesen den Stromverbrauch in Echtzeit vom Zähler aus.</p>",
-          "link": "https://www.computerbase.de/2022-12/tibber-pulse-test-stromverbrauch-zaehler/",
-          "publishedOn": "2022-12-27T13:00:00.000Z",
-          "wordCount": 9041,
-          "title": "Tibber Pulse und Pi-Eigenbau im Test: Energie sparen mit Echtzeit­daten vom Stromzähler",
-          "imageUrl": "https://pics.computerbase.de/1/0/6/1/3/6-33f8fe68dff9fd22/article-1280x720.57b86023.jpg"
-        },
-        {
-          "id": "https://www.computerbase.de/2022-12/geil-polaris-rgb-evo-v-ddr5-4800-8000/",
-          "author": null,
-          "description": "<img src=\"https://pics.computerbase.de/1/0/6/2/4/7-8fba7aff2b539dee/article-640x360.f76474e6.jpg\"><p>Die RAM-Kits der Serien GeIL Polaris RGB und EVO V RGB sind mit bis zu 64 GB DDR5-8000 erhältlich und werden mit zwei in die Wärmeleitbleche (Heatspreader) integrierten Mini-Lüftern teils aktiv gekühlt. Hinzu kommen RGB-Beleuchtungsoptionen und mehrere Farbvarianten sowie eine DYNA5-Zertifizierung der Module.</p>",
-          "link": "https://www.computerbase.de/2022-12/geil-polaris-rgb-evo-v-ddr5-4800-8000/",
-          "publishedOn": "2022-12-27T11:59:00.000Z",
-          "wordCount": 1220,
-          "title": "Polaris RGB und EVO V: GeILs DDR5-8000CL38 setzt auf winzige Lüfter zur Kühlung",
-          "imageUrl": "https://pics.computerbase.de/1/0/6/2/4/7-8fba7aff2b539dee/article-1280x720.f76474e6.jpg"
-        },
-        {
-          "id": "https://www.computerbase.de/2022-12/produktionsstart-tsmc-startet-am-29-dezember-die-n3-fertigungslinien/",
-          "author": null,
-          "description": "<img src=\"https://pics.computerbase.de/1/0/6/2/4/9-7e19d6a34b2c47ae/article-640x360.f45ae1be.jpg\"><p>Den Gerüchten zum Trotz wird TSMC medienwirksam noch in diesem Jahr die N3-Produktion starten – am 29. Dezember 2022. Mit dem Auftritt reiht sich TSMC direkt hinter Samsung ein, denn genau so eine Veranstaltung haben die Südkoreaner am 30.06.2022 abgehalten, um erklären zu können, noch im ersten Halbjahr 2022 gestartet zu sein.</p>",
-          "link": "https://www.computerbase.de/2022-12/produktionsstart-tsmc-startet-am-29-dezember-die-n3-fertigungslinien/",
-          "publishedOn": "2022-12-27T10:01:00.000Z",
-          "wordCount": 931,
-          "title": "Produktionsstart: TSMC startet am 29. Dezember die N3-Fertigungslinien",
-          "imageUrl": "https://pics.computerbase.de/1/0/6/2/4/9-7e19d6a34b2c47ae/article-1280x720.f45ae1be.jpg"
-        },
-        {
-          "id": "https://www.computerbase.de/2022-12/mit-ad103-statt-ad102-nvidia-soll-die-geforce-rtx-4090-ins-notebook-bringen/",
-          "author": null,
-          "description": "<img src=\"https://pics.computerbase.de/1/0/6/2/4/8-a6ccc586ca2526d7/article-640x360.7fc81301.jpg\"><p>Nvidia wird zur CES 2023 Anfang Januar aller Voraussicht nach Ada-Lovelace-Grafikkarten für Notebooks präsentieren. Wie die Vorgänger-Generation sollen die neuen GeForce RTX 4000 Laptop GPUs auf den Einsatz der größten GPU (in diesem Jahr AD102) verzichten, nichtsdestoweniger soll es die RTX 4090 im Gaming-Notebook geben.</p>",
-          "link": "https://www.computerbase.de/2022-12/mit-ad103-statt-ad102-nvidia-soll-die-geforce-rtx-4090-ins-notebook-bringen/",
-          "publishedOn": "2022-12-27T09:24:00.000Z",
-          "wordCount": 1046,
-          "title": "Mit AD103 statt AD102: Nvidia soll die „GeForce RTX 4090“ ins Notebook bringen",
-          "imageUrl": "https://pics.computerbase.de/1/0/6/2/4/8-a6ccc586ca2526d7/article-1280x720.7fc81301.jpg"
-        },
-        {
-          "id": "https://www.computerbase.de/2022-12/the-legend-of-zelda-ocarina-of-time-remake-unreal-engine-5/",
-          "author": null,
-          "description": "<img src=\"https://pics.computerbase.de/1/0/6/2/4/5-78b0922808d4d7db/article-640x360.96d0f7fc.jpg\"><p>Fans der Serie arbeiten an einem Remake des 1998 von Nintendo veröffentlichten legendären Rollenspiels The Legend of Zelda: Ocarina of Time auf Basis der neuen Unreal Engine 5, welches jetzt als Weihnachtsgeschenk in einer Vorschau erschienen und erstmals spielbar ist. Die inoffizielle Neuauflage macht von „Lumen“ Gebrauch.</p>",
-          "link": "https://www.computerbase.de/2022-12/the-legend-of-zelda-ocarina-of-time-remake-unreal-engine-5/",
-          "publishedOn": "2022-12-26T17:30:00.000Z",
-          "wordCount": 953,
-          "title": "Weihnachtsgeschenk: Zelda: Ocarina of Time auf Basis der Unreal Engine 5.1",
-          "imageUrl": "https://pics.computerbase.de/1/0/6/2/4/5-78b0922808d4d7db/article-1280x720.96d0f7fc.jpg"
-        },
-        {
-          "id": "https://www.computerbase.de/2022-12/linux-6-2-release-candidate-linux-torvalds/",
-          "author": null,
-          "description": "<img src=\"https://pics.computerbase.de/1/0/6/2/4/4-92cdbbf786675d1f/article-640x360.6b921cf0.jpg\"><p>Initiator und Chef-Entwickler Linus Torvalds hat den ersten Release Candidate des kommenden Systemkernels Linux 6.2 für jedermann zum Testen freigegeben, der unter anderem eine verbesserte Unterstützung für Intel Arc („Alchemist“), AMD Zen 4, das für Flash-Speicher entwickelte Dateisystem exFAT sowie Apple M1 und M2 bereithält.</p>",
-          "link": "https://www.computerbase.de/2022-12/linux-6-2-release-candidate-linux-torvalds/",
-          "publishedOn": "2022-12-26T17:00:00.000Z",
-          "wordCount": 983,
-          "title": "Linux 6.2-RC1: Linus Torvalds hat den Release Candidate freigegeben",
-          "imageUrl": "https://pics.computerbase.de/1/0/6/2/4/4-92cdbbf786675d1f/article-1280x720.6b921cf0.jpg"
         }
       ]
     },
@@ -8757,10 +8872,250 @@
       ]
     },
     {
-      "title": "Deutschlandfunk - Fortlaufende Nachrichten vom 25. Januar 2023",
+      "title": "Deutschlandfunk - Fortlaufende Nachrichten vom 26. Januar 2023",
       "feedUrl": "https://www.deutschlandfunk.de/nachrichten-100.rss",
-      "siteUrl": "https://www.deutschlandfunk.de/nachrichten-index-26758.html",
+      "siteUrl": "https://www.deutschlandfunk.de/nachrichten-index-26770.html",
       "articles": [
+        {
+          "id": "aerzte-ohne-grenzen-retten-mehr-als-230-migranten-im-mittelmeer-100",
+          "author": null,
+          "description": "Die Seenotretter von Ärzte ohne Grenzen haben innerhalb weniger Stunden mehr als 230 Migranten und Flüchtlinge von Schlauchbooten aus dem Mittelmeer gerettet.",
+          "link": "https://www.deutschlandfunk.de/aerzte-ohne-grenzen-retten-mehr-als-230-migranten-im-mittelmeer-100.html",
+          "publishedOn": "2023-01-26T01:15:35.000Z",
+          "wordCount": 739,
+          "title": "Seenotretter - Ärzte ohne Grenzen retten mehr als 230 Migranten im Mittelmeer",
+          "imageUrl": "https://assets.deutschlandfunk.de/FILE_e005d052f2c5b268e734bb750959c96b/1920x1080.jpg?t=1635497091240"
+        },
+        {
+          "id": "erste-warnstreikaktionen-in-oeffentlichem-dienst-erwartet-106",
+          "author": null,
+          "description": "Im Tarifkonflikt des öffentlichen Dienstes von Bund und Kommunen werden für heute erste Warnstreiks erwartet.",
+          "link": "https://www.deutschlandfunk.de/erste-warnstreikaktionen-in-oeffentlichem-dienst-erwartet-106.html",
+          "publishedOn": "2023-01-26T01:15:35.000Z",
+          "wordCount": 723,
+          "title": "Tarifkonflikt - Erste Warnstreikaktionen in öffentlichem Dienst erwartet",
+          "imageUrl": null
+        },
+        {
+          "id": "debatte-ueber-helmpflicht-und-promillegrenze-fuer-e-scooter-fahrer-114",
+          "author": null,
+          "description": "Im niedersächsischen Goslar wird heute der Deutsche Verkehrsgerichtstag fortgesetzt.",
+          "link": "https://www.deutschlandfunk.de/debatte-ueber-helmpflicht-und-promillegrenze-fuer-e-scooter-fahrer-114.html",
+          "publishedOn": "2023-01-26T01:15:35.000Z",
+          "wordCount": 787,
+          "title": "Verkehrsgerichtstag - Debatte über Helmpflicht und Promillegrenze für E-Scooter-Fahrer",
+          "imageUrl": "https://assets.deutschlandfunk.de/357938ec-1eb2-42f6-bae9-c37ac61c4a3f/1920x1080.jpg?t=1665063581581"
+        },
+        {
+          "id": "gewalt-in-notaufnahmen-nimmt-zu-100",
+          "author": null,
+          "description": "In Deutschland nimmt nach Angaben von Ärztevertretern und Kliniken die Aggressivität in Notaufnahmen gegenüber Rettungskräften zu.",
+          "link": "https://www.deutschlandfunk.de/gewalt-in-notaufnahmen-nimmt-zu-100.html",
+          "publishedOn": "2023-01-26T01:15:35.000Z",
+          "wordCount": 738,
+          "title": "Ärzte und Kliniken - Gewalt in Notaufnahmen nimmt zu",
+          "imageUrl": "https://assets.deutschlandfunk.de/FILE_985d2d395ed94836d99bfddb5c65e040/1920x1080.jpg?t=1602847888458"
+        },
+        {
+          "id": "usa-liefern-abrams-kampfpanzer-an-kiew-biden-lobt-deutschlands-rolle-112",
+          "author": null,
+          "description": "Die USA werden der Ukraine Kampfpanzer liefern. Präsident Biden sagte in Washington, es gehe um 31 Modelle vom Typ M1 Abrams. Die Vereinigten Staaten wollten so schnell wie möglich mit der dafür erforderlichen Ausbildung ukrainischer Soldaten beginnen.",
+          "link": "https://www.deutschlandfunk.de/usa-liefern-abrams-kampfpanzer-an-kiew-biden-lobt-deutschlands-rolle-112.html",
+          "publishedOn": "2023-01-26T01:15:35.000Z",
+          "wordCount": 799,
+          "title": "Ukraine-Krieg - USA liefern Abrams-Kampfpanzer an Kiew - Biden lobt Deutschlands Rolle",
+          "imageUrl": "https://assets.deutschlandfunk.de/aa5876fd-7def-4ace-af28-c054e6db9bd1/1920x1080.jpg?t=1674195706566"
+        },
+        {
+          "id": "krieg-gegen-die-ukraine-wird-leider-nicht-schnell-zu-ende-gehen-106",
+          "author": null,
+          "description": "Bundeskanzler Scholz erwartet einen eher langen Krieg in der Ukraine.",
+          "link": "https://www.deutschlandfunk.de/krieg-gegen-die-ukraine-wird-leider-nicht-schnell-zu-ende-gehen-106.html",
+          "publishedOn": "2023-01-26T01:15:35.000Z",
+          "wordCount": 735,
+          "title": "Bundeskanzler Scholz - Krieg gegen die Ukraine wird leider nicht schnell zu Ende gehen",
+          "imageUrl": "https://assets.deutschlandfunk.de/644bab34-e0e6-405a-ac4d-495050cf4203/1920x1080.jpg?t=1666115148822"
+        },
+        {
+          "id": "neuer-verteidigungsminister-pistorius-besucht-erstmals-truppe-100",
+          "author": null,
+          "description": "Bundesverteidigungsminister Pistorius besucht eine Woche nach seiner Ernennung heute erstmals Soldatinnen und Soldaten der Bundeswehr.",
+          "link": "https://www.deutschlandfunk.de/neuer-verteidigungsminister-pistorius-besucht-erstmals-truppe-100.html",
+          "publishedOn": "2023-01-26T01:15:35.000Z",
+          "wordCount": 749,
+          "title": "Sachsen-Anhalt - Neuer Verteidigungsminister Pistorius besucht erstmals Truppe",
+          "imageUrl": "https://assets.deutschlandfunk.de/e8e5a670-7f3b-4ca3-b9e1-3780fb380993/1920x1080.jpg?t=1674217703530"
+        },
+        {
+          "id": "russland-kritisiert-unesco-entscheidung-zu-odessa-als-politisch-motiviert-100",
+          "author": null,
+          "description": "Russland hat die Entscheidung der UNESCO kritisiert, die Altstadt der ukrainischen Hafenstadt Odessa zum gefährdeten Welterbe zu erklären.",
+          "link": "https://www.deutschlandfunk.de/russland-kritisiert-unesco-entscheidung-zu-odessa-als-politisch-motiviert-100.html",
+          "publishedOn": "2023-01-26T01:15:35.000Z",
+          "wordCount": 731,
+          "title": "Ukrainische Hafenstadt - Russland kritisiert UNESCO-Entscheidung zu Odessa als \"politisch motiviert\"",
+          "imageUrl": "https://assets.deutschlandfunk.de/7efa5e0d-9365-4576-94db-3e71d6a6e397/1920x1080.jpg?t=1674665359166"
+        },
+        {
+          "id": "it-experten-sehen-gravierende-maengel-bei-cybersicherheit-in-deutschland-108",
+          "author": null,
+          "description": "IT-Experten sehen gravierende Mängel bei Cybersicherheit in Deutschland.",
+          "link": "https://www.deutschlandfunk.de/it-experten-sehen-gravierende-maengel-bei-cybersicherheit-in-deutschland-108.html",
+          "publishedOn": "2023-01-26T01:15:35.000Z",
+          "wordCount": 714,
+          "title": "Bundestaganhörung - IT-Experten sehen gravierende Mängel bei Cybersicherheit in Deutschland",
+          "imageUrl": "https://assets.deutschlandfunk.de/FILE_4390110cdc23c4ac9bba09494fbd48c6/1920x1080.jpg?t=1635327278746"
+        },
+        {
+          "id": "facebook-mutter-meta-beendet-sperre-von-trump-100",
+          "author": null,
+          "description": "Der Facebook-Mutterkonzern Meta will die Konten des früheren US-Präsidenten Trump nach zweijähriger Sperre wieder freischalten.",
+          "link": "https://www.deutschlandfunk.de/facebook-mutter-meta-beendet-sperre-von-trump-100.html",
+          "publishedOn": "2023-01-26T01:15:35.000Z",
+          "wordCount": 719,
+          "title": "Früherer US-Präsident - Facebook-Mutter Meta beendet Sperre von Trump",
+          "imageUrl": "https://assets.deutschlandfunk.de/FILE_fac5ee5ebd7350e8a9da1e8cfdf7921f/1920x1080.jpg?t=1620385837910"
+        },
+        {
+          "id": "tote-und-verletzte-bei-messerattacke-in-zug-angreifer-erst-vor-kurzem-aus-der-haft-entlassen-108",
+          "author": null,
+          "description": "Bei einem Messerangriff in einem Regionalzug von Kiel nach Hamburg sind zwei Menschen getötet und sieben weitere verletzt worden. Bei dem mutmaßlichen Angreifer handele es sich laut Polizei um einen staatenlosen Palästinenser. Demnach wurde der 33-jährige von Zeugen bis zum Eintreffen der Beamten festgehalten.",
+          "link": "https://www.deutschlandfunk.de/tote-und-verletzte-bei-messerattacke-in-zug-angreifer-erst-vor-kurzem-aus-der-haft-entlassen-108.html",
+          "publishedOn": "2023-01-26T01:15:35.000Z",
+          "wordCount": 766,
+          "title": "Schleswig-Holstein - Tote und Verletzte bei Messerattacke in Zug - Angreifer erst vor Kurzem aus der Haft entlassen",
+          "imageUrl": "https://assets.deutschlandfunk.de/9f7f0f84-af67-4574-be42-855da3cb0bb0/1920x1080.jpg?t=1674671278639"
+        },
+        {
+          "id": "scharfe-kritik-aus-moskau-104",
+          "author": null,
+          "description": "Russland hat auf die deutschen Beschlüsse zu Kampfpanzer-Lieferungen mit harscher Kritik reagiert. Moskaus Botschaft in Berlin teilte mit, Deutschlands Entscheidung bedeute eine Abkehr von seiner historischen Verantwortung gegenüber Russland, die aus den Nazi-Verbrechen im Zweiten Weltkrieg erwachsen sei. Der neue Kurs eskaliere den Konflikt.",
+          "link": "https://www.deutschlandfunk.de/scharfe-kritik-aus-moskau-104.html",
+          "publishedOn": "2023-01-26T01:15:35.000Z",
+          "wordCount": 779,
+          "title": "Deutsche Kampfpanzer-Lieferungen - Scharfe Kritik aus Moskau",
+          "imageUrl": "https://assets.deutschlandfunk.de/38a7e99e-8572-45a2-8935-0231d66a1310/1920x1080.jpg?t=1639675411561"
+        },
+        {
+          "id": "was-macht-den-leopard-2-so-bedeutsam-fuer-die-ukraine-102",
+          "author": null,
+          "description": "Seit Monaten hofft die von Russland angegriffene Ukraine auf die Lieferung von Kampfpanzern des Typs Leopard 2 aus deutscher Produktion. Die Panzer könnten bei einer Gegenoffensive der Ukraine eine wichtige Rolle spielen. Was macht ihn militärisch so bedeutsam? Welche Probleme gibt es hingegen auch bei den geplanten Lieferungen?",
+          "link": "https://www.deutschlandfunk.de/was-macht-den-leopard-2-so-bedeutsam-fuer-die-ukraine-102.html",
+          "publishedOn": "2023-01-26T01:15:35.000Z",
+          "wordCount": 1359,
+          "title": "Kampfpanzer - Was macht den Leopard 2 so bedeutsam für die Ukraine?",
+          "imageUrl": "https://assets.deutschlandfunk.de/223cf74a-0faf-4270-9ea6-ccd0a5aea443/1920x1080.jpg?t=1674237068707"
+        },
+        {
+          "id": "bundestag-legt-erstmals-fokus-beim-holocaust-gedenken-auf-homosexuelle-opfer-im-nationalsozialismus-108",
+          "author": null,
+          "description": "Der Bundestag hat zum diesjährigen Holocaust-Gedenken erstmals den Fokus auf die Verfolgung sexueller Minderheiten durch das NS-Regime gelegt.",
+          "link": "https://www.deutschlandfunk.de/bundestag-legt-erstmals-fokus-beim-holocaust-gedenken-auf-homosexuelle-opfer-im-nationalsozialismus-108.html",
+          "publishedOn": "2023-01-26T01:15:35.000Z",
+          "wordCount": 773,
+          "title": "Queer - Bundestag legt erstmals Fokus beim Holocaust-Gedenken auf homosexuelle Opfer im Nationalsozialismus",
+          "imageUrl": "https://assets.deutschlandfunk.de/a3620984-50e0-4587-a9d6-f6114152f801/1920x1080.jpg?t=1674665353870"
+        },
+        {
+          "id": "mittelstand-viele-kleinere-betriebe-in-deutschland-sehen-sich-in-einer-verzweifelten-lage-106",
+          "author": null,
+          "description": "Der Bundesverband mittelständische Wirtschaft sieht viele kleinere Betriebe in Deutschland in einer verzweifelten Lage.",
+          "link": "https://www.deutschlandfunk.de/mittelstand-viele-kleinere-betriebe-in-deutschland-sehen-sich-in-einer-verzweifelten-lage-106.html",
+          "publishedOn": "2023-01-26T01:15:35.000Z",
+          "wordCount": 821,
+          "title": "Wirtschaft - Mittelstand: Viele kleinere Betriebe in Deutschland sehen sich in einer verzweifelten Lage",
+          "imageUrl": "https://assets.deutschlandfunk.de/ba86d9f0-d3f9-4525-abd4-7fa4ac3b2bec/1920x1080.jpg?t=1666611808480"
+        },
+        {
+          "id": "papst-franziskus-kritisiert-reformbemuehungen-der-katholischen-kirche-in-deutschland-102",
+          "author": null,
+          "description": "Papst Franziskus hat die Reformdebatte in der katholischen Kirche in Deutschland kritisiert.",
+          "link": "https://www.deutschlandfunk.de/papst-franziskus-kritisiert-reformbemuehungen-der-katholischen-kirche-in-deutschland-102.html",
+          "publishedOn": "2023-01-26T01:15:35.000Z",
+          "wordCount": 748,
+          "title": "Synodaler Weg - Papst Franziskus kritisiert Reformbemühungen der katholischen Kirche in Deutschland",
+          "imageUrl": "https://assets.deutschlandfunk.de/78764133-9e67-4e66-b554-b72f6d2ab9d8/1920x1080.jpg?t=1641041521192"
+        },
+        {
+          "id": "misstrauensvotum-gegen-griechische-regierung-im-abhoerskandal-androulakis-beantragt-106",
+          "author": null,
+          "description": "Im griechischen Skandal um die Abhörung des sozialistischen Politikers Androulakis hat die Opposition ein Misstrauensvotum gegen Ministerpräsident Mitsotakis beantragt.",
+          "link": "https://www.deutschlandfunk.de/misstrauensvotum-gegen-griechische-regierung-im-abhoerskandal-androulakis-beantragt-106.html",
+          "publishedOn": "2023-01-26T01:15:35.000Z",
+          "wordCount": 733,
+          "title": "Athen - Misstrauensvotum gegen griechische Regierung im Abhörskandal Androulakis beantragt",
+          "imageUrl": "https://assets.deutschlandfunk.de/9e25fa99-4df6-44d6-ab6d-597c676fd43c/1920x1080.jpg?t=1665401059673"
+        },
+        {
+          "id": "durchsuchung-bei-der-bnp-paribas-104",
+          "author": null,
+          "description": "Im Steuerskandal um Cum-Ex-Aktiengeschäfte haben Ermittler Büroräume der französischen Großbank BNP Paribas in Frankfurt am Main durchsucht.",
+          "link": "https://www.deutschlandfunk.de/durchsuchung-bei-der-bnp-paribas-104.html",
+          "publishedOn": "2023-01-26T01:15:35.000Z",
+          "wordCount": 683,
+          "title": "Cum-ex-Skandal - Durchsuchung bei der BNP Paribas",
+          "imageUrl": "https://assets.deutschlandfunk.de/677c96ce-1d53-40e3-87c3-6e948eb568c8/1920x1080.jpg?t=1674663120741"
+        },
+        {
+          "id": "frankreich-kuendigt-truppenabzug-an-110",
+          "author": null,
+          "description": "Frankreich hat angekündigt, seine Truppen innerhalb eines Monats aus Burkina Faso abzuziehen.",
+          "link": "https://www.deutschlandfunk.de/frankreich-kuendigt-truppenabzug-an-110.html",
+          "publishedOn": "2023-01-26T01:15:35.000Z",
+          "wordCount": 719,
+          "title": "Burkina Faso - Frankreich kündigt Truppenabzug an",
+          "imageUrl": "https://assets.deutschlandfunk.de/90bbb3e3-27d8-47ad-bc5b-72fd2791476c/1920x1080.jpg?t=1644713450983"
+        },
+        {
+          "id": "japan-sued-und-nordkorea-ringen-mit-wintereinbruch-104",
+          "author": null,
+          "description": "Ostasien wird von einer Kältewelle erfasst.",
+          "link": "https://www.deutschlandfunk.de/japan-sued-und-nordkorea-ringen-mit-wintereinbruch-104.html",
+          "publishedOn": "2023-01-26T01:15:35.000Z",
+          "wordCount": 683,
+          "title": "Kälte - Japan, Süd- und Nordkorea ringen mit Wintereinbruch",
+          "imageUrl": "https://assets.deutschlandfunk.de/ce2a1eeb-1143-49f1-bb0c-3cc94fd20127/1920x1080.jpg?t=1674666209070"
+        },
+        {
+          "id": "siege-fuer-dortmund-leverkusen-augsburg-und-union-104",
+          "author": null,
+          "description": "In der Fußball-Bundesliga hat es folgende Begegnungen gegeben:",
+          "link": "https://www.deutschlandfunk.de/siege-fuer-dortmund-leverkusen-augsburg-und-union-104.html",
+          "publishedOn": "2023-01-26T01:15:35.000Z",
+          "wordCount": 663,
+          "title": "Fußball-Bundesliga - Siege für Dortmund, Leverkusen, Augsburg und Union",
+          "imageUrl": "https://assets.deutschlandfunk.de/aad30caa-17a1-43d5-b795-d85d60df07e7/1920x1080.jpg?t=1674679012242"
+        },
+        {
+          "id": "deutsche-handballer-verpassen-halbfinale-niederlage-gegen-frankreich-106",
+          "author": null,
+          "description": "Die deutsche Handball-Nationalmannschaft hat das Halbfinale bei der Weltmeisterschaft in Polen und Schweden verpasst.",
+          "link": "https://www.deutschlandfunk.de/deutsche-handballer-verpassen-halbfinale-niederlage-gegen-frankreich-106.html",
+          "publishedOn": "2023-01-26T01:15:35.000Z",
+          "wordCount": 676,
+          "title": "Polen - Deutsche Handballer verpassen Halbfinale - Niederlage gegen Frankreich",
+          "imageUrl": "https://assets.deutschlandfunk.de/0c2c9e91-4eeb-4571-8ebb-c49b30d283ee/1920x1080.jpg?t=1674214294598"
+        },
+        {
+          "id": "6-11-12-20-25-104",
+          "author": null,
+          "description": "Die Lottozahlen: 6 - 11 - 12 - 20 - 25 - 37",
+          "link": "https://www.deutschlandfunk.de/6-11-12-20-25-104.html",
+          "publishedOn": "2023-01-26T01:15:35.000Z",
+          "wordCount": 675,
+          "title": "Lottozahlen - 6 - 11 - 12 - 20 - 25 - 37",
+          "imageUrl": "https://assets.deutschlandfunk.de/FILE_e005925befcb27849c1063f8cff9a58b/1920x1080.jpg?t=1597633847016"
+        },
+        {
+          "id": "am-donnerstag-bedeckt-im-suedosten-niederschlaege-120",
+          "author": null,
+          "description": "Das Wetter: Nachts vielfach bedeckt. Von Nordwesten aufkommende Niederschläge, gebietsweise Schnee. Lokal Unwetter. Tiefstwerte plus 2 bis minus 8 Grad. Am Tag meist bewölkt. Richtung Südosten ziehende Niederschläge, vor allem als Schnee. 0 bis 7 Grad.",
+          "link": "https://www.deutschlandfunk.de/am-donnerstag-bedeckt-im-suedosten-niederschlaege-120.html",
+          "publishedOn": "2023-01-26T01:15:35.000Z",
+          "wordCount": 678,
+          "title": "Wetter - Am Donnerstag bedeckt, im Südosten Niederschläge",
+          "imageUrl": "https://assets.deutschlandfunk.de/FILE_12985e6afe21a742e7e3b43226287c4b/1920x1080.jpg?t=1597494458209"
+        },
         {
           "id": "deutschland-womoeglich-nun-auch-selbst-zu-leopard-2-lieferungen-bereit-102",
           "author": null,
