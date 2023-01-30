@@ -2,10 +2,380 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://olivedrop.github.io/drop/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-29T01:42:39.346Z</updated>
+    <updated>2023-01-30T01:33:36.330Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://olivedrop.github.io/drop/index.html"/>
     <link rel="self" href="https://olivedrop.github.io/drop/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NATO-Beitritt - Erdogan erwägt Ja zu Finnland und Nein zu Schweden]]></title>
+        <id>erdogan-erwaegt-ja-zu-finnland-und-nein-zu-schweden-104</id>
+        <link href="https://www.deutschlandfunk.de/erdogan-erwaegt-ja-zu-finnland-und-nein-zu-schweden-104.html"/>
+        <updated>2023-01-29T23:51:14.000Z</updated>
+        <summary type="html"><![CDATA[Der türkische Präsident Erdogan hat erstmals öffentlich erwogen, Schweden und Finnland bei ihrem angestrebten NATO-Beitritt unterschiedlich zu bewerten. Das bedeutet, dass Finnland für den Eintritt in das Militärbündnis Zustimmung aus Ankara bekommen könnte - und Schweden nicht.]]></summary>
+        <author>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Harzkreis - Großflächiger Stromausfall]]></title>
+        <id>grossflaechiger-stromausfall-104</id>
+        <link href="https://www.deutschlandfunk.de/grossflaechiger-stromausfall-104.html"/>
+        <updated>2023-01-29T23:51:14.000Z</updated>
+        <summary type="html"><![CDATA[Ein technischer Defekt in einem Umspannwerk führt derzeit zu großflächigen Stromausfällen im Landkreis Harz.]]></summary>
+        <author>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Österreich - ÖVP verliert absolute Mehrheit bei Landtagswahl in Niederösterreich]]></title>
+        <id>oevp-verliert-absolute-mehrheit-bei-landtagswahl-in-niederoesterreich-110</id>
+        <link href="https://www.deutschlandfunk.de/oevp-verliert-absolute-mehrheit-bei-landtagswahl-in-niederoesterreich-110.html"/>
+        <updated>2023-01-29T23:51:14.000Z</updated>
+        <summary type="html"><![CDATA[In Österreich ist die rechtspopulistische FPÖ im größten Bundesland Niederösterreich erstmals zweitstärkste Kraft geworden.]]></summary>
+        <author>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lateinamerika-Reise - Scholz reist weiter nach Brasilien]]></title>
+        <id>scholz-reist-weiter-nach-brasilien-100</id>
+        <link href="https://www.deutschlandfunk.de/scholz-reist-weiter-nach-brasilien-100.html"/>
+        <updated>2023-01-29T23:51:14.000Z</updated>
+        <summary type="html"><![CDATA[Bundeskanzler Scholz reist heute im Zuge seiner Lateinamerika-Reise weiter nach Brasilien.]]></summary>
+        <author>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zweiter Wahlgang - Kaum Beteiligung an Parlamentswahl in Tunesien]]></title>
+        <id>kaum-beteiligung-an-parlamentswahl-in-tunesien-106</id>
+        <link href="https://www.deutschlandfunk.de/kaum-beteiligung-an-parlamentswahl-in-tunesien-106.html"/>
+        <updated>2023-01-29T23:51:14.000Z</updated>
+        <summary type="html"><![CDATA[In Tunesien haben die meisten Wahlberechtigten auch die zweite Runde der Parlamentswahl boykottiert.]]></summary>
+        <author>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Münchner Sicherheitskonferenz - Heusgen befürwortet Lieferung von Kampfjets an die Ukraine]]></title>
+        <id>heusgen-befuerwortet-lieferung-von-kampfjets-an-die-ukraine-112</id>
+        <link href="https://www.deutschlandfunk.de/heusgen-befuerwortet-lieferung-von-kampfjets-an-die-ukraine-112.html"/>
+        <updated>2023-01-29T23:51:14.000Z</updated>
+        <summary type="html"><![CDATA[Der Vorsitzende der Münchner Sicherheitskonferenz, Heusgen, befürwortet die Lieferung von Kampfflugzeugen an die Ukraine zu Verteidigungszwecken.]]></summary>
+        <author>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Einsatzführungskommando - Pistorius informiert sich über Auslandseinsätze]]></title>
+        <id>pistorius-informiert-sich-ueber-auslandseinsaetze-100</id>
+        <link href="https://www.deutschlandfunk.de/pistorius-informiert-sich-ueber-auslandseinsaetze-100.html"/>
+        <updated>2023-01-29T23:51:14.000Z</updated>
+        <summary type="html"><![CDATA[Bundesverteidigungsminister Pistorius besucht heute das Einsatzführungskommando der Bundeswehr, um sich einen Eindruck von den Auslandseinsätzen zu verschaffen.]]></summary>
+        <author>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Migrationspolitik - Landkreise verlangen Treffen mit Scholz]]></title>
+        <id>landkreise-verlangen-treffen-mit-scholz-108</id>
+        <link href="https://www.deutschlandfunk.de/landkreise-verlangen-treffen-mit-scholz-108.html"/>
+        <updated>2023-01-29T23:51:14.000Z</updated>
+        <summary type="html"><![CDATA[Die Landkreise verlangen ein Treffen mit Bundeskanzler Scholz, um mit ihm über die Unterbringung von Asylbewerbern, Flüchtlingen und Migranten zu sprechen.]]></summary>
+        <author>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Solidaritätszuschlag - Bundesfinanzhof verkündet Entscheidung]]></title>
+        <id>bundesfinanzhof-verkuendet-entscheidung-100</id>
+        <link href="https://www.deutschlandfunk.de/bundesfinanzhof-verkuendet-entscheidung-100.html"/>
+        <updated>2023-01-29T23:51:14.000Z</updated>
+        <summary type="html"><![CDATA[Der Bundesfinanzhof will heute seine Entscheidung über eine Klage gegen den Solidaritätszuschlag verkünden.]]></summary>
+        <author>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Paramilitärische "Wagner"-Gruppe - Nordkorea weist US-Vorwürfe über Waffenlieferung an russische Söldner zurück]]></title>
+        <id>nordkorea-weist-us-vorwuerfe-ueber-waffenlieferung-an-russische-soeldner-zurueck-104</id>
+        <link href="https://www.deutschlandfunk.de/nordkorea-weist-us-vorwuerfe-ueber-waffenlieferung-an-russische-soeldner-zurueck-104.html"/>
+        <updated>2023-01-29T23:51:14.000Z</updated>
+        <summary type="html"><![CDATA[Nordkorea hat Vorwürfe aus den USA über Waffenlieferungen an die russische Söldnergruppe Wagner zurückgewiesen.]]></summary>
+        <author>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nahost - US-Außenminister Blinken in Israel und Palästinensergebieten erwartet]]></title>
+        <id>us-aussenminister-blinken-in-israel-und-palaestinensergebieten-erwartet-100</id>
+        <link href="https://www.deutschlandfunk.de/us-aussenminister-blinken-in-israel-und-palaestinensergebieten-erwartet-100.html"/>
+        <updated>2023-01-29T23:51:14.000Z</updated>
+        <summary type="html"><![CDATA[US-Außenminister Blinken besucht von heute an Israel und die Palästinensergebiete.]]></summary>
+        <author>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Evangelische Kirche in Deutschland - EKD will sich mit Schuld gegenüber Sinti und Roma auseinandersetzen]]></title>
+        <id>ekd-will-sich-mit-schuld-gegenueber-sinti-und-roma-auseinandersetzen-110</id>
+        <link href="https://www.deutschlandfunk.de/ekd-will-sich-mit-schuld-gegenueber-sinti-und-roma-auseinandersetzen-110.html"/>
+        <updated>2023-01-29T23:51:14.000Z</updated>
+        <summary type="html"><![CDATA[Nach Ansicht der Ratsvorsitzenden der Evangelischen Kirche in Deutschland, Kurschus, hat auch ihre Kirche in der Zeit des Nationalsozialismus an der Ausgrenzung von Sinti und Roma mitgewirkt.]]></summary>
+        <author>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Berlin - "Grüne Woche"-Veranstalter trotz geringerer Besucherzahl zufrieden]]></title>
+        <id>gruene-woche-veranstalter-trotz-geringerer-besucherzahl-zufrieden-104</id>
+        <link href="https://www.deutschlandfunk.de/gruene-woche-veranstalter-trotz-geringerer-besucherzahl-zufrieden-104.html"/>
+        <updated>2023-01-29T23:51:14.000Z</updated>
+        <summary type="html"><![CDATA[In Berlin ist die "Internationale Grüne Woche" zu Ende gegangen.]]></summary>
+        <author>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fußball-Bundesliga - Dortmund schlägt Leverkusen, Unentschieden auf Schalke]]></title>
+        <id>dortmund-schlaegt-leverkusen-unentschieden-auf-schalke-106</id>
+        <link href="https://www.deutschlandfunk.de/dortmund-schlaegt-leverkusen-unentschieden-auf-schalke-106.html"/>
+        <updated>2023-01-29T23:51:14.000Z</updated>
+        <summary type="html"><![CDATA[Bayer Leverkusen hat mit 0:2 gegen Borussia Dortmund verloren. Der BVB liegt nach dem dritten Sieg in Serie noch drei Punkte hinter Spitzenreiter FC Bayern München. Im zweiten Sonntagsspiel trennten sich Schalke 04 und der FC Köln mit 0:0.]]></summary>
+        <author>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Handball-WM - Dänemark gewinnt Finale gegen Frankreich]]></title>
+        <id>daenemark-gewinnt-finale-gegen-frankreich-108</id>
+        <link href="https://www.deutschlandfunk.de/daenemark-gewinnt-finale-gegen-frankreich-108.html"/>
+        <updated>2023-01-29T23:51:14.000Z</updated>
+        <summary type="html"><![CDATA[Dänemark ist Weltmeister im Handball.]]></summary>
+        <author>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hockey-WM - Deutschland holt ersten Weltmeistertitel seit 17 Jahren]]></title>
+        <id>deutschland-holt-ersten-weltmeistertitel-seit-17-jahren-112</id>
+        <link href="https://www.deutschlandfunk.de/deutschland-holt-ersten-weltmeistertitel-seit-17-jahren-112.html"/>
+        <updated>2023-01-29T23:51:14.000Z</updated>
+        <summary type="html"><![CDATA[Zum ersten Mal seit 17 Jahren ist die deutsche Hockey-Nationalmannschaft wieder Weltmeister. Im WM-Finale in Indien setzte sich das Herren-Team gegen Belgien durch - mit 5:4 im Penaltyschießen.]]></summary>
+        <author>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Australian Open - Djokovic gewinnt Finale gegen Tsitsipas]]></title>
+        <id>djokovic-gewinnt-finale-gegen-tsitsipas-102</id>
+        <link href="https://www.deutschlandfunk.de/djokovic-gewinnt-finale-gegen-tsitsipas-102.html"/>
+        <updated>2023-01-29T23:51:14.000Z</updated>
+        <summary type="html"><![CDATA[Der serbische Tennisspieler Novak Djokovic hat die Australian Open gewonnen.]]></summary>
+        <author>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Slalom-Weltcup - Lena Dürr gewinnt ersten Slalom-Weltcup]]></title>
+        <id>lena-duerr-gewinnt-ersten-slalom-weltcup-108</id>
+        <link href="https://www.deutschlandfunk.de/lena-duerr-gewinnt-ersten-slalom-weltcup-108.html"/>
+        <updated>2023-01-29T23:51:14.000Z</updated>
+        <summary type="html"><![CDATA[Die deutsche Skirennfahrerin Lena Dürr hat ihren ersten Slalom-Weltcup gewonnen.]]></summary>
+        <author>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wetter - Am Montag vor allem im Norden Regen - 1 bis 9 Grad]]></title>
+        <id>am-montag-vor-allem-im-norden-regen-1-bis-9-grad-114</id>
+        <link href="https://www.deutschlandfunk.de/am-montag-vor-allem-im-norden-regen-1-bis-9-grad-114.html"/>
+        <updated>2023-01-29T23:51:14.000Z</updated>
+        <summary type="html"><![CDATA[Das Wetter: In der Nacht Regen, der sich von Norden bis in die Mitte ausbreitet. Im Bergland sowie zur Mitte hin teils auch in tieferen Lagen Schnee. In der Südhälfte zunächst aufgelockert, später stärker bewölkt. In der Nordhälfte +5 bis 0, in der Südhälfte 0 bis -5, südlich der Donau -5 bis -10 Grad. Am Tag zunächst gebietsweise Niederschläge, später wechselnd bewölkt mit Regen-, Schnee- und Graupelschauern. 1 bis 9 Grad.]]></summary>
+        <author>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Qingping-Thermometer: HomeKit-Sensor mit Thread angeschaut]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1159193</id>
+        <link href="https://stadt-bremerhaven.de/qingping-thermometer-homekit-sensor-mit-thread-angeschaut/"/>
+        <updated>2023-01-29T19:00:16.000Z</updated>
+        <summary type="html"><![CDATA[Ich habe in den letzten Wochen einmal einen Blick auf das „Qingping Thermometer“ geworfen, welches es für rund 45 Euro bei Amazon Deutschland gibt. Thermometer, Wetterstationen und Hygrometer sind immer so ein Ding. Da gibt es Verrückte und normale Anwender....
+Zum Beitrag: Qingping-Thermometer: HomeKit-Sensor mit Thread angeschaut
+
+Zum Blog: Caschys Blog]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IDC: 2022 wurden so wenige Smartphones wie zuletzt 2013 abgesetzt]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1159637</id>
+        <link href="https://stadt-bremerhaven.de/idc-2022-wurden-so-wenige-smartphones-wie-zuletzt-2013-abgesetzt/"/>
+        <updated>2023-01-29T17:30:14.000Z</updated>
+        <summary type="html"><![CDATA[Das vierte Quartal des vergangenen Jahres zeigte in Bezug auf die weltweiten Smartphone-Auslieferungen im Vergleich zum Vorjahr einen Rückgang um 18,3 % auf rund 300,3 Mio. Geräte. Dies zeigen die aktuellen Zahlen der IDC und deren Worldwide Quarterly Mobile Phone...
+Zum Beitrag: IDC: 2022 wurden so wenige Smartphones wie zuletzt 2013 abgesetzt
+
+Zum Blog: Caschys Blog]]></summary>
+        <author>
+            <name>Benjamin Mamerow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Der Cloud-Gaming-Rückblick am Sonntag – KW 4]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1159766</id>
+        <link href="https://stadt-bremerhaven.de/der-cloud-gaming-rueckblick-am-sonntag-kw-4/"/>
+        <updated>2023-01-29T16:00:17.000Z</updated>
+        <summary type="html"><![CDATA[Es ist mal wieder an der Zeit: Wie jeden Sonntag bieten wir euch auch in der vierten Kalenderwoche 2023 einen Rückblick auf die Cloud-Gaming-News der letzten Tage. Für euch zusammengesammelt hat sie unser Gastautor Stefan, der sich in jenem Themenkomplex...
+Zum Beitrag: Der Cloud-Gaming-Rückblick am Sonntag – KW 4
+
+Zum Blog: Caschys Blog]]></summary>
+        <author>
+            <name>Gastautor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Succession: Vierte Staffel der Dramaserie startet im April bei Sky]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1159616</id>
+        <link href="https://stadt-bremerhaven.de/succession-vierte-staffel-der-dramaserie-startet-im-april-bei-sky/"/>
+        <updated>2023-01-29T14:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Am 11. April ist es so weit: Die HBO-Dramaserie „Succession“ kehrt in der vierten Staffel auf die Bildschirme zurück. Ab dem Startdatum erscheint immer dienstags eine neue Folge auf Sky. Diese werden am Dienstagabend zur Prime-Time (20:15 Uhr) auf Sky...
+Zum Beitrag: Succession: Vierte Staffel der Dramaserie startet im April bei Sky
+
+Zum Blog: Caschys Blog]]></summary>
+        <author>
+            <name>Felix Frank</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Samsung Odyssey Neo G7 mit 43 Zoll und Mini LED vorgestellt]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1159568</id>
+        <link href="https://stadt-bremerhaven.de/samsung-odyssey-neo-g7-mit-43-zoll-und-mini-led-vorgestellt/"/>
+        <updated>2023-01-29T13:00:01.000Z</updated>
+        <summary type="html"><![CDATA[Samsung hat mit dem Odyssey Neo G7 43″ (Modell: G70NC) einen neuen Gaming-Monitor vorgestellt. Die Namensgebung könnten die Südkoreaner aber generell einmal überdenken, denn andere Monitore gleichen Namens brachte man schon Mitte 2022 heraus. So fällt es nicht nur für...
+Zum Beitrag: Samsung Odyssey Neo G7 mit 43 Zoll und Mini LED vorgestellt
+
+Zum Blog: Caschys Blog]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple HomePod: Umgebungsgeräusche hören und in Automationen nutzen]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1159480</id>
+        <link href="https://stadt-bremerhaven.de/homepod-umgebungsgeraeusche-hoeren-und-in-automationen-nutzen/"/>
+        <updated>2023-01-29T11:30:04.000Z</updated>
+        <summary type="html"><![CDATA[Apple hat einen neuen HomePod der zweiten Generation für 349 Euro vorgestellt, des Weiteren ist der HomePod mini nun mit neuen Tricks ausgestattet (und bei Apple 10 Euro teurer – nun 109 Euro). Das aktuelle Update der HomePod-Software hat einige...
+Zum Beitrag: Apple HomePod: Umgebungsgeräusche hören und in Automationen nutzen
+
+Zum Blog: Caschys Blog]]></summary>
+        <author>
+            <name>caschy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rebranding und Neuauflagen: Alte Technik mit neuem Namen – (wann) ist das legitim?]]></title>
+        <id>https://www.computerbase.de/2023-01/hardware-technik-rebranding-neuauflagen-umfrage/</id>
+        <link href="https://www.computerbase.de/2023-01/hardware-technik-rebranding-neuauflagen-umfrage/"/>
+        <updated>2023-01-29T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/6/6/0/7-3efbec35a0d91d88/article-640x360.cad86358.jpg"><p>Quasi seit dem Anbeginn der Hardware legen Hersteller Produkte mitunter unter aktualisiertem Namen neu auf. Die Tragweite der damit mitunter einhergehenden Vor- und Nachteile kann sehr unterschiedlich ausfallen – ist Rebranding also bedingt in Ordnung? Oder hält die Community kategorisch nichts davon?</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Krankenversicherung DKV erweitert seine App um die elektronische Patientenakte]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1159192</id>
+        <link href="https://stadt-bremerhaven.de/krankenversicherung-dkv-erweitert-seine-app-um-die-elektronische-patientenakte/"/>
+        <updated>2023-01-29T10:00:23.000Z</updated>
+        <summary type="html"><![CDATA[Die DKV Deutsche Krankenversicherung AG (DKV) der Ergo Gruppe erweitert ihre App „Meine DKV“ um die elektronische Patientenakte (ePA). An der Entwicklung wird IBM mitwirken. Einen entsprechenden Kooperationsvertrag habe man just unterzeichnet. Jederzeit sollen Patienten am Ende über jene...
+Zum Beitrag: Krankenversicherung DKV erweitert seine App um die elektronische Patientenakte
+
+Zum Blog: Caschys Blog]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gerüchte zu Nvidia-Grafikkarten: Bilder zeigen mutmaßliche RTX 4090 Ti oder Titan Ada]]></title>
+        <id>https://www.computerbase.de/2023-01/geruechte-zu-nvidia-grafikkarten-bilder-zeigen-mutmassliche-rtx-4090-ti-oder-titan-ada/</id>
+        <link href="https://www.computerbase.de/2023-01/geruechte-zu-nvidia-grafikkarten-bilder-zeigen-mutmassliche-rtx-4090-ti-oder-titan-ada/"/>
+        <updated>2023-01-29T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/6/6/0/8-499fec3b5ede0629/article-640x360.6025aa77.jpg"><p>Neu aufgetauchte Bilder einer vier Slots hohen Slotblende mit ungewöhnlich orientierten Anschlüssen befeuern neue Gerüchte um eine potenzielle GeForce RTX 4090 Ti oder eine neue Nvidia Titan auf Basis des AD102-Grafikchips. Erneut ist dabei von einer Leistungsaufnahme von bis zu 800 Watt die Rede.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gnome 44: Erste Vorabversion mit neuer Stream Deck App erschienen]]></title>
+        <id>https://www.computerbase.de/2023-01/gnome-44-alpha-linux-desktop-stream-deck-app/</id>
+        <link href="https://www.computerbase.de/2023-01/gnome-44-alpha-linux-desktop-stream-deck-app/"/>
+        <updated>2023-01-29T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/6/6/1/0-66ae66ff56e07ce3/article-640x360.af42cbb3.jpg"><p>Das Gnome-Projekt hat die erste öffentliche Alpha seiner neuen Gnome Shell sowie der Desktop-Umgebung Gnome in der kommenden Version 44.0 für jedermann zum Testen und Ausprobieren freigeben. Neben einer neuen Stream Deck App soll der hauseigene Browser auf das moderne Grafik-Toolkit GTK 4 portiert werden.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Konsumklima 2023: Das Jahr startet zunächst hoffnungsvoll]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1159106</id>
+        <link href="https://stadt-bremerhaven.de/konsumklima-2023-das-jahr-startet-zunaechst-hoffnungsvoll/"/>
+        <updated>2023-01-29T08:30:28.000Z</updated>
+        <summary type="html"><![CDATA[Laut den Marktforschern der GfK sei das Jahr 2023 relativ hoffnungsvoll für das deutsche Konsumklima gestartet. Die Stimmung der Verbraucher bessere sich demnach. Für den Februar 2023 erwartet man zwar ein deutlich schlechteres Konsumklima als noch 2022, aber eine Steigerung...
+Zum Beitrag: Konsumklima 2023: Das Jahr startet zunächst hoffnungsvoll
+
+Zum Blog: Caschys Blog]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ubuntu Pro: Kostenlos mehr Sicherheit auch für Privatanwender]]></title>
+        <id>https://www.computerbase.de/2023-01/ubuntu-pro-linux-sicherheit-kostenlos/</id>
+        <link href="https://www.computerbase.de/2023-01/ubuntu-pro-linux-sicherheit-kostenlos/"/>
+        <updated>2023-01-29T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/6/6/0/9-20f6d629a44f4778/article-640x360.4c457589.jpg"><p>Der britische Linux-Distributor Canonical hat sein Subskriptionsmodell Ubuntu Pro weiter ausgebaut und bietet jetzt auch Privatanwendern erweiterten Schutz und einen auf zehn Jahre ausgedehnten Support für bis zu fünfzig Systeme kostenlos. Ubuntu LTS dient dabei als stabiles Fundament für das optionale Ubuntu-Pro-Abonnement.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[„Persona“: Fünf weitere Soundtracks schlagen bei Streaming-Anbietern auf]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1159125</id>
+        <link href="https://stadt-bremerhaven.de/persona-fuenf-weitere-soundtracks-schlagen-bei-streaming-anbietern-auf/"/>
+        <updated>2023-01-29T07:00:22.000Z</updated>
+        <summary type="html"><![CDATA[Atlus hat fünf weitere Soundtracks zur renommierten Spielreihe „Persona“ zu Musikstreaming-Anbietern wie Apple Music, Spotify, YouTube Music und Amazon Music gehievt. Auch aus Deutschland heraus ist die Musik abrufbar. So gibt es da manchmal bei japanischen Videospielesoundtracks leider regionale Beschränkungen....
+Zum Beitrag: „Persona“: Fünf weitere Soundtracks schlagen bei Streaming-Anbietern auf
+
+Zum Blog: Caschys Blog]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wochenrück- und Ausblick: Ada und RDNA 3 beißen sich zweimal die Zähne aus]]></title>
+        <id>https://www.computerbase.de/2023-01/wochenrueckblick-und-ausblick-2023-w04/</id>
+        <link href="https://www.computerbase.de/2023-01/wochenrueckblick-und-ausblick-2023-w04/"/>
+        <updated>2023-01-29T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/6/6/0/2-58944ba3a0c931d2/article-640x360.09b2994c.jpg"><p>Forspoken und das Remake von Dead Space haben zwei Dinge gemein: Beide Spiele brauchen besonders leistungsstarke Hardware und die zugehörigen Tests stießen bei den Lesern auf großes Interesse. Doch auch die Umfrage zu Video-Streaming-Diensten und Fritz!Box-Geräte am Support-Ende waren in der Community ein großes Thema.</p>]]></summary>
+        <author>
+            <name>ComputerBase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Immer wieder sonntags KW 4]]></title>
+        <id>https://stadt-bremerhaven.de/?p=1159701</id>
+        <link href="https://stadt-bremerhaven.de/immer-wieder-sonntags-kw-4-11/"/>
+        <updated>2023-01-29T05:30:15.000Z</updated>
+        <summary type="html"><![CDATA[Einen schönen Sonntagmorgen wünsche ich euch aus Hamburg: Frühaufstehern gilt ein besonderer Gruß. Wie jeden Sonntag, so fasse ich auch heute wieder an dieser Stelle einige Neuigkeiten der vergangenen Tage kurz für euch zusammen. Beispielsweise will ich persönlich das Beispiel...
+Zum Beitrag: Immer wieder sonntags KW 4
+
+Zum Blog: Caschys Blog]]></summary>
+        <author>
+            <name>André Westphal</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Nach Angriffen in Jerusalem - Israelisches Sicherheitskabinett beschließt Maßnahmen zur Terror-Bekämpfung]]></title>
         <id>israelisches-sicherheitskabinett-beschliesst-massnahmen-zur-terror-bekaempfung-100</id>
@@ -13,7 +383,7 @@
         <updated>2023-01-29T01:09:56.000Z</updated>
         <summary type="html"><![CDATA[Nach zwei Angriffen durch Palästinenser in Jerusalem hat Israels Sicherheitskabinett Maßnahmen zur Bekämpfung des Terrorismus beschlossen. Wie mehrere Medien berichten, sollen Zivilisten künftig leichter an Waffenscheine kommen. Zudem solle es Schritte für eine Stärkung der israelischen Siedlungen geben.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -23,7 +393,7 @@
         <updated>2023-01-29T01:09:56.000Z</updated>
         <summary type="html"><![CDATA[Trotz der jüngsten Gewalt haben in Israel zehntausende Menschen erneut gegen die Regierung von Ministerpräsident Netanjahu protestiert.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -33,7 +403,7 @@
         <updated>2023-01-29T01:09:56.000Z</updated>
         <summary type="html"><![CDATA[Der CDU-Vorsitzende Merz sieht in seiner Partei keinen Platz mehr für den neuen Vorsitzenden der Werte-Union, Maaßen.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -43,7 +413,7 @@
         <updated>2023-01-29T01:09:56.000Z</updated>
         <summary type="html"><![CDATA[Der Präsident des Zentralverbandes des Deutschen Handwerks, Dittrich, schlägt einen staatlichen Zuschuss zum Führerschein für Auszubildende im ländlichen Raum vor.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -53,7 +423,7 @@
         <updated>2023-01-29T01:09:56.000Z</updated>
         <summary type="html"><![CDATA[Der ukrainische Präsident Selenskyj hat Sanktionen gegen Unternehmen und Personen in Kraft gesetzt, denen er vorwirft, Russland zu unterstützen.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -63,7 +433,7 @@
         <updated>2023-01-29T01:09:56.000Z</updated>
         <summary type="html"><![CDATA[Im Nordwesten des Irans hat es ein Erdbeben der Stärke 5,9 auf der Richterskala gegeben.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -73,7 +443,7 @@
         <updated>2023-01-29T01:09:56.000Z</updated>
         <summary type="html"><![CDATA[Bundeskanzler Scholz strebt eine engere Zusammenarbeit mit südamerikanischen Staaten an.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -83,7 +453,7 @@
         <updated>2023-01-29T01:09:56.000Z</updated>
         <summary type="html"><![CDATA[Schweden hofft trotz des Widerstands der Türkei auf einen Beitritt zur NATO in diesem Sommer.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -93,7 +463,7 @@
         <updated>2023-01-29T01:09:56.000Z</updated>
         <summary type="html"><![CDATA[Italien und Libyen wollen in den nächsten Jahren neue Gasfelder im Mittelmeer erschließen.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -103,7 +473,7 @@
         <updated>2023-01-29T01:09:56.000Z</updated>
         <summary type="html"><![CDATA[Vor Beginn der Aufnahmeprüfungen an afghanischen Hochschulen haben die radikalislamischen Taliban bekräftigt, dass Frauen nicht studieren dürfen.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -113,7 +483,7 @@
         <updated>2023-01-29T01:09:56.000Z</updated>
         <summary type="html"><![CDATA[In der Fußball-Bundesliga bleibt Spitzenreiter Bayern München nach der Winterpause weiter ohne Sieg. Im Spitzenspiel des 18. Spieltags trennten sich die Bayern von Eintracht Frankfurt 1:1. Das Berliner Derby gewann Union bei Hertha BSC mit 2:0. Die Hertha entließ kurz danach Sport-Geschäftsführer Fredi Bobic.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -123,7 +493,7 @@
         <updated>2023-01-29T01:09:56.000Z</updated>
         <summary type="html"><![CDATA[Fußball-Bundesligist Hertha BSC hat sich von seinem Sport-Geschäftsführer Fredi Bobic getrennt. Der Berliner Club teilte mit, dass Präsidium und Aufsichtsrat nach dem 0:2 im Derby gegen Union Berlin entschieden hätten, den 51-Jährigen von dessen Aufgaben zu entbinden.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -133,7 +503,7 @@
         <updated>2023-01-29T01:09:56.000Z</updated>
         <summary type="html"><![CDATA[Tausende Anträge auf finanzielle Entschädigung wegen gesundheitlicher Schäden infolge einer Corona-Impfung sind bisher gestellt worden. In den meisten Fällen wurden diese von den Behörden der Länder abgelehnt, heißt es in einem Medienbericht.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -143,7 +513,7 @@
         <updated>2023-01-29T01:09:56.000Z</updated>
         <summary type="html"><![CDATA[Vor der Küste Norwegens befinden sich einer Studie zufolge größere Mengen Seltene Erden. Auch Kupfer, Zink, Kobalt, Niobium und Magnesium sollen unter dem Meeresboden lagern. Die Studie hatte die Norwegische Erdöl-Direktion, eine Behörde der norwegischen Regierung, in Auftrag gegeben.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -153,7 +523,7 @@
         <updated>2023-01-29T01:09:56.000Z</updated>
         <summary type="html"><![CDATA[Der Präsident des Bundesamtes für Verfassungsschutz, Haldenwang, hat sich von seinem Vorgänger Maaßen abgegrenzt. Haldenwang sagte im Interview der Woche des Deutschlandfunks, Maaßen trete durch sehr radikale Äußerungen in Erscheinung. Diese nehme er in ähnlicher Weise eigentlich nur vom äußersten rechten Rand wahr. Maaßen ist heute zum neuen Vorsitzenden der Werteunion gewählt worden.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -163,7 +533,7 @@
         <updated>2023-01-29T01:09:56.000Z</updated>
         <summary type="html"><![CDATA[Bei den Rennrodel-Weltmeisterschaften in Oberhof hat die deutsche Mannschaft weitere Medaillen gewonnen. Die Titel bei den Frauen und den Doppelsitzern gingen alle nach Deutschland.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -173,7 +543,7 @@
         <updated>2023-01-29T01:09:56.000Z</updated>
         <summary type="html"><![CDATA[Der Religionssoziologe Michael Ebertz hat das Chaos und den Umgang miteinander in der katholischen Kirche angeprangert. Anlass war eine Umfrage, derzufolge nur noch acht Prozent der Bundesbürger Vertrauen in die katholische Kirche haben.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -183,7 +553,7 @@
         <updated>2023-01-29T01:09:56.000Z</updated>
         <summary type="html"><![CDATA[Die Polizei im US-Bundesstaat Tennessee hat ein Video von dem brutalen Einsatz veröffentlicht, in dessen Folge der 29-jährige Afroamerikaner Tyre Nichols im Krankenhaus starb. In Memphis kam es zu daraufhin Protesten. Die fünf tatverdächtigen Beamten sind wegen Mordes angeklagt.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -193,7 +563,7 @@
         <updated>2023-01-29T01:09:56.000Z</updated>
         <summary type="html"><![CDATA[Die Lottozahlen: 5 - 14 - 20 - 30 - 38 - 44]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -203,7 +573,7 @@
         <updated>2023-01-29T01:09:56.000Z</updated>
         <summary type="html"><![CDATA[Das Wetter: In der Nacht in der Mitte und im Süden Auflockerungen und niederschlagsfrei. Örtlich Nebel. Im Norden teils gefrierender Sprühregen, teils Schnee. Tiefswerte minus 2 Grad bis minus 8 Grad. Streckenweise Glätte. Tagsüber in der Nordhälfte meist bedeckt, an den Küsten etwas Regen. In der Südhälfte nach Nebelauflösung Wechsel aus Sonne und Wolken. Temperaturen im Norden 4 bis 7, im Süden minus 1 bis plus 4 Grad.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -396,7 +766,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-28T01:22:07.000Z</updated>
         <summary type="html"><![CDATA[Nach dem Anschlag auf Besucher einer Synagoge in Ost-Jerusalem hat US-Präsident Biden dem Staat Israel volle Unterstützung zugesichert.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -406,7 +776,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-28T01:22:07.000Z</updated>
         <summary type="html"><![CDATA[Nach den tumultartigen Protesten gegen den Bau einer Flüchtlingsunterkunft im Kreis Nordwestmecklenburg hat der dortige Landrat, Schomann, die Bundesregierung zum Handeln aufgefordert.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -416,7 +786,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-28T01:22:07.000Z</updated>
         <summary type="html"><![CDATA[Verteidigungsminister Pistorius hält den kreditfinanzierten Sondertopf von 100 Milliarden Euro für die Bundeswehr für nicht ausreichend.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -426,7 +796,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-28T01:22:07.000Z</updated>
         <summary type="html"><![CDATA[Der Deutsche Bundestag ist nach einem Medienbericht erneut Ziel eines Cyberangriffs geworden.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -436,7 +806,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-28T01:22:07.000Z</updated>
         <summary type="html"><![CDATA[Die Wirtschaftswissenschaftlerin Veronika Grimm hat vor Gasknappheit durch steigende Verbräuche gewarnt.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -446,7 +816,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-28T01:22:07.000Z</updated>
         <summary type="html"><![CDATA[Das bundesweite 49-Euro-Ticket für den Öffentlichen Personennahverkehr soll zum 1. Mai eingeführt werden.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -456,7 +826,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-28T01:22:07.000Z</updated>
         <summary type="html"><![CDATA[Das Bundeskriminalamt und der Zentralrat Deutscher Sinti und Roma haben eine Zusammenarbeit gegen Antiziganismus vereinbart.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -466,7 +836,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-28T01:22:07.000Z</updated>
         <summary type="html"><![CDATA[Die deutschen Richter und Generalstaatsanwälte sprechen sich gegen die vom Bundesjustizministerium geplante Video-Dokumentation von Strafprozessen aus.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -476,7 +846,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-28T01:22:07.000Z</updated>
         <summary type="html"><![CDATA[Die Bundesregierung will gemeinwohlorientierte Unternehmen mit einem neuen Programm fördern.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -486,7 +856,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-28T01:22:07.000Z</updated>
         <summary type="html"><![CDATA[Der Verkehrsgerichtstag hat sich dagegen ausgesprochen, die Promillegrenze für Fahrer von E-Scootern jener für Fahrradfahrer anzugleichen.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -496,7 +866,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-28T01:22:07.000Z</updated>
         <summary type="html"><![CDATA[Nach einer umstrittenen Äußerung von Außenministerin Baerbock hat die Bundesregierung betont, dass Deutschland im Ukraine-Krieg keine Kriegspartei ist.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -506,7 +876,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-28T01:22:07.000Z</updated>
         <summary type="html"><![CDATA[Erstmals hat der Bundestag am Holocaust-Gedenktag die queeren NS-Opfer in den Mittelpunkt gestellt.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -516,7 +886,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-28T01:22:07.000Z</updated>
         <summary type="html"><![CDATA[Bundesbauministerin Geywitz beziffert den Bedarf an Neubau-Wohnungen auf 500- bis 600-tausend jährlich.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -526,7 +896,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-28T01:22:07.000Z</updated>
         <summary type="html"><![CDATA[Der Vorsitzende der Deutschen Bischofskonferenz, Bätzing, hat den Kommunikationsstil von Papst Franziskus kritisiert.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -536,7 +906,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-28T01:22:07.000Z</updated>
         <summary type="html"><![CDATA[Deutschlands Handballer haben bei der Weltmeisterschaft in Polen und Schweden das Platzierungsspiel gegen Ägypten knapp gewonnen.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -886,7 +1256,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-27T00:59:06.000Z</updated>
         <summary type="html"><![CDATA[Im Konflikt um neue Autobahnen und mehr Klimaschutz im Verkehr haben sich SPD, Grüne und FDP nicht auf einen Kompromiss verständigen können. Der Koalitionsausschuss beendete am späten Abend seine Gespräche ohne greifbares Ergebnis.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -896,7 +1266,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-27T00:59:06.000Z</updated>
         <summary type="html"><![CDATA[Die polnische Regierung würde eine Lieferung von Kampfflugzeugen durch NATO-Staaten an die Ukraine unterstützen.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -906,7 +1276,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-27T00:59:06.000Z</updated>
         <summary type="html"><![CDATA[In Tschechien beginnt heute die zweitägige Stichwahl um das Präsidentenamt.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -916,7 +1286,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-27T00:59:06.000Z</updated>
         <summary type="html"><![CDATA[Der Europarat fordert wegen des Ukraine-Kriegs die Einrichtung eines internationalen Kriegsverbrechertribunals.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -926,7 +1296,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-27T00:59:06.000Z</updated>
         <summary type="html"><![CDATA[Bundesweit wird heute der Opfer des Nationalsozialismus gedacht.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -936,7 +1306,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-27T00:59:06.000Z</updated>
         <summary type="html"><![CDATA[In den USA geht die Justiz nach dem Tod eines Schwarzen bei einer Verkehrskontrolle im US-Bundesstaat Tennessee gegen fünf beteiligte ehemalige Polizisten vor.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -946,7 +1316,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-27T00:59:06.000Z</updated>
         <summary type="html"><![CDATA[Die Pharmafirmen Biontech und Moderna haben den Preis für ihren Corona-Impfstoff während der Pandemie um rund 50 Prozent erhöht. Das geht aus Recherchen von NDR, WDR und Süddeutscher Zeitung hervor, für die bislang unveröffentlichte Unterlagen zu Bestellungen der Bundesregierung ausgewertet wurden.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -956,7 +1326,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-27T00:59:06.000Z</updated>
         <summary type="html"><![CDATA[Der Corona-Notfall-Ausschuss der Weltgesundheitsorganisation berät heute darüber, ob drei Jahre nach Beginn der Pandemie der internationale Gesundheitsnotstand aufgehoben werden soll.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -966,7 +1336,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-27T00:59:06.000Z</updated>
         <summary type="html"><![CDATA[Die Zahl der offiziell bestätigten Corona-Fälle in Deutschland ist in der vergangenen Woche erneut deutlich zurückgegangen.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -976,7 +1346,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-27T00:59:06.000Z</updated>
         <summary type="html"><![CDATA[Nach dem Messerangriff in einem Zug von Kiel nach Hamburg ist Haftbefehl gegen den Täter erlassen worden.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -986,7 +1356,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-27T00:59:06.000Z</updated>
         <summary type="html"><![CDATA[Im Rahmen des EU-Mechanismus zur Entlastung der Mittelmeerländer im Umgang mit Asylbewerbern sind 180 Migranten aus Italien nach Deutschland gebracht worden.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -996,7 +1366,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-27T00:59:06.000Z</updated>
         <summary type="html"><![CDATA[Gegen die geplante Errichtung einer Flüchtlingsunterkunft haben mehrere hundert Menschen in Nordwestmecklenburg vor dem Gebäude des Kreistags in Grevesmühlen protestiert.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -1006,7 +1376,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-27T00:59:06.000Z</updated>
         <summary type="html"><![CDATA[Sicherheitsbehörden in den USA und in Deutschland haben ein weltweit agierendes Netzwerk von Computer-Kriminellen zerschlagen. Eine Vielzahl von Servern sowie Daten und Zugänge des Netzwerks seien beschlagnahmt worden.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -1016,7 +1386,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-27T00:59:06.000Z</updated>
         <summary type="html"><![CDATA[Der palästinensische Präsident Abbas hat nach einem israelischen Militäreinsatz im Flüchtlingslager Dschenin eine dreitägige Staatstrauer angeordnet.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -1026,7 +1396,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-27T00:59:06.000Z</updated>
         <summary type="html"><![CDATA[Die französische Justiz ermittelt gegen den Öl- und Gaskonzern TotalEnergies wegen des Verdachts irreführender Geschäftsmethoden beim Klimaschutz.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -1036,7 +1406,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-27T00:59:06.000Z</updated>
         <summary type="html"><![CDATA[Der CSU-Verteidigungspolitiker Hahn fordert, die russische Söldnergruppe Wagner auf die Terrorliste der Europäischen Union zu setzen.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -1046,7 +1416,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-27T00:59:06.000Z</updated>
         <summary type="html"><![CDATA[Das Wetter: Nachts meist bedeckt, zeitweise Regen oder Schnee. Tiefstwerte plus 3 bis minus 9 Grad. Am Tage im Norden und Nordwesten längere sonnige Abschnitte. Sonst meist bewölkt und von der Mitte bis in den Süden gebietsweise leichte Schneefälle, örtlich auch Schneeregen oder Regen. Temperaturen 0 bis 5 Grad.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -1426,7 +1796,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-26T01:15:35.000Z</updated>
         <summary type="html"><![CDATA[Die Seenotretter von Ärzte ohne Grenzen haben innerhalb weniger Stunden mehr als 230 Migranten und Flüchtlinge von Schlauchbooten aus dem Mittelmeer gerettet.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -1436,7 +1806,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-26T01:15:35.000Z</updated>
         <summary type="html"><![CDATA[Im Tarifkonflikt des öffentlichen Dienstes von Bund und Kommunen werden für heute erste Warnstreiks erwartet.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -1446,7 +1816,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-26T01:15:35.000Z</updated>
         <summary type="html"><![CDATA[Im niedersächsischen Goslar wird heute der Deutsche Verkehrsgerichtstag fortgesetzt.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -1456,7 +1826,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-26T01:15:35.000Z</updated>
         <summary type="html"><![CDATA[In Deutschland nimmt nach Angaben von Ärztevertretern und Kliniken die Aggressivität in Notaufnahmen gegenüber Rettungskräften zu.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -1466,7 +1836,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-26T01:15:35.000Z</updated>
         <summary type="html"><![CDATA[Die USA werden der Ukraine Kampfpanzer liefern. Präsident Biden sagte in Washington, es gehe um 31 Modelle vom Typ M1 Abrams. Die Vereinigten Staaten wollten so schnell wie möglich mit der dafür erforderlichen Ausbildung ukrainischer Soldaten beginnen.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -1476,7 +1846,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-26T01:15:35.000Z</updated>
         <summary type="html"><![CDATA[Bundeskanzler Scholz erwartet einen eher langen Krieg in der Ukraine.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -1486,7 +1856,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-26T01:15:35.000Z</updated>
         <summary type="html"><![CDATA[Bundesverteidigungsminister Pistorius besucht eine Woche nach seiner Ernennung heute erstmals Soldatinnen und Soldaten der Bundeswehr.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -1496,7 +1866,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-26T01:15:35.000Z</updated>
         <summary type="html"><![CDATA[Russland hat die Entscheidung der UNESCO kritisiert, die Altstadt der ukrainischen Hafenstadt Odessa zum gefährdeten Welterbe zu erklären.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -1506,7 +1876,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-26T01:15:35.000Z</updated>
         <summary type="html"><![CDATA[IT-Experten sehen gravierende Mängel bei Cybersicherheit in Deutschland.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -1516,7 +1886,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-26T01:15:35.000Z</updated>
         <summary type="html"><![CDATA[Der Facebook-Mutterkonzern Meta will die Konten des früheren US-Präsidenten Trump nach zweijähriger Sperre wieder freischalten.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -1526,7 +1896,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-26T01:15:35.000Z</updated>
         <summary type="html"><![CDATA[Bei einem Messerangriff in einem Regionalzug von Kiel nach Hamburg sind zwei Menschen getötet und sieben weitere verletzt worden. Bei dem mutmaßlichen Angreifer handele es sich laut Polizei um einen staatenlosen Palästinenser. Demnach wurde der 33-jährige von Zeugen bis zum Eintreffen der Beamten festgehalten.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -1536,7 +1906,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-26T01:15:35.000Z</updated>
         <summary type="html"><![CDATA[Russland hat auf die deutschen Beschlüsse zu Kampfpanzer-Lieferungen mit harscher Kritik reagiert. Moskaus Botschaft in Berlin teilte mit, Deutschlands Entscheidung bedeute eine Abkehr von seiner historischen Verantwortung gegenüber Russland, die aus den Nazi-Verbrechen im Zweiten Weltkrieg erwachsen sei. Der neue Kurs eskaliere den Konflikt.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -1546,7 +1916,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-26T01:15:35.000Z</updated>
         <summary type="html"><![CDATA[Seit Monaten hofft die von Russland angegriffene Ukraine auf die Lieferung von Kampfpanzern des Typs Leopard 2 aus deutscher Produktion. Die Panzer könnten bei einer Gegenoffensive der Ukraine eine wichtige Rolle spielen. Was macht ihn militärisch so bedeutsam? Welche Probleme gibt es hingegen auch bei den geplanten Lieferungen?]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -1556,7 +1926,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-26T01:15:35.000Z</updated>
         <summary type="html"><![CDATA[Der Bundestag hat zum diesjährigen Holocaust-Gedenken erstmals den Fokus auf die Verfolgung sexueller Minderheiten durch das NS-Regime gelegt.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -1566,7 +1936,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-26T01:15:35.000Z</updated>
         <summary type="html"><![CDATA[Der Bundesverband mittelständische Wirtschaft sieht viele kleinere Betriebe in Deutschland in einer verzweifelten Lage.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -1576,7 +1946,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-26T01:15:35.000Z</updated>
         <summary type="html"><![CDATA[Papst Franziskus hat die Reformdebatte in der katholischen Kirche in Deutschland kritisiert.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -1586,7 +1956,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-26T01:15:35.000Z</updated>
         <summary type="html"><![CDATA[Im griechischen Skandal um die Abhörung des sozialistischen Politikers Androulakis hat die Opposition ein Misstrauensvotum gegen Ministerpräsident Mitsotakis beantragt.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -1596,7 +1966,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-26T01:15:35.000Z</updated>
         <summary type="html"><![CDATA[Im Steuerskandal um Cum-Ex-Aktiengeschäfte haben Ermittler Büroräume der französischen Großbank BNP Paribas in Frankfurt am Main durchsucht.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -1606,7 +1976,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-26T01:15:35.000Z</updated>
         <summary type="html"><![CDATA[Frankreich hat angekündigt, seine Truppen innerhalb eines Monats aus Burkina Faso abzuziehen.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -1616,7 +1986,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-26T01:15:35.000Z</updated>
         <summary type="html"><![CDATA[Ostasien wird von einer Kältewelle erfasst.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -1626,7 +1996,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-26T01:15:35.000Z</updated>
         <summary type="html"><![CDATA[In der Fußball-Bundesliga hat es folgende Begegnungen gegeben:]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -1636,7 +2006,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-26T01:15:35.000Z</updated>
         <summary type="html"><![CDATA[Die deutsche Handball-Nationalmannschaft hat das Halbfinale bei der Weltmeisterschaft in Polen und Schweden verpasst.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -1646,7 +2016,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-26T01:15:35.000Z</updated>
         <summary type="html"><![CDATA[Die Lottozahlen: 6 - 11 - 12 - 20 - 25 - 37]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -1656,7 +2026,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-26T01:15:35.000Z</updated>
         <summary type="html"><![CDATA[Das Wetter: Nachts vielfach bedeckt. Von Nordwesten aufkommende Niederschläge, gebietsweise Schnee. Lokal Unwetter. Tiefstwerte plus 2 bis minus 8 Grad. Am Tag meist bewölkt. Richtung Südosten ziehende Niederschläge, vor allem als Schnee. 0 bis 7 Grad.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -2026,7 +2396,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-25T01:19:33.000Z</updated>
         <summary type="html"><![CDATA[Die Bundesregierung soll nach übereinstimmenden Medienberichten nun dazu bereit sein, nicht nur Bündnispartnern eine Lieferung von Leopard-2-Panzern an die Ukraine zu genehmigen, sondern auch selbst welche zu liefern. Unter Berufung auf Regierungs- und Koalitionskreise heißt es, es gehe um mindestens eine Kompanie des Leopards vom Typ 2A6. Eine Kompanie umfasst 14 Waffensysteme.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -2036,7 +2406,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-25T01:19:33.000Z</updated>
         <summary type="html"><![CDATA[Auch weitere westliche Staaten wollen offenbar Kampfpanzer an die Ukraine liefern oder erwägen dies zumindest.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -2046,7 +2416,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-25T01:19:33.000Z</updated>
         <summary type="html"><![CDATA[Neuseeland hat einen neuen Premierminister.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -2056,7 +2426,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-25T01:19:33.000Z</updated>
         <summary type="html"><![CDATA[Der ukrainische Präsident Selenskyj hat die Entlassung hochrangiger Regierungsvertreter infolge eines mutmaßlichen Korruptionsskandals als notwendig verteidigt.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -2066,7 +2436,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-25T01:19:33.000Z</updated>
         <summary type="html"><![CDATA[Bundeskanzler Scholz stellt sich heute in einer Regierungsbefragung den Abgeordneten im Bundestag.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -2076,7 +2446,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-25T01:19:33.000Z</updated>
         <summary type="html"><![CDATA[Auch beim früheren US-Vizepräsidenten Pence sind vertrauliche Regierungsunterlagen entdeckt worden.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -2086,7 +2456,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-25T01:19:33.000Z</updated>
         <summary type="html"><![CDATA[In Frankreich hat der Senat mit großer Mehrheit für einen beschleunigten Bau von Atomkraftwerken gestimmt.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -2096,7 +2466,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-25T01:19:33.000Z</updated>
         <summary type="html"><![CDATA[Am Flughafen Berlin-Brandenburg werden von heute früh an zentrale Arbeitsbereiche bestreikt.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -2106,7 +2476,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-25T01:19:33.000Z</updated>
         <summary type="html"><![CDATA[Die Türkei hat ein für Anfang Februar geplantes Treffen mit Schweden und Finnland über deren angestrebten NATO-Beitritt abgesagt.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -2116,7 +2486,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-25T01:19:33.000Z</updated>
         <summary type="html"><![CDATA[In der CDU wächst die Empörung über den früheren Verfassungsschutzpräsidenten Maaßen wegen dessen Äußerungen zum Thema Rassismus.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -2126,7 +2496,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-25T01:19:33.000Z</updated>
         <summary type="html"><![CDATA[Die CSU hat Widerstand gegen die von der Ampelkoalition geplante Wahlrechtsreform angekündigt.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -2136,7 +2506,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-25T01:19:33.000Z</updated>
         <summary type="html"><![CDATA[Die erste Runde der Tarifverhandlungen im öffentlichen Dienst in Potsdam ist ohne Ergebnis vertagt worden.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -2146,7 +2516,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-25T01:19:33.000Z</updated>
         <summary type="html"><![CDATA[Eine unabhängige deutsch-israelische Expertenkommission soll mit der Aufarbeitung des Olympia-Attentats von 1972 beauftragt werden.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -2156,7 +2526,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-25T01:19:33.000Z</updated>
         <summary type="html"><![CDATA[Der deutsche Film "Im Westen nichts Neues" ist für einen Oscar in der Hauptkategorie "Bester Film" nominiert worden. Das teilte die Filmakademie in Los Angeles mit. Insgesamt erhielt die Netflix-Produktion von Regisseur Edward Berger neun Nominierungen, darunter auch die für den besten ausländischen Film.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -2166,7 +2536,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-25T01:19:33.000Z</updated>
         <summary type="html"><![CDATA[In der Fußball-Bundesliga gab es folgende Ergebnisse:]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -2176,7 +2546,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-25T01:19:33.000Z</updated>
         <summary type="html"><![CDATA[Das Wetter: In der Nacht meist bedeckt, teils dichter Nebel. Überwiegend niederschlagsfrei. Temperaturen von plus 2 bis minus 7 Grad. Am Tag bewölkt mit etwas Sprühregen, im höheren Bergland sonnige Abschnitte. 1 bis 6 Grad.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -2546,7 +2916,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-24T01:27:49.000Z</updated>
         <summary type="html"><![CDATA[Der Bund für Umwelt und Naturschutz in Deutschland hat die Bundesregierung wegen nicht eingehaltener Klimaziele verklagt.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -2556,7 +2926,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-24T01:27:49.000Z</updated>
         <summary type="html"><![CDATA[In Potsdam beginnen am Mittag die Tarifverhandlungen für den Öffentlichen Dienst von Bund und Kommunen.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -2566,7 +2936,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-24T01:27:49.000Z</updated>
         <summary type="html"><![CDATA[Bei den Vorbereitungen für die anstehende Wiederholungswahl zum Berliner Abgeordnetenhaus ist es abermals zu einer Panne gekommen.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -2576,7 +2946,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-24T01:27:49.000Z</updated>
         <summary type="html"><![CDATA[Der Rüstungskonzern Rheinmetall könnte der Ukraine nach eigenen Angaben 139 Leopard-Panzer der Typen 1 und 2 liefern.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -2586,7 +2956,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-24T01:27:49.000Z</updated>
         <summary type="html"><![CDATA[Der türkische Präsident Erdogan blockiert weiter einen NATO-Beitritt Schwedens und führt zur Begründung inzwischen auch eine Koranverbrennung in Stockholm an. Erdogan sagte in Ankara, wenn Schweden der türkischen Republik oder dem religiösen Glauben der Muslime keinen Respekt zolle, dann könne das Land in Sachen NATO auch keine Unterstützung bekommen.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -2596,7 +2966,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-24T01:27:49.000Z</updated>
         <summary type="html"><![CDATA[Die Vereinten Nationen weisen anlässlich des heutigen Internationalen Tags der Bildung auf die Lage im östlichen und südlichen Afrika hin.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -2606,7 +2976,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-24T01:27:49.000Z</updated>
         <summary type="html"><![CDATA[Bei der Handball-Weltmeisterschaft hat die deutsche Nationalmannschaft ihr letztes Hauptrundenspiel gegen Norwegen mit 26:28 verloren.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -2616,7 +2986,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-24T01:27:49.000Z</updated>
         <summary type="html"><![CDATA[Gut zwei Jahre nach der Erstürmung des US-Kapitols sind mehrere Mitglieder der rechtsextremen Miliz "Oath Keepers" verurteilt worden.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -2626,7 +2996,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-24T01:27:49.000Z</updated>
         <summary type="html"><![CDATA[Die beiden großen südamerikanischen Staaten Argentinien und Brasilien wollen den Handel vertiefen und ihre Beziehungen wiederaufleben lassen.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -2636,7 +3006,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-24T01:27:49.000Z</updated>
         <summary type="html"><![CDATA[Der Angriffskrieg Russlands gegen die Ukraine kostet die deutsche Wirtschaft laut einer Analyse allein in diesem Jahr rund 175 Milliarden Euro.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -2646,7 +3016,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-24T01:27:49.000Z</updated>
         <summary type="html"><![CDATA[Die reihenweisen Ausfälle beim Bundeswehr-Schützenpanzer Puma sollen nicht durch die Schwere der Störungen, sondern deren hohe Anzahl verursacht worden sein.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -2656,7 +3026,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-24T01:27:49.000Z</updated>
         <summary type="html"><![CDATA[Eine neue Untersuchung zum Untergang der Ostseefähre "MS Estonia" 1994 bestätigt bisherige Annahmen.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -2666,7 +3036,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-24T01:27:49.000Z</updated>
         <summary type="html"><![CDATA[Der Wetterbericht, die Lage: Hochdruckeinfluss bestimmt das Wetter in der ersten Wochenhälfte.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -3066,7 +3436,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-23T01:04:06.000Z</updated>
         <summary type="html"><![CDATA[Deutschland würde nach den Worten von Bundesaußenministerin Baerbock eine mögliche polnische Lieferung von Leopard-Panzern in die Ukraine nicht blockieren. Bundeskanzler Scholz zeigte sich in der Frage erneut zurückhaltend - und verwies auf Absprachen mit den Partnern.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -3076,7 +3446,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-23T01:04:06.000Z</updated>
         <summary type="html"><![CDATA[Die staatliche Förderbank KfW warnt vor einem wirtschaftlichen Abstieg Deutschlands.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -3086,7 +3456,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-23T01:04:06.000Z</updated>
         <summary type="html"><![CDATA[Der ukrainische Präsident Selenskyj hat nach Korruptionsskandalen in seinem Land ein entschlosseneres Vorgehen gegen Fehlverhalten im Staatsapparat angekündigt.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -3096,7 +3466,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-23T01:04:06.000Z</updated>
         <summary type="html"><![CDATA[Deutschland und Frankreich wollen die europäischen militärischen Fähigkeiten ausbauen. Die Stärkung der europäischen Verteidigungskapazitäten sei von entscheidender Bedeutung, heißt es in einer in Paris verabschiedeten Erklärung des deutsch-französischen Ministerrats. Zu einer möglichen Lieferung von Kampfpanzern an die Ukraine gab es keine Neuigkeiten.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -3106,7 +3476,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-23T01:04:06.000Z</updated>
         <summary type="html"><![CDATA[Ärztevertreter haben ein Ende der Corona-Maskenpflicht in Praxen gefordert.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -3116,7 +3486,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-23T01:04:06.000Z</updated>
         <summary type="html"><![CDATA[Die Bundeswehr beginnt heute mit der Verlegung von "Patriot"- Flugabwehrstaffeln nach Polen.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -3126,7 +3496,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-23T01:04:06.000Z</updated>
         <summary type="html"><![CDATA[Angesichts der Energiekrise sind bei den Verbraucherzentralen im vergangenen Jahr rund 50.000 Beschwerden über Verträge zu Strom und Wärme eingegangen.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -3136,7 +3506,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-23T01:04:06.000Z</updated>
         <summary type="html"><![CDATA[Brasilien und Argentinien streben eine gemeinsame Währung und eine stärkere wirtschaftliche Integration an.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -3146,7 +3516,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-23T01:04:06.000Z</updated>
         <summary type="html"><![CDATA[Bundesfinanzminister Lindner hat bei der Einführung einer Kindergrundsicherung durch Familienministerin Paus formale Verfahrensfehler moniert.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -3156,7 +3526,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-23T01:04:06.000Z</updated>
         <summary type="html"><![CDATA[Als Konsequenz aus den Silvesterkrawallen fordert der Deutsche Richterbund 1.000 neue Stellen in der Justiz.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -3166,7 +3536,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-23T01:04:06.000Z</updated>
         <summary type="html"><![CDATA[EU-Ratspräsident Michel hat nach Zeitungsinformationen einen Vier-Punkte-Plan als Antwort auf das umstrittene Subventionsprogramm der USA skizziert.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -3176,7 +3546,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-23T01:04:06.000Z</updated>
         <summary type="html"><![CDATA[Der türkische Präsident Erdogan hat angekündigt, die für Juni geplanten Präsidentschafts- und Parlamentswahlen auf den 14. Mai vorzuziehen.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -3186,7 +3556,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-23T01:04:06.000Z</updated>
         <summary type="html"><![CDATA[Die kanadische Regierung hat sich mit 325 indigenen Völkern auf Entschädigungszahlungen in Milliardenhöhe geeinigt.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -3196,7 +3566,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-23T01:04:06.000Z</updated>
         <summary type="html"><![CDATA[Brasilien und Argentinien wollen einem Medienbericht zufolge eine neuen Anlauf für eine gemeinsame Währung unternehmen.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -3206,7 +3576,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-23T01:04:06.000Z</updated>
         <summary type="html"><![CDATA[Bundeskanzler Scholz und Frankreichs Präsident Macron wollen in der Europäischen Union Reformen vorantreiben. Europa müsse eine selbstbewusstere Rolle in der Welt einnehmen, sagte Scholz in Paris bei einem Festakt zum 60. Jahrestag des Elysée-Vertrags. Den gegenwärtigen Herausforderungen könne man nicht mit einem Rückzug ins nationale Schneckenhaus begegnen.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -3216,7 +3586,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-23T01:04:06.000Z</updated>
         <summary type="html"><![CDATA[Das ukrainische Verteidigungsministerium hat Korruptionsvorwürfe im Zusammenhang mit der Beschaffung von Lebensmitteln für das Militär zurückgewiesen.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -3226,7 +3596,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-23T01:04:06.000Z</updated>
         <summary type="html"><![CDATA[Die Militärführung in Burkina Faso hat den Abzug der im Land stationierten französischen Soldaten gefordert.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -3236,7 +3606,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-23T01:04:06.000Z</updated>
         <summary type="html"><![CDATA[Das Wetter: Nachts in der Südosthälfte etwas Schnee. Verbreitet Glätte. Sonst weitgehend niederschlagsfrei. Tiefsttemperaturen +1 bis -8 Grad. Am Tage in Alpennähe etwas Schneefall. Im Süden und Südwesten Auflockerungen. In den übrigen Gebieten stark bewölkt bis bedeckt. Tageshöchstwerte 0 bis 5 Grad, im Bergland Dauerfrost.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -3475,7 +3845,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-22T01:26:00.000Z</updated>
         <summary type="html"><![CDATA[Bundesverkehrsminister Wissing hat vor einer Überlastung der Straßen in Deutschland gewarnt.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -3485,7 +3855,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-22T01:26:00.000Z</updated>
         <summary type="html"><![CDATA[Die Regierung Kolumbiens und die Guerilla-Organisation ELN haben eine erste Verhandlungsrunde beendet.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -3495,7 +3865,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-22T01:26:00.000Z</updated>
         <summary type="html"><![CDATA[Das Justizministerium hat das Haus von Präsident Biden in Wilmington im Bundesstaat Delaware durchsucht.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -3505,7 +3875,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-22T01:26:00.000Z</updated>
         <summary type="html"><![CDATA[Immer mehr Rentnerinnen und Rentnern in Deutschland droht die Altersarmut.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -3515,7 +3885,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-22T01:26:00.000Z</updated>
         <summary type="html"><![CDATA[Bundesverteidigungsminister Pistorius hat angekündigt, möglichst bald in die Ukraine zu fahren.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -3525,7 +3895,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-22T01:26:00.000Z</updated>
         <summary type="html"><![CDATA[In der Ukraine ist ein stellvertretender Minister wegen Verdachts der Bestechlichkeit festgenommen worden.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -3535,7 +3905,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-22T01:26:00.000Z</updated>
         <summary type="html"><![CDATA[Lebensmittel sollen künftig für alle Menschen weltweit verfügbar, erschwinglich und sicher gemacht werden. Darauf haben sich auf einer Konferenz in Berlin Agrarministerinnen und Argarminister aus 64 Ländern geeinigt. Tausende Demonstrantinnen und Demonstranten forderten eine gerechtere und nachhaltigere Agrarpolitik.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -3545,7 +3915,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-22T01:26:00.000Z</updated>
         <summary type="html"><![CDATA[EU-Kommissionspräsidentin von der Leyen hat sich optimistisch geäußert, dass die Unstimmigkeiten mit den USA in der Handelspolitik beigelegt werden können. Von der Leyen sagte im Interview der Woche des Deutschlandfunks, es gebe intensive Verhandlungen mit dem Weißen Haus.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -3555,7 +3925,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-22T01:26:00.000Z</updated>
         <summary type="html"><![CDATA[Deutschland und Frankreich feiern heute den 60. Jahrestag der Unterzeichnung des Élysée-Vertrags.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -3565,7 +3935,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-22T01:26:00.000Z</updated>
         <summary type="html"><![CDATA[In Paris sind erneut mehrere tausend Menschen gegen die geplante Rentenreform auf die Straße gegangen.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -3575,7 +3945,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-22T01:26:00.000Z</updated>
         <summary type="html"><![CDATA[Der Stabschef von US-Präsident Biden, Klain, will Medienberichten zufolge nach zwei Jahren im Amt aufhören.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -3585,7 +3955,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-22T01:26:00.000Z</updated>
         <summary type="html"><![CDATA[In Madrid haben zehntausende Menschen gegen die linksgerichtete Regierung von Ministerpräsident Sanchez protestiert.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -3595,7 +3965,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-22T01:26:00.000Z</updated>
         <summary type="html"><![CDATA[In Tel Aviv hat es erneut Proteste gegen die neue Regierung von Ministerpräsident Netanjahu gegeben.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -3605,7 +3975,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-22T01:26:00.000Z</updated>
         <summary type="html"><![CDATA[In Neuseeland soll Bildungsminister Hipkins morgen neuer Chef der regierenden Labour-Partei und damit auch neuer Premier des Landes werden.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -3615,7 +3985,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-22T01:26:00.000Z</updated>
         <summary type="html"><![CDATA[Bei der Handball-WM in Polen und Schweden hat Deutschland den vorzeitigen Einzug ins Viertelfinale erreicht.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -3625,7 +3995,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-22T01:26:00.000Z</updated>
         <summary type="html"><![CDATA[In der Slowakei ist die Volksabstimmung über eine Verfassungsänderung nach vorläufigen Angaben der Wahlkommission an einer zu geringen Beteiligung gescheitert.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -3635,7 +4005,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-22T01:26:00.000Z</updated>
         <summary type="html"><![CDATA[In der Ampel-Koalition wächst der Druck auf Bundeskanzler Scholz (SPD), die Lieferung deutscher Kampfpanzer an die Ukraine möglich zu machen. Der Grünen-Politiker Wagener verlangte, westlichen Partnerländern eine Weitergabe von Leopard-Panzern an die Ukraine sofort zu erlauben. Die FDP-Politikerin Strack-Zimmermann warf der Bundesregierung wegen ihrer zögerlichen Haltung Versagen vor.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -3645,7 +4015,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-22T01:26:00.000Z</updated>
         <summary type="html"><![CDATA[Die Bremer Verkehrssenatorin Schaefer bezweifelt, dass das geplante 49-Euro-Ticket im Frühjahr eingeführt werden kann.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -3655,7 +4025,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-22T01:26:00.000Z</updated>
         <summary type="html"><![CDATA[Starke Schneefälle haben in Teilen Tschechiens, Polens und der Slowakei Verkehrschaos und großflächige Stromausfälle verursacht.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -3665,7 +4035,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-22T01:26:00.000Z</updated>
         <summary type="html"><![CDATA[Twitterchef Musk hat einen Medienbericht über die Zahl der Beschäftigten in seinem Unternehmen zurückgewiesen.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -3675,7 +4045,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-22T01:26:00.000Z</updated>
         <summary type="html"><![CDATA[Die Lottozahlen: 4 - 19 - 24 - 43 - 44 - 45]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -3685,7 +4055,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-22T01:26:00.000Z</updated>
         <summary type="html"><![CDATA[Das Wetter: Nachts verbreitet Schneefall, im Osten mitunter kräftig. Im Nordosten gebietsweise Regen oder Schneeregen, im Nordwesten und äußersten Westen einige Wolkenlücken und weitgehend niederschlagsfrei. Tiefstwerte 0 bis minus 7 Grad. Am Tag bedeckt, örtlich leichter Schneefall. Ganz im Norden meist trocken. Temperaturen minus 4 bis plus 4 Grad.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -3898,7 +4268,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-21T01:20:22.000Z</updated>
         <summary type="html"><![CDATA[Der Energiekonzern RWE hat nach der Räumung des Orts Lützerath im rheinischen Braunkohlerevier zivilrechtliche Schritte gegen Demonstranten angekündigt.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -3908,7 +4278,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-21T01:20:22.000Z</updated>
         <summary type="html"><![CDATA[Die USA wollen die russische Söldnergruppe Wagner als "transnationale kriminelle Organisation" einstufen. Die Entscheidung ermögliche weitere Sanktionen gegen die Truppe sowie deren Unterstützer, teilte der Sprecher des Nationalen Sicherheitsrates des Weißen Hauses, Kirby, in Washington mit.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -3918,7 +4288,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-21T01:20:22.000Z</updated>
         <summary type="html"><![CDATA[Beim Autohersteller Ford in Köln droht einem Medienbericht zufolge ein größerer Stellenabbau.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -3928,7 +4298,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-21T01:20:22.000Z</updated>
         <summary type="html"><![CDATA[Anlässlich der Internationale Grüne Woche in Berlin hat ein Bündnis für heute zu Demonstrationen aufgerufen.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -3938,7 +4308,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-21T01:20:22.000Z</updated>
         <summary type="html"><![CDATA[Die Bundesländer intensivieren den Kampf gegen den Lehrermangel]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -3948,7 +4318,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-21T01:20:22.000Z</updated>
         <summary type="html"><![CDATA[Die linksgerichtete Unabhängigkeitsbewegung der Westsahara, Frente Polisario, hat ihren Anführer Ghali als Generalsekretär bestätigt.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -3958,7 +4328,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-21T01:20:22.000Z</updated>
         <summary type="html"><![CDATA[Neuseelands Bildungsminister Hipkins dürfte Nachfolger der zurückgetretenen Regierungschefin Ardern werden.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -3968,7 +4338,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-21T01:20:22.000Z</updated>
         <summary type="html"><![CDATA[In Hessen hat die Polizei die Räumung des von Aktivisten besetzten Fechenheimer Waldes abgeschlossen.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -3978,7 +4348,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-21T01:20:22.000Z</updated>
         <summary type="html"><![CDATA[Bundeskanzler Scholz und der französische Präsident Macron sprechen sich für eine militärische Stärkung Europas aus. In einem gemeinsamen Gastbeitrag in der "Frankfurter Allgemeinen Zeitung" rufen sie zu stärkeren Investitionen in die Streitkräfte beider Länder und in die Rüstungsindustrie in Europa auf.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -3988,7 +4358,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-21T01:20:22.000Z</updated>
         <summary type="html"><![CDATA[Auf der Ukraine-Konferenz in Ramstein ist ungeachtet des Drängens aus Kiew keine Entscheidung zur abgestimmten Lieferung westlicher Kampfpanzer gefallen.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -3998,7 +4368,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-21T01:20:22.000Z</updated>
         <summary type="html"><![CDATA[Bei dem Treffen der sogenannten Ukraine-Kontaktgruppe in Ramstein wurde zwar keine Lieferung von Kampfpanzern auf den Weg gebracht. Dennoch darf Kiew mit zahlreichen neuen Waffen rechnen. Ein Überblick.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -4008,7 +4378,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-21T01:20:22.000Z</updated>
         <summary type="html"><![CDATA[Mehrere Tausend Menschen haben in Münster gegen einen Neujahrsempfang der AfD im historischen Rathaus demonstriert.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -4018,7 +4388,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-21T01:20:22.000Z</updated>
         <summary type="html"><![CDATA[In den USA geht der Stellenabbau bei den großen Technologie- und Internetfirmen weiter.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -4028,7 +4398,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-21T01:20:22.000Z</updated>
         <summary type="html"><![CDATA[In den Niederlanden soll ein Mann online mehr als 100 minderjährige Mädchen sexuell erpresst haben.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -4038,7 +4408,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-21T01:20:22.000Z</updated>
         <summary type="html"><![CDATA[In Afghanistan haben die herrschenden Taliban nach UNO-Angaben inzwischen mehreren hundert Juristinnen die Arbeit untersagt.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -4048,7 +4418,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-21T01:20:22.000Z</updated>
         <summary type="html"><![CDATA[In Burkina Faso haben Soldaten über 60 entführte Frauen und Mädchen sowie mehrere Babys befreit.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -4058,7 +4428,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-21T01:20:22.000Z</updated>
         <summary type="html"><![CDATA[Im Tarifstreit mit der Deutschen Post hat die Gewerkschaft Verdi erneut bundesweit zum Warnstreik aufgerufen.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -4068,7 +4438,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-21T01:20:22.000Z</updated>
         <summary type="html"><![CDATA[Der in der Gaskrise vom Staat aufgefangene Energiekonzern Uniper erhält eine neue Finanzchefin.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -4078,7 +4448,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-21T01:20:22.000Z</updated>
         <summary type="html"><![CDATA[Der neue Vorschlag von CDU und CSU für eine Reform des Wahlrechts zur Begrenzung der Größe des Bundestags stößt bei anderen Parteien auf Ablehnung.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -4088,7 +4458,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-21T01:20:22.000Z</updated>
         <summary type="html"><![CDATA[In der US-Hauptstadt Washington haben sich tausende Abtreibungsgegner zum jährlichen "Marsch für das Leben" versammelt.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -4098,7 +4468,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-21T01:20:22.000Z</updated>
         <summary type="html"><![CDATA[Zum Auftakt der Rückrunde in der Fußball-Bundesliga der Männer haben sich RB Leipzig und FC Bayern München unentschieden 1 zu 1 getrennt.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -4108,7 +4478,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-21T01:20:22.000Z</updated>
         <summary type="html"><![CDATA[Das Wetter: In der Nacht Schneefälle an den Alpen und von der Kölner Bucht bis zur Pfalz. Ansonsten teils wolkig oder stark bewölkt. 0 bis minus 8 Grad, bei längerem Aufklaren über Schnee um minus 14 Grad. Morgen Wechsel von Sonne und Wolken. Im Westen auch länger sonnig, im äußersten Süden etwas Schnee. Temperaturen minus 4 bis plus 4 Grad.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -4518,7 +4888,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-20T01:09:05.000Z</updated>
         <summary type="html"><![CDATA[Im Streit über die von der Bundesregierung geplante Wahlrechtsreform gibt es übereinstimmenden Medienberichten zufolge einen neuen Vorschlag der Unionsparteien.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -4528,7 +4898,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-20T01:09:05.000Z</updated>
         <summary type="html"><![CDATA[Die Vereinigten Staaten stellen der Ukraine weitere Militärhilfe in Milliardenhöhe zur Verfügung.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -4538,7 +4908,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-20T01:09:05.000Z</updated>
         <summary type="html"><![CDATA[Der ukrainische Präsident Selenskyj erwartet nach eigenen Angaben von dem Treffen in Ramstein starke Entscheidungen.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -4548,7 +4918,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-20T01:09:05.000Z</updated>
         <summary type="html"><![CDATA[Eine vom Europäischen Parlament geforderte Einstufung der iranischen Revolutionsgarden als Terrororganisation ist nach Angaben des Auswärtigen Dienstes der EU nur unter bestimmten Voraussetzungen möglich.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -4558,7 +4928,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-20T01:09:05.000Z</updated>
         <summary type="html"><![CDATA[Der amerikanische Gitarrist und Sänger David Crosby ist tot.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -4568,7 +4938,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-20T01:09:05.000Z</updated>
         <summary type="html"><![CDATA[Medienberichten zufolge kommt die von Arbeitsminister Heil angedachte Bildungszeit für Arbeitnehmer vorerst nicht.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -4578,7 +4948,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-20T01:09:05.000Z</updated>
         <summary type="html"><![CDATA[Der Industriegase-Konzern Linde wird zum 27. Februar aus dem deutschen Leitindex Dax genommen.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -4588,7 +4958,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-20T01:09:05.000Z</updated>
         <summary type="html"><![CDATA[Die Gewerkschaft Verdi ruft bundesweit zu Streiks in Brief- und Paketzentren der Deutschen Post auf. Die Arbeitsniederlegungen begannen am frühen Abend und sollten heute den ganzen Tag andauern. Zuvor war auch die zweite Runde der Tarifgespräche zwischen dem Unternehmen und Verdi ohne Ergebnis zu Ende gegangen.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -4598,7 +4968,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-20T01:09:05.000Z</updated>
         <summary type="html"><![CDATA[Als Reaktion auf ein Urteil des Bundesgerichtshofs lässt Volkswagen die Gehälter etlicher Betriebsräte überprüfen.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -4608,7 +4978,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-20T01:09:05.000Z</updated>
         <summary type="html"><![CDATA[Der Bundestag erörtert heute erstmals die Fachkräftestrategie der Bundesregierung.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -4618,7 +4988,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-20T01:09:05.000Z</updated>
         <summary type="html"><![CDATA[Spanien will bis 2030 insgesamt 7,2 Milliarden Euro in die Infrastruktur für grünen Wasserstoff investieren.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -4628,7 +4998,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-20T01:09:05.000Z</updated>
         <summary type="html"><![CDATA[Die Agrarmesse Grüne Woche öffnet heute nach zwei Jahren Corona-Pause wieder für Besucher.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -4638,7 +5008,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-20T01:09:05.000Z</updated>
         <summary type="html"><![CDATA[Aus Protest gegen eine geplante Anhebung des Renteneintrittsalters sind in französischen Städten mehr als eine Million Menschen auf die Straße gegangen.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -4648,7 +5018,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-20T01:09:05.000Z</updated>
         <summary type="html"><![CDATA[Rudi Völler wird zum 1. Februar Sportchef der deutschen Fußball-Nationalmannschaft.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -4658,7 +5028,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-20T01:09:05.000Z</updated>
         <summary type="html"><![CDATA[Zahlreiche EU- und NATO-Staaten haben der Ukraine weitere militärische Unterstützung zugesichert. Das geht aus einer gemeinsamen Erklärung hervor, die von elf Ländern im estnischen Tallinn unterzeichnet wurde.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -4668,7 +5038,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-20T01:09:05.000Z</updated>
         <summary type="html"><![CDATA[In den USA hat die Regierung heute die staatliche Schuldengrenze von 31,4 Billionen Dollar erreicht.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -4678,7 +5048,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-20T01:09:05.000Z</updated>
         <summary type="html"><![CDATA[Die Direktorin des Internationalen Währungsfonds, Georgieva, fordert von Europa, eine Führungsrolle im Kampf gegen den Klimawandel einzunehmen.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -4688,7 +5058,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-20T01:09:05.000Z</updated>
         <summary type="html"><![CDATA[Mehr als ein Jahr nach dem tödlichen Schuss bei einem Western-Dreh soll gegen den Schauspieler Alec Baldwin Anklage wegen fahrlässiger Tötung erhoben werden.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -4698,7 +5068,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-20T01:09:05.000Z</updated>
         <summary type="html"><![CDATA[Bei der Handball-Weltmeisterschaft in Polen und Schweden hat Deutschland sein erstes Spiel in der Hauptrunde gewonnen. Die Mannschaft von Bundestrainer Gislason besiegte die Auswahl aus Argentinien mit 39 zu 19.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -4708,7 +5078,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-20T01:09:05.000Z</updated>
         <summary type="html"><![CDATA[Das Wetter: In dieser Nacht an der Nordsee Schnee- und Regenschauer. Sonst wechselnd bis stark bewölkt, nur noch lokale Schneeschauer im Südosten. Tiefsttemperaturen zwischen 1 Grad und minus 10 Grad. Am Tag im Osten länger sonnig, sonst aufkommende Schneeschauer. Minus 2 bis plus 5 Grad.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -5548,7 +5918,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-17T01:12:44.000Z</updated>
         <summary type="html"><![CDATA[Die Nachfolge für die scheidende Bundesverteidigungsministerin Lambrecht soll heute bekannt gegeben werden.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -5558,7 +5928,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-17T01:12:44.000Z</updated>
         <summary type="html"><![CDATA[Der Vorstoß der Bundesregierung zu bezahlten Bildungszeiten für Beschäftigte stößt bei kleineren und mittelgroßen Unternehmen auf Skepsis.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -5568,7 +5938,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-17T01:12:44.000Z</updated>
         <summary type="html"><![CDATA[Die Stiftung Patientenschutz lehnt den Vorstoß von Bundesgesundheitsminister Lauterbach für ein neues Organspende-Gesetz ab.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -5578,7 +5948,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-17T01:12:44.000Z</updated>
         <summary type="html"><![CDATA[Vor dem Bundesfinanzhof wird heute über die Rechtmäßigkeit des Solidaritätszuschlags verhandelt.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -5588,7 +5958,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-17T01:12:44.000Z</updated>
         <summary type="html"><![CDATA[In Argentinien droht ein größerer Ausfall bei der Soja-Ernte.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -5598,7 +5968,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-17T01:12:44.000Z</updated>
         <summary type="html"><![CDATA[Im schweizerischen Davos beginnt heute der offizielle Teil des Weltwirtschaftsforums.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -5608,7 +5978,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-17T01:12:44.000Z</updated>
         <summary type="html"><![CDATA[In Straßburg haben sich mehr als zehntausend Menschen an einer Solidaritätskundgebung für die Protestbewegung im Iran beteiligt.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -5618,7 +5988,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-17T01:12:44.000Z</updated>
         <summary type="html"><![CDATA[Polen und Finnland erhöhen den Druck auf die Bundesregierung, eine Entscheidung über die Lieferung von Leopard-2-Panzern an die Ukraine zu treffen. Der polnische Ministerpräsident Morawiecki sagte, Deutschland müsse mehr Waffen liefern und - so wörtlich - "die Panzer nicht in den Depots lassen".]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -5628,7 +5998,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-17T01:12:44.000Z</updated>
         <summary type="html"><![CDATA[UNO-Generalsekretär Guterres hat den Raketenangriff auf ein Wohnhaus in der ukrainischen Großstadt Dnipro verurteilt.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -5638,7 +6008,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-17T01:12:44.000Z</updated>
         <summary type="html"><![CDATA[Die russische Luftwaffe hat nach Angaben aus Moskau ein deutsches Marineflugzeug abgefangen, das über der Ostsee auf Patrouillenflug war.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -5648,7 +6018,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-17T01:12:44.000Z</updated>
         <summary type="html"><![CDATA[In Sachsen-Anhalt sind die strafrechtlichen Ermittlungen wegen Extremismus-Verdachts gegen vier Beamte des Landeskriminalamts eingestellt worden.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -5658,7 +6028,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-17T01:12:44.000Z</updated>
         <summary type="html"><![CDATA[Im Braunkohletagebau Hambach im rheinischen Revier haben Klimaaktivisten die Besetzung eines Schaufelradbaggers beendet.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -5668,7 +6038,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-17T01:12:44.000Z</updated>
         <summary type="html"><![CDATA[Die britische Regierung will das sogenannte "Gender-Gesetz" von Schottland blockieren.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -5678,7 +6048,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-17T01:12:44.000Z</updated>
         <summary type="html"><![CDATA[Die italienische Schauspielerin Gina Lollobrigida ist im Alter von 95 Jahren gestorben.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -5688,7 +6058,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-17T01:12:44.000Z</updated>
         <summary type="html"><![CDATA[Die italienische Polizei hat den meistgesuchten Mafia-Boss des Landes verhaftet.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -5698,7 +6068,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-17T01:12:44.000Z</updated>
         <summary type="html"><![CDATA[Bei erneuten Durchsuchungen im Zusammenhang mit dem Terrorverdacht gegen zwei Männer in Castrop-Rauxel sind weitere Beweismittel gefunden worden.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -5708,7 +6078,7 @@ Zum Blog: Caschys Blog]]></summary>
         <updated>2023-01-17T01:12:44.000Z</updated>
         <summary type="html"><![CDATA[Der Wetterbericht, die Lage: Hinter einem abziehenden Tief fließt Meeresluft polaren Ursprungs ein, die das Wetter weiter unbeständig und zunehmend kühler gestaltet.]]></summary>
         <author>
-            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 29. Januar 2023</name>
+            <name>Deutschlandfunk - Fortlaufende Nachrichten vom 30. Januar 2023</name>
         </author>
     </entry>
     <entry>
@@ -11252,270 +11622,6 @@ Zum Blog: Caschys Blog
 Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
         <author>
             <name>caschy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spotify 2022: Das sind meine Song-, Alben-, und Künstlertipps des Jahres]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1142888</id>
-        <link href="https://stadt-bremerhaven.de/spotify-2022-das-sind-meine-song-alben-und-kuenstlertipps-des-jahres/"/>
-        <updated>2022-12-31T13:00:49.000Z</updated>
-        <summary type="html"><![CDATA[Zum Jahresende nehme ich es mir als Musikfan immer heraus, euch ein paar meiner persönlichen Lieblingssongs, -Alben, und -Künstler näherzubringen. So lausche ich bei der Arbeit im Home-Office im Grunde den ganzen Tag allerlei Klangkaskaden unterschiedlichster Genres. Gleichzeitig bin ich...
-Zum Beitrag: Spotify 2022: Das sind meine Song-, Alben-, und Künstlertipps des Jahres
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>André Westphal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sony PlayStation 5: Das sind meine Top 5 der Spiele des Jahres 2022]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1142242</id>
-        <link href="https://stadt-bremerhaven.de/sony-playstation-5-das-sind-meine-top-5-der-spiele-des-jahres-2022/"/>
-        <updated>2022-12-31T11:00:04.000Z</updated>
-        <summary type="html"><![CDATA[Das Jahr 2022 hat, blicke ich auf die letzten zwölf Monate zurück, doch mehr hochkarätige Spiele hervorgebracht, als ich zu Anfang angenommen hätte. Ich selbst zocke dabei sowohl an der Microsoft Xbox Series X als auch der PlayStation 5. Allerdings...
-Zum Beitrag: Sony PlayStation 5: Das sind meine Top 5 der Spiele des Jahres 2022
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>André Westphal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Netzteil mit 2 × 16-Pin PCIe 5.0: Galax HOF GH1300 mit bis zu 2.600 Watt und zwei 12VHPWR]]></title>
-        <id>https://www.computerbase.de/2022-12/galax-hof-gh1300-2600-watt-pcie-5-12vhpwr/</id>
-        <link href="https://www.computerbase.de/2022-12/galax-hof-gh1300-2600-watt-pcie-5-12vhpwr/"/>
-        <updated>2022-12-31T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/6/2/7/6-a4738c322a1d5288/article-640x360.bbb8f704.jpg"><p>Das Galax HOF GH1300 stellt bis zu 2.600 Watt Spitzenleistung („Peak“) und allein über die zwei nativen 12VHPWR-Kabel bis zu 1.200 Watt für die High-End-Grafikkarten der Serie GeForce RTX 4000 („Nvidia Ada Lovelace“) zur Verfügung. Das Netzteil ist außerdem mit 80Plus Platinum und vollständig nach ATX 3.0 zertifiziert.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vodafone veröffentlicht seine Mobilfunk-Analyse für 2022]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1154895</id>
-        <link href="https://stadt-bremerhaven.de/vodafone-veroeffentlicht-seine-mobilfunk-analyse-fuer-2022/"/>
-        <updated>2022-12-31T09:00:53.000Z</updated>
-        <summary type="html"><![CDATA[Vodafone hat seine Mobilfunk-Analyse für 2022 veröffentlicht. Darin fasst man einige interessante Daten aus dem gesamten Jahr zusammen. Wenig überraschend: Beim mobilen Datenverbrauch gibt es ein Wachstumsplus von 34 %. Den Rekord in der Nutzung habe es wiederum am Tag...
-Zum Beitrag: Vodafone veröffentlicht seine Mobilfunk-Analyse für 2022
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>André Westphal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jahresrückblick 2022: Das waren die Top-Beiträge in der Community]]></title>
-        <id>https://www.computerbase.de/2022-12/computerbase-forum-community-2022/</id>
-        <link href="https://www.computerbase.de/2022-12/computerbase-forum-community-2022/"/>
-        <updated>2022-12-31T08:30:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/6/2/7/3-efe3561ba4d17f9f/article-640x360.0d8f3357.jpg"><p>Zum Ende des Jahres 2022 veröffentlicht ComputerBase auch wieder einen Überblick über die in diesem Jahr meistgelesenen Leserartikel und Threads des Forums, welcher die redaktionellen Themen des Jahres 2022 ergänzen und spannende Berichte und Diskussionen aus dem ComputerBase-Forum in den Fokus rücken soll.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Medion Akoya E15411: Notebook mit 1 TByte Speicherplatz für 549 Euro bei Aldi]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1154904</id>
-        <link href="https://stadt-bremerhaven.de/medion-akoya-e15411-notebook-mit-1-tbyte-speicherplatz-fuer-549-euro-bei-aldi/"/>
-        <updated>2022-12-31T07:00:41.000Z</updated>
-        <summary type="html"><![CDATA[Medion und Aldi (Nord und Süd) schicken im Januar den Laptop Akoya E15411 ins Angebot. Es handelt sich hier um ein Modell mit 15,6 Zoll Diagonale, 1080p-Auflösung und ausladendem SSD-Speicherplatz von 1 TByte. Wo man mit der Kapazität nicht geizt,...
-Zum Beitrag: Medion Akoya E15411: Notebook mit 1 TByte Speicherplatz für 549 Euro bei Aldi
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>André Westphal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Im Test vor 15 Jahren: Was brachte günstiges Multi-GPU vor 15 Jahren?]]></title>
-        <id>https://www.computerbase.de/2022-12/multi-gpu-sli-crossfire-test-rueckblick/</id>
-        <link href="https://www.computerbase.de/2022-12/multi-gpu-sli-crossfire-test-rueckblick/"/>
-        <updated>2022-12-31T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/6/2/5/9-fbff81efb878ab55/article-640x360.faae894b.jpg"><p>Im Test vor 15 Jahren ging ComputerBase der Frage nach, ob ein System mit mehreren günstigen oder einer einzelnen teuren Grafikkarte (Test) besser war. Die Radeon HD 3850, die Radeon HD 3870 und die GeForce 8800 GT standen im Fokus, da sie extrem viel Leistung für wenig Geld boten. Der Gegner: GeForce 8800 Ultra.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bosch: Projekt „6G-ICAS4Mobility“ für die Mobilität der Zukunft mit 6G-Mobilfunk]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1155184</id>
-        <link href="https://stadt-bremerhaven.de/bosch-projekt-6g-icas4mobility-werkelt-fuer-die-mobilitaet-der-zukunft-am-6g-mobilfunk-mit/"/>
-        <updated>2022-12-31T05:30:23.000Z</updated>
-        <summary type="html"><![CDATA[Vernetzte und autonome Fahrzeuge werden wohl schon bald unser Bild von moderner Mobilität prägen. Mit einigen Partnern arbeitet Bosch da im Rahmen des Projekts „6G-ICAS4Mobility“ an der nächsten Mobilfunkgeneration. Denn der 6G-Standard wird bei der Mobilität der nächsten Generation eine...
-Zum Beitrag: Bosch: Projekt „6G-ICAS4Mobility“ für die Mobilität der Zukunft mit 6G-Mobilfunk
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>Felix Frank</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OS-Update 3.4 mischt das Steam Deck auf]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1155508</id>
-        <link href="https://stadt-bremerhaven.de/os-update-3-4-mischt-das-steam-deck-auf/"/>
-        <updated>2022-12-30T18:30:33.000Z</updated>
-        <summary type="html"><![CDATA[Vor einigen Tagen hat Entwickler Valve überraschend das neuste Update aus dem Preview-Kanal für alle Steam-Deck-Nutzerinnen und -Nutzer veröffentlicht. Hierbei dürfte es sich um das dickste Paket an Veränderungen seit Erscheinen des PC-Handhelds handeln. Viele Fixes und Verbesserungen Zum einen...
-Zum Beitrag: OS-Update 3.4 mischt das Steam Deck auf
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>Timo Schmidt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oppo soll an eigenen Smartphone-SoCs für 2024 arbeiten]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1155487</id>
-        <link href="https://stadt-bremerhaven.de/oppo-soll-an-eigenen-smartphone-socs-fuer-2024-arbeiten/"/>
-        <updated>2022-12-30T18:00:18.000Z</updated>
-        <summary type="html"><![CDATA[Derzeit dominieren MediaTek und Qualcomm im Markt für Smartphone-Chips. Klar, es gibt da auch noch beispielsweise Apple und Samsung, die ihr eigenes Süppchen kochen sowie kleinere Anbieter wie Rockchip und Unisoc. Doch nur wenige Smartphone-Hersteller investieren selbst in die Chipentwicklung....
-Zum Beitrag: Oppo soll an eigenen Smartphone-SoCs für 2024 arbeiten
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>André Westphal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chinesischer Hersteller Konka steigt mit OLED-TVs in den europäischen Markt ein]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1155457</id>
-        <link href="https://stadt-bremerhaven.de/chinesischer-hersteller-konka-steigt-mit-oled-tvs-in-den-europaeischen-markt-ein/"/>
-        <updated>2022-12-30T17:00:26.000Z</updated>
-        <summary type="html"><![CDATA[Der chinesische Hersteller Konka dürfte kaum einem Leser ein Begriff sein. Ich selbst kam mit dem Hersteller auf der CES einige Male in Berührung und schaute mir durchaus interessiert die Fernsehgeräte der Marke an. Dazu gehören neben LCDs mit Mini-LED-Hintergrundbeleuchtungen...
-Zum Beitrag: Chinesischer Hersteller Konka steigt mit OLED-TVs in den europäischen Markt ein
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>André Westphal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Neues Portal für die elektronische Gesetzesverkündung]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1155480</id>
-        <link href="https://stadt-bremerhaven.de/neues-portal-fuer-die-elektronische-gesetzesverkuendung/"/>
-        <updated>2022-12-30T16:30:07.000Z</updated>
-        <summary type="html"><![CDATA[Kleiner Linktipp zum Ende des Jahres. Das Bundesministerium der Justiz hat daran erinnert, dass zum 1. Januar 2023 das neue Portal für die elektronische Gesetzesverkündung startet. Diese Verkündungsplattform stellt Nutzern die amtliche Fassung des Bundesgesetzblattes (BGBl.) in einer PDF-Datei zur...
-Zum Beitrag: Neues Portal für die elektronische Gesetzesverkündung
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>caschy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TikTok wird in den USA auf Regierungsgeräten verboten]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1155447</id>
-        <link href="https://stadt-bremerhaven.de/tiktok-wird-in-den-usa-auf-regierungsgeraeten-verboten/"/>
-        <updated>2022-12-30T16:00:04.000Z</updated>
-        <summary type="html"><![CDATA[TikTok wird in den USA auf fast allen Regierungsgeräten verboten. Gemeint sind damit Endgeräte, die von Mitarbeitern von beispielsweise Behörden und Co. verwendet werden. Diese neue Regelung wurde in ein Dokument mit sagenhaften 4.155 Seiten gepackt, die sich vorwiegend um...
-Zum Beitrag: TikTok wird in den USA auf Regierungsgeräten verboten
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>André Westphal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Samsung Galaxy Book 3 Ultra: Erstes Bild aufgetaucht]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1155446</id>
-        <link href="https://stadt-bremerhaven.de/samsung-galaxy-book-3-ultra-erstes-bild-aufgetaucht/"/>
-        <updated>2022-12-30T15:30:25.000Z</updated>
-        <summary type="html"><![CDATA[Ein Samsung Galaxy Book 3 Ultra könnte vor der Tür stehen. Eine indische Webseite hat Zugriff auf Fotos des Notebooks bekommen. Die zeigen nicht nur das Samsung Galaxy Book 3 Ultra, es soll auch ein Galaxy Book 3 Pro und...
-Zum Beitrag: Samsung Galaxy Book 3 Ultra: Erstes Bild aufgetaucht
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>caschy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nvidia GeForce RTX 4090: Vaterloses Blower-Design lässt in China von sich hören]]></title>
-        <id>https://www.computerbase.de/2022-12/nvidia-geforce-rtx-4090-vaterloses-blower-design-laesst-in-china-von-sich-hoeren/</id>
-        <link href="https://www.computerbase.de/2022-12/nvidia-geforce-rtx-4090-vaterloses-blower-design-laesst-in-china-von-sich-hoeren/"/>
-        <updated>2022-12-30T15:10:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://pics.computerbase.de/1/0/6/2/7/4-8c0e374e38ad6cd3/article-640x360.77e01e19.jpg"><p>In China sind Bilder eines mysteriösen Custom-Designs der GeForce RTX 4090 (Test) aufgetaucht, das als erste Grafikkarte der Ada-Lovelace-Architektur auf einen Blower-Kühler setzt. Der Hersteller des Modells ist nicht bekannt.</p>]]></summary>
-        <author>
-            <name>ComputerBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Telegram: Update schaltet neue Zeichenfunktionen, Medien mit Spoiler-Effekten und mehr frei]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1155477</id>
-        <link href="https://stadt-bremerhaven.de/telegram-update-schaltet-neue-zeichenfunktionen-medien-mit-spoiler-effekten-und-mehr-frei/"/>
-        <updated>2022-12-30T15:00:28.000Z</updated>
-        <summary type="html"><![CDATA[Telegram hat für den gleichnamigen Messenger ein Update veröffentlicht. Damit verabschiedet man sich für 2022 und reicht zeitgleich einige Funktionen nach. Interessant mutet etwa die Funktion an, Spoiler zu verwenden, um Text in Nachrichten zunächst zu verbergen. Klappt jedoch auch...
-Zum Beitrag: Telegram: Update schaltet neue Zeichenfunktionen, Medien mit Spoiler-Effekten und mehr frei
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>André Westphal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[„S.T.A.L.K.E.R. 2: Heart of Chornobyl“: Neuer Trailer zum Spiel]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1155470</id>
-        <link href="https://stadt-bremerhaven.de/s-t-a-l-k-e-r-2-heart-of-chornobyl-neuer-trailer-zum-spiel/"/>
-        <updated>2022-12-30T14:30:21.000Z</updated>
-        <summary type="html"><![CDATA[„S.T.A.L.K.E.R. 2: Heart of Chornobyl“ soll nach aktueller Planung am 8. Dezember 2023 erscheinen. Zuvor hatte man den April 2023 anvisiert, doch der Angriffskrieg Russlands auf die Ukraine hat für die Entwickler GSC Game World einiges durcheinander gewirbelt. Denn GSC...
-Zum Beitrag: „S.T.A.L.K.E.R. 2: Heart of Chornobyl“: Neuer Trailer zum Spiel
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>André Westphal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[„Daymare: 1998“ ab sofort kostenlos bei GOG.com]]></title>
-        <id>https://stadt-bremerhaven.de/?p=1155436</id>
-        <link href="https://stadt-bremerhaven.de/daymare-1998-ab-sofort-kostenlos-bei-gog-com/"/>
-        <updated>2022-12-30T14:00:10.000Z</updated>
-        <summary type="html"><![CDATA[Das Spiel „Daymare: 1998“ ist ab sofort bei GOG.com gratis. Dabei handelt es sich ein Survival-Horror-Spiel aus der Third-Person-Ansicht. Den Gegnern ist hier nur schwer beizukommen, sodass ihr strategisch vorgehen müsst. Auch einige Rätseleinlagen gibt es. Die Geschichte wird aus...
-Zum Beitrag: „Daymare: 1998“ ab sofort kostenlos bei GOG.com
-
-Zum Blog: Caschys Blog
-
-
-Der ungekürzte RSS-Feed wird präsentiert von:]]></summary>
-        <author>
-            <name>André Westphal</name>
         </author>
     </entry>
     <entry>
