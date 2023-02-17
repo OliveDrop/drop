@@ -6,6 +6,206 @@
       "siteUrl": "https://stadt-bremerhaven.de",
       "articles": [
         {
+          "id": "https://stadt-bremerhaven.de/?p=1163062",
+          "author": "Benjamin Mamerow",
+          "description": "Das Unternehmen Tesla ruft aktuell knapp über 360.000 seiner Fahrzeuge zurück, wobei „Rückruf“ hier recht missverständlich, doch wohl rechtlich vorausgesetzt ist. Deutsche Fahrzeuge seine keine betroffen, ein Softwarefehler in der aktuellen Testversion des „Full Self-Driving“ soll zu einer erhöhten Unfallgefahr...\nZum Beitrag: Erhöhte Unfallgefahr: Tesla „ruft“ rund 360.000 Fahrzeuge wegen eines Softwarefehlers zurück (nicht DE)\r\n\r\nZum Blog: Caschys Blog",
+          "link": "https://stadt-bremerhaven.de/erhoehte-unfallgefahr-tesla-ruft-rund-360-000-fahrzeuge-wegen-eines-softwarefehlers-zurueck-nicht-de/",
+          "publishedOn": "2023-02-16T20:31:26.000Z",
+          "wordCount": 1764,
+          "title": "Erhöhte Unfallgefahr: Tesla „ruft“ rund 360.000 Fahrzeuge wegen eines Softwarefehlers zurück (nicht DE)",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/11/Tesla-Model-3.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1163050",
+          "author": "Benjamin Mamerow",
+          "description": "Apple hat die erste Beta von iOS 16.4 und iPadOS 16.4 veröffentlicht. Neben einigen anderen Neuerungen ziehen aber auch ein paar frische Emojis ins System ein, die dann für die breite Masse mit dem offiziellen Release von iPadOS/iOS 16.4 erscheinen...\nZum Beitrag: Apple: Erste neue Emojis in iOS 16.4 Beta 1 verfügbar\r\n\r\nZum Blog: Caschys Blog",
+          "link": "https://stadt-bremerhaven.de/apple-erste-neue-emojis-in-ios-16-4-beta-1-verfuegbar/",
+          "publishedOn": "2023-02-16T19:45:41.000Z",
+          "wordCount": 1808,
+          "title": "Apple: Erste neue Emojis in iOS 16.4 Beta 1 verfügbar",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2023/02/ios-16-4-neue-emojis.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1163051",
+          "author": "caschy",
+          "description": "Apple führt mit iOS 16.4, gerade als erste Betaversion erschienen, neue Möglichkeiten ein, wie Nutzer Betas erhalten können. Anwender, die bereits eine Entwickler-Beta nutzen, können später in den Einstellungen des Software-Updates wählen, welchen Beta-Pfad sie beschreiten: keinen, den der öffentlichen...\nZum Beitrag: Apple: Beta-Versionen künftig nur über die Update-Einstellungen\r\n\r\nZum Blog: Caschys Blog",
+          "link": "https://stadt-bremerhaven.de/apple-beta-versionen-kuenftig-nur-ueber-die-update-einstellungen/",
+          "publishedOn": "2023-02-16T19:20:06.000Z",
+          "wordCount": 2044,
+          "title": "Apple: Beta-Versionen künftig nur über die Update-Einstellungen",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2023/02/IMG_3551_.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1163040",
+          "author": "caschy",
+          "description": "iOS 16.4 wurde als Beta veröffentlicht. Darin enthalten eine doch interessante Neuerung für Entwickler und Anwender, die nicht oder nicht ausschließlich auf den Browser Safari setzen. Seit dem ersten iPhone können Nutzer jede beliebige Website zu ihrem Startbildschirm hinzufügen –...\nZum Beitrag: iOS 16.4: Dritt-Browser können Webseiten und -Apps über das Menü „Teilen“ zum Startbildschirm hinzuzufügen\r\n\r\nZum Blog: Caschys Blog",
+          "link": "https://stadt-bremerhaven.de/ios-16-4-dritt-browser-koennen-webseiten-und-apps-ueber-das-menue-teilen-zum-startbildschirm-hinzuzufuegen/",
+          "publishedOn": "2023-02-16T19:03:41.000Z",
+          "wordCount": 1979,
+          "title": "iOS 16.4: Dritt-Browser können Webseiten und -Apps über das Menü „Teilen“ zum Startbildschirm hinzuzufügen",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2023/02/Web_Push_on_iOS_.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1163025",
+          "author": "caschy",
+          "description": "Nachdem Apple seinen eigenen Prozessoren in den Macs verbaut hat, war es auf diesen Maschinen nicht mehr möglich, Windows über Bootcamp zu installieren. Selbst virtuelle Maschinen scheiterten anfangs, da es keine Umsetzung für die ARM-Plattform gab. Das ist mittlerweile anders,...\nZum Beitrag: Microsoft unterstützt Windows 11 auf Macs mit Apple-Chips durch Parallels-Partnerschaft\r\n\r\nZum Blog: Caschys Blog",
+          "link": "https://stadt-bremerhaven.de/microsoft-unterstuetzt-windows-11-auf-macs-mit-apple-chips-durch-parallels-partnerschaft/",
+          "publishedOn": "2023-02-16T18:25:59.000Z",
+          "wordCount": 1940,
+          "title": "Microsoft unterstützt Windows 11 auf Macs mit Apple-Chips durch Parallels-Partnerschaft",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/08/parallels_18_1_.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1159262",
+          "author": "Olli",
+          "description": "Apple hat neulich iOS 16.3.1 veröffentlicht und damit ein paar wichtige Sicherheitsfunktionen und andere Dinge – unter anderem HomePod-Neuerungen – bereitgestellt. Man hat noch weitere Verbesserungen geplant und geht direkt in die nächste Beta. iPadOS 16.4 / iOS 16.4 wird...\nZum Beitrag: iPadOS und iOS 16.4 Beta 1 veröffentlicht\r\n\r\nZum Blog: Caschys Blog",
+          "link": "https://stadt-bremerhaven.de/ipados-und-ios-16-4-beta-1-veroeffentlicht/",
+          "publishedOn": "2023-02-16T18:07:57.000Z",
+          "wordCount": 1879,
+          "title": "iPadOS und iOS 16.4 Beta 1 veröffentlicht",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/06/ios16.jpeg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1162997",
+          "author": "caschy",
+          "description": "Nutzer des Messengers Signal können nun Nachrichten planen. Zur Stunde ist die Funktion allerdings erst einmal nur auf der Android-Plattform nutzbar, momentan ist es unter iOS noch nicht machbar. Das Ausführen ist ganz einfach: Man öffnet einen beliebigen Chat und...\nZum Beitrag: Signal: Nachrichten lassen sich zum Versand planen\r\n\r\nZum Blog: Caschys Blog",
+          "link": "https://stadt-bremerhaven.de/signal-nachrichten-lassen-sich-zum-versand-planen/",
+          "publishedOn": "2023-02-16T17:44:00.000Z",
+          "wordCount": 1898,
+          "title": "Signal: Nachrichten lassen sich zum Versand planen",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2023/02/signal-schedule_.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1162676",
+          "author": "André Westphal",
+          "description": "Instagram stellt das Live-Shopping ab dem 16. März 2023 ein. Im englischsprachigen Hilfebereich wird darauf laut den Kollegen von Engadget schon hingewiesen. Im deutschsprachigen Pendant ist davon noch nichts zu sehen. Wie das bisher ablief? Kommerzielle Anbieter bzw. Influencer konnten...\nZum Beitrag: Instagram stampft das Live-Shopping ab 16. März 2023 ein\r\n\r\nZum Blog: Caschys Blog",
+          "link": "https://stadt-bremerhaven.de/instagram-stampft-das-live-shopping-ab-16-maerz-2023-ein/",
+          "publishedOn": "2023-02-16T17:30:34.000Z",
+          "wordCount": 1930,
+          "title": "Instagram stampft das Live-Shopping ab 16. März 2023 ein",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2021/01/Instagram-Logo-2020.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1162930",
+          "author": "caschy",
+          "description": "Über die Smart-Home-App Home Connect Plus haben wir schon einige Male berichtet. Ein Projekt einer Firma, hinter der Bosch steht. Mit der App sollen sich nicht kompatible Systeme im Smart Home verzahnen lassen. In der breiten unterstützten Produktpalette finden Kunden eine Vielzahl...\nZum Beitrag: Home Connect Plus: Grüner Strom und Akku-Warnmeldungen\r\n\r\nZum Blog: Caschys Blog",
+          "link": "https://stadt-bremerhaven.de/home-connect-plus-gruener-strom-und-akku-warnmeldungen/",
+          "publishedOn": "2023-02-16T17:00:34.000Z",
+          "wordCount": 2016,
+          "title": "Home Connect Plus: Grüner Strom und Akku-Warnmeldungen",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2023/02/home-connect-batterie_.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1162979",
+          "author": "caschy",
+          "description": "Die Fitness-App Strava bekommt neue Funktionen – und damit ist nicht die überraschende Preiserhöhung gemeint. Strava startete heute das neue Kartenlayer „Streckenfotos“ und erweitert damit eines der beliebtesten Community-Features: Stravas Routenempfehlungen. Die Fotos zur Wegesituation machen die Planung von Rad-...\nZum Beitrag: Strava bekommt neuen Kartenlayer „Streckenfotos“\r\n\r\nZum Blog: Caschys Blog",
+          "link": "https://stadt-bremerhaven.de/strava-bekommt-neuen-kartenlayer-streckenfotos/",
+          "publishedOn": "2023-02-16T16:32:40.000Z",
+          "wordCount": 1948,
+          "title": "Strava bekommt neuen Kartenlayer „Streckenfotos“",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2020/05/strava-logo.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1162972",
+          "author": "caschy",
+          "description": "Sonos bringt bald neue Lautsprecher auf den Markt und der eigene Sonos-Radio-Service soll erweitert werden. So wird Deezer ab April den Streaming-Radiodienst, Sonos Radio und dessen Abonnentenservice Sonos Radio HD, einen umfangreichen, für Sonos-Kunden kuratierten Musikkatalog bereitstellen. Dazu gehören ein...\nZum Beitrag: Deezer liefert Musik für Sonos Radio HD\r\n\r\nZum Blog: Caschys Blog",
+          "link": "https://stadt-bremerhaven.de/deezer-liefert-musik-fuer-sonos-radio-hd/",
+          "publishedOn": "2023-02-16T16:17:23.000Z",
+          "wordCount": 1846,
+          "title": "Deezer liefert Musik für Sonos Radio HD",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2019/05/deezer_logo_neu_05_19.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1162798",
+          "author": "Olli",
+          "description": "Es ist Donnerstag und damit mal wieder Zeit für einen Blick in den Epic Games Store. Dort gibt es jede Woche mindestens ein Spiel, das man kostenlos zu seiner Bibliothek hinzufügen kann. In dieser Woche gibt es den Titel „Warpips“...\nZum Beitrag: Epic Games Store: „Warpips“ kostenlos erhältlich\r\n\r\nZum Blog: Caschys Blog",
+          "link": "https://stadt-bremerhaven.de/epic-games-store-warpips-kostenlos-erhaeltlich/",
+          "publishedOn": "2023-02-16T16:00:33.000Z",
+          "wordCount": 1799,
+          "title": "Epic Games Store: „Warpips“ kostenlos erhältlich",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/03/Epic-Games-Logo.jpeg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1162965",
+          "author": "André Westphal",
+          "description": "Apple hat den offiziellen Trailer zum Film „Tetris“ veröffentlicht. Der Streifen mit Taron Egerton („Kingsmen – The Secret Service“) in der Hauptrolle wird am 31. März 2023 beim Streaming-Anbieter starten. Die Handlung basiert auf der wahren Entstehungsgeschichte des Spiels, der...\nZum Beitrag: „Tetris“: Offizieller Trailer zum Film von Apple TV+\r\n\r\nZum Blog: Caschys Blog",
+          "link": "https://stadt-bremerhaven.de/tetris-offizieller-trailer-zum-film-von-apple-tv/",
+          "publishedOn": "2023-02-16T15:47:39.000Z",
+          "wordCount": 1876,
+          "title": "„Tetris“: Offizieller Trailer zum Film von Apple TV+",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2023/02/Apple-Tetris.jpeg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1162959",
+          "author": "André Westphal",
+          "description": "Lionsgate hatte es zuvor angekündigt und nun ist er da: der finale Trailer zum kommenden „John Wick: Chapter 4“. Erneut übernimmt hier natürlich Keanu Reeves die Rolle des titelgebenden Attentäters. Anlaufen wird der Action-Kracher im Kino Ende März 2023. Ebenfalls...\nZum Beitrag: „John Wick: Chapter 4“ zeigt sich im finalen Trailer\r\n\r\nZum Blog: Caschys Blog",
+          "link": "https://stadt-bremerhaven.de/john-wick-chapter-4-zeigt-sich-im-finalen-trailer/",
+          "publishedOn": "2023-02-16T15:28:16.000Z",
+          "wordCount": 2165,
+          "title": "„John Wick: Chapter 4“ zeigt sich im finalen Trailer",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/07/John-Wick-4.jpeg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1162874",
+          "author": "André Westphal",
+          "description": "Zuletzt hatte ich 2021 über die neue Serie „Der Greif“ berichtet, die damals von Amazon Prime Video angekündigt worden war. Mittlerweile kennen wir den Starttermin: Es ist der 26. Mai 2023. Es handelt sich hier um eine Fantasy-Serie, die auf...\nZum Beitrag: „Der Greif“: Serie startet am 26.05.2023 bei Amazon Prime Video (Teaser)\r\n\r\nZum Blog: Caschys Blog",
+          "link": "https://stadt-bremerhaven.de/der-greif-serie-startet-am-26-05-2023-bei-amazon-prime-video-teaser/",
+          "publishedOn": "2023-02-16T15:00:49.000Z",
+          "wordCount": 1891,
+          "title": "„Der Greif“: Serie startet am 26.05.2023 bei Amazon Prime Video (Teaser)",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2021/11/Amazon-Der-Greif.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1162768",
+          "author": "Felix Frank",
+          "description": "Zum Monatsbeginn ließ Sony bereits die ersten Februar-Titel für PlayStation-Plus-Abonnenten aus dem Sack. Hierbei handelte es sich um die Essential-Titel, welche allen Abonnenten offen stehen. Nutzer der Abo-Stufen Extra und Premium bezahlen mehr, erhalten aber auch Zugriff auf weitere Titel....\nZum Beitrag: PlayStation Plus: Extra- & Premium-Angebot im Februar\r\n\r\nZum Blog: Caschys Blog",
+          "link": "https://stadt-bremerhaven.de/playstation-plus-extra-premium-angebot-im-februar/",
+          "publishedOn": "2023-02-16T14:30:03.000Z",
+          "wordCount": 2118,
+          "title": "PlayStation Plus: Extra- & Premium-Angebot im Februar",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2023/02/4ab6fe7af02c2cc7e14e50b981ce9a742c2763f6.jpg.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1162834",
+          "author": "Felix Frank",
+          "description": "Der Hersteller Framework hat sich dem Thema Reparierbarkeit verschrieben. Auch hierzulande ist man mit seinen modularen Notebooks am Markt. Diese zeigen: Modularität und kompaktes, ansprechendes Design sind nicht zwangsläufig ein Widerspruch. Neben der Möglichkeit für Reparaturen und Upgrades kommt dies...\nZum Beitrag: Framework: Refurbished-Programm wird auf die EU ausgeweitet\r\n\r\nZum Blog: Caschys Blog",
+          "link": "https://stadt-bremerhaven.de/framework-refurbished-programm-wird-auf-die-eu-ausgeweitet/",
+          "publishedOn": "2023-02-16T14:00:19.000Z",
+          "wordCount": 2058,
+          "title": "Framework: Refurbished-Programm wird auf die EU ausgeweitet",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2021/12/framework_Blog.webp"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1162819",
+          "author": "caschy",
+          "description": "Neuerungen gibt es in den nächsten Wochen für Nutzer von YouTube Kids auf Smart-TVs. Wenn man als Elternteil die YouTube-App auf einem Smart-TV, Streaminggerät oder einer Spielekonsole verwendet, kann man bald über das YouTube-Kids-Profil eines Kindes auf die kindgerechte YouTube-Kids-App...\nZum Beitrag: YouTube Kids auf dem Smart-TV: Bald schnellerer Zugriff möglich\r\n\r\nZum Blog: Caschys Blog",
+          "link": "https://stadt-bremerhaven.de/youtube-kids-auf-dem-smart-tv-bald-schnellerer-zugriff-moeglich/",
+          "publishedOn": "2023-02-16T13:30:49.000Z",
+          "wordCount": 1985,
+          "title": "YouTube Kids auf dem Smart-TV: Bald schnellerer Zugriff möglich",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2023/02/youtube-kids_.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1162924",
+          "author": "caschy",
+          "description": "Eve Systems, ein Anbieter von Smart-Home-Geräten, hat heute die Verfügbarkeit des „Eve MotionBlinds Upgrade Kit“ für Rollos bekannt gegeben. Die Nachrüstlösung für bestehende Rollos wertet gängige Dritthersteller-Rollos mit der Thread-Technologie sowie dem Funktionsumfang von Apple Home und der Eve-App auf....\nZum Beitrag: Eve MotionBlinds: Upgrade-Kit ab sofort verfügbar\r\n\r\nZum Blog: Caschys Blog",
+          "link": "https://stadt-bremerhaven.de/eve-motionblinds-upgrade-kit-ab-sofort-verfuegbar/",
+          "publishedOn": "2023-02-16T13:15:25.000Z",
+          "wordCount": 2129,
+          "title": "Eve MotionBlinds: Upgrade-Kit ab sofort verfügbar",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2023/02/2302-Eve_MotionBlinds_UpgradeKit_Device_5_.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1162855",
+          "author": "André Westphal",
+          "description": "Apple will gerne mehr Geräte in Indien produzieren lassen und sich weniger abhängig von der chinesischen Zulieferindustrie machen. Wie The Financial Times berichtet, läuft das bisher aber weniger erfolgreich als erhofft. Um den Prozess zu beschleunigen, hatte das Unternehmen aus...\nZum Beitrag: Apples Verlagerung der Produktion nach Indien stößt auf Probleme\r\n\r\nZum Blog: Caschys Blog",
+          "link": "https://stadt-bremerhaven.de/apples-verlagerung-der-produktion-nach-indien-stoesst-auf-probleme/",
+          "publishedOn": "2023-02-16T13:00:10.000Z",
+          "wordCount": 2283,
+          "title": "Apples Verlagerung der Produktion nach Indien stößt auf Probleme",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2021/12/Apple-Logo-Shop.jpg"
+        },
+        {
           "id": "https://stadt-bremerhaven.de/?p=1162764",
           "author": "Felix Frank",
           "description": "Bereits im Herbst des vergangenen Jahres mussten wir berichten, dass die App des Herstellers für Smart-Home-Komponenten Aqara nicht im Google Play Store zu finden ist. Die App dient der Steuerung der Komponenten durch die hauseigenen Hubs. Man gab damals technische...\nZum Beitrag: Aqara: Smart-Home-App wieder nicht im Google Play Store zu finden\r\n\r\nZum Blog: Caschys Blog",
@@ -4954,136 +5154,6 @@
           "wordCount": 1888,
           "title": "Adobe nutzt eure Bilder nach eigenen Angaben nicht für KI-Kunst",
           "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/09/adobe_.jpg"
-        },
-        {
-          "id": "https://stadt-bremerhaven.de/?p=1158098",
-          "author": "Benjamin Mamerow",
-          "description": "„Twitter setzt seine langjährigen API-Regeln durch. Das kann dazu führen, dass einige Apps nicht funktionieren.“ – das soll die Erklärung dafür sein, warum Drittanbieter-Apps mittlerweile nicht mehr mit dem eigentlichen Dienst Twitter funktionieren und damit aktuell obsolet sind. Bestätigt wurde...\nZum Beitrag: Twitter: Lahme Begründung für beendete Unterstützung von Drittanbieter-Apps veröffentlicht\r\n\r\nZum Blog: Caschys Blog",
-          "link": "https://stadt-bremerhaven.de/twitter-lahme-begruendung-fuer-beendete-unterstuetzung-von-drittanbieter-apps-veroeffentlicht/",
-          "publishedOn": "2023-01-17T19:56:39.000Z",
-          "wordCount": 1678,
-          "title": "Twitter: Lahme Begründung für beendete Unterstützung von Drittanbieter-Apps veröffentlicht",
-          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/05/Twitter-logo-2022.jpg"
-        },
-        {
-          "id": "https://stadt-bremerhaven.de/?p=1158099",
-          "author": "caschy",
-          "description": "Wololooooo! Gute Nachrichten für alle Age-of-Empires-Fans, die aus irgendwelchen Gründen nicht mehr auf einem Windows-PC spielen können oder wollen. Age of Empires erscheint für die Xbox und Microsofts Cloud-Gaming. Konkret: Age of Empires II: Definitive Edition und Age of Empires...\nZum Beitrag: Age of Empires 2: Ab 31. Januar auf der Xbox und im Cloud-Gaming\r\n\r\nZum Blog: Caschys Blog",
-          "link": "https://stadt-bremerhaven.de/age-of-empires-2-ab-31-januar-auf-der-xbox-und-im-cloud-gaming/",
-          "publishedOn": "2023-01-17T19:49:37.000Z",
-          "wordCount": 1763,
-          "title": "Age of Empires 2: Ab 31. Januar auf der Xbox und im Cloud-Gaming",
-          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2023/01/aoe2_.jpg"
-        },
-        {
-          "id": "https://stadt-bremerhaven.de/?p=1158088",
-          "author": "Benjamin Mamerow",
-          "description": "Wir berichteten bereits darüber, dass Google den Nutzern seines Spielestreamingdienstes Stadia noch ein kleines Geschenk zum Abschluss machen wollte, das nicht nur nachhaltig ist, sondern auch dafür sorgt, dass ihr euren Stadia-Controller sinnvoll weiterverwenden dürft. Die Rede war von einem...\nZum Beitrag: Stadia: Bluetooth-Modus für den Controller kann ab sofort aktiviert werden\r\n\r\nZum Blog: Caschys Blog",
-          "link": "https://stadt-bremerhaven.de/stadia-bluetooth-modus-fuer-den-controller-kann-ab-sofort-aktiviert-werden/",
-          "publishedOn": "2023-01-17T18:37:27.000Z",
-          "wordCount": 1958,
-          "title": "Stadia: Bluetooth-Modus für den Controller kann ab sofort aktiviert werden",
-          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2023/01/2023-01-17-19.31.12.jpg"
-        },
-        {
-          "id": "https://stadt-bremerhaven.de/?p=1158061",
-          "author": "André Westphal",
-          "description": "Die Serie „The Last of Us“ ist mittlerweile angelaufen – in den USA beim Pay-TV-Anbieter HBO bzw. dem Streaming-Dienst HBO Max und in Deutschland bei Sky / WOW. Mittlerweile hat Warner Bros. offenbar eine Pressemeldung rausgehauen, denn mehrere US-Portale berichten...\nZum Beitrag: „The Last of Us“: Premiere der Serie ist für HBO direkt ein voller Erfolg\r\n\r\nZum Blog: Caschys Blog",
-          "link": "https://stadt-bremerhaven.de/the-last-of-us-premiere-der-serie-ist-fuer-hbo-direkt-ein-voller-erfolg/",
-          "publishedOn": "2023-01-17T18:00:01.000Z",
-          "wordCount": 2134,
-          "title": "„The Last of Us“: Premiere der Serie ist für HBO direkt ein voller Erfolg",
-          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/09/lastofus_.jpg"
-        },
-        {
-          "id": "https://stadt-bremerhaven.de/?p=1157958",
-          "author": "André Westphal",
-          "description": "Der Google Übersetzer alias Google Translate erhält für seine Offline-Übersetzungsfunktion 33 neue Sprachen. Bevor jene offline genutzt werden können, müsst ihr sie dann aber jeweils in der App herunterladen. Wollt ihr euch die korrekte Betonung anhören, seid ihr aber dennoch...\nZum Beitrag: Google Translate erhält 33 neue Offline-Sprachen\r\n\r\nZum Blog: Caschys Blog",
-          "link": "https://stadt-bremerhaven.de/google-translate-erhaelt-33-neue-offline-sprachen/",
-          "publishedOn": "2023-01-17T17:30:55.000Z",
-          "wordCount": 1652,
-          "title": "Google Translate erhält 33 neue Offline-Sprachen",
-          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/01/google-logo.jpg"
-        },
-        {
-          "id": "https://stadt-bremerhaven.de/?p=1158075",
-          "author": "caschy",
-          "description": "Ubisoft gab heute bekannt, dass zum ersten Mal seit 25 Jahren ein Anno-Spiel der Hauptreihe als Konsolenversion auf den Markt kommt. Mit mehr als 2,5 Millionen Spieler sei Anno 1800 das meistverkaufte Spiel der gesamten Marke und wird am 16....\nZum Beitrag: Anno 1800 erscheint im März für Konsolen\r\n\r\nZum Blog: Caschys Blog",
-          "link": "https://stadt-bremerhaven.de/anno-1800-erscheint-im-maerz-fuer-konsolen/",
-          "publishedOn": "2023-01-17T17:11:59.000Z",
-          "wordCount": 1797,
-          "title": "Anno 1800 erscheint im März für Konsolen",
-          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2023/01/Anno1800_Review_Screenshot_Island_960x540_.jpg"
-        },
-        {
-          "id": "https://stadt-bremerhaven.de/?p=1158065",
-          "author": "Felix Frank",
-          "description": "Vielfach wünschten sich Nutzer der Notizbuch-App „Good Notes“ Audio-Aufnahmen. Bislang ist die beliebte App nach wie vor nur für Mac sowie iPhone und iPad zu haben. Android- sowie Windows-App befinden sich aber in der Entwicklung, bzw. im Falle von Windows...\nZum Beitrag: GoodNotes: Ab sofort mit Unterstützung für Audioaufnahmen\r\n\r\nZum Blog: Caschys Blog",
-          "link": "https://stadt-bremerhaven.de/goodnotes-ab-sofort-mit-unterstuetzung-fuer-audioaufnahmen/",
-          "publishedOn": "2023-01-17T17:00:22.000Z",
-          "wordCount": 1747,
-          "title": "GoodNotes: Ab sofort mit Unterstützung für Audioaufnahmen",
-          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2020/08/goodnotes.jpeg"
-        },
-        {
-          "id": "https://stadt-bremerhaven.de/?p=1158039",
-          "author": "André Westphal",
-          "description": "Samsung hat sein Galaxy Book2 Go jetzt auch als 5G-Version vorgestellt. Während das Notebook (ohne 5G) auf ARM-Basis zuvor schon für den französischen Markt bestätigt worden ist, warten wir in Deutschland aber generell noch auf eine offizielle Ansage. Es...\nZum Beitrag: Samsung Galaxy Book2 Go 5G vorgestellt\r\n\r\nZum Blog: Caschys Blog",
-          "link": "https://stadt-bremerhaven.de/samsung-galaxy-book2-go-5g-vorgestellt/",
-          "publishedOn": "2023-01-17T16:30:44.000Z",
-          "wordCount": 1782,
-          "title": "Samsung Galaxy Book2 Go 5G vorgestellt",
-          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2023/01/Galaxy-Book2-Go-Main-e1673881881977.jpg"
-        },
-        {
-          "id": "https://stadt-bremerhaven.de/?p=1157978",
-          "author": "André Westphal",
-          "description": "YouTube hatte vor einiger Zeit seine Vorgaben für die Monetarisierung angepasst. Da ging es unter anderem um Gewaltdarstellungen in etwa Spielen, aber auch ums Fluchen. Durch die Veränderungen flogen etliche Gaming-Videos im Nachhinein aus der Monetarisierung heraus. Klar, dass diese...\nZum Beitrag: YouTube will auf die Kritik der Gaming-Community reagieren\r\n\r\nZum Blog: Caschys Blog",
-          "link": "https://stadt-bremerhaven.de/youtube-will-auf-die-kritik-der-gaming-community-reagieren/",
-          "publishedOn": "2023-01-17T16:00:56.000Z",
-          "wordCount": 1946,
-          "title": "YouTube will auf die Kritik der Gaming-Community reagieren",
-          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2018/04/youtube_logo_2018.jpg"
-        },
-        {
-          "id": "https://stadt-bremerhaven.de/?p=1158053",
-          "author": "caschy",
-          "description": "Mozilla hat den Browser Firefox in der Version 109.0 veröffentlicht. Die Unterstützung von Erweiterungen der Manifest-Version 3 (MV3) ist jetzt standardmäßig aktiviert (MV2 wird weiterhin aktiviert/unterstützt). Dieses große Update bringt auch eine interessante Änderung der Benutzeroberfläche in Form der neuen...\nZum Beitrag: Firefox 109.0 veröffentlicht\r\n\r\nZum Blog: Caschys Blog",
-          "link": "https://stadt-bremerhaven.de/firefox-109-0-veroeffentlicht/",
-          "publishedOn": "2023-01-17T15:30:16.000Z",
-          "wordCount": 2048,
-          "title": "Firefox 109.0 veröffentlicht",
-          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2023/01/firefox-erweiterung_.jpg"
-        },
-        {
-          "id": "https://stadt-bremerhaven.de/?p=1157989",
-          "author": "André Westphal",
-          "description": "Amazon hat laut einem Bericht der Kollegen von AFTVNews eine weitreichende Änderung für seine Fire-TV-Plattform durchgeführt. Demnach können Apps für die Streaming-Player kein Deep-Linking mehr durchführen. Im Klartext heißt das, Apps können nicht mehr direkt Inhalte aus anderen Apps aufrufen....\nZum Beitrag: Amazon Fire TV: Apps können offenbar kein Deep-Linking mehr nutzen\r\n\r\nZum Blog: Caschys Blog",
-          "link": "https://stadt-bremerhaven.de/amazon-fire-tv-apps-koennen-offenbar-kein-deep-linking-mehr-nutzen/",
-          "publishedOn": "2023-01-17T15:00:54.000Z",
-          "wordCount": 1962,
-          "title": "Amazon Fire TV: Apps können offenbar kein Deep-Linking mehr nutzen",
-          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/10/fire-tv-cube_.jpg"
-        },
-        {
-          "id": "https://stadt-bremerhaven.de/?p=1158025",
-          "author": "caschy",
-          "description": "Gleich zwei neue MacBook-Pro-Modelle und den neuen Mac mini hat Apple vorgestellt. Eine Serie kommt mit dem Chip M2 Pro, die andere mit dem M2 Max. Der M2 Pro erweitert die Architektur von M2 und bietet eine CPU mit bis...\nZum Beitrag: Apple MacBook Pro mit M2 Pro und M2 Max sowie neuer Mac mini vorgestellt\r\n\r\nZum Blog: Caschys Blog",
-          "link": "https://stadt-bremerhaven.de/apple-macbook-pro-mit-m2-pro-und-m2-max-sowie-neuer-mac-mini-vorgestellt/",
-          "publishedOn": "2023-01-17T14:20:32.000Z",
-          "wordCount": 3088,
-          "title": "Apple MacBook Pro mit M2 Pro und M2 Max sowie neuer Mac mini vorgestellt",
-          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2023/01/macbook-pro-2022_.jpg"
-        },
-        {
-          "id": "https://stadt-bremerhaven.de/?p=1157897",
-          "author": "Benjamin Mamerow",
-          "description": "Mit Sicherheit kennt noch der eine oder andere Leser die Synchronisationssoftware Allway Sync oder hat diese gar noch selbst in Verwendung? Über jene berichten wir hier im Blog schon seit vielen Jahren, nun informierte uns das Team von GoodSync darüber,...\nZum Beitrag: GoodSync kauft Synchronisationssoftware Allway Sync\r\n\r\nZum Blog: Caschys Blog",
-          "link": "https://stadt-bremerhaven.de/goodsync-kauft-synchronisationssoftware-allway-sync/",
-          "publishedOn": "2023-01-17T14:00:43.000Z",
-          "wordCount": 1882,
-          "title": "GoodSync kauft Synchronisationssoftware Allway Sync",
-          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2023/01/googdsync.jpg"
         }
       ]
     },
@@ -5092,6 +5162,66 @@
       "feedUrl": "https://www.computerbase.de/rss/news.xml",
       "siteUrl": "https://www.computerbase.de/",
       "articles": [
+        {
+          "id": "https://www.computerbase.de/2023-02/bing-suche-mit-chatgpt-microsofts-fazit-nach-7-skurrilen-und-fehlerhaften-tagen/",
+          "author": null,
+          "description": "<img src=\"https://pics.computerbase.de/1/0/6/8/1/4-2b9ecbf622cad9f0/article-640x360.0138b3c7.jpg\"><p>Seit über einer Woche kann eine stetig wachsende Anzahl an Nutzern Microsofts KI-Variante von Bing mit ChatGPT-Motor testen. Nur ist der anfängliche Hype ein Stück weit verschwunden. Der Grund sind fehlerhafte und bisweilen skurrile Antworten. Microsofts erstes Fazit ist dennoch positiv.</p>",
+          "link": "https://www.computerbase.de/2023-02/bing-suche-mit-chatgpt-microsofts-fazit-nach-7-skurrilen-und-fehlerhaften-tagen/",
+          "publishedOn": "2023-02-16T20:29:00.000Z",
+          "wordCount": 1230,
+          "title": "Bing-Suche mit ChatGPT: Microsofts Fazit nach 7 skur­rilen und fehlerhaften Tagen",
+          "imageUrl": "https://pics.computerbase.de/1/0/6/8/1/4-2b9ecbf622cad9f0/article-1280x720.0138b3c7.jpg"
+        },
+        {
+          "id": "https://www.computerbase.de/2023-02/aorus-rtx-4090-gaming-box-nvidias-flaggschiff-kommt-ins-egpu-gehaeuse-von-gigabyte/",
+          "author": null,
+          "description": "<img src=\"https://pics.computerbase.de/1/0/6/8/1/3-850afd2edd18a0da/article-640x360.28601adb.jpg\"><p>Gigabyte packt Nvidias derzeit schnellste GeForce-Grafikkarte RTX 4090 in ein externes Gehäuse mit Wasserkühlung. Durchgesickertes Bildmaterial zeigt die Aorus RTX 4090 Gaming Box mit beleuchtetem Logo in der Front.</p>",
+          "link": "https://www.computerbase.de/2023-02/aorus-rtx-4090-gaming-box-nvidias-flaggschiff-kommt-ins-egpu-gehaeuse-von-gigabyte/",
+          "publishedOn": "2023-02-16T18:41:00.000Z",
+          "wordCount": 870,
+          "title": "Aorus RTX 4090 Gaming Box: Nvidias Flaggschiff kommt ins eGPU-Gehäuse von Gigabyte",
+          "imageUrl": "https://pics.computerbase.de/1/0/6/8/1/3-850afd2edd18a0da/article-1280x720.28601adb.jpg"
+        },
+        {
+          "id": "https://www.computerbase.de/2023-02/bundesverfassungsgericht-predictive-policing-nur-in-ausnahmen-gestattet/",
+          "author": null,
+          "description": "<img src=\"https://pics.computerbase.de/1/0/6/8/1/1-473fe567ffaedbaf/article-640x360.158bfd5d.jpg\"><p>Der Einsatz von Data-Mining und automatisierter Datenanalyse-Software wie der von Palantir ist für Polizeibehörden in Deutschland nicht ohne weiteres möglich. Das hat das Bundesverfassungsgericht heute entschieden.</p>",
+          "link": "https://www.computerbase.de/2023-02/bundesverfassungsgericht-predictive-policing-nur-in-ausnahmen-gestattet/",
+          "publishedOn": "2023-02-16T18:15:00.000Z",
+          "wordCount": 1008,
+          "title": "Bundes­verfassungsgericht: Predictive Policing nur in Ausnahmen gestattet",
+          "imageUrl": "https://pics.computerbase.de/1/0/6/8/1/1-473fe567ffaedbaf/article-1280x720.158bfd5d.jpg"
+        },
+        {
+          "id": "https://www.computerbase.de/2023-02/wild-hearts-action-rpg-laesst-monster-im-feudalen-japan-bejagen/",
+          "author": null,
+          "description": "<img src=\"https://pics.computerbase.de/1/0/6/8/0/9-6a51e30ccd51bd5a/article-640x360.28dee94c.jpg\"><p>MIt Wild Hearts – nicht zu verwechseln mit Atomic Heart – erscheint heute ein neues Action-RGP, das von Omega Force entwickelt und von EA veröffentlicht wird. Der Titel stellt Spieler vor die Aufgabe, mit verschiedensten Waffen riesige Monster in Azuma zu jagen, einer vom feudalen Japan inspirierten Fantasiewelt.</p>",
+          "link": "https://www.computerbase.de/2023-02/wild-hearts-action-rpg-laesst-monster-im-feudalen-japan-bejagen/",
+          "publishedOn": "2023-02-16T16:00:00.000Z",
+          "wordCount": 1287,
+          "title": "Wild Hearts: Action-RPG lässt Monster im feudalen Japan bejagen",
+          "imageUrl": "https://pics.computerbase.de/1/0/6/8/0/9-6a51e30ccd51bd5a/article-1280x720.28dee94c.jpg"
+        },
+        {
+          "id": "https://www.computerbase.de/2023-02/fuer-vr-und-ar-samsung-und-lg-fertigen-bald-micro-oled-displays/",
+          "author": null,
+          "description": "<img src=\"https://pics.computerbase.de/1/0/6/8/0/8-cc01a6e8fb4fa3f6/article-640x360.51fec30d.jpg\"><p>Als Alternative zu Micro-LED-Displays mit winzigen anorganischen Leuchtdioden gibt es auch Micro-OLED-Displays mit winzigen organischen Dioden. Laut Medienberichten planen sowohl Samsung Display als auch LG Display die Herstellung kleiner Micro-OLED-Bildschirme für die Bereiche Virtual Reality (VR) und Augmented Reality (AR).</p>",
+          "link": "https://www.computerbase.de/2023-02/fuer-vr-und-ar-samsung-und-lg-fertigen-bald-micro-oled-displays/",
+          "publishedOn": "2023-02-16T15:39:00.000Z",
+          "wordCount": 925,
+          "title": "Für VR und AR: Samsung und LG fertigen bald Micro-OLED-Displays",
+          "imageUrl": "https://pics.computerbase.de/1/0/6/8/0/8-cc01a6e8fb4fa3f6/article-1280x720.51fec30d.jpg"
+        },
+        {
+          "id": "https://www.computerbase.de/2023-02/supermicro-w790-boards-x13sra-tf-und-x13swa-tf-adressieren-zwei-segmente/",
+          "author": null,
+          "description": "<img src=\"https://pics.computerbase.de/1/0/6/8/0/7-928396ed82b1c49b/article-640x360.4ddfe60b.jpg\"><p>Supermicros erste W790-Boards für die neuen Intel Xeon W-3400 und W-2400 kommen ebenfalls zweigeteilt in den Markt. Ähnlich wie bei Asus ist eine Platine primär für die Xeon W-3400 gedacht, während eine etwas kleinere Lösung auch den günstigeren und kleineren CPUs der Serie Xeon W-2400 zugeordnet werden kann.</p>",
+          "link": "https://www.computerbase.de/2023-02/supermicro-w790-boards-x13sra-tf-und-x13swa-tf-adressieren-zwei-segmente/",
+          "publishedOn": "2023-02-16T10:50:00.000Z",
+          "wordCount": 932,
+          "title": "Supermicro-W790-Boards: X13SRA-TF und X13SWA-TF adressieren zwei Segmente",
+          "imageUrl": "https://pics.computerbase.de/1/0/6/8/0/7-928396ed82b1c49b/article-1280x720.4ddfe60b.jpg"
+        },
         {
           "id": "https://www.computerbase.de/2023-02/plan-b-terraform-aufbauspiel-simuliert-klima-auf-prozeduralem-planeten/",
           "author": null,
@@ -7711,116 +7841,6 @@
           "wordCount": null,
           "title": "Apple HomePod 2: Besserer Klang, Matter, neue Sensoren und mehr Funktionen",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.computerbase.de/2023-01/windows-11-microsoft-office-inventur-umfrage/",
-          "author": null,
-          "description": "<img src=\"https://pics.computerbase.de/1/0/6/4/8/1-82702f4bcd7f57e6/article-640x360.4a123af8.jpg\"><p>Microsoft hat damit begonnen, das Update KB5021751 zu verteilen. Die Aktualisierung soll dabei helfen, Benutzer zu identifizieren, die unter Windows 11 eine nicht mehr unterstützte, oder bald nicht mehr unterstützte Version von Microsoft Office, einschließlich Office 2013, Office 2010 und Office 2007, im Einsatz haben.</p>",
-          "link": "https://www.computerbase.de/2023-01/windows-11-microsoft-office-inventur-umfrage/",
-          "publishedOn": "2023-01-18T13:13:00.000Z",
-          "wordCount": 930,
-          "title": "Windows 11 & Microsoft Office: Microsoft startet „Inventur“ mit dem Update KB5021751",
-          "imageUrl": "https://pics.computerbase.de/1/0/6/4/8/1-82702f4bcd7f57e6/article-1280x720.4a123af8.jpg"
-        },
-        {
-          "id": "https://www.computerbase.de/2023-01/arbeitsspeicher-crucial-fuehrt-ddr5-module-mit-24-gb-und-48-gb-ein/",
-          "author": null,
-          "description": "<img src=\"https://pics.computerbase.de/1/0/6/4/5/9-c439f4f9066a0bfb/article-640x360.98a31875.jpg\"><p>Arbeitsspeicherriegel mit 8 GB, 16 GB, 32 GB oder 64 GB sind gängige Größen. Bei Microns Markentochter Crucial gibt es neuerdings etwas dazwischen: Die neuen DDR5-Module gibt es auch mit 24 GB oder 48 GB. Die Transferraten liegen bei 5.600 MT/s und es steht sowohl der DIMM- als auch der SO-DIMM-Formfaktor zur Auswahl.</p>",
-          "link": "https://www.computerbase.de/2023-01/arbeitsspeicher-crucial-fuehrt-ddr5-module-mit-24-gb-und-48-gb-ein/",
-          "publishedOn": "2023-01-18T12:22:00.000Z",
-          "wordCount": 895,
-          "title": "Arbeitsspeicher: Crucial führt DDR5-Module mit 24 GB und 48 GB ein",
-          "imageUrl": "https://pics.computerbase.de/1/0/6/4/5/9-c439f4f9066a0bfb/article-1280x720.98a31875.jpg"
-        },
-        {
-          "id": "https://www.computerbase.de/2023-01/gigabyte-ddr5-11136-overclocking-weltrekord/",
-          "author": null,
-          "description": "<img src=\"https://pics.computerbase.de/1/0/6/4/7/8-628c598494482f5a/article-640x360.797646d0.jpg\"><p>Gigabyte hat einen per Flüssigstickstoff, dem sogenannten Liquid Nitrogen (LN2), gekühlten DDR5-Speicherriegel aus der Serie Aorus mit 11.136 MT/s oder DDR5-11136 bei einer CAS-Speicherlatenz von 64 Taktzyklen betrieben und damit jetzt einen neuen Weltrekord für Speichermodule vom Typ DDR5 aufgestellt.</p>",
-          "link": "https://www.computerbase.de/2023-01/gigabyte-ddr5-11136-overclocking-weltrekord/",
-          "publishedOn": "2023-01-18T11:02:00.000Z",
-          "wordCount": 1183,
-          "title": "Neuer DDR5-Weltrekord: Gigabyte erreicht mehr als 11.000 MT/s mit Aorus-RAM",
-          "imageUrl": "https://pics.computerbase.de/1/0/6/4/7/8-628c598494482f5a/article-1280x720.797646d0.jpg"
-        },
-        {
-          "id": "https://www.computerbase.de/2023-01/f1-22-amd-fsr-2-2-nvidia-dlss-2-4/",
-          "author": null,
-          "description": "<img src=\"https://pics.computerbase.de/1/0/6/4/5/7-868150255b00ed83/article-640x360.0856670f.jpg\"><p>F1 22 konnte zuletzt mit AMD FSR 1.0, Nvidia DLSS 2.4 und auch DLSS 3 (DLSS 2.4 + Frame Generation) umgehen, AMDs temporales FSR 2 fehlte aber noch. Mit Patch 1.17 hat jetzt FSR 2.2 Einzug gehalten. Im Test muss es sich bei Bildqualität und Leistung FSR 1.0 sowie Nvidia DLSS stellen. Das Fazit fällt überraschend negativ aus.</p>",
-          "link": "https://www.computerbase.de/2023-01/f1-22-amd-fsr-2-2-nvidia-dlss-2-4/",
-          "publishedOn": "2023-01-18T11:00:00.000Z",
-          "wordCount": 6133,
-          "title": "F1 22 mit Patch 1.17 im Test: AMD FSR 2.2, FSR 1, Nvidia DLSS 2.4 & 3 fahren um die Wette",
-          "imageUrl": "https://pics.computerbase.de/1/0/6/4/5/7-868150255b00ed83/article-1280x720.0856670f.jpg"
-        },
-        {
-          "id": "https://www.computerbase.de/2023-01/cb-funk-podcast-zu-skandalen-und-hohem-takt-mit-rdna-3/",
-          "author": null,
-          "description": "<img src=\"https://pics.computerbase.de/1/0/6/4/7/1-c2d320d6ac8fdf74/article-640x360.198f9242.jpg\"><p>In der nun bereits dritten Episode des neuen ComputerBase-Podcasts CB-Funk sprechen Jan und Fabian über den redaktionellen Umgang mit (vermeintlichen) Skandalen am Beispiel von mutmaßlichen Treiberproblemen bei RDNA 2 und interessante neue Erkenntnisse zu Takt, Leistung und Architektur-Design bei RDNA 3.</p>",
-          "link": "https://www.computerbase.de/2023-01/cb-funk-podcast-zu-skandalen-und-hohem-takt-mit-rdna-3/",
-          "publishedOn": "2023-01-18T09:10:00.000Z",
-          "wordCount": null,
-          "title": "CB-Funk: Podcast zu „Skandalen“ und hohem Takt mit RDNA 3 [Notiz]",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.computerbase.de/2023-01/gnome-linux-desktop-chatgpt-addon/",
-          "author": null,
-          "description": "<img src=\"https://pics.computerbase.de/1/0/6/4/7/6-b77b6acf2b5e2653/article-640x360.98aacdb1.jpg\"><p>Ein Open-Source-Entwickler arbeitet aktuell an einer Erweiterung, welche den von OpenAI entwickelten Chatbot ChatGPT , der auf künstlicher Intelligenz basiert, in den freien Linux-Desktop Gnome integriert. Das textbasierte Dialogsystem soll dabei als Benutzerschnittstelle direkt über das Panel der Desktop-Umgebung nutzbar sein.</p>",
-          "link": "https://www.computerbase.de/2023-01/gnome-linux-desktop-chatgpt-addon/",
-          "publishedOn": "2023-01-17T19:35:00.000Z",
-          "wordCount": 988,
-          "title": "ChatGPT unter Linux: Gnome 43 hat seine eigene KI-Erweiterung erhalten",
-          "imageUrl": "https://pics.computerbase.de/1/0/6/4/7/6-b77b6acf2b5e2653/article-1280x720.98aacdb1.jpg"
-        },
-        {
-          "id": "https://www.computerbase.de/2023-01/rtx-4080-32-gb-ram-und-nvme-ssd-forspoken-hat-in-uhd-einen-grossen-hardware-hunger/",
-          "author": null,
-          "description": "<img src=\"https://pics.computerbase.de/1/0/6/4/7/2-12123d5b2e804d17/article-640x360.561b2696.jpg\"><p>In einer Woche erscheint am 24. Januar das Action-Rollenspiel Forspoken. Heute hat Publisher Square Enix die Systemanforderungen aktualisiert. Und diese haben es in sich: In der Spitze werden eine GeForce RTX 4080 (Test), ganze 32 GB Arbeitsspeicher und 150 GB Speicherplatz auf einer NVMe-SSD empfohlen.</p>",
-          "link": "https://www.computerbase.de/2023-01/rtx-4080-32-gb-ram-und-nvme-ssd-forspoken-hat-in-uhd-einen-grossen-hardware-hunger/",
-          "publishedOn": "2023-01-17T18:55:00.000Z",
-          "wordCount": 1231,
-          "title": "RTX 4080, 32 GB RAM & NVMe-SSD: Forspoken hat in UHD einen großen Hardware-Hunger",
-          "imageUrl": "https://pics.computerbase.de/1/0/6/4/7/2-12123d5b2e804d17/article-1280x720.561b2696.jpg"
-        },
-        {
-          "id": "https://www.computerbase.de/2023-01/prototyp-auf-der-ces-nanoled-technik-als-potenzielle-display-revolution/",
-          "author": null,
-          "description": "<img src=\"https://pics.computerbase.de/1/0/6/4/6/9-661a5e655ded07ba/article-640x360.33e44a08.jpg\"><p>Die Firma Nanosys, die Quantum-Dot-Materialien zur Verbesserung von LCD- und OLED-Displays entwickelt hat, will künftig auch MicroLEDs damit ausrüsten. Doch viel radikaler ist der nächste Schritt: Displays, die allein auf selbst leuchtende Quantum Dots setzen. Nanosys nennt dies NanoLED und demonstrierte die Technik auf der CES.</p>",
-          "link": "https://www.computerbase.de/2023-01/prototyp-auf-der-ces-nanoled-technik-als-potenzielle-display-revolution/",
-          "publishedOn": "2023-01-17T17:45:00.000Z",
-          "wordCount": 1329,
-          "title": "Prototyp auf der CES: NanoLED-Technik als potenzielle Display-Revolution",
-          "imageUrl": "https://pics.computerbase.de/1/0/6/4/6/9-661a5e655ded07ba/article-1280x720.33e44a08.jpg"
-        },
-        {
-          "id": "https://www.computerbase.de/2023-01/neuer-mac-mini-mit-m2-und-m2-pro-wird-der-kleinst-rechner-guenstiger/",
-          "author": null,
-          "description": "<img src=\"https://pics.computerbase.de/1/0/6/4/7/7-3c7b3ca5b15d119b/article-640x360.d78c5fd0.jpg\"><p>Neben dem neuen 14\" MacBook Pro und 16\" MacBook Pro mit M2 Pro und M2 Max hat Apple auch den Mac mini mit M2 und M2 Pro neu aufgelegt. Er startet nun bei 699 Euro, nachdem der Mac mini mit M1 aus dem Jahr 2020 noch zu einem Preis ab 779 Euro gestartet war und zuletzt 799 Euro kostete.</p>",
-          "link": "https://www.computerbase.de/2023-01/neuer-mac-mini-mit-m2-und-m2-pro-wird-der-kleinst-rechner-guenstiger/",
-          "publishedOn": "2023-01-17T17:09:00.000Z",
-          "wordCount": 1332,
-          "title": "Neuer Mac mini: Mit M2 und M2 Pro wird der Kleinst-Rechner günstiger",
-          "imageUrl": "https://pics.computerbase.de/1/0/6/4/7/7-3c7b3ca5b15d119b/article-1280x720.d78c5fd0.jpg"
-        },
-        {
-          "id": "https://www.computerbase.de/2023-01/14-und-16-macbook-pro-mit-m2-pro-oder-m2-max-wi-fi-6e-und-hdmi-2-1-teurer/",
-          "author": null,
-          "description": "<img src=\"https://pics.computerbase.de/1/0/6/4/7/3-3d6253cd405aed21/article-640x360.5baa5d66.jpg\"><p>Wie zuletzt erwartet hat Apple heute das 14\" MacBook Pro und 16\" MacBook Pro aktualisiert. Mit M2 Pro und M2 Max gibt es mehr CPU- und GPU-Kerne, neu sind aber auch Wi-Fi 6E und HDMI 2.1, wodurch auch 8K-Displays unterstützt werden. Auch am Preis hat Apple abermals gedreht und den Einstieg bei beiden Modellen teurer gemacht.</p>",
-          "link": "https://www.computerbase.de/2023-01/14-und-16-macbook-pro-mit-m2-pro-oder-m2-max-wi-fi-6e-und-hdmi-2-1-teurer/",
-          "publishedOn": "2023-01-17T16:10:00.000Z",
-          "wordCount": 1579,
-          "title": "14\" und 16\" MacBook Pro: Mit M2 Pro oder M2 Max, Wi‑Fi 6E und HDMI 2.1 teurer",
-          "imageUrl": "https://pics.computerbase.de/1/0/6/4/7/3-3d6253cd405aed21/article-1280x720.5baa5d66.jpg"
-        },
-        {
-          "id": "https://www.computerbase.de/2023-01/deutlich-teurer-philips-hue-soll-preiserhoehung-zum-1-februar-planen/",
-          "author": null,
-          "description": "<img src=\"https://pics.computerbase.de/1/0/6/4/7/0-49d2a037d77f2026/article-640x360.1a100a3c.jpg\"><p>Wie der Hueblog berichtet soll Signify eine erneute Preiserhöhung bei den smarten Beleuchtungslösungen unter der Marke Philips Hue planen. Schon zum 1. Februar sollen die Preise zahlreicher Produkte teils deutlich erhöht werden. Im April 2022 wurden die Produkte von Philips Hue bereits deutlich teurer.</p>",
-          "link": "https://www.computerbase.de/2023-01/deutlich-teurer-philips-hue-soll-preiserhoehung-zum-1-februar-planen/",
-          "publishedOn": "2023-01-17T15:29:00.000Z",
-          "wordCount": 957,
-          "title": "Deutlich teurer: Philips Hue soll Preis­erhöhung zum 1. Februar planen",
-          "imageUrl": "https://pics.computerbase.de/1/0/6/4/7/0-49d2a037d77f2026/article-1280x720.1a100a3c.jpg"
         }
       ]
     },
@@ -8722,10 +8742,180 @@
       ]
     },
     {
-      "title": "Deutschlandfunk - Fortlaufende Nachrichten vom 16. Februar 2023",
+      "title": "Deutschlandfunk - Fortlaufende Nachrichten vom 17. Februar 2023",
       "feedUrl": "https://www.deutschlandfunk.de/nachrichten-100.rss",
-      "siteUrl": "https://www.deutschlandfunk.de/nachrichten-index-26984.html",
+      "siteUrl": "https://www.deutschlandfunk.de/nachrichten-index-26988.html",
       "articles": [
+        {
+          "id": "ganztaegiger-warnstreik-an-mehreren-flughaefen-angelaufen-106",
+          "author": null,
+          "description": "An mehreren Flughäfen hat ein ganztätiger Warnstreik der Gewerkschaft Verdi begonnen. Das teilte ein Sprecher der Gewerkschaft in Hannover mit. Bestreikt werden die Flughäfen Frankfurt, München, Stuttgart, Hamburg, Dortmund, Hannover und Bremen.",
+          "link": "https://www.deutschlandfunk.de/ganztaegiger-warnstreik-an-mehreren-flughaefen-angelaufen-106.html",
+          "publishedOn": "2023-02-17T01:26:15.000Z",
+          "wordCount": 782,
+          "title": "Öffentlicher Dienst - Ganztägiger Warnstreik an mehreren Flughäfen angelaufen",
+          "imageUrl": "https://assets.deutschlandfunk.de/ae003cae-92f7-4c58-bd3b-cb251bcfa681/1920x1080.jpg?t=1676583416818"
+        },
+        {
+          "id": "suche-nach-einer-regierungskoalition-beginnt-102",
+          "author": null,
+          "description": "Nach der Wiederholung der Wahl zum Berliner Abgeordnetenhaus finden heute erste Gespräche über die Bildung einer neuen Regierung statt.",
+          "link": "https://www.deutschlandfunk.de/suche-nach-einer-regierungskoalition-beginnt-102.html",
+          "publishedOn": "2023-02-17T01:26:15.000Z",
+          "wordCount": 705,
+          "title": "Berlin - Suche nach einer Regierungskoalition beginnt",
+          "imageUrl": "https://assets.deutschlandfunk.de/FILE_ff8f518a69d52f7d257a93a564f0e621/1920x1080.jpg?t=1632901865428"
+        },
+        {
+          "id": "kommunen-pochen-nach-gipfel-weiter-auf-finanzielle-zusagen-100",
+          "author": null,
+          "description": "Nach dem Flüchtlingsgipfel bei Bundesinnenministerin Faeser bleibt der Deutsche Städte- und Gemeindebund bei seiner Forderung einer finanziellen Entlastung der Kommunen.",
+          "link": "https://www.deutschlandfunk.de/kommunen-pochen-nach-gipfel-weiter-auf-finanzielle-zusagen-100.html",
+          "publishedOn": "2023-02-17T01:26:15.000Z",
+          "wordCount": 720,
+          "title": "Flüchtlinge - Kommunen pochen nach Gipfel weiter auf finanzielle Zusagen",
+          "imageUrl": "https://assets.deutschlandfunk.de/b40f7f2c-78a7-4435-a295-883e91396794/1920x1080.jpg?t=1676533548712"
+        },
+        {
+          "id": "sicherheitskonferenz-im-zeichen-des-russischen-angriffskriegs-102",
+          "author": null,
+          "description": "Mit einer Ansprache des ukrainischen Präsidenten Selenskyj wird am Mittag die 59. Münchner Sicherheitskonferenz eröffnet.",
+          "link": "https://www.deutschlandfunk.de/sicherheitskonferenz-im-zeichen-des-russischen-angriffskriegs-102.html",
+          "publishedOn": "2023-02-17T01:26:15.000Z",
+          "wordCount": 727,
+          "title": "München - Sicherheitskonferenz im Zeichen des russischen Angriffskriegs",
+          "imageUrl": "https://assets.deutschlandfunk.de/814fa8fb-1b51-4fa0-a07a-b8e882e5327e/1920x1080.jpg?t=1669962706964"
+        },
+        {
+          "id": "kiew-und-moskau-tauschen-mehr-als-200-gefangene-aus-112",
+          "author": null,
+          "description": "Russland und die Ukraine haben erneut Gefangene ausgetauscht.",
+          "link": "https://www.deutschlandfunk.de/kiew-und-moskau-tauschen-mehr-als-200-gefangene-aus-112.html",
+          "publishedOn": "2023-02-17T01:26:15.000Z",
+          "wordCount": 712,
+          "title": "Ukraine - Kiew und Moskau tauschen mehr als 200 Gefangene aus",
+          "imageUrl": "https://assets.deutschlandfunk.de/3685a2b8-caea-447d-a4db-860d04e55f9f/1920x1080.jpg?t=1676466831182"
+        },
+        {
+          "id": "parlament-bestaetigt-neue-pro-europaeische-regierung-106",
+          "author": null,
+          "description": "In der Republik Moldau ist die neue pro-europäische Regierung unter Ministerpräsident Recean vom Parlament bestätigt worden.",
+          "link": "https://www.deutschlandfunk.de/parlament-bestaetigt-neue-pro-europaeische-regierung-106.html",
+          "publishedOn": "2023-02-17T01:26:15.000Z",
+          "wordCount": 707,
+          "title": "Republik Moldau - Parlament bestätigt neue pro-europäische Regierung",
+          "imageUrl": "https://assets.deutschlandfunk.de/8c03a069-7d42-41b5-9b73-c7108d483a75/1920x1080.jpg?t=1656952764762"
+        },
+        {
+          "id": "erneut-tote-im-grenzgebiet-von-polen-und-belarus-gefunden-102",
+          "author": null,
+          "description": "Die Lage an der EU-Außengrenze zwischen Polen und Belarus bleibt angespannt.",
+          "link": "https://www.deutschlandfunk.de/erneut-tote-im-grenzgebiet-von-polen-und-belarus-gefunden-102.html",
+          "publishedOn": "2023-02-17T01:26:15.000Z",
+          "wordCount": 729,
+          "title": "EU-Außengrenze - Erneut Tote im Grenzgebiet von Polen und Belarus gefunden",
+          "imageUrl": "https://assets.deutschlandfunk.de/884eacd8-b3ac-4596-8aa7-bf7c142cf5f2/1920x1080.jpg?t=1656599071194"
+        },
+        {
+          "id": "biden-abgeschossene-flugobjekte-diente-wohl-der-forschung-106",
+          "author": null,
+          "description": "Die drei von der US-Luftwaffe abgeschossenen unbekannten Flugobjekte dienten nach Angaben von Präsident Biden höchstwahrscheinlich Forschungszwecken.",
+          "link": "https://www.deutschlandfunk.de/biden-abgeschossene-flugobjekte-diente-wohl-der-forschung-106.html",
+          "publishedOn": "2023-02-17T01:26:15.000Z",
+          "wordCount": 704,
+          "title": "Washington - Biden: Abgeschossene Flugobjekte diente wohl der Forschung",
+          "imageUrl": "https://assets.deutschlandfunk.de/1dfe00e4-d3fe-4177-89c1-633034c1f135/1920x1080.jpg?t=1673546998873"
+        },
+        {
+          "id": "panzeri-kaili-und-tarabella-bleiben-in-haft-102",
+          "author": null,
+          "description": "Im EU-Korruptionsskandal bleiben der Hauptverdächtige Panzeri und die ehemalige Vizepräsidentin des Europäischen Parlaments, Kaili, in Haft.",
+          "link": "https://www.deutschlandfunk.de/panzeri-kaili-und-tarabella-bleiben-in-haft-102.html",
+          "publishedOn": "2023-02-17T01:26:15.000Z",
+          "wordCount": 709,
+          "title": "EU-Korruptionsskandal - Panzeri, Kaili und Tarabella bleiben in Haft",
+          "imageUrl": "https://assets.deutschlandfunk.de/6840bea4-b188-4d4d-bbd4-f6ac8c36e2ba/1920x1080.jpg?t=1671701996637"
+        },
+        {
+          "id": "hunderttausende-demonstrieren-gegen-rentenreform-106",
+          "author": null,
+          "description": "In Frankreich haben erneut hunderttausende Menschen gegen die geplante Rentenreform protestiert.",
+          "link": "https://www.deutschlandfunk.de/hunderttausende-demonstrieren-gegen-rentenreform-106.html",
+          "publishedOn": "2023-02-17T01:26:15.000Z",
+          "wordCount": 713,
+          "title": "Frankreich - Hunderttausende demonstrieren gegen Rentenreform",
+          "imageUrl": "https://assets.deutschlandfunk.de/ee99e012-de79-4e69-871a-d0d407697c5a/1920x1080.jpg?t=1676578987266"
+        },
+        {
+          "id": "entscheidung-zu-finanzen-und-unterbringung-vertagt-106",
+          "author": null,
+          "description": "Der Flüchtlingsgipfel von Bund, Ländern und Kommunen in Berlin ist ohne eine Einigung über die Streitpunkte Finanzen und Unterbringung zu Ende gegangen.",
+          "link": "https://www.deutschlandfunk.de/entscheidung-zu-finanzen-und-unterbringung-vertagt-106.html",
+          "publishedOn": "2023-02-17T01:26:15.000Z",
+          "wordCount": 788,
+          "title": "Flüchtlingsgipfel - Entscheidung zu Finanzen und Unterbringung vertagt",
+          "imageUrl": "https://assets.deutschlandfunk.de/ddd2ed9b-e7ee-41e5-b5c8-d9dd9539093a/1920x1080.jpg?t=1676569879153"
+        },
+        {
+          "id": "auch-beifahrer-darf-laut-urteil-keine-blitzer-app-nutzen-102",
+          "author": null,
+          "description": "Die Nutzung einer Blitzer-App beim Autofahren ist nach einem Urteil des Oberlandesgerichts Karlsruhe auch für Beifahrer verboten.",
+          "link": "https://www.deutschlandfunk.de/auch-beifahrer-darf-laut-urteil-keine-blitzer-app-nutzen-102.html",
+          "publishedOn": "2023-02-17T01:26:15.000Z",
+          "wordCount": 734,
+          "title": "Oberlandesgericht Karlsruhe - Auch Beifahrer darf laut Urteil keine Blitzer-App nutzen",
+          "imageUrl": "https://assets.deutschlandfunk.de/f0366658-a9c8-47dc-a06d-497c25b977a2/1920x1080.jpg?t=1676580087532"
+        },
+        {
+          "id": "73-berlinale-mit-festlicher-gala-eroeffnet-110",
+          "author": null,
+          "description": "In Berlin sind die Internationalen Filmfestspiele mit einer Gala eröffnet worden.",
+          "link": "https://www.deutschlandfunk.de/73-berlinale-mit-festlicher-gala-eroeffnet-110.html",
+          "publishedOn": "2023-02-17T01:26:15.000Z",
+          "wordCount": 699,
+          "title": "Filmfestspiele - 73. Berlinale mit festlicher Gala eröffnet",
+          "imageUrl": "https://assets.deutschlandfunk.de/361a8445-531f-490a-91ee-cb9f7799213f/1920x1080.jpg?t=1676576674374"
+        },
+        {
+          "id": "staatsoper-entlaesst-ballettdirektor-goecke-nach-hundekot-attacke-auf-kritikerin-100",
+          "author": null,
+          "description": "Die Staatsoper Hannover hat ihren Ballettdirektor Marco Goecke wegen dessen Hundekot-Attacke auf eine Kritikerin entlassen.",
+          "link": "https://www.deutschlandfunk.de/staatsoper-entlaesst-ballettdirektor-goecke-nach-hundekot-attacke-auf-kritikerin-100.html",
+          "publishedOn": "2023-02-17T01:26:15.000Z",
+          "wordCount": 738,
+          "title": "Hannover - Staatsoper entlässt Ballettdirektor Goecke nach Hundekot-Attacke auf Kritikerin",
+          "imageUrl": "https://assets.deutschlandfunk.de/195baafe-e7d4-4e72-8eca-12a1de33e8e9/1920x1080.jpg?t=1676355711824"
+        },
+        {
+          "id": "frueherer-weltklasse-stabhochspringer-tim-lobinger-im-alter-von-50-jahren-gestorben-108",
+          "author": null,
+          "description": "Der frühere Weltklasse-Stabhochspringer Tim Lobinger ist im Alter von 50 Jahren gestorben.",
+          "link": "https://www.deutschlandfunk.de/frueherer-weltklasse-stabhochspringer-tim-lobinger-im-alter-von-50-jahren-gestorben-108.html",
+          "publishedOn": "2023-02-17T01:26:15.000Z",
+          "wordCount": 683,
+          "title": "Trauer - Früherer Weltklasse-Stabhochspringer Tim Lobinger im Alter von 50 Jahren gestorben",
+          "imageUrl": "https://assets.deutschlandfunk.de/dc0f1e5c-31aa-4b64-a915-c586e602b521/1920x1080.jpg?t=1676584591415"
+        },
+        {
+          "id": "leverkusen-verliert-zuhause-102",
+          "author": null,
+          "description": "In der Fußball-Europa-League gab es folgende Spiele mit Beteiligung deutscher Mannschaften:",
+          "link": "https://www.deutschlandfunk.de/leverkusen-verliert-zuhause-102.html",
+          "publishedOn": "2023-02-17T01:26:15.000Z",
+          "wordCount": 635,
+          "title": "Fußball-Europa-League - Leverkusen verliert zuhause",
+          "imageUrl": "https://assets.deutschlandfunk.de/FILE_b426ab6186ab0ca772b380390527794c/1920x1080.jpg?t=1597603827935"
+        },
+        {
+          "id": "im-westen-trocken-sonst-verbreitet-regen-116",
+          "author": null,
+          "description": "Der Wetterbericht, die Lage: Das wetterbestimmende Hoch schwächt sich ab und zieht sich nach Südosteuropa zurück. Von Nordwesten kommende Tiefausläufer gestalten das Wetter wieder wechselhafter.",
+          "link": "https://www.deutschlandfunk.de/im-westen-trocken-sonst-verbreitet-regen-116.html",
+          "publishedOn": "2023-02-17T01:26:15.000Z",
+          "wordCount": 711,
+          "title": "Wetter - Im Westen trocken, sonst verbreitet Regen",
+          "imageUrl": "https://assets.deutschlandfunk.de/4cf02098-33bc-4b73-9e6a-bbfd7dd69bac/1920x1080.jpg?t=1642078545401"
+        },
         {
           "id": "us-aussenminister-blinken-reist-nach-muenchen-in-die-tuerkei-und-nach-griechenland-100",
           "author": null,
