@@ -6,6 +6,206 @@
       "siteUrl": "https://stadt-bremerhaven.de",
       "articles": [
         {
+          "id": "https://stadt-bremerhaven.de/?p=1168587",
+          "author": "Benjamin Mamerow",
+          "description": "Vom 20. März bis zum 24. März 2023 findet in San Francisco die Game Developers Conference (GDC) statt. Dort vertreten ist auch Epic Games und hat mit „State of Unreal“ vorgeführt, wo die Reise für Spieler von Epic-Titeln in Zukunft...\nZum Beitrag: Epic zeigt auf der GDC 2023, was mit der Unreal Engine zukünftig noch alles möglich sein wird\r\n\r\nZum Blog: Caschys Blog",
+          "link": "https://stadt-bremerhaven.de/epic-zeigt-auf-der-gdc-2023-was-mit-der-unreal-engine-zukuenftig-noch-alles-moeglich-sein-wird/",
+          "publishedOn": "2023-03-22T19:30:17.000Z",
+          "wordCount": 1953,
+          "title": "Epic zeigt auf der GDC 2023, was mit der Unreal Engine zukünftig noch alles möglich sein wird",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/03/Epic-Games-Logo.jpeg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1168591",
+          "author": "caschy",
+          "description": "Microsoft hat die Windows 11 Insider Preview Build 23419 im Dev-Channel veröffentlicht. Die gibts nicht nur als reines Update, sondern auch als ISO-Datei. Microsoft führt damit eine Reihe neuer, auf Entwickler ausgerichteter Funktionen im Task-Manager ein, die das Sammeln von...\nZum Beitrag: Windows 11 Insider Preview Build 23419: USB-4-Einstellungen, Änderungen an den App-Standardeinstellungen und mehr\r\n\r\nZum Blog: Caschys Blog",
+          "link": "https://stadt-bremerhaven.de/windows-11-insider-preview-build-23419-usb-4-einstellungen-aenderungen-an-den-app-standardeinstellungen-und-mehr/",
+          "publishedOn": "2023-03-22T18:53:42.000Z",
+          "wordCount": 1915,
+          "title": "Windows 11 Insider Preview Build 23419: USB-4-Einstellungen, Änderungen an den App-Standardeinstellungen und mehr",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2023/02/Windows-11_.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1168581",
+          "author": "caschy",
+          "description": "Amazon hat nicht nur den Spiele-Streaming-Dienst Luna nach Deutschland gebracht, auch TV-Geräte des Unternehmens mit Fire-TV-Technologie findet man nun hierzulande vor. Passend dazu hat man auch ein paar Zahlen geteilt. Weltweit habe man über 200 Millionen Einheiten von Fire-TV-Streaming-Playern und...\nZum Beitrag: Amazon: 200 Millionen verkaufte Fire-TV-Geräte\r\n\r\nZum Blog: Caschys Blog",
+          "link": "https://stadt-bremerhaven.de/amazon-200-millionen-verkaufte-fire-tv-geraete/",
+          "publishedOn": "2023-03-22T18:30:16.000Z",
+          "wordCount": 1849,
+          "title": "Amazon: 200 Millionen verkaufte Fire-TV-Geräte",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/11/Fire-Tv-Cube-2022-3_.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1168526",
+          "author": "André Westphal",
+          "description": "„Horizon Forbidden West“ ist meiner Ansicht nach aktuell eines der besten Spiele für die PlayStation 5. Am 19. April erscheint die Story-Erweiterung „Horizon Forbidden West: Burning Shores“. Das wurde ja schon vor einer Weile angekündigt. Ab heute sind jedoch Vorbestellungen...\nZum Beitrag: „Horizon Forbidden West: Burning Shores“ ist ab sofor vorbestellbar\r\n\r\nZum Blog: Caschys Blog",
+          "link": "https://stadt-bremerhaven.de/horizon-forbidden-west-burning-shores-ist-ab-sofor-vorbestellbar/",
+          "publishedOn": "2023-03-22T18:00:20.000Z",
+          "wordCount": 1886,
+          "title": "„Horizon Forbidden West: Burning Shores“ ist ab sofor vorbestellbar",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2023/03/Horizon-Burning-Shores.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1168514",
+          "author": "André Westphal",
+          "description": "GitHub Copilot kennt der ein oder andere vielleicht. Hier nutzte man bisher GPT-3 als Basis, um Entwicklern ein Entwicklungswerkzeug anzubieten. Der Copilot kann z. B. Kommentare und Code automatisch vervollständigen.  Das soll die Arbeit von Entwicklern bereits erheblich beschleunigt haben....\nZum Beitrag: GitHub Copilot X: Erweiterte KI-Unterstützung für Entwickler\r\n\r\nZum Blog: Caschys Blog",
+          "link": "https://stadt-bremerhaven.de/github-copilot-x-erweiterte-ki-unterstuetzung-fuer-entwickler/",
+          "publishedOn": "2023-03-22T17:30:13.000Z",
+          "wordCount": 2019,
+          "title": "GitHub Copilot X: Erweiterte KI-Unterstützung für Entwickler",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2023/03/GitHub-Copilot-X.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1168553",
+          "author": "caschy",
+          "description": "Valve hat offiziell die Fortsetzung des beliebten Ego-Shooters, Counter-Strike 2, angekündigt. Der neue Titel soll im Sommer 2023 erscheinen. Valve hat in den letzten Jahren an Counter-Strike 2 gearbeitet und möchte das Spiel auf das nächste Level bringen. Die Entwickler...\nZum Beitrag: Counter-Strike 2 angekündigt\r\n\r\nZum Blog: Caschys Blog",
+          "link": "https://stadt-bremerhaven.de/counter-strike-2-angekuendigt/",
+          "publishedOn": "2023-03-22T16:59:05.000Z",
+          "wordCount": 1915,
+          "title": "Counter-Strike 2 angekündigt",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2023/03/counterstrike_.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1168462",
+          "author": "André Westphal",
+          "description": "Netflix hat einen Teaser zur zweiten Staffel der Serie „Sweet Tooth“ veröffentlicht. Die erste Season war bereits 2021 angelaufen. Die Fantasy-Serie basiert auf den Comics gleichen Namens vom Autor Jeff Lemire. Dabei dreht sich die Geschichte um eine Welt, in...\nZum Beitrag: „Sweet Tooth“: Teaser zur Staffel 2\r\n\r\nZum Blog: Caschys Blog",
+          "link": "https://stadt-bremerhaven.de/sweet-tooth-teaser-zur-staffel-2/",
+          "publishedOn": "2023-03-22T16:30:57.000Z",
+          "wordCount": 1867,
+          "title": "„Sweet Tooth“: Teaser zur Staffel 2",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2023/03/Sweet-Tooth-2.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1168538",
+          "author": "caschy",
+          "description": "Microsoft Loop ist ein Produktivitätswerkzeug, das von Microsoft entwickelt wurde und Teil der Microsoft-365-Suite ist. Es wurde im Jahr 2021 angekündigt und zielt darauf ab, Teamarbeit und Zusammenarbeit innerhalb von Organisationen zu verbessern. Loop kombiniert Funktionen von Textverarbeitung, Tabellenkalkulation, Aufgabenmanagement...\nZum Beitrag: Produktivitätswerkzeug Microsoft Loop geht in die öffentliche Beta\r\n\r\nZum Blog: Caschys Blog",
+          "link": "https://stadt-bremerhaven.de/produktivitaetswerkzeug-microsoft-loop-geht-in-die-oeffentliche-beta/",
+          "publishedOn": "2023-03-22T16:00:10.000Z",
+          "wordCount": 2042,
+          "title": "Produktivitätswerkzeug Microsoft Loop geht in die öffentliche Beta",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2023/03/ms-loop_.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1167623",
+          "author": "Felix Frank",
+          "description": "Nachdem im Vorfeld bereits erste Details zu den Nothing Ear (2) durchgesickert sind und Carl Pei und das Nothing-Team in Marketing-Manier auch erste Details zu den neuen TWS-Kopfhörern ausplauderte, sind die Kopfhörer im Rahmen eines Launch-Events nun offiziell vorgestellt. Die Nothing...\nZum Beitrag: Nothing Ear (2): TWS-Kopfhörer der zweiten Generation mit Hi-Res Audio vorgestellt\r\n\r\nZum Blog: Caschys Blog",
+          "link": "https://stadt-bremerhaven.de/nothing-ear-2-tws-kopfhoerer-der-zweiten-generation-mit-hi-res-audio-vorgestellt/",
+          "publishedOn": "2023-03-22T15:29:04.000Z",
+          "wordCount": 2619,
+          "title": "Nothing Ear (2): TWS-Kopfhörer der zweiten Generation mit Hi-Res Audio vorgestellt",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2023/03/16x9_1920x1080-4.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1168520",
+          "author": "caschy",
+          "description": "Das Unternehmen Nanoleaf kennen die meisten sicher durch ihre Leucht-Panels, die anscheinend zur YouTuber-Grundausstattung gehören. Viel interessanter finde ich da die Leuchtstreifen sowie die LED-Leuchten in Birnenform aus der Essentials-Reihe, die es seit einiger Zeit gibt. Sie sind ohne klassischen...\nZum Beitrag: Nanoleaf Essentials: Produkte mit Matter-Unterstützung sind bald auf dem Markt\r\n\r\nZum Blog: Caschys Blog",
+          "link": "https://stadt-bremerhaven.de/nanoleaf-essentials-produkte-mit-matter-unterstuetzung-sind-bald-auf-dem-markt/",
+          "publishedOn": "2023-03-22T15:05:35.000Z",
+          "wordCount": 1945,
+          "title": "Nanoleaf Essentials: Produkte mit Matter-Unterstützung sind bald auf dem Markt",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2023/03/esseentials-index-smart-bulbs-desktop@2x_.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1168500",
+          "author": "caschy",
+          "description": "AVM hat eine neue Laborversion für die FRITZ!Box 7530 AX veröffentlicht. Bei diesem Router bekommen Tester bereits FRITZ!OS 7.51-104131 zum Download angeboten. Das Änderungsprotokoll spricht nur davon, dass man die Systemstabilität verbessert habe. Ebenso hat man App-Updates veröffentlicht. Die FRITZ!App...\nZum Beitrag: FRITZ!Box 7530 AX, FRITZ!App WLAN und FRITZ!App Smart Home mit Updates\r\n\r\nZum Blog: Caschys Blog",
+          "link": "https://stadt-bremerhaven.de/fritzbox-7530-ax-fritzapp-wlan-und-fritzapp-smart-home-mit-updates/",
+          "publishedOn": "2023-03-22T14:45:25.000Z",
+          "wordCount": 2412,
+          "title": "FRITZ!Box 7530 AX, FRITZ!App WLAN und FRITZ!App Smart Home mit Updates",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/02/avm-fritz_.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1168510",
+          "author": "caschy",
+          "description": "Netflix hat die Inhalte bekannt gegeben, die ihr im Monat April beim Streamingdienst abrufen könnt. Diesen Monat erwarten Zuschauer gleich zwei limitierte Serien besonderer Art. Die Produktionsfirma A24, die zuletzt bei den 95. Academy Awards neun Oscars abräumte, präsentiert die...\nZum Beitrag: Neu auf Netflix – April 2023\r\n\r\nZum Blog: Caschys Blog",
+          "link": "https://stadt-bremerhaven.de/neu-auf-netflix-april-2023/",
+          "publishedOn": "2023-03-22T14:33:15.000Z",
+          "wordCount": 2303,
+          "title": "Neu auf Netflix – April 2023",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/10/Netflix_Logo_RGB_.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1168497",
+          "author": "caschy",
+          "description": "klarmobil, zu freenet gehörend, hat wieder einen crash-Tarif ins Angebot genommen. 2 GB Datenvolumen bekommt man da monatlich im LTE-Netz von Vodafone für 2,99 Euro Kosten im Monat. Erwähnen kann man da sicher, dass es das Angebot schon einmal günstiger...\nZum Beitrag: 2 GB LTE-Datenvolumen im Vodafone-Netz für 2,99 Euro im Monat\r\n\r\nZum Blog: Caschys Blog",
+          "link": "https://stadt-bremerhaven.de/2-gb-lte-datenvolumen-im-vodafone-netz-fuer-299-euro-im-monat/",
+          "publishedOn": "2023-03-22T14:15:51.000Z",
+          "wordCount": 1721,
+          "title": "2 GB LTE-Datenvolumen im Vodafone-Netz für 2,99 Euro im Monat",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2021/07/Smartphone-Mobile.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1168481",
+          "author": "caschy",
+          "description": "TV-Geräte mit integrierten Fire-TV-Möglichkeiten sind nichts Neues mehr. Nun wird der Markt in Deutschland um einige Modelle erweitert, allerdings gibt es da die eine Besonderheit: Ab heute sind von Amazon selbst entwickelte Smart-TVs auch in Deutschland erhältlich. Das Spitzenmodell, die...\nZum Beitrag: Von Amazon entwickelte Smart-TVs kommen nach Deutschland\r\n\r\nZum Blog: Caschys Blog",
+          "link": "https://stadt-bremerhaven.de/von-amazon-entwickelte-smart-tvs-kommen-nach-deutschland/",
+          "publishedOn": "2023-03-22T14:00:44.000Z",
+          "wordCount": 3058,
+          "title": "Von Amazon entwickelte Smart-TVs kommen nach Deutschland",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2023/03/Fire-TV-4-Serie_03_.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1168468",
+          "author": "caschy",
+          "description": "Google Stadia ist gegangen, Amazon Luna kommt dafür nach Deutschland. Amazon Luna ist ein Cloud-Gaming-Service von Amazon, der im September 2020 angekündigt wurde. Luna ermöglicht es Benutzern, Videospiele direkt aus der Cloud auf verschiedenen Geräten wie PCs, Macs, Fire TV,...\nZum Beitrag: Amazon Luna: Cloud-Gaming-Dienst ab sofort in Deutschland verfügbar\r\n\r\nZum Blog: Caschys Blog",
+          "link": "https://stadt-bremerhaven.de/amazon-luna-cloud-gaming-dienst-ab-sofort-in-deutschland-verfuegbar/",
+          "publishedOn": "2023-03-22T13:58:53.000Z",
+          "wordCount": 2536,
+          "title": "Amazon Luna: Cloud-Gaming-Dienst ab sofort in Deutschland verfügbar",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2023/03/Amazon-Luna_10_.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1168399",
+          "author": "André Westphal",
+          "description": "Die Serie „The Mandalorian“ hat auch viele Fans von Star Wars versöhnt, die mit der letzten Filmtrilogie wenig anfangen konnten. Zum Start von Disney+ war die Serie von Jon Favreau („Iron Man“) und Dave Filoni („Star Wars: The Clone Wars“)...\nZum Beitrag: „The Mandalorian“: Laut Jon Favreau ist kein Ende absehbar\r\n\r\nZum Blog: Caschys Blog",
+          "link": "https://stadt-bremerhaven.de/the-mandalorian-laut-jon-favreau-ist-kein-ende-absehbar/",
+          "publishedOn": "2023-03-22T13:30:46.000Z",
+          "wordCount": 2177,
+          "title": "„The Mandalorian“: Laut Jon Favreau ist kein Ende absehbar",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2023/01/mandalorian_.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1168405",
+          "author": "André Westphal",
+          "description": "Ich hatte ja schon über das neue Smartphone-Flaggschiff von Honor, das Magic5 Pro, berichtet. Es kommt auch in Europa auf den Markt und setzt auf das SoC Qualcomm Snapdragon 8 Gen 2. Zu den weiteren Highlights zählt eine Triple-Kamera mit...\nZum Beitrag: Honor Magic5 Pro: Vorverkauf startet am 6. April 2023 mit Bundles für Frühbesteller\r\n\r\nZum Blog: Caschys Blog",
+          "link": "https://stadt-bremerhaven.de/honor-magic5-pro-vorverkauf-startet-am-6-april-2023-mit-bundles-fuer-fruehbesteller/",
+          "publishedOn": "2023-03-22T13:00:19.000Z",
+          "wordCount": 2052,
+          "title": "Honor Magic5 Pro: Vorverkauf startet am 6. April 2023 mit Bundles für Frühbesteller",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2023/02/Honor-Magic5-Pro.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1168299",
+          "author": "Benjamin Mamerow",
+          "description": "Firefox ist immer noch ein sehr beliebter Browser, und das aus gutem Grund: Er bietet eine hohe Geschwindigkeit, Sicherheit und Anpassbarkeit. Doch wie bei jeder Software kann es manchmal zu Problemen kommen, die behoben werden müssen. Deshalb hat Mozilla kürzlich...\nZum Beitrag: Firefox: Update 111.0.1 behebt zwei lästige Fehler\r\n\r\nZum Blog: Caschys Blog",
+          "link": "https://stadt-bremerhaven.de/firefox-update-111-0-1-behebt-zwei-laestige-fehler/",
+          "publishedOn": "2023-03-22T12:30:11.000Z",
+          "wordCount": 1915,
+          "title": "Firefox: Update 111.0.1 behebt zwei lästige Fehler",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2021/11/Firefox-1_.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1168455",
+          "author": "caschy",
+          "description": "Schaut man nicht weit in die Vergangenheit, dann kann man wohl sagen, dass die Sparkassen in Deutschland sehr lange und äußerst häufig versucht haben, ihre eigenen Lösungen durchzudrücken. Hier und da hat man sich gegen Dritte gewehrt, dann aber wohl...\nZum Beitrag: Sparkassen: Mobile Bezahlverfahren erhalten Zulauf\r\n\r\nZum Blog: Caschys Blog",
+          "link": "https://stadt-bremerhaven.de/sparkassen-mobile-bezahlverfahren-erhalten-zulauf/",
+          "publishedOn": "2023-03-22T12:00:29.000Z",
+          "wordCount": 2495,
+          "title": "Sparkassen: Mobile Bezahlverfahren erhalten Zulauf",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2023/03/sparkasse-pressebild-Konstabler_1772_.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1168327",
+          "author": "Benjamin Mamerow",
+          "description": "Laut einer Meldung von TechCrunch soll Meta daran arbeiten, mindestens noch zwei weitere Optionen in Instagram zu implementieren, mit denen sich Werbekunden locken lassen. So musste wohl auch Meta wie viele andere Unternehmen in der Vergangenheit mehr und mehr mit...\nZum Beitrag: Instagram arbeitet an zwei neuen Werbe-Optionen\r\n\r\nZum Blog: Caschys Blog",
+          "link": "https://stadt-bremerhaven.de/instagram-arbeitet-an-zwei-neuen-werbe-optionen/",
+          "publishedOn": "2023-03-22T11:30:28.000Z",
+          "wordCount": 2080,
+          "title": "Instagram arbeitet an zwei neuen Werbe-Optionen",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2023/03/instgaram-reminder-ads.jpg"
+        },
+        {
           "id": "https://stadt-bremerhaven.de/?p=1168334",
           "author": "caschy",
           "description": "Fast 25 Jahre gibt es die Webseite DPReview, die sich mit Kameras, Objektiven und mehr auseinandersetzt. DPReview mit Gründungssitz im Vereinigten Königreich wurde 1998 von Phil Askey als Website gegründet, die »unvoreingenommene Testberichte und Originalinhalte über die neuesten Digitalkameras veröffentlicht«....\nZum Beitrag: DPReview wird geschlossen\r\n\r\nZum Blog: Caschys Blog",
@@ -5024,206 +5224,6 @@
           "wordCount": 3706,
           "title": "congstar bietet nun Multi-SIM an",
           "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2020/09/congstar.jpg"
-        },
-        {
-          "id": "https://stadt-bremerhaven.de/?p=1163635",
-          "author": "caschy",
-          "description": "Anke Engelke und Bastian Pastewka stehen bald wieder gemeinsam vor der Kamera und drehen eine neue „Deutsche Original Serie“ für Prime Video. Produziert wird diese von der bildundtonfabrik (btf). Der Starttermin ist für 2024 geplant. „Anke Engelke und Bastian Pastewka...\nZum Beitrag: Amazon Prime Video: Serie mit Anke Engelke und Bastian Pastweka angekündigt\r\n\r\nZum Blog: Caschys Blog",
-          "link": "https://stadt-bremerhaven.de/amazon-prime-video-serie-mit-anke-engelke-und-bastian-pastweka-angekuendigt/",
-          "publishedOn": "2023-02-21T13:07:43.000Z",
-          "wordCount": 1995,
-          "title": "Amazon Prime Video: Serie mit Anke Engelke und Bastian Pastweka angekündigt",
-          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2021/03/Amazon-Prime-Video-Logo.jpg"
-        },
-        {
-          "id": "https://stadt-bremerhaven.de/?p=1163632",
-          "author": "caschy",
-          "description": "Sky hat bekannt gegeben, welche Inhalte im März bei Sky und WOW (ehemals Sky Ticket) laufen. Unter anderem geht da His Dark Materials in die dritte Staffel, des Weiteren läuft noch The Last Of Us und auch einige neue Filme...\nZum Beitrag: Sky und WOW: Highlights im März\r\n\r\nZum Blog: Caschys Blog",
-          "link": "https://stadt-bremerhaven.de/sky-und-wow-highlights-im-maerz/",
-          "publishedOn": "2023-02-21T12:46:58.000Z",
-          "wordCount": 1987,
-          "title": "Sky und WOW: Highlights im März",
-          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2018/07/Sky-Logo.jpg"
-        },
-        {
-          "id": "https://stadt-bremerhaven.de/?p=1163612",
-          "author": "André Westphal",
-          "description": "Ich hatte schon über die kommende, deutschsprachige Serie von Amazon Prime Video, „Luden – Könige der Reeperbahn“ berichtet. Am 3. März 2023 soll diese Eigenproduktion beim Streaming-Anbieter anlaufen. Jetzt liegt auch ein Trailer vor. Die Handlung der Serie dreht sich...\nZum Beitrag: „Luden – Könige der Reeperbahn“: Prime Original zeigt sich im Trailer\r\n\r\nZum Blog: Caschys Blog",
-          "link": "https://stadt-bremerhaven.de/luden-koenige-der-reeperbahn-prime-original-zeigt-sich-im-trailer/",
-          "publishedOn": "2023-02-21T12:00:01.000Z",
-          "wordCount": 2010,
-          "title": "„Luden – Könige der Reeperbahn“: Prime Original zeigt sich im Trailer",
-          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2023/02/Amazon-Luden.jpg"
-        },
-        {
-          "id": "https://stadt-bremerhaven.de/?p=1163616",
-          "author": "caschy",
-          "description": "Angekündigt ist sie bereits seit langem, nun hat Philips dann auch die Verfügbarkeit der Hue Go über den eigenen Shop in Deutschland bestätigt, andere Händler listen derzeit noch meist eine spätere Verfügbarkeit. Die Philips Hue Go ist eine tragbare Tischleuchte,...\nZum Beitrag: Für 160 Euro: Tragbare Tischleuchte Philips Hue Go ist jetzt erhältlich\r\n\r\nZum Blog: Caschys Blog",
-          "link": "https://stadt-bremerhaven.de/fuer-160-euro-tragbare-tischleuchte-philips-hue-go-ist-jetzt-erhaeltlich/",
-          "publishedOn": "2023-02-21T11:45:18.000Z",
-          "wordCount": 2904,
-          "title": "Für 160 Euro: Tragbare Tischleuchte Philips Hue Go ist jetzt erhältlich",
-          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2023/02/Tragbare-Tischleuchte-Hue-Go_.jpg"
-        },
-        {
-          "id": "https://stadt-bremerhaven.de/?p=1163622",
-          "author": "caschy",
-          "description": "Die DKB hat ihre Banking-App in Version 1.25 im App Store von Apple veröffentlicht. Ein Update, welches neue Funktionen mitbringt. So kann man ab der Version 1.25 der DKB-App ein Hauptgerät wählen, über das man Aufträge freigeben kann. Ab dieser...\nZum Beitrag: DKB: Banking-App in Version 1.25 mit neuen Funktionen veröffentlicht\r\n\r\nZum Blog: Caschys Blog",
-          "link": "https://stadt-bremerhaven.de/dkb-banking-app-in-version-1-25-mit-neuen-funktionen-veroeffentlicht/",
-          "publishedOn": "2023-02-21T11:36:26.000Z",
-          "wordCount": 1889,
-          "title": "DKB: Banking-App in Version 1.25 mit neuen Funktionen veröffentlicht",
-          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2021/12/DKB-Banking-Bank_.jpg"
-        },
-        {
-          "id": "https://stadt-bremerhaven.de/?p=1163607",
-          "author": "André Westphal",
-          "description": "Ab heute ist das neue Spiel „Atomic Heart“ zu haben. Dieses Action-RPG erinnert wohl nicht nur mich in einigen Aspekten an „BioShock“. Erste Reviews zeigen sich recht angetan von dem Titel, der in einer alternativen Realität spielt, in welcher die...\nZum Beitrag: „Atomic Heart“: Action-RPG im Geiste „BioShocks“ ist ab heute verfügbar\r\n\r\nZum Blog: Caschys Blog",
-          "link": "https://stadt-bremerhaven.de/atomic-heart-action-rpg-im-geiste-bioshocks-ist-ab-heute-verfuegbar/",
-          "publishedOn": "2023-02-21T11:30:38.000Z",
-          "wordCount": 2141,
-          "title": "„Atomic Heart“: Action-RPG im Geiste „BioShocks“ ist ab heute verfügbar",
-          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2023/02/atomic-heart.jpg"
-        },
-        {
-          "id": "https://stadt-bremerhaven.de/?p=1163595",
-          "author": "André Westphal",
-          "description": "Microsoft hatte bereits im letzten Jahr erklärt, dass man Nintendo garantiere, dass die Spiele der Reihe „Call of Duty“ für zehn Jahre auf den Plattformen des Unternehmens erscheinen werden. Das ist natürlich keine altruistische Maßnahme. Vielmehr versucht man mit diesem...\nZum Beitrag: Microsoft macht Nintendo rechtlich bindende Zusage für 10 Jahre „Call of Duty“\r\n\r\nZum Blog: Caschys Blog",
-          "link": "https://stadt-bremerhaven.de/microsoft-macht-nintendo-rechtlich-bindende-zusage-fuer-10-jahre-call-of-duty/",
-          "publishedOn": "2023-02-21T11:00:21.000Z",
-          "wordCount": 2194,
-          "title": "Microsoft macht Nintendo rechtlich bindende Zusage für 10 Jahre „Call of Duty“",
-          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/01/header-jan18-1_.jpg"
-        },
-        {
-          "id": "https://stadt-bremerhaven.de/?p=1163527",
-          "author": "caschy",
-          "description": "Google hat im Dezember Neuerungen für seinen Browser Chrome angekündigt. Man gab an, neue Chrome-Leistungseinstellungen hinzufügen, damit die Tabs reibungslos funktionieren und die Akkulaufzeit eines Geräts verlängert wird, wenn sie zur Neige geht. Bei ersten Anwendern ist der Bereich Leistung...\nZum Beitrag: Chrome: Neue Leistungsoptionen lassen sich nutzen\r\n\r\nZum Blog: Caschys Blog",
-          "link": "https://stadt-bremerhaven.de/chrome-neue-leistungsoptionen-lassen-sich-nutzen/",
-          "publishedOn": "2023-02-20T19:39:06.000Z",
-          "wordCount": 1969,
-          "title": "Chrome: Neue Leistungsoptionen lassen sich nutzen",
-          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2023/02/chrome_.jpg"
-        },
-        {
-          "id": "https://stadt-bremerhaven.de/?p=1163520",
-          "author": "caschy",
-          "description": "Neue Sonos-Lautsprecher: Sie stehen offensichtlich kurz vor ihrer Veröffentlichung und wie in den letzten Jahren hat das US-Medium The Verge mal wieder einen exklusiven Blick auf die Lautsprecher irgendwie zugespielt bekommen. Zwei Modelle gibt es erst einmal, den Sonos Era...\nZum Beitrag: Sonos Era 300 und Era 100: Das sind die neuen Sonos-Lautsprecher\r\n\r\nZum Blog: Caschys Blog",
-          "link": "https://stadt-bremerhaven.de/sonos-era-300-und-era-100-das-sind-die-neuen-sonos-lautsprecher/",
-          "publishedOn": "2023-02-20T18:41:23.000Z",
-          "wordCount": 2157,
-          "title": "Sonos Era 300 und Era 100: Das sind die neuen Sonos-Lautsprecher",
-          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2023/02/era300black_.jpg"
-        },
-        {
-          "id": "https://stadt-bremerhaven.de/?p=1163497",
-          "author": "André Westphal",
-          "description": "Bethesda hat einen neuen Trailer zum kommenden Spiel „Redfall“ veröffentlicht. Das Spiel wird von Arkane Austin entwickelt und soll am 2. Mai 2023 erscheinen. Mittlerweile hat es sich im Übrigen für den deutschen Markt die Altersfreigabe „ab 16 Jahren“ gesichert....\nZum Beitrag: „Redfall“: Neuer Trailer zum Vampir-Spiel\r\n\r\nZum Blog: Caschys Blog",
-          "link": "https://stadt-bremerhaven.de/redfall-neuer-trailer-zum-vampir-spiel/",
-          "publishedOn": "2023-02-20T18:00:52.000Z",
-          "wordCount": 1804,
-          "title": "„Redfall“: Neuer Trailer zum Vampir-Spiel",
-          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2023/01/Redfall-Key-Art-77878e0f36719eb53903.jpg"
-        },
-        {
-          "id": "https://stadt-bremerhaven.de/?p=1163489",
-          "author": "caschy",
-          "description": "Microsoft Teams wird von zahlreichen Unternehmen eingesetzt. Hört man so herum, dann hat die Software nicht nur Freunde, sondern auch Gegner. Gegner, die Microsoft mit einem kommenden Update besänftigen könnte. Microsoft bereitet sich laut dem US-Medium The Verge darauf vor,...\nZum Beitrag: Microsoft Teams: Große Leistungsverbesserungen in kommender Version\r\n\r\nZum Blog: Caschys Blog",
-          "link": "https://stadt-bremerhaven.de/microsoft-teams-grosse-leistungsverbesserungen-in-kommender-version/",
-          "publishedOn": "2023-02-20T17:30:04.000Z",
-          "wordCount": 1975,
-          "title": "Microsoft Teams: Große Leistungsverbesserungen in kommender Version",
-          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2021/03/microsoft-teams.jpg"
-        },
-        {
-          "id": "https://stadt-bremerhaven.de/?p=1163473",
-          "author": "caschy",
-          "description": "Wir berichteten neulich über neue Erweiterungen, die der Browser Firefox für Android mittlerweile unterstützt. Nicht unterschlagen wollen wir da, dass mit der Version 110 des mobilen Browsers auch die Erweiterung Tampermonkey unterstützt. Tampermonkey ist eine Browsererweiterung, die es Benutzern ermöglicht,...\nZum Beitrag: Firefox für Android unterstützt Tampermonkey\r\n\r\nZum Blog: Caschys Blog",
-          "link": "https://stadt-bremerhaven.de/firefox-fuer-android-unterstuetzt-tampermonkey/",
-          "publishedOn": "2023-02-20T17:00:54.000Z",
-          "wordCount": 1839,
-          "title": "Firefox für Android unterstützt Tampermonkey",
-          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2021/11/Firefox-1_.jpg"
-        },
-        {
-          "id": "https://stadt-bremerhaven.de/?p=1163468",
-          "author": "André Westphal",
-          "description": "Das OnePlus 11 ist kein neues Smartphone mehr, da es für China bereits im Januar 2023 vorgestellt worden ist. Anfang Februar 2023 folgte dann auch der europäische Launch. Deutschland bleibt zunächst außen vor, da OnePlus und Oppo aufgrund eines Patentstreits...\nZum Beitrag: OnePlus 11 Concept: Smartphone-Variante mit rückseitiger LED-Beleuchtung\r\n\r\nZum Blog: Caschys Blog",
-          "link": "https://stadt-bremerhaven.de/oneplus-11-concept-smartphone-variante-mit-rueckseitiger-led-beleuchtung/",
-          "publishedOn": "2023-02-20T16:30:57.000Z",
-          "wordCount": 1990,
-          "title": "OnePlus 11 Concept: Smartphone-Variante mit rückseitiger LED-Beleuchtung",
-          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2023/02/OnePlus-11-Concept.webp"
-        },
-        {
-          "id": "https://stadt-bremerhaven.de/?p=1163460",
-          "author": "caschy",
-          "description": "Microsoft testet seit langer Zeit eine fest implementierte VPN-Funktion im Browser Edge. Da arbeitet man mit Cloudflare zusammen, 1 GB Traffic gibt es kostenlos, mehr soll man später gegen einen Aufpreis zubuchen können. Tarifinformationen dazu gibt es aber noch keine....\nZum Beitrag: Sicheres Netzwerk: VPN-Funktion für Edge taucht in der finalen Version des Browsers auf\r\n\r\nZum Blog: Caschys Blog",
-          "link": "https://stadt-bremerhaven.de/sicheres-netzwerk-vpn-funktion-fuer-edge-taucht-in-der-finalen-version-des-browsers-auf/",
-          "publishedOn": "2023-02-20T16:00:56.000Z",
-          "wordCount": 1873,
-          "title": "Sicheres Netzwerk: VPN-Funktion für Edge taucht in der finalen Version des Browsers auf",
-          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2023/02/Microsoft-edge_.jpg"
-        },
-        {
-          "id": "https://stadt-bremerhaven.de/?p=1163493",
-          "author": "André Westphal",
-          "description": "Derzeit ist das Spiel „Sudoku ultimative offline“ im Google Play Store kostenlos. Auch wenn der Name der App nicht gerade professionell anmutet, wurde das Game bereits über 100.000-mal heruntergeladen und kommt derzeit auf eine Bewertung von im Schnitt 4,8 von...\nZum Beitrag: „Sudoku ultimative offline“: Spiel ist im Play Store aktuell kostenlos\r\n\r\nZum Blog: Caschys Blog",
-          "link": "https://stadt-bremerhaven.de/sudoku-ultimative-offline-spiel-ist-im-play-store-aktuell-kostenlos/",
-          "publishedOn": "2023-02-20T15:45:16.000Z",
-          "wordCount": 1865,
-          "title": "„Sudoku ultimative offline“: Spiel ist im Play Store aktuell kostenlos",
-          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2023/02/Sudoku.jpg"
-        },
-        {
-          "id": "https://stadt-bremerhaven.de/?p=1163431",
-          "author": "André Westphal",
-          "description": "Was kommt nach dem Reboot? Klar, das ist der Reboot. So wird die Marke „Hellboy“ im Kino in einem dritten Anlauf nochmals aufgerollt. Nach den beiden Filmen mit Ron Perlman in der Hauptrolle folgte ja 2019 eine wenig erfolgreiche Neuauflage....\nZum Beitrag: „Hellboy: The Crooked Man“: Reboot nimmt Fahrt auf\r\n\r\nZum Blog: Caschys Blog",
-          "link": "https://stadt-bremerhaven.de/hellboy-the-crooked-man-reboot-nimmt-fahrt-auf/",
-          "publishedOn": "2023-02-20T15:30:37.000Z",
-          "wordCount": 1924,
-          "title": "„Hellboy: The Crooked Man“: Reboot nimmt Fahrt auf",
-          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2018/12/2018-12-20-07_02_21-HELLBOY-Trailer-2019-YouTube.jpg"
-        },
-        {
-          "id": "https://stadt-bremerhaven.de/?p=1163358",
-          "author": "André Westphal",
-          "description": "Laut aktuellen Berichten geht das deutsche E-Roller-Start-up e-bility aus Remagen in Rheinland-Pfalz in die Insolvenz. 75 Arbeitsplätze stehen damit zur Debatte, denn sie sind nur noch bis Ende März 2023 garantiert. In den Vergangenen Jahren war das Unternehmen durchaus gebeutelt....\nZum Beitrag: e-bility: E-Roller-Start-up geht in die Insolvenz\r\n\r\nZum Blog: Caschys Blog",
-          "link": "https://stadt-bremerhaven.de/e-bility-e-roller-start-up-geht-in-die-insolvenz/",
-          "publishedOn": "2023-02-20T15:00:11.000Z",
-          "wordCount": 1856,
-          "title": "e-bility: E-Roller-Start-up geht in die Insolvenz",
-          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2023/02/e-bility.jpg"
-        },
-        {
-          "id": "https://stadt-bremerhaven.de/?p=1163448",
-          "author": "caschy",
-          "description": "Windows 11 wird auf eine bessere Integration und die Erstellung von virtuellen Laufwerken vorbereitet. Noch sind die Einstellungen im Bereich System > Speicher nicht freigeschaltet, doch sie wurden bereits in einer Vorabversion entdeckt. So werden sich VHD- und VHDX-Laufwerke bald...\nZum Beitrag: Windows 11: Virtuelle Laufwerke zukünftig in den Einstellungen orchestrierbar\r\n\r\nZum Blog: Caschys Blog",
-          "link": "https://stadt-bremerhaven.de/windows-11-virtuelle-laufwerke-zukuenftig-in-den-einstellungen-orchestrierbar/",
-          "publishedOn": "2023-02-20T14:30:45.000Z",
-          "wordCount": 1788,
-          "title": "Windows 11: Virtuelle Laufwerke zukünftig in den Einstellungen orchestrierbar",
-          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/09/windows11h25_.jpg"
-        },
-        {
-          "id": "https://stadt-bremerhaven.de/?p=1163421",
-          "author": "André Westphal",
-          "description": "Poco hat in diesem Monat bereits mit den X5 / X5 Pro zwei neue Mittelklasse-Smartphones vorgestellt. Doch es soll noch ein drittes Gerät hinzustoßen: das Poco X5 GT. Dieses Modell wurde bereits durch die IMDA zertifiziert. Erste Berichte legen nahe,...\nZum Beitrag: Poco X5 GT: Neues Mittelklasse-Smartphone steht in den Startlöchern\r\n\r\nZum Blog: Caschys Blog",
-          "link": "https://stadt-bremerhaven.de/poco-x5-gt-neues-mittelklasse-smartphone-steht-in-den-startloechern/",
-          "publishedOn": "2023-02-20T14:00:13.000Z",
-          "wordCount": 1838,
-          "title": "Poco X5 GT: Neues Mittelklasse-Smartphone steht in den Startlöchern",
-          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2023/02/POCO-X5-5G-3.jpg"
-        },
-        {
-          "id": "https://stadt-bremerhaven.de/?p=1163458",
-          "author": "André Westphal",
-          "description": "Samsung verteilt aktuell ein Update für die Samsung Galaxy S23, S23+ und natürlich das Samsung Galaxy S23 Ultra. In der neuen Firmware S91xBXXU1AWBD, die in Europa die Nutzer erreicht, ist auch das Sicherheits-Update für den Februar 2023 enthalten. Außerdem ist...\nZum Beitrag: Samsung Galaxy S23: Smartphone-Serie erhält das Update S91xBXXU1AWBD\r\n\r\nZum Blog: Caschys Blog",
-          "link": "https://stadt-bremerhaven.de/samsung-galaxy-s23-smartphone-serie-erhaelt-das-update-s91xbxxu1awbd/",
-          "publishedOn": "2023-02-20T13:30:29.000Z",
-          "wordCount": 2048,
-          "title": "Samsung Galaxy S23: Smartphone-Serie erhält das Update S91xBXXU1AWBD",
-          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2023/02/Galaxy-S23-Series_Image_02_LI.jpg"
         }
       ]
     },
@@ -5232,6 +5232,146 @@
       "feedUrl": "https://www.computerbase.de/rss/news.xml",
       "siteUrl": "https://www.computerbase.de/",
       "articles": [
+        {
+          "id": "https://www.computerbase.de/2023-03/kostenloses-upgrade-counter-strike-2-tickt-anders-und-raucht-ab-sommer-mehr/",
+          "author": null,
+          "description": "<img src=\"https://pics.computerbase.de/1/0/7/1/6/6-34125ae4ff24a10a/article-640x360.0c23f78c.jpg\"><p>Aus CS:GO wird CS2. Valve hat Counter-Strike 2 als kostenloses Upgrade für den populären Online-Shooter angekündigt. Diesen Sommer erfolgt damit der technische Wechsel auf die Source-2-Engine. Zudem werden überarbeitete Maps und neue Features versprochen. Ausgewählte Spieler dürfen schon hineinschnuppern.</p>",
+          "link": "https://www.computerbase.de/2023-03/kostenloses-upgrade-counter-strike-2-tickt-anders-und-raucht-ab-sommer-mehr/",
+          "publishedOn": "2023-03-22T18:03:00.000Z",
+          "wordCount": 1213,
+          "title": "Kostenloses Upgrade: Counter-Strike 2 tickt und raucht ab Sommer anders",
+          "imageUrl": "https://pics.computerbase.de/1/0/7/1/6/6-34125ae4ff24a10a/article-1280x720.0c23f78c.jpg"
+        },
+        {
+          "id": "https://www.computerbase.de/2023-03/gog-spring-sale-grosse-rabattaktion-und-gratisspiel-folgen-auf-warm-up/",
+          "author": null,
+          "description": "<img src=\"https://pics.computerbase.de/1/0/7/1/6/3-9cf30b676cbad55c/article-640x360.463354fc.jpg\"><p>Noch bis morgen läuft der aktuelle Steam Sale, bei GOG geht es aber erst nun richtig los: Auf eine „Warm-up“-Aktion folgt nun der eigentliche Spring Sale 2023, mit dem – typisch für die DRM-freie Vertriebsplattform – auch ein Gratisspiel einhergeht.</p>",
+          "link": "https://www.computerbase.de/2023-03/gog-spring-sale-grosse-rabattaktion-und-gratisspiel-folgen-auf-warm-up/",
+          "publishedOn": "2023-03-22T17:26:00.000Z",
+          "wordCount": 1046,
+          "title": "GOG Spring Sale: Große Rabattaktion und Gratisspiel folgen auf Warm-up [Notiz]",
+          "imageUrl": "https://pics.computerbase.de/1/0/7/1/6/3-9cf30b676cbad55c/article-1280x720.463354fc.jpg"
+        },
+        {
+          "id": "https://www.computerbase.de/2023-03/cb-funk-podcast-12-mit-dem-dreier-in-die-hoelle/",
+          "author": null,
+          "description": "<img src=\"https://pics.computerbase.de/1/0/7/1/5/4-eb13198d3c13fd03/article-640x360.472870ab.jpg\"><p>Premiere: Weil Fabian und Jan von Diablo keine Ahnung haben, haben sich die beiden zum ersten Mal Verstärkung eingeladen: Kollege Max kennt sich nicht nur bestens mit Blizzards ARPG-Reihe aus, sondern hat am vergangenen Wochenende auch die Beta zu Diablo IV gespielt. Außerdem geht es um braune, große und teure Grafikkarten.</p>",
+          "link": "https://www.computerbase.de/2023-03/cb-funk-podcast-12-mit-dem-dreier-in-die-hoelle/",
+          "publishedOn": "2023-03-22T16:53:00.000Z",
+          "wordCount": 974,
+          "title": "CB-Funk-Podcast #12: Erstmals zu dritt über Diablo IV und die RTX 4080 Noctua [Notiz]",
+          "imageUrl": "https://pics.computerbase.de/1/0/7/1/5/4-eb13198d3c13fd03/article-1280x720.472870ab.jpg"
+        },
+        {
+          "id": "https://www.computerbase.de/2023-03/1943-bad-company-1-und-2-ea-nimmt-alte-battlefield-shooter-aus-dem-verkauf/",
+          "author": null,
+          "description": "<img src=\"https://pics.computerbase.de/1/0/7/1/5/2-de67ed7283eb888f/article-640x360.108560ca.jpg\"><p>Für drei alte Battlefield-Spiele fällt langsam der Vorhang. Verkauf und Betrieb von Battlefield 1943, Battlefield Bad Company 1 und Bad Company 2 werden im Laufe des Jahres eingestellt. Entgegen erster, anders lautender Meldungen wird das Parkoursspiel Mirrors Edge weiterhin angeboten.</p>",
+          "link": "https://www.computerbase.de/2023-03/1943-bad-company-1-und-2-ea-nimmt-alte-battlefield-shooter-aus-dem-verkauf/",
+          "publishedOn": "2023-03-22T16:37:00.000Z",
+          "wordCount": 1056,
+          "title": "1943, Bad Company 1 & 2: EA nimmt alte Battlefield-Shooter aus dem Verkauf",
+          "imageUrl": "https://pics.computerbase.de/1/0/7/1/5/2-de67ed7283eb888f/article-1280x720.108560ca.jpg"
+        },
+        {
+          "id": "https://www.computerbase.de/2023-03/nvidia-jetson-orin-nano-neues-developer-kit-mit-ampere-gpu-fuer-500-us-dollar/",
+          "author": null,
+          "description": "<img src=\"https://pics.computerbase.de/1/0/7/1/6/2-fed981102d054545/article-640x360.09fcd6e2.jpg\"><p>Entwickler aus den Bereichen Robotik, Drohnen oder Vision-Systeme können bei Nvidia demnächst mit dem Jetson Orin Nano Developer Kit experimentieren, bevor größere Stückzahlen der KI-Module für den Einsatz in der Serie erworben werden. Auf dem Jetson Orin Nano kommt ein SoC mit 6 Arm-CPU-Kernen und Ampere-GPU zum Einsatz.</p>",
+          "link": "https://www.computerbase.de/2023-03/nvidia-jetson-orin-nano-neues-developer-kit-mit-ampere-gpu-fuer-500-us-dollar/",
+          "publishedOn": "2023-03-22T16:10:00.000Z",
+          "wordCount": 1119,
+          "title": "Nvidia Jetson Orin Nano: Neues Developer Kit mit Ampere-GPU für 500 US-Dollar",
+          "imageUrl": "https://pics.computerbase.de/1/0/7/1/6/2-fed981102d054545/article-1280x720.09fcd6e2.jpg"
+        },
+        {
+          "id": "https://www.computerbase.de/2023-03/nothing-ear-2-test/",
+          "author": null,
+          "description": "<img src=\"https://pics.computerbase.de/1/0/7/1/1/9-16316eadf00f2f75/article-640x360.d39c2fb3.jpg\"><p>Die transparenten In-Ear-Kopfhörer Nothing Ear (2) bieten Verbesserungen gegenüber dem Vorgänger. Für Käufer erfreulich ist, dass sie auch beim Klang hörbar sind. Mit Multipoint und einem HD-Codec werden zudem Kritikpunkte der Ear (1) ausgemerzt – von letzterem profitieren aber nur wenige.</p>",
+          "link": "https://www.computerbase.de/2023-03/nothing-ear-2-test/",
+          "publishedOn": "2023-03-22T15:30:00.000Z",
+          "wordCount": 6851,
+          "title": "Nothing Ear (2) im Test: Besserer Klang für die trans­pa­renten In-Ear-Kopfhörer",
+          "imageUrl": "https://pics.computerbase.de/1/0/7/1/1/9-16316eadf00f2f75/article-1280x720.d39c2fb3.jpg"
+        },
+        {
+          "id": "https://www.computerbase.de/2023-03/prognose-zur-chip-fertigung-auf-einbruch-der-fabrik-ausgaben-um-22-prozent-folgt-wachstum/",
+          "author": null,
+          "description": "<img src=\"https://pics.computerbase.de/1/0/7/1/5/0-aec2d492cf687ac3/article-640x360.12950992.jpg\"><p>Nach zwei Jahren des rasanten Wachstums mit hohen Ausgaben in der Halbleiterbranche folgt nun der Einbruch. Dieser soll aber nur von kurzer Dauer sein, bereits 2024 könnte es wieder um fast genau den Wert bergauf gehen, den es dieses Jahr bergab geht.</p>",
+          "link": "https://www.computerbase.de/2023-03/prognose-zur-chip-fertigung-auf-einbruch-der-fabrik-ausgaben-um-22-prozent-folgt-wachstum/",
+          "publishedOn": "2023-03-22T14:52:00.000Z",
+          "wordCount": 983,
+          "title": "Prognose zur Chip-Fertigung: Auf Einbruch der Fabrik-Ausgaben um 22% folgt Wachstum",
+          "imageUrl": "https://pics.computerbase.de/1/0/7/1/5/0-aec2d492cf687ac3/article-1280x720.12950992.jpg"
+        },
+        {
+          "id": "https://www.computerbase.de/2023-03/amazon-luna-cloud-spiele-streaming-kommt-nach-deutschland/",
+          "author": null,
+          "description": "<img src=\"https://pics.computerbase.de/1/0/7/1/6/1-7fd16cbd2c73d861/article-640x360.6742941b.jpg\"><p>Der Cloud-Gaming-Dienst Amazon Luna ist ab sofort auch in Deutschland verfügbar. Über ihn lassen sich Spiele auf viele Geräte streamen. Prime-Mitglieder erhalten jeden Monat eine wechselnde Auswahl an Spielen kostenlos. Auch der Luna-Controller ist ab sofort verfügbar.</p>",
+          "link": "https://www.computerbase.de/2023-03/amazon-luna-cloud-spiele-streaming-kommt-nach-deutschland/",
+          "publishedOn": "2023-03-22T14:00:00.000Z",
+          "wordCount": 1336,
+          "title": "Amazon Luna: Cloud-Spiele-Streaming kommt nach Deutschland",
+          "imageUrl": "https://pics.computerbase.de/1/0/7/1/6/1-7fd16cbd2c73d861/article-1280x720.6742941b.jpg"
+        },
+        {
+          "id": "https://www.computerbase.de/2023-03/qled-fernseher-amazons-smart-tvs-starten-mit-neuen-modellen-in-deutschland/",
+          "author": null,
+          "description": "<img src=\"https://pics.computerbase.de/1/0/7/1/1/8-efe6942829be2504/article-640x360.1e1f8b40.jpg\"><p>In den USA bietet Amazon bereits eigene Fernseher an. Nun startet das Unternehmen auch in Deutschland mit eigenen Fernsehern, bei denen der digitale Sprachassistent Alexa direkt integriert ist. Neben den Modellen aus den USA kommen in Deutschland und Großbritannien auch eine neue Value-Serie und neue Größen dazu.</p>",
+          "link": "https://www.computerbase.de/2023-03/qled-fernseher-amazons-smart-tvs-starten-mit-neuen-modellen-in-deutschland/",
+          "publishedOn": "2023-03-22T14:00:00.000Z",
+          "wordCount": 2093,
+          "title": "QLED-Fernseher: Amazons Smart-TVs starten mit neuen Modellen in Deutschland",
+          "imageUrl": "https://pics.computerbase.de/1/0/7/1/1/8-efe6942829be2504/article-1280x720.1e1f8b40.jpg"
+        },
+        {
+          "id": "https://www.computerbase.de/2023-03/dall-e-integration-ki-bilder-erstellen-mit-bing-und-edge/",
+          "author": null,
+          "description": "<img src=\"https://pics.computerbase.de/1/0/7/1/4/7-986c30ad9a6c3d3d/article-640x360.5fb7f6cc.jpg\"><p>Microsoft erweitert die generative KI-Version von Bing und Egde um den Bing Image Creator, der auf OpenAIs Dall-E-Modell basiert. Damit ist es möglich, innerhalb eines Bing-Chats auch Bilder zu generieren. Zudem ist der Bing Image Creator als eigenständiges Tool mittlerweile in Deutschland verfügbar.</p>",
+          "link": "https://www.computerbase.de/2023-03/dall-e-integration-ki-bilder-erstellen-mit-bing-und-edge/",
+          "publishedOn": "2023-03-22T11:40:00.000Z",
+          "wordCount": 718,
+          "title": "Dall-E-Integration: KI-Bilder erstellen mit Bing und Edge [Notiz]",
+          "imageUrl": "https://pics.computerbase.de/1/0/7/1/4/7-986c30ad9a6c3d3d/article-1280x720.5fb7f6cc.jpg"
+        },
+        {
+          "id": "https://www.computerbase.de/2023-03/chinesische-halbleiterhersteller-unlimitierte-unterstuetzung-fuer-smic-huawei-und-co/",
+          "author": null,
+          "description": "<img src=\"https://pics.computerbase.de/1/0/7/1/4/6-0ef3d7b324828f87/article-640x360.96f03141.jpg\"><p>China zieht die Zügel an und fokussiert Anstrengungen in der Halbleitersparte und Chipproduktion auf wenige Hersteller mit der größten Erfolgsaussicht. Dafür werden gewisse Regeln gelockert, es winken weitere Subventionen, die, je nach Medienbericht, nahezu „unlimitiert“ ausfallen könnten.</p>",
+          "link": "https://www.computerbase.de/2023-03/chinesische-halbleiterhersteller-unlimitierte-unterstuetzung-fuer-smic-huawei-und-co/",
+          "publishedOn": "2023-03-22T10:47:00.000Z",
+          "wordCount": 1034,
+          "title": "Chinesische Halbleiterhersteller: Unlimitierte Unterstützung für SMIC, Huawei und Co.",
+          "imageUrl": "https://pics.computerbase.de/1/0/7/1/4/6-0ef3d7b324828f87/article-1280x720.96f03141.jpg"
+        },
+        {
+          "id": "https://www.computerbase.de/2023-03/amazon-will-sparen-dpreview-muss-im-april-schliessen/",
+          "author": null,
+          "description": "<img src=\"https://pics.computerbase.de/1/0/7/1/4/5-b09a9edc029b1c93/article-640x360.b1a4ec18.jpg\"><p>Den jüngsten Sparmaßnahmen und Stellenstreichungen bei Amazon fällt auch die für ihre ausführlichen Kamera-Tests und Vergleichs-Datenbanken bekannte Website DPReview zum Opfer. Laut General Manager Scott Everett wird das Portal am 10. April geschlossen und danach für eine begrenzte Zeit nur noch im Read-only-Modus abrufbar sein.</p>",
+          "link": "https://www.computerbase.de/2023-03/amazon-will-sparen-dpreview-muss-im-april-schliessen/",
+          "publishedOn": "2023-03-22T09:00:00.000Z",
+          "wordCount": 911,
+          "title": "Amazon will sparen: DPReview muss im April schließen (Update)",
+          "imageUrl": "https://pics.computerbase.de/1/0/7/1/4/5-b09a9edc029b1c93/article-1280x720.b1a4ec18.jpg"
+        },
+        {
+          "id": "https://www.computerbase.de/2023-03/intel-raja-koduri-und-foundry-chef-randhir-thakur-gehen/",
+          "author": null,
+          "description": "<img src=\"https://pics.computerbase.de/1/0/7/1/4/3-e707e6c501703f8a/article-640x360.7226e522.jpg\"><p>Erst wurde er degradiert, nun folgt der Abgang: Raja Koduri verlässt Intel. Auch der Foundry-Chef Randhir Thakur geht Ende März – hier jedoch wie ursprünglich geplant in den Ruhestand, wenngleich das in den USA schnell heißen kann, bald woanders wieder aufzutauchen. Und genau so klingt es nun auch.</p>",
+          "link": "https://www.computerbase.de/2023-03/intel-raja-koduri-und-foundry-chef-randhir-thakur-gehen/",
+          "publishedOn": "2023-03-22T07:59:00.000Z",
+          "wordCount": 1090,
+          "title": "Intel: Raja Koduri und Foundry-Chef Randhir Thakur gehen",
+          "imageUrl": "https://pics.computerbase.de/1/0/7/1/4/3-e707e6c501703f8a/article-1280x720.7226e522.jpg"
+        },
+        {
+          "id": "https://www.computerbase.de/2023-03/nvidia-h800-profi-karte-hopper-h100-wird-fuer-china-kastriert/",
+          "author": null,
+          "description": "<img src=\"https://pics.computerbase.de/1/0/7/1/4/2-c5c7617cf5c6bc25/article-640x360.4613da6c.jpg\"><p>Nvidia will auch weiterhin mit China Geschäfte machen und folgt so einem mit Ampere eingeführten Prozedere: Kastration. Damals wurde aus einer A100-Profikarte das Modell A800 mit verringerter Bandbreite. Nun folgt auch beim aktuellen Flaggschiff H100 die Anpassung auf H800.</p>",
+          "link": "https://www.computerbase.de/2023-03/nvidia-h800-profi-karte-hopper-h100-wird-fuer-china-kastriert/",
+          "publishedOn": "2023-03-22T07:02:00.000Z",
+          "wordCount": 953,
+          "title": "Nvidia H800: Profi-Karte Hopper H100 wird für China kastriert",
+          "imageUrl": "https://pics.computerbase.de/1/0/7/1/4/2-c5c7617cf5c6bc25/article-1280x720.4613da6c.jpg"
+        },
         {
           "id": "https://www.computerbase.de/2023-03/project-sirius-cd-projekt-zieht-multiplayer-witcher-zurueck-ans-reissbrett/",
           "author": null,
@@ -7751,76 +7891,6 @@
           "wordCount": 15106,
           "title": "Nvidia Laptop GPUs im Test: GeForce RTX 4050, 4060, 4070, 4080 und 4090 im Vergleich",
           "imageUrl": "https://pics.computerbase.de/1/0/6/8/2/3-50e5980da7bffced/article-1280x720.ab5976d7.jpg"
-        },
-        {
-          "id": "https://www.computerbase.de/2023-02/intel-meteor-lake-von-verschiebung-im-notebook-bis-einstellung-im-desktop/",
-          "author": null,
-          "description": "<img src=\"https://pics.computerbase.de/1/0/6/8/5/0-ff806cb7be9667eb/article-640x360.d845d9f8.jpg\"><p>Mehrere Medienberichte greifen heute das Thema Intel Meteor Lake erneut auf. Die Desktop-Version scheint wie bereits erwartet tot zu sein, aber auch im Notebook könnte es zu Verzögerungen kommen. Neuerdings wird nämlich erst über einen Termin im zweiten Quartal 2024 spekuliert, das wäre deutlich später als geplant.</p>",
-          "link": "https://www.computerbase.de/2023-02/intel-meteor-lake-von-verschiebung-im-notebook-bis-einstellung-im-desktop/",
-          "publishedOn": "2023-02-21T13:16:00.000Z",
-          "wordCount": 1000,
-          "title": "Intel Meteor Lake: Von Verschiebung im Notebook bis Einstellung im Desktop",
-          "imageUrl": "https://pics.computerbase.de/1/0/6/8/5/0-ff806cb7be9667eb/article-1280x720.d845d9f8.jpg"
-        },
-        {
-          "id": "https://www.computerbase.de/2023-02/company-of-heroes-3-benchmark-test/",
-          "author": null,
-          "description": "<img src=\"https://pics.computerbase.de/1/0/6/8/4/0-42fc62c18189847e/article-640x360.659cd3e7.jpg\"><p>Mit Company of Heroes 3 geht das erfolgreiche Echtzeitstrategiespiel in eine neue Runde. Im Test der Technik der PC-Version präsentiert sich eine klar hübschere Grafik mit moderaten bis niedrigen Ansprüchen an die Grafikkarte. Schlachtenlenker mit UHD-Faible sollten aber mehr als 8 GB Grafikspeicher ihr Eigen nennen.</p>",
-          "link": "https://www.computerbase.de/2023-02/company-of-heroes-3-benchmark-test/",
-          "publishedOn": "2023-02-21T13:00:00.000Z",
-          "wordCount": 1827,
-          "title": "Company of Heroes 3 im Test: Ordentlich Kawumm auch auf schwächeren Gaming-PCs",
-          "imageUrl": "https://pics.computerbase.de/1/0/6/8/4/0-42fc62c18189847e/article-1280x720.659cd3e7.jpg"
-        },
-        {
-          "id": "https://www.computerbase.de/2023-02/activision-uebernahme-microsoft-und-nintendo-besiegeln-10-jahre-call-of-duty-deal/",
-          "author": null,
-          "description": "<img src=\"https://pics.computerbase.de/1/0/6/8/4/6-3f5df4203694f832/article-640x360.2a1b079a.jpg\"><p>Microsoft und Nintendo haben einen verbindlichen 10-Jahres-Vertrag für Call of Duty auf der Plattform der Japaner unterzeichnet. Der Schachzug gilt als strategisch wichtig für die Überzeugung der EU-Wettbewerbskommission, die der 69 Milliarden US-Dollar schweren Activision-Übernahme ihre Zustimmung geben soll. Sony ist dagegen.</p>",
-          "link": "https://www.computerbase.de/2023-02/activision-uebernahme-microsoft-und-nintendo-besiegeln-10-jahre-call-of-duty-deal/",
-          "publishedOn": "2023-02-21T12:40:00.000Z",
-          "wordCount": 1183,
-          "title": "Activision-Übernahme: Microsoft, Nintendo und Nvidia besiegeln 10-Jahre-CoD-Deal (Update)",
-          "imageUrl": "https://pics.computerbase.de/1/0/6/8/4/6-3f5df4203694f832/article-1280x720.2a1b079a.jpg"
-        },
-        {
-          "id": "https://www.computerbase.de/2023-02/gran-turismo-7-update-1-29-bringt-support-fuer-ps-vr2-und-neue-strecke/",
-          "author": null,
-          "description": "<img src=\"https://pics.computerbase.de/1/0/6/8/4/5-35fd01a36a9b4205/article-640x360.3349d66d.jpg\"><p>Passend zum morgigen Marktstart der PS VR2 hat Polyphony Digital das Update 1.29 für Gran Turismo 7 veröffentlicht, das die entsprechende Unterstützung in das Rennspiel integriert. Neu sind außerdem die KI-Gegner „Gran Turismo Sophy“, der Highway-1-Rundkurs, fünf Fahrzeuge und erweiterte Optionen für die Scapes-Fotos.</p>",
-          "link": "https://www.computerbase.de/2023-02/gran-turismo-7-update-1-29-bringt-support-fuer-ps-vr2-und-neue-strecke/",
-          "publishedOn": "2023-02-21T09:18:00.000Z",
-          "wordCount": 1767,
-          "title": "Gran Turismo 7: Update 1.29 bringt Support für PS VR2 und neue Strecke",
-          "imageUrl": "https://pics.computerbase.de/1/0/6/8/4/5-35fd01a36a9b4205/article-1280x720.3349d66d.jpg"
-        },
-        {
-          "id": "https://www.computerbase.de/2023-02/mystery-festival-rabattaktion-auf-steam-reduziert-mysterioese-spiele/",
-          "author": null,
-          "description": "<img src=\"https://pics.computerbase.de/1/0/6/8/4/4-57ec007212471794/article-640x360.25e1c5a9.jpg\"><p>In Rahmen einer weiteren kleinen Rabattaktion auf Steam rückt Valve diesmal Mystery-, Horror- und Detektivspiele in den Mittelpunkt. Das Steam Mystery Festival ist gestern Abend gestartet und läuft noch bis zum 27. Februar um 19 Uhr.</p>",
-          "link": "https://www.computerbase.de/2023-02/mystery-festival-rabattaktion-auf-steam-reduziert-mysterioese-spiele/",
-          "publishedOn": "2023-02-21T07:19:00.000Z",
-          "wordCount": 1008,
-          "title": "Mystery Festival: Rabattaktion auf Steam reduziert mysteriöse Spiele [Notiz]",
-          "imageUrl": "https://pics.computerbase.de/1/0/6/8/4/4-57ec007212471794/article-1280x720.25e1c5a9.jpg"
-        },
-        {
-          "id": "https://www.computerbase.de/2023-02/trendforce-2023-wird-mehr-dram-fuer-server-als-fuer-mobile-produziert/",
-          "author": null,
-          "description": "<img src=\"https://pics.computerbase.de/1/0/6/8/4/2-581ff62a3a1eef59/article-640x360.cb00778c.jpg\"><p>Es wird immer mehr DRAM für Server produziert, denn die Nachfrage ist hoch. Im Gegenzug sinkt sie im Client-Bereich und auch beim Mobile-DRAM für Smartphones herrschen hohe Lagerbestände. So wundert es nicht, dass in diesem Jahr voraussichtlich mehr DRAM-Chips für Server als für Mobilgeräte hergestellt werden.</p>",
-          "link": "https://www.computerbase.de/2023-02/trendforce-2023-wird-mehr-dram-fuer-server-als-fuer-mobile-produziert/",
-          "publishedOn": "2023-02-20T18:23:00.000Z",
-          "wordCount": 836,
-          "title": "TrendForce: 2023 wird mehr DRAM für Server als für Mobile produziert",
-          "imageUrl": "https://pics.computerbase.de/1/0/6/8/4/2-581ff62a3a1eef59/article-1280x720.cb00778c.jpg"
-        },
-        {
-          "id": "https://www.computerbase.de/2023-02/philips-evnia-oled-monitore-kommen-spaeter-zum-kleineren-preis/",
-          "author": null,
-          "description": "<img src=\"https://pics.computerbase.de/1/0/6/8/4/1-87856dd8c353e1e2/article-640x360.dbf253a1.jpg\"><p>Aus Mitte Januar wurde Ende Februar, aber nun erreichen die ersten OLED-Monitore von Philips den Handel. Der Philips Evnia 34M2C8600 nutzt ein QD-OLED-Panel mit UWQHD, 175 Hz und 34 Zoll, beim 42M2N8900 gibt es 4K UHD mit 138 Hz auf 42 Zoll. Der UVP ist bei beiden niedriger als es angekündigt war.</p>",
-          "link": "https://www.computerbase.de/2023-02/philips-evnia-oled-monitore-kommen-spaeter-zum-kleineren-preis/",
-          "publishedOn": "2023-02-20T15:07:00.000Z",
-          "wordCount": 1167,
-          "title": "Philips Evnia: OLED-Monitore kommen später zum kleineren Preis",
-          "imageUrl": "https://pics.computerbase.de/1/0/6/8/4/1-87856dd8c353e1e2/article-1280x720.dbf253a1.jpg"
         }
       ]
     },
@@ -8722,10 +8792,180 @@
       ]
     },
     {
-      "title": "Deutschlandfunk - Fortlaufende Nachrichten vom 22. März 2023",
+      "title": "Deutschlandfunk - Fortlaufende Nachrichten vom 23. März 2023",
       "feedUrl": "https://www.deutschlandfunk.de/nachrichten-100.rss",
-      "siteUrl": "https://www.deutschlandfunk.de/nachrichten-index-27324.html",
+      "siteUrl": "https://www.deutschlandfunk.de/nachrichten-index-27330.html",
       "articles": [
+        {
+          "id": "kritik-aus-berlin-an-israels-siedlungs-entscheidung-100",
+          "author": null,
+          "description": "Nach den USA hat auch die Bundesregierung eine vom israelischen Parlament beschlossene Gesetzesänderung zugunsten jüdischer Siedler kritisiert.",
+          "link": "https://www.deutschlandfunk.de/kritik-aus-berlin-an-israels-siedlungs-entscheidung-100.html",
+          "publishedOn": "2023-03-23T01:20:30.000Z",
+          "wordCount": 716,
+          "title": "Nahost - Kritik aus Berlin an Israels Siedlungs-Entscheidung",
+          "imageUrl": "https://assets.deutschlandfunk.de/33b6b8b2-e657-4b02-a12d-6d867a50f334/1920x1080.jpg?t=1679386471186"
+        },
+        {
+          "id": "innenministerin-faeser-keine-weiteren-abhaengigkeiten-schaffen-100",
+          "author": null,
+          "description": "Bundesinnenministerin Faeser warnt vor Versuchen staatlicher Einflussnahme durch China.",
+          "link": "https://www.deutschlandfunk.de/innenministerin-faeser-keine-weiteren-abhaengigkeiten-schaffen-100.html",
+          "publishedOn": "2023-03-23T01:20:30.000Z",
+          "wordCount": 778,
+          "title": "Staatliche Einflussnahme durch China - Innenministerin Faeser: Keine weiteren Abhängigkeiten schaffen",
+          "imageUrl": "https://assets.deutschlandfunk.de/df18eab0-5c4c-4c17-9e99-7f8e76f11c05/1920x1080.jpg?t=1675441531349"
+        },
+        {
+          "id": "baerbock-der-platz-von-nordmazedonien-ist-in-der-eu-100",
+          "author": null,
+          "description": "Vor ihrer Reise nach Nordmazedonien hat Bundesaußenministerin Baerbock erneut die Perspektive einer EU-Mitgliedschaft des Landes betont.",
+          "link": "https://www.deutschlandfunk.de/baerbock-der-platz-von-nordmazedonien-ist-in-der-eu-100.html",
+          "publishedOn": "2023-03-23T01:20:30.000Z",
+          "wordCount": 755,
+          "title": "Balkanreise - Baerbock: Der Platz von Nordmazedonien ist in der EU",
+          "imageUrl": "https://assets.deutschlandfunk.de/e96f0fcb-1dcc-4eb3-ab2a-95b854dc9670/1920x1080.jpg?t=1678091558124"
+        },
+        {
+          "id": "lemke-fordert-grenzueberschreitendes-handeln-zur-bewahrung-von-wasser-106",
+          "author": null,
+          "description": "Bundesumweltministerin Lemke hat auf der Wasserkonferenz der Vereinten Nationen die Weltgemeinschaft zum gemeinsamen Handeln aufgefordert. Weil Wasser nicht vor Landesgrenzen haltmache, sei von entscheidender Bedeutung, zwischenstaatliche Vereinbarungen zu fördern, sagte Lemke in New York.",
+          "link": "https://www.deutschlandfunk.de/lemke-fordert-grenzueberschreitendes-handeln-zur-bewahrung-von-wasser-106.html",
+          "publishedOn": "2023-03-23T01:20:30.000Z",
+          "wordCount": 772,
+          "title": "UNO-Wasserkonferenz - Lemke fordert grenzüberschreitendes Handeln zur Bewahrung von Wasser",
+          "imageUrl": "https://assets.deutschlandfunk.de/63addb00-91cb-4a60-8f34-bd12a18e4a4c/1920x1080.jpg?t=1679518855531"
+        },
+        {
+          "id": "us-notenbank-hebt-leitzins-weiter-an-102",
+          "author": null,
+          "description": "Die US-Notenbank hat ihren Leitzins um 0,25 Prozentpunkte angehoben. Er liegt er nun in der Spanne von 4,75 bis 5,0 Prozent, wie die Federal Reserve in Washington mitteilte. Damit setzt sie ihre Serie von Zinserhöhungen zur Bekämpfung der anhaltend hohen Inflation fort.",
+          "link": "https://www.deutschlandfunk.de/us-notenbank-hebt-leitzins-weiter-an-102.html",
+          "publishedOn": "2023-03-23T01:20:30.000Z",
+          "wordCount": 766,
+          "title": "Trotz Bankenbeben - US-Notenbank hebt Leitzins weiter an",
+          "imageUrl": "https://assets.deutschlandfunk.de/dbe342fb-3018-444c-9e63-ff314a20dfdb/1920x1080.jpg?t=1671103166411"
+        },
+        {
+          "id": "woidke-fordert-sozialen-ausgleich-100",
+          "author": null,
+          "description": "Brandenburgs Ministerpräsident Woidke dringt mit Blick auf die Pläne der Ampelkoalition zum Heizungstausch auf einen sozialen Ausgleich.",
+          "link": "https://www.deutschlandfunk.de/woidke-fordert-sozialen-ausgleich-100.html",
+          "publishedOn": "2023-03-23T01:20:30.000Z",
+          "wordCount": 756,
+          "title": "Umstellung von Heizungen - Woidke fordert sozialen Ausgleich",
+          "imageUrl": "https://assets.deutschlandfunk.de/FILE_03d7f69beb03899e756890e0f6846710/1920x1080.jpg?t=1616673752735"
+        },
+        {
+          "id": "staats-und-regierungschefs-beraten-ueber-klimaschutz-ukraine-und-euro-100",
+          "author": null,
+          "description": "Die Staats- und Regierungschefs der Europäischen Union kommen am Vormittag in Brüssel zu zweitägigen Beratungen zusammen.",
+          "link": "https://www.deutschlandfunk.de/staats-und-regierungschefs-beraten-ueber-klimaschutz-ukraine-und-euro-100.html",
+          "publishedOn": "2023-03-23T01:20:30.000Z",
+          "wordCount": 813,
+          "title": "EU-Gipfel - Staats- und Regierungschefs beraten über Klimaschutz, Ukraine und Euro",
+          "imageUrl": "https://assets.deutschlandfunk.de/FILE_82c3276edf5619fa314f5d291d6b056a/1920x1080.jpg?t=1622037601473"
+        },
+        {
+          "id": "habeck-hemmnisse-beim-ausbau-sollen-schnell-abgebaut-werden-106",
+          "author": null,
+          "description": "Bundeswirtschaftsminister Habeck hat bekräftigt, den Ausbau der Windkraft in Deutschland konsequent voranbringen zu wollen. Man habe eine Reihe von Handlungsfeldern identifiziert, sagte Habeck nach einem Treffen unter anderem mit Vertretern der Energiebranche in Berlin.",
+          "link": "https://www.deutschlandfunk.de/habeck-hemmnisse-beim-ausbau-sollen-schnell-abgebaut-werden-106.html",
+          "publishedOn": "2023-03-23T01:20:30.000Z",
+          "wordCount": 987,
+          "title": "Windkraft - Habeck: Hemmnisse beim Ausbau sollen schnell abgebaut werden",
+          "imageUrl": "https://assets.deutschlandfunk.de/4d56f693-b107-45ec-a51d-127282368058/1920x1080.jpg?t=1679502871773"
+        },
+        {
+          "id": "letzte-generation-ist-keine-terror-vereinigung-104",
+          "author": null,
+          "description": "Die Klimaschutzbewegung \"Letzte Generation\" wird von der Bundesanwaltschaft nicht als terroristische Vereinigung betrachtet.",
+          "link": "https://www.deutschlandfunk.de/letzte-generation-ist-keine-terror-vereinigung-104.html",
+          "publishedOn": "2023-03-23T01:20:30.000Z",
+          "wordCount": 766,
+          "title": "Generalbundesanwalt - \"Letzte Generation ist keine Terror-Vereinigung\"",
+          "imageUrl": "https://assets.deutschlandfunk.de/01c14bea-9388-41a5-9c1c-2e23a7efecf0/1920x1080.jpg?t=1678802655155"
+        },
+        {
+          "id": "razzien-in-der-reichsbuerger-szene-102",
+          "author": null,
+          "description": "Der Generalbundesanwalt hat weitere Razzien in der Reichsbürger-Szene durchführen lassen. Nach Angaben von Bundesjustizminister Buschmann wurden insgesamt 20 Objekte durchsucht. Die Einsätze fanden in acht Bundesländern sowie der Schweiz statt. Bei einer Razzia im baden-württembergischen Reutlingen wurde ein Polizist angeschossen.",
+          "link": "https://www.deutschlandfunk.de/razzien-in-der-reichsbuerger-szene-102.html",
+          "publishedOn": "2023-03-23T01:20:30.000Z",
+          "wordCount": 820,
+          "title": "Rechtsextremismus - Razzien in der Reichsbürger-Szene",
+          "imageUrl": "https://assets.deutschlandfunk.de/d2dd16fa-d678-4852-9650-f885ce1ae489/1920x1080.jpg?t=1679499564965"
+        },
+        {
+          "id": "slowakei-bekommt-us-angebot-fuer-verguenstigte-hubschrauber-100",
+          "author": null,
+          "description": "Die USA haben der Slowakei im Zusammenhang mit der geplanten Lieferung von Kampfflugzeugen an die Ukraine vergünstigte Hubschrauber angeboten.",
+          "link": "https://www.deutschlandfunk.de/slowakei-bekommt-us-angebot-fuer-verguenstigte-hubschrauber-100.html",
+          "publishedOn": "2023-03-23T01:20:30.000Z",
+          "wordCount": 827,
+          "title": "Nach Lieferankündigung von Kampfjets an Ukraine - Slowakei bekommt US-Angebot für vergünstigte Hubschrauber",
+          "imageUrl": "https://assets.deutschlandfunk.de/9162cc1a-c60f-4f79-a19c-650bfb7fca61/1920x1080.jpg?t=1679515281272"
+        },
+        {
+          "id": "blinken-sieht-keine-hinweise-fuer-waffenlieferungen-chinas-an-russland-104",
+          "author": null,
+          "description": "Die USA haben nach Angaben von Außenminister Blinken derzeit keine Hinweise auf mögliche Waffenlieferungen Chinas an Russland.",
+          "link": "https://www.deutschlandfunk.de/blinken-sieht-keine-hinweise-fuer-waffenlieferungen-chinas-an-russland-104.html",
+          "publishedOn": "2023-03-23T01:20:30.000Z",
+          "wordCount": 839,
+          "title": "Russlands Krieg gegen die Ukraine - Blinken sieht keine Hinweise für Waffenlieferungen Chinas an Russland",
+          "imageUrl": "https://assets.deutschlandfunk.de/733ef8d4-8506-4633-8303-bafbd4ec12f4/1920x1080.jpg?t=1679506091694"
+        },
+        {
+          "id": "impfungen-sollen-weitgehend-kostenfrei-moeglich-bleiben-100",
+          "author": null,
+          "description": "Die Corona-Impfungen sollen künftig in die reguläre medizinische Versorgung übergehen.",
+          "link": "https://www.deutschlandfunk.de/impfungen-sollen-weitgehend-kostenfrei-moeglich-bleiben-100.html",
+          "publishedOn": "2023-03-23T01:20:30.000Z",
+          "wordCount": 745,
+          "title": "Covid-19 - Impfungen sollen weitgehend kostenfrei möglich bleiben",
+          "imageUrl": "https://assets.deutschlandfunk.de/06ebb108-3b70-44a3-8184-eddfda57273a/1920x1080.jpg?t=1678819840733"
+        },
+        {
+          "id": "hochschulrektorenkonfernez-bemaengelt-zu-knappe-befristungen-104",
+          "author": null,
+          "description": "Der Präsident der Hochschulrektorenkonferenz, Peter-André Alt, sieht Nachbesserungsbedarf bei der von der Regierung geplanten Reform des Wissenschaftszeitvertragsgesetzes.",
+          "link": "https://www.deutschlandfunk.de/hochschulrektorenkonfernez-bemaengelt-zu-knappe-befristungen-104.html",
+          "publishedOn": "2023-03-23T01:20:30.000Z",
+          "wordCount": 804,
+          "title": "Wissenschaftszeitvertragsgesetz - Hochschulrektorenkonfernez bemängelt zu knappe Befristungen",
+          "imageUrl": "https://assets.deutschlandfunk.de/7665ef55-709d-466f-9587-87df90385f6d/1920x1080.jpg?t=1654530557626"
+        },
+        {
+          "id": "roger-waters-darf-trotz-kritik-in-muenchen-auftreten-104",
+          "author": null,
+          "description": "Die Stadt München wird das Konzert des Pink-Floyd-Mitbegründers Roger Waters nicht verbieten. Es sei aus rechtlichen Gründen nicht möglich, den Vertrag mit dem Konzertveranstalter außerordentlich zu kündigen, heißt es in dem Beschluss des Stadtrats. Waters steht wegen Antisemitismus-Vorwürfen in der Kritik.",
+          "link": "https://www.deutschlandfunk.de/roger-waters-darf-trotz-kritik-in-muenchen-auftreten-104.html",
+          "publishedOn": "2023-03-23T01:20:30.000Z",
+          "wordCount": 845,
+          "title": "Pink-Floyd Mitgründer - Roger Waters darf trotz Kritik in München auftreten",
+          "imageUrl": "https://assets.deutschlandfunk.de/5ad38041-8c97-4b6b-9719-85783435fe59/1920x1080.jpg?t=1678961562661"
+        },
+        {
+          "id": "gewinnzahlen-19-28-33-35-38-104",
+          "author": null,
+          "description": "Die Lottozahlen: 19 - 28 - 33 - 35 - 38 - 40",
+          "link": "https://www.deutschlandfunk.de/gewinnzahlen-19-28-33-35-38-104.html",
+          "publishedOn": "2023-03-23T01:20:30.000Z",
+          "wordCount": 698,
+          "title": "Mittwochslotto - Gewinnzahlen 19 - 28 - 33 - 35 - 38 - 40",
+          "imageUrl": null
+        },
+        {
+          "id": "im-norden-regen-im-sueden-etwas-sonne-102",
+          "author": null,
+          "description": "Der Wetterbericht, die Lage: Deutschland liegt am Rande eines umfangreichen Tiefdruckkomplexes über dem Nordatlantik. Dabei gelangt mit einer südwestlichen Strömung milde Meeresluft ins Land, die das Wetter wechselhaft gestaltet.",
+          "link": "https://www.deutschlandfunk.de/im-norden-regen-im-sueden-etwas-sonne-102.html",
+          "publishedOn": "2023-03-23T01:20:30.000Z",
+          "wordCount": 735,
+          "title": "Wetter - Im Norden Regen, im Süden etwas Sonne",
+          "imageUrl": "https://assets.deutschlandfunk.de/4cf02098-33bc-4b73-9e6a-bbfd7dd69bac/1920x1080.jpg?t=1642078545401"
+        },
         {
           "id": "putin-russland-kann-wachsenden-energiebedarf-chinas-decken-106",
           "author": null,
@@ -14314,126 +14554,6 @@
           "publishedOn": "2023-02-22T00:29:49.000Z",
           "wordCount": 732,
           "title": "Wetter - Wechselnd wolkig, örtlich Auflockerungen",
-          "imageUrl": "https://assets.deutschlandfunk.de/4cf02098-33bc-4b73-9e6a-bbfd7dd69bac/1920x1080.jpg?t=1642078545401"
-        },
-        {
-          "id": "geplante-justizreform-nimmt-erste-parlamentarische-huerde-zehntausende-protestieren-102",
-          "author": null,
-          "description": "In Israel hat das Parlament am späten Abend für erste Teile der umstrittenen Justizreform der rechts-religiösen Regierung votiert. Vorausgegangen waren rund achtstündige Beratungen. Bis das Paket den parlamentarischen Prozess durchlaufen hat, sind noch weitere Sitzungen und Abstimmungen erforderlich.",
-          "link": "https://www.deutschlandfunk.de/geplante-justizreform-nimmt-erste-parlamentarische-huerde-zehntausende-protestieren-102.html",
-          "publishedOn": "2023-02-21T01:10:01.000Z",
-          "wordCount": 778,
-          "title": "Israel - Geplante Justizreform nimmt erste parlamentarische Hürde - Zehntausende protestieren",
-          "imageUrl": "https://assets.deutschlandfunk.de/9473a665-46e1-487e-bef8-8ca94ffcf375/1920x1080.jpg?t=1676925629679"
-        },
-        {
-          "id": "geheimes-kreml-dokument-beschreibt-plaene-fuer-uebernahme-von-belarus-102",
-          "author": null,
-          "description": "Russland hat laut Presserecherchen Pläne für eine schrittweise Übernahme seines Nachbarlandes Belarus bis zum Jahr 2030 erstellt. Das lege ein Dokument aus der Präsidialverwaltung in Moskau nahe, heißt es in einer Auswertung zahlreicher Medien - darunter auch die \"Süddeutsche Zeitung\", der WDR und der NDR. Demnach sollen vom Kreml gesteuerte Strategen Belarus politisch, wirtschaftlich und militärisch unterwandern.",
-          "link": "https://www.deutschlandfunk.de/geheimes-kreml-dokument-beschreibt-plaene-fuer-uebernahme-von-belarus-102.html",
-          "publishedOn": "2023-02-21T01:10:01.000Z",
-          "wordCount": 763,
-          "title": "Internationale Medienrecherche - Geheimes Kreml-Dokument beschreibt Pläne für Übernahme von Belarus",
-          "imageUrl": "https://assets.deutschlandfunk.de/9d7085b0-dd4f-4c58-9f35-1adfa6ac44f9/1920x1080.jpg?t=1664282886343"
-        },
-        {
-          "id": "tote-und-verletzte-nach-erneuten-erdstoessen-102",
-          "author": null,
-          "description": "Im Südosten der Türkei sind bei einem erneuten Erdbeben mindestens drei Menschen ums Leben gekommen.",
-          "link": "https://www.deutschlandfunk.de/tote-und-verletzte-nach-erneuten-erdstoessen-102.html",
-          "publishedOn": "2023-02-21T01:10:01.000Z",
-          "wordCount": 734,
-          "title": "Türkei und Syrien - Tote und Verletzte nach erneuten Erdstößen",
-          "imageUrl": "https://assets.deutschlandfunk.de/d2ca2d3d-5936-4bf9-8a32-2945e2b20b4e/1920x1080.jpg?t=1676368034780"
-        },
-        {
-          "id": "mehr-einnahmen-fuer-bund-und-laender-zu-jahresbeginn-102",
-          "author": null,
-          "description": "Die Steuereinnahmen von Bund und Ländern sind im Januar erneut gestiegen.",
-          "link": "https://www.deutschlandfunk.de/mehr-einnahmen-fuer-bund-und-laender-zu-jahresbeginn-102.html",
-          "publishedOn": "2023-02-21T01:10:01.000Z",
-          "wordCount": 751,
-          "title": "Steuerplus - Mehr Einnahmen für Bund und Länder zu Jahresbeginn",
-          "imageUrl": null
-        },
-        {
-          "id": "frankreich-will-militaerische-zusammenarbeit-mit-elfenbeinkueste-verstaerken-104",
-          "author": null,
-          "description": "Frankreich richtet seinen Militäreinsatz in Westafrika neu aus.",
-          "link": "https://www.deutschlandfunk.de/frankreich-will-militaerische-zusammenarbeit-mit-elfenbeinkueste-verstaerken-104.html",
-          "publishedOn": "2023-02-21T01:10:01.000Z",
-          "wordCount": 766,
-          "title": "Westafrika - Frankreich will militärische Zusammenarbeit mit Elfenbeinküste verstärken",
-          "imageUrl": "https://assets.deutschlandfunk.de/cf16747a-76c6-4afe-9fc6-e452a4da3f29/1920x1080.jpg?t=1676929555989"
-        },
-        {
-          "id": "auch-letzter-offener-grenzuebergang-fuer-lastwagen-aus-belarus-wird-gesperrt-110",
-          "author": null,
-          "description": "Polen wird auch den letzten noch offenen Grenzübergang für Lastwagen aus Belarus schließen.",
-          "link": "https://www.deutschlandfunk.de/auch-letzter-offener-grenzuebergang-fuer-lastwagen-aus-belarus-wird-gesperrt-110.html",
-          "publishedOn": "2023-02-21T01:10:01.000Z",
-          "wordCount": 718,
-          "title": "Polen - Auch letzter offener Grenzübergang für Lastwagen aus Belarus wird gesperrt",
-          "imageUrl": "https://assets.deutschlandfunk.de/FILE_aff697a699e6065a48f1df4eff60df8b/1920x1080.jpg?t=1597600879489"
-        },
-        {
-          "id": "us-praesident-biden-verspricht-selenskyj-weitere-militaerische-hilfe-114",
-          "author": null,
-          "description": "US-Präsident Biden hat einen nicht angekündigten Besuch in der Ukraine genutzt, um dem Land weitere Unterstützung gegen den russischen Angriffskrieg zuzusagen.",
-          "link": "https://www.deutschlandfunk.de/us-praesident-biden-verspricht-selenskyj-weitere-militaerische-hilfe-114.html",
-          "publishedOn": "2023-02-21T01:10:01.000Z",
-          "wordCount": 725,
-          "title": "Ukraine - US-Präsident Biden verspricht Selenskyj weitere militärische Hilfe",
-          "imageUrl": "https://assets.deutschlandfunk.de/25802ab4-6c30-4791-8535-b54fef95f6af/1920x1080.jpg?t=1676889725567"
-        },
-        {
-          "id": "spd-gruene-und-linke-kommen-zu-sondierungsgespraechen-zusammen-100",
-          "author": null,
-          "description": "In Berlin kommen die bisherigen Koalitionsparteien SPD, Grüne und Linke zu einem ersten Sondierungsgespräch zusammen.",
-          "link": "https://www.deutschlandfunk.de/spd-gruene-und-linke-kommen-zu-sondierungsgespraechen-zusammen-100.html",
-          "publishedOn": "2023-02-21T01:10:01.000Z",
-          "wordCount": 729,
-          "title": "Nach der Berliner Abgeordnetenhauswahl - SPD, Grüne und Linke kommen zu Sondierungsgesprächen zusammen",
-          "imageUrl": "https://assets.deutschlandfunk.de/8392d7ac-ce54-44a2-8ae9-904b88555320/1920x1080.jpg?t=1676244715068"
-        },
-        {
-          "id": "chef-der-bahngesellschaft-wegen-zu-gross-bestellter-zuege-zurueckgetreten-110",
-          "author": null,
-          "description": "In Spanien ist der Präsident der staatlichen Bahngesellschaft Renfe, Taboas, zurückgetreten.",
-          "link": "https://www.deutschlandfunk.de/chef-der-bahngesellschaft-wegen-zu-gross-bestellter-zuege-zurueckgetreten-110.html",
-          "publishedOn": "2023-02-21T01:10:01.000Z",
-          "wordCount": 748,
-          "title": "Spanien - Chef der Bahngesellschaft wegen zu groß bestellter Züge zurückgetreten",
-          "imageUrl": "https://assets.deutschlandfunk.de/a0616fab-b9ab-4f98-ac32-cfbcf8904ac6/1920x1080.jpg?t=1676918434901"
-        },
-        {
-          "id": "forscher-identifizieren-41-rueckkopplungseffekte-die-sich-auf-das-klima-auswirken-102",
-          "author": null,
-          "description": "Im weltweiten Klimasystem gibt es verschiedene Rückkopplungseffekte, die sich auf den Klimawandel auswirken. Eine Gruppe von Wissenschaftlern hat diese Effekte nun aufgelistet und ausgewertet. Ihre Erkenntnis: Es gibt 41 möglicher Rückkopplungseffekte, von denen die meisten den Klimawandel verstärken.",
-          "link": "https://www.deutschlandfunk.de/forscher-identifizieren-41-rueckkopplungseffekte-die-sich-auf-das-klima-auswirken-102.html",
-          "publishedOn": "2023-02-21T01:10:01.000Z",
-          "wordCount": 849,
-          "title": "Klimawandel - Forscher identifizieren 41 Rückkopplungseffekte, die sich auf das Klima auswirken",
-          "imageUrl": "https://assets.deutschlandfunk.de/FILE_ddeba120055147e6638dffecf3e0270b/1920x1080.jpg?t=1597632397958"
-        },
-        {
-          "id": "frauenquote-wirkt-in-vielen-unternehmen-wie-eine-obergrenze-102",
-          "author": null,
-          "description": "Frauenquoten wirken in vielen Wirtschaftsunternehmen wie eine Obergrenze. Das ist das Ergebnis einer Studie der Technischen Universität München.",
-          "link": "https://www.deutschlandfunk.de/frauenquote-wirkt-in-vielen-unternehmen-wie-eine-obergrenze-102.html",
-          "publishedOn": "2023-02-21T01:10:01.000Z",
-          "wordCount": 741,
-          "title": "Untersuchung - Frauenquote wirkt in vielen Unternehmen wie eine Obergrenze",
-          "imageUrl": null
-        },
-        {
-          "id": "im-norden-wolken-im-sueden-sonne-642",
-          "author": null,
-          "description": "Der Wetterbericht, die Lage: Zwischen einer Tiefdruckzone über Skandinavien und einem Hoch über Südwesteuropa strömt milde Meeresluft nach Deutschland.",
-          "link": "https://www.deutschlandfunk.de/im-norden-wolken-im-sueden-sonne-642.html",
-          "publishedOn": "2023-02-21T01:10:01.000Z",
-          "wordCount": 708,
-          "title": "Wetter - Im Norden Wolken, im Süden Sonne",
           "imageUrl": "https://assets.deutschlandfunk.de/4cf02098-33bc-4b73-9e6a-bbfd7dd69bac/1920x1080.jpg?t=1642078545401"
         }
       ]
