@@ -6,6 +6,206 @@
       "siteUrl": "https://stadt-bremerhaven.de",
       "articles": [
         {
+          "id": "https://stadt-bremerhaven.de/?p=1187290",
+          "author": "caschy",
+          "description": "Vielleicht habt ihr schon vom Dolphin-Emulator gehört. Damit kann man Spiele, die ursprünglich für den Nintendo GameCube oder die Wii erschienen sind, zum Beispiel auf dem PC spielen. Emulation ist ein komplexes Thema, das gerne diskutiert wird. Im Allgemeinen herrscht...\nZum Beitrag: Dolphin: Emulator startet doch nicht auf Steam\r\n\r\nZum Blog: Caschys Blog\r\n\r\nDer RSS-Feed kann auch als Werbemittel gebucht werden. Mit ihm kann man über 55.000 Abonnenten erreichen. Schreibt uns gerne an.",
+          "link": "https://stadt-bremerhaven.de/dolphin-emulator-startet-doch-nicht-auf-steam/",
+          "publishedOn": "2023-07-20T18:41:49.000Z",
+          "wordCount": 2159,
+          "title": "Dolphin: Emulator startet doch nicht auf Steam",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2023/05/Dolphin.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1187286",
+          "author": "caschy",
+          "description": "Solltet ihr, wie ich auch, Fan von Simulationsspielen sein, dann solltet ihr einmal bei Steam vorbeischauen. Dort hat man das SIMFest gestartet. Bedeutet: jede Menge Simulationsspiele im Angebot. Die unterschiedlichen Spiele lassen sich noch nach ihren Kategorien filtern, so gibt...\nZum Beitrag: Steam: Simulationen im Angebot\r\n\r\nZum Blog: Caschys Blog\r\n\r\nDer RSS-Feed kann auch als Werbemittel gebucht werden. Mit ihm kann man über 55.000 Abonnenten erreichen. Schreibt uns gerne an.",
+          "link": "https://stadt-bremerhaven.de/steam-simulationen-im-angebot/",
+          "publishedOn": "2023-07-20T18:32:18.000Z",
+          "wordCount": 2043,
+          "title": "Steam: Simulationen im Angebot",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2023/07/sims-2.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1187284",
+          "author": "Mike Leitner",
+          "description": "Wir hatten bereits in der Vergangenheit über das DeyeGate, RelaisGate, oder wie auch immer man es nennen will, berichtet. Nun hat sich erstmals der VDE gegenüber heise online zu dem Thema geäußert. Der Verband hat mit seinem Normenausschuss die Norm VDE-AR-N 4105 erarbeitet....\nZum Beitrag: BNetzA und VDE äußern sich weiter zu Deye-Wechselrichtern\r\n\r\nZum Blog: Caschys Blog\r\n\r\nDer RSS-Feed kann auch als Werbemittel gebucht werden. Mit ihm kann man über 55.000 Abonnenten erreichen. Schreibt uns gerne an.",
+          "link": "https://stadt-bremerhaven.de/bnetza-und-vde-aeussern-sich-weiter-zu-deye-wechselrichtern/",
+          "publishedOn": "2023-07-20T18:27:33.000Z",
+          "wordCount": 2616,
+          "title": "BNetzA und VDE äußern sich weiter zu Deye-Wechselrichtern",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2023/07/deye.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1187277",
+          "author": "caschy",
+          "description": "Neulich erschien die neue Version 115 von Thunderbird. Die hat extrem viele Neuerungen an Bord, inklusive einer neuen Optik. Die Entwickler mussten aber nacharbeiten, sodass Anwender derzeit Thunderbird 115.0.1 zum Download angeboten bekommen. Wir haben die behobenen Fehler für euch:...\nZum Beitrag: Thunderbird 115.0.1 mit Verbesserungen erschienen\r\n\r\nZum Blog: Caschys Blog\r\n\r\nDer RSS-Feed kann auch als Werbemittel gebucht werden. Mit ihm kann man über 55.000 Abonnenten erreichen. Schreibt uns gerne an.",
+          "link": "https://stadt-bremerhaven.de/thunderbird-115-0-1-mit-verbesserungen-erschienen/",
+          "publishedOn": "2023-07-20T17:12:29.000Z",
+          "wordCount": 2229,
+          "title": "Thunderbird 115.0.1 mit Verbesserungen erschienen",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2023/05/thunderbird_.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1187275",
+          "author": "caschy",
+          "description": "Telefonica informiert derzeit auf seiner Website, dass Nutzer der Blau-App die Möglichkeit haben, 15 GB kostenloses Datenvolumen zu buchen. Blau ist eine Marke von Telefonica und nutzt daher das Netz von o2. Nach der Aktivierung ist das Datenvolumen 30 Tage lang...\nZum Beitrag: Blau gibt euch 15GB Datenvolumen extra\r\n\r\nZum Blog: Caschys Blog\r\n\r\nDer RSS-Feed kann auch als Werbemittel gebucht werden. Mit ihm kann man über 55.000 Abonnenten erreichen. Schreibt uns gerne an.",
+          "link": "https://stadt-bremerhaven.de/blau-gibt-euch-15gb-datenvolumen-extra/",
+          "publishedOn": "2023-07-20T16:40:06.000Z",
+          "wordCount": 2054,
+          "title": "Blau gibt euch 15GB Datenvolumen extra",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/11/logo-blau.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1187233",
+          "author": "caschy",
+          "description": "Über viele Jahre hinweg haben wir über eine der beliebtesten Werkzeuge für Notizen unter iOS und iPadOS berichtet: GoodNotes. Sie ermöglicht es Benutzern, handschriftliche oder getippte Notizen zu erstellen, PDF-Dateien zu importieren und zu bearbeiten sowie Skizzen, Diagramme und andere...\nZum Beitrag: GoodNotes: Finale Version für Android und Windows steht vor der Tür\r\n\r\nZum Blog: Caschys Blog\r\n\r\nDer RSS-Feed kann auch als Werbemittel gebucht werden. Mit ihm kann man über 55.000 Abonnenten erreichen. Schreibt uns gerne an.",
+          "link": "https://stadt-bremerhaven.de/goodnotes-finale-version-fuer-android-und-windows-steht-vor-der-tuer/",
+          "publishedOn": "2023-07-20T16:30:42.000Z",
+          "wordCount": 2346,
+          "title": "GoodNotes: Finale Version für Android und Windows steht vor der Tür",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/12/goodnotes-windows_.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1187181",
+          "author": "caschy",
+          "description": "Oracle hat VirtualBox 7.0.10 veröffentlicht. VirtualBox kann von euch genutzt werden, um andere Betriebssysteme in einer virtuellen Umgebung auf einem Computer zu installieren. So ist es möglich, verschiedene Betriebssysteme auf demselben Rechner nebeneinander und gleichzeitig zu nutzen. VirtualBox unterstützt Windows,...\nZum Beitrag: VirtualBox 7.0.10 mit Verbesserungen erschienen\r\n\r\nZum Blog: Caschys Blog\r\n\r\nDer RSS-Feed kann auch als Werbemittel gebucht werden. Mit ihm kann man über 55.000 Abonnenten erreichen. Schreibt uns gerne an.",
+          "link": "https://stadt-bremerhaven.de/virtualbox-7-0-10-mit-verbesserungen-erschienen/",
+          "publishedOn": "2023-07-20T16:00:06.000Z",
+          "wordCount": 2313,
+          "title": "VirtualBox 7.0.10 mit Verbesserungen erschienen",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/08/VirtualBox_.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1187259",
+          "author": "caschy",
+          "description": "Besitzer einer FRITZ!Box 4040 oder der 4060 konnten schon auf Update-Jagd gehen. Nun gibt es weitere Updates für Router-Modelle. AVM hat für die FRITZ!Box 6590 und die 6490 FRITZ!OS 7.56 veröffentlicht. Dementsprechend gibt es natürlich einen ganzen Schwung von Neuerungen...\nZum Beitrag: AVM: FRITZ!Box 6590 und 6490 bekommen FRITZ!OS 7.56\r\n\r\nZum Blog: Caschys Blog\r\n\r\nDer RSS-Feed kann auch als Werbemittel gebucht werden. Mit ihm kann man über 55.000 Abonnenten erreichen. Schreibt uns gerne an.",
+          "link": "https://stadt-bremerhaven.de/avm-fritzbox-6590-und-6490-bekommen-fritzos-7-56/",
+          "publishedOn": "2023-07-20T15:30:56.000Z",
+          "wordCount": 4790,
+          "title": "AVM: FRITZ!Box 6590 und 6490 bekommen FRITZ!OS 7.56",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2021/02/AVM-1.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1187243",
+          "author": "André Westphal",
+          "description": "Sony versorgt heut nicht nur die PlayStation 5 mit einer neuen Firmware, sondern auch die PS4. Doch der Reihe nach: Für die PS5 steht ab sofort das Update 23.01-07.60.00 zur Verfügung. Neue Funktionen solltet ihr jedoch nicht erwarten. Laut den...\nZum Beitrag: Sony PlayStation 5 erhält neue Firmware 23.01-07.60.00 – auch Update für die PS4\r\n\r\nZum Blog: Caschys Blog\r\n\r\nDer RSS-Feed kann auch als Werbemittel gebucht werden. Mit ihm kann man über 55.000 Abonnenten erreichen. Schreibt uns gerne an.",
+          "link": "https://stadt-bremerhaven.de/sony-playstation-5-erhaelt-neue-firmware-23-01-07-60-00-auch-update-fuer-die-ps4/",
+          "publishedOn": "2023-07-20T15:15:11.000Z",
+          "wordCount": 2081,
+          "title": "Sony PlayStation 5 erhält neue Firmware 23.01-07.60.00 – auch Update für die PS4",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2023/03/ps5_.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1187249",
+          "author": "caschy",
+          "description": "Spotify hat Kunden gegenüber bekannt gegeben, dass man die Preise in Österreich erhöht. Kunden mit einem Premium-Individual-Abo, welches derzeit 9,99 Euro im Monat kostet, müssen künftig etwas tiefer in die Tasche greifen, zukünftig werden 10,99 Euro im Monat fällig. Wer...\nZum Beitrag: (UPDATE) Spotify: Preiserhöhung in Österreich\r\n\r\nZum Blog: Caschys Blog\r\n\r\nDer RSS-Feed kann auch als Werbemittel gebucht werden. Mit ihm kann man über 55.000 Abonnenten erreichen. Schreibt uns gerne an.",
+          "link": "https://stadt-bremerhaven.de/spotify-preiserhoehung-in-oe/",
+          "publishedOn": "2023-07-20T15:10:37.000Z",
+          "wordCount": 2107,
+          "title": "(UPDATE) Spotify: Preiserhöhung in Österreich",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/01/spotify.jpeg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1187176",
+          "author": "André Westphal",
+          "description": "Im Epic Games Store gibt es wieder mal zwei kostenlose Spiele. Denn heute werden ja die Gratis-Spiele aus der letzten Woche abgelöst. Dabei könnt ihr euch einerseits mit dem MMORPG „The Elder Scrolls Online“ vergnügen und andererseits kommt noch das...\nZum Beitrag: Epic Games Store: „Murder by Numbers“ und „The Elder Scrolls Online“ sind gratis\r\n\r\nZum Blog: Caschys Blog\r\n\r\nDer RSS-Feed kann auch als Werbemittel gebucht werden. Mit ihm kann man über 55.000 Abonnenten erreichen. Schreibt uns gerne an.",
+          "link": "https://stadt-bremerhaven.de/epic-games-store-murder-by-numbers-und-the-elder-scrolls-online-sind-gratis/",
+          "publishedOn": "2023-07-20T15:00:16.000Z",
+          "wordCount": 2126,
+          "title": "Epic Games Store: „Murder by Numbers“ und „The Elder Scrolls Online“ sind gratis",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2023/07/Elder-Scrolls-Online.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1187184",
+          "author": "caschy",
+          "description": "Das Unternehmen Proton hat seinen iOS-Client für Proton Mail Verbesserungen zukommen lassen. So lassen sich zum Beispiel viele Mails schneller überfliegen, da die Bilder der Absender angezeigt werden. Viel wichtiger aber: man kann nun auch Absender sperren, dazu langt es,...\nZum Beitrag: Proton Mail: iOS-Client mit neuen Funktionen\r\n\r\nZum Blog: Caschys Blog\r\n\r\nDer RSS-Feed kann auch als Werbemittel gebucht werden. Mit ihm kann man über 55.000 Abonnenten erreichen. Schreibt uns gerne an.",
+          "link": "https://stadt-bremerhaven.de/proton-mail-ios-client-mit-neuen-funktionen/",
+          "publishedOn": "2023-07-20T14:30:19.000Z",
+          "wordCount": 2066,
+          "title": "Proton Mail: iOS-Client mit neuen Funktionen",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2023/07/proton-mail-sperren.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1187225",
+          "author": "caschy",
+          "description": "Google setzt die Einführung seiner Privacy-Sandbox-APIs fort. Hiermit will man die bisherigen Tracking-Cookies ersetzen (wir berichteten). Die Privacy Sandbox soll die herkömmliche Werbe-ID, die Nutzer über verschiedene Anwendungen hinweg verfolgen kann, durch datenschutzfreundliche APIs ersetzen, die die Interessen des Nutzers...\nZum Beitrag: Chrome Privacy Sandbox: Entwickler können ab nächster Woche auf Tools zugreifen\r\n\r\nZum Blog: Caschys Blog\r\n\r\nDer RSS-Feed kann auch als Werbemittel gebucht werden. Mit ihm kann man über 55.000 Abonnenten erreichen. Schreibt uns gerne an.",
+          "link": "https://stadt-bremerhaven.de/chrome-privacy-sandbox-entwickler-koennen-ab-naechster-woche-auf-tools-zugreifen/",
+          "publishedOn": "2023-07-20T14:00:49.000Z",
+          "wordCount": 2094,
+          "title": "Chrome Privacy Sandbox: Entwickler können ab nächster Woche auf Tools zugreifen",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2023/06/google-chrome-1.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1187236",
+          "author": "caschy",
+          "description": "Besitzer einer FRITZ!Box 4040 oder der 4060 können auf Update-Jagd gehen. AVM hat für beide Modelle FRITZ!OS 7.65 veröffentlicht. Dementsprechend gibt es natürlich einen ganzen Schwung von Neuerungen zu entdecken, den ihr nachlesen könnt, wenn ihr auf der Box nach...\nZum Beitrag: FRITZ!OS 7.56 für FRITZ!Box 4040 und 4060\r\n\r\nZum Blog: Caschys Blog\r\n\r\nDer RSS-Feed kann auch als Werbemittel gebucht werden. Mit ihm kann man über 55.000 Abonnenten erreichen. Schreibt uns gerne an.",
+          "link": "https://stadt-bremerhaven.de/fritzos-7-56-fuer-fritzbox-4040-und-4060/",
+          "publishedOn": "2023-07-20T13:55:36.000Z",
+          "wordCount": 2495,
+          "title": "FRITZ!OS 7.56 für FRITZ!Box 4040 und 4060",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2023/07/csm_fritzbox_4060_left_de_640x400_f67c5e4c80.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1187166",
+          "author": "André Westphal",
+          "description": "Laut südkoreanischen Medien arbeitet Samsung aktuell an einem neuen Wearable namens Galaxy Ring. Entsprechend soll es sich um ein Gerät handeln, das am Finger getragen wird. Ähneln könnte das Ergebnis Produkten des finnischen Anbieters Oura. Offen ist aber, wann der...\nZum Beitrag: Samsung entwickelt angeblich ein Wearable namens Galaxy Ring\r\n\r\nZum Blog: Caschys Blog\r\n\r\nDer RSS-Feed kann auch als Werbemittel gebucht werden. Mit ihm kann man über 55.000 Abonnenten erreichen. Schreibt uns gerne an.",
+          "link": "https://stadt-bremerhaven.de/samsung-entwickelt-angeblich-ein-wearable-namens-galaxy-ring/",
+          "publishedOn": "2023-07-20T13:30:21.000Z",
+          "wordCount": 2184,
+          "title": "Samsung entwickelt angeblich ein Wearable namens Galaxy Ring",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/05/Samsung-logo-2022.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1187214",
+          "author": "caschy",
+          "description": "NVIDIA hat die Spiele bekannt gegeben, die ab sofort über GeForce Now gestreamt werden können. Xenonauts 2, Viewfinder und Techtonica feiern diese Woche ihr Debüt in der Cloud und können von Mitgliedern direkt zum Start gespielt werden. Fordere die Realität...\nZum Beitrag: Drei “Day and Date”-Spiele-Veröffentlichungen bei GeForce Now\r\n\r\nZum Blog: Caschys Blog\r\n\r\nDer RSS-Feed kann auch als Werbemittel gebucht werden. Mit ihm kann man über 55.000 Abonnenten erreichen. Schreibt uns gerne an.",
+          "link": "https://stadt-bremerhaven.de/drei-day-and-date-spiele-veroeffentlichungen-bei-geforce-now/",
+          "publishedOn": "2023-07-20T13:11:23.000Z",
+          "wordCount": 2079,
+          "title": "Drei “Day and Date”-Spiele-Veröffentlichungen bei GeForce Now",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2023/07/unnamed-2.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1187164",
+          "author": "caschy",
+          "description": "TomTom, Spezialist für Kartierungs- und Geolokalisierungstechnologie, gab die Verfügbarkeit des „GO Navigation Lkw“-Abos für iOS-Nutzer mit CarPlay-Integration bekannt. Das neue Angebot ist speziell auf die Bedürfnisse von Berufskraftfahrern ausgerichtet und bietet eine umfassende Lösung für deren Navigationsanforderungen. Die bestehenden Navigationsfunktionen...\nZum Beitrag: Die TomTom GO iOS-App gibt es jetzt mit Lkw-Abo\r\n\r\nZum Blog: Caschys Blog\r\n\r\nDer RSS-Feed kann auch als Werbemittel gebucht werden. Mit ihm kann man über 55.000 Abonnenten erreichen. Schreibt uns gerne an.",
+          "link": "https://stadt-bremerhaven.de/die-tomtom-go-ios-app-gibt-es-jetzt-mit-lkw-abo/",
+          "publishedOn": "2023-07-20T13:00:45.000Z",
+          "wordCount": 2343,
+          "title": "Die TomTom GO iOS-App gibt es jetzt mit Lkw-Abo",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2023/07/TomTom-GO-Navigation-iOS-App-jetzt-auch-mit-Truck-Navigation-2.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1187137",
+          "author": "André Westphal",
+          "description": "Google experimentiert aktuell intern mit einem KI-Tool, das auch eigene News / Nachrichten-Beiträge verfassen kann. Die Software soll Journalisten aber nicht ersetzen, sondern vielmehr als Hilfsmittel agieren. Mitarbeiter der New York Times, der Washington Post und von News Corp, denen...\nZum Beitrag: Google experimentiert mit einem Tool, das News verfassen kann\r\n\r\nZum Blog: Caschys Blog\r\n\r\nDer RSS-Feed kann auch als Werbemittel gebucht werden. Mit ihm kann man über 55.000 Abonnenten erreichen. Schreibt uns gerne an.",
+          "link": "https://stadt-bremerhaven.de/google-experimentiert-mit-einem-tool-das-news-verfassen-kann/",
+          "publishedOn": "2023-07-20T12:30:33.000Z",
+          "wordCount": 2303,
+          "title": "Google experimentiert mit einem Tool, das News verfassen kann",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2019/01/Google-Logo.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1187153",
+          "author": "caschy",
+          "description": "Der erste Platz im aktuellen Festnetztest der Fachzeitschrift connect geht an die Telekom. Mit 912 von 1.000 möglichen Punkten setzt sie sich im bundesweiten Vergleich aller Anbieter durch. Das Festnetz der Telekom erhält vom Testteam der connect die Gesamtnote „sehr...\nZum Beitrag: Telekom und Vodafone: Bei Festnetzanschlüssen schneidet man gut ab\r\n\r\nZum Blog: Caschys Blog\r\n\r\nDer RSS-Feed kann auch als Werbemittel gebucht werden. Mit ihm kann man über 55.000 Abonnenten erreichen. Schreibt uns gerne an.",
+          "link": "https://stadt-bremerhaven.de/telekom-und-vodafone-bei-festnetzanschluessen-schneidet-man-gut-ab/",
+          "publishedOn": "2023-07-20T12:00:12.000Z",
+          "wordCount": 2292,
+          "title": "Telekom und Vodafone: Bei Festnetzanschlüssen schneidet man gut ab",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/09/fiber-glasfaser-kabelpatrick-turner-YEoF12PgTtQ-unsplash_.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1187100",
+          "author": "Felix Frank",
+          "description": "Microsoft hat den Windows 11 Insider Preview Build 23506 für alle Insider im Dev-Channel veröffentlicht. Darin enthalten ist Windows Hello for Business, eine passwortlose Authentifizierungsmöglichkeit für Unternehmenskunden. Ab Windows 11 22H2 spendiert man mit Microsoft Defender SmartScreen einen erweiterten Phishing-Schutz,...\nZum Beitrag: Windows 11 Insider Preview: Neue Outlook-App ist Standard\r\n\r\nZum Blog: Caschys Blog\r\n\r\nDer RSS-Feed kann auch als Werbemittel gebucht werden. Mit ihm kann man über 55.000 Abonnenten erreichen. Schreibt uns gerne an.",
+          "link": "https://stadt-bremerhaven.de/windows-11-insider-preview-neue-outlook-app-ist-standard/",
+          "publishedOn": "2023-07-20T11:30:01.000Z",
+          "wordCount": 2329,
+          "title": "Windows 11 Insider Preview: Neue Outlook-App ist Standard",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2021/06/windows11.jpg"
+        },
+        {
           "id": "https://stadt-bremerhaven.de/?p=1187091",
           "author": "Felix Frank",
           "description": "Im Mai hat Google die Beta seiner Nearby-Share-Funktion für Windows auch in Deutschland gestartet. Nearby Share ermöglicht den schnellen Datenaustausch mit anderen Android-Geräten in der Nähe. Durch die Desktop-Software holt man auch Windows-PCs mit ins Boot. Nearby Share ist für...\nZum Beitrag: Nearby Share für Windows verlässt die Beta und ist offiziell verfügbar\r\n\r\nZum Blog: Caschys Blog\r\n\r\nDer RSS-Feed kann auch als Werbemittel gebucht werden. Mit ihm kann man über 55.000 Abonnenten erreichen. Schreibt uns gerne an.",
@@ -5084,186 +5284,6 @@
           "wordCount": 2264,
           "title": "Xiaomi Electric Scooter 4 Go taucht bei Händlern auf",
           "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2023/06/Xiaomi-Electric-Scooter-4-Go.jpg"
-        },
-        {
-          "id": "https://stadt-bremerhaven.de/?p=1182763",
-          "author": "caschy",
-          "description": "Die Postbank hat ihre Kunden informiert, dass gewisse Dienste aufgrund einer Systemumstellung bald kurz nicht zur Verfügung stehen werden. Wir haben das Wichtigste für euch zusammengefasst. Wann? Von Freitag, 30. Juni, ca. 17:00 Uhr bis Montag, 3. Juli 2023 sind...\nZum Beitrag: Postbank: Einschränkungen Ende Juni angekündigt\r\n\r\nZum Blog: Caschys Blog\r\n\r\nDer RSS-Feed kann auch als Werbemittel gebucht werden. Mit ihm kann man über 55.000 Abonnenten erreichen. Schreibt uns gerne an.",
-          "link": "https://stadt-bremerhaven.de/postbank-einschraenkungen-ende-juni-angekuendigt/",
-          "publishedOn": "2023-06-21T13:30:08.000Z",
-          "wordCount": 2937,
-          "title": "Postbank: Einschränkungen Ende Juni angekündigt",
-          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2021/06/postbank.jpg"
-        },
-        {
-          "id": "https://stadt-bremerhaven.de/?p=1182574",
-          "author": "Felix Frank",
-          "description": "Auch Cloud-Storage-Anbieter Dropbox springt auf den KI-Zug auf. Mit „Dropbox Dash“ hat der US-Dienst jetzt eine KI-gestützte Universalsuche angekündigt. Die Funktion „Dropbox AI“ nutzt künstliche Intelligenz für die Dateivorschau. https://aem.dropbox.com/cms/content/dam/dropbox/warp/en-us/dash/dash_universal-search-1440x1440.mp4 Ich für meinen Teil setze zum Auffinden von Dateien oftmals...\nZum Beitrag: Dropbox Dash und Dropbox AI: Neue KI-Funktionen vorgestellt\r\n\r\nZum Blog: Caschys Blog\r\n\r\nDer RSS-Feed kann auch als Werbemittel gebucht werden. Mit ihm kann man über 55.000 Abonnenten erreichen. Schreibt uns gerne an.",
-          "link": "https://stadt-bremerhaven.de/dropbox-dash-und-dropbox-ai-neue-ki-funktionen-vorgestellt/",
-          "publishedOn": "2023-06-21T12:59:37.000Z",
-          "wordCount": 2290,
-          "title": "Dropbox Dash und Dropbox AI: Neue KI-Funktionen vorgestellt",
-          "enclosure": {
-            "url": "https://aem.dropbox.com/cms/content/dam/dropbox/warp/en-us/dash/dash_universal-search-1440x1440.mp4",
-            "length": "0",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2018/04/Dropbox_full_logo.jpg"
-        },
-        {
-          "id": "https://stadt-bremerhaven.de/?p=1182751",
-          "author": "caschy",
-          "description": "Bis Mitte Juni wurden laut des Branchenverband VDV bis zu 11 Millionen Deutschland-Ticket-Abonnements verkauft. Der größte Teil davon, nämlich rund 46 %, sind Umsteiger, also Fahrgäste, die bereits Stammkunden des ÖPNV waren und nun auf das günstigere Deutschland-Ticket umgestiegen sind....\nZum Beitrag: Zahl der Deutschlandticket-Nutzer steigt\r\n\r\nZum Blog: Caschys Blog\r\n\r\nDer RSS-Feed kann auch als Werbemittel gebucht werden. Mit ihm kann man über 55.000 Abonnenten erreichen. Schreibt uns gerne an.",
-          "link": "https://stadt-bremerhaven.de/zahl-der-deutschlandticket-nutzer-steigt/",
-          "publishedOn": "2023-06-21T12:30:33.000Z",
-          "wordCount": 3247,
-          "title": "Zahl der Deutschlandticket-Nutzer steigt",
-          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/07/oeffentlicher-pnv-bahn_.jpg"
-        },
-        {
-          "id": "https://stadt-bremerhaven.de/?p=1182708",
-          "author": "André Westphal",
-          "description": "Das kommende Actionspiel „Immortals of Aveum“ von Electronic Arts bzw. dem Entwicklerstudio Ascendant verschiebt sich um rund einen Monat: Statt am 20. Juli 2023 erscheint der Titel jetzt am 22. August 2023. Der Shooter, der auf Magie statt Waffen setzt,...\nZum Beitrag: „Immortals of Aveum“ verschiebt sich auf den 22. August 2023\r\n\r\nZum Blog: Caschys Blog\r\n\r\nDer RSS-Feed kann auch als Werbemittel gebucht werden. Mit ihm kann man über 55.000 Abonnenten erreichen. Schreibt uns gerne an.",
-          "link": "https://stadt-bremerhaven.de/immortals-of-aveum-verschiebt-sich-auf-den-22-august-2023/",
-          "publishedOn": "2023-06-21T12:00:58.000Z",
-          "wordCount": 2095,
-          "title": "„Immortals of Aveum“ verschiebt sich auf den 22. August 2023",
-          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2023/06/EGS_ImmortalsofAveum_AscendantStudios_S1_2560x1440-42dae2e4486e1800ae1b9b5e2bc107aa.jpg"
-        },
-        {
-          "id": "https://stadt-bremerhaven.de/?p=1182723",
-          "author": "André Westphal",
-          "description": "Reddit erhebt bald saftige Preise für die API-Nutzung. Das hat zu allerlei Kontroversen geführt, da die Entwickler beliebter Drittanbieter-Apps wie Apollo angekündigt haben, ihre Anwendungen einstellen zu müssen. Die Moderatoren bei Reddit hatten deswegen schon eine Protestaktion gestartet und viele...\nZum Beitrag: Reddit vs. Community: Moderatoren protestieren, indem sie Subreddits als „NSFW“ kennzeichnen\r\n\r\nZum Blog: Caschys Blog\r\n\r\nDer RSS-Feed kann auch als Werbemittel gebucht werden. Mit ihm kann man über 55.000 Abonnenten erreichen. Schreibt uns gerne an.",
-          "link": "https://stadt-bremerhaven.de/reddit-vs-community-moderatoren-protestieren-indem-sie-subreddits-als-nsfw-kennzeichnen/",
-          "publishedOn": "2023-06-21T12:00:25.000Z",
-          "wordCount": 2694,
-          "title": "Reddit vs. Community: Moderatoren protestieren, indem sie Subreddits als „NSFW“ kennzeichnen",
-          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2023/05/Reddit.jpg"
-        },
-        {
-          "id": "https://stadt-bremerhaven.de/?p=1182628",
-          "author": "caschy",
-          "description": "Am 27. Juni starten bei congstar neue Tarife (wir berichteten). Der Kölner Mobilfunkanbieter congstar stattet dann seine Allnet-Flat- und Homespot-Tarife zum Start in den Sommer mit mehr Datenvolumen aus. Die Aktionsangebote können im Zeitraum vom 27. Juni bis zum 18....\nZum Beitrag: congstar: 5G-Option ab Ende Juni\r\n\r\nZum Blog: Caschys Blog\r\n\r\nDer RSS-Feed kann auch als Werbemittel gebucht werden. Mit ihm kann man über 55.000 Abonnenten erreichen. Schreibt uns gerne an.",
-          "link": "https://stadt-bremerhaven.de/congstar-5g-option-ab-ende-juni/",
-          "publishedOn": "2023-06-20T19:16:56.000Z",
-          "wordCount": 2240,
-          "title": "congstar: 5G-Option ab Ende Juni",
-          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2020/09/congstar.jpg"
-        },
-        {
-          "id": "https://stadt-bremerhaven.de/?p=1182610",
-          "author": "Benjamin Mamerow",
-          "description": "Solltet ihr bereits mit der aktuellen Beta von iOS 17, iPadOS 17 oder macOS Sonoma unterwegs sein, dann könnt ihr ab sofort eine neue Funktion auf iCloud.com und appleid.apple.com ausprobieren. Denn Apple mitteilt, erhalten Nutzer mit einer Apple ID automatisch...\nZum Beitrag: Apple: Nutzer der aktuellen Beta-Software können neue Passkey-Funktion für die Apple ID ausprobieren\r\n\r\nZum Blog: Caschys Blog\r\n\r\nDer RSS-Feed kann auch als Werbemittel gebucht werden. Mit ihm kann man über 55.000 Abonnenten erreichen. Schreibt uns gerne an.",
-          "link": "https://stadt-bremerhaven.de/apple-nutzer-der-aktuellen-beta-software-koennen-neue-passkey-funktion-fuer-die-apple-id-ausprobieren/",
-          "publishedOn": "2023-06-20T18:26:55.000Z",
-          "wordCount": 1848,
-          "title": "Apple: Nutzer der aktuellen Beta-Software können neue Passkey-Funktion für die Apple ID ausprobieren",
-          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2023/06/IMAGE-2023-06-05-193438.jpg"
-        },
-        {
-          "id": "https://stadt-bremerhaven.de/?p=1182461",
-          "author": "André Westphal",
-          "description": "Roblox ist eine Online-Spieleplattform, die etwas komplexer ist, als man vielleicht auf den ersten Eindruck erwartet. So könnt ihr dort quasi eigene Spiele erstellen und sie mit anderen Nutzern teilen. Auch wenn die Vermarktung und die kunterbunte Darstellung von Roblox...\nZum Beitrag: Roblox führt 17+-Inhalte ein\r\n\r\nZum Blog: Caschys Blog\r\n\r\nDer RSS-Feed kann auch als Werbemittel gebucht werden. Mit ihm kann man über 55.000 Abonnenten erreichen. Schreibt uns gerne an.",
-          "link": "https://stadt-bremerhaven.de/roblox-fuehrt-17-inhalte-ein/",
-          "publishedOn": "2023-06-20T17:30:36.000Z",
-          "wordCount": 2252,
-          "title": "Roblox führt 17+-Inhalte ein",
-          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2023/06/Roblox.jpg"
-        },
-        {
-          "id": "https://stadt-bremerhaven.de/?p=1182579",
-          "author": "Felix Frank",
-          "description": "Google erweitert die Funktionalität seines Chrome-Browsers unter iOS. Einige Funktionen gibt es bereits auf anderen Plattformen, fortan aber eben auch fürs iPhone und iPad. In diesem Zuge verzahnt Google seine anderen Google-Apps stärker mit Chrome auf Apple-Geräten. Chrome erkennt unter...\nZum Beitrag: Chrome für iOS: Besseres Zusammenspiel mit Google Maps, dem Kalender, Translate sowie Lens\r\n\r\nZum Blog: Caschys Blog\r\n\r\nDer RSS-Feed kann auch als Werbemittel gebucht werden. Mit ihm kann man über 55.000 Abonnenten erreichen. Schreibt uns gerne an.",
-          "link": "https://stadt-bremerhaven.de/chrome-fuer-ios-besseres-zusammenspiel-mit-google-maps-dem-kalender-translate-sowie-lens/",
-          "publishedOn": "2023-06-20T16:54:12.000Z",
-          "wordCount": 1981,
-          "title": "Chrome für iOS: Besseres Zusammenspiel mit Google Maps, dem Kalender, Translate sowie Lens",
-          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2023/06/Screenshot_2023-06-19_at_4.38.56.width-1600.format-webp.jpg"
-        },
-        {
-          "id": "https://stadt-bremerhaven.de/?p=1182569",
-          "author": "André Westphal",
-          "description": "Im Xbox Game Pass ist für mich bei den Neuheiten eigentlich immer etwas dabei. Aktuell zocke ich beispielsweise das im wahrsten Sinne des Wortes malerische „Dordogne“. Und auch bei den just angekündigten Neuheiten werde (hoffentlich nicht nur) ich wieder fündig....\nZum Beitrag: Xbox Game Pass: Das sind die kommenden Spiele („Bramble“, „NFS Unbound“ uvm.)\r\n\r\nZum Blog: Caschys Blog\r\n\r\nDer RSS-Feed kann auch als Werbemittel gebucht werden. Mit ihm kann man über 55.000 Abonnenten erreichen. Schreibt uns gerne an.",
-          "link": "https://stadt-bremerhaven.de/xbox-game-pass-das-sind-die-kommenden-spiele-bramble-nfs-unbound-uvm/",
-          "publishedOn": "2023-06-20T16:30:06.000Z",
-          "wordCount": 2036,
-          "title": "Xbox Game Pass: Das sind die kommenden Spiele („Bramble“, „NFS Unbound“ uvm.)",
-          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2023/06/Game-Pass-Neu-Juni-2023.jpg"
-        },
-        {
-          "id": "https://stadt-bremerhaven.de/?p=1182558",
-          "author": "André Westphal",
-          "description": "Twitter will es anderen sozialen Netzwerken gleichtun, die bereits eigene Apps für Smart-TVs anbieten. Da denkt man vielleicht als Erstes an YouTube, aber z. B. auch Instagram oder TikTok sind schon auf Fernsehgeräten von beispielsweise Samsung vertreten. Und auch bei...\nZum Beitrag: Twitter plant eine dedizierte App für Smart-TVs\r\n\r\nZum Blog: Caschys Blog\r\n\r\nDer RSS-Feed kann auch als Werbemittel gebucht werden. Mit ihm kann man über 55.000 Abonnenten erreichen. Schreibt uns gerne an.",
-          "link": "https://stadt-bremerhaven.de/twitter-plant-eine-dedizierte-app-fuer-smart-tvs/",
-          "publishedOn": "2023-06-20T16:00:29.000Z",
-          "wordCount": 2027,
-          "title": "Twitter plant eine dedizierte App für Smart-TVs",
-          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/05/Twitter-logo-2022.jpg"
-        },
-        {
-          "id": "https://stadt-bremerhaven.de/?p=1182474",
-          "author": "André Westphal",
-          "description": "Polestar hat eine neue Partnerschaft angekündigt, die sich speziell auf den chinesischen Markt bezieht. Dort tut man sich für ein strategisches Joint-Venture nämlich mit Meizu (Xingji Meizu Group) zusammen. Letztere stellen z. B. Smartphones her. Eine Zeit lang waren ihre...\nZum Beitrag: Polestar geht Partnerschaft mit dem chinesischen Hersteller Meizu ein\r\n\r\nZum Blog: Caschys Blog\r\n\r\nDer RSS-Feed kann auch als Werbemittel gebucht werden. Mit ihm kann man über 55.000 Abonnenten erreichen. Schreibt uns gerne an.",
-          "link": "https://stadt-bremerhaven.de/polestar-geht-partnerschaft-mit-dem-chinesischen-hersteller-meizu-ein/",
-          "publishedOn": "2023-06-20T15:30:44.000Z",
-          "wordCount": 2196,
-          "title": "Polestar geht Partnerschaft mit dem chinesischen Hersteller Meizu ein",
-          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2023/04/666118_20230418_Polestar_4.jpg"
-        },
-        {
-          "id": "https://stadt-bremerhaven.de/?p=1182545",
-          "author": "André Westphal",
-          "description": "Samsung teilt mit, dass die Bildoptimierungs-App Galaxy Enhance-X ab sofort im Galaxy Store des Unternehmens in der finalen Version zur Verfügung steht. Zuvor gab es nur eine Beta für die Samsung Galaxy S23. Was kann diese Anwendung? Das ist durchaus...\nZum Beitrag: Samsung Galaxy Enhance-X: App erscheint für mehrere Smartphone-Flaggschiffe\r\n\r\nZum Blog: Caschys Blog\r\n\r\nDer RSS-Feed kann auch als Werbemittel gebucht werden. Mit ihm kann man über 55.000 Abonnenten erreichen. Schreibt uns gerne an.",
-          "link": "https://stadt-bremerhaven.de/samsung-galaxy-enhance-x-app-erscheint-fuer-mehrere-smartphone-flaggschiffe/",
-          "publishedOn": "2023-06-20T15:00:37.000Z",
-          "wordCount": 2150,
-          "title": "Samsung Galaxy Enhance-X: App erscheint für mehrere Smartphone-Flaggschiffe",
-          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2023/06/Galaxy-Enhance-X_main1.jpg"
-        },
-        {
-          "id": "https://stadt-bremerhaven.de/?p=1182560",
-          "author": "caschy",
-          "description": "Neues von Nintendo. Das Unternehmen strahlt am 21. Juni eine neue Nintendo Direct aus. In den etwa 40 Minuten stehen hauptsächlich Spiele im Fokus, die noch in diesem Jahr für die Nintendo Switch erscheinen, darunter Pikmin 4. Wer sich für...\nZum Beitrag: Neue Spiele: Nintendo Direct am 21. Juni\r\n\r\nZum Blog: Caschys Blog\r\n\r\nDer RSS-Feed kann auch als Werbemittel gebucht werden. Mit ihm kann man über 55.000 Abonnenten erreichen. Schreibt uns gerne an.",
-          "link": "https://stadt-bremerhaven.de/neue-spiele-nintendo-direct-am-21-juni/",
-          "publishedOn": "2023-06-20T14:39:46.000Z",
-          "wordCount": 1824,
-          "title": "Neue Spiele: Nintendo Direct am 21. Juni",
-          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2021/09/Nintendo-Logo.jpg"
-        },
-        {
-          "id": "https://stadt-bremerhaven.de/?p=1182549",
-          "author": "caschy",
-          "description": "Proton hat einige Neuerungen für sein Produkt Proton Drive angekündigt. Der Speicherdienst des Anbieters bekommt zum Beispiel verbesserte Downloadmöglichkeiten in der Web-App. Auf der Grundlage des Feedbacks der Community habe man die Seite zum Herunterladen von Dateien aktualisiert, um eine...\nZum Beitrag: Proton Drive: Neuerungen für die Apps\r\n\r\nZum Blog: Caschys Blog\r\n\r\nDer RSS-Feed kann auch als Werbemittel gebucht werden. Mit ihm kann man über 55.000 Abonnenten erreichen. Schreibt uns gerne an.",
-          "link": "https://stadt-bremerhaven.de/proton-drive-neuerungen-fuer-die-apps/",
-          "publishedOn": "2023-06-20T14:30:59.000Z",
-          "wordCount": 2025,
-          "title": "Proton Drive: Neuerungen für die Apps",
-          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2023/06/proton-drive-2.jpg"
-        },
-        {
-          "id": "https://stadt-bremerhaven.de/?p=1182543",
-          "author": "caschy",
-          "description": "Spotify schraubt wieder an seiner Desktop-App herum. Man lässt den Hauptinhaltsbereich unverändert, sodass er weiterhin zentraler Knotenpunkt zum Durchsuchen, Entdecken und Finden empfohlener Songs und Podcasts bleibt. Nutzer werden auch ein paar neue Ergänzungen finden, die dabei helfen sollen, die...\nZum Beitrag: Spotify: Neuerungen für die Desktop-App\r\n\r\nZum Blog: Caschys Blog\r\n\r\nDer RSS-Feed kann auch als Werbemittel gebucht werden. Mit ihm kann man über 55.000 Abonnenten erreichen. Schreibt uns gerne an.",
-          "link": "https://stadt-bremerhaven.de/spotify-neuerungen-fuer-die-desktop-app/",
-          "publishedOn": "2023-06-20T14:12:23.000Z",
-          "wordCount": 2060,
-          "title": "Spotify: Neuerungen für die Desktop-App",
-          "enclosure": {
-            "url": "https://storage.googleapis.com/pr-newsroom-wp/1/2023/06/Desktop-update-compressed.mp4",
-            "length": "28159950",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/01/spotify.jpeg"
-        },
-        {
-          "id": "https://stadt-bremerhaven.de/?p=1182522",
-          "author": "André Westphal",
-          "description": "Asus hat vor einigen Tagen das neue BIOS 319 für sein Gaming-Handheld ROG Ally veröffentlicht. Wer die neue Firmware noch nicht heruntergeladen hat, sollte das eventuell auch erst einmal bleiben lassen. So sollte das Update eigentlich die Leistung im 9-Watt-Modus...\nZum Beitrag: Asus ROG Ally: BIOS-Version 319 schränkt die Leistung ein\r\n\r\nZum Blog: Caschys Blog\r\n\r\nDer RSS-Feed kann auch als Werbemittel gebucht werden. Mit ihm kann man über 55.000 Abonnenten erreichen. Schreibt uns gerne an.",
-          "link": "https://stadt-bremerhaven.de/asus-rog-ally-bios-version-319-schraenkt-die-leistung-ein/",
-          "publishedOn": "2023-06-20T14:00:44.000Z",
-          "wordCount": 1960,
-          "title": "Asus ROG Ally: BIOS-Version 319 schränkt die Leistung ein",
-          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2023/05/ASUS-ROG-Ally-Test-10.jpg"
         }
       ]
     },
@@ -5272,6 +5292,106 @@
       "feedUrl": "https://www.computerbase.de/rss/news.xml",
       "siteUrl": "https://www.computerbase.de/",
       "articles": [
+        {
+          "id": "https://www.computerbase.de/2023-07/steam-simfest-2023-event-bringt-rabatte-auf-simulations-und-aufbauspiele/",
+          "author": null,
+          "description": "<img src=\"https://pics.computerbase.de/1/0/8/6/1/0-7cd0417bf97b24e1/article-640x360.55fcd820.jpg\"><p>Auf Steam jagt derzeit ein Event das nächste. Zwischen den erst vor einer Woche geendeten Summer Sale und das am 24. Juli anstehende Stealth Fest quetscht sich jetzt das Simulations-Festival, im Rahmen dessen es Rabatte und Demos zu Aufbaustrategie- und Simulationsspielen gibt.</p>",
+          "link": "https://www.computerbase.de/2023-07/steam-simfest-2023-event-bringt-rabatte-auf-simulations-und-aufbauspiele/",
+          "publishedOn": "2023-07-20T18:12:00.000Z",
+          "wordCount": 992,
+          "title": "Steam Simfest 2023: Event bringt Rabatte auf Simulations- und Aufbauspiele [Notiz]",
+          "imageUrl": "https://pics.computerbase.de/1/0/8/6/1/0-7cd0417bf97b24e1/article-1280x720.55fcd820.jpg"
+        },
+        {
+          "id": "https://www.computerbase.de/2023-07/netflix-quartalszahlen-ende-des-account-sharings-bringt-mehr-neue-abos-als-kuendigungen/",
+          "author": null,
+          "description": "<img src=\"https://pics.computerbase.de/1/0/8/6/0/9-a5c48650c03aec5b/article-640x360.c97bf16a.jpg\"><p>Durch die Ergebnisse für das zweite Quartal 2023 sieht sich Netflix in den Maßnahmen gegen das Account-Sharing bestätigt. Die Anzahl der neuen Abonnenten hat die der Kündigungen deutlich überstiegen, sodass der Streaming-Dienst ein Umsatzplus verzeichnen kann.</p>",
+          "link": "https://www.computerbase.de/2023-07/netflix-quartalszahlen-ende-des-account-sharings-bringt-mehr-neue-abos-als-kuendigungen/",
+          "publishedOn": "2023-07-20T16:49:00.000Z",
+          "wordCount": 1019,
+          "title": "Netflix-Quartalszahlen: Ende des Account-Sharings bringt mehr neue Abos als Kündigungen",
+          "imageUrl": "https://pics.computerbase.de/1/0/8/6/0/9-a5c48650c03aec5b/article-1280x720.c97bf16a.jpg"
+        },
+        {
+          "id": "https://www.computerbase.de/2023-07/dojo-tesla-startet-den-bau-seines-neuen-supercomputers/",
+          "author": null,
+          "description": "<img src=\"https://pics.computerbase.de/1/0/8/6/0/4-7010333e04087796/article-640x360.ff149916.jpg\"><p>Vor rund zwei Jahren kündigte Tesla den Bau eines eigenen Supercomputers namens Dojo an. Dabei wollte das Unternehmen auf eigens entwickelte und auf das Training neuronaler Netze spezialisierte Prozessoren mit der Bezeichnung „D1“ zurückgreifen.</p>",
+          "link": "https://www.computerbase.de/2023-07/dojo-tesla-startet-den-bau-seines-neuen-supercomputers/",
+          "publishedOn": "2023-07-20T13:20:00.000Z",
+          "wordCount": 938,
+          "title": "Dojo: Tesla startet den Bau des eigenen neuen Supercomputers",
+          "imageUrl": "https://pics.computerbase.de/1/0/8/6/0/4-7010333e04087796/article-1280x720.ff149916.jpg"
+        },
+        {
+          "id": "https://www.computerbase.de/2023-07/solidigm-d5-p5336-61-44-tb-bedeuten-einen-neuen-rekord-fuer-pcie-ssds/",
+          "author": null,
+          "description": "<img src=\"https://pics.computerbase.de/1/0/8/5/8/0-4a73b03f37383479/article-640x360.4ccba0fd.jpg\"><p>Solidigm legt die Messlatte für die höchste Speicherkapazität bei PCIe-SSDs für Server deutlich höher. Die Solidigm D5-P5336 bietet mit bis zu 61,44 TB doppelt so viel Speicherplatz wie ihre Vorgänger. Dabei kommt der neue 192-Layer-QLC-NAND zum Einsatz.</p>",
+          "link": "https://www.computerbase.de/2023-07/solidigm-d5-p5336-61-44-tb-bedeuten-einen-neuen-rekord-fuer-pcie-ssds/",
+          "publishedOn": "2023-07-20T10:39:00.000Z",
+          "wordCount": 1023,
+          "title": "Solidigm D5-P5336: 61,44 TB bedeuten einen neuen Rekord für PCIe-SSDs",
+          "imageUrl": "https://pics.computerbase.de/1/0/8/5/8/0-4a73b03f37383479/article-1280x720.4ccba0fd.jpg"
+        },
+        {
+          "id": "https://www.computerbase.de/2023-07/nearby-share-fuer-windows-app-fuer-den-dateitransfer-von-android-zum-pc-verfuegbar/",
+          "author": null,
+          "description": "<img src=\"https://pics.computerbase.de/1/0/8/6/0/2-23a4e9317f094b8b/article-640x360.d2a318f5.jpg\"><p>Nearby Share von Google hat einen unkomplizierten Dateitransfer zwischen Android-Smartphones, Tablets, Chromebooks und jetzt auch Windows-Systemen zum Ziel. Nach einer im Frühjahr für Windows veröffentlichten Betaversion steht Nearby Share jetzt in der ersten finalen Version zur Verfügung und bringt dabei zwei Optimierungen mit.</p>",
+          "link": "https://www.computerbase.de/2023-07/nearby-share-fuer-windows-app-fuer-den-dateitransfer-von-android-zum-pc-verfuegbar/",
+          "publishedOn": "2023-07-20T10:36:00.000Z",
+          "wordCount": 1039,
+          "title": "Nearby Share für Windows: App für den Dateitransfer von Android zum PC verfügbar",
+          "imageUrl": "https://pics.computerbase.de/1/0/8/6/0/2-23a4e9317f094b8b/article-1280x720.d2a318f5.jpg"
+        },
+        {
+          "id": "https://www.computerbase.de/2023-07/google-pixel-fold-test/",
+          "author": null,
+          "description": "<img src=\"https://pics.computerbase.de/1/0/8/5/5/5-463251398ec26880/article-640x360.7740ec00.jpg\"><p>Google steigt mit dem Pixel Fold in den Markt der faltbaren Smartphones ein. Das Debüt fällt in puncto Hard- und Software überraschend gut aus. Verstecken lässt sich dennoch nicht, dass es sich um ein Produkt der ersten Generation handelt. Das Smartphone ist trotzdem interessant, der hohe Preis bugsiert es aber in eine Nische.</p>",
+          "link": "https://www.computerbase.de/2023-07/google-pixel-fold-test/",
+          "publishedOn": "2023-07-20T10:00:00.000Z",
+          "wordCount": 22767,
+          "title": "Pixel Fold im Test: Das erste faltbare Smartphone von Google macht viel richtig",
+          "imageUrl": "https://pics.computerbase.de/1/0/8/5/5/5-463251398ec26880/article-1280x720.7740ec00.jpg"
+        },
+        {
+          "id": "https://www.computerbase.de/2023-07/tsmc-quartalszahlen-geringere-wafer-lieferungen-und-eine-kassierte-prognose/",
+          "author": null,
+          "description": "<img src=\"https://pics.computerbase.de/1/0/8/6/0/0-386fa12b014ba40c/article-640x360.6a9b5c90.jpg\"><p>TSMC hat im zweiten Quartal wie erwartet eine Bodenwelle genommen, bevor zum dritten Quartal wieder der Aufstieg erwartet wird. Sichtbar wird dies vor allem an den deutlich gesunkenen Wafer-Auslieferungen. Die Fußnote zeigt aber, dass das Inventar durch den Ramp-up von N3 angestiegen ist – Wafer für N3 werden ab Q3 benötigt.</p>",
+          "link": "https://www.computerbase.de/2023-07/tsmc-quartalszahlen-geringere-wafer-lieferungen-und-eine-kassierte-prognose/",
+          "publishedOn": "2023-07-20T09:02:00.000Z",
+          "wordCount": 1000,
+          "title": "TSMC-Quartalszahlen: Geringere Wafer-Lieferungen und eine kassierte Prognose",
+          "imageUrl": "https://pics.computerbase.de/1/0/8/6/0/0-386fa12b014ba40c/article-1280x720.6a9b5c90.jpg"
+        },
+        {
+          "id": "https://www.computerbase.de/2023-07/activision-blizzard-overwatch-2-und-weitere-spiele-landen-auf-steam/",
+          "author": null,
+          "description": "<img src=\"https://pics.computerbase.de/1/0/8/6/0/1-2d657f4a69ee848f/article-640x360.262bfb35.jpg\"><p>Blizzard „probiert etwas Neues aus“. Ab August kann der Multiplayer-Shooter Overwatch 2 auch über Steam gespielt werden. Was als Reaktion auf die Probleme eines spezifischen Spiels gedeutet werden kann, soll mehr als das sein: Weitere, aber nicht alle Titel sollen folgen.</p>",
+          "link": "https://www.computerbase.de/2023-07/activision-blizzard-overwatch-2-und-weitere-spiele-landen-auf-steam/",
+          "publishedOn": "2023-07-20T07:57:00.000Z",
+          "wordCount": 947,
+          "title": "Activision Blizzard: Overwatch 2 und weitere Spiele landen auf Steam",
+          "imageUrl": "https://pics.computerbase.de/1/0/8/6/0/1-2d657f4a69ee848f/article-1280x720.262bfb35.jpg"
+        },
+        {
+          "id": "https://www.computerbase.de/2023-07/apple-gpt-ajax-soll-erstes-large-language-model-von-apple-sein/",
+          "author": null,
+          "description": "<img src=\"https://pics.computerbase.de/1/0/8/5/9/9-42db81d3a3af7351/article-640x360.5e467ce8.jpg\"><p>Apple arbeitet intern an einem hauseigenen Large Language Model (LLM), das Mitarbeiter als „Apple-GPT“ nutzen und auf Googles Jax basieren soll. Der Konzern steht Berichten zufolge allerdings noch immer vor der Frage, in welchem Bereich es außerhalb des Unternehmens überhaupt eingesetzt werden soll.</p>",
+          "link": "https://www.computerbase.de/2023-07/apple-gpt-ajax-soll-erstes-large-language-model-von-apple-sein/",
+          "publishedOn": "2023-07-20T06:46:00.000Z",
+          "wordCount": 1167,
+          "title": "„Apple-GPT“: Ajax soll erstes Large Language Model von Apple sein",
+          "imageUrl": "https://pics.computerbase.de/1/0/8/5/9/9-42db81d3a3af7351/article-1280x720.5e467ce8.jpg"
+        },
+        {
+          "id": "https://www.computerbase.de/2023-07/asus-rog-strix-scope-2-kleinformat-tastatur-behaelt-96-prozent-aller-tasten/",
+          "author": null,
+          "description": "<img src=\"https://pics.computerbase.de/1/0/8/5/9/8-d1c334afa87cd9ed/article-640x360.8b9d7158.jpg\"><p>Asus verspricht Kompaktheit ohne Verzicht. Die ROG Strix Scope 2 verpackt dazu 96 Prozent aller Tasten einer normalgroßen Tastatur auf der Größe eines Tenkeyless-Modells. Dazu müssen sich Tasten dicht drängen. Kabellosen Betrieb und vorgeschmierte Taster gibt es obendrein.</p>",
+          "link": "https://www.computerbase.de/2023-07/asus-rog-strix-scope-2-kleinformat-tastatur-behaelt-96-prozent-aller-tasten/",
+          "publishedOn": "2023-07-20T04:46:00.000Z",
+          "wordCount": 1009,
+          "title": "Asus ROG Strix Scope 2: Kleinformat-Tastatur behält 96 Prozent aller Tasten",
+          "imageUrl": "https://pics.computerbase.de/1/0/8/5/9/8-d1c334afa87cd9ed/article-1280x720.8b9d7158.jpg"
+        },
         {
           "id": "https://www.computerbase.de/2023-07/cb-funk-podcast-29-zu-dritt-ueber-nothing-faltbare-smartphones-und-sff-gehaeuse/",
           "author": null,
@@ -7871,116 +7991,6 @@
           "wordCount": 1058,
           "title": "CB-Funk-Podcast #25: Die Zukunft wird Ultra – außer bei „Next-Gen“-Grafikkarten [Notiz]",
           "imageUrl": "https://pics.computerbase.de/1/0/8/2/6/3-1452626db7b211e8/article-1280x720.46de3e58.jpg"
-        },
-        {
-          "id": "https://www.computerbase.de/2023-06/nokia-patentklage-auch-realme-zieht-sich-aus-deutschland-zurueck/",
-          "author": null,
-          "description": "<img src=\"https://pics.computerbase.de/1/0/8/2/6/0-1b227de8e6a26173/article-640x360.00b49a72.jpg\"><p>Nachdem sich Oppo, OnePlus und Vivo, allesamt Töchter des chinesischen Herstellers BBK Electronics, infolge einer von Nokia eingereichten Patentklage vom deutschen Smartphone-Markt verabschieden mussten, zieht sich deren Schwestergesellschaft Realme offenbar nun ebenfalls zurück.</p>",
-          "link": "https://www.computerbase.de/2023-06/nokia-patentklage-auch-realme-zieht-sich-aus-deutschland-zurueck/",
-          "publishedOn": "2023-06-21T11:51:00.000Z",
-          "wordCount": 1006,
-          "title": "Patentklage von Nokia: Auch Realme zieht sich angeblich aus Deutschland zurück (Update)",
-          "imageUrl": "https://pics.computerbase.de/1/0/8/2/6/0-1b227de8e6a26173/article-1280x720.00b49a72.jpg"
-        },
-        {
-          "id": "https://www.computerbase.de/2023-06/amazon-echo-pop-test/",
-          "author": null,
-          "description": "<img src=\"https://pics.computerbase.de/1/0/8/2/3/5-c5f38e3f381e95c2/article-640x360.727e9325.jpg\"><p>Mit dem Echo Pop hat Amazon einen Smart Speaker mit Alexa vorgestellt, der noch günstiger als der Echo Dot ist. Während sich deutliche klangliche Schwächen offenbaren, kann er mit neuem Design und bunten Farben vor allem als Ergänzung oder Einstieg dienen.</p>",
-          "link": "https://www.computerbase.de/2023-06/amazon-echo-pop-test/",
-          "publishedOn": "2023-06-21T10:00:00.000Z",
-          "wordCount": 2555,
-          "title": "Amazon Echo Pop im Test: Günstigster Alexa-Laut­sprecher dient als Einstieg oder Ergänzung",
-          "imageUrl": "https://pics.computerbase.de/1/0/8/2/3/5-c5f38e3f381e95c2/article-1280x720.727e9325.jpg"
-        },
-        {
-          "id": "https://www.computerbase.de/2023-06/forschung-und-entwicklung-amd-erweitert-ex-xilinx-standort-in-irland-fuer-135-mio-us-dollar/",
-          "author": null,
-          "description": "<img src=\"https://pics.computerbase.de/1/0/8/2/6/1-5003f78bbfa34f04/article-640x360.f1e4ba47.jpg\"><p>In den kommenden vier Jahren wird AMD 135 Millionen US-Dollar in den Standort Irland stecken, wo Xilinx ansässig war und auch nach der Übernahme noch ist. 290 Jobs sollen dabei vor allem im Bereich Forschung und Entwicklung, aber auch im Support geschaffen werden. Vom Staat Irland gibt es dafür Geld.</p>",
-          "link": "https://www.computerbase.de/2023-06/forschung-und-entwicklung-amd-erweitert-ex-xilinx-standort-in-irland-fuer-135-mio-us-dollar/",
-          "publishedOn": "2023-06-21T08:59:00.000Z",
-          "wordCount": 664,
-          "title": "Forschung und Entwicklung: AMD erweitert Ex-Xilinx-Standort in Irland für 135 Mio. US-Dollar [Notiz]",
-          "imageUrl": "https://pics.computerbase.de/1/0/8/2/6/1-5003f78bbfa34f04/article-1280x720.f1e4ba47.jpg"
-        },
-        {
-          "id": "https://www.computerbase.de/2023-06/cities-skylines-ii-neue-tools-fuer-den-elementaren-strassenbau-vorgestellt/",
-          "author": null,
-          "description": "<img src=\"https://pics.computerbase.de/1/0/8/2/5/4-25321293cef5d2a9/article-640x360.57b0b740.jpg\"><p>Am 24. Oktober erscheint der lange erwartete Nachfolger des beliebten Städtebauspiels Cities: Skylines, auch in der ComputerBase-Community steht der Titel hoch im Kurs. In einem „Feature Highlight“ präsentiert das Studio Colossal Order jetzt überarbeitete Tools für eine der elementarsten Spielmechaniken: Den Bau von Straßen.</p>",
-          "link": "https://www.computerbase.de/2023-06/cities-skylines-ii-neue-tools-fuer-den-elementaren-strassenbau-vorgestellt/",
-          "publishedOn": "2023-06-21T07:26:00.000Z",
-          "wordCount": 965,
-          "title": "Cities Skylines II: Neue Tools für den elementaren Straßenbau vorgestellt",
-          "imageUrl": "https://pics.computerbase.de/1/0/8/2/5/4-25321293cef5d2a9/article-1280x720.57b0b740.jpg"
-        },
-        {
-          "id": "https://www.computerbase.de/2023-06/firmware-updates-erforderlich-router-von-asus-und-huawei-mit-kritischen-sicherheitslecks/",
-          "author": null,
-          "description": "<img src=\"https://pics.computerbase.de/1/0/8/2/5/9-b85dffd32be74f21/article-640x360.73ee9632.jpg\"><p>Die Hersteller Asus und Huawei informieren über Firmware-Updates für bestimmte Router-Modelle mit denen teils kritische Sicherheitslücken gestopft werden sollen. Bei Asus sind gleich 19 Router betroffen. Bei Huawei trifft es nur einen. Nutzer sollten schnellstmöglich die Firmware aktualisieren.</p>",
-          "link": "https://www.computerbase.de/2023-06/firmware-updates-erforderlich-router-von-asus-und-huawei-mit-kritischen-sicherheitslecks/",
-          "publishedOn": "2023-06-21T06:21:00.000Z",
-          "wordCount": 938,
-          "title": "Firmware Updates erforderlich: Router von Asus und Huawei mit kritischen Sicherheitslecks",
-          "imageUrl": "https://pics.computerbase.de/1/0/8/2/5/9-b85dffd32be74f21/article-1280x720.73ee9632.jpg"
-        },
-        {
-          "id": "https://www.computerbase.de/2023-06/mikrotransaktionen-fliegen-kart-racer-chocobo-gp-entfernt-alle-zusatzkaeufe/",
-          "author": null,
-          "description": "<img src=\"https://pics.computerbase.de/1/0/8/2/5/8-677ad85dfa1d8c60/article-640x360.e949b815.jpg\"><p>Eigentlich war Chocobo GP durch die Verbindung von niedlichen Figuren und flotter Action ein spannender Kart-Racer. Es war allerdings auch ein Vollpreis-Spiel voller Mikrotransaktionen, die sonst in Mobile-Spielen der Free-to-Play-Klasse in die Tasche greifen wollen. Diese hat Square Enix nun komplett entfernt.</p>",
-          "link": "https://www.computerbase.de/2023-06/mikrotransaktionen-fliegen-kart-racer-chocobo-gp-entfernt-alle-zusatzkaeufe/",
-          "publishedOn": "2023-06-21T05:34:00.000Z",
-          "wordCount": 1172,
-          "title": "Mikrotransaktionen fliegen: Kart-Racer Chocobo GP entfernt alle Zusatzkäufe",
-          "imageUrl": "https://pics.computerbase.de/1/0/8/2/5/8-677ad85dfa1d8c60/article-1280x720.e949b815.jpg"
-        },
-        {
-          "id": "https://www.computerbase.de/2023-06/gigabyte-a620i-ax-potenziell-guenstiges-itx-mainboard-fuer-ryzen-7000/",
-          "author": null,
-          "description": "<img src=\"https://pics.computerbase.de/1/0/8/2/5/6-aef7231c0b410f00/article-640x360.150e2758.jpg\"><p>Das Angebot an Mini-ITX-Mainboards mit dem Sockel AM5 für Ryzen 7000 ist sehr begrenzt und beginnt derzeit erst ab 240 Euro. Gigabyte liefert bald mit dem ersten A620-Board in diesem Format mehr Auswahl und potenziell einen geringeren Einstiegspreis. Außerdem gibt es drei neue Micro-ATX-Modelle des Herstellers.</p>",
-          "link": "https://www.computerbase.de/2023-06/gigabyte-a620i-ax-potenziell-guenstiges-itx-mainboard-fuer-ryzen-7000/",
-          "publishedOn": "2023-06-20T18:31:00.000Z",
-          "wordCount": 1018,
-          "title": "Gigabyte A620I AX: Potenziell günstiges ITX-Mainboard für Ryzen 7000",
-          "imageUrl": "https://pics.computerbase.de/1/0/8/2/5/6-aef7231c0b410f00/article-1280x720.150e2758.jpg"
-        },
-        {
-          "id": "https://www.computerbase.de/2023-06/dota-2-das-erste-spiel-mit-battle-pass-verliert-den-battle-pass/",
-          "author": null,
-          "description": "<img src=\"https://pics.computerbase.de/1/0/8/2/5/7-14ce09fe96c44740/article-640x360.a84dd3a2.jpg\"><p>Valve feiert das zehnjährige Jubiläum des populären MOBA-Spiels Dota 2 mit einem Traditionsbruch. So wird der Battle Pass, der jedes Jahr zur Finanzierung der Preisgelder für das The International angeboten wurde, überraschend nicht fortgesetzt. Valve schwimmt damit in der Gaming-Branche gegen den Strom.</p>",
-          "link": "https://www.computerbase.de/2023-06/dota-2-das-erste-spiel-mit-battle-pass-verliert-den-battle-pass/",
-          "publishedOn": "2023-06-20T18:15:00.000Z",
-          "wordCount": 1049,
-          "title": "Dota 2: Das erste Spiel mit Battle Pass verliert den Battle Pass",
-          "imageUrl": "https://pics.computerbase.de/1/0/8/2/5/7-14ce09fe96c44740/article-1280x720.a84dd3a2.jpg"
-        },
-        {
-          "id": "https://www.computerbase.de/2023-06/self-repair-samsung-liefert-original-ersatzteile-fuer-galaxy-geraete/",
-          "author": null,
-          "description": "<img src=\"https://pics.computerbase.de/1/0/8/2/4/8-73f66aaf2c51316a/article-640x360.45d3a373.jpg\"><p>Nach dem Start in den USA im vergangenen Jahr bringt Samsung sein hauseigenes Self-Repair-Programm nun auch nach Deutschland. Damit bietet der Konzern Besitzern bestimmter Geräte der Samsung-Galaxy-Reihe Anleitungen, Werkzeuge und Ersatzteile an, mit denen sie erforderliche Reparaturen eigenständig durchführen können.</p>",
-          "link": "https://www.computerbase.de/2023-06/self-repair-samsung-liefert-original-ersatzteile-fuer-galaxy-geraete/",
-          "publishedOn": "2023-06-20T17:55:00.000Z",
-          "wordCount": 980,
-          "title": "Self Repair: Samsung liefert Original-Ersatzteile für Galaxy-Geräte",
-          "imageUrl": "https://pics.computerbase.de/1/0/8/2/4/8-73f66aaf2c51316a/article-1280x720.45d3a373.jpg"
-        },
-        {
-          "id": "https://www.computerbase.de/2023-06/xenonauts-2-der-nachfolger-des-xcom-nachfolgers-ist-fast-fertig/",
-          "author": null,
-          "description": "<img src=\"https://pics.computerbase.de/1/0/8/2/4/9-3c2b8a41a070eb58/article-640x360.2b815b61.jpg\"><p>Fünf Jahre nach Start der Crowdfunding-Runde ist der Nachfolger des XCOM-Nachfolgers Xenonauts fertig genug für die Veröffentlichung über den Unterstützer-Kreis hinaus. Ab Juli starten zwei Drittel des Spiels in den Early Access für weiteren Feinschliff, wo erste rundenbasierte Kämpfe gegen Alien-Invasoren ausgetragen werden.</p>",
-          "link": "https://www.computerbase.de/2023-06/xenonauts-2-der-nachfolger-des-xcom-nachfolgers-ist-fast-fertig/",
-          "publishedOn": "2023-06-20T15:13:00.000Z",
-          "wordCount": 979,
-          "title": "Xenonauts 2: Der Nachfolger des XCOM-„Nachfolgers“ ist fast fertig",
-          "imageUrl": "https://pics.computerbase.de/1/0/8/2/4/9-3c2b8a41a070eb58/article-1280x720.2b815b61.jpg"
-        },
-        {
-          "id": "https://www.computerbase.de/2023-06/monitorabsatz-nur-aoc-philips-kann-im-jahresvergleich-zulegen/",
-          "author": null,
-          "description": "<img src=\"https://pics.computerbase.de/1/0/8/2/5/3-862f05760ef4b899/article-640x360.d2465df8.jpg\"><p>Im ersten Quartal sank der globale Absatz von LCD-Monitoren gegenüber dem Vorjahr um 20,5 Prozent. Vor allem die für Office-Geräte bekannten Marken Dell, HP und Lenovo lieferten deutlich weniger aus. Die mehr auf Verbraucher ausgerichteten Marken AOC und Philips legten als einzige der Marktstudie im Jahresvergleich leicht zu.</p>",
-          "link": "https://www.computerbase.de/2023-06/monitorabsatz-nur-aoc-philips-kann-im-jahresvergleich-zulegen/",
-          "publishedOn": "2023-06-20T14:43:00.000Z",
-          "wordCount": 905,
-          "title": "Monitorabsatz: Nur AOC/Philips kann im Jahresvergleich zulegen",
-          "imageUrl": "https://pics.computerbase.de/1/0/8/2/5/3-862f05760ef4b899/article-1280x720.d2465df8.jpg"
         }
       ]
     },
@@ -8882,10 +8892,210 @@
       ]
     },
     {
-      "title": "Deutschlandfunk - Fortlaufende Nachrichten vom 20. Juli 2023",
+      "title": "Deutschlandfunk - Fortlaufende Nachrichten vom 21. Juli 2023",
       "feedUrl": "https://www.deutschlandfunk.de/nachrichten-100.rss",
-      "siteUrl": "https://www.deutschlandfunk.de/nachrichten-index-28524.html",
+      "siteUrl": "https://www.deutschlandfunk.de/nachrichten-index-28530.html",
       "articles": [
+        {
+          "id": "selenskyj-ausgaben-in-kriegszeiten-begrenzen-kulturminister-tritt-zurueck-102",
+          "author": null,
+          "description": "Der ukrainische Präsident Selenskyj hat seine Regierung ermahnt, die Ausgaben in Kriegszeiten zu begrenzen.",
+          "link": "https://www.deutschlandfunk.de/selenskyj-ausgaben-in-kriegszeiten-begrenzen-kulturminister-tritt-zurueck-102.html",
+          "publishedOn": "2023-07-21T00:32:53.000Z",
+          "wordCount": 729,
+          "title": "Ukraine - Selenskyj: Ausgaben in Kriegszeiten begrenzen - Kulturminister tritt zurück",
+          "imageUrl": "https://assets.deutschlandfunk.de/8c7ca01b-81f9-4fc4-9f66-0be6750de5b1/1920x1080.jpg?t=1687411196155"
+        },
+        {
+          "id": "bundesinnenministerium-befuerchtet-unruhe-auch-in-deutschland-106",
+          "author": null,
+          "description": "Nach den jüngsten Koranschändungen in Schweden befürchtet das Bundesinnenministerium offenbar auch in Deutschland Unruhe in der Islamistenszene.",
+          "link": "https://www.deutschlandfunk.de/bundesinnenministerium-befuerchtet-unruhe-auch-in-deutschland-106.html",
+          "publishedOn": "2023-07-21T00:32:53.000Z",
+          "wordCount": 710,
+          "title": "Koranschändungen - Bundesinnenministerium befürchtet Unruhe auch in Deutschland",
+          "imageUrl": "https://assets.deutschlandfunk.de/6a89a0a3-93b7-4637-a6c2-9b1cc3ae5de2/1920x1080.jpg?t=1689858864308"
+        },
+        {
+          "id": "spd-plant-neuen-vorstoss-102",
+          "author": null,
+          "description": "Die SPD plant einen neuen Vorstoß, um einen sozialen Pflichtdienst einzuführen.",
+          "link": "https://www.deutschlandfunk.de/spd-plant-neuen-vorstoss-102.html",
+          "publishedOn": "2023-07-21T00:32:53.000Z",
+          "wordCount": 726,
+          "title": "Sozialer Pflichtdienst - SPD plant neuen Vorstoß",
+          "imageUrl": "https://assets.deutschlandfunk.de/7a3ea3d6-5834-4b00-9d0f-f283907e2b03/1920x1080.jpg?t=1680155402086"
+        },
+        {
+          "id": "gruene-in-umfrage-bundesweit-nur-noch-bei-13-prozent-niedrigster-wert-seit-102",
+          "author": null,
+          "description": "Die Grünen büßen einer Umfrage zufolge bundesweit weiter an Zustimmung ein.",
+          "link": "https://www.deutschlandfunk.de/gruene-in-umfrage-bundesweit-nur-noch-bei-13-prozent-niedrigster-wert-seit-102.html",
+          "publishedOn": "2023-07-21T00:32:53.000Z",
+          "wordCount": 723,
+          "title": "\"Deutschlandtrend\" - Grüne in Umfrage bundesweit nur noch bei 13 Prozent - niedrigster Wert seit 2018",
+          "imageUrl": "https://assets.deutschlandfunk.de/FILE_69a311b963d5a6b7b13761a19bb4e01f/1920x1080.jpg?t=1597553600620"
+        },
+        {
+          "id": "suche-nach-vermuteter-loewin-auch-in-der-nacht-114",
+          "author": null,
+          "description": "Die Suche nach einer im Großraum Berlin vermuteten freilaufenden Löwin wird auch in der Nacht fortgesetzt.",
+          "link": "https://www.deutschlandfunk.de/suche-nach-vermuteter-loewin-auch-in-der-nacht-114.html",
+          "publishedOn": "2023-07-21T00:32:53.000Z",
+          "wordCount": 699,
+          "title": "Brandenburg - Suche nach vermuteter Löwin auch in der Nacht",
+          "imageUrl": "https://assets.deutschlandfunk.de/19addcf2-bd6c-4af3-982a-a9dc6545c2a9/1920x1080.jpg?t=1689884281621"
+        },
+        {
+          "id": "tuerkischer-praesident-erdogan-sieht-keine-moeglichkeit-einer-wiedervereinigung-100",
+          "author": null,
+          "description": "Der türkische Präsident Erdogan hat einer Wiedervereinigung der beiden Teile Zyperns eine Absage erteilt.",
+          "link": "https://www.deutschlandfunk.de/tuerkischer-praesident-erdogan-sieht-keine-moeglichkeit-einer-wiedervereinigung-100.html",
+          "publishedOn": "2023-07-21T00:32:53.000Z",
+          "wordCount": 741,
+          "title": "Geteiltes Zypern - Türkischer Präsident Erdogan sieht keine Möglichkeit einer Wiedervereinigung",
+          "imageUrl": "https://assets.deutschlandfunk.de/1fbd2234-4f34-4df8-9d6d-b844db7faa57/1920x1080.jpg?t=1689885298731"
+        },
+        {
+          "id": "verteidigungsminister-pistorius-zu-besuch-in-tschechien-104",
+          "author": null,
+          "description": "Bundesverteidigungsminister Pistorius ist zu Gesprächen nach Tschechien gereist.",
+          "link": "https://www.deutschlandfunk.de/verteidigungsminister-pistorius-zu-besuch-in-tschechien-104.html",
+          "publishedOn": "2023-07-21T00:32:53.000Z",
+          "wordCount": 700,
+          "title": "Ukraine-Krieg - Verteidigungsminister Pistorius zu Besuch in Tschechien",
+          "imageUrl": "https://assets.deutschlandfunk.de/dfe6a4b1-e339-46a4-9120-983aae963b5e/1920x1080.jpg?t=1681409372899"
+        },
+        {
+          "id": "usa-bestaetigen-einsatz-der-von-ihr-gelieferten-streumunition-108",
+          "author": null,
+          "description": "Die USA haben bestätigt, dass die von ihr gelieferte Streumunition bereits von der Ukraine gegen die russische Armee eingesetzt wird. Der Kommunikationsdirektor des Nationalen Sicherheitsrats der US-Regierung, Kirby, sagte in Washington, die ukrainischen Streitkräfte setzten die Munition angemessen, aber effektiv ein.",
+          "link": "https://www.deutschlandfunk.de/usa-bestaetigen-einsatz-der-von-ihr-gelieferten-streumunition-108.html",
+          "publishedOn": "2023-07-21T00:32:53.000Z",
+          "wordCount": 786,
+          "title": "Ukraine-Krieg - USA bestätigen Einsatz der von ihr gelieferten Streumunition",
+          "imageUrl": "https://assets.deutschlandfunk.de/f9a18824-2100-4b26-bf80-9583fa00b022/1920x1080.jpg?t=1688795367605"
+        },
+        {
+          "id": "baerbock-fuehrt-gespraeche-mit-franzoesischer-kollegin-ueber-grenzueberschreitende-berufsausbildung-102",
+          "author": null,
+          "description": "Zum Abschluss ihrer Sommerreise will Bundesaußenministerin Baerbock heute ein Abkommen mit Frankreich über eine grenzüberschreitende Berufsausbildung unterzeichnen.",
+          "link": "https://www.deutschlandfunk.de/baerbock-fuehrt-gespraeche-mit-franzoesischer-kollegin-ueber-grenzueberschreitende-berufsausbildung-102.html",
+          "publishedOn": "2023-07-21T00:32:53.000Z",
+          "wordCount": 680,
+          "title": "Bundesaußenministerin - Baerbock führt Gespräche mit französischer Kollegin über grenzüberschreitende Berufsausbildung",
+          "imageUrl": "https://assets.deutschlandfunk.de/33f19c8b-fb75-4bcf-baa9-0393292d2b3d/1920x1080.jpg?t=1689681109158"
+        },
+        {
+          "id": "justizausschuss-des-parlaments-stimmt-gesetzentwurf-zum-umbau-der-justiz-zu-104",
+          "author": null,
+          "description": "In Israel hat der zuständige Ausschuss der Knesset für die Annahme eines zentralen Elements der umstrittenen Justizreform gestimmt.",
+          "link": "https://www.deutschlandfunk.de/justizausschuss-des-parlaments-stimmt-gesetzentwurf-zum-umbau-der-justiz-zu-104.html",
+          "publishedOn": "2023-07-21T00:32:53.000Z",
+          "wordCount": 751,
+          "title": "Israel - Justizausschuss des Parlaments stimmt Gesetzentwurf zum Umbau der Justiz zu",
+          "imageUrl": "https://assets.deutschlandfunk.de/33b6b8b2-e657-4b02-a12d-6d867a50f334/1920x1080.jpg?t=1679386471186"
+        },
+        {
+          "id": "rekordrate-an-vergewaltigungen-ueber-60-prozent-der-opfer-waren-juenger-als-14-jahre-104",
+          "author": null,
+          "description": "Brasilien hat 2022 eine Rekordrate an Vergewaltigungen verzeichnet.",
+          "link": "https://www.deutschlandfunk.de/rekordrate-an-vergewaltigungen-ueber-60-prozent-der-opfer-waren-juenger-als-14-jahre-104.html",
+          "publishedOn": "2023-07-21T00:32:53.000Z",
+          "wordCount": 742,
+          "title": "Brasilien - Rekordrate an Vergewaltigungen - Über 60 Prozent der Opfer waren jünger als 14 Jahre",
+          "imageUrl": "https://assets.deutschlandfunk.de/FILE_5728fc5f1f135b8d420fa40895d9bf7e/1920x1080.jpg?t=1597540318532"
+        },
+        {
+          "id": "europaeische-union-verschaerft-sanktionen-gegen-iran-wegen-drohnen-104",
+          "author": null,
+          "description": "Die Europäische Union verschärft ihre Sanktionen gegen den Iran wegen dessen Drohnenlieferungen an Russland.",
+          "link": "https://www.deutschlandfunk.de/europaeische-union-verschaerft-sanktionen-gegen-iran-wegen-drohnen-104.html",
+          "publishedOn": "2023-07-21T00:32:53.000Z",
+          "wordCount": 736,
+          "title": "Außenminister-Treffen - Europäische Union verschärft Sanktionen gegen Iran wegen Drohnen",
+          "imageUrl": "https://assets.deutschlandfunk.de/b5003639-8160-456b-aa1d-1a7706c2d76f/1920x1080.jpg?t=1689871691789"
+        },
+        {
+          "id": "staatsanwalt-fordert-insgesamt-30-jahre-haft-fuer-kremlgegner-nawalny-102",
+          "author": null,
+          "description": "Die russische Staatsanwaltschaft hat in einem neuen Prozess gegen den bereits inhaftierten Oppositionellen Nawalny 20 Jahre Haft in einem Hochsicherheitsgefängnis beantragt.",
+          "link": "https://www.deutschlandfunk.de/staatsanwalt-fordert-insgesamt-30-jahre-haft-fuer-kremlgegner-nawalny-102.html",
+          "publishedOn": "2023-07-21T00:32:53.000Z",
+          "wordCount": 729,
+          "title": "Russland - Staatsanwalt fordert insgesamt 30 Jahre Haft für Kremlgegner Nawalny",
+          "imageUrl": "https://assets.deutschlandfunk.de/377ba790-6052-4927-aa7d-d6d8d3870efa/1920x1080.jpg?t=1663773709591"
+        },
+        {
+          "id": "praesident-macron-bildet-regierung-um-104",
+          "author": null,
+          "description": "Frankreichs Präsident Macron hat seine Regierung umgebildet.",
+          "link": "https://www.deutschlandfunk.de/praesident-macron-bildet-regierung-um-104.html",
+          "publishedOn": "2023-07-21T00:32:53.000Z",
+          "wordCount": 681,
+          "title": "Frankreich - Präsident Macron bildet Regierung um",
+          "imageUrl": "https://assets.deutschlandfunk.de/bef46383-0631-476c-b2d9-bfc34fc922f4/1920x1080.jpg?t=1689878528438"
+        },
+        {
+          "id": "irak-weist-schwedische-botschafterin-aus-108",
+          "author": null,
+          "description": "Die jüngsten Koranschändungen in Schweden stoßen in islamischen Ländern weiter auf scharfe Kritik.",
+          "link": "https://www.deutschlandfunk.de/irak-weist-schwedische-botschafterin-aus-108.html",
+          "publishedOn": "2023-07-21T00:32:53.000Z",
+          "wordCount": 739,
+          "title": "Koranschändungen - Irak weist schwedische Botschafterin aus",
+          "imageUrl": "https://assets.deutschlandfunk.de/6a89a0a3-93b7-4637-a6c2-9b1cc3ae5de2/1920x1080.jpg?t=1689858864308"
+        },
+        {
+          "id": "bundesverkehrsminister-wissing-grenzueberschreitender-bahnverkehr-in-europa-soll-attraktiver-werden-102",
+          "author": null,
+          "description": "Deutschland arbeitet nach Angaben von Bundesverkehrsminister Wissing gemeinsam mit anderen Ländern daran, den grenzüberschreitenden Bahnverkehr in Europa attraktiver zu machen.",
+          "link": "https://www.deutschlandfunk.de/bundesverkehrsminister-wissing-grenzueberschreitender-bahnverkehr-in-europa-soll-attraktiver-werden-102.html",
+          "publishedOn": "2023-07-21T00:32:53.000Z",
+          "wordCount": 754,
+          "title": "Reaktion auf Greenpeace-Untersuchung - Bundesverkehrsminister Wissing: \"Grenzüberschreitender Bahnverkehr in Europa soll attraktiver werden\"",
+          "imageUrl": "https://assets.deutschlandfunk.de/58ab5717-9d99-4043-8f31-cb00cdde2db8/1920x1080.jpg?t=1679493857095"
+        },
+        {
+          "id": "regierung-verbietet-reisexporte-106",
+          "author": null,
+          "description": "Indien verbietet den Export von bestimmten Reissorten.",
+          "link": "https://www.deutschlandfunk.de/regierung-verbietet-reisexporte-106.html",
+          "publishedOn": "2023-07-21T00:32:53.000Z",
+          "wordCount": 707,
+          "title": "Indien - Regierung verbietet Reisexporte",
+          "imageUrl": "https://assets.deutschlandfunk.de/FILE_6862443928146a6cfb9482458dc9440e/1920x1080.jpg?t=1632815025916"
+        },
+        {
+          "id": "pistorius-mahnt-wehrhafte-demokratie-an-102",
+          "author": null,
+          "description": "In Berlin ist mit einer Feierstunde am 79. Jahrestag des gescheiterten Attentats auf Hitler an den Widerstand gegen die nationalsozialistische Gewaltherrschaft erinnert worden. Vertreter von Politik und Gesellschaft versammelten sich im Ehrenhof des Bendlerblocks zu einer Gedenkveranstaltung. Verteidigungsminister Pistorius forderte mehr Wachsamkeit gegen aktuelle extremistische Gefahren.",
+          "link": "https://www.deutschlandfunk.de/pistorius-mahnt-wehrhafte-demokratie-an-102.html",
+          "publishedOn": "2023-07-21T00:32:53.000Z",
+          "wordCount": 878,
+          "title": "Gedenken an 20. Juli 1944 - Pistorius mahnt wehrhafte Demokratie an",
+          "imageUrl": "https://assets.deutschlandfunk.de/49848e79-9a4e-4dba-b387-d5f86c81fd3f/1920x1080.jpg?t=1689852184050"
+        },
+        {
+          "id": "daene-kasper-asgreen-gewinnt-18-etappe-116",
+          "author": null,
+          "description": "Radprofi Kasper Asgreen hat die 18. Etappe der Tour de France gewonnen.",
+          "link": "https://www.deutschlandfunk.de/daene-kasper-asgreen-gewinnt-18-etappe-116.html",
+          "publishedOn": "2023-07-21T00:32:53.000Z",
+          "wordCount": 661,
+          "title": "Tour de France - Däne Kasper Asgreen gewinnt 18. Etappe",
+          "imageUrl": "https://assets.deutschlandfunk.de/21824aeb-d77e-4ffc-a1d8-14c467acda81/1920x1080.jpg?t=1689868542406"
+        },
+        {
+          "id": "nachts-teils-regen-16-bis-8-grad-100",
+          "author": null,
+          "description": "Das Wetter: In der Nacht wechselnd bewölkt, später im Westen und Nordwesten etwas Regen, an den Alpen vereinzelt Gewitter. Tiefsttemperaturen 16 bis 8 Grad. Am Tage wechselnd bewölkt und gebietsweise Schauer, örtlich auch kurze Gewitter. Ab dem Nachmittag südlich der Donau starke Gewitter, örtlich Unwetter. Höchstwerte 20 bis 26 Grad.",
+          "link": "https://www.deutschlandfunk.de/nachts-teils-regen-16-bis-8-grad-100.html",
+          "publishedOn": "2023-07-21T00:32:53.000Z",
+          "wordCount": 683,
+          "title": "Wetter - Nachts teils Regen, 16 bis 8 Grad",
+          "imageUrl": null
+        },
         {
           "id": "usa-warnen-vor-russischen-angriffen-auf-zivile-schiffe-im-schwarzen-meer-100",
           "author": null,
@@ -14904,256 +15114,6 @@
           "publishedOn": "2023-06-22T01:09:47.000Z",
           "wordCount": 738,
           "title": "Wetter - Am Tag nur im Norden heiter, sonst viele Gewitter",
-          "imageUrl": "https://assets.deutschlandfunk.de/FILE_87984961f0c901d08d919ad9e3a61080/1920x1080.jpg?t=1597573950904"
-        },
-        {
-          "id": "internationale-konferenz-beraet-ueber-den-wiederaufbau-der-ukraine-102",
-          "author": null,
-          "description": "In London treffen sich heute Regierungsvertreter, Investoren und Unternehmer aus 61 Ländern, um über den Wiederaufbau der Ukraine zu beraten. Im Mittelpunkt der zweitägigen Konferenz steht die Frage, wie private Unternehmen zu Investitionen in das Land ermutigt werden können. Deutschland wird durch Außenministerin Baerbock und Entwicklungsministerin Schulze vertreten.",
-          "link": "https://www.deutschlandfunk.de/internationale-konferenz-beraet-ueber-den-wiederaufbau-der-ukraine-102.html",
-          "publishedOn": "2023-06-21T00:01:24.000Z",
-          "wordCount": 978,
-          "title": "London - Internationale Konferenz berät über den Wiederaufbau der Ukraine",
-          "imageUrl": "https://assets.deutschlandfunk.de/79287509-5188-4149-914a-95d9b58b6337/1920x1080.jpg?t=1687288712686"
-        },
-        {
-          "id": "bayerns-ministerpraesident-soeder-will-demokratie-und-rechtsstaatlichkeit-ansprechen-102",
-          "author": null,
-          "description": "Der chinesische Ministerpräsident Li Qiang ist auf seiner Europareise für einen Zwischenstopp in der bayerischen Landeshauptstadt München angekommen. Dort wollen Li und seine Delegation die Dax-Konzerne Siemens und BMW besuchen, bevor sie nach Frankreich weiterreisen.",
-          "link": "https://www.deutschlandfunk.de/bayerns-ministerpraesident-soeder-will-demokratie-und-rechtsstaatlichkeit-ansprechen-102.html",
-          "publishedOn": "2023-06-21T00:01:24.000Z",
-          "wordCount": 766,
-          "title": "China-Besuch - Bayerns Ministerpräsident Söder will Demokratie und Rechtsstaatlichkeit ansprechen",
-          "imageUrl": "https://assets.deutschlandfunk.de/b511686f-398a-4a0f-bca5-dbaf8bdef843/1920x1080.jpg?t=1687288677055"
-        },
-        {
-          "id": "gesundheitsdaten-sollen-fuer-forschung-und-krankenkassen-nutzbar-werden-100",
-          "author": null,
-          "description": "Die Gesundheitsdaten der gesetzlich Versicherten sollen nach Presseinformationen künftig ohne deren ausdrückliche Einwilligung für Forschungszwecke genutzt werden können.",
-          "link": "https://www.deutschlandfunk.de/gesundheitsdaten-sollen-fuer-forschung-und-krankenkassen-nutzbar-werden-100.html",
-          "publishedOn": "2023-06-21T00:01:24.000Z",
-          "wordCount": 744,
-          "title": "Pressebericht zu Gesetzentwurf Lauterbach - Gesundheitsdaten sollen für Forschung und Krankenkassen nutzbar werden",
-          "imageUrl": "https://assets.deutschlandfunk.de/52947e12-be0e-4de8-8135-bdc77b3dfd96/1920x1080.jpg?t=1678456181272"
-        },
-        {
-          "id": "lambsdorff-wird-neuer-botschafter-deutschlands-in-russland-102",
-          "author": null,
-          "description": "Der FDP-Politiker Lambsdorff wird neuer deutscher Botschafter in Russland.",
-          "link": "https://www.deutschlandfunk.de/lambsdorff-wird-neuer-botschafter-deutschlands-in-russland-102.html",
-          "publishedOn": "2023-06-21T00:01:24.000Z",
-          "wordCount": 723,
-          "title": "Diplomatie - Lambsdorff wird neuer Botschafter Deutschlands in Russland",
-          "imageUrl": "https://assets.deutschlandfunk.de/ee42b7fc-0884-4d52-afe8-c0447869fcd5/1920x1080.jpg?t=1648884937109"
-        },
-        {
-          "id": "ueber-170-000-registrierungen-in-der-ersten-woche-100",
-          "author": null,
-          "description": "Eine Woche nach dem Start des bundesweiten Kultur-Passes für 18-Jährige haben sich bereits über 170.000 junge Erwachsene im zugehörigen Online-Portal registriert.",
-          "link": "https://www.deutschlandfunk.de/ueber-170-000-registrierungen-in-der-ersten-woche-100.html",
-          "publishedOn": "2023-06-21T00:01:24.000Z",
-          "wordCount": 747,
-          "title": "Kulturpass des Bundes - Über 170.000 Registrierungen in der ersten Woche",
-          "imageUrl": "https://assets.deutschlandfunk.de/2e43d29c-15a5-4ab8-8a69-40eabe4e3637/1920x1080.jpg?t=1686733866659"
-        },
-        {
-          "id": "habeck-deutschland-attraktiver-standort-102",
-          "author": null,
-          "description": "Bundeswirtschaftsminister Habeck hat Kritik an der Industriepolitik der Bundesregierung zurückgewiesen.",
-          "link": "https://www.deutschlandfunk.de/habeck-deutschland-attraktiver-standort-102.html",
-          "publishedOn": "2023-06-21T00:01:24.000Z",
-          "wordCount": 749,
-          "title": "Tag der Industrie - Habeck: Deutschland attraktiver Standort",
-          "imageUrl": "https://assets.deutschlandfunk.de/6b340f63-ca5f-4ef5-a7df-732d46d051bf/1920x1080.jpg?t=1687290035322"
-        },
-        {
-          "id": "faeser-will-allianz-gegen-clankriminalitaet-bilden-102",
-          "author": null,
-          "description": "Bundesinnenministerin Faeser will eine - Zitat - \"Allianz gegen Clankriminalität\" angestoßen.",
-          "link": "https://www.deutschlandfunk.de/faeser-will-allianz-gegen-clankriminalitaet-bilden-102.html",
-          "publishedOn": "2023-06-21T00:01:24.000Z",
-          "wordCount": 733,
-          "title": "Innere Sicherheit - Faeser will \"Allianz gegen Clankriminalität\" bilden",
-          "imageUrl": "https://assets.deutschlandfunk.de/ed1a8d61-11c0-44f6-ab49-e45fc20e123f/1920x1080.jpg?t=1687290303424"
-        },
-        {
-          "id": "deutsche-nationalmannschaft-unterliegt-kolumbien-110",
-          "author": null,
-          "description": "Die deutsche Fußball-Nationalmannschaft hat das Länderspiel gegen Kolumbien verloren.",
-          "link": "https://www.deutschlandfunk.de/deutsche-nationalmannschaft-unterliegt-kolumbien-110.html",
-          "publishedOn": "2023-06-21T00:01:24.000Z",
-          "wordCount": 623,
-          "title": "Länderspiel - Deutsche Nationalmannschaft unterliegt Kolumbien",
-          "imageUrl": "https://assets.deutschlandfunk.de/6f9add1e-7274-4ba5-93df-901cd6ef38c5/1920x1080.jpg?t=1687292824551"
-        },
-        {
-          "id": "sommerferienzeit-beginnt-nrw-startet-als-erstes-bundesland-100",
-          "author": null,
-          "description": "In Deutschland beginnt heute die Sommerferienzeit.",
-          "link": "https://www.deutschlandfunk.de/sommerferienzeit-beginnt-nrw-startet-als-erstes-bundesland-100.html",
-          "publishedOn": "2023-06-21T00:01:24.000Z",
-          "wordCount": 669,
-          "title": "Schulen - Sommerferienzeit beginnt - NRW startet als erstes Bundesland",
-          "imageUrl": "https://assets.deutschlandfunk.de/00031a50-7206-4a83-8db0-da20243a7c6a/1920x1080.jpg?t=1658240205255"
-        },
-        {
-          "id": "steinmeier-setzt-staatsbesuch-in-kasachstan-fort-100",
-          "author": null,
-          "description": "Bundespräsident Steinmeier setzt heute seine Kasachstan-Reise mit einem Besuch des Wasserstoffprojekts \"Hyrasia One\" fort.",
-          "link": "https://www.deutschlandfunk.de/steinmeier-setzt-staatsbesuch-in-kasachstan-fort-100.html",
-          "publishedOn": "2023-06-21T00:01:24.000Z",
-          "wordCount": 684,
-          "title": "Auslandreise - Steinmeier setzt Staatsbesuch in Kasachstan fort",
-          "imageUrl": "https://assets.deutschlandfunk.de/83a65955-217a-43d3-bdbf-047586d3b01c/1920x1080.jpg?t=1687296475327"
-        },
-        {
-          "id": "unterstuetzung-fuer-vielfaeltige-familienformen-im-uno-menschenrechtsrat-102",
-          "author": null,
-          "description": "Fast 40 Länder haben vor den Vereinten Nationen das Konzept vielfältiger Familienformen unterstützt.",
-          "link": "https://www.deutschlandfunk.de/unterstuetzung-fuer-vielfaeltige-familienformen-im-uno-menschenrechtsrat-102.html",
-          "publishedOn": "2023-06-21T00:01:24.000Z",
-          "wordCount": 675,
-          "title": "Gesellschaft - Unterstützung für vielfältige Familienformen im UNO-Menschenrechtsrat",
-          "imageUrl": null
-        },
-        {
-          "id": "mindestens-vier-tote-bei-anschlag-im-westjordanland-104",
-          "author": null,
-          "description": "Bei einem Anschlag im Westjordanland sind mindestens vier Menschen ums Leben gekommen.",
-          "link": "https://www.deutschlandfunk.de/mindestens-vier-tote-bei-anschlag-im-westjordanland-104.html",
-          "publishedOn": "2023-06-21T00:01:24.000Z",
-          "wordCount": 688,
-          "title": "Naher Osten - Mindestens vier Tote bei Anschlag im Westjordanland",
-          "imageUrl": "https://assets.deutschlandfunk.de/ee032f04-775c-4875-8187-9c40660f416d/1920x1080.jpg?t=1687290966758"
-        },
-        {
-          "id": "gruene-koalition-einigt-sich-auf-gesetz-gegen-medikamentenmangel-106",
-          "author": null,
-          "description": "Die Koalitionsfraktionen haben sich nach Angaben der Grünen auf einen Gesetzesvorschlag gegen Lieferengpässe bei Arzneimitteln verständigt.",
-          "link": "https://www.deutschlandfunk.de/gruene-koalition-einigt-sich-auf-gesetz-gegen-medikamentenmangel-106.html",
-          "publishedOn": "2023-06-21T00:01:24.000Z",
-          "wordCount": 742,
-          "title": "Gesundheitspolitik - Grüne: Koalition einigt sich auf Gesetz gegen Medikamentenmangel",
-          "imageUrl": "https://assets.deutschlandfunk.de/81e5cd74-119b-4ef7-a084-6669abc1049a/1920x1080.jpg?t=1671605003938"
-        },
-        {
-          "id": "bisher-keine-ergebnisse-bei-suche-nach-verschollenem-titanic-tauchboot-102",
-          "author": null,
-          "description": "Nach wie vor gibt es von einem im Atlantik vermutlich in tausenden Metern Tiefe verschollenen Tauchboot mit fünf Menschen an Bord keine Spur.",
-          "link": "https://www.deutschlandfunk.de/bisher-keine-ergebnisse-bei-suche-nach-verschollenem-titanic-tauchboot-102.html",
-          "publishedOn": "2023-06-21T00:01:24.000Z",
-          "wordCount": 737,
-          "title": "\"Titan\" - Bisher keine Ergebnisse bei Suche nach verschollenem Titanic-Tauchboot",
-          "imageUrl": null
-        },
-        {
-          "id": "historisches-ausmass-an-wassermangel-in-uruguay-montevideo-ruft-den-notstand-aus-104",
-          "author": null,
-          "description": "Uruguays Präsident Lacalle Pou hat wegen Wassermangels den Notstand für die Hauptstadt Montevideo ausgerufen.",
-          "link": "https://www.deutschlandfunk.de/historisches-ausmass-an-wassermangel-in-uruguay-montevideo-ruft-den-notstand-aus-104.html",
-          "publishedOn": "2023-06-21T00:01:24.000Z",
-          "wordCount": 752,
-          "title": "Dürre-Katastrophe - Historisches Ausmaß an Wassermangel in Uruguay - Montevideo ruft den Notstand aus",
-          "imageUrl": "https://assets.deutschlandfunk.de/4b06818e-cb39-4fdf-8f86-c389948a79c0/1920x1080.jpg?t=1687286205842"
-        },
-        {
-          "id": "niedrigwasser-am-rhein-bereitet-wirtschaft-erneut-sorgen-106",
-          "author": null,
-          "description": "Der niedrige Wasserstand des Rheins bereitet der Wirtschaft auch in diesem Jahr Sorgen.",
-          "link": "https://www.deutschlandfunk.de/niedrigwasser-am-rhein-bereitet-wirtschaft-erneut-sorgen-106.html",
-          "publishedOn": "2023-06-21T00:01:24.000Z",
-          "wordCount": 742,
-          "title": "Trockenheit - Niedrigwasser am Rhein bereitet Wirtschaft erneut Sorgen",
-          "imageUrl": "https://assets.deutschlandfunk.de/d00305a3-ce01-4977-bcb6-11d2c281dcb2/1920x1080.jpg?t=1687277163210"
-        },
-        {
-          "id": "rohoellieferung-aus-kasachstan-fuer-raffinerie-schwedt-vereinbart-104",
-          "author": null,
-          "description": "Die Raffinerie PCK im brandenburgischen Schwedt soll bis Ende 2024 mit Rohöl aus Kasachstan beliefert werden.",
-          "link": "https://www.deutschlandfunk.de/rohoellieferung-aus-kasachstan-fuer-raffinerie-schwedt-vereinbart-104.html",
-          "publishedOn": "2023-06-21T00:01:24.000Z",
-          "wordCount": 689,
-          "title": "Steinmeier auf Staatsbesuch - Rohöllieferung aus Kasachstan für Raffinerie Schwedt vereinbart",
-          "imageUrl": "https://assets.deutschlandfunk.de/1a293b7f-4b83-4d88-8586-19f04b881a03/1920x1080.jpg?t=1687244076270"
-        },
-        {
-          "id": "biden-sohn-gesteht-steuervergehen-und-illegalen-waffenbesitz-100",
-          "author": null,
-          "description": "Der Sohn von US-Präsident Biden hat Steuervergehen und illegalen Waffenbesitz gestanden.",
-          "link": "https://www.deutschlandfunk.de/biden-sohn-gesteht-steuervergehen-und-illegalen-waffenbesitz-100.html",
-          "publishedOn": "2023-06-21T00:01:24.000Z",
-          "wordCount": 720,
-          "title": "Ermittlungsverfahren - Biden-Sohn gesteht Steuervergehen und illegalen Waffenbesitz",
-          "imageUrl": "https://assets.deutschlandfunk.de/659c2da9-cc51-4f49-ad7b-f9e600a540cb/1920x1080.jpg?t=1687294670006"
-        },
-        {
-          "id": "praesidentin-caputova-will-nicht-fuer-eine-zweite-amtszeit-kandidieren-108",
-          "author": null,
-          "description": "Die slowakische Präsidentin Caputova will bei der Präsidentschaftswahl im kommenden Frühjahr nicht für eine zweite Amtszeit kandidieren.",
-          "link": "https://www.deutschlandfunk.de/praesidentin-caputova-will-nicht-fuer-eine-zweite-amtszeit-kandidieren-108.html",
-          "publishedOn": "2023-06-21T00:01:24.000Z",
-          "wordCount": 678,
-          "title": "Slowakei - Präsidentin Caputova will nicht für eine zweite Amtszeit kandidieren",
-          "imageUrl": "https://assets.deutschlandfunk.de/FILE_cc9c8fc91672ea42eea6dfa5e332d9f5/1920x1080.jpg?t=1597620355618"
-        },
-        {
-          "id": "frankreich-setzt-alter-fuer-unbegleitetes-fahren-auf-17-jahre-herab-102",
-          "author": null,
-          "description": "In Frankreich darf man künftig schon im Alter von 17 statt wie derzeit von 18 Jahren allein Auto fahren.",
-          "link": "https://www.deutschlandfunk.de/frankreich-setzt-alter-fuer-unbegleitetes-fahren-auf-17-jahre-herab-102.html",
-          "publishedOn": "2023-06-21T00:01:24.000Z",
-          "wordCount": 718,
-          "title": "Fahrerlaubnis - Frankreich setzt Alter für unbegleitetes Fahren auf 17 Jahre herab",
-          "imageUrl": "https://assets.deutschlandfunk.de/773315a8-a2d7-4274-8085-52b745106b5d/1920x1080.jpg?t=1687282636534"
-        },
-        {
-          "id": "bundespraesident-steinmeier-wuerdigt-ex-us-aussenminister-kissinger-bei-dessen-heimatbesuch-in-fuert-100",
-          "author": null,
-          "description": "Bundespräsident Steinmeier hat den früheren US-Außenminister Kissinger anlässlich dessen Heimatbesuchs in Fürth gewürdigt.",
-          "link": "https://www.deutschlandfunk.de/bundespraesident-steinmeier-wuerdigt-ex-us-aussenminister-kissinger-bei-dessen-heimatbesuch-in-fuert-100.html",
-          "publishedOn": "2023-06-21T00:01:24.000Z",
-          "wordCount": 736,
-          "title": "Bayern - Bundespräsident Steinmeier würdigt Ex-US-Außenminister Kissinger bei dessen Heimatbesuch in Fürth",
-          "imageUrl": "https://assets.deutschlandfunk.de/4a602eee-4116-41da-be9a-5130af17ccd6/1920x1080.jpg?t=1687291324428"
-        },
-        {
-          "id": "evg-erzielt-tarifabschluesse-mit-privatbahnen-110",
-          "author": null,
-          "description": "Die Gewerkschaft EVG hat mit mehreren privaten Bahnunternehmen Abschlüsse für neue Tarifverträge erzielt.",
-          "link": "https://www.deutschlandfunk.de/evg-erzielt-tarifabschluesse-mit-privatbahnen-110.html",
-          "publishedOn": "2023-06-21T00:01:24.000Z",
-          "wordCount": 705,
-          "title": "Bahnverkehr - EVG erzielt Tarifabschlüsse mit Privatbahnen",
-          "imageUrl": "https://assets.deutschlandfunk.de/901c7740-f2a5-4a77-8208-dfd82913f996/1920x1080.jpg?t=1675770431191"
-        },
-        {
-          "id": "tischtennis-legende-diane-schoeler-mit-90-jahren-gestorben-108",
-          "author": null,
-          "description": "Die ehemalige Tischtennis-Weltmeisterin Diane Schöler ist tot.",
-          "link": "https://www.deutschlandfunk.de/tischtennis-legende-diane-schoeler-mit-90-jahren-gestorben-108.html",
-          "publishedOn": "2023-06-21T00:01:24.000Z",
-          "wordCount": 749,
-          "title": "DTTB - Tischtennis-Legende Diane Schöler mit 90 Jahren gestorben",
-          "imageUrl": "https://assets.deutschlandfunk.de/c9a3b980-8820-4eaa-b18c-a8cc72a75a5b/1920x1080.jpg?t=1687290795938"
-        },
-        {
-          "id": "deutschlands-basketballerinnen-erstmals-seit-1997-im-viertelfinale-106",
-          "author": null,
-          "description": "Die deutschen Basketballerinnen stehen erstmals seit 26 Jahren im Viertelfinale einer Europameisterschaft.",
-          "link": "https://www.deutschlandfunk.de/deutschlands-basketballerinnen-erstmals-seit-1997-im-viertelfinale-106.html",
-          "publishedOn": "2023-06-21T00:01:24.000Z",
-          "wordCount": 670,
-          "title": "Europameisterschaft - Deutschlands Basketballerinnen erstmals seit 1997 im Viertelfinale",
-          "imageUrl": "https://assets.deutschlandfunk.de/7bd5c9a7-9583-4364-94fe-de5f7d739d78/1920x1080.jpg?t=1687287181876"
-        },
-        {
-          "id": "in-der-nacht-gewitter-21-bis-15-grad-108",
-          "author": null,
-          "description": "Das Wetter: In der Nacht im Westen, im Südwesten und Süden einige Gewitter, dabei Unwetter durch starken Regen, Hagel und schwere Sturmböen, die später weiter ostwärts ziehen. 21 bis 15 Grad. Am Tag wechselnd bewölkt, gebietsweise Schauer. Wieder Unwetter mit Starkregen, Hagel und Sturmböen möglich. 25 bis 33 Grad.",
-          "link": "https://www.deutschlandfunk.de/in-der-nacht-gewitter-21-bis-15-grad-108.html",
-          "publishedOn": "2023-06-21T00:01:24.000Z",
-          "wordCount": 705,
-          "title": "Wetter - In der Nacht Gewitter - 21 bis 15 Grad",
           "imageUrl": "https://assets.deutschlandfunk.de/FILE_87984961f0c901d08d919ad9e3a61080/1920x1080.jpg?t=1597573950904"
         }
       ]
