@@ -6,6 +6,206 @@
       "siteUrl": "https://stadt-bremerhaven.de",
       "articles": [
         {
+          "id": "https://stadt-bremerhaven.de/?p=1187963",
+          "author": "caschy",
+          "description": "Nicht nur die FRITZ!Box 7490 hat heute ihr Update auf FRITZ!OS 7.56 bekommen, auch das Update des FRITZ!Repeater 600 (v1 und v2) ist erschienen und komplettiert somit den Repeater-Update-Reigen. Beide Geräte bekommen so neue Leistungsmerkmale, die wir hier einmal für...\nZum Beitrag: FRITZ!OS 7.56 für den FRITZ!Repeater 600\r\n\r\nZum Blog: Caschys Blog\r\n\r\nDer RSS-Feed kann auch als Werbemittel gebucht werden. Mit ihm kann man über 55.000 Abonnenten erreichen. Schreibt uns gerne an.",
+          "link": "https://stadt-bremerhaven.de/fritzos-7-56-fuer-den-fritzrepeater-600/",
+          "publishedOn": "2023-07-25T18:11:29.000Z",
+          "wordCount": 2386,
+          "title": "FRITZ!OS 7.56 für den FRITZ!Repeater 600",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2021/02/AVM-1.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1187960",
+          "author": "caschy",
+          "description": "Nutzer von Windows 10 (22H2) und Nutzer von Windows 11 (21H2) können einmal bei Interesse proaktiv nach Juli-Updates suchen, denn Microsoft hat die nicht-sicherheitsrelevanten Vorschau-Updates für beide Versionen veröffentlicht. Das vollständige Änderungsprotokoll könnt ihr einsehen, wenn ihr dem Link zum...\nZum Beitrag: Windows 10 und Windows 11: Nicht-sicherheitsrelevante Vorschau-Updates sind da\r\n\r\nZum Blog: Caschys Blog\r\n\r\nDer RSS-Feed kann auch als Werbemittel gebucht werden. Mit ihm kann man über 55.000 Abonnenten erreichen. Schreibt uns gerne an.",
+          "link": "https://stadt-bremerhaven.de/windows-10-und-windows-11-nicht-sicherheitsrelevante-vorschau-updates-sind-da/",
+          "publishedOn": "2023-07-25T17:19:00.000Z",
+          "wordCount": 2175,
+          "title": "Windows 10 und Windows 11: Nicht-sicherheitsrelevante Vorschau-Updates sind da",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2023/02/Windows-11_.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1186829",
+          "author": "caschy",
+          "description": "Kürzlich hat Apple die Developer Beta 3 für iOS und iPadOS an Entwickler rausgeschoben, die allerdings nur ein paar kleine Verbesserungen mitbrachte. Grundsätzlich ist die Developer Beta 3 die Version, die auch letztens zur ersten Public Beta von iOS 17...\nZum Beitrag: iOS 17: Neue Betaversion steht für Entwickler bereit\r\n\r\nZum Blog: Caschys Blog\r\n\r\nDer RSS-Feed kann auch als Werbemittel gebucht werden. Mit ihm kann man über 55.000 Abonnenten erreichen. Schreibt uns gerne an.",
+          "link": "https://stadt-bremerhaven.de/ios-17-neue-betaversion-steht-fuer-entwickler-bereit/",
+          "publishedOn": "2023-07-25T17:11:08.000Z",
+          "wordCount": 2198,
+          "title": "iOS 17: Neue Betaversion steht für Entwickler bereit",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2023/06/IMAGE-2023-06-05-193438.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1187953",
+          "author": "caschy",
+          "description": "In diesem Herbst wird ein Film 50 Jahre alt, von dem wohl schon jeder gehört hat. Der Exorzist ist ein Horrorfilm aus dem Jahr 1973. Er beruht auf dem Roman Der Exorzist von William Peter Blatty, der auch das Drehbuch...\nZum Beitrag: Offizieller Trailer: The Exorcist: Believer\r\n\r\nZum Blog: Caschys Blog\r\n\r\nDer RSS-Feed kann auch als Werbemittel gebucht werden. Mit ihm kann man über 55.000 Abonnenten erreichen. Schreibt uns gerne an.",
+          "link": "https://stadt-bremerhaven.de/offizieller-trailer-the-exorcist-believer/",
+          "publishedOn": "2023-07-25T17:08:59.000Z",
+          "wordCount": 2174,
+          "title": "Offizieller Trailer: The Exorcist: Believer",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2023/07/exorzist-2.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1187915",
+          "author": "André Westphal",
+          "description": "Meta hat mit „Horizon Worlds“ eine virtuelle Umgebung geschaffen, die angeblich noch nicht mal bei den Angestellten des Unternehmens sonderlich beliebt ist. Die ersten Gehversuche in Richtung Metaverse verbrennen damit bisher in erster Linie Geld. Irgendwie will man aber die...\nZum Beitrag: Metas „Horizon Worlds“ führt Quests ein\r\n\r\nZum Blog: Caschys Blog\r\n\r\nDer RSS-Feed kann auch als Werbemittel gebucht werden. Mit ihm kann man über 55.000 Abonnenten erreichen. Schreibt uns gerne an.",
+          "link": "https://stadt-bremerhaven.de/metas-horizon-worlds-fuehrt-quests-ein/",
+          "publishedOn": "2023-07-25T16:30:47.000Z",
+          "wordCount": 2177,
+          "title": "Metas „Horizon Worlds“ führt Quests ein",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2023/07/Horizon-Worlds-Update-120.jpeg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1187946",
+          "author": "caschy",
+          "description": "Sonos hat die Software-Version 15.6 veröffentlicht. Da hat man nun schlussendlich die Möglichkeit entfernt, die Sonos-App für iOS über die Bedienelemente des Sperrbildschirms und die Hardwaretasten des Geräts zu steuern. Die Art und Weise, wie diese Funktionen entwickelt wurden, entspricht...\nZum Beitrag: Sonos 15.6: App-Update entfernt Steuerungsmöglichkeit für iOS\r\n\r\nZum Blog: Caschys Blog\r\n\r\nDer RSS-Feed kann auch als Werbemittel gebucht werden. Mit ihm kann man über 55.000 Abonnenten erreichen. Schreibt uns gerne an.",
+          "link": "https://stadt-bremerhaven.de/sonos-15-6-app-update-entfernt-steuerungsmoeglichkeit-fuer-ios/",
+          "publishedOn": "2023-07-25T16:04:50.000Z",
+          "wordCount": 2365,
+          "title": "Sonos 15.6: App-Update entfernt Steuerungsmöglichkeit für iOS",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2023/05/sonos-app-update_.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1187937",
+          "author": "caschy",
+          "description": "Von vielen Medien wird der Arc Browser regelrecht abgefeiert – nun ist er ohne Warteliste als direkter Download verfügbar. Der auf Chromium basierende Browser soll laut der Macher »das System des Internets« werden. Über 17 Millionen Dollar hat man bisher...\nZum Beitrag: Arc Browser: Download ohne Warteliste\r\n\r\nZum Blog: Caschys Blog\r\n\r\nDer RSS-Feed kann auch als Werbemittel gebucht werden. Mit ihm kann man über 55.000 Abonnenten erreichen. Schreibt uns gerne an.",
+          "link": "https://stadt-bremerhaven.de/arc-browser-download-ohne-warteliste/",
+          "publishedOn": "2023-07-25T15:44:22.000Z",
+          "wordCount": 3075,
+          "title": "Arc Browser: Download ohne Warteliste",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2023/07/arc-browser-1-2.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1187775",
+          "author": "André Westphal",
+          "description": "vivo hat im Rahmen des hauseigenen Imaging-Festivals, das in China vom 23. Juli 2023 bis 31. Juli 2023 läuft, einen neuen Chip angekündigt: den Imaging-Chip V3. Der soll mehrere neue Funktionen für Fotos und Videos ermöglichen. Ins Detail gegangen ist...\nZum Beitrag: vivo v3: Neuer Imaging-Chip ermöglicht 4K-Videos im Porträt-Modus\r\n\r\nZum Blog: Caschys Blog\r\n\r\nDer RSS-Feed kann auch als Werbemittel gebucht werden. Mit ihm kann man über 55.000 Abonnenten erreichen. Schreibt uns gerne an.",
+          "link": "https://stadt-bremerhaven.de/vivo-v3-neuer-imaging-chip-ermoeglicht-4k-videos-im-portraet-modus/",
+          "publishedOn": "2023-07-25T15:00:21.000Z",
+          "wordCount": 2122,
+          "title": "vivo v3: Neuer Imaging-Chip ermöglicht 4K-Videos im Porträt-Modus",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2023/07/vivo-v3.jpeg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1187674",
+          "author": "André Westphal",
+          "description": "Samsung Electronics bezieht bereits WOLED-Panels von LG Display. So bringt der Hersteller einen neuen Fernseher mit 83 Zoll auf den Markt, der sich in die Riege der S90C einordnen wird. Das ist einigermaßen verwirrend, da die restlichen Diagonalen der S90C-Modellreihe...\nZum Beitrag: Samsung plant weitere OLED-TVs mit Panels von LG Display\r\n\r\nZum Blog: Caschys Blog\r\n\r\nDer RSS-Feed kann auch als Werbemittel gebucht werden. Mit ihm kann man über 55.000 Abonnenten erreichen. Schreibt uns gerne an.",
+          "link": "https://stadt-bremerhaven.de/samsung-plant-weitere-oled-tvs-mit-panels-von-lg-display/",
+          "publishedOn": "2023-07-25T14:30:50.000Z",
+          "wordCount": 2250,
+          "title": "Samsung plant weitere OLED-TVs mit Panels von LG Display",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2023/05/Samsung-S95c.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1187884",
+          "author": "caschy",
+          "description": "Audi integriert die Videoplattform YouTube in das Infotainmentsystem ausgewählter Modelle. Durch die Integration des neuen App-Stores können Kunden über eine Datenverbindung im Fahrzeug direkt über das Multimedia Interface (MMI) auf beliebte Apps von Drittanbietern zugreifen. Erstmals im Store verfügbar ist...\nZum Beitrag: Audi integriert YouTube in eine Vielzahl seiner Modelle\r\n\r\nZum Blog: Caschys Blog\r\n\r\nDer RSS-Feed kann auch als Werbemittel gebucht werden. Mit ihm kann man über 55.000 Abonnenten erreichen. Schreibt uns gerne an.",
+          "link": "https://stadt-bremerhaven.de/audi-integriert-youtube-in-eine-vielzahl-seiner-modelle/",
+          "publishedOn": "2023-07-25T14:00:58.000Z",
+          "wordCount": 2446,
+          "title": "Audi integriert YouTube in eine Vielzahl seiner Modelle",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2023/07/A234131_overfull-2.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1187872",
+          "author": "caschy",
+          "description": "Ein schlecht gehütetes Geheimnis ist gelüftet worden, die Drohne DJI Air 3 ist offiziell. Im Gimbal hat man zwei Kamerasensoren verbaut, im Vergleich zur regulären Mavic-3-Serie verzichtet man aber auf die Kooperation mit Hasselblad. 720 Gramm wiegt das neue Modell,...\nZum Beitrag: DJI Air 3: Neue Drohne ist ab 1.100 Euro zu haben\r\n\r\nZum Blog: Caschys Blog\r\n\r\nDer RSS-Feed kann auch als Werbemittel gebucht werden. Mit ihm kann man über 55.000 Abonnenten erreichen. Schreibt uns gerne an.",
+          "link": "https://stadt-bremerhaven.de/dji-air-3-neue-drohne-ist-ab-1-100-euro-zu-haben/",
+          "publishedOn": "2023-07-25T13:22:14.000Z",
+          "wordCount": 2428,
+          "title": "DJI Air 3: Neue Drohne ist ab 1.100 Euro zu haben",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2023/07/dji-air-3.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1187862",
+          "author": "André Westphal",
+          "description": "Das Spiel „Ratchet & Clank: Rift Apart“ habe ich bei Erscheinen für die PS5 getestet. Ab morgen gibt es dann auch die PC-Version im Handel. Wie Nvidia mitgeteilt hat, wird jene Version auch durch DLSS 3 beschleunigt. Das heißt, ihr...\nZum Beitrag: „Ratchet & Clank: Rift Apart“ unterstützt DLSS 3 und Nvidia Reflex sowie RTX IO\r\n\r\nZum Blog: Caschys Blog\r\n\r\nDer RSS-Feed kann auch als Werbemittel gebucht werden. Mit ihm kann man über 55.000 Abonnenten erreichen. Schreibt uns gerne an.",
+          "link": "https://stadt-bremerhaven.de/ratchet-clank-rift-apart-unterstuetzt-dlss-3-und-nvidia-reflex-sowie-rtx-io/",
+          "publishedOn": "2023-07-25T13:00:04.000Z",
+          "wordCount": 2190,
+          "title": "„Ratchet & Clank: Rift Apart“ unterstützt DLSS 3 und Nvidia Reflex sowie RTX IO",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2021/06/Ratchet-Clank-Rift-Apart.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1187792",
+          "author": "caschy",
+          "description": "Bald stehen neue Samsung-Geräte ins Haus – und mit Android 14 wird zeitnah auch eine neue Android-Version zur Verfügung stehen. Kein Wunder, dass da auch schon Samsung testet. Samsungs Android-Überzug heißt One UI und da hat man nach internen Tests...\nZum Beitrag: Galaxy S23, S23+ und Galaxy S23 Ultra: Samsung One UI 6 startet bald in die Beta\r\n\r\nZum Blog: Caschys Blog\r\n\r\nDer RSS-Feed kann auch als Werbemittel gebucht werden. Mit ihm kann man über 55.000 Abonnenten erreichen. Schreibt uns gerne an.",
+          "link": "https://stadt-bremerhaven.de/samsung-one-ui-6-startet-bald/",
+          "publishedOn": "2023-07-25T12:30:08.000Z",
+          "wordCount": 2230,
+          "title": "Galaxy S23, S23+ und Galaxy S23 Ultra: Samsung One UI 6 startet bald in die Beta",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2023/02/Galaxy-S23-Series_Image_02_LI.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1187829",
+          "author": "caschy",
+          "description": "Spotify hat in vielen Ländern die Preise erhöht – in Deutschland kann man derzeit noch zu den alten Preisen den Musik-Dienst abonnieren. Nun hat Spotify auch seine Quartalszahlen veröffentlicht, wobei für Interessierte sicher die nächsten ein bis zwei Quartale spannend...\nZum Beitrag: Spotify mit starkem Hörerwachstum\r\n\r\nZum Blog: Caschys Blog\r\n\r\nDer RSS-Feed kann auch als Werbemittel gebucht werden. Mit ihm kann man über 55.000 Abonnenten erreichen. Schreibt uns gerne an.",
+          "link": "https://stadt-bremerhaven.de/spotify-mit-starkem-hoererwachstum/",
+          "publishedOn": "2023-07-25T12:00:26.000Z",
+          "wordCount": 2209,
+          "title": "Spotify mit starkem Hörerwachstum",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2023/07/SpotifyLogo-FTRHeader_V1-1920x733-1.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1187851",
+          "author": "caschy",
+          "description": "Das dürfte sicherlich eine nette Überraschung für Besitzer der alten FRITZ!Box 7490 sein – denn die Box bekommt derzeit das neue RITZ!OS 7.56 verpasst. Damit einhergehend gibt es für die Box zahlreiche Neuerungen und Verbesserungen – unter anderem: FRITZ!OS 7.56...\nZum Beitrag: FRITZ!Box 7490 bekommt FRITZ!OS 7.56\r\n\r\nZum Blog: Caschys Blog\r\n\r\nDer RSS-Feed kann auch als Werbemittel gebucht werden. Mit ihm kann man über 55.000 Abonnenten erreichen. Schreibt uns gerne an.",
+          "link": "https://stadt-bremerhaven.de/fritzbox-7490-bekommt-fritzos-7-56/",
+          "publishedOn": "2023-07-25T11:59:56.000Z",
+          "wordCount": 3529,
+          "title": "FRITZ!Box 7490 bekommt FRITZ!OS 7.56",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2021/02/AVM-1.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1187827",
+          "author": "André Westphal",
+          "description": "Ich hatte heute aufgegriffen, dass die offizielle Amazon.de Visa Karte eingestellt wird. Die Landesbank Berlin (LBB) und Amazon.de haben das Ende ihrer Kooperation beschlossen. Die LBB wird euch auch ein Anschlussangebot machen, das aber auf mich persönlich recht unattraktiv wirkt....\nZum Beitrag: Amazon.de Visa Karte: Nachfolge wird vorbereitet\r\n\r\nZum Blog: Caschys Blog\r\n\r\nDer RSS-Feed kann auch als Werbemittel gebucht werden. Mit ihm kann man über 55.000 Abonnenten erreichen. Schreibt uns gerne an.",
+          "link": "https://stadt-bremerhaven.de/amazon-de-visa-karte-nachfolge-wird-vorbereitet/",
+          "publishedOn": "2023-07-25T11:18:01.000Z",
+          "wordCount": 4461,
+          "title": "Amazon.de Visa Karte: Nachfolge wird vorbereitet",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2021/11/Amazon-Logo.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1187769",
+          "author": "André Westphal",
+          "description": "Kürzlich hat unser Gastautor Timo erst das Ayaneo 2S getestet. Doch es hatten sich auch noch weitere der PC-Gaming-Hanhelds am Horizont abgezeichnet. Eines davon ist das Ayaeno Kun. Mittlerweile liegen zu diesem Modell weitere Informationen vor und es ist auch...\nZum Beitrag: Ayaneo Kun: Neues Gaming-Handheld mit Windows 11 vorgestellt\r\n\r\nZum Blog: Caschys Blog\r\n\r\nDer RSS-Feed kann auch als Werbemittel gebucht werden. Mit ihm kann man über 55.000 Abonnenten erreichen. Schreibt uns gerne an.",
+          "link": "https://stadt-bremerhaven.de/ayaneo-kun-neues-gaming-handheld-mit-windows-11-vorgestellt/",
+          "publishedOn": "2023-07-25T11:00:29.000Z",
+          "wordCount": 2251,
+          "title": "Ayaneo Kun: Neues Gaming-Handheld mit Windows 11 vorgestellt",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2023/07/Ayaneo-Kun.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1187815",
+          "author": "caschy",
+          "description": "Der EU-Rat hat heute eine Verordnung für eine Infrastruktur für alternative Kraftstoffe angenommen. Nach der heutigen Annahme der Verordnung über den Aufbau der Infrastruktur für alternative Kraftstoffe werden in den kommenden Jahren in ganz Europa mehr Ladestationen und Tankstellen für...\nZum Beitrag: EU-Rat für mehr Ladestationen und Tankstellen in ganz Europa\r\n\r\nZum Blog: Caschys Blog\r\n\r\nDer RSS-Feed kann auch als Werbemittel gebucht werden. Mit ihm kann man über 55.000 Abonnenten erreichen. Schreibt uns gerne an.",
+          "link": "https://stadt-bremerhaven.de/eu-rat-fuer-mehr-ladestationen-und-tankstellen-in-ganz-europa/",
+          "publishedOn": "2023-07-25T10:26:24.000Z",
+          "wordCount": 2768,
+          "title": "EU-Rat für mehr Ladestationen und Tankstellen in ganz Europa",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/07/lader-auto-elektrik-e-autopossessed-photography-znCLdh5-Srk-unsplash_.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1187763",
+          "author": "André Westphal",
+          "description": "# Microsoft hat eine Kooperation mit Nickelodeon bzw. Paramount Pictures bestätigt. Das Ergebnis ist ein limitierter Xbox-Controller im Stil des kommenden Kinofilms „Teenage Mutant Ninja Turtles: Mutant Mayhem“. Nicht nur das Design soll an die mutierten Schildkröten erinnern, auch der...\nZum Beitrag: Microsoft veröffentlicht Xbox-Controller im „TMNT“-Design mit Pizzageruch\r\n\r\nZum Blog: Caschys Blog\r\n\r\nDer RSS-Feed kann auch als Werbemittel gebucht werden. Mit ihm kann man über 55.000 Abonnenten erreichen. Schreibt uns gerne an.",
+          "link": "https://stadt-bremerhaven.de/microsoft-veroeffentlicht-xbox-controller-im-tmnt-design-mit-pizzageruch/",
+          "publishedOn": "2023-07-25T10:00:48.000Z",
+          "wordCount": 2291,
+          "title": "Microsoft veröffentlicht Xbox-Controller im „TMNT“-Design mit Pizzageruch",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2023/07/Turtles-Xbox.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1187809",
+          "author": "caschy",
+          "description": "Die HypoVereinsbank informiert gerade ihre Kunden, dass man den Service paydirekt – Betreiber des Zahlungsverfahrens giropay – zum 9. Oktober 2023 einstellen wird. Ab diesem Zeitpunkt können die Kunden der HypoVereinsbank diese Dienstleistung nicht mehr nutzen. Die Bank verweist auf...\nZum Beitrag: HypoVereinsbank: Service giropay/paydirekt wird eingestellt\r\n\r\nZum Blog: Caschys Blog\r\n\r\nDer RSS-Feed kann auch als Werbemittel gebucht werden. Mit ihm kann man über 55.000 Abonnenten erreichen. Schreibt uns gerne an.",
+          "link": "https://stadt-bremerhaven.de/hypovereinsbank-service-giropay-paydirekt-wird-eingestellt/",
+          "publishedOn": "2023-07-25T09:52:16.000Z",
+          "wordCount": 2357,
+          "title": "HypoVereinsbank: Service giropay/paydirekt wird eingestellt",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2023/07/hypo-logo-2.jpg"
+        },
+        {
           "id": "https://stadt-bremerhaven.de/?p=1187701",
           "author": "caschy",
           "description": "Großer Relase-Tag bei Apple. Das Unternehmen hat einen ganzen Schwung an Software-Updates veröffentlicht. Ab sofort stehen die folgenden Softwareversionen für euch zum Download bereit: iOS 16.6 iPadOS 16.6 watchOS 9.6 tvOS 16.6 macOS 13.5 HomePod Software 16.6 Auch ältere Versionen...\nZum Beitrag: iOS 16.6, iPadOS 16.6, macOS 13.5 und mehr veröffentlicht\r\n\r\nZum Blog: Caschys Blog\r\n\r\nDer RSS-Feed kann auch als Werbemittel gebucht werden. Mit ihm kann man über 55.000 Abonnenten erreichen. Schreibt uns gerne an.",
@@ -5064,136 +5264,6 @@
           "wordCount": 2408,
           "title": "IKEA Parasoll: Neuer Tür- und Fenstersensor aufgetaucht",
           "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2023/01/ikea-logo_.jpg"
-        },
-        {
-          "id": "https://stadt-bremerhaven.de/?p=1183266",
-          "author": "caschy",
-          "description": "Ab sofort können Kunden ihre Tickets (mit Ausnahme von digitalen Abos wie z. B. dem Deutschland-Ticket), die über die App DB Navigator oder die Webseite bahn.de gebucht worden sind, auch in der App Next DB Navigator abrufen. Auf der Webseite...\nZum Beitrag: Next DB Navigator: Tickets aus dem DB Navigator abrufbar\r\n\r\nZum Blog: Caschys Blog\r\n\r\nDer RSS-Feed kann auch als Werbemittel gebucht werden. Mit ihm kann man über 55.000 Abonnenten erreichen. Schreibt uns gerne an.",
-          "link": "https://stadt-bremerhaven.de/next-db-navigator-tickets-aus-dem-db-navigator-abrufbar/",
-          "publishedOn": "2023-06-26T13:24:26.000Z",
-          "wordCount": 2304,
-          "title": "Next DB Navigator: Tickets aus dem DB Navigator abrufbar",
-          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2023/06/db-next-sync.jpg"
-        },
-        {
-          "id": "https://stadt-bremerhaven.de/?p=1183261",
-          "author": "caschy",
-          "description": "IKEA steht vor der Veröffentlichung eines neuen Sensors. Dieser hört auf den Namen „IKEA Vallhorn“. Der Bewegungssensor ist bei der US-amerikanischen FCC (Federal Communications Commission (zu Deutsch „Bundeskommunikationskommission“)) aufgetaucht. Die FCC regelt die Kommunikationswege Rundfunk, Satellit und Kabel und dort...\nZum Beitrag: IKEA Vallhorn Bewegungssensor steht vor dem Start\r\n\r\nZum Blog: Caschys Blog\r\n\r\nDer RSS-Feed kann auch als Werbemittel gebucht werden. Mit ihm kann man über 55.000 Abonnenten erreichen. Schreibt uns gerne an.",
-          "link": "https://stadt-bremerhaven.de/ikea-vallhorn-bewegungssensor-steht-vor-dem-start/",
-          "publishedOn": "2023-06-26T13:11:27.000Z",
-          "wordCount": 2087,
-          "title": "IKEA Vallhorn Bewegungssensor steht vor dem Start",
-          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2023/01/ikea-logo_.jpg"
-        },
-        {
-          "id": "https://stadt-bremerhaven.de/?p=1183256",
-          "author": "caschy",
-          "description": "Qualcomm hat einen neuen Chip für Budget-Smartphones vorgestellt, den Qualcomm Snapdragon 4 Gen 2. Der neue Snapdragon 4 Gen 2 ist mit Kryo-Kernen mit einer maximalen Frequenz von 2,2 GHz ausgestattet. Für die Kommunikation auf dem Chip sorgt das X61-5GB-Modern-RF-Modem...\nZum Beitrag: Qualcomm Snapdragon 4 Gen 2 ist offiziell\r\n\r\nZum Blog: Caschys Blog\r\n\r\nDer RSS-Feed kann auch als Werbemittel gebucht werden. Mit ihm kann man über 55.000 Abonnenten erreichen. Schreibt uns gerne an.",
-          "link": "https://stadt-bremerhaven.de/qualcomm-snapdragon-4-gen-2-ist-offiziell/",
-          "publishedOn": "2023-06-26T12:45:12.000Z",
-          "wordCount": 2150,
-          "title": "Qualcomm Snapdragon 4 Gen 2 ist offiziell",
-          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2023/06/snapdragon-4-gen-2-2.jpg"
-        },
-        {
-          "id": "https://stadt-bremerhaven.de/?p=1183252",
-          "author": "caschy",
-          "description": "Der Kamera-Hersteller Arlo hat mal wieder einige seiner Modelle reduziert. Der Grund dafür könnte sein, dass vielleicht bald neue Modele ins Haus stehen. Zwei neue Produkte, zu denen jetzt noch die genauen Details fehlen, sind schon erspäht worden. Da wird...\nZum Beitrag: Arlo: Neue Kameras stehen vor der Vorstellung\r\n\r\nZum Blog: Caschys Blog\r\n\r\nDer RSS-Feed kann auch als Werbemittel gebucht werden. Mit ihm kann man über 55.000 Abonnenten erreichen. Schreibt uns gerne an.",
-          "link": "https://stadt-bremerhaven.de/arlo-neue-kameras-stehen-vor-der-vorstellung/",
-          "publishedOn": "2023-06-26T12:15:37.000Z",
-          "wordCount": 2073,
-          "title": "Arlo: Neue Kameras stehen vor der Vorstellung",
-          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2023/06/arlo-v2.jpeg"
-        },
-        {
-          "id": "https://stadt-bremerhaven.de/?p=1183246",
-          "author": "caschy",
-          "description": "Das wäre eine Schlappe für viele Nutzer von Netflix, denen bisher der Basis-Plan ausreicht. Netflix hat mittlerweile Schritte gegen das Account-Sharing eingeführt und zudem noch das werbefinanzierte Abo an den Start gebracht. In Kanada ist man derzeit einen Schritt weiter...\nZum Beitrag: Netflix beginnt, das Basis-Abo zu streichen\r\n\r\nZum Blog: Caschys Blog\r\n\r\nDer RSS-Feed kann auch als Werbemittel gebucht werden. Mit ihm kann man über 55.000 Abonnenten erreichen. Schreibt uns gerne an.",
-          "link": "https://stadt-bremerhaven.de/netflix-beginnt-das-basis-abo-zu-streichen/",
-          "publishedOn": "2023-06-26T11:47:22.000Z",
-          "wordCount": 3899,
-          "title": "Netflix beginnt, das Basis-Abo zu streichen",
-          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/10/Netflix_Logo_RGB_.jpg"
-        },
-        {
-          "id": "https://stadt-bremerhaven.de/?p=1183204",
-          "author": "Olli",
-          "description": "Apple hat mit watchOS 10 ein paar Dinge im System angepasst. Unter anderem kümmert man sich nun auch etwas besser um die Apple-Watch-tragenden Fahrradfahrer. Die bekommen mit watchOS 10 nämlich neue Metriken. Diese werden aber vorrangig nur dann sichtbar, wenn...\nZum Beitrag: watchOS 10: Das sind die neuen Metriken für Radfahrer\r\n\r\nZum Blog: Caschys Blog\r\n\r\nDer RSS-Feed kann auch als Werbemittel gebucht werden. Mit ihm kann man über 55.000 Abonnenten erreichen. Schreibt uns gerne an.",
-          "link": "https://stadt-bremerhaven.de/watchos-10-das-sind-die-neuen-metriken-fuer-radfahrer/",
-          "publishedOn": "2023-06-26T11:00:44.000Z",
-          "wordCount": 3204,
-          "title": "watchOS 10: Das sind die neuen Metriken für Radfahrer",
-          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2023/06/85shots_so.jpg"
-        },
-        {
-          "id": "https://stadt-bremerhaven.de/?p=1183208",
-          "author": "Benjamin Mamerow",
-          "description": "Kennt ihr das Spiel „PayDay 2“ aus dem Jahr 2013 schon? Und vor allem all seine Erweiterungen? Wer das Multiplayer-Spiel schon einmal gezockt hat, weiß auch, wie spaßig und vor allem actionhaltig die Runden darin sein können. Für alle, die...\nZum Beitrag: Humble Bundle: „PayDay 2: Return of The Ultimate Score“-Bundle veröffentlicht\r\n\r\nZum Blog: Caschys Blog\r\n\r\nDer RSS-Feed kann auch als Werbemittel gebucht werden. Mit ihm kann man über 55.000 Abonnenten erreichen. Schreibt uns gerne an.",
-          "link": "https://stadt-bremerhaven.de/humble-bundle-payday-2-return-of-the-ultimate-score-bundle-veroeffentlicht/",
-          "publishedOn": "2023-06-26T11:00:19.000Z",
-          "wordCount": 2079,
-          "title": "Humble Bundle: „PayDay 2: Return of The Ultimate Score“-Bundle veröffentlicht",
-          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2023/06/payday-2-bundle.jpg"
-        },
-        {
-          "id": "https://stadt-bremerhaven.de/?p=1183242",
-          "author": "caschy",
-          "description": "Die ING Deutschland hebt die Zinsen beim Tagesgeld an. Dies kündigte Privatkundenchef Daniel Llano am heutigen Montag auf der Handelsblatt-Tagung Zukunft Retail Banking an. Die ING zahlt Neukunden ab Dienstag für sechs Monate 3,5 Prozent Zinsen. Auch für Bestandskunden hebe...\nZum Beitrag: Tagesgeld: ING hebt die Zinsen an\r\n\r\nZum Blog: Caschys Blog\r\n\r\nDer RSS-Feed kann auch als Werbemittel gebucht werden. Mit ihm kann man über 55.000 Abonnenten erreichen. Schreibt uns gerne an.",
-          "link": "https://stadt-bremerhaven.de/tagesgeld-ing-hebt-die-zinsen-an/",
-          "publishedOn": "2023-06-26T10:48:53.000Z",
-          "wordCount": 2825,
-          "title": "Tagesgeld: ING hebt die Zinsen an",
-          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2021/09/ING-Bank_cb09.jpg"
-        },
-        {
-          "id": "https://stadt-bremerhaven.de/?p=1183216",
-          "author": "Olli",
-          "description": "iOS 17 ist nun seit drei Wochen verfügbar und Tester konnten sich bisher einen guten Eindruck von dem verschaffen, was uns ab September / Oktober erwartet. Eine neue Funktion des Releases ist StandBy. Damit macht ihr aus eurem iPhone ein...\nZum Beitrag: iOS 17: StandBy bringt nützliche Informationen auf euren Schreibtisch\r\n\r\nZum Blog: Caschys Blog\r\n\r\nDer RSS-Feed kann auch als Werbemittel gebucht werden. Mit ihm kann man über 55.000 Abonnenten erreichen. Schreibt uns gerne an.",
-          "link": "https://stadt-bremerhaven.de/ios-17-standby-bringt-nuetzliche-informationen-auf-euren-schreibtisch/",
-          "publishedOn": "2023-06-26T10:30:12.000Z",
-          "wordCount": 2618,
-          "title": "iOS 17: StandBy bringt nützliche Informationen auf euren Schreibtisch",
-          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2023/06/IMG_0059.jpg"
-        },
-        {
-          "id": "https://stadt-bremerhaven.de/?p=1183229",
-          "author": "caschy",
-          "description": "Mark Gurman von Bloomberg spricht in seinem aktuellen Power-On-Newsletter von neuen Geräten, die Apple auf den Markt bringen soll. Da muss man sich natürlich nichts vormachen, über ein iPhone 15 muss man da nicht reden – ebenso wenig wie über...\nZum Beitrag: Bericht: Apple Watch Ultra 2 im Herbst, großer iMac in der Entwicklung\r\n\r\nZum Blog: Caschys Blog\r\n\r\nDer RSS-Feed kann auch als Werbemittel gebucht werden. Mit ihm kann man über 55.000 Abonnenten erreichen. Schreibt uns gerne an.",
-          "link": "https://stadt-bremerhaven.de/bericht-apple-watch-ultra-2-im-herbst-grosser-imac-in-der-entwicklung/",
-          "publishedOn": "2023-06-26T10:00:08.000Z",
-          "wordCount": 3799,
-          "title": "Bericht: Apple Watch Ultra 2 im Herbst, großer iMac in der Entwicklung",
-          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2023/06/apple-watch-ultra-alek-olson-BNJjDz3tdqA-unsplash-2.jpg"
-        },
-        {
-          "id": "https://stadt-bremerhaven.de/?p=1182314",
-          "author": "caschy",
-          "description": "Mitte März stellte Zendure mit SolarFlow das erste Plug-and-Play-Speichersystem des Unternehmens für Solarstrom auf dem Balkon vor. SolarFlow besteht aus einem PV-Hub und bis zu vier Batterien und kann mit handelsüblichen Balkon-Solarmodulen verwendet werden. Damit können Verbraucher tagsüber Solarenergie speichern...\nZum Beitrag: Zendure SolarFlow: Modulares Speichersystem ausprobiert\r\n\r\nZum Blog: Caschys Blog\r\n\r\nDer RSS-Feed kann auch als Werbemittel gebucht werden. Mit ihm kann man über 55.000 Abonnenten erreichen. Schreibt uns gerne an.",
-          "link": "https://stadt-bremerhaven.de/zendure-solarflow-modulares-speichersystem-ausprobiert/",
-          "publishedOn": "2023-06-25T18:00:38.000Z",
-          "wordCount": 3097,
-          "title": "Zendure SolarFlow: Modulares Speichersystem ausprobiert",
-          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2023/06/zendure-solarflow-2.jpg"
-        },
-        {
-          "id": "https://stadt-bremerhaven.de/?p=1182538",
-          "author": "André Westphal",
-          "description": "Amazon Prime Video erzielte zuletzt nach eigenen Angaben seine höchsten internationalen Zuschauerzahlen aller Zeiten für nicht-englischsprachige Originale. Die in den letzten zwei Wochen gestarteten Original-Filme „Culpa Mia – Meine Schuld“ (Spanien) und „Medellín – Follower mit Folgen“ (Frankreich) seien die...\nZum Beitrag: Amazon Prime Video: Nicht-englischsprachige Originals sind erfolgreicher denn je\r\n\r\nZum Blog: Caschys Blog\r\n\r\nDer RSS-Feed kann auch als Werbemittel gebucht werden. Mit ihm kann man über 55.000 Abonnenten erreichen. Schreibt uns gerne an.",
-          "link": "https://stadt-bremerhaven.de/amazon-prime-video-nicht-englischsprachige-originals-sind-erfolgreicher-denn-je/",
-          "publishedOn": "2023-06-25T16:30:34.000Z",
-          "wordCount": 2286,
-          "title": "Amazon Prime Video: Nicht-englischsprachige Originals sind erfolgreicher denn je",
-          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2021/11/Amazon-Der-Greif.jpg"
-        },
-        {
-          "id": "https://stadt-bremerhaven.de/?p=1183092",
-          "author": "Gastautor",
-          "description": "Herzlich willkommen zum Cloud-Gaming-Rückblick der Kalenderwoche 25. Zusammen mit unserem Gastautor Stefan, der unser Cloud-Gaming-Experte und leidenschaftlicher YouTuber bei Cloudplay ist, präsentieren wir euch regelmäßig die wichtigsten Cloud-Gaming-News der aktuellen Kalenderwoche. GeForce NOW Eine neue Woche bringt natürlich auch wieder...\nZum Beitrag: Der Cloud-Gaming-Rückblick am Sonntag – KW 25\r\n\r\nZum Blog: Caschys Blog\r\n\r\nDer RSS-Feed kann auch als Werbemittel gebucht werden. Mit ihm kann man über 55.000 Abonnenten erreichen. Schreibt uns gerne an.",
-          "link": "https://stadt-bremerhaven.de/der-cloud-gaming-rueckblick-am-sonntag-kw-25/",
-          "publishedOn": "2023-06-25T15:00:58.000Z",
-          "wordCount": 2662,
-          "title": "Der Cloud-Gaming-Rückblick am Sonntag – KW 25",
-          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2023/04/Cloud-Gaming-Halo.jpg"
         }
       ]
     },
@@ -5202,6 +5272,136 @@
       "feedUrl": "https://www.computerbase.de/rss/news.xml",
       "siteUrl": "https://www.computerbase.de/",
       "articles": [
+        {
+          "id": "https://www.computerbase.de/2023-07/zenbleed-sicherheitsluecke-gefaehrdet-zen-2-architektur-von-amd/",
+          "author": null,
+          "description": "<img src=\"https://pics.computerbase.de/1/0/8/6/4/1-b371312e2963f675/article-640x360.84883309.jpg\"><p>Spätestens seit Meltdown und Spectre ist klar: Sicherheitslücken in modernen CPUs können weitreichende Folgen haben – und Patches dafür kosten unter Umständen wertvolle Rechenleistung. Eine neu entdeckte Schwachstelle namens Zenbleed trifft dieses Mal die Zen-2-Architektur von AMD.</p>",
+          "link": "https://www.computerbase.de/2023-07/zenbleed-sicherheitsluecke-gefaehrdet-zen-2-architektur-von-amd/",
+          "publishedOn": "2023-07-25T17:29:00.000Z",
+          "wordCount": 1073,
+          "title": "Zenbleed: Sicherheitslücke gefährdet Zen-2-Architektur von AMD",
+          "imageUrl": "https://pics.computerbase.de/1/0/8/6/4/1-b371312e2963f675/article-1280x720.84883309.jpg"
+        },
+        {
+          "id": "https://www.computerbase.de/2023-07/crucial-x9-pro-und-x10-pro-externe-ssds-mit-alu-ip55-und-nativem-usb-controller/",
+          "author": null,
+          "description": "<img src=\"https://pics.computerbase.de/1/0/8/6/4/6-e2b18bfcf1bb6588/article-640x360.3e60779d.jpg\"><p>Crucial richtet sich mit seinen neuen externen SSDs an professionelle „Creator“. Die X9 Pro und die X10 Pro bieten bis zu 4 TB Speicherplatz in einem äußerst kompakten und IP55-zertifizierten Gehäuse. Die X9 Pro erreicht 1.050 MB/s, während die X10 Pro auf 2.100 MB/s beschleunigt.</p>",
+          "link": "https://www.computerbase.de/2023-07/crucial-x9-pro-und-x10-pro-externe-ssds-mit-alu-ip55-und-nativem-usb-controller/",
+          "publishedOn": "2023-07-25T16:45:00.000Z",
+          "wordCount": 2234,
+          "title": "Crucial X9 Pro und X10 Pro: Externe SSDs mit Alu, IP55 und nativem USB-Controller",
+          "imageUrl": "https://pics.computerbase.de/1/0/8/6/4/6-e2b18bfcf1bb6588/article-1280x720.3e60779d.jpg"
+        },
+        {
+          "id": "https://www.computerbase.de/2023-07/intel-arc-a580-erneut-tauchen-benchmarks-der-alchemist-mittelklasse-auf/",
+          "author": null,
+          "description": "<img src=\"https://pics.computerbase.de/1/0/8/6/4/9-23fd9567a7cfceea/article-640x360.24c226de.jpg\"><p>Bald ein Jahr ist es her, dass ComputerBase eine aus China importierte Arc A380 getestet hat. Später sind dann auch Arc A750 und Arc A770 (Test) hierzulande erschienen, nicht aber die Arc A580, die ursprünglich mit den anderen Alchemist-Grafikkarten vorgestellt wurde. Nun gibt es erneut ein Lebenszeichen.</p>",
+          "link": "https://www.computerbase.de/2023-07/intel-arc-a580-erneut-tauchen-benchmarks-der-alchemist-mittelklasse-auf/",
+          "publishedOn": "2023-07-25T16:21:00.000Z",
+          "wordCount": 889,
+          "title": "Intel Arc A580: Erneut tauchen Benchmarks der Alchemist-Mittelklasse auf [Notiz]",
+          "imageUrl": "https://pics.computerbase.de/1/0/8/6/4/9-23fd9567a7cfceea/article-1280x720.24c226de.jpg"
+        },
+        {
+          "id": "https://www.computerbase.de/2023-07/aus-twitter-wird-x-analyse/",
+          "author": null,
+          "description": "<img src=\"https://pics.computerbase.de/1/0/8/6/4/3-fa78722cdd82fbc3/article-640x360.47166f57.jpg\"><p>Während Twitters Chefin Linda Yaccarino intern von einem bedeutsamen Wochenende spricht, sind Analysten und Branchenbeobachter fassungslos, dass Elon Musk mit dem Wandel zu X tatsächlich Twitter als Marke begraben will. Es könnte die Plattform, die bereits Schlagseite hat, weiter beschädigen.</p>",
+          "link": "https://www.computerbase.de/2023-07/aus-twitter-wird-x-analyse/",
+          "publishedOn": "2023-07-25T15:45:00.000Z",
+          "wordCount": 1780,
+          "title": "Aus Twitter wird „X“: Elon Musk radiert eine der bekanntesten Marken der Welt aus",
+          "imageUrl": "https://pics.computerbase.de/1/0/8/6/4/3-fa78722cdd82fbc3/article-1280x720.47166f57.jpg"
+        },
+        {
+          "id": "https://www.computerbase.de/2023-07/packaging-fabrik-tsmc-steckt-noch-einmal-2-9-milliarden-usd-in-neubau/",
+          "author": null,
+          "description": "<img src=\"https://pics.computerbase.de/1/0/8/6/4/4-e60cfaf34841401b/article-640x360.3a540aa3.jpg\"><p>Wenige Tage nach der Bekanntgabe der Quartalszahlen und der Offenbarung, dass das Packaging noch bis mindestens Ende 2024 ein Problem sein wird, macht TSMC Nägel mit Köpfen: Mehr Packaging-Kapazität geht schlichtweg nur mit Neubauten.</p>",
+          "link": "https://www.computerbase.de/2023-07/packaging-fabrik-tsmc-steckt-noch-einmal-2-9-milliarden-usd-in-neubau/",
+          "publishedOn": "2023-07-25T13:29:00.000Z",
+          "wordCount": 898,
+          "title": "Packaging-Fabrik: TSMC steckt noch einmal 2,9 Milliarden USD in Neubau",
+          "imageUrl": "https://pics.computerbase.de/1/0/8/6/4/4-e60cfaf34841401b/article-1280x720.3a540aa3.jpg"
+        },
+        {
+          "id": "https://www.computerbase.de/2023-07/rode-podmic-usb-test/",
+          "author": null,
+          "description": "<img src=\"https://pics.computerbase.de/1/0/8/5/2/3-3cc7b7144d0c7aa2/article-640x360.05f39549.jpg\"><p>Mit dem PodMic USB offeriert der Mikrofonspezialist Rode einen Allrounder, der sich nicht zuletzt durch seine USB- und XLR-Anschlüsse sowohl für den mobilen wie auch den stationären Einsatz eignet. Nicht jedermann schmecken wird der niedrige Pegel. Zudem gibt es ernstzunehmende Konkurrenz aus den eigenen Reihen.</p>",
+          "link": "https://www.computerbase.de/2023-07/rode-podmic-usb-test/",
+          "publishedOn": "2023-07-25T13:00:00.000Z",
+          "wordCount": 4003,
+          "title": "Rode PodMic USB im Test: Podcast-Mikrofon mit USB und XLR liebt die Nähe",
+          "imageUrl": "https://pics.computerbase.de/1/0/8/5/2/3-3cc7b7144d0c7aa2/article-1280x720.05f39549.jpg"
+        },
+        {
+          "id": "https://www.computerbase.de/2023-07/geforce-rtx-4060-ti-16-gb-eine-woche-nach-marktstart-sind-7-modelle-lieferbar/",
+          "author": null,
+          "description": "<img src=\"https://pics.computerbase.de/1/0/8/6/4/2-225024308f199db2/article-640x360.2b00ad97.jpg\"><p>Rund zwei Monate nach ihrer Vorstellung und eine Woche nach dem halbherzigen Verkaufsstart der GeForce RTX 4060 Ti 16 GB hat die Grafikkarte inzwischen den Handel erreicht. Die Boardpartner reagieren ebenso verhalten wie die Kunden.</p>",
+          "link": "https://www.computerbase.de/2023-07/geforce-rtx-4060-ti-16-gb-eine-woche-nach-marktstart-sind-7-modelle-lieferbar/",
+          "publishedOn": "2023-07-25T11:54:00.000Z",
+          "wordCount": 1033,
+          "title": "GeForce RTX 4060 Ti 16 GB: Eine Woche nach Marktstart sind 7 Modelle lieferbar",
+          "imageUrl": "https://pics.computerbase.de/1/0/8/6/4/2-225024308f199db2/article-1280x720.2b00ad97.jpg"
+        },
+        {
+          "id": "https://www.computerbase.de/2023-07/street-view-google-stellt-neue-aufnahmen-aus-deutschland-online/",
+          "author": null,
+          "description": "<img src=\"https://pics.computerbase.de/1/0/8/6/4/0-26b0174f9f4ad22e/article-640x360.62dd1489.jpg\"><p>Nachdem in Vorbereitung des Rollouts neuer Street-View-Aufnahmen in Deutschland zunächst alle alten Straßenfotos von Google offline genommen wurden, steht jetzt für die 20 größten Städte Deutschlands aktualisiertes Street-View-Bildmaterial in Google Maps zur Verfügung. Noch bis Oktober will Google weitere Aufnahmen erstellen.</p>",
+          "link": "https://www.computerbase.de/2023-07/street-view-google-stellt-neue-aufnahmen-aus-deutschland-online/",
+          "publishedOn": "2023-07-25T09:19:00.000Z",
+          "wordCount": 1059,
+          "title": "Street View: Google stellt neue Aufnahmen aus Deutschland online",
+          "imageUrl": "https://pics.computerbase.de/1/0/8/6/4/0-26b0174f9f4ad22e/article-1280x720.62dd1489.jpg"
+        },
+        {
+          "id": "https://www.computerbase.de/2023-07/directstorage-bulkloaddemo-benchmark-community-test/",
+          "author": null,
+          "description": "<img src=\"https://pics.computerbase.de/1/0/8/6/1/8-6d2e6cb474f71ee8/article-640x360.f68baa84.jpg\"><p>Die BulkLoadDemo simuliert die Übertragung von Spieldateien vom Massenspeicher bis zur Grafikkarte, die mit der DirectStorage-API inklusive Dekomprimierung deutlich beschleunigt werden kann. Die Leistung hängt von der eingesetzten SSD/HDD und der Grafikkarte ab. Die Redaktion liefert eigene Messwerte und lädt zum Mitmachen ein.</p>",
+          "link": "https://www.computerbase.de/2023-07/directstorage-bulkloaddemo-benchmark-community-test/",
+          "publishedOn": "2023-07-25T07:00:00.000Z",
+          "wordCount": 4106,
+          "title": "BulkLoadDemo Benchmark: Die Community testet DirectStorage 1.20 mit Avocados🥑",
+          "imageUrl": "https://pics.computerbase.de/1/0/8/6/1/8-6d2e6cb474f71ee8/article-1280x720.f68baa84.jpg"
+        },
+        {
+          "id": "https://www.computerbase.de/2023-07/intel-avx10-av10-2-und-apx-neue-instruktionen-fuer-mehr-leistung-auf-p-und-e-cores/",
+          "author": null,
+          "description": "<img src=\"https://pics.computerbase.de/1/0/8/6/3/9-7c49608c9857c782/article-640x360.9014b8bf.jpg\"><p>In gleich vier Dokumenten enthüllt Intel die kommenden Instruktionen AVX10, AVX10.2 sowie APX. Sie werden ab Granite Rapids Einzug halten und das nicht nur in den großen P-, sondern auch in den E-Cores. Diese werden damit je nach Anwendung auf einen Schlag deutlich performanter und entwachsen so den Kinderschuhen.</p>",
+          "link": "https://www.computerbase.de/2023-07/intel-avx10-av10-2-und-apx-neue-instruktionen-fuer-mehr-leistung-auf-p-und-e-cores/",
+          "publishedOn": "2023-07-25T06:45:00.000Z",
+          "wordCount": 1175,
+          "title": "Intel AVX10, AVX10.2 und APX: Neue Instruktionen für mehr Leistung auf P- und E-Cores",
+          "imageUrl": "https://pics.computerbase.de/1/0/8/6/3/9-7c49608c9857c782/article-1280x720.9014b8bf.jpg"
+        },
+        {
+          "id": "https://www.computerbase.de/2023-07/steam-stealth-fest-rabattaktion-reduziert-schleichspiele-im-preis/",
+          "author": null,
+          "description": "<img src=\"https://pics.computerbase.de/1/0/8/6/3/8-c374c4a5ae8e9c15/article-640x360.ff7e83ba.jpg\"><p>Auf Steam jagt derzeit ein Event das nächste. Nicht einmal zwei Wochen nach dem große Sommer-Rabattaktion und direkt im Anschluss an das Simulations-Festival läuft nun das Steam Stealth Fest. Im Rahmen dessen sind in erster Linie Spiele im Preis reduziert, in denen es darum geht, seine Ziele still und heimlich zu erreichen.</p>",
+          "link": "https://www.computerbase.de/2023-07/steam-stealth-fest-rabattaktion-reduziert-schleichspiele-im-preis/",
+          "publishedOn": "2023-07-25T06:31:00.000Z",
+          "wordCount": 988,
+          "title": "Steam Stealth Fest: Rabattaktion reduziert Schleichspiele im Preis [Notiz]",
+          "imageUrl": "https://pics.computerbase.de/1/0/8/6/3/8-c374c4a5ae8e9c15/article-1280x720.ff7e83ba.jpg"
+        },
+        {
+          "id": "https://www.computerbase.de/2023-07/radeon-rx-7900-gre-amd-legt-navi-31-mit-16-gb-grafikspeicher-auf/",
+          "author": null,
+          "description": "<img src=\"https://pics.computerbase.de/1/0/8/6/3/7-78d3a13324907286/article-640x360.3e5da27d.jpg\"><p>Während nach wie vor unklar ist, ob und wie AMD eine Radeon RX 7800 XT mit dem großen Navi-31-GCD realisieren kann, schiebt sich plötzlich die Radeon RX 7900 GRE zwischen Radeon RX 7900 XT und die kolportierten 7800er-Grafikkarten. Es handelt sich nach aktuellem Kenntnisstand um eine Sonderauflage für den chinesischen Markt.</p>",
+          "link": "https://www.computerbase.de/2023-07/radeon-rx-7900-gre-amd-legt-navi-31-mit-16-gb-grafikspeicher-auf/",
+          "publishedOn": "2023-07-25T06:09:00.000Z",
+          "wordCount": 1515,
+          "title": "Radeon RX 7900 GRE: AMD legt Navi 31 mit 16 GB Grafikspeicher auf",
+          "imageUrl": "https://pics.computerbase.de/1/0/8/6/3/7-78d3a13324907286/article-1280x720.3e5da27d.jpg"
+        },
+        {
+          "id": "https://www.computerbase.de/2023-07/sicherheitsluecke-in-schufa-app-bonify-ermoeglichte-abfragen-von-fremden-kredit-scores/",
+          "author": null,
+          "description": "<img src=\"https://pics.computerbase.de/1/0/8/6/3/5-8c102918f2f9f78d/article-640x360.127cbc5b.jpg\"><p>Mit Bonify hat die Schufa in der letzten Woche eine App präsentiert, durch die Privatpersonen ihren persönlichen Basisscore bei der Kreditauskunftei einsehen können. Eine Sicherheitslücke ermöglichte aber den Zugriff auf fremde Konten. Die IT-Sicherheitsexpertin Lilith Wittmann konnte so den Basisscore von Jens Spahn einsehen.</p>",
+          "link": "https://www.computerbase.de/2023-07/sicherheitsluecke-in-schufa-app-bonify-ermoeglichte-abfragen-von-fremden-kredit-scores/",
+          "publishedOn": "2023-07-25T05:00:00.000Z",
+          "wordCount": 1198,
+          "title": "Sicherheitslücke in Schufa-App: Bonify ermöglichte Abfragen von fremden Kredit-Scores",
+          "imageUrl": "https://pics.computerbase.de/1/0/8/6/3/5-8c102918f2f9f78d/article-1280x720.127cbc5b.jpg"
+        },
         {
           "id": "https://www.computerbase.de/2023-07/nach-videos-und-bildern-tiktok-fuehrt-textbeitraege-ein/",
           "author": null,
@@ -7731,56 +7931,6 @@
           "wordCount": 1024,
           "title": "GeForce 474.44: Sicherheitsupdates für Nvidia Kepler oder Windows 7 bis 8.1 [Notiz]",
           "imageUrl": "https://pics.computerbase.de/1/0/8/3/0/7-983a9c1ee902ba0a/article-1280x720.10e9dfc4.jpg"
-        },
-        {
-          "id": "https://www.computerbase.de/2023-06/quantenprozessoren-infineon-liefert-qpus-auf-basis-von-ionenfallen-an-eleqtron/",
-          "author": null,
-          "description": "<img src=\"https://pics.computerbase.de/1/0/8/3/0/6-61fddc14779313d0/article-640x360.37b8f920.jpg\"><p>Infineon und eleQtron, ebenfalls ein in Deutschland beheimatetes Unternehmen, haben heute ihre Partnerschaft zur gemeinsamen Entwicklung von Quantenprozessoreinheiten (QPUs) mit Ionenfallentechnologie für skalierbare Quantencomputer bekanntgegeben.</p>",
-          "link": "https://www.computerbase.de/2023-06/quantenprozessoren-infineon-liefert-qpus-auf-basis-von-ionenfallen-an-eleqtron/",
-          "publishedOn": "2023-06-26T11:49:00.000Z",
-          "wordCount": 866,
-          "title": "Quantenprozessoren: Infineon liefert QPUs auf Basis von Ionenfallen an eleQtron",
-          "imageUrl": "https://pics.computerbase.de/1/0/8/3/0/6-61fddc14779313d0/article-1280x720.37b8f920.jpg"
-        },
-        {
-          "id": "https://www.computerbase.de/2023-06/amazon-echo-show-5-3-generation-test/",
-          "author": null,
-          "description": "<img src=\"https://pics.computerbase.de/1/0/8/2/8/7-7ad2f1f9bf3b62f0/article-640x360.1893d4ee.jpg\"><p>Der Echo Show 5 bringt in 3. Generation zwar einige Verbesserungen, dennoch bietet er im Alltag ob der eingeschränkten Leistungsfähigkeit zu wenig, um sinnvoll genutzt werden zu können. Auch klanglich bleibt trotz Fortschritten noch viel Potenzial.</p>",
-          "link": "https://www.computerbase.de/2023-06/amazon-echo-show-5-3-generation-test/",
-          "publishedOn": "2023-06-26T10:00:00.000Z",
-          "wordCount": 4280,
-          "title": "Amazon Echo Show 5 (3. Gen.) im Test: Smart Display mit Feintuning ohne Turbo",
-          "imageUrl": "https://pics.computerbase.de/1/0/8/2/8/7-7ad2f1f9bf3b62f0/article-1280x720.1893d4ee.jpg"
-        },
-        {
-          "id": "https://www.computerbase.de/2023-06/kamera-bildsensoren-sony-will-neue-fabrik-aufgrund-hoher-nachfrage-bauen/",
-          "author": null,
-          "description": "<img src=\"https://pics.computerbase.de/1/0/8/3/0/5-a999c0e3dcc7e571/article-640x360.8f212e44.jpg\"><p>Sony als Marktführer für Kamera-Bildsensoren in Smartphones sieht weiterhin hohe Nachfrage, die kaum befriedigt werden kann. Deshalb plane man nun erneut einen Neubau, denn selbst die zuletzt errichteten Werke werden gemäß der aktuellen Prognose in Zukunft nicht ausreichen und sonst zu einer Knappheit im Markt führen.</p>",
-          "link": "https://www.computerbase.de/2023-06/kamera-bildsensoren-sony-will-neue-fabrik-aufgrund-hoher-nachfrage-bauen/",
-          "publishedOn": "2023-06-26T07:33:00.000Z",
-          "wordCount": 1043,
-          "title": "Kamera-Bildsensoren: Sony will neue Fabrik aufgrund hoher Nachfrage bauen",
-          "imageUrl": "https://pics.computerbase.de/1/0/8/3/0/5-a999c0e3dcc7e571/article-1280x720.8f212e44.jpg"
-        },
-        {
-          "id": "https://www.computerbase.de/2023-06/indiana-jones-spiel-bethesda-bestaetigt-exklusivitaet-fuer-pc-und-xbox/",
-          "author": null,
-          "description": "<img src=\"https://pics.computerbase.de/1/0/8/3/0/4-b9ab4e50bfe8ad17/article-640x360.c0d1144a.jpg\"><p>Im Rahmen der Verhandlungen in den USA vor der Federal Trade Commission wurde bekannt, dass das 2021 angekündigte Indiana-Jones-Spiel nicht, wie ursprünglich geplant, auf mehreren Plattformen erscheinen wird, sondern nach der Bethesda-Übernahme durch Microsoft exklusiv für den PC und die Xbox erscheinen wird.</p>",
-          "link": "https://www.computerbase.de/2023-06/indiana-jones-spiel-bethesda-bestaetigt-exklusivitaet-fuer-pc-und-xbox/",
-          "publishedOn": "2023-06-26T05:36:00.000Z",
-          "wordCount": 877,
-          "title": "Indiana-Jones-Spiel: Bethesda bestätigt Exklusivität für PC und Xbox",
-          "imageUrl": "https://pics.computerbase.de/1/0/8/3/0/4-b9ab4e50bfe8ad17/article-1280x720.c0d1144a.jpg"
-        },
-        {
-          "id": "https://www.computerbase.de/2023-06/ddos-attacke-login-probleme-lags-und-warteschlangen-in-diablo-iv/",
-          "author": null,
-          "description": "<img src=\"https://pics.computerbase.de/1/0/8/3/0/3-d8fa2fd32be43854/article-640x360.dfcdf031.jpg\"><p>Viele Spieler von Diablo IV (Test) haben seit Stunden Probleme ins Spiel zu gelangen. Entweder scheitert das Einloggen mit einer Fehlermeldung oder es kommt zu längeren Warteschlangen. Blizzard spricht von DDoS-Attacken als Ursache.</p>",
-          "link": "https://www.computerbase.de/2023-06/ddos-attacke-login-probleme-lags-und-warteschlangen-in-diablo-iv/",
-          "publishedOn": "2023-06-25T14:24:00.000Z",
-          "wordCount": 979,
-          "title": "DDoS-Attacke: Login-Probleme, Lags und Warteschlangen in Diablo IV (2. Update)",
-          "imageUrl": "https://pics.computerbase.de/1/0/8/3/0/3-d8fa2fd32be43854/article-1280x720.dfcdf031.jpg"
         }
       ]
     },
@@ -8682,10 +8832,130 @@
       ]
     },
     {
-      "title": "Deutschlandfunk - Fortlaufende Nachrichten vom 25. Juli 2023",
+      "title": "Deutschlandfunk - Fortlaufende Nachrichten vom 26. Juli 2023",
       "feedUrl": "https://www.deutschlandfunk.de/nachrichten-100.rss",
-      "siteUrl": "https://www.deutschlandfunk.de/nachrichten-index-28570.html",
+      "siteUrl": "https://www.deutschlandfunk.de/nachrichten-index-28584.html",
       "articles": [
+        {
+          "id": "mehrere-angeklagte-schuldig-gesprochen-104",
+          "author": null,
+          "description": "Im Prozess um die islamistischen Anschläge 2016 in Brüssel haben die Geschworenen mehrere der zehn Angeklagten des terroristischen Mordes schuldig gesprochen.",
+          "link": "https://www.deutschlandfunk.de/mehrere-angeklagte-schuldig-gesprochen-104.html",
+          "publishedOn": "2023-07-25T20:37:09.000Z",
+          "wordCount": 693,
+          "title": "Brüsseler Terroranschläge 2016 - Mehrere Angeklagte schuldig gesprochen",
+          "imageUrl": "https://assets.deutschlandfunk.de/FILE_d579e8c40e6b192a39463ee1b68b494f/1920x1080.jpg?t=1597626512521"
+        },
+        {
+          "id": "sachsens-ministerpraesident-kretschmer-plaediert-fuer-pragmatischen-umgang-mit-der-afd-108",
+          "author": null,
+          "description": "Sachsens Ministerpräsident Kretschmer (CDU) hat seine Partei zu einem \"pragmatischen Umgang\" mit der AfD in den Kommunen aufgerufen. Er sagte der \"Frankfurter Allgemeinen Zeitung\", eine lupenreine Trennung zur AfD sei auf kommunaler Ebene nicht durchzuhalten.",
+          "link": "https://www.deutschlandfunk.de/sachsens-ministerpraesident-kretschmer-plaediert-fuer-pragmatischen-umgang-mit-der-afd-108.html",
+          "publishedOn": "2023-07-25T20:37:09.000Z",
+          "wordCount": 792,
+          "title": "Merz-Äußerungen - Sachsens Ministerpräsident Kretschmer plädiert für \"pragmatischen Umgang\" mit der AfD",
+          "imageUrl": "https://assets.deutschlandfunk.de/6d5af573-d91d-4630-b3f0-1a9661d1cd0b/1920x1080.jpg?t=1680242897369"
+        },
+        {
+          "id": "braende-am-mittelmeer-dorf-gennadi-auf-rhodos-droht-den-flammen-zum-opfer-zu-fallen-104",
+          "author": null,
+          "description": "In mehreren Ländern rund um das Mittelmeer kämpfen Einsatzkräfte gegen teils schwere Waldbrände.",
+          "link": "https://www.deutschlandfunk.de/braende-am-mittelmeer-dorf-gennadi-auf-rhodos-droht-den-flammen-zum-opfer-zu-fallen-104.html",
+          "publishedOn": "2023-07-25T20:37:09.000Z",
+          "wordCount": 771,
+          "title": "Hitzewellen - Brände am Mittelmeer - Dorf Gennadi auf Rhodos droht den Flammen zum Opfer zu fallen",
+          "imageUrl": "https://assets.deutschlandfunk.de/680c0bf6-7cae-4cb8-a228-eccd11bf41a4/1920x1080.jpg?t=1690302311914"
+        },
+        {
+          "id": "abpumpen-des-oels-aus-dem-schrottreifen-oeltanker-problemlos-angelaufen-106",
+          "author": null,
+          "description": "Vor der Küste Jemens hat ein Bergungsunternehmen damit begonnen, das Öl aus einem schrottreifen Tanker abzupumpen.",
+          "link": "https://www.deutschlandfunk.de/abpumpen-des-oels-aus-dem-schrottreifen-oeltanker-problemlos-angelaufen-106.html",
+          "publishedOn": "2023-07-25T20:37:09.000Z",
+          "wordCount": 733,
+          "title": "Jemen - Abpumpen des Öls aus dem schrottreifen Öltanker \"problemlos angelaufen\"",
+          "imageUrl": "https://assets.deutschlandfunk.de/cbd811e7-12d3-4ec4-8c29-1f5c3c1d85c4/1920x1080.jpg?t=1689741108964"
+        },
+        {
+          "id": "teilblockade-fuer-ukrainisches-getreide-in-die-eu-bleibt-bis-september-106",
+          "author": null,
+          "description": "Ein vorübergehendes Importverbot für Getreide aus der Ukraine in deren Nachbarstaaten wird zunächst nicht verlängert. Das teilte der zuständige EU-Kommissar Wojciechowski nach einem Treffen der Landwirtschaftsminister in Brüssel mit. Er ergänzte, im September werde die Lage neu bewertet.",
+          "link": "https://www.deutschlandfunk.de/teilblockade-fuer-ukrainisches-getreide-in-die-eu-bleibt-bis-september-106.html",
+          "publishedOn": "2023-07-25T20:37:09.000Z",
+          "wordCount": 770,
+          "title": "EU-Landwirtschaftsminister - Teilblockade für ukrainisches Getreide in die EU bleibt bis September",
+          "imageUrl": "https://assets.deutschlandfunk.de/d57ec80b-77ee-4e0b-9cb3-0bc0dfe86b44/1920x1080.jpg?t=1689578863895"
+        },
+        {
+          "id": "spaniens-konservative-beharren-trotz-fehlender-mehrheit-auf-regierungsbildung-104",
+          "author": null,
+          "description": "In Spanien beharrt Wahlsieger Feijoo trotz fehlender Mehrheit im Parlament darauf, die künftige Regierung zu bilden.",
+          "link": "https://www.deutschlandfunk.de/spaniens-konservative-beharren-trotz-fehlender-mehrheit-auf-regierungsbildung-104.html",
+          "publishedOn": "2023-07-25T20:37:09.000Z",
+          "wordCount": 781,
+          "title": "Nach der Parlamentswahl - Spaniens Konservative beharren trotz fehlender Mehrheit auf Regierungsbildung",
+          "imageUrl": "https://assets.deutschlandfunk.de/b54c73d7-d76e-434a-b88f-cd4c46e07dc8/1920x1080.jpg?t=1690306296971"
+        },
+        {
+          "id": "buschmann-fdp-aeussert-sich-besorgt-ueber-demokratie-in-israel-108",
+          "author": null,
+          "description": "Nach dem Votum des israelischen Parlaments für den teilweisen Umbau der Justiz hat sich Bundesjustizminister Buschmann besorgt geäußert.",
+          "link": "https://www.deutschlandfunk.de/buschmann-fdp-aeussert-sich-besorgt-ueber-demokratie-in-israel-108.html",
+          "publishedOn": "2023-07-25T20:37:09.000Z",
+          "wordCount": 754,
+          "title": "Umbau der Justiz - Buschmann (FDP) äußert sich besorgt über Demokratie in Israel",
+          "imageUrl": "https://assets.deutschlandfunk.de/2f723a44-8f91-4363-bc49-b66711bbca1a/1920x1080.jpg?t=1688483100513"
+        },
+        {
+          "id": "gutachter-sehen-grenzen-bei-cannabis-legalisierung-104",
+          "author": null,
+          "description": "Die Pläne der Ampel-Koalition für eine Legalisierung von Cannabis sind in Teilen womöglich nicht mit Europarecht vereinbar.",
+          "link": "https://www.deutschlandfunk.de/gutachter-sehen-grenzen-bei-cannabis-legalisierung-104.html",
+          "publishedOn": "2023-07-25T20:37:09.000Z",
+          "wordCount": 754,
+          "title": "Gutachten - Gutachter sehen Grenzen bei Cannabis-Legalisierung",
+          "imageUrl": "https://assets.deutschlandfunk.de/99002d70-c1f1-4b20-93cb-806219344bd5/1920x1080.jpg?t=1681303846757"
+        },
+        {
+          "id": "land-berlin-plant-milliarden-paket-fuer-mehr-klimaschutz-104",
+          "author": null,
+          "description": "Das Land Berlin will zusätzliche Milliarden für mehr Klimaschutz ausgeben.",
+          "link": "https://www.deutschlandfunk.de/land-berlin-plant-milliarden-paket-fuer-mehr-klimaschutz-104.html",
+          "publishedOn": "2023-07-25T20:37:09.000Z",
+          "wordCount": 729,
+          "title": "Klimaschutz - Land Berlin plant Milliarden-Paket für mehr Klimaschutz",
+          "imageUrl": "https://assets.deutschlandfunk.de/a1352ba0-740c-437c-9a00-918e805522f5/1920x1080.jpg?t=1662999262542"
+        },
+        {
+          "id": "forscherin-fordert-flaechendeckende-hitzeaktionsplaene-106",
+          "author": null,
+          "description": "Die Wissenschaftlerin Friederike Otto vom Londoner Imperial College fordert flächendeckende Hitzeaktionspläne.",
+          "link": "https://www.deutschlandfunk.de/forscherin-fordert-flaechendeckende-hitzeaktionsplaene-106.html",
+          "publishedOn": "2023-07-25T20:37:09.000Z",
+          "wordCount": 717,
+          "title": "Klimastudie - Forscherin fordert flächendeckende Hitzeaktionspläne",
+          "imageUrl": "https://assets.deutschlandfunk.de/FILE_c97167a186e824134c80eb0c69b16f81/1920x1080.jpg?t=1635581291600"
+        },
+        {
+          "id": "juedische-organisationen-aus-sieben-staaten-wollen-im-kampf-gegen-antisemitismus-zusammenarbeiten-108",
+          "author": null,
+          "description": "Jüdische Organisationen aus sieben Staaten haben eine \"Task Force\" für den Kampf gegen Antisemitismus gegründet.",
+          "link": "https://www.deutschlandfunk.de/juedische-organisationen-aus-sieben-staaten-wollen-im-kampf-gegen-antisemitismus-zusammenarbeiten-108.html",
+          "publishedOn": "2023-07-25T20:37:09.000Z",
+          "wordCount": 691,
+          "title": "\"J7\" - Jüdische Organisationen aus sieben Staaten wollen im Kampf gegen Antisemitismus zusammenarbeiten",
+          "imageUrl": "https://assets.deutschlandfunk.de/FILE_c28e5238588b39715937b102a742f51e/1920x1080.jpg?t=1608979939664"
+        },
+        {
+          "id": "tagessieg-fuer-lorena-wiebes-liane-lippert-weiter-auf-rang-104",
+          "author": null,
+          "description": "Die deutsche Straßenrad-Meisterin Liane Lippert liegt bei der Tour de France Femmes weiter auf dem zweiten Gesamtrang.",
+          "link": "https://www.deutschlandfunk.de/tagessieg-fuer-lorena-wiebes-liane-lippert-weiter-auf-rang-104.html",
+          "publishedOn": "2023-07-25T20:37:09.000Z",
+          "wordCount": 697,
+          "title": "Tour de France Femmes - Tagessieg für Lorena Wiebes - Liane Lippert weiter auf Rang 2",
+          "imageUrl": "https://assets.deutschlandfunk.de/80761edf-72c0-4f89-a614-a8bf68d3e6a8/1920x1080.jpg?t=1690300563146"
+        },
         {
           "id": "kommunal-verbaende-fuer-pragmatischen-umgang-mit-der-afd-102",
           "author": null,
@@ -14475,176 +14745,6 @@
           "wordCount": 682,
           "title": "Wetter - Nachts im Osten abziehender Regen, sonst meist trocken",
           "imageUrl": "https://assets.deutschlandfunk.de/8b8e957f-2347-4069-96fc-2f264b42f507/1920x1080.jpg?t=1653264300214"
-        },
-        {
-          "id": "afd-stellt-erstmals-landrat-zentralrat-der-juden-aeussert-sich-erschuettert-102",
-          "author": null,
-          "description": "Der Zentralrat der Juden hat sich erschüttert über den bundesweit ersten AfD-Erfolg bei einer Landratswahl im thüringischen Sonneberg geäußert. Präsident Schuster sagte der Jüdischen Allgemeinen, die AfD sei laut Landesverfassungsschutz rechtsextrem.",
-          "link": "https://www.deutschlandfunk.de/afd-stellt-erstmals-landrat-zentralrat-der-juden-aeussert-sich-erschuettert-102.html",
-          "publishedOn": "2023-06-26T01:50:31.000Z",
-          "wordCount": 848,
-          "title": "Thüringen - AfD stellt erstmals Landrat - Zentralrat der Juden äußert sich erschüttert",
-          "imageUrl": "https://assets.deutschlandfunk.de/0107f69d-440a-4422-a20c-9ea33bd00a64/1920x1080.jpg?t=1687679656121"
-        },
-        {
-          "id": "friedenskonferenz-fuer-ukraine-unter-strenger-geheimhaltung-in-kopenhagen-abgehalten-102",
-          "author": null,
-          "description": "In Dänemarks Hauptstadt Kopenhagen hat es offenbar unter strenger Geheimhaltung eine Friedenskonferenz für die Ukraine gegeben.",
-          "link": "https://www.deutschlandfunk.de/friedenskonferenz-fuer-ukraine-unter-strenger-geheimhaltung-in-kopenhagen-abgehalten-102.html",
-          "publishedOn": "2023-06-26T01:50:31.000Z",
-          "wordCount": 740,
-          "title": "Dänemark - Friedenskonferenz für Ukraine unter strenger Geheimhaltung in Kopenhagen abgehalten",
-          "imageUrl": "https://assets.deutschlandfunk.de/d088c683-78e7-42ff-8f11-3b95c12d12ab/1920x1080.jpg?t=1687596338583"
-        },
-        {
-          "id": "konservative-regierungspartei-erzielt-absolute-mehrheit-der-mandate-102",
-          "author": null,
-          "description": "Nach der Parlamentswahl in Griechenland hat die Regierungspartei einen weiteren Sieg erzielt. Die konservative \"Nea Dimokratia\" führt nach Auszählung fast aller Stimmen mit gut 40 Prozent. Die oppositionelle linke Partei \"Syriza\" liegt demnach mit knapp 18 Przent deutlich abgeschlagen auf Platz zwei.",
-          "link": "https://www.deutschlandfunk.de/konservative-regierungspartei-erzielt-absolute-mehrheit-der-mandate-102.html",
-          "publishedOn": "2023-06-26T01:50:31.000Z",
-          "wordCount": 906,
-          "title": "Parlamentswahl in Griechenland - Konservative Regierungspartei erzielt absolute Mehrheit der Mandate",
-          "imageUrl": "https://assets.deutschlandfunk.de/8e4f9ad8-5f5c-424a-9de3-cf28286493d2/1920x1080.jpg?t=1687714437870"
-        },
-        {
-          "id": "lauterbach-beraet-mit-fachleuten-ueber-umgang-mit-hitzewellen-100",
-          "author": null,
-          "description": "Bundesgesundheitsminister Lauterbach treibt seine Planungen für den künftigen Umgang mit Hitzewellen voran.",
-          "link": "https://www.deutschlandfunk.de/lauterbach-beraet-mit-fachleuten-ueber-umgang-mit-hitzewellen-100.html",
-          "publishedOn": "2023-06-26T01:50:31.000Z",
-          "wordCount": 734,
-          "title": "Gesundheit - Lauterbach berät mit Fachleuten über Umgang mit Hitzewellen",
-          "imageUrl": "https://assets.deutschlandfunk.de/64d9ac60-a0bd-4d63-917c-98c58fe0fc4e/1920x1080.jpg?t=1687341767866"
-        },
-        {
-          "id": "positives-fazit-der-special-olympics-hoffnung-auf-staerkere-oeffnung-von-sportvereinen-fuer-menschen-102",
-          "author": null,
-          "description": "Am Brandenburger Tor in Berlin sind die Special Olympics mit einer Abschlussfeier zu Ende gegangen.",
-          "link": "https://www.deutschlandfunk.de/positives-fazit-der-special-olympics-hoffnung-auf-staerkere-oeffnung-von-sportvereinen-fuer-menschen-102.html",
-          "publishedOn": "2023-06-26T01:50:31.000Z",
-          "wordCount": 761,
-          "title": "Weltspiele - Positives Fazit der Special Olympics - Hoffnung auf stärkere Öffnung von Sportvereinen für Menschen mit Behinderung",
-          "imageUrl": "https://assets.deutschlandfunk.de/cc886736-63b9-4700-b196-ae8762d79d6d/1920x1080.jpg?t=1687725721276"
-        },
-        {
-          "id": "kommission-praesentiert-vorschlag-fuer-hoehe-des-mindestlohns-100",
-          "author": null,
-          "description": "Die Mindestlohnkommission legt heute ihren Vorschlag für die neue gesetzliche Untergrenze des Arbeitsentgelts vor.",
-          "link": "https://www.deutschlandfunk.de/kommission-praesentiert-vorschlag-fuer-hoehe-des-mindestlohns-100.html",
-          "publishedOn": "2023-06-26T01:50:31.000Z",
-          "wordCount": 697,
-          "title": "Arbeitsentgelt - Kommission präsentiert Vorschlag für Höhe des Mindestlohns",
-          "imageUrl": "https://assets.deutschlandfunk.de/505c0114-99df-4407-a036-0e40da6e86c3/1920x1080.jpg?t=1645628904751"
-        },
-        {
-          "id": "eu-aussenminister-beraten-ueber-entwicklungen-in-russland-100",
-          "author": null,
-          "description": "Die Außenminister der EU-Staaten tauschen sich heute in Luxemburg über die Entwicklungen in Russland aus.",
-          "link": "https://www.deutschlandfunk.de/eu-aussenminister-beraten-ueber-entwicklungen-in-russland-100.html",
-          "publishedOn": "2023-06-26T01:50:31.000Z",
-          "wordCount": 746,
-          "title": "Luxemburg - EU-Außenminister beraten über Entwicklungen in Russland",
-          "imageUrl": "https://assets.deutschlandfunk.de/2edab0ec-563b-4e0e-876d-6a00442d873d/1920x1080.jpg?t=1685608636894"
-        },
-        {
-          "id": "spd-gruene-und-linke-einigen-sich-auf-fortsetzung-der-koalition-112",
-          "author": null,
-          "description": "Sozialdemokraten, Grüne und Linke in Bremen haben sich auf die Fortsetzung ihrer Koalition für die kommenden vier Jahre geeinigt. Die Verhandlungen seien nach fast vier Wochen erfolgreich abgeschlossen worden, sagte der SPD-Landesgeschäftsführer Roland Pahl am Sonntag. Der Koalitionsvertrag muss noch von den Parteigremien gebilligt werden.",
-          "link": "https://www.deutschlandfunk.de/spd-gruene-und-linke-einigen-sich-auf-fortsetzung-der-koalition-112.html",
-          "publishedOn": "2023-06-26T01:50:31.000Z",
-          "wordCount": 962,
-          "title": "Bremen - SPD, Grüne und Linke einigen sich auf Fortsetzung der Koalition",
-          "imageUrl": "https://assets.deutschlandfunk.de/42e8001b-4a81-49fb-b7e4-15581b4dc098/1920x1080.jpg?t=1685455008356"
-        },
-        {
-          "id": "achterbahn-entgleist-ein-toter-und-neun-verletzte-in-stockholm-106",
-          "author": null,
-          "description": "In einem Freizeitpark in der schwedischen Hauptstadt Stockholm ist bei der Entgleisung eines Achterbahnwagens ein Mensch ums Leben gekommen.",
-          "link": "https://www.deutschlandfunk.de/achterbahn-entgleist-ein-toter-und-neun-verletzte-in-stockholm-106.html",
-          "publishedOn": "2023-06-26T01:50:31.000Z",
-          "wordCount": 704,
-          "title": "Schweden - Achterbahn entgleist: Ein Toter und neun Verletzte in Stockholm",
-          "imageUrl": "https://assets.deutschlandfunk.de/0577b9bf-aa06-4976-9847-97a77860db66/1920x1080.jpg?t=1687700175948"
-        },
-        {
-          "id": "praesidentenwahl-hat-begonnen-vorwuerfe-der-manipulation-108",
-          "author": null,
-          "description": "In Guatemala hat die Wahl eines neuen Präsidenten begonnen.",
-          "link": "https://www.deutschlandfunk.de/praesidentenwahl-hat-begonnen-vorwuerfe-der-manipulation-108.html",
-          "publishedOn": "2023-06-26T01:50:31.000Z",
-          "wordCount": 709,
-          "title": "Guatemala - Präsidentenwahl hat begonnen - Vorwürfe der Manipulation",
-          "imageUrl": "https://assets.deutschlandfunk.de/83f6b812-81a7-4430-9380-b43f507bfbac/1920x1080.jpg?t=1687704184803"
-        },
-        {
-          "id": "aktivisten-mindestens-elf-tote-bei-luftangriffen-106",
-          "author": null,
-          "description": "Bei russischen Luftangriffen in Syrien sind nach Angaben von Aktivisten mindestens 13 Menschen getötet worden, darunter neun Zivilisten.",
-          "link": "https://www.deutschlandfunk.de/aktivisten-mindestens-elf-tote-bei-luftangriffen-106.html",
-          "publishedOn": "2023-06-26T01:50:31.000Z",
-          "wordCount": 664,
-          "title": "Syrien - Aktivisten: Mindestens elf Tote bei Luftangriffen",
-          "imageUrl": "https://assets.deutschlandfunk.de/FILE_d50214fa697aaa664daf2b696fde5308/1920x1080.jpg?t=1635857002877"
-        },
-        {
-          "id": "polizei-nimmt-teilnehmer-von-pride-walk-in-istanbul-fest-108",
-          "author": null,
-          "description": "In der türkischen Stadt Istanbul sind bei einer Demonstration für die Rechte homosexueller und queerer Menschen nach jüngsten Angaben mindestens 90 Menschen festgenommen worden.",
-          "link": "https://www.deutschlandfunk.de/polizei-nimmt-teilnehmer-von-pride-walk-in-istanbul-fest-108.html",
-          "publishedOn": "2023-06-26T01:50:31.000Z",
-          "wordCount": 732,
-          "title": "Türkei - Polizei nimmt Teilnehmer von Pride-Walk in Istanbul fest",
-          "imageUrl": "https://assets.deutschlandfunk.de/0523c2ae-5a04-4044-9b24-a7381fa6a7a5/1920x1080.jpg?t=1687706397051"
-        },
-        {
-          "id": "litauen-fordert-staerkung-der-nato-ostflanke-108",
-          "author": null,
-          "description": "Litauens Präsident Nauseda fordert nach dem gescheiterten Aufstand der russischen Privatarmee Wagner gegen die Militärführung in Moskau eine weitere Stärkung der NATO-Ostflanke.",
-          "link": "https://www.deutschlandfunk.de/litauen-fordert-staerkung-der-nato-ostflanke-108.html",
-          "publishedOn": "2023-06-26T01:50:31.000Z",
-          "wordCount": 714,
-          "title": "Nach Machtkampf in Russland - Litauen fordert Stärkung der NATO-Ostflanke",
-          "imageUrl": "https://assets.deutschlandfunk.de/55f6aefc-7dc3-4423-86a1-d8670da97e14/1920x1080.jpg?t=1656349257989"
-        },
-        {
-          "id": "russische-behoerden-melden-schaeden-an-haeusern-und-strassen-nach-soeldner-vormarsch-102",
-          "author": null,
-          "description": "Bei dem Vormarsch aufständischer Wagner-Söldner in Russland hat es nach Behördenangaben Zerstörungen an Häusern und Straßen gegeben.",
-          "link": "https://www.deutschlandfunk.de/russische-behoerden-melden-schaeden-an-haeusern-und-strassen-nach-soeldner-vormarsch-102.html",
-          "publishedOn": "2023-06-26T01:50:31.000Z",
-          "wordCount": 782,
-          "title": "Wagner-Aufstand - Russische Behörden melden Schäden an Häusern und Straßen nach Söldner-Vormarsch",
-          "imageUrl": "https://assets.deutschlandfunk.de/6e58f323-a4d5-4200-87ef-8a1f6862939e/1920x1080.jpg?t=1687691639073"
-        },
-        {
-          "id": "usa-sprechen-von-rissen-im-russischen-machtgefuege-moskau-versichert-sich-der-unterstuetzung-chinas--106",
-          "author": null,
-          "description": "Die US-Regierung sieht im inzwischen abgebrochenen Aufstand der Söldner-Gruppe Wagner ein Zeichen der Schwäche Russlands.",
-          "link": "https://www.deutschlandfunk.de/usa-sprechen-von-rissen-im-russischen-machtgefuege-moskau-versichert-sich-der-unterstuetzung-chinas--106.html",
-          "publishedOn": "2023-06-26T01:50:31.000Z",
-          "wordCount": 952,
-          "title": "Nach Wagner-Aufstand - USA sprechen von \"Rissen\" im russischen Machtgefüge - Moskau versichert sich der Unterstützung Chinas und Nordkoreas",
-          "imageUrl": "https://assets.deutschlandfunk.de/7c758e38-d983-44f3-93f0-8ac92389a6f5/1920x1080.jpg?t=1687608438782"
-        },
-        {
-          "id": "deutsche-basketballerinnen-werden-sechste-106",
-          "author": null,
-          "description": "Die deutschen Basketballerinnen haben die Europameisterschaft in Slowenien auf Platz sechs beendet.",
-          "link": "https://www.deutschlandfunk.de/deutsche-basketballerinnen-werden-sechste-106.html",
-          "publishedOn": "2023-06-26T01:50:31.000Z",
-          "wordCount": 688,
-          "title": "EM in Slowenien - Deutsche Basketballerinnen werden Sechste",
-          "imageUrl": "https://assets.deutschlandfunk.de/fc29a8bb-072b-4974-bee5-4ab32034e9d8/1920x1080.jpg?t=1687726705904"
-        },
-        {
-          "id": "in-der-nacht-gewitter-moeglich-19-bis-11-grad-116",
-          "author": null,
-          "description": "Das Wetter: In der Nacht von der Nordsee bis zur Eifel Bewölkungsverdichtung und im Emsland erste Schauer. 20 bis 10 Grad. Am Tag in der Nordhälfte von West nach Ost Durchzug von Wolken und Regen, mitunter teils kräftige Gewitter. Im Süden Sonne, am Nachmittag und Abend über dem Bergland vereinzelte Gewitter. 20 bis 33 Grad.",
-          "link": "https://www.deutschlandfunk.de/in-der-nacht-gewitter-moeglich-19-bis-11-grad-116.html",
-          "publishedOn": "2023-06-26T01:50:31.000Z",
-          "wordCount": 707,
-          "title": "Wetter - In der Nacht Gewitter möglich, 19 bis 11 Grad",
-          "imageUrl": "https://assets.deutschlandfunk.de/dbafec90-08e4-4128-acbe-a838ef9fd4fe/1920x1080.jpg?t=1686964705094"
         }
       ]
     }
