@@ -6,6 +6,96 @@
       "siteUrl": "https://stadt-bremerhaven.de",
       "articles": [
         {
+          "id": "https://stadt-bremerhaven.de/?p=1212269",
+          "author": "Gastautor",
+          "description": "Ein herzliches Willkommen zum Cloud-Gaming-Rückblick, ausnahmsweise am Montag! Falls ihr neu hier seid: Unser Gastautor Stefan hat an dieser Stelle alle wichtigen News der aktuellen Kalenderwoche zum Thema Cloud-Gaming für euch kompakt zusammengefasst. Nachdem der Rückblick letzte Woche eine Pause...\nZum Beitrag: Der Cloud-Gaming-Rückblick – KW 51\r\n\r\nZum Blog: Caschys Blog\r\n\r\nDer RSS-Feed kann auch als Werbemittel gebucht werden. Mit ihm kann man über 55.000 Abonnenten erreichen. Schreibt uns gerne an.",
+          "link": "https://stadt-bremerhaven.de/der-cloud-gaming-rueckblick-kw-51/",
+          "publishedOn": "2023-12-25T17:00:27.000Z",
+          "wordCount": 2901,
+          "title": "Der Cloud-Gaming-Rückblick – KW 51",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2023/09/Logitech-G-Cloud-Test-1.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1212384",
+          "author": "caschy",
+          "description": "Über die iOS-App Replica hatten wir schon vor Jahren gebloggt. Wenn Replica installiert ist, können Nutzer beispielsweise Fotos oder Videos an fast jeden Fernseher oder Computer senden. Zu den unterstützten Geräten gehören Streaming-Geräte wie Google Chromecast, Amazon Fire TV, Android...\nZum Beitrag: Replica: iOS-App erlaubt Bildschirmspiegelung\r\n\r\nZum Blog: Caschys Blog\r\n\r\nDer RSS-Feed kann auch als Werbemittel gebucht werden. Mit ihm kann man über 55.000 Abonnenten erreichen. Schreibt uns gerne an.",
+          "link": "https://stadt-bremerhaven.de/replica-ios-app-erlaubt-bildschirmspiegelung/",
+          "publishedOn": "2023-12-25T16:21:04.000Z",
+          "wordCount": 2145,
+          "title": "Replica: iOS-App erlaubt Bildschirmspiegelung",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2023/12/replica.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1212381",
+          "author": "caschy",
+          "description": "Spieler bekommen derzeit The Outer Worlds: Spacer’s Choice Edition gratis angeboten. Bist du von traditionellen Rollenspielen gelangweilt? The Outer Worlds: Spacer’s Choice Edition, das gesamte Hauptspiel inklusive aller Erweiterungen, dürfte da ein Tipp sein, wer vor dem Spielen einen Test...\nZum Beitrag: Gratis: The Outer Worlds: Spacer’s Choice Edition\r\n\r\nZum Blog: Caschys Blog\r\n\r\nDer RSS-Feed kann auch als Werbemittel gebucht werden. Mit ihm kann man über 55.000 Abonnenten erreichen. Schreibt uns gerne an.",
+          "link": "https://stadt-bremerhaven.de/gratis-the-outer-worlds-spacers-choice-edition/",
+          "publishedOn": "2023-12-25T16:03:09.000Z",
+          "wordCount": 2326,
+          "title": "Gratis: The Outer Worlds: Spacer’s Choice Edition",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2023/02/Outer-Worlds-1.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1211832",
+          "author": "Felix Frank",
+          "description": "Das Hasso Plattner Institut (kurz: HPI) wertet alljährlich die am häufigsten geleakten Passwörter aus. Logisch, bei der Vielzahl an Diensten gestalten sich das viele Personen sicherlich sehr komfortabel und verwenden auch bei verschiedenen Diensten dieselben Passwörter. Da haben Cyberkriminelle jedoch...\nZum Beitrag: Hasso Plattner Institut: 123456789 ist das beliebteste Passwort 2023\r\n\r\nZum Blog: Caschys Blog\r\n\r\nDer RSS-Feed kann auch als Werbemittel gebucht werden. Mit ihm kann man über 55.000 Abonnenten erreichen. Schreibt uns gerne an.",
+          "link": "https://stadt-bremerhaven.de/hasso-plattner-institut-123456789-ist-das-beliebteste-passwort-2023/",
+          "publishedOn": "2023-12-25T14:00:22.000Z",
+          "wordCount": 2573,
+          "title": "Hasso Plattner Institut: 123456789 ist das beliebteste Passwort 2023",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2021/09/Passwort_.webp"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1212377",
+          "author": "caschy",
+          "description": "Microsoft hat in seiner Roadmap bekannt gegeben, dass Outlook auf dem Mac ab Januar 2024 eine neue Funktion spendiert bekommen wird. Nutzer werden die Funktion bekommen, dass sie To Do innerhalb von Outlook direkt nutzen können. Wer es tatsächlich bislang...\nZum Beitrag: Microsoft Outlook: Mac-Version bekommt To-Do-Integration\r\n\r\nZum Blog: Caschys Blog\r\n\r\nDer RSS-Feed kann auch als Werbemittel gebucht werden. Mit ihm kann man über 55.000 Abonnenten erreichen. Schreibt uns gerne an.",
+          "link": "https://stadt-bremerhaven.de/microsoft-outlook-mac-version-bekommt-to-do-integration/",
+          "publishedOn": "2023-12-25T13:00:04.000Z",
+          "wordCount": 2398,
+          "title": "Microsoft Outlook: Mac-Version bekommt To-Do-Integration",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2020/01/Outlook-Logo-Android-2020.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1212299",
+          "author": "Felix Frank",
+          "description": "Das nahende Support-Ende von Windows 10 hat die Marktforscher von Canalys Research auf den Plan gerufen. So warnt man davor, dass die Nachfrage nach PCs ohne Sicherheitsupdates gering sein könnte, wenngleich viele Geräte auch nach dem Ende der Betriebssystemunterstützung funktionsfähig...\nZum Beitrag: Support-Ende von Windows 10 könnte Entsorgung von 240 Millionen PCs bedeuten\r\n\r\nZum Blog: Caschys Blog\r\n\r\nDer RSS-Feed kann auch als Werbemittel gebucht werden. Mit ihm kann man über 55.000 Abonnenten erreichen. Schreibt uns gerne an.",
+          "link": "https://stadt-bremerhaven.de/support-ende-von-windows-10-koennte-entsorgung-von-240-millionen-pcs-bedeuten/",
+          "publishedOn": "2023-12-25T11:00:35.000Z",
+          "wordCount": 4372,
+          "title": "Support-Ende von Windows 10 könnte Entsorgung von 240 Millionen PCs bedeuten",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/07/windows10_.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1212333",
+          "author": "Benjamin Mamerow",
+          "description": "Vielleicht nutzt ja der eine oder andere von euch den Gmail-Client Mimestream auf seinem Mac? Dessen Entwickler haben nun per Mail darüber informiert, dass das Update auf Version 1.2 veröffentlicht worden ist. Darin enthalten sind ein paar interessante Neuerungen. So...\nZum Beitrag: Mimestream: Gmail-Client für macOS nun in Version 1.2 verfügbar\r\n\r\nZum Blog: Caschys Blog\r\n\r\nDer RSS-Feed kann auch als Werbemittel gebucht werden. Mit ihm kann man über 55.000 Abonnenten erreichen. Schreibt uns gerne an.",
+          "link": "https://stadt-bremerhaven.de/mimestream-gmail-client-fuer-macos-nun-in-version-1-2-verfuegbar/",
+          "publishedOn": "2023-12-25T09:00:34.000Z",
+          "wordCount": 2230,
+          "title": "Mimestream: Gmail-Client für macOS nun in Version 1.2 verfügbar",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/07/1500x500_.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1212373",
+          "author": "caschy",
+          "description": "Im neuesten Weihnachtsupdate erweitert Telegram seine Funktionalität: Kanäle haben jetzt die Möglichkeit, Hintergründe, Emoji-Status und Profil-Logos zu personalisieren. Des Weiteren können Nutzer Kanalnachrichten nun in ihren Stories wiederveröffentlichen. Die Vergabe von Telegram Premium an mehrere Empfänger gleichzeitig wurde ebenso eingeführt....\nZum Beitrag: Telegram: Kanal-Erscheinungsbild, Beiträge in Stories veröffentlichen und weiteres\r\n\r\nZum Blog: Caschys Blog\r\n\r\nDer RSS-Feed kann auch als Werbemittel gebucht werden. Mit ihm kann man über 55.000 Abonnenten erreichen. Schreibt uns gerne an.",
+          "link": "https://stadt-bremerhaven.de/telegram-kanal-erscheinungsbild-beitraege-in-stories-veroeffentlichen-und-weiteres/",
+          "publishedOn": "2023-12-25T07:00:04.000Z",
+          "wordCount": 2341,
+          "title": "Telegram: Kanal-Erscheinungsbild, Beiträge in Stories veröffentlichen und weiteres",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2019/04/telegram_logo.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1212368",
+          "author": "caschy",
+          "description": "Bis um 17 Uhr können Interessierte am 25.12. Ghostwire: Tokyo im Epic Games Store kostenlos bekommen. „Ghostwire: Tokyo”, entwickelt von Tango Gameworks (Publisher: Bethesda Softworks) erhielt 2022 beim Erscheinen eine recht solide Resonanz: Das Spiel wurde nicht verrissen, konnte aber...\nZum Beitrag: Ghostwire: Tokyo derzeit gratis\r\n\r\nZum Blog: Caschys Blog\r\n\r\nDer RSS-Feed kann auch als Werbemittel gebucht werden. Mit ihm kann man über 55.000 Abonnenten erreichen. Schreibt uns gerne an.",
+          "link": "https://stadt-bremerhaven.de/ghostwire-tokyo-derzeit-gratis/",
+          "publishedOn": "2023-12-25T05:55:31.000Z",
+          "wordCount": 2182,
+          "title": "Ghostwire: Tokyo derzeit gratis",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/02/Ghostwire-Tokyo.jpeg"
+        },
+        {
           "id": "https://stadt-bremerhaven.de/?p=1212041",
           "author": "Benjamin Mamerow",
           "description": "Die Plattform Humble Bundle hat sich mit gog.com zusammengetan, um euch zu den Feiertagen ein neues Spielepaket (Partnerlink) zu präsentieren. Jenes besteht aus 4, beziehungsweise 7 RPG-Titeln – je nach Stufe. Der aktuelle Preis für alle Games liegt bei mindestens...\nZum Beitrag: Humble Bundle: Neues Spielepaket mit GOG-RPGs\r\n\r\nZum Blog: Caschys Blog\r\n\r\nDer RSS-Feed kann auch als Werbemittel gebucht werden. Mit ihm kann man über 55.000 Abonnenten erreichen. Schreibt uns gerne an.",
@@ -5124,116 +5214,6 @@
           "wordCount": 3767,
           "title": "Xiaomi 13T im Kurztest",
           "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2023/11/Xiaomi-13T-1-1.jpg"
-        },
-        {
-          "id": "https://stadt-bremerhaven.de/?p=1207492",
-          "author": "André Westphal",
-          "description": "Hisense hat für 2024 bereits einen neuen LCD-Fernseher angedeutet, der es technisch in sich haben soll. Denn der Hisense 110UX ULED X soll auf beeindruckende 10.000 Nits Spitzenhelligkeit kommen. Als Vergleich: Aktuelle OLED-TVs erreichen maximal ca. 2.200 Nits. Bei LCD-TVs...\nZum Beitrag: Hisense kündigt Mini-LED-TV mit 10.000 Nits für 2024 an\r\n\r\nZum Blog: Caschys Blog\r\n\r\nDer RSS-Feed kann auch als Werbemittel gebucht werden. Mit ihm kann man über 55.000 Abonnenten erreichen. Schreibt uns gerne an.",
-          "link": "https://stadt-bremerhaven.de/hisense-kuendigt-mini-led-tv-mit-10-000-nits-fuer-2024-an/",
-          "publishedOn": "2023-11-26T13:00:41.000Z",
-          "wordCount": 2457,
-          "title": "Hisense kündigt Mini-LED-TV mit 10.000 Nits für 2024 an",
-          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2023/11/hisense_110ux.jpg"
-        },
-        {
-          "id": "https://stadt-bremerhaven.de/?p=1207565",
-          "author": "André Westphal",
-          "description": "Laut den Analysten von Counterpoint Research hat sich der internationale Markt für Smartphones im Oktober 2023 leicht erholt. So konnte im Jahresvergleich das erste Wachstum seit Juni 2021 erzielt werden. Dabei steht der Oktober 2023 für die höchsten, monatlichen Smartphone-Verkaufszahlen...\nZum Beitrag: Internationaler Smartphone-Markt erholt sich langsam\r\n\r\nZum Blog: Caschys Blog\r\n\r\nDer RSS-Feed kann auch als Werbemittel gebucht werden. Mit ihm kann man über 55.000 Abonnenten erreichen. Schreibt uns gerne an.",
-          "link": "https://stadt-bremerhaven.de/internationaler-smartphone-markt-erholt-sich-langsam/",
-          "publishedOn": "2023-11-26T11:30:43.000Z",
-          "wordCount": 2141,
-          "title": "Internationaler Smartphone-Markt erholt sich langsam",
-          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2023/10/iPhone-15-pro-2.jpg"
-        },
-        {
-          "id": "https://stadt-bremerhaven.de/?p=1207214",
-          "author": "caschy",
-          "description": "Viele Wege führen bekanntlich nach Rom. So verhält es sich auch mit der Sicherung von Fotos, die man auf seinem iPhone lagert (oder auch auf dem Android-Smartphone). iCloud, Google Drive, Dropbox, OneDrive, Amazon Photos, Google Fotos – zahlreiche Dienste bieten...\nZum Beitrag: PhotoSync: Drahtloses Sichern von Fotos und Videos\r\n\r\nZum Blog: Caschys Blog\r\n\r\nDer RSS-Feed kann auch als Werbemittel gebucht werden. Mit ihm kann man über 55.000 Abonnenten erreichen. Schreibt uns gerne an.",
-          "link": "https://stadt-bremerhaven.de/photosync-drahtloses-sichern-von-fotos-und-videos/",
-          "publishedOn": "2023-11-26T10:00:17.000Z",
-          "wordCount": 4678,
-          "title": "PhotoSync: Drahtloses Sichern von Fotos und Videos",
-          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2023/11/SCR-20231120-pucy.jpg"
-        },
-        {
-          "id": "https://stadt-bremerhaven.de/?p=1207486",
-          "author": "André Westphal",
-          "description": "Samsung verlängert nach eigenen Angaben die Herstellergarantie für die Galaxy Enterprise Edition-Modelle. So beträgt der verlängerte Zeitraum dann 36 statt wie bisher 24 Monate. Das Angebot gilt für alle Galaxy-Smartphones und -Tablets der Enterprise Edition, die ab 2023 auf den...\nZum Beitrag: Samsung verlängert Herstellergarantie für die Galaxy Enterprise Editionen\r\n\r\nZum Blog: Caschys Blog\r\n\r\nDer RSS-Feed kann auch als Werbemittel gebucht werden. Mit ihm kann man über 55.000 Abonnenten erreichen. Schreibt uns gerne an.",
-          "link": "https://stadt-bremerhaven.de/samsung-verlaengert-herstellergarantie-fuer-die-galaxy-enterprise-editionen/",
-          "publishedOn": "2023-11-26T08:30:45.000Z",
-          "wordCount": 2258,
-          "title": "Samsung verlängert Herstellergarantie für die Galaxy Enterprise Editionen",
-          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2023/11/Samsung_Galaxy_S23_Ultra_EE-e1700643991516.jpg"
-        },
-        {
-          "id": "https://stadt-bremerhaven.de/?p=1207378",
-          "author": "André Westphal",
-          "description": "Das Europäische Parlament hat sich angeschaut, welche Nachrichtenquellen bei der Bevölkerung in Europa besonders beliebt sind. Über das sogenannte Eurobarometer konnte man da ermitteln, dass das Fernsehen die wichtigste Nachrichtenquelle bei den Befragten (71 %) geblieben ist. Es zeigt sich...\nZum Beitrag: Nachrichten in der EU: Fernsehen bleibt wichtigste Quelle, aber Social Media holt auf\r\n\r\nZum Blog: Caschys Blog\r\n\r\nDer RSS-Feed kann auch als Werbemittel gebucht werden. Mit ihm kann man über 55.000 Abonnenten erreichen. Schreibt uns gerne an.",
-          "link": "https://stadt-bremerhaven.de/nachrichten-in-der-eu-fernsehen-bleibt-wichtigste-quelle-aber-social-media-holt-auf/",
-          "publishedOn": "2023-11-26T07:00:48.000Z",
-          "wordCount": 2786,
-          "title": "Nachrichten in der EU: Fernsehen bleibt wichtigste Quelle, aber Social Media holt auf",
-          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2019/12/EU-Flagge.jpg"
-        },
-        {
-          "id": "https://stadt-bremerhaven.de/?p=1207576",
-          "author": "André Westphal",
-          "description": "Erneut ist eine Woche des Jahres 2023 verstrichen und auch der Black Friday ist gekommen und gegangen. Ich hoffe, ihr konntet eure Ausgaben im Zaum halten bzw. habt zumindest nur solche Dinge gekauft, die ihr wirklich benötigt bzw. auf die...\nZum Beitrag: Immer wieder sonntags KW 47\r\n\r\nZum Blog: Caschys Blog\r\n\r\nDer RSS-Feed kann auch als Werbemittel gebucht werden. Mit ihm kann man über 55.000 Abonnenten erreichen. Schreibt uns gerne an.",
-          "link": "https://stadt-bremerhaven.de/immer-wieder-sonntags-kw-47-12/",
-          "publishedOn": "2023-11-26T05:30:47.000Z",
-          "wordCount": 2682,
-          "title": "Immer wieder sonntags KW 47",
-          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/07/Kaffee-Sonntags.jpg"
-        },
-        {
-          "id": "https://stadt-bremerhaven.de/?p=1207139",
-          "author": "Olli",
-          "description": "Spätestens seit Corona sind Luftreiniger ein Thema für viele Haushalte und Unternehmen. Das Versprechen der sauberen Luft, gereinigt von Viren und Bakterien aller Art, treibt viele zum Kauf. Die Wirksamkeit von Luftreinigern ist umstritten, doch es gibt diverse Studien, die...\nZum Beitrag: Dyson Purifier Big+Quiet ausprobiert – Der Luftreiniger für die größeren Räume\r\n\r\nZum Blog: Caschys Blog\r\n\r\nDer RSS-Feed kann auch als Werbemittel gebucht werden. Mit ihm kann man über 55.000 Abonnenten erreichen. Schreibt uns gerne an.",
-          "link": "https://stadt-bremerhaven.de/dyson-purifier-bigquiet-ausprobiert-der-luftreiniger-fuer-die-groesseren-raeume/",
-          "publishedOn": "2023-11-25T19:00:06.000Z",
-          "wordCount": 2813,
-          "title": "Dyson Purifier Big+Quiet ausprobiert – Der Luftreiniger für die größeren Räume",
-          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2023/05/Dyson-Purifier-BigQiet-Formaldehyde_Lifestyle_2.jpg"
-        },
-        {
-          "id": "https://stadt-bremerhaven.de/?p=1207394",
-          "author": "André Westphal",
-          "description": "Der Wunsch nach mehr Digitalisierung ist in Deutschland generell groß. Das betrifft nicht nur Behörden, sondern z. B. auch die öffentlichen Verkehrsmittel. Allerdings zeigen Erfahrungen aus etwa den USA, dass smarte Lösungen hier oft einen Preis haben: Sie höhlen die...\nZum Beitrag: Öffentliche Verkehrsmittel: Smarte Lösungen höhlen meist die Privatsphäre aus\r\n\r\nZum Blog: Caschys Blog\r\n\r\nDer RSS-Feed kann auch als Werbemittel gebucht werden. Mit ihm kann man über 55.000 Abonnenten erreichen. Schreibt uns gerne an.",
-          "link": "https://stadt-bremerhaven.de/oeffentliche-verkehrsmittel-smarte-loesungen-hoehlen-meist-die-privatsphaere-aus/",
-          "publishedOn": "2023-11-25T17:30:04.000Z",
-          "wordCount": 2634,
-          "title": "Öffentliche Verkehrsmittel: Smarte Lösungen höhlen meist die Privatsphäre aus",
-          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2023/11/Bus.jpg"
-        },
-        {
-          "id": "https://stadt-bremerhaven.de/?p=1207727",
-          "author": "André Westphal",
-          "description": "In den Humble Bundles gibt es nicht nur Spiele, sondern ab und an auch Bücher und Comics. So könnt ihr im aktuellen Humble Comic Bundle: Oni Press Great Graphic Novel Bundle bis zu 20 digitale Ausgaben mitnehmen. Der Einstiegspreis für...\nZum Beitrag: Humble Comic Bundle: Oni Press Great Graphic Novel Bundle – mit „Scott Pilgrim“\r\n\r\nZum Blog: Caschys Blog\r\n\r\nDer RSS-Feed kann auch als Werbemittel gebucht werden. Mit ihm kann man über 55.000 Abonnenten erreichen. Schreibt uns gerne an.",
-          "link": "https://stadt-bremerhaven.de/humble-comic-bundle-oni-press-great-graphic-novel-bundle-mit-scott-pilgrim/",
-          "publishedOn": "2023-11-25T16:00:37.000Z",
-          "wordCount": 2297,
-          "title": "Humble Comic Bundle: Oni Press Great Graphic Novel Bundle – mit „Scott Pilgrim“",
-          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2023/11/Humble-Oni-Bundle.jpg"
-        },
-        {
-          "id": "https://stadt-bremerhaven.de/?p=1207348",
-          "author": "André Westphal",
-          "description": "Pluto TV ist ein werbefinanziertes Streaming-Angebot, das seine Inhalte linear über unterschiedliche Channels auf seiner Plattform verbreitet. Die Nutzung ist kostenlos, ihr müsst euch aber eben mit Werbung und der linearen Ausstrahlung arrangieren. Im Dezember 2023 will man unter anderem...\nZum Beitrag: Pluto TV stellt seine Highlights für den Dezember 2023 vor\r\n\r\nZum Blog: Caschys Blog\r\n\r\nDer RSS-Feed kann auch als Werbemittel gebucht werden. Mit ihm kann man über 55.000 Abonnenten erreichen. Schreibt uns gerne an.",
-          "link": "https://stadt-bremerhaven.de/pluto-tv-stellt-seine-highlights-fuer-den-dezember-2023-vor/",
-          "publishedOn": "2023-11-25T14:30:05.000Z",
-          "wordCount": 2258,
-          "title": "Pluto TV stellt seine Highlights für den Dezember 2023 vor",
-          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2023/09/pluto-tv-2.jpg"
-        },
-        {
-          "id": "https://stadt-bremerhaven.de/?p=1207982",
-          "author": "Felix Frank",
-          "description": "Erst Mitte Oktober gab es das letzte Update für das Nothing Phone (1). Mit Nothing OS 2.0.5 hat man nochmals an kleineren Ecken gefeilt und einige Fehler behoben. Neben diversen Problembehebungen, mit der man die Systemstabilität adressiert hat, bringt man...\nZum Beitrag: Nothing Phone (1): Nothing OS 2.0.5 wird verteilt\r\n\r\nZum Blog: Caschys Blog\r\n\r\nDer RSS-Feed kann auch als Werbemittel gebucht werden. Mit ihm kann man über 55.000 Abonnenten erreichen. Schreibt uns gerne an.",
-          "link": "https://stadt-bremerhaven.de/nothing-phone-1-nothing-os-2-0-5-wird-verteilt/",
-          "publishedOn": "2023-11-25T13:45:22.000Z",
-          "wordCount": 2150,
-          "title": "Nothing Phone (1): Nothing OS 2.0.5 wird verteilt",
-          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/07/Nothing-phone-1-1.jpg"
         }
       ]
     },
@@ -5242,6 +5222,16 @@
       "feedUrl": "https://www.computerbase.de/rss/news.xml",
       "siteUrl": "https://www.computerbase.de/",
       "articles": [
+        {
+          "id": "https://www.computerbase.de/2023-12/weihnachtsraetsel-2023/",
+          "author": null,
+          "description": "<img src=\"https://pics.computerbase.de/1/1/0/3/0/2-f8c4136f6beed417/article-640x360.641a522c.jpg\"><p>Die Fragen im Nikolaus-Rätsel 2023 waren viel zu leicht? Dann ist das Weihnachts-Rätsel 2023 mit Sicherheit genau die richtige Anlaufstelle. Hier geht es im Kern um das Knobeln als solches und das gute Gefühl, die richtigen Lösungen zu haben. Fünf Rätselfüchse dürfen sich am Ende aber auch über ein ComputerBase-Tasse freuen.</p>",
+          "link": "https://www.computerbase.de/2023-12/weihnachtsraetsel-2023/",
+          "publishedOn": "2023-12-25T09:00:00.000Z",
+          "wordCount": 1344,
+          "title": "Weihnachts-Rätsel 2023: Fünf Fragen für ganz Mutige für die Feiertage",
+          "imageUrl": "https://pics.computerbase.de/1/1/0/3/0/2-f8c4136f6beed417/article-1280x720.641a522c.jpg"
+        },
         {
           "id": "https://www.computerbase.de/2023-12/llm-forschung-apple-will-ai-tools-wie-chatgpt-direkt-auf-dem-iphone-laufen-lassen/",
           "author": null,
@@ -7821,56 +7811,6 @@
           "wordCount": 966,
           "title": "LG C4 und G4: Neue OLED-Fernseher gehen auf FreeSync mit 144 Hz",
           "imageUrl": "https://pics.computerbase.de/1/1/0/1/7/1-863e98f646758544/article-1280x720.92fa15bc.jpg"
-        },
-        {
-          "id": "https://www.computerbase.de/2023-11/sonntagsfrage-seht-ihr-noch-bedarf-und-nutzen-fuer-hedt-plattformen/",
-          "author": null,
-          "description": "<img src=\"https://pics.computerbase.de/1/1/0/1/4/9-1dbc33bf2bf227f8/article-640x360.1fb2db16.jpg\"><p>Diese Woche geht es in der Sonntagsfrage um den High End Desktop. Habt ihr vielleicht selbst eine HEDT-Plattform im Betrieb oder hattet ihr mal eine? Und seht ihr für das lange Zeit verwahrloste HEDT-Segment Ende 2023 noch eine Daseinsberechtigung?</p>",
-          "link": "https://www.computerbase.de/2023-11/sonntagsfrage-seht-ihr-noch-bedarf-und-nutzen-fuer-hedt-plattformen/",
-          "publishedOn": "2023-11-26T11:00:00.000Z",
-          "wordCount": 1597,
-          "title": "Sonntagsfrage: Seht ihr noch Bedarf und Nutzen für HEDT-Plattformen?",
-          "imageUrl": "https://pics.computerbase.de/1/1/0/1/4/9-1dbc33bf2bf227f8/article-1280x720.1fb2db16.jpg"
-        },
-        {
-          "id": "https://www.computerbase.de/2023-11/amazon-fire-tv-stick-4k-max-test/",
-          "author": null,
-          "description": "<img src=\"https://pics.computerbase.de/1/0/9/9/2/2-a181be690128c7ae/article-640x360.f40215d8.jpg\"><p>Amazon hat den Fire TV Stick 4K Max und Fire TV Stick 4K neu aufgelegt und verspricht mehr Leistung. ComputerBase schickt die Streaming-Sticks durch Benchmarks und wirft einen Blick auf die technischen Veränderungen der neuen Modelle im Vergleich zu ihren Vorgängern.</p>",
-          "link": "https://www.computerbase.de/2023-11/amazon-fire-tv-stick-4k-max-test/",
-          "publishedOn": "2023-11-26T09:00:00.000Z",
-          "wordCount": 4152,
-          "title": "Amazon Fire TV Stick 4K und 4K Max im Test: Streaming-Sticks mit schnellerem SoC und mehr WLAN",
-          "imageUrl": "https://pics.computerbase.de/1/0/9/9/2/2-a181be690128c7ae/article-1280x720.f40215d8.jpg"
-        },
-        {
-          "id": "https://www.computerbase.de/2023-11/nach-musks-antisemitismus-eklat-x-drohen-75-millionen-us-dollar-verlust-an-werbeeinnahmen/",
-          "author": null,
-          "description": "<img src=\"https://pics.computerbase.de/1/1/0/1/6/8-7d39e6cd0c4dcc0b/article-640x360.e2b036c7.jpg\"><p>Interne Dokumente von X (ehemals Twitter) zeigen, dass die Plattform bis zum Jahresende mehr als 75 Millionen US-Dollar an Werbeeinnahmen verlieren könnte, weil große Unternehmen abspringen oder Kampagnen stoppen. Die Reaktion erfolgte nach Musks jüngstem Antisemitismus-Eklat.</p>",
-          "link": "https://www.computerbase.de/2023-11/nach-musks-antisemitismus-eklat-x-drohen-75-millionen-us-dollar-verlust-an-werbeeinnahmen/",
-          "publishedOn": "2023-11-26T08:00:00.000Z",
-          "wordCount": 1012,
-          "title": "Nach Musks Antisemitismus-Eklat: X drohen 75 Millionen US-Dollar Verlust an Werbeeinnahmen",
-          "imageUrl": "https://pics.computerbase.de/1/1/0/1/6/8-7d39e6cd0c4dcc0b/article-1280x720.e2b036c7.jpg"
-        },
-        {
-          "id": "https://www.computerbase.de/2023-11/wochenrueckblick-und-ausblick-2023-w47/",
-          "author": null,
-          "description": "<img src=\"https://pics.computerbase.de/1/1/0/1/5/9-4b38e97efea80244/article-640x360.3c63b897.jpg\"><p>Lange hat es gedauert, bis AMD die Threadripper-7000-Serie auf Basis von Zen 4 vorgestellt hat. Nun sind Threadripper 7980X, 7970X und 7960X (Test) mit bis zu 64 CPU-Kernen aber da und der Artikel ist auf viel Aufmerksamkeit bei der ComputerBase-Leserschaft gestoßen.</p>",
-          "link": "https://www.computerbase.de/2023-11/wochenrueckblick-und-ausblick-2023-w47/",
-          "publishedOn": "2023-11-26T07:00:00.000Z",
-          "wordCount": 1138,
-          "title": "Wochenrück- und Ausblick: Einige Threadripper kommen, manche GeForce gehen",
-          "imageUrl": "https://pics.computerbase.de/1/1/0/1/5/9-4b38e97efea80244/article-1280x720.3c63b897.jpg"
-        },
-        {
-          "id": "https://www.computerbase.de/2023-11/it-sicherheit-bundesjustizminister-will-hackerparagraphen-lockern/",
-          "author": null,
-          "description": "<img src=\"https://pics.computerbase.de/1/1/0/1/6/7-69476ac54054126a/article-640x360.114db0c7.jpg\"><p>Die Bundesregierung will beim sogenannten Hackerparagraphen ansetzen, berichtet Heise Online. IT-Sicherheitsforschung, die sich mit dem Identifizieren und Melden von Schwachstellen befasst, soll künftig rechtssicher möglich sein.</p>",
-          "link": "https://www.computerbase.de/2023-11/it-sicherheit-bundesjustizminister-will-hackerparagraphen-lockern/",
-          "publishedOn": "2023-11-25T16:19:00.000Z",
-          "wordCount": 1035,
-          "title": "IT-Sicherheit: Bundesjustizminister will Hackerparagraphen lockern",
-          "imageUrl": "https://pics.computerbase.de/1/1/0/1/6/7-69476ac54054126a/article-1280x720.114db0c7.jpg"
         }
       ]
     },
@@ -7879,6 +7819,16 @@
       "feedUrl": "https://www.ghacks.net/feed/",
       "siteUrl": null,
       "articles": [
+        {
+          "id": "https://www.ghacks.net/?p=204679",
+          "author": "Martin Brinkmann",
+          "description": "Keeping software up to date on your Windows PCs is not a straightforward process. Sure, some programs include their own update checks and even automatic update options. That's the case for all […]\nThank you for being a Ghacks reader. The post This Windows Winget command tells you which programs have updates appeared first on gHacks Technology News.",
+          "link": "https://www.ghacks.net/2023/12/25/this-winget-command-tells-you-which-programs-have-updates/",
+          "publishedOn": "2023-12-25T05:40:43.000Z",
+          "wordCount": 3199,
+          "title": "This Windows Winget command tells you which programs have updates",
+          "imageUrl": "https://www.ghacks.net/wp-content/uploads/2023/12/nigel-tadyanehondo-pXf4OH65OhE-unsplash.jpg"
+        },
         {
           "id": "https://www.ghacks.net/?p=204676",
           "author": "Ashwin",
@@ -8898,34 +8848,164 @@
           "wordCount": 2979,
           "title": "Some Google Drive users claim that they lost months worth of files",
           "imageUrl": "https://www.ghacks.net/wp-content/uploads/2023/10/Google-dangerous-website-alert_1.jpg"
-        },
-        {
-          "id": "https://www.ghacks.net/?p=204324",
-          "author": "Martin Brinkmann",
-          "description": "Google started out with a \"don't be evil\" motto when it launched its first product, Google Search. Today, Google is a different company. It has created numerous products and abandoned a lot. […]\nThank you for being a Ghacks reader. The post Google is the master of fake Privacy features appeared first on gHacks Technology News.",
-          "link": "https://www.ghacks.net/2023/11/26/google-is-the-master-of-fake-privacy-features/",
-          "publishedOn": "2023-11-26T06:53:26.000Z",
-          "wordCount": 3314,
-          "title": "Google is the master of fake Privacy features",
-          "imageUrl": "https://www.ghacks.net/wp-content/uploads/2023/11/privacy-firefox.jpg"
-        },
-        {
-          "id": "https://www.ghacks.net/?p=204321",
-          "author": "Martin Brinkmann",
-          "description": "Bitlocker is the default encryption technology of the Windows operating system. It is used widely on Windows, but some users prefer third-party solutions, such as VeraCrypt. What many users of Bitlocker don't […]\nThank you for being a Ghacks reader. The post Enable 256-bit Bitlocker encryption on Windows 11 to boost security appeared first on gHacks Technology News.",
-          "link": "https://www.ghacks.net/2023/11/25/enable-256-bit-bitlocker-encryption-on-windows-11-to-boost-security/",
-          "publishedOn": "2023-11-25T13:26:13.000Z",
-          "wordCount": 2935,
-          "title": "Enable 256-bit Bitlocker encryption on Windows 11 to boost security",
-          "imageUrl": "https://www.ghacks.net/wp-content/uploads/2023/11/adi-goldstein-EUsVwEOsblE-unsplash-1.jpg"
         }
       ]
     },
     {
-      "title": "Deutschlandfunk - Fortlaufende Nachrichten vom 25. Dezember 2023",
+      "title": "Deutschlandfunk - Fortlaufende Nachrichten vom 26. Dezember 2023",
       "feedUrl": "https://www.deutschlandfunk.de/nachrichten-100.rss",
-      "siteUrl": "https://www.deutschlandfunk.de/nachrichten-index-30100.html",
+      "siteUrl": "https://www.deutschlandfunk.de/nachrichten-index-30116.html",
       "articles": [
+        {
+          "id": "lage-in-vielen-regionen-deutschlands-angespannt-ortsteil-in-thueringen-evakuiert-100",
+          "author": null,
+          "description": "Der Dauerregen der letzten Tage hat Flüsse und Bäche über die Ufer treten lassen. Deiche drohen zu brechen. Windehausen in Thüringen wurde evakuiert. Der Deutsche Wetterdienst warnt weiterhin vor Dauerregen in mehreren Regionen.",
+          "link": "https://www.deutschlandfunk.de/lage-in-vielen-regionen-deutschlands-angespannt-ortsteil-in-thueringen-evakuiert-100.html",
+          "publishedOn": "2023-12-26T01:07:37.000Z",
+          "wordCount": 875,
+          "title": "Hochwasser - Lage in vielen Regionen Deutschlands angespannt - Ortsteil in Thüringen evakuiert",
+          "imageUrl": "https://bilder.deutschlandfunk.de/e7/b2/41/ff/e7b241ff-398a-446f-9c33-3943a3688a77/windehausen-hochwasser-100-1920x1080.jpg"
+        },
+        {
+          "id": "saechsischer-ministerpraesident-kretschmer-haelt-k-frage-fuer-entschieden-102",
+          "author": null,
+          "description": "Der sächsische Ministerpräsident Kretschmer hält die Frage nach der Kanzlerkandidatur der Union für geklärt.",
+          "link": "https://www.deutschlandfunk.de/saechsischer-ministerpraesident-kretschmer-haelt-k-frage-fuer-entschieden-102.html",
+          "publishedOn": "2023-12-26T01:07:37.000Z",
+          "wordCount": 721,
+          "title": "Union - Sächsischer Ministerpräsident Kretschmer hält K-Frage für entschieden",
+          "imageUrl": "https://bilder.deutschlandfunk.de/c4/18/cb/35/c418cb35-7470-4a00-a3cc-bd743a722354/michael-kretschmer-102-1920x1080.jpg"
+        },
+        {
+          "id": "israels-strategieminister-zu-gespraechen-in-usa-erwartet-100",
+          "author": null,
+          "description": "Israels Minister für Strategische Fragen, Dermer, wird einem Medienbericht zufolge heute zu Gesprächen in den USA erwartet.",
+          "link": "https://www.deutschlandfunk.de/israels-strategieminister-zu-gespraechen-in-usa-erwartet-100.html",
+          "publishedOn": "2023-12-26T01:07:37.000Z",
+          "wordCount": 698,
+          "title": "Medienbericht - Israels Strategieminister zu Gesprächen in USA erwartet",
+          "imageUrl": "https://bilder.deutschlandfunk.de/FI/LE/_2/da/FILE_2daf7199894d48032c9fc07afed74e68/dlf-die-nachrichten-header-2000x1125px-jpg-100-1920x1080.jpg"
+        },
+        {
+          "id": "sperrung-des-hauptbahnhofs-nach-anschlagsdrohung-aufgehoben-106",
+          "author": null,
+          "description": "In Bielefeld hat die Polizei den Hauptbahnhof nach einer mehrstündigen Sperrung wegen einer Anschlagsdrohung wieder freigegeben.",
+          "link": "https://www.deutschlandfunk.de/sperrung-des-hauptbahnhofs-nach-anschlagsdrohung-aufgehoben-106.html",
+          "publishedOn": "2023-12-26T01:07:37.000Z",
+          "wordCount": 722,
+          "title": "Bielefeld - Sperrung des Hauptbahnhofs nach Anschlagsdrohung aufgehoben",
+          "imageUrl": "https://bilder.deutschlandfunk.de/35/be/9e/e8/35be9ee8-ee85-476b-b279-4528c1c23355/hauptbahnhof-bielefeld-gesperrt-100-1920x1080.jpg"
+        },
+        {
+          "id": "usa-fordern-freilassung-nawalnys-114",
+          "author": null,
+          "description": "Die USA haben sich besorgt über die Haftbedingungen des Kreml-Kritikers Nawalny geäußert.",
+          "link": "https://www.deutschlandfunk.de/usa-fordern-freilassung-nawalnys-114.html",
+          "publishedOn": "2023-12-26T01:07:37.000Z",
+          "wordCount": 743,
+          "title": "Russland - USA fordern Freilassung Nawalnys",
+          "imageUrl": "https://bilder.deutschlandfunk.de/b5/d0/a0/09/b5d0a009-b130-4953-9ff3-67c860d43fda/kreml-kritiker-nawalny-100-1920x1080.jpg"
+        },
+        {
+          "id": "erstes-offizielles-weihnachtsfest-am-25-dezember-110",
+          "author": null,
+          "description": "In der Ukraine ist das Weihnachtsfest erstmals am 25. Dezember begangen worden.",
+          "link": "https://www.deutschlandfunk.de/erstes-offizielles-weihnachtsfest-am-25-dezember-110.html",
+          "publishedOn": "2023-12-26T01:07:37.000Z",
+          "wordCount": 738,
+          "title": "Ukraine - Erstes offizielles Weihnachtsfest am 25. Dezember",
+          "imageUrl": "https://bilder.deutschlandfunk.de/07/de/5a/53/07de5a53-a468-4f76-bd0a-9a90bea1c326/ukraine-weihnachten-100-1920x1080.jpg"
+        },
+        {
+          "id": "hilfsorganisation-seawatch-rettet-118-migranten-vor-dem-ertrinken-104",
+          "author": null,
+          "description": "Die deutsche Hilfsorganisation Seawatch hat Heiligabend mehr als einhundert Migranten im Mittelmeer aus Seenot gerettet.",
+          "link": "https://www.deutschlandfunk.de/hilfsorganisation-seawatch-rettet-118-migranten-vor-dem-ertrinken-104.html",
+          "publishedOn": "2023-12-26T01:07:37.000Z",
+          "wordCount": 728,
+          "title": "Mittelmeer - Hilfsorganisation Seawatch rettet 118 Migranten vor dem Ertrinken",
+          "imageUrl": null
+        },
+        {
+          "id": "spd-fraktionschef-muetzenich-wieder-mehr-ueber-frieden-sprechen-102",
+          "author": null,
+          "description": "Der Vorsitzende der SPD-Fraktion im Bundestag, Mützenich, hat die Wortwahl von Verteidigungsminister Pistorius kritisiert, wonach Deutschland wieder kriegstüchtig werden muss.",
+          "link": "https://www.deutschlandfunk.de/spd-fraktionschef-muetzenich-wieder-mehr-ueber-frieden-sprechen-102.html",
+          "publishedOn": "2023-12-26T01:00:08.000Z",
+          "wordCount": 742,
+          "title": "Debatte um Kriegstüchtigkeit - SPD-Fraktionschef Mützenich: \"Wieder mehr über Frieden sprechen\"",
+          "imageUrl": "https://bilder.deutschlandfunk.de/bd/a8/ca/e8/bda8cae8-d931-4129-8b8f-92d5077170e5/rolf-muetzenich-spd-102-1920x1080.jpg"
+        },
+        {
+          "id": "verteidigungsminister-schoigu-ostukrainische-stadt-marjinka-erobert-106",
+          "author": null,
+          "description": "Die russische Armee hat laut Verteidigungsminister Schoigu die ostukrainische Kleinstadt Marjinka eingenommen.",
+          "link": "https://www.deutschlandfunk.de/verteidigungsminister-schoigu-ostukrainische-stadt-marjinka-erobert-106.html",
+          "publishedOn": "2023-12-26T01:00:08.000Z",
+          "wordCount": 715,
+          "title": "Russland - Verteidigungsminister Schoigu: Ostukrainische Stadt Marjinka erobert",
+          "imageUrl": "https://bilder.deutschlandfunk.de/6c/82/5e/72/6c825e72-e6e3-45da-b9a2-6d60d51adf8a/russland-putin-schoigu-100-1920x1080.jpg"
+        },
+        {
+          "id": "israel-will-offensive-gegen-hamas-fortsetzen-hamas-fordert-dauerhaften-waffenstillstand-102",
+          "author": null,
+          "description": "Ungeachtet der Appelle für eine erneute Waffenruhe im Gazastreifen will Israel die Offensive gegen die Terrororganisation Hamas fortsetzen.",
+          "link": "https://www.deutschlandfunk.de/israel-will-offensive-gegen-hamas-fortsetzen-hamas-fordert-dauerhaften-waffenstillstand-102.html",
+          "publishedOn": "2023-12-26T01:00:08.000Z",
+          "wordCount": 768,
+          "title": "Nahostkrieg - Israel will Offensive gegen Hamas fortsetzen - Hamas fordert dauerhaften Waffenstillstand",
+          "imageUrl": "https://bilder.deutschlandfunk.de/f3/d5/1f/1b/f3d51f1b-a8b1-4f51-a719-2247049463f2/israel-unter-druck-gaza-100-1920x1080.jpg"
+        },
+        {
+          "id": "erneut-protest-gegen-mutmasslichen-wahlbetrug-in-belgrad-108",
+          "author": null,
+          "description": "In Serbien haben erneut tausende Anhänger der Opposition gegen mutmaßlichen Betrug bei der Kommunalwahl am 17. Dezember demonstriert.",
+          "link": "https://www.deutschlandfunk.de/erneut-protest-gegen-mutmasslichen-wahlbetrug-in-belgrad-108.html",
+          "publishedOn": "2023-12-26T01:00:08.000Z",
+          "wordCount": 735,
+          "title": "Serbien - Erneut Protest gegen mutmaßlichen Wahlbetrug in Belgrad",
+          "imageUrl": "https://bilder.deutschlandfunk.de/f0/60/bf/cd/f060bfcd-b8f8-478a-9b96-a81805a2f34f/demonstration-serbien-100-1920x1080.jpg"
+        },
+        {
+          "id": "160-tote-nach-angriffen-bewaffneter-gruppen-102",
+          "author": null,
+          "description": "In Nigeria ist die Zahl der Toten, die durch Angriffe bewaffneter Gruppen starben, weiter gestiegen.",
+          "link": "https://www.deutschlandfunk.de/160-tote-nach-angriffen-bewaffneter-gruppen-102.html",
+          "publishedOn": "2023-12-26T01:00:08.000Z",
+          "wordCount": 740,
+          "title": "Nigeria - 160 Tote nach Angriffen bewaffneter Gruppen",
+          "imageUrl": null
+        },
+        {
+          "id": "boerse-in-tripolis-oeffnet-nach-fast-neun-jahren-wieder-104",
+          "author": null,
+          "description": "Nach fast neun Jahren Unterbrechung wird an der libyschen Börse wieder gehandelt.",
+          "link": "https://www.deutschlandfunk.de/boerse-in-tripolis-oeffnet-nach-fast-neun-jahren-wieder-104.html",
+          "publishedOn": "2023-12-26T01:00:08.000Z",
+          "wordCount": 734,
+          "title": "Libyen - Börse in Tripolis öffnet nach fast neun Jahren wieder",
+          "imageUrl": "https://bilder.deutschlandfunk.de/a9/5f/b2/6c/a95fb26c-831d-4b71-bf95-87ea12d0c37a/libyen-boerse-100-1920x1080.jpg"
+        },
+        {
+          "id": "hoechststand-der-krankheitstage-bei-beschaeftigten-wegen-psychischer-erkrankungen-104",
+          "author": null,
+          "description": "In Deutschland haben sich mehr Beschäftigte wegen psychischer Erkrankungen und Verhaltensstörungen krank gemeldet.",
+          "link": "https://www.deutschlandfunk.de/hoechststand-der-krankheitstage-bei-beschaeftigten-wegen-psychischer-erkrankungen-104.html",
+          "publishedOn": "2023-12-26T01:00:08.000Z",
+          "wordCount": 746,
+          "title": "Arbeitswelt - Höchststand der Krankheitstage bei Beschäftigten wegen psychischer Erkrankungen",
+          "imageUrl": "https://bilder.deutschlandfunk.de/0b/b2/1b/c5/0bb21bc5-bf87-4e38-bc25-5acf1912463c/depression-burn-out-100-1920x1080.jpg"
+        },
+        {
+          "id": "wechselhaft-mit-regen-im-sueden-weitgehend-trocken-100",
+          "author": null,
+          "description": "Das Wetter: Nachts in der Nordhälfte teils ergiebiger Regen, in der Südhälfte vielfach trocken. Tiefstwerte 11 bis 1 Grad. Am Tag wechselnd bewölkt. Im Norden schauerartiger Regen, in der Mitte abklingende Niederschläge, im Süden weitgehend trocken. Tageshöchstwerte 7 bis 13 Grad.",
+          "link": "https://www.deutschlandfunk.de/wechselhaft-mit-regen-im-sueden-weitgehend-trocken-100.html",
+          "publishedOn": "2023-12-26T01:00:08.000Z",
+          "wordCount": 692,
+          "title": "Wetter - Wechselhaft mit Regen, im Süden weitgehend trocken",
+          "imageUrl": "https://bilder.deutschlandfunk.de/4c/f0/20/98/4cf02098-33bc-4b73-9e6a-bbfd7dd69bac/pressefoto-funkhaus-koeln-nachts-100-1920x1080.jpg"
+        },
         {
           "id": "tausende-migranten-starten-karawane-richtung-usa-114",
           "author": null,
@@ -14064,186 +14144,6 @@
           "publishedOn": "2023-11-27T00:09:04.000Z",
           "wordCount": 734,
           "title": "Wetter - Nachts im Osten bis in tiefe Lage Schnee, +4 bis -5 Grad",
-          "imageUrl": "https://bilder.deutschlandfunk.de/4c/f0/20/98/4cf02098-33bc-4b73-9e6a-bbfd7dd69bac/pressefoto-funkhaus-koeln-nachts-100-1920x1080.jpg?t=1642078545401"
-        },
-        {
-          "id": "regierung-in-london-will-industrie-mit-milliarden-ankurbeln-100",
-          "author": null,
-          "description": "Die britische Regierung will die heimische Industrie mit mehreren Milliarden Pfund unterstützen.",
-          "link": "https://www.deutschlandfunk.de/regierung-in-london-will-industrie-mit-milliarden-ankurbeln-100.html",
-          "publishedOn": "2023-11-26T00:36:54.000Z",
-          "wordCount": 729,
-          "title": "Großbritannien - Regierung in London will Industrie mit Milliarden ankurbeln",
-          "imageUrl": "https://bilder.deutschlandfunk.de/FI/LE/_f/6a/FILE_f6a5315db298071900ed99f4147d39e5/imago88631211h-jpg-100-1920x1080.jpg?t=1597649424942"
-        },
-        {
-          "id": "hamas-terroristen-lassen-weitere-17-israelische-geiseln-frei-darunter-vier-deutsche-doppelstaatler-100",
-          "author": null,
-          "description": "Unter den von der Hamas freigelassenen Geiseln sind nach Angaben von Bundesaußenministerin Baerbock vier Personen, die neben der israelischen auch die deutsche Staatsbürgerschaft haben. Das teilte Baerbock auf der Plattform X mit.",
-          "link": "https://www.deutschlandfunk.de/hamas-terroristen-lassen-weitere-17-israelische-geiseln-frei-darunter-vier-deutsche-doppelstaatler-100.html",
-          "publishedOn": "2023-11-26T00:36:54.000Z",
-          "wordCount": 806,
-          "title": "Krieg im Nahen Osten - Hamas-Terroristen lassen weitere 17 israelische Geiseln frei, darunter vier deutsche Doppelstaatler",
-          "imageUrl": "https://bilder.deutschlandfunk.de/64/e4/2c/c0/64e42cc0-3d38-4e39-b2cc-1b579c8423a7/gaza-geiseln-frei-100-1920x1080.jpg?t=1700848915258"
-        },
-        {
-          "id": "steinmeier-und-bas-in-israel-erwartet-100",
-          "author": null,
-          "description": "Bundespräsident Steinmeier und Bundestagspräsidentin Bas reisen heute zu einem Solidaritätsbesuch nach Israel.",
-          "link": "https://www.deutschlandfunk.de/steinmeier-und-bas-in-israel-erwartet-100.html",
-          "publishedOn": "2023-11-26T00:36:54.000Z",
-          "wordCount": 692,
-          "title": "Krieg im Nahen Osten - Steinmeier und Bas in Israel erwartet",
-          "imageUrl": null
-        },
-        {
-          "id": "delegierte-folgen-der-parteispitze-in-der-asyl-und-migrationsdebatte-100",
-          "author": null,
-          "description": "Der Parteitag von Bündnis 90/Die Grünen hat am Abend nach einer kontroversen Debatte den Kurs der Parteispitze in der Asyl- und Migrationsdebatte unterstützt.",
-          "link": "https://www.deutschlandfunk.de/delegierte-folgen-der-parteispitze-in-der-asyl-und-migrationsdebatte-100.html",
-          "publishedOn": "2023-11-26T00:36:54.000Z",
-          "wordCount": 743,
-          "title": "Grünen-Parteitag - Delegierte folgen der Parteispitze in der Asyl- und Migrationsdebatte",
-          "imageUrl": "https://bilder.deutschlandfunk.de/0d/85/98/fc/0d8598fc-c03b-42f9-ade5-771e3d49bff7/gruenen-parteitag-baerbock-100-1920x1080.jpg?t=1700914235357"
-        },
-        {
-          "id": "debatte-um-fortfuehrung-der-staatlichen-preisbremsen-102",
-          "author": null,
-          "description": "Trotz Haushaltssperre und geplanter Auflösung von Schattenhaushalten streiten Koalition und Opposition über die Fortführung der sogenannten Strom- und Gaspreisbremsen. Bundesfinanzminister Lindner hatte nach dem Urteil des Verfassungsgerichts angekündigt, den Wirtschaftsstabilisierungsfonds WSF zu schließen. Damit entfällt die Finanzierung der Energiebremsen. Der Bundestag hatte einen Tag nach dem Urteil der Karlsruher Richter noch die Verlängerung der Energiepreisbremsen gebilligt.",
-          "link": "https://www.deutschlandfunk.de/debatte-um-fortfuehrung-der-staatlichen-preisbremsen-102.html",
-          "publishedOn": "2023-11-26T00:36:54.000Z",
-          "wordCount": 1092,
-          "title": "Energie - Debatte um Fortführung der staatlichen Preisbremsen",
-          "imageUrl": "https://bilder.deutschlandfunk.de/1a/9a/38/a8/1a9a38a8-ac82-4aad-83ae-813b18d55b9b/imago0137146883h-100-1920x1080.jpg?t=1643903259699"
-        },
-        {
-          "id": "wagenknecht-wirft-israel-ruecksichtslose-kriegsfuehrung-vor-112",
-          "author": null,
-          "description": "In Berlin haben rund 10.000 Menschen gegen die deutsche Rüstungspolitik demonstriert.",
-          "link": "https://www.deutschlandfunk.de/wagenknecht-wirft-israel-ruecksichtslose-kriegsfuehrung-vor-112.html",
-          "publishedOn": "2023-11-26T00:36:54.000Z",
-          "wordCount": 711,
-          "title": "Friedensdemo in Berlin - Wagenknecht wirft Israel rücksichtslose Kriegsführung vor",
-          "imageUrl": "https://bilder.deutschlandfunk.de/39/8f/9b/70/398f9b70-eaeb-408b-94d2-701e980b31f2/berlin-demonstration-frieden-100-1920x1080.jpg?t=1700927610318"
-        },
-        {
-          "id": "zehntausende-bei-kundgebungen-in-italien-zum-tag-gegen-gewalt-an-frauen-und-maedchen-108",
-          "author": null,
-          "description": "In Italien haben sich mehrere zehntausend Menschen an Kundgebungen zum Internationalen Tag gegen Gewalt an Frauen und Mädchen beteiligt.",
-          "link": "https://www.deutschlandfunk.de/zehntausende-bei-kundgebungen-in-italien-zum-tag-gegen-gewalt-an-frauen-und-maedchen-108.html",
-          "publishedOn": "2023-11-26T00:36:54.000Z",
-          "wordCount": 719,
-          "title": "Rom - Zehntausende bei Kundgebungen in Italien zum Tag gegen Gewalt an Frauen und Mädchen",
-          "imageUrl": "https://bilder.deutschlandfunk.de/16/a3/45/d2/16a345d2-a271-4bc9-b20a-686549303f68/italien-rom-demonstration-100-1920x1080.jpg?t=1700942593035"
-        },
-        {
-          "id": "eu-stellt-50-millionen-euro-fuer-die-reparatur-von-haefen-zur-verfuegung-108",
-          "author": null,
-          "description": "Die EU stellt der Ukraine 50 Millionen Euro für den Wiederaufbau und die Erweiterung seiner im russischen Angriffskrieg beschädigten Häfen zur Verfügung.",
-          "link": "https://www.deutschlandfunk.de/eu-stellt-50-millionen-euro-fuer-die-reparatur-von-haefen-zur-verfuegung-108.html",
-          "publishedOn": "2023-11-26T00:36:54.000Z",
-          "wordCount": 718,
-          "title": "Krieg gegen die Ukraine - EU stellt 50 Millionen Euro für die Reparatur von Häfen zur Verfügung",
-          "imageUrl": "https://bilder.deutschlandfunk.de/56/1f/4b/e4/561f4be4-2f27-4340-84d2-7075e9ddcb50/ukraine-eu-104-1920x1080.jpg?t=1675424525401"
-        },
-        {
-          "id": "vier-tote-bei-sportflugzeugabsturz-in-oesterreich-102",
-          "author": null,
-          "description": "In Österreich sind beim Absturz eines Sportflugzeugs alle vier Insassen ums Leben gekommen.",
-          "link": "https://www.deutschlandfunk.de/vier-tote-bei-sportflugzeugabsturz-in-oesterreich-102.html",
-          "publishedOn": "2023-11-26T00:36:54.000Z",
-          "wordCount": 690,
-          "title": "Grünau im Almtal - Vier Tote bei Sportflugzeugabsturz in Österreich",
-          "imageUrl": null
-        },
-        {
-          "id": "ministerpraesident-woidke-bleibt-spd-landeschef-in-brandenburg-106",
-          "author": null,
-          "description": "Brandenburgs Ministerpräsident Woidke bleibt Landesvorsitzender der SPD.",
-          "link": "https://www.deutschlandfunk.de/ministerpraesident-woidke-bleibt-spd-landeschef-in-brandenburg-106.html",
-          "publishedOn": "2023-11-26T00:36:54.000Z",
-          "wordCount": 674,
-          "title": "SPD-Brandenburg - Ministerpräsident Woidke bleibt SPD-Landeschef in Brandenburg",
-          "imageUrl": "https://bilder.deutschlandfunk.de/FI/LE/_0/3d/FILE_03d7f69beb03899e756890e0f6846710/223724745-jpg-100-1920x1080.jpg?t=1616673752735"
-        },
-        {
-          "id": "csu-kuert-evp-chef-weber-zum-europa-spitzenkandidaten-110",
-          "author": null,
-          "description": "Die CSU zieht mit dem EVP-Fraktionsvorsitzenden im Europaparlament, Weber, in die Europawahl.",
-          "link": "https://www.deutschlandfunk.de/csu-kuert-evp-chef-weber-zum-europa-spitzenkandidaten-110.html",
-          "publishedOn": "2023-11-26T00:36:54.000Z",
-          "wordCount": 704,
-          "title": "Delegiertenversammlung in Nürnberg - CSU kürt EVP-Chef Weber zum Europa-Spitzenkandidaten",
-          "imageUrl": "https://bilder.deutschlandfunk.de/FI/LE/_2/e2/FILE_2e25ab7dd35378ca6d506d366f7e76cd/215566103-jpg-100-1920x1080.jpg?t=1619695802554"
-        },
-        {
-          "id": "csu-chef-soeder-deutschland-steckt-in-schwerer-staatskrise-102",
-          "author": null,
-          "description": "Bayerns Ministerpräsident Söder sieht Deutschland nach den Problemen mit der Haushaltspolitik in einer Staatskrise.",
-          "link": "https://www.deutschlandfunk.de/csu-chef-soeder-deutschland-steckt-in-schwerer-staatskrise-102.html",
-          "publishedOn": "2023-11-26T00:36:54.000Z",
-          "wordCount": 729,
-          "title": "Haushalt - CSU-Chef Söder: Deutschland steckt in schwerer Staatskrise",
-          "imageUrl": "https://bilder.deutschlandfunk.de/0e/a5/64/d1/0ea564d1-bc63-4389-b969-111ffdddb67a/soeder-europawahl-100-1920x1080.jpg?t=1700910993786"
-        },
-        {
-          "id": "kommunalpolitiker-noelke-fuer-schnelle-mitgliederbefragung-ueber-verbleib-in-der-ampelkoalition-108",
-          "author": null,
-          "description": "Nach der erfolgreichen Unterschriftensammlung für eine FDP-Mitgliederbefragung zum Verbleib in der Ampelkoalition hoffen die Initiatoren auf einen schnellen Beginn des Votums. Der Kasseler FDP-Politiker Nölke sagte im Deutschlandfunk, wichtig sei ein Ergebnis kurz nach dem Jahreswechsel. Vor dem Hintergrund der aktuellen Haushaltskrise unterstrich er den Bedarf für eine Befragung.",
-          "link": "https://www.deutschlandfunk.de/kommunalpolitiker-noelke-fuer-schnelle-mitgliederbefragung-ueber-verbleib-in-der-ampelkoalition-108.html",
-          "publishedOn": "2023-11-26T00:36:54.000Z",
-          "wordCount": 774,
-          "title": "FDP - Kommunalpolitiker Nölke für schnelle Mitgliederbefragung über Verbleib in der Ampelkoalition",
-          "imageUrl": "https://bilder.deutschlandfunk.de/89/3c/a4/a6/893ca4a6-3a0e-4a05-a204-225c6ea367f0/noelke-fdp-kassel-100-1920x1080.jpg?t=1700890314806"
-        },
-        {
-          "id": "weniger-illegale-zuwanderung-nach-ausweitung-der-grenzkontrollen-110",
-          "author": null,
-          "description": "Nach der Ausweitung stationärer Grenzkontrollen ist einem Zeitungsbericht zufolge die illegale Zuwanderung nach Deutschland deutlich zurückgegangen.",
-          "link": "https://www.deutschlandfunk.de/weniger-illegale-zuwanderung-nach-ausweitung-der-grenzkontrollen-110.html",
-          "publishedOn": "2023-11-26T00:36:54.000Z",
-          "wordCount": 705,
-          "title": "Migration - Weniger illegale Zuwanderung nach Ausweitung der Grenzkontrollen",
-          "imageUrl": "https://bilder.deutschlandfunk.de/FI/LE/_5/88/FILE_5880c21fbb55882f96edea2b337449ca/232122011-jpg-100-1920x1080.jpg?t=1613475024054"
-        },
-        {
-          "id": "suedafrika-zieht-bewerbung-um-frauen-fussball-wm-2027-zurueck-116",
-          "author": null,
-          "description": "Südafrika ist nicht mehr daran interessiert, die Frauen-Fußball-Weltmeisterschaft 2027 auszutragen.",
-          "link": "https://www.deutschlandfunk.de/suedafrika-zieht-bewerbung-um-frauen-fussball-wm-2027-zurueck-116.html",
-          "publishedOn": "2023-11-26T00:36:54.000Z",
-          "wordCount": 685,
-          "title": "Fußball - Südafrika zieht Bewerbung um Frauen-Fußball-WM 2027 zurück",
-          "imageUrl": "https://bilder.deutschlandfunk.de/de/e6/7f/11/dee67f11-47a9-4eaa-942d-9bfad2316d78/phantomtor-hoffenheim-leverkusen-100-1920x1080.jpg?t=1697712692727"
-        },
-        {
-          "id": "dortmund-besiegt-moenchengladbach-mit-4-116",
-          "author": null,
-          "description": "In der Fußball-Bundesliga gab es folgende Ergebnisse:",
-          "link": "https://www.deutschlandfunk.de/dortmund-besiegt-moenchengladbach-mit-4-116.html",
-          "publishedOn": "2023-11-26T00:36:54.000Z",
-          "wordCount": 652,
-          "title": "Bundesliga - Dortmund besiegt Mönchengladbach mit 4:2",
-          "imageUrl": "https://bilder.deutschlandfunk.de/66/86/88/a5/668688a5-2e86-4f18-b87d-11c526a361b1/bundesliga-dortmund-moenchengladbach-100-1920x1080.jpg?t=1700927378396"
-        },
-        {
-          "id": "lottozahlen-3-27-32-35-38-104",
-          "author": null,
-          "description": "Die Lottozahlen:",
-          "link": "https://www.deutschlandfunk.de/lottozahlen-3-27-32-35-38-104.html",
-          "publishedOn": "2023-11-26T00:36:54.000Z",
-          "wordCount": 674,
-          "title": "Glücksspiel - Lottozahlen: 3 - 27 - 32 - 35 - 38 - 47",
-          "imageUrl": "https://bilder.deutschlandfunk.de/FI/LE/_e/00/FILE_e005925befcb27849c1063f8cff9a58b/lottozahlen-l-jpg-100-1920x1080.jpg?t=1597633847016"
-        },
-        {
-          "id": "bewoelkt-mit-regen-und-schneeschauern-100",
-          "author": null,
-          "description": "Der Wetterbericht, die Lage: Zwischen hohem Luftdruck über dem Atlantik und einem Tiefdruckkomplex über Osteuropa strömt maritime Kaltluft nach Deutschland. Sie sorgt für einen sehr wechselhaften, vor allem im Bergland winterlichen Wetterabschnitt.",
-          "link": "https://www.deutschlandfunk.de/bewoelkt-mit-regen-und-schneeschauern-100.html",
-          "publishedOn": "2023-11-26T00:36:54.000Z",
-          "wordCount": 710,
-          "title": "Wetter - Bewölkt mit Regen- und Schneeschauern",
           "imageUrl": "https://bilder.deutschlandfunk.de/4c/f0/20/98/4cf02098-33bc-4b73-9e6a-bbfd7dd69bac/pressefoto-funkhaus-koeln-nachts-100-1920x1080.jpg?t=1642078545401"
         }
       ]
