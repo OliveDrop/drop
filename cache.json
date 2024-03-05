@@ -6,6 +6,206 @@
       "siteUrl": "https://stadt-bremerhaven.de",
       "articles": [
         {
+          "id": "https://stadt-bremerhaven.de/?p=1222752",
+          "author": "caschy",
+          "description": "Wir haben darüber berichtet: Nintendo geht gegen die Entwickler des Switch-Emulators Yuzu vor. Erst hieß es, dass sich diese gegen die Klage zur Wehr setzen wollen. Doch dies scheint man nun nicht zu machen, stattdessen beerdigt man zum Leidwesen aller...\nZum Beitrag: Switch-Emulator: Yuzu gibt auf, Projekt wird eingestellt\r\n\r\nZum Blog: Caschys Blog\r\n\r\nDer RSS-Feed kann auch als Werbemittel gebucht werden. Mit ihm kann man über 55.000 Abonnenten erreichen. Schreibt uns gerne an.",
+          "link": "https://stadt-bremerhaven.de/switch-emulator-yuzu-gibt-auf-projekt-wird-eingestellt/",
+          "publishedOn": "2024-03-04T19:57:45.000Z",
+          "wordCount": 2376,
+          "title": "Switch-Emulator: Yuzu gibt auf, Projekt wird eingestellt",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2024/03/yuzu.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1222750",
+          "author": "caschy",
+          "description": "Wesentlich länger als erwartet lässt der Smart-Home-Hub IKEA Dirigera auf sein Matter-Update warten. 2022 kam der Hub in den Handel, mit der Ansage, dass Matter später folge. Ende 2023 bekräftigte IKEA, dass später die ganze Palette an Geräten Matter unterstützen...\nZum Beitrag: IKEA Dirigera: Matter wird in der Beta getestet\r\n\r\nZum Blog: Caschys Blog\r\n\r\nDer RSS-Feed kann auch als Werbemittel gebucht werden. Mit ihm kann man über 55.000 Abonnenten erreichen. Schreibt uns gerne an.",
+          "link": "https://stadt-bremerhaven.de/ikea-dirigera-matter-wird-in-der-beta-getestet/",
+          "publishedOn": "2024-03-04T19:45:22.000Z",
+          "wordCount": 2426,
+          "title": "IKEA Dirigera: Matter wird in der Beta getestet",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/10/IKEA-DIRIGERA-2_.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1222625",
+          "author": "André Westphal",
+          "description": "Google hat einen neuen Feature Drop für Smartphones der hauseigenen Pixel-Reihe in petto. Dieser Feature Drop enthält erweiterte Gesundheits- und Fitnessfunktionen für die Pixel Watch der ersten Generation und neue Produktivitätstools für das Pixel Tablet. Diese Funktionen werden ab heute...\nZum Beitrag: Google Pixel Feature Drop: Circle to Search jetzt auch an den Pixel 7 und Pixel 7 Pro\r\n\r\nZum Blog: Caschys Blog\r\n\r\nDer RSS-Feed kann auch als Werbemittel gebucht werden. Mit ihm kann man über 55.000 Abonnenten erreichen. Schreibt uns gerne an.",
+          "link": "https://stadt-bremerhaven.de/google-pixel-feature-drop-circle-to-search-jetzt-auch-an-den-pixel-7-und-pixel-7-pro/",
+          "publishedOn": "2024-03-04T18:59:09.000Z",
+          "wordCount": 2830,
+          "title": "Google Pixel Feature Drop: Circle to Search jetzt auch an den Pixel 7 und Pixel 7 Pro",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2024/02/google-pixel-7.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1222740",
+          "author": "caschy",
+          "description": "Interessante Sache für Besitzer eines MacBook Pro mit M3-Chip. Apple hat aktuell zwei neue MacBook-Air-Modelle veröffentlicht (wir berichteten). Die haben bezüglich der möglichen externen Monitore eine Besonderheit. Nutzt man das interne Display, dann kann man ein externes Display mit einer...\nZum Beitrag: MacBook Pro mit M3: „Zweiter externer Monitor“ per Update\r\n\r\nZum Blog: Caschys Blog\r\n\r\nDer RSS-Feed kann auch als Werbemittel gebucht werden. Mit ihm kann man über 55.000 Abonnenten erreichen. Schreibt uns gerne an.",
+          "link": "https://stadt-bremerhaven.de/macbook-pro-mit-m3-zweiter-externer-monitor-per-update/",
+          "publishedOn": "2024-03-04T18:53:42.000Z",
+          "wordCount": 2669,
+          "title": "MacBook Pro mit M3: „Zweiter externer Monitor“ per Update",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2023/10/Apple-MacBook-Pro-keyboard-231030_big.jpg.large_2x-2.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1222735",
+          "author": "Benjamin Mamerow",
+          "description": "Google hat das Android Security Bulletin für März dieses Jahres veröffentlicht. Darin nachzulesen sind die Schwachstellen, die im System Android geflickt wurden. Die Schwachstellenbehebung kommt dann hoffentlich auch bald bei euch an, wobei Google-Pixel-Geräte meist weit vorne dabei sind, gefolgt...\nZum Beitrag: Das Android Security Bulletin für März 2024 ist da\r\n\r\nZum Blog: Caschys Blog\r\n\r\nDer RSS-Feed kann auch als Werbemittel gebucht werden. Mit ihm kann man über 55.000 Abonnenten erreichen. Schreibt uns gerne an.",
+          "link": "https://stadt-bremerhaven.de/das-android-security-bulletin-fuer-maerz-2024-ist-da/",
+          "publishedOn": "2024-03-04T18:44:15.000Z",
+          "wordCount": 2179,
+          "title": "Das Android Security Bulletin für März 2024 ist da",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2023/09/android-2.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1222724",
+          "author": "caschy",
+          "description": "Anthropic hat Claude 3 vorgestellt. Claude ist ähnlich ChatGPT ein Large-Language-Model(LLM) und über einen Chatbot erreichbar. Das Unternehmen, gegründet von ehemaligen OpenAI-Mitarbeitern, haut dabei ordentlich auf den Putz. Haiku, die kleinste Version von Claude 3, sei „das schnellste und kostengünstigste...\nZum Beitrag: KI: Anthropics Claude 3 soll sehr leistungsfähig sein\r\n\r\nZum Blog: Caschys Blog\r\n\r\nDer RSS-Feed kann auch als Werbemittel gebucht werden. Mit ihm kann man über 55.000 Abonnenten erreichen. Schreibt uns gerne an.",
+          "link": "https://stadt-bremerhaven.de/ki-anthropics-claude-3-soll-sehr-leistungsfaehig-sein/",
+          "publishedOn": "2024-03-04T18:30:44.000Z",
+          "wordCount": 2180,
+          "title": "KI: Anthropics Claude 3 soll sehr leistungsfähig sein",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2023/11/IMG_0789.png"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1222729",
+          "author": "caschy",
+          "description": "Apples Plattformen gehen in großen Schritten auf die neuen Betriebssystemversionen zu. Nachdem neulich schon iOS und iPadOS die Release Candidates zu iOS 17.4 erhalten haben, dürfen nun die Tester anderer Systeme ran. Konkret hat Apple folgende Updates veröffentlicht, die ab...\nZum Beitrag: watchOS 10.4, tvOS 17.4 und mehr: neue Release Candidates\r\n\r\nZum Blog: Caschys Blog\r\n\r\nDer RSS-Feed kann auch als Werbemittel gebucht werden. Mit ihm kann man über 55.000 Abonnenten erreichen. Schreibt uns gerne an.",
+          "link": "https://stadt-bremerhaven.de/watchos-10-4-tvos-17-4-und-mehr-neue-release-candidates/",
+          "publishedOn": "2024-03-04T18:24:59.000Z",
+          "wordCount": 2277,
+          "title": "watchOS 10.4, tvOS 17.4 und mehr: neue Release Candidates",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2023/09/apple-beta-2.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1222673",
+          "author": "caschy",
+          "description": "Die Produkte von ente sind euch vielleicht schon einmal über den Weg gelaufen. Unter anderem bietet man mit Ente Auth eine quelloffene 2Fa-App für Android und iOS an. Geld verdient wird aber mit ente.io. Der Service versteht sich als Alternative...\nZum Beitrag: Alternative zu Google Fotos oder Apple Fotos: ente-Server wird nun auch Open Source\r\n\r\nZum Blog: Caschys Blog\r\n\r\nDer RSS-Feed kann auch als Werbemittel gebucht werden. Mit ihm kann man über 55.000 Abonnenten erreichen. Schreibt uns gerne an.",
+          "link": "https://stadt-bremerhaven.de/alternative-zu-google-fotos-oder-apple-fotos-ente-server-wird-nun-auch-open-source/",
+          "publishedOn": "2024-03-04T18:00:36.000Z",
+          "wordCount": 2303,
+          "title": "Alternative zu Google Fotos oder Apple Fotos: ente-Server wird nun auch Open Source",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2024/03/photos.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1222692",
+          "author": "Mike Leitner",
+          "description": "Wir hatten bereits über den Vorfall berichtet: Nintendo hat Yuzu verklagt. Nintendo wirft dem Emulator vor, die Softwareverschlüsselung illegal zu umgehen. Tropic Haze, der Entwickler des Switch-Emulators Yuzu, hat auf die Klage reagiert. Das Unternehmen hat einen Anwalt von Pierce...\nZum Beitrag: Yuzu: Emulator-Entwickler will sich gegen Nintendo wehren\r\n\r\nZum Blog: Caschys Blog\r\n\r\nDer RSS-Feed kann auch als Werbemittel gebucht werden. Mit ihm kann man über 55.000 Abonnenten erreichen. Schreibt uns gerne an.",
+          "link": "https://stadt-bremerhaven.de/yuzu-emulator-entwickler-will-sich-gegen-nintendo-wehren/",
+          "publishedOn": "2024-03-04T17:40:04.000Z",
+          "wordCount": 2111,
+          "title": "Yuzu: Emulator-Entwickler will sich gegen Nintendo wehren",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2021/09/Nintendo-Logo.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1222612",
+          "author": "Mike Leitner",
+          "description": "Die Deutsche Telekom lockt aktuell mit einem Angebot Geschäftskunden zu ihren Mobilfunktarifen. Wer einen Business- oder Geschäftskunden-Breitband-Tarif besitzt, zahlt für einen einzelnen „Business Mobil XL“-Tarif im Jahr 2024 keinen Grundpreis. Dabei bietet der Vertrag unbegrenztes Datenvolumen inklusive 5G und die...\nZum Beitrag: Telekom bietet Business-Kunden rabattierten Unlimited-Vertrag\r\n\r\nZum Blog: Caschys Blog\r\n\r\nDer RSS-Feed kann auch als Werbemittel gebucht werden. Mit ihm kann man über 55.000 Abonnenten erreichen. Schreibt uns gerne an.",
+          "link": "https://stadt-bremerhaven.de/telekom-bietet-business-kunden-rabattierten-unlimited-vertrag/",
+          "publishedOn": "2024-03-04T17:20:33.000Z",
+          "wordCount": 2147,
+          "title": "Telekom bietet Business-Kunden rabattierten Unlimited-Vertrag",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/05/Deutsche-Telekom-Logo-1.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1222638",
+          "author": "caschy",
+          "description": "Microsoft hat angekündigt, dass man die Einstellungen des Browsers Edge vereinfachen wolle. Um die Benutzerfreundlichkeit zu verbessern, aktualisiere man ab April 2024 die Einstellungsseite von Edge in zwei Abschnitte: ‚Datenschutz und Sicherheit‘ und ‚Suche und Dienste‘. Dieser vereinfachte Ansatz sollte...\nZum Beitrag: Edge: Einstellungsseite soll ab April 2024 optimiert werden\r\n\r\nZum Blog: Caschys Blog\r\n\r\nDer RSS-Feed kann auch als Werbemittel gebucht werden. Mit ihm kann man über 55.000 Abonnenten erreichen. Schreibt uns gerne an.",
+          "link": "https://stadt-bremerhaven.de/edge-einstellungsseite-soll-ab-april-2024-optimiert-werden/",
+          "publishedOn": "2024-03-04T17:00:52.000Z",
+          "wordCount": 2271,
+          "title": "Edge: Einstellungsseite soll ab April 2024 optimiert werden",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2024/03/edge.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1222669",
+          "author": "André Westphal",
+          "description": "Microsoft hat für Windows 11 das Moment-5-Update alias KB 5034848 veröffentlicht. Das enthält einige Neuerungen. Vielleicht am wichtigsten: der Support für USB4 Version 2.0 bzw. USB mit 80 Gbps. Allerdings nutzt euch allein die Software natürlich nichts, auch euer PC...\nZum Beitrag: Windows 11 erhält Unterstützung für USB4 Version 2.0\r\n\r\nZum Blog: Caschys Blog\r\n\r\nDer RSS-Feed kann auch als Werbemittel gebucht werden. Mit ihm kann man über 55.000 Abonnenten erreichen. Schreibt uns gerne an.",
+          "link": "https://stadt-bremerhaven.de/windows-11-erhaelt-unterstuetzung-fuer-usb4-version-2-0/",
+          "publishedOn": "2024-03-04T16:40:15.000Z",
+          "wordCount": 2248,
+          "title": "Windows 11 erhält Unterstützung für USB4 Version 2.0",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2023/12/windows-update-2.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1222708",
+          "author": "caschy",
+          "description": "Microsoft hat ein neues „Xbox Partner Preview Event“ angekündigt. Dieses findet am Mittwoch statt und während der 30-minütigen Ausstrahlung werden mehr als zwölf neue Trailer von neuen und bald erscheinenden Spielen von Herausgebern wie Capcom, Nexon, EA und anderen präsentiert....\nZum Beitrag: Xbox: Partner-Preview-Event angekündigt\r\n\r\nZum Blog: Caschys Blog\r\n\r\nDer RSS-Feed kann auch als Werbemittel gebucht werden. Mit ihm kann man über 55.000 Abonnenten erreichen. Schreibt uns gerne an.",
+          "link": "https://stadt-bremerhaven.de/xbox-partner-preview-event-angekuendigt/",
+          "publishedOn": "2024-03-04T16:23:25.000Z",
+          "wordCount": 2090,
+          "title": "Xbox: Partner-Preview-Event angekündigt",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2023/11/xbox.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1222618",
+          "author": "André Westphal",
+          "description": "AMD bietet mit FidelityFX Super Resolution (FSR) eine Upscaling-Lösung an, die mit Nvidia DLSS und Intel XeSS konkurriert. Die aktuell wohl hochwertigste Lösung dürfte DLSS sein, was auch daran liegt, dass Nvidia einige Jahre Vorsprung vor der Konkurrenz hat. Während...\nZum Beitrag: AMD will seine Upscaling-Techniken mit KI-Unterstützung aufrüsten\r\n\r\nZum Blog: Caschys Blog\r\n\r\nDer RSS-Feed kann auch als Werbemittel gebucht werden. Mit ihm kann man über 55.000 Abonnenten erreichen. Schreibt uns gerne an.",
+          "link": "https://stadt-bremerhaven.de/amd-will-seine-upscaling-techniken-mit-ki-unterstuetzung-aufruesten/",
+          "publishedOn": "2024-03-04T16:00:32.000Z",
+          "wordCount": 2292,
+          "title": "AMD will seine Upscaling-Techniken mit KI-Unterstützung aufrüsten",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2021/06/AMD-Fidelity-FX-Super-Resolution.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1222620",
+          "author": "caschy",
+          "description": "Die Open-Source-Software Pearcleaner habe ich selbst erst im letzten Jahr entdeckt. Seitdem ist das kostenlose Programm für macOS bei mir gelegentlich im Einsatz. Jüngst erschien die Version 3.0, bzw. erst am 3. März die Version 3.0.1, sodass ich gerne noch...\nZum Beitrag: Pearcleaner: Mac-App-Cleaner mit neuen Funktionen veröffentlicht\r\n\r\nZum Blog: Caschys Blog\r\n\r\nDer RSS-Feed kann auch als Werbemittel gebucht werden. Mit ihm kann man über 55.000 Abonnenten erreichen. Schreibt uns gerne an.",
+          "link": "https://stadt-bremerhaven.de/pearcleaner-mac-app-cleaner-mit-neuen-funktionen-veroeffentlicht/",
+          "publishedOn": "2024-03-04T15:30:32.000Z",
+          "wordCount": 2416,
+          "title": "Pearcleaner: Mac-App-Cleaner mit neuen Funktionen veröffentlicht",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2024/03/pearcleaner.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1222443",
+          "author": "André Westphal",
+          "description": "Am Freitag hatte ich darüber berichtet: Das Europäische Parlament hat für ein EU-weites, digitales Wallet gestimmt. Nun fehlt nur noch die Absegnung durch den Europäischen Rat, damit das Projekt in die Gesetzgebung überführt werden kann. Danach wird es dann aber...\nZum Beitrag: Umfrage März 2024: Wirst du das digitale EU-Wallet nutzen?\r\n\r\nZum Blog: Caschys Blog\r\n\r\nDer RSS-Feed kann auch als Werbemittel gebucht werden. Mit ihm kann man über 55.000 Abonnenten erreichen. Schreibt uns gerne an.",
+          "link": "https://stadt-bremerhaven.de/umfrage-maerz-2024-wirst-du-das-digitale-eu-wallet-nutzen/",
+          "publishedOn": "2024-03-04T15:00:25.000Z",
+          "wordCount": 3657,
+          "title": "Umfrage März 2024: Wirst du das digitale EU-Wallet nutzen?",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2019/12/EU-Flagge.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1222449",
+          "author": "caschy",
+          "description": "Schaue ich auf den ersten Beitrag hier im Blog, dann ist dieser auf den 4. März 2005 datiert. Dieses Blog feiert heute also seinen 19.ten Geburtstag. Wenn man es weiterhin als Blog sehen möchte, dann ist es schon ein biblisches...\nZum Beitrag: 19 Jahre Caschys Blog\r\n\r\nZum Blog: Caschys Blog\r\n\r\nDer RSS-Feed kann auch als Werbemittel gebucht werden. Mit ihm kann man über 55.000 Abonnenten erreichen. Schreibt uns gerne an.",
+          "link": "https://stadt-bremerhaven.de/19-jahre-caschys-blog/",
+          "publishedOn": "2024-03-04T15:00:03.000Z",
+          "wordCount": 4165,
+          "title": "19 Jahre Caschys Blog",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2024/03/blackfb.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1222101",
+          "author": "Olli",
+          "description": "Apple hat auf seinem hauseigenen Streaming-Dienst bereits etliche Science-Fiction-Titel im Programm. Dazu gehören unter anderem „Infiltration“, „Constellation“, „See“, „Monarch“, „For all Mankind“ und natürlich die „Foundation“-Serie. Jetzt kündigt der Konzern an, dass man sich auch die Neuromancer-Trilogie von William Gibson...\nZum Beitrag: Apple TV+: Apple kündigt Serie zu den Science-Fiction-Büchern „Neuromancer“ von William Gibson an\r\n\r\nZum Blog: Caschys Blog\r\n\r\nDer RSS-Feed kann auch als Werbemittel gebucht werden. Mit ihm kann man über 55.000 Abonnenten erreichen. Schreibt uns gerne an.",
+          "link": "https://stadt-bremerhaven.de/apple-tv-apple-kuendigt-serie-zu-den-science-fiction-buechern-neuromancer-von-william-gibson-an/",
+          "publishedOn": "2024-03-04T14:30:56.000Z",
+          "wordCount": 2358,
+          "title": "Apple TV+: Apple kündigt Serie zu den Science-Fiction-Büchern „Neuromancer“ von William Gibson an",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2024/02/022824_Neuromancer_Inline_Image_01_inline_image_post.jpg.medium_2x-2.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1222590",
+          "author": "André Westphal",
+          "description": "Das Spiel „Ghost of Tsushima“ ist ursprünglich 2020 für die Sony PlayStation 4 erschienen. Später folgte eine PS5-Version. Angeblich wird Sony nun in dieser Woche eine PC-Portierung ankündigen. Dies würde zur neuen Strategie der PlayStation Studios passen, die in Zukunft...\nZum Beitrag: „Ghost of Tsushima“: Ankündigung der PC-Version möglicherweise in dieser Woche\r\n\r\nZum Blog: Caschys Blog\r\n\r\nDer RSS-Feed kann auch als Werbemittel gebucht werden. Mit ihm kann man über 55.000 Abonnenten erreichen. Schreibt uns gerne an.",
+          "link": "https://stadt-bremerhaven.de/ghost-of-tsushima-ankuendigung-der-pc-version-moeglicherweise-in-dieser-woche/",
+          "publishedOn": "2024-03-04T14:00:23.000Z",
+          "wordCount": 2301,
+          "title": "„Ghost of Tsushima“: Ankündigung der PC-Version möglicherweise in dieser Woche",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2020/11/Tsushima.jpg"
+        },
+        {
+          "id": "https://stadt-bremerhaven.de/?p=1222663",
+          "author": "caschy",
+          "description": "Apple hat mit dem neuen MacBook Air (Modell 2024, 13 und 15 Zoll) eine gute Modellpflege betrieben. Es gibt einen performanteren Prozessor, einige weitere kleine Verbesserungen und das 8-GB-RAM-Startmodell, welches viele Kunden sicherlich gleich zum nächstgrößeren Modell greifen lässt, obwohl...\nZum Beitrag: Neben dem MacBook Air 2024 gibt es auch neues Zubehör\r\n\r\nZum Blog: Caschys Blog\r\n\r\nDer RSS-Feed kann auch als Werbemittel gebucht werden. Mit ihm kann man über 55.000 Abonnenten erreichen. Schreibt uns gerne an.",
+          "link": "https://stadt-bremerhaven.de/neben-dem-macbook-air-2024-gibt-es-auch-neues-zubehoer/",
+          "publishedOn": "2024-03-04T13:46:03.000Z",
+          "wordCount": 2451,
+          "title": "Neben dem MacBook Air 2024 gibt es auch neues Zubehör",
+          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2024/03/huelle-warmgelb.jpg"
+        },
+        {
           "id": "https://stadt-bremerhaven.de/?p=1220954",
           "author": "Benjamin Mamerow",
           "description": "Anfang Januar dieses Jahres hat Anker unter anderem seinen neuen transportablen Lautsprecher Soundcore Boom 2 vorgestellt. Jener soll 129,99 Euro kosten und ist ab sofort verfügbar. Ich habe mir den kleinen Brüllwürfel nun schon ein paar Tage anhören dürfen, den...\nZum Beitrag: Anker Soundcore Boom 2 im Test – Kompakt, aber kraftvoll\r\n\r\nZum Blog: Caschys Blog\r\n\r\nDer RSS-Feed kann auch als Werbemittel gebucht werden. Mit ihm kann man über 55.000 Abonnenten erreichen. Schreibt uns gerne an.",
@@ -5244,116 +5444,6 @@
           "wordCount": 2791,
           "title": "„Brothers: A Tale of Two Sons Remake“: Preview-Version angespielt",
           "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2023/12/Brothers_Final_KeyArt._landscape.jpg"
-        },
-        {
-          "id": "https://stadt-bremerhaven.de/?p=1217860",
-          "author": "caschy",
-          "description": "Ice ist eine kostenlose Open-Source-Software für macOS. Ihre Arbeitsweise findet sich in vielen Apps vor, die wir bereits in der Vergangenheit vorgestellt haben. In der Kurzform: Mit Ice lassen sich Apps in der Menüleiste verstecken. Das kann dauerhaft oder...\nZum Beitrag: Ice: Ein Werkzeug zur Menüleistenverwaltung von macOS\r\n\r\nZum Blog: Caschys Blog\r\n\r\nDer RSS-Feed kann auch als Werbemittel gebucht werden. Mit ihm kann man über 55.000 Abonnenten erreichen. Schreibt uns gerne an.",
-          "link": "https://stadt-bremerhaven.de/ice-ein-werkzeug-zur-menueleistenverwaltung-von-macos/",
-          "publishedOn": "2024-02-04T13:00:57.000Z",
-          "wordCount": 2379,
-          "title": "Ice: Ein Werkzeug zur Menüleistenverwaltung von macOS",
-          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2024/01/SCR-20240131-pfwu.jpeg"
-        },
-        {
-          "id": "https://stadt-bremerhaven.de/?p=1218027",
-          "author": "André Westphal",
-          "description": "Vor einiger Zeit habe ich hier im Blog das Flaggschiff-Handheld Ayaneo Kun getestet. Inzwischen hat der Hersteller aus China mit dem Ayaneo Slide, hier die Produktseite, ein neues Modell veröffentlicht. Dieses begründet seinen Namen auf einem besonderen Kniff: Ihr könnt...\nZum Beitrag: Ayaneo Slide im Test: Gaming-Handheld mit physischer Tastatur\r\n\r\nZum Blog: Caschys Blog\r\n\r\nDer RSS-Feed kann auch als Werbemittel gebucht werden. Mit ihm kann man über 55.000 Abonnenten erreichen. Schreibt uns gerne an.",
-          "link": "https://stadt-bremerhaven.de/ayaneo-slide-im-test-gaming-handheld-mit-physischer-tastatur/",
-          "publishedOn": "2024-02-04T11:30:06.000Z",
-          "wordCount": 3596,
-          "title": "Ayaneo Slide im Test: Gaming-Handheld mit physischer Tastatur",
-          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2024/02/Ayaneo-Slide-1.jpg"
-        },
-        {
-          "id": "https://stadt-bremerhaven.de/?p=1218329",
-          "author": "André Westphal",
-          "description": "Google streicht am 26. Februar 2024 die Funktion „Family Bell“ des Google Assistants. Diese hat es erlaubt, verschiedene „Glockenschläge“ einzurichten – z. B. für den Aufbruch zum Schulbus, das Mittagessen oder auch die Schlafenszeit der Kinder. Die Funktion stand für...\nZum Beitrag: Google stampft die Funktion Family Bell ein\r\n\r\nZum Blog: Caschys Blog\r\n\r\nDer RSS-Feed kann auch als Werbemittel gebucht werden. Mit ihm kann man über 55.000 Abonnenten erreichen. Schreibt uns gerne an.",
-          "link": "https://stadt-bremerhaven.de/google-stampft-die-funktion-family-bell-ein/",
-          "publishedOn": "2024-02-04T10:00:21.000Z",
-          "wordCount": 2192,
-          "title": "Google stampft die Funktion Family Bell ein",
-          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/01/google-logo.jpg"
-        },
-        {
-          "id": "https://stadt-bremerhaven.de/?p=1217219",
-          "author": "Felix Frank",
-          "description": "Die Anker Solix C1000 haben wir bereits einem Test unterzogen. Anker setzt bei dem kleinen Kraftprotz auf LiFePO4-Akkus mit einer Kapazität von 1.056 Wh. Die Powerstation selbst ist klein, kompakt (ca. 13 kg) und kommt mit einer App-Anbindung und weiteren...\nZum Beitrag: Anker BP1000: Erweiterungsakku für die Anker Solix C1000 im Kurztest\r\n\r\nZum Blog: Caschys Blog\r\n\r\nDer RSS-Feed kann auch als Werbemittel gebucht werden. Mit ihm kann man über 55.000 Abonnenten erreichen. Schreibt uns gerne an.",
-          "link": "https://stadt-bremerhaven.de/anker-bp1000-erweiterungsakku-fuer-die-anker-c1000-im-kurztest/",
-          "publishedOn": "2024-02-04T08:30:06.000Z",
-          "wordCount": 2862,
-          "title": "Anker BP1000: Erweiterungsakku für die Anker Solix C1000 im Kurztest",
-          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2024/01/IMG_0478.jpeg"
-        },
-        {
-          "id": "https://stadt-bremerhaven.de/?p=1217695",
-          "author": "Benjamin Mamerow",
-          "description": "Google teilt wieder einmal ein paar Neuerungen für den Google Kalender mit, die zum Teil nur für Nutzer einer Workspace-Lizenz geplant sind, zum Teil aber auch für persönliche Google-Konten verteilt werden sollen. Es geht um die gemeinsame Terminplanungsfunktion des Kalenders....\nZum Beitrag: Google Kalender: Gemeinsames Planen von Terminen wird vereinfacht\r\n\r\nZum Blog: Caschys Blog\r\n\r\nDer RSS-Feed kann auch als Werbemittel gebucht werden. Mit ihm kann man über 55.000 Abonnenten erreichen. Schreibt uns gerne an.",
-          "link": "https://stadt-bremerhaven.de/google-kalender-kollaboratives-planen-von-terminen-wird-vereinfacht/",
-          "publishedOn": "2024-02-04T07:00:34.000Z",
-          "wordCount": 2216,
-          "title": "Google Kalender: Gemeinsames Planen von Terminen wird vereinfacht",
-          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/07/google-kalender-logo.jpg"
-        },
-        {
-          "id": "https://stadt-bremerhaven.de/?p=1218236",
-          "author": "André Westphal",
-          "description": "Die Woche ist (fast) verstrichen und am frühen Sonntagmorgen findet ihr hier nun wie immer an dieser Stelle einen Überblick über einige besondere News der Woche. Beispielsweise konnte ich Freitag berichten, dass Google mit der Werbung an Mediaplayern und Smart-TVs...\nZum Beitrag: Immer wieder sonntags KW 5\r\n\r\nZum Blog: Caschys Blog\r\n\r\nDer RSS-Feed kann auch als Werbemittel gebucht werden. Mit ihm kann man über 55.000 Abonnenten erreichen. Schreibt uns gerne an.",
-          "link": "https://stadt-bremerhaven.de/immer-wieder-sonntags-kw-5-12/",
-          "publishedOn": "2024-02-04T05:30:17.000Z",
-          "wordCount": 2575,
-          "title": "Immer wieder sonntags KW 5",
-          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/07/Kaffee-Sonntags.jpg"
-        },
-        {
-          "id": "https://stadt-bremerhaven.de/?p=1217559",
-          "author": "Olli",
-          "description": "Die Corona-Pandemie hat viele Menschen vom Unternehmenssitz ins Homeoffice getrieben und damit nicht nur den Bedarf an Meetinglösungen wie Microsoft Teams oder Zoom massiv erhöht, sondern auch das Interesse an Büro-Ausstattung wie Schreibtischen, Stehschreibtischen und Bürostühlen erhöht. Etliche Unternehmen bieten...\nZum Beitrag: Sihoo Doro S300 – Ergonomischer Stuhl ausprobiert\r\n\r\nZum Blog: Caschys Blog\r\n\r\nDer RSS-Feed kann auch als Werbemittel gebucht werden. Mit ihm kann man über 55.000 Abonnenten erreichen. Schreibt uns gerne an.",
-          "link": "https://stadt-bremerhaven.de/sihoo-doro-s300-ergonomischer-stuhl-ausprobiert/",
-          "publishedOn": "2024-02-03T19:00:55.000Z",
-          "wordCount": 3046,
-          "title": "Sihoo Doro S300 – Ergonomischer Stuhl ausprobiert",
-          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2024/01/Sihoo-Doro-S300.jpg"
-        },
-        {
-          "id": "https://stadt-bremerhaven.de/?p=1217896",
-          "author": "Benjamin Mamerow",
-          "description": "Eine aktuelle Studie der Wirtschaftsprüfungs- und Beratungsgesellschaft PwC Deutschland untersucht das Kaufverhalten und die Mediennutzung der „Generation Babyboomer“ (Menschen im Alter zwischen 55 und 75 Jahren) in Deutschland. Die überwiegende Mehrheit (94 %) der Befragten sei demnach mit einem Smartphone...\nZum Beitrag: Generation Babyboomer in Deutschland: Kaufverhalten im Fokus einer aktuellen Studie\r\n\r\nZum Blog: Caschys Blog\r\n\r\nDer RSS-Feed kann auch als Werbemittel gebucht werden. Mit ihm kann man über 55.000 Abonnenten erreichen. Schreibt uns gerne an.",
-          "link": "https://stadt-bremerhaven.de/generation-babyboomer-in-deutschland-kaufverhalten-im-fokus-einer-aktuellen-studie/",
-          "publishedOn": "2024-02-03T17:30:42.000Z",
-          "wordCount": 2562,
-          "title": "Generation Babyboomer in Deutschland: Kaufverhalten im Fokus einer aktuellen Studie",
-          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2023/01/Shopping-2023.jpg"
-        },
-        {
-          "id": "https://stadt-bremerhaven.de/?p=1218205",
-          "author": "André Westphal",
-          "description": "Ab dem 5. Februar 2024 wird Amazon Prime Video euch mit Werbung traktieren – es sei denn, ihr zahlt einen Aufpreis von 2,99 Euro im Monat. 2023 sind auch andere Dienste wie Apple TV+ drastisch teurer geworden. Gekoppelt mit der...\nZum Beitrag: Auswertung Umfrage Januar 2024: Viele Leser verabschieden sich von Streaming-Diensten\r\n\r\nZum Blog: Caschys Blog\r\n\r\nDer RSS-Feed kann auch als Werbemittel gebucht werden. Mit ihm kann man über 55.000 Abonnenten erreichen. Schreibt uns gerne an.",
-          "link": "https://stadt-bremerhaven.de/auswertung-umfrage-januar-2024-viele-leser-verabschieden-sich-von-streaming-diensten/",
-          "publishedOn": "2024-02-03T16:00:21.000Z",
-          "wordCount": 2968,
-          "title": "Auswertung Umfrage Januar 2024: Viele Leser verabschieden sich von Streaming-Diensten",
-          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2020/05/Netflix-Fernsehen-Paar.jpg"
-        },
-        {
-          "id": "https://stadt-bremerhaven.de/?p=1217845",
-          "author": "André Westphal",
-          "description": "Laut einer Bitkom-Umfrage nutzen vermutlich in Deutschland viele Menschen nur das Standard-Passwort ihres Routers, ohne es zu ändern. Zumindest haben in einer Umfrage des Branchenverbands lediglich 9 % der Befragten angegeben, dass sie ein individuelles Passwort eingerichtet hätten. Lediglich 3...\nZum Beitrag: WLAN: Gros der Befragten nutzt in Bitkom-Umfrage das Standard-Passwort\r\n\r\nZum Blog: Caschys Blog\r\n\r\nDer RSS-Feed kann auch als Werbemittel gebucht werden. Mit ihm kann man über 55.000 Abonnenten erreichen. Schreibt uns gerne an.",
-          "link": "https://stadt-bremerhaven.de/wlan-gros-der-befragten-nutzt-in-bitkom-umfrage-das-standard-passwort/",
-          "publishedOn": "2024-02-03T14:30:36.000Z",
-          "wordCount": 3233,
-          "title": "WLAN: Gros der Befragten nutzt in Bitkom-Umfrage das Standard-Passwort",
-          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2020/07/Honor-Router-3.jpg"
-        },
-        {
-          "id": "https://stadt-bremerhaven.de/?p=1217805",
-          "author": "André Westphal",
-          "description": "In den USA haben sich die Schauspieler rund um künstliche Intelligenz (KI) einige Rechte erstritten. In Deutschland wären viele Dinge, die dort mit den Produzenten vereinbart worden sind, aber ohnehin verboten. Dennoch brodelt es auch hierzulande hinter den Kulissen. Doch...\nZum Beitrag: Künstliche Intelligenz sorgt auch in der deutschen Filmindustrie für Konflikte\r\n\r\nZum Blog: Caschys Blog\r\n\r\nDer RSS-Feed kann auch als Werbemittel gebucht werden. Mit ihm kann man über 55.000 Abonnenten erreichen. Schreibt uns gerne an.",
-          "link": "https://stadt-bremerhaven.de/kuenstliche-intelligenz-sorgt-auch-in-der-deutschen-filmindustrie-fuer-konflikte/",
-          "publishedOn": "2024-02-03T13:30:29.000Z",
-          "wordCount": 2393,
-          "title": "Künstliche Intelligenz sorgt auch in der deutschen Filmindustrie für Konflikte",
-          "imageUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2024/02/KI-Filme.jpg"
         }
       ]
     },
@@ -5362,6 +5452,166 @@
       "feedUrl": "https://www.computerbase.de/rss/news.xml",
       "siteUrl": "https://www.computerbase.de/",
       "articles": [
+        {
+          "id": "https://www.computerbase.de/2024-03/verhandlungen-mit-sk-hynix-vorschlag-zur-herstellung-von-hbm-chips-in-kioxias-werken/",
+          "author": null,
+          "description": "<img src=\"https://pics.computerbase.de/1/1/1/3/9/3-0ef294d0db344ed8/article-640x360.76bb74b4.jpg\"><p>Ein Angebot machen, das man nicht ablehnen kann. So in etwa könnte es laufen, wenn Kioxia den Investor SK Hynix zu überreden versucht, damit dieser der geplanten Fusion mit Western Digital doch noch zustimmt. Jetzt wird gemunkelt, dass SK Hynix den Vorschlag gemacht hat, die stark gefragten HBM-Chips bei Kioxia zu produzieren.</p>",
+          "link": "https://www.computerbase.de/2024-03/verhandlungen-mit-sk-hynix-vorschlag-zur-herstellung-von-hbm-chips-in-kioxias-werken/",
+          "publishedOn": "2024-03-04T19:24:00.000Z",
+          "wordCount": 917,
+          "title": "Verhandlungen mit SK Hynix: Vorschlag zur Herstellung von HBM-Chips in Kioxias Werken",
+          "imageUrl": "https://pics.computerbase.de/1/1/1/3/9/3-0ef294d0db344ed8/article-1280x720.76bb74b4.jpg"
+        },
+        {
+          "id": "https://www.computerbase.de/2024-03/macos-update-macbook-pro-mit-m3-unterstuetzt-bald-zwei-externe-displays/",
+          "author": null,
+          "description": "<img src=\"https://pics.computerbase.de/1/1/1/3/9/4-ff019ace09b1458a/article-640x360.9ddb8180.jpg\"><p>Das neue MacBook Air mit M3 unterstützt zwei externe Displays, wenn das Notebook zugeklappt genutzt wird. Das Basismodell des MacBook Pro mit M3 ist derzeit noch auf einen externen Bildschirm beschränkt, ein Update für macOS soll den Laptop in diesem Punkt aber bald zum MacBook Air aufschließen lassen, wie Apple bestätigt hat.</p>",
+          "link": "https://www.computerbase.de/2024-03/macos-update-macbook-pro-mit-m3-unterstuetzt-bald-zwei-externe-displays/",
+          "publishedOn": "2024-03-04T19:21:00.000Z",
+          "wordCount": 730,
+          "title": "macOS-Update: MacBook Pro mit M3 unterstützt bald zwei externe Displays",
+          "imageUrl": "https://pics.computerbase.de/1/1/1/3/9/4-ff019ace09b1458a/article-1280x720.9ddb8180.jpg"
+        },
+        {
+          "id": "https://www.computerbase.de/2024-03/commandos-4-bewerber-fuer-playtest-von-commandos-origins-gesucht/",
+          "author": null,
+          "description": "<img src=\"https://pics.computerbase.de/1/1/1/3/9/2-89d945c15c529eeb/article-640x360.0e9126b3.jpg\"><p>Der vierte Teil der Echtzeit-Taktik-Spiele namens Commandos: Origins soll 2024 veröffentlicht werden. Wer an einem exklusiven PC-Playtest teilnehmen will, kann sich bis zum 12.3.2024 bewerben. In dem Playtest soll eine Vorabversion des Spiels einem geschlossenen Publikum gezeigt und Feedback gesammelt werden.</p>",
+          "link": "https://www.computerbase.de/2024-03/commandos-4-bewerber-fuer-playtest-von-commandos-origins-gesucht/",
+          "publishedOn": "2024-03-04T17:57:00.000Z",
+          "wordCount": 1037,
+          "title": "Commandos 4: Bewerber für Playtest von Commandos: Origins gesucht",
+          "imageUrl": "https://pics.computerbase.de/1/1/1/3/9/2-89d945c15c529eeb/article-1280x720.0e9126b3.jpg"
+        },
+        {
+          "id": "https://www.computerbase.de/2024-03/neuer-rekord-fast-35-millionen-user-waren-gleichzeitig-auf-steam/",
+          "author": null,
+          "description": "<img src=\"https://pics.computerbase.de/1/1/1/3/9/0-85d91eea55133bd0/article-640x360.974ae448.jpg\"><p>Der Erfolg der Spieleplattform Steam von Valve scheint ungebrochen. Am Sonntag erreichte die Zahl der gleichzeitig eingeloggten Nutzer einen neuen Rekord: 34.649.583 Spieler waren demnach simultan online. Davon befanden sich allerdings „nur“ 11.146.564 gleichzeitig in einem Spiel, das waren im Januar schon einmal mehr.</p>",
+          "link": "https://www.computerbase.de/2024-03/neuer-rekord-fast-35-millionen-user-waren-gleichzeitig-auf-steam/",
+          "publishedOn": "2024-03-04T17:12:00.000Z",
+          "wordCount": 854,
+          "title": "Neuer Rekord: Fast 35 Millionen User waren gleichzeitig auf Steam",
+          "imageUrl": "https://pics.computerbase.de/1/1/1/3/9/0-85d91eea55133bd0/article-1280x720.974ae448.jpg"
+        },
+        {
+          "id": "https://www.computerbase.de/2024-03/spotify-gegen-apple-eu-kommission-verhaengt-1-8-mrd-euro-strafe-gegen-apple/",
+          "author": null,
+          "description": "<img src=\"https://pics.computerbase.de/1/1/1/3/9/1-f0da80c0162ee7e8/article-640x360.72b79fb5.jpg\"><p>Die EU-Kommission verhängt wegen kartellrechtswidriger App-Store-Vorschriften für Musikstreaming-Anbieter eine Geldbuße in Höhe von 1,8 Mrd. Euro gegen Apple. Während die EU-Kommission Spotify nicht erwähnt, äußert Apple in einer eigenen Stellungnahme heftige Kritik an dem Marktführer Spotify.</p>",
+          "link": "https://www.computerbase.de/2024-03/spotify-gegen-apple-eu-kommission-verhaengt-1-8-mrd-euro-strafe-gegen-apple/",
+          "publishedOn": "2024-03-04T16:25:00.000Z",
+          "wordCount": 1229,
+          "title": "Spotify gegen Apple: EU-Kommission verhängt 1,8-Mrd.-Euro-Strafe gegen Apple",
+          "imageUrl": "https://pics.computerbase.de/1/1/1/3/9/1-f0da80c0162ee7e8/article-1280x720.72b79fb5.jpg"
+        },
+        {
+          "id": "https://www.computerbase.de/2024-03/hyundai-ioniq-5-facelift-groessere-batterie-und-kabelloses-android-auto-und-carplay/",
+          "author": null,
+          "description": "<img src=\"https://pics.computerbase.de/1/1/1/3/8/9-79e81b1ed889c220/article-640x360.7cb900dc.jpg\"><p>Hyundai verpasst dem Ioniq 5 ein Facelift und spendiert dem E-Auto dabei eine größere Batterie für eine Reichweite von künftig bis zu 570 km. Ein leicht aufgefrischtes Exterieur und Interieur gibt es ebenso von Hyundai. Im Innenraum unterstützt das Infotainmentsystem jetzt endlich kabelloses Android Auto und Apple CarPlay.</p>",
+          "link": "https://www.computerbase.de/2024-03/hyundai-ioniq-5-facelift-groessere-batterie-und-kabelloses-android-auto-und-carplay/",
+          "publishedOn": "2024-03-04T16:03:00.000Z",
+          "wordCount": 1305,
+          "title": "Hyundai Ioniq 5 Facelift: Größere Batterie und kabelloses Android Auto und CarPlay",
+          "imageUrl": "https://pics.computerbase.de/1/1/1/3/8/9-79e81b1ed889c220/article-1280x720.7cb900dc.jpg"
+        },
+        {
+          "id": "https://www.computerbase.de/2024-03/hp-omen-transcend-32-langsamer-displayport-2-1-erfordert-komprimierung/",
+          "author": null,
+          "description": "<img src=\"https://pics.computerbase.de/1/1/1/3/8/4-e258ada544cb2944/article-640x360.3b472207.jpg\"><p>Zu der reichlichen Ausstattung, die HP für den QD-OLED-Monitor Omen Transcend 32 im Januar genannt hat, zählt auch DisplayPort 2.1. Doch wie TFT Central von HP erfuhr, handelt es sich lediglich um die langsamste Ausführung der neuen Schnittstelle. Das genügt nicht, um 4K UHD mit 240 Hz ohne Komprimierung zu übertragen.</p>",
+          "link": "https://www.computerbase.de/2024-03/hp-omen-transcend-32-langsamer-displayport-2-1-erfordert-komprimierung/",
+          "publishedOn": "2024-03-04T14:56:00.000Z",
+          "wordCount": 959,
+          "title": "HP Omen Transcend 32: Langsamer DisplayPort 2.1 erfordert Komprimierung",
+          "imageUrl": "https://pics.computerbase.de/1/1/1/3/8/4-e258ada544cb2944/article-1280x720.3b472207.jpg"
+        },
+        {
+          "id": "https://www.computerbase.de/2024-03/fsr-mit-ai-amds-cto-stellt-ki-algorithmus-fuer-2024-in-aussicht/",
+          "author": null,
+          "description": "<img src=\"https://pics.computerbase.de/1/1/1/3/8/7-ac134e47927cff8f/article-640x360.f0603979.jpg\"><p>AMD setzt bei FSR Super Resolution auch in der aktuellen Version FSR 3 noch nicht auf AI, während Nvidia das in wechselnder Form seit Anbeginn getan hat. Gerüchte, auch AMD werde auf einen durch AI unterstützten Algorithmus setzen, gab es immer wieder. Nun hat AMD-CTO Papermaster diesen Schritt erstmals in Aussicht gestellt.</p>",
+          "link": "https://www.computerbase.de/2024-03/fsr-mit-ai-amds-cto-stellt-ki-algorithmus-fuer-2024-in-aussicht/",
+          "publishedOn": "2024-03-04T14:30:00.000Z",
+          "wordCount": 1059,
+          "title": "FSR mit AI: AMDs CTO stellt KI-Algorithmus für 2024 in Aussicht",
+          "imageUrl": "https://pics.computerbase.de/1/1/1/3/8/7-ac134e47927cff8f/article-1280x720.f0603979.jpg"
+        },
+        {
+          "id": "https://www.computerbase.de/2024-03/apple-macbook-air-erhaelt-m3-und-unterstuetzt-zwei-externe-displays/",
+          "author": null,
+          "description": "<img src=\"https://pics.computerbase.de/1/1/1/3/8/8-677b62b336e8d9f0/article-640x360.b4960048.jpg\"><p>Apple bietet ab sofort ein überarbeitetes MacBook Air mit M3 und schnellerem WLAN in 13 Zoll und 15 Zoll an. Die Notebooks lassen sich ab sofort ab 1.299 Euro bestellen und sollen ab dem 8. März (Freitag) ausgeliefert werden. Neu ist zudem die Unterstützung zwei externer Bildschirme, wenn das MacBook Air zugeklappt genutzt wird.</p>",
+          "link": "https://www.computerbase.de/2024-03/apple-macbook-air-erhaelt-m3-und-unterstuetzt-zwei-externe-displays/",
+          "publishedOn": "2024-03-04T13:45:00.000Z",
+          "wordCount": 1190,
+          "title": "Apple: MacBook Air erhält M3 und unterstützt zwei externe Displays",
+          "imageUrl": "https://pics.computerbase.de/1/1/1/3/8/8-677b62b336e8d9f0/article-1280x720.b4960048.jpg"
+        },
+        {
+          "id": "https://www.computerbase.de/2024-03/gestrichen-noctua-stoppt-die-entwicklung-weisser-luefter/",
+          "author": null,
+          "description": "<img src=\"https://pics.computerbase.de/1/1/1/3/8/5-a519625b4f6c7100/article-640x360.3ebb1d39.jpg\"><p>Seit Ende 2017 gibt es ausgewählte Lüfter von Noctua neben der charakteristischen braunen Variante als Chromax-Variante auch in Schwarz, die vor Jahren ebenfalls in Aussicht gestellte weiße Version erscheint hingegen nicht: Noctua hat ihre Entwicklung gestoppt und entsprechende Produkte von der Roadmap gestrichen.</p>",
+          "link": "https://www.computerbase.de/2024-03/gestrichen-noctua-stoppt-die-entwicklung-weisser-luefter/",
+          "publishedOn": "2024-03-04T13:05:00.000Z",
+          "wordCount": 933,
+          "title": "Gestrichen: Noctua stoppt die Entwicklung weißer Lüfter",
+          "imageUrl": "https://pics.computerbase.de/1/1/1/3/8/5-a519625b4f6c7100/article-1280x720.3ebb1d39.jpg"
+        },
+        {
+          "id": "https://www.computerbase.de/2024-03/amd-fsr-nvidia-dlss-frame-generation-vergleich/",
+          "author": null,
+          "description": "<img src=\"https://pics.computerbase.de/1/1/1/0/6/6-4ced19a98b3d040d/article-640x360.ac5f5c9b.jpg\"><p>ComputerBase vergleicht Frame-Generation-Technologien: Sowohl AMD FSR als auch Nvidia DLSS unterstützen inzwischen künstlich erzeugte Bilder, die das Spielgefühl verbessern sollen. Wie sich beide Technologien in Bezug auf Optik, FPS-Zuwachs und Latenzen schlagen, vergleicht dieser Test anhand von vier Spielen.</p>",
+          "link": "https://www.computerbase.de/2024-03/amd-fsr-nvidia-dlss-frame-generation-vergleich/",
+          "publishedOn": "2024-03-04T11:00:00.000Z",
+          "wordCount": 4523,
+          "title": "DLSS 3 vs. FSR 3 im Test: Frame Generation von AMD und Nvidia im Duell",
+          "imageUrl": "https://pics.computerbase.de/1/1/1/0/6/6-4ced19a98b3d040d/article-1280x720.ac5f5c9b.jpg"
+        },
+        {
+          "id": "https://www.computerbase.de/2024-03/homematic-ip-eq-3-stell-neuheiten-fuer-2024-inklusive-neuer-zentrale-vor/",
+          "author": null,
+          "description": "<img src=\"https://pics.computerbase.de/1/1/1/3/8/2-611458421105379d/article-640x360.4b952152.jpg\"><p>Auf der Light + Building 2024 zeigt eQ-3 die Zukunft des Smart-Home-Systems Homematic IP. Neben verschiedensten smarten Geräten kündigt der Hersteller auch eine gänzliche neue Zentrale, eine überarbeitete App und die Integration von DoorBird Video-Türstationen an. Etwas Geduld müssen Nutzer mitunter aber noch haben.</p>",
+          "link": "https://www.computerbase.de/2024-03/homematic-ip-eq-3-stell-neuheiten-fuer-2024-inklusive-neuer-zentrale-vor/",
+          "publishedOn": "2024-03-04T10:45:00.000Z",
+          "wordCount": 1257,
+          "title": "Homematic IP: eQ-3 stell Neuheiten für 2024 inklusive neuer Zentrale vor",
+          "imageUrl": "https://pics.computerbase.de/1/1/1/3/8/2-611458421105379d/article-1280x720.4b952152.jpg"
+        },
+        {
+          "id": "https://www.computerbase.de/2024-03/bis-zu-1-000-watt-verbrauch-dells-aussagen-zu-nvidia-b100-b200-und-was-dahinter-steckt/",
+          "author": null,
+          "description": "<img src=\"https://pics.computerbase.de/1/1/1/3/8/1-53159dd359004f29/article-640x360.4a7b0388.jpg\"><p>Am Freitag schnellte der Aktienkurs von Dell um über 30 Prozent in die Höhe, was nicht zuletzt auf den Ausblick auf Einnahmen mit lukrativen KI-Systemen zurückzuführen war. Die Tech-Enthusiasten-Welt in Aufruhr brachte hingegen Dells COO Jeff Clarke mit Aussagen zu Nvidia B100 und B200 und dessen Stromverbrauch.</p>",
+          "link": "https://www.computerbase.de/2024-03/bis-zu-1-000-watt-verbrauch-dells-aussagen-zu-nvidia-b100-b200-und-was-dahinter-steckt/",
+          "publishedOn": "2024-03-04T10:30:00.000Z",
+          "wordCount": 1356,
+          "title": "Bis zu 1.000 Watt Verbrauch: Dells Aussagen zu Nvidia B100/B200 und was dahinter steckt",
+          "imageUrl": "https://pics.computerbase.de/1/1/1/3/8/1-53159dd359004f29/article-1280x720.4a7b0388.jpg"
+        },
+        {
+          "id": "https://www.computerbase.de/2024-03/yale-linus-smart-lock-l2-kleines-metall-smart-lock-integriert-wi-fi-thread-und-matter/",
+          "author": null,
+          "description": "<img src=\"https://pics.computerbase.de/1/1/1/3/5/6-11816a263ce609e1/article-640x360.d09b3d88.jpg\"><p>Yale legt das Linus Smart Lock (Test) neu auf und bringt das Yale Linus Smart Lock L2 in den Handel. Das Yale Linus Smart Lock L2 ist kleiner und verfügt nun auch über integriertes Wi-Fi, Thread und Matter, wie es beispielsweise auch das Nuki Smart Lock 4.0 Pro (Test) bietet.</p>",
+          "link": "https://www.computerbase.de/2024-03/yale-linus-smart-lock-l2-kleines-metall-smart-lock-integriert-wi-fi-thread-und-matter/",
+          "publishedOn": "2024-03-04T08:00:00.000Z",
+          "wordCount": 1606,
+          "title": "Yale Linus Smart Lock L2: Kleines Metall-Smart-Lock integriert Wi-Fi, Thread und Matter",
+          "imageUrl": "https://pics.computerbase.de/1/1/1/3/5/6-11816a263ce609e1/article-1280x720.d09b3d88.jpg"
+        },
+        {
+          "id": "https://www.computerbase.de/2024-03/apple-geruechte-doch-kein-apple-event-fuer-ipad-pro-und-macbook-air-im-maerz/",
+          "author": null,
+          "description": "<img src=\"https://pics.computerbase.de/1/1/1/3/7/9-c6456dfff4f41db5/article-640x360.82688b0e.jpg\"><p>Trotz zahlreicher, mutmaßlich anstehender Produktvorstellungen wie iPad Pro mit OLED, iPad Air in 12,9\", Apple Pencil 3 oder Magic Keyboard 2 bis hin zum MacBook Air mit M3-Chip soll Apple kurzfristig doch kein eigenes Event planen. Stattdessen gehen mehrere Berichte nun von Pressemitteilungen begleitet von Videos aus.</p>",
+          "link": "https://www.computerbase.de/2024-03/apple-geruechte-doch-kein-apple-event-fuer-ipad-pro-und-macbook-air-im-maerz/",
+          "publishedOn": "2024-03-04T07:52:00.000Z",
+          "wordCount": 853,
+          "title": "Apple-Gerüchte: Doch kein Apple Event für iPad Pro und MacBook Air im März",
+          "imageUrl": "https://pics.computerbase.de/1/1/1/3/7/9-c6456dfff4f41db5/article-1280x720.82688b0e.jpg"
+        },
+        {
+          "id": "https://www.computerbase.de/2024-03/amd-sound-wave-nach-strix-sarlak-und-kraken-eine-weitere-amd-apu/",
+          "author": null,
+          "description": "<img src=\"https://pics.computerbase.de/1/1/1/3/8/0-fd545924caa70953/article-640x360.ed2f1d17.jpg\"><p>Ein neuer Codename für zukünftige AMD-Prozessoren macht die Runde. Auf dem LinkedIn-Profil eines AMD-Mitarbeiters ist von „Sound Wave“, eines mutmaßlichen APU-Projekts in 3 nm die Rede. Auch die schon zuvor aufgetauchten Codenamen Kraken, Sarlak und Strix stehen im Profil.</p>",
+          "link": "https://www.computerbase.de/2024-03/amd-sound-wave-nach-strix-sarlak-und-kraken-eine-weitere-amd-apu/",
+          "publishedOn": "2024-03-04T05:47:00.000Z",
+          "wordCount": 1082,
+          "title": "AMD Sound Wave: Nach Strix, Sarlak und Kraken eine weitere AMD-APU",
+          "imageUrl": "https://pics.computerbase.de/1/1/1/3/8/0-fd545924caa70953/article-1280x720.ed2f1d17.jpg"
+        },
         {
           "id": "https://www.computerbase.de/2024-03/satellite-sos-fuer-pixel-google-bereitet-wohl-notruf-via-satellit-vor/",
           "author": null,
@@ -8321,86 +8571,6 @@
           "wordCount": 1143,
           "title": "Aus der Community: Eine Zeitreise in das Jahr 2002 zur GeForce 4 MX",
           "imageUrl": "https://pics.computerbase.de/1/1/0/9/9/9-26a8aad226c721c8/article-1280x720.ec0a8456.jpg"
-        },
-        {
-          "id": "https://www.computerbase.de/2024-02/guenstigere-grafikkarten-wie-bewertet-ihr-die-super-bewegung-am-gpu-markt/",
-          "author": null,
-          "description": "<img src=\"https://pics.computerbase.de/1/1/1/0/0/6-a8967806b2ffb42d/article-640x360.088e50ab.jpg\"><p>Diese Woche geht es in der Sonntagsfrage – einmal mehr – um Grafikkarten. Der vergangene Januar hat für ordentlich Bewegung gesorgt. Welches neue Modell hat euch überzeugt und habt ihr vielleicht sogar zugeschlagen oder besitzt ihr schon eine aktuelle Grafikkarte? Und wie seht ihr generell die derzeitige GPU-Situation?</p>",
-          "link": "https://www.computerbase.de/2024-02/guenstigere-grafikkarten-wie-bewertet-ihr-die-super-bewegung-am-gpu-markt/",
-          "publishedOn": "2024-02-04T11:00:00.000Z",
-          "wordCount": 1676,
-          "title": "Günstigere Grafikkarten: Wie bewertet ihr die „Super-Bewegung“ am GPU-Markt?",
-          "imageUrl": "https://pics.computerbase.de/1/1/1/0/0/6-a8967806b2ffb42d/article-1280x720.088e50ab.jpg"
-        },
-        {
-          "id": "https://www.computerbase.de/2024-02/sharkoon-rebel-c70m-midi-tower-hebt-sich-mit-holz-ab/",
-          "author": null,
-          "description": "<img src=\"https://pics.computerbase.de/1/1/1/0/0/7-3973d5e3bf90e870/article-640x360.3793c204.jpg\"><p>Wenn Gehäuse mehr oder minder das gleiche können, braucht es den Lifestyle-Faktor um sich aus der Masse hervorzuheben – Design und besondere Werkstoffe müssen liefern. Beim Sharkoon Rebel C70M ist das eine Front mit Holzapplikationen. Das Gehäuse gibt es darüber hinaus mit Mesh- oder Glas-Seitenteil.</p>",
-          "link": "https://www.computerbase.de/2024-02/sharkoon-rebel-c70m-midi-tower-hebt-sich-mit-holz-ab/",
-          "publishedOn": "2024-02-04T09:00:00.000Z",
-          "wordCount": 1196,
-          "title": "Sharkoon Rebel C70M: Midi-Tower hebt sich mit Holz ab",
-          "imageUrl": "https://pics.computerbase.de/1/1/1/0/0/7-3973d5e3bf90e870/article-1280x720.3793c204.jpg"
-        },
-        {
-          "id": "https://www.computerbase.de/2024-02/wochenrueckblick-und-ausblick-2024-w05/",
-          "author": null,
-          "description": "<img src=\"https://pics.computerbase.de/1/1/0/9/8/5-0d75b8db69a114ea/article-640x360.ea1f77b5.jpg\"><p>Nach der GeForce RTX 4070 Super (Test) und der GeForce RTX 4070 Ti Super (Test) hat Nvidia nun auch die GeForce RTX 4080 Super (Test) vorgestellt. Im Artikel, der auf ComputerBase in dieser Woche auf viel Aufmerksamkeit gestoßen ist, zeigt sich aber schnell, dass beide Grafikkarten quasi identisch sind.</p>",
-          "link": "https://www.computerbase.de/2024-02/wochenrueckblick-und-ausblick-2024-w05/",
-          "publishedOn": "2024-02-04T07:00:00.000Z",
-          "wordCount": 1140,
-          "title": "Wochenrück- und Ausblick: RTX 4080 Super schlägt neue AMD-Desktop-APUs",
-          "imageUrl": "https://pics.computerbase.de/1/1/0/9/8/5-0d75b8db69a114ea/article-1280x720.ea1f77b5.jpg"
-        },
-        {
-          "id": "https://www.computerbase.de/2024-02/asus-proart-lc-420-350-euro-kuehlung-wirbt-mit-schlichter-schwarzheit/",
-          "author": null,
-          "description": "<img src=\"https://pics.computerbase.de/1/1/1/0/0/5-637f33a0ae2409b5/article-640x360.3944fbb9.jpg\"><p>„Pro Art“ steht bei Asus für ein Luxusprodukt mit schlichter, eleganter Designsprache. Der AiO-Kühler ProArt LC 420 kommt deshalb ganz in schwarz. Auffällig sind vor allem ein großer Radiator und Noctua-Lüfter. Damit grenzt er sich maximal von extrovertierten „Republic of Gamers“-Produkten am anderen Ende des Spektrums ab.</p>",
-          "link": "https://www.computerbase.de/2024-02/asus-proart-lc-420-350-euro-kuehlung-wirbt-mit-schlichter-schwarzheit/",
-          "publishedOn": "2024-02-03T16:10:00.000Z",
-          "wordCount": 894,
-          "title": "Asus ProArt LC 420: 350-Euro-Kühlung wirbt mit schlichter Schwarzheit",
-          "imageUrl": "https://pics.computerbase.de/1/1/1/0/0/5-637f33a0ae2409b5/article-1280x720.3944fbb9.jpg"
-        },
-        {
-          "id": "https://www.computerbase.de/2024-02/suicide-squad-fehlender-offline-modus-und-repetitives-gameplay-kommen-nicht-gut-an/",
-          "author": null,
-          "description": "<img src=\"https://pics.computerbase.de/1/1/0/9/8/3-e335682819d81a78/article-640x360.1c14ddd7.jpg\"><p>Vor neun Jahren erschien Batman: Arkham Knight als letzter Teil der beliebten Batman-Trilogie von den Rocksteady Studios. Mit Suicide Squad: Kill The Justice League können alle Käufer seit dem 2. Februar ihr neustes Werk spielen. Es hinterlässt bisher einen durchwachsenen Eindruck und enttäuschte mit Problemen die Vorbesteller.</p>",
-          "link": "https://www.computerbase.de/2024-02/suicide-squad-fehlender-offline-modus-und-repetitives-gameplay-kommen-nicht-gut-an/",
-          "publishedOn": "2024-02-03T15:32:00.000Z",
-          "wordCount": 1479,
-          "title": "Suicide Squad: Fehlender Offline-Modus und repetitives Gameplay kommen nicht gut an",
-          "imageUrl": "https://pics.computerbase.de/1/1/0/9/8/3-e335682819d81a78/article-1280x720.1c14ddd7.jpg"
-        },
-        {
-          "id": "https://www.computerbase.de/2024-02/sicherheitsvorfall-anydesk-bestaetigt-cyberangriff-auf-seine-it-systeme/",
-          "author": null,
-          "description": "<img src=\"https://pics.computerbase.de/1/1/1/0/0/1-7634e23dbcd3cd63/article-640x360.e4157283.jpg\"><p>Erste Vermutungen gab es schon im Vorfeld, da sich Nutzer tagelang nicht authentifizieren konnten, nun ist es offiziell: Der Anbieter der Fernwartungssoftware AnyDesk ist Ziel eines Cyberangriffs geworden. Ransomware kam dabei angeblich nicht zum Einsatz. Nutzerpasswörter werden aber dennoch sicherheitshalber zurückgesetzt.</p>",
-          "link": "https://www.computerbase.de/2024-02/sicherheitsvorfall-anydesk-bestaetigt-cyberangriff-auf-seine-it-systeme/",
-          "publishedOn": "2024-02-03T15:00:00.000Z",
-          "wordCount": 1072,
-          "title": "Sicherheitsvorfall: AnyDesk bestätigt Cyberangriff auf seine IT-Systeme",
-          "imageUrl": "https://pics.computerbase.de/1/1/1/0/0/1-7634e23dbcd3cd63/article-1280x720.e4157283.jpg"
-        },
-        {
-          "id": "https://www.computerbase.de/2024-02/ende-der-zeitreisen-der-google-cache-nimmt-abschied/",
-          "author": null,
-          "description": "<img src=\"https://pics.computerbase.de/1/1/1/0/0/0-6db07120c7a316b1/article-640x360.09ad948f.jpg\"><p>Der Google-Cache ist eine der ältesten Funktionen der Google-Suche und bei vielen Anwendern auch alles andere als unbeliebt. Einige Nutzer finden in ihren Suchergebnissen schon seit Wochen keine Links zum Cache mehr vor, nun ist dessen Einstellung offiziell – wenngleich der manuelle Aufruf derzeit noch möglich ist.</p>",
-          "link": "https://www.computerbase.de/2024-02/ende-der-zeitreisen-der-google-cache-nimmt-abschied/",
-          "publishedOn": "2024-02-03T14:15:00.000Z",
-          "wordCount": 1051,
-          "title": "Ende der Zeitreisen: Der Google-Cache nimmt Abschied",
-          "imageUrl": "https://pics.computerbase.de/1/1/1/0/0/0-6db07120c7a316b1/article-1280x720.09ad948f.jpg"
-        },
-        {
-          "id": "https://www.computerbase.de/2024-02/vampire-the-masquerade-bloodlines-2-gibt-kraeftiges-lebenszeichen/",
-          "author": null,
-          "description": "<img src=\"https://pics.computerbase.de/1/1/1/0/0/2-95e4b18aa07dfcf5/article-640x360.6eeb519d.jpg\"><p>Vampire: The Masquerade – Bloodlines 2 lebt. In einem halbstündigen Video demonstrieren die neuen Entwickler, dass mit dem Vampirspiel weiterhin zu rechnen ist. Im Mittelpunkt stehen die verschiedenen Elemente des Spielgeschehens und drei Spielstile.</p>",
-          "link": "https://www.computerbase.de/2024-02/vampire-the-masquerade-bloodlines-2-gibt-kraeftiges-lebenszeichen/",
-          "publishedOn": "2024-02-03T13:24:00.000Z",
-          "wordCount": 989,
-          "title": "Vampire: The Masquerade: Bloodlines 2 gibt kräftiges Lebenszeichen",
-          "imageUrl": "https://pics.computerbase.de/1/1/1/0/0/2-95e4b18aa07dfcf5/article-1280x720.6eeb519d.jpg"
         }
       ]
     },
@@ -8409,6 +8579,26 @@
       "feedUrl": "https://www.ghacks.net/feed/",
       "siteUrl": null,
       "articles": [
+        {
+          "id": "https://www.ghacks.net/?p=205196",
+          "author": "Martin Brinkmann",
+          "description": "Microsoft's Windows operating system comes with several options to close programs. Common options include using window controls and the Task Manager. Previous versions of Windows, including Windows 10, also included an End […]\nThank you for being a Ghacks reader. The post Add End Task to Windows 11's Taskbar to one-up Close Window appeared first on gHacks Technology News.",
+          "link": "https://www.ghacks.net/2024/03/04/add-end-task-to-windows-11s-taskbar-to-one-up-close-window/",
+          "publishedOn": "2024-03-04T10:53:50.000Z",
+          "wordCount": 3051,
+          "title": "Add End Task to Windows 11's Taskbar to one-up Close Window",
+          "imageUrl": "https://www.ghacks.net/wp-content/uploads/2023/06/windows-11_02.jpg"
+        },
+        {
+          "id": "https://www.ghacks.net/?p=205191",
+          "author": "Ashwin",
+          "description": "HP has launched a new subscription service called an All-In-Plan that lets users rent a printer. The company has some restrictions in place, and monitors the content that you print. HP's All-In-Plan […]\nThank you for being a Ghacks reader. The post HP's All-In-Plan will let you rent printers, but it monitors them appeared first on gHacks Technology News.",
+          "link": "https://www.ghacks.net/2024/03/04/hps-all-in-plan-will-let-you-rent-printers-but-it-monitors-them/",
+          "publishedOn": "2024-03-04T05:22:21.000Z",
+          "wordCount": 3675,
+          "title": "HP's All-In-Plan will let you rent printers, but it monitors them",
+          "imageUrl": "https://www.ghacks.net/wp-content/uploads/2024/03/HPs-All-In-Plan-will-let-you-rent-printers-but-it-monitors-them.jpg"
+        },
         {
           "id": "https://www.ghacks.net/?p=205182",
           "author": "Ashwin",
@@ -8722,10 +8912,230 @@
       ]
     },
     {
-      "title": "Deutschlandfunk - Fortlaufende Nachrichten vom 04. März 2024",
+      "title": "Deutschlandfunk - Fortlaufende Nachrichten vom 05. März 2024",
       "feedUrl": "https://www.deutschlandfunk.de/nachrichten-100.rss",
-      "siteUrl": "https://www.deutschlandfunk.de/nachrichten-index-30802.html",
+      "siteUrl": "https://www.deutschlandfunk.de/nachrichten-index-30814.html",
       "articles": [
+        {
+          "id": "vizepraesidentin-harris-pocht-auf-abkommen-zur-freilassung-weiterer-geiseln-der-hamas-im-gazastreife-102",
+          "author": null,
+          "description": "US-Vizepräsidentin Harris hält es für dringend geboten, ein neues Abkommen zur Freilassung israelischer Geiseln aus der Gewalt der Terrororganisation Hamas auf den Weg zu bringen. Das teilte das Weiße Haus in Washington nach einem Gespräch zwischen Harris und dem israelischen Minister Gantz mit.",
+          "link": "https://www.deutschlandfunk.de/vizepraesidentin-harris-pocht-auf-abkommen-zur-freilassung-weiterer-geiseln-der-hamas-im-gazastreife-102.html",
+          "publishedOn": "2024-03-05T00:31:56.000Z",
+          "wordCount": 818,
+          "title": "Treffen mit Minister Gantz - Vizepräsidentin Harris pocht auf Abkommen zur Freilassung weiterer Geiseln der Hamas im Gazastreifen",
+          "imageUrl": "https://bilder.deutschlandfunk.de/86/ac/da/6b/86acda6b-686e-4b03-a2fd-c2c8f9c7d97d/kamala-harris-100-1920x1080.jpg"
+        },
+        {
+          "id": "faeser-wirft-russland-vor-den-deutschen-staat-diskreditieren-zu-wollen-und-betont-abwehrbereitschaft-102",
+          "author": null,
+          "description": "Bundesinnenministerin Faeser wirft Russland in der Taurus-Abhöraffäre vor, den deutschen Staat diskreditieren und die Gesellschaft spalten zu wollen.",
+          "link": "https://www.deutschlandfunk.de/faeser-wirft-russland-vor-den-deutschen-staat-diskreditieren-zu-wollen-und-betont-abwehrbereitschaft-102.html",
+          "publishedOn": "2024-03-05T00:31:56.000Z",
+          "wordCount": 787,
+          "title": "Taurus-Abhöraffäre - Faeser wirft Russland vor, den deutschen Staat diskreditieren zu wollen und betont Abwehrbereitschaft",
+          "imageUrl": "https://bilder.deutschlandfunk.de/78/1f/56/23/781f5623-1d2a-43a3-ae85-55c095c37cfb/bundestag-innenministerin-faeser-debatte-rueckfuehrung-reform-staatsangehoerigkeitsrecht-100-1920x1080.jpg"
+        },
+        {
+          "id": "welchen-einfluss-die-richtungsentscheidung-des-obersten-us-gerichts-zugunsten-von-trump-hat-102",
+          "author": null,
+          "description": "Der ehemalige US-Präsident Trump darf an den Vorwahlen der Republikaner teilnehmen. Der Supreme Court erklärte den Ausschluss des Präsidentschaftsbewerbers für nicht rechtens. Die Entscheidung hat auch Einfluss auf den heutigen sogenannten \"Super Tuesday\", an dem es in mehr als einem Dutzend Bundesstaaten parteiinterne Vorwahlen gibt.",
+          "link": "https://www.deutschlandfunk.de/welchen-einfluss-die-richtungsentscheidung-des-obersten-us-gerichts-zugunsten-von-trump-hat-102.html",
+          "publishedOn": "2024-03-05T00:31:56.000Z",
+          "wordCount": 1282,
+          "title": "Vor \"Super Tuesday\" - Welchen Einfluss die Richtungsentscheidung des Obersten US-Gerichts zugunsten von Trump hat",
+          "imageUrl": "https://bilder.deutschlandfunk.de/73/53/b6/0c/7353b60c-dcdd-4055-9ba3-152e78211b23/trump-usa-north-carolina-vorwahlen-100-1920x1080.jpg"
+        },
+        {
+          "id": "sondersitzung-des-verteidigungsauschusses-zur-abhoeraffaere-bei-der-bundeswehr-110",
+          "author": null,
+          "description": "Wegen der Abhöraffäre bei der Bundeswehr wird der Verteidigungsausschuss des Bundestags zu einer Sondersitzung zusammenkommen. Dabei soll geklärt werden, wie Russland an das Material gelangen konnte und wie dies in Zukunft verhindert werden kann. Bundesfinanzminister Lindner sagte, die Abhöraffäre sei ein Weckruf an Deutschland.",
+          "link": "https://www.deutschlandfunk.de/sondersitzung-des-verteidigungsauschusses-zur-abhoeraffaere-bei-der-bundeswehr-110.html",
+          "publishedOn": "2024-03-05T00:31:56.000Z",
+          "wordCount": 1221,
+          "title": "Bundestag - Sondersitzung des Verteidigungsauschusses zur Abhöraffäre bei der Bundeswehr",
+          "imageUrl": "https://bilder.deutschlandfunk.de/3b/d1/82/2c/3bd1822c-ca31-4239-8d5c-9acbc9558149/taurus-bundeswehr-100-1920x1080.jpg"
+        },
+        {
+          "id": "heil-und-lindner-stellen-rentenpaket-vor-102",
+          "author": null,
+          "description": "Bundesarbeitsminister Heil und Bundesfinanzminister Lindner wollen heute eine seit Monaten angekündigte Rentenreform vorstellen.",
+          "link": "https://www.deutschlandfunk.de/heil-und-lindner-stellen-rentenpaket-vor-102.html",
+          "publishedOn": "2024-03-05T00:31:56.000Z",
+          "wordCount": 745,
+          "title": "Dienstag - Heil und Lindner stellen Rentenpaket vor",
+          "imageUrl": "https://bilder.deutschlandfunk.de/f3/75/dd/dd/f375dddd-1598-448f-a7b7-74a248a4c145/rente-fdp-100-1920x1080.jpg"
+        },
+        {
+          "id": "nationaler-volkskongress-in-china-beginnt-100",
+          "author": null,
+          "description": "In China beginnt heute die Sitzung des Nationalen Volkskongresses.",
+          "link": "https://www.deutschlandfunk.de/nationaler-volkskongress-in-china-beginnt-100.html",
+          "publishedOn": "2024-03-05T00:31:56.000Z",
+          "wordCount": 733,
+          "title": "Signale für Wirtschaft - Nationaler Volkskongress in China beginnt",
+          "imageUrl": "https://bilder.deutschlandfunk.de/77/b5/4c/bb/77b54cbb-6792-439d-b659-def4cf1a128e/brics-xi-jinping-johannesburg-afrika-gipfeltreffen-100-1920x1080.jpg"
+        },
+        {
+          "id": "eu-einigt-sich-auf-verbot-von-einweg-plastik-in-der-gastronomie-104",
+          "author": null,
+          "description": "Unterhändler des Europaparlaments und der Mitgliedsstaaten haben sich auf Maßnahmen geeinigt, um den Verpackungsmüll zu reduzieren.",
+          "link": "https://www.deutschlandfunk.de/eu-einigt-sich-auf-verbot-von-einweg-plastik-in-der-gastronomie-104.html",
+          "publishedOn": "2024-03-05T00:31:56.000Z",
+          "wordCount": 776,
+          "title": "Verpackungsmüll - EU einigt sich auf Verbot von Einweg-Plastik in der Gastronomie",
+          "imageUrl": "https://bilder.deutschlandfunk.de/FI/LE/_7/d0/FILE_7d06c7b99f1032b8ca3b054e50447c0c/118773657-jpg-100-1920x1080.jpg"
+        },
+        {
+          "id": "rueckschlag-fuer-ruanda-plan-der-britischen-regierung-102",
+          "author": null,
+          "description": "Das britische Oberhaus hat für Änderungen an dem umstrittenen Asylpakt der Regierung von Premierminister Sunak mit Ruanda gestimmt.",
+          "link": "https://www.deutschlandfunk.de/rueckschlag-fuer-ruanda-plan-der-britischen-regierung-102.html",
+          "publishedOn": "2024-03-05T00:31:56.000Z",
+          "wordCount": 765,
+          "title": "Großbritannien - Rückschlag für Ruanda-Plan der britischen Regierung",
+          "imageUrl": "https://bilder.deutschlandfunk.de/72/e6/3f/30/72e63f30-cad4-465f-9234-b491582ec17b/sunak-vor-downing-street-100-1920x1080.jpg"
+        },
+        {
+          "id": "internationaler-strafgerichtshof-geht-gegen-rebellenfuehrer-kony-vor-102",
+          "author": null,
+          "description": "Der Internationale Strafgerichtshof will Mitte Oktober über die Anklagepunkte gegen den ugandischen Rebellenführer Kony entscheiden.",
+          "link": "https://www.deutschlandfunk.de/internationaler-strafgerichtshof-geht-gegen-rebellenfuehrer-kony-vor-102.html",
+          "publishedOn": "2024-03-05T00:31:56.000Z",
+          "wordCount": 758,
+          "title": "Den Haag - Internationaler Strafgerichtshof geht gegen Rebellenführer Kony vor",
+          "imageUrl": null
+        },
+        {
+          "id": "usa-verurteilen-haftstrafe-gegen-saenger-und-grammy-gewinner-shervin-hajipour-im-iran-102",
+          "author": null,
+          "description": "Die USA haben die Verurteilung des iranischen Sängers und Grammy-Preisträgers Shervin Hajipour zu mehr als drei Jahren Haft verurteilt.",
+          "link": "https://www.deutschlandfunk.de/usa-verurteilen-haftstrafe-gegen-saenger-und-grammy-gewinner-shervin-hajipour-im-iran-102.html",
+          "publishedOn": "2024-03-05T00:31:56.000Z",
+          "wordCount": 802,
+          "title": "Protesthymne \"Baraye\" - USA verurteilen Haftstrafe gegen Sänger und Grammy-Gewinner Shervin Hajipour im Iran",
+          "imageUrl": "https://bilder.deutschlandfunk.de/ff/78/28/a2/ff7828a2-3fb9-4b24-9080-80b98a7ea1cf/shervin-hajipour-102-1920x1080.jpg"
+        },
+        {
+          "id": "polizeieinsaetze-bei-fahndung-nach-ex-raf-terroristen-104",
+          "author": null,
+          "description": "Bei der Fahndung nach den mutmaßlichen Ex-RAF-Terroristen Garweg und Staub hat es heute erneut Polizeieinsätze gegeben.",
+          "link": "https://www.deutschlandfunk.de/polizeieinsaetze-bei-fahndung-nach-ex-raf-terroristen-104.html",
+          "publishedOn": "2024-03-05T00:31:56.000Z",
+          "wordCount": 777,
+          "title": "A5 und Berlin - Polizeieinsätze bei Fahndung nach Ex-RAF-Terroristen",
+          "imageUrl": "https://bilder.deutschlandfunk.de/ce/67/d3/91/ce67d391-a6f4-420f-a5e7-e7badf1e3ab1/raf-berlin-polizeieinsatz-100-1920x1080.jpg"
+        },
+        {
+          "id": "frankreich-nimmt-freiheit-zur-abtreibung-in-verfassung-auf-106",
+          "author": null,
+          "description": "In Frankreich wird das Recht auf Abtreibung in der Verfassung verankert. Vertreter beider Parlamentskammern votierten in einer Sondersitzung in Versailles mit einer Mehrheit von 780 Stimmen für den Schritt. Es gab lediglich 72 Gegenstimmen. Frankreich ist damit das erste Land weltweit, das solch eine Regelung einführt.",
+          "link": "https://www.deutschlandfunk.de/frankreich-nimmt-freiheit-zur-abtreibung-in-verfassung-auf-106.html",
+          "publishedOn": "2024-03-05T00:31:56.000Z",
+          "wordCount": 967,
+          "title": "Nationalversammlung - Frankreich nimmt Freiheit zur Abtreibung in Verfassung auf",
+          "imageUrl": "https://bilder.deutschlandfunk.de/d1/6d/1d/e5/d16d1de5-5485-45f0-9423-2cb8a568db79/abtreibung-frankreich-verfassung-selbstbestimmung-100-1920x1080.jpg"
+        },
+        {
+          "id": "unicef-und-who-beklagen-hohe-kindersterblichkeit-im-gazastreifen-104",
+          "author": null,
+          "description": "Die Weltgesundheitsorganisation WHO und das UNO-Kinderhilfswerk Unicef beklagen katastrophale Bedingungen für Kinder im Gazastreifen.",
+          "link": "https://www.deutschlandfunk.de/unicef-und-who-beklagen-hohe-kindersterblichkeit-im-gazastreifen-104.html",
+          "publishedOn": "2024-03-05T00:31:56.000Z",
+          "wordCount": 769,
+          "title": "Nahost - Unicef und WHO beklagen hohe Kindersterblichkeit im Gazastreifen",
+          "imageUrl": "https://bilder.deutschlandfunk.de/42/29/fc/b9/4229fcb9-5fef-4ab7-b512-b76e4672f749/kinder-im-gaza-streifen-100-1920x1080.jpg"
+        },
+        {
+          "id": "messerangriff-auf-juden-in-zuerich-tatverdaechtiger-bekannte-sich-zum-is-104",
+          "author": null,
+          "description": "Ein 15-Jähriger, der am Wochenende in Zürich einen Juden mit einem Messer schwer verletzt haben soll, hat sich zur Terrormiliz IS bekannt.",
+          "link": "https://www.deutschlandfunk.de/messerangriff-auf-juden-in-zuerich-tatverdaechtiger-bekannte-sich-zum-is-104.html",
+          "publishedOn": "2024-03-05T00:31:56.000Z",
+          "wordCount": 749,
+          "title": "Schweiz - Messerangriff auf Juden in Zürich: Tatverdächtiger bekannte sich zum IS",
+          "imageUrl": "https://bilder.deutschlandfunk.de/2b/e7/c1/1b/2be7c11b-7282-4cc7-86b8-7112ed3f14f6/polizei-zuerich-angriff-jude-100-1920x1080.jpg"
+        },
+        {
+          "id": "bundesregierung-legt-berufung-gegen-klima-urteil-ein-102",
+          "author": null,
+          "description": "Die Bundesregierung hat Berufung gegen ein Urteil zu ihren eigenen Klimazielen eingelegt.",
+          "link": "https://www.deutschlandfunk.de/bundesregierung-legt-berufung-gegen-klima-urteil-ein-102.html",
+          "publishedOn": "2024-03-05T00:31:56.000Z",
+          "wordCount": 767,
+          "title": "Klimaschutz - Bundesregierung legt Berufung gegen Klima-Urteil ein",
+          "imageUrl": "https://bilder.deutschlandfunk.de/d6/d4/00/a7/d6d400a7-9bb2-46df-a627-00b62ea783a6/umweltzone-abschaffung-100-1920x1080.jpg"
+        },
+        {
+          "id": "mehr-als-40-staaten-fordern-unabhaengige-untersuchung-von-nawalnys-tod-102",
+          "author": null,
+          "description": "Nach dem Tod des Kreml-Gegners Nawalny in einem russischen Straflager haben mehr als 40 Staaten eine unabhängige internationale Untersuchung gefordert. Russland müsse eine solche Aufklärung des plötzlichen Todes von Nawalny zulassen, erklärte EU-Botschafterin Knudsen im Namen von 43 Staaten vor dem UNO-Menschenrechtsrat.",
+          "link": "https://www.deutschlandfunk.de/mehr-als-40-staaten-fordern-unabhaengige-untersuchung-von-nawalnys-tod-102.html",
+          "publishedOn": "2024-03-05T00:31:56.000Z",
+          "wordCount": 851,
+          "title": "Verstorbener Kreml-Gegner - Mehr als 40 Staaten fordern unabhängige Untersuchung von Nawalnys Tod",
+          "imageUrl": "https://bilder.deutschlandfunk.de/04/0c/bb/46/040cbb46-1261-4a48-97e2-4096b579b276/nawanly-gedenken-100-1920x1080.jpg"
+        },
+        {
+          "id": "unfaelle-wegen-misthaufen-auf-der-strasse-bauernverband-distanziert-sich-grenzen-ueberschritten-102",
+          "author": null,
+          "description": "Protestierende Landwirte haben durch das Auskippen von Misthaufen auf einer Bundesstraße in Brandenburg Unfälle verursacht. Mindestens zwei Fahrzeuge fuhren in die ungesicherte Stelle. Dabei wurden fünf Personen verletzt. Die Polizei ermittelt, auch der Bauernverband äußert Kritik.",
+          "link": "https://www.deutschlandfunk.de/unfaelle-wegen-misthaufen-auf-der-strasse-bauernverband-distanziert-sich-grenzen-ueberschritten-102.html",
+          "publishedOn": "2024-03-05T00:31:56.000Z",
+          "wordCount": 882,
+          "title": "Bauernproteste - Unfälle wegen Misthaufen auf der Straße - Bauernverband distanziert sich: \"Grenzen überschritten\"",
+          "imageUrl": "https://bilder.deutschlandfunk.de/56/0c/e4/ba/560ce4ba-b390-4ea9-8aee-d5115f6175e8/brandenburg-bauernproteste-unfall-100-1920x1080.jpg"
+        },
+        {
+          "id": "erneut-containerschiff-vor-der-kueste-jemens-angegriffen-104",
+          "author": null,
+          "description": "Vor der Küste des Jemen ist erneut ein Containerschiff angegriffen worden.",
+          "link": "https://www.deutschlandfunk.de/erneut-containerschiff-vor-der-kueste-jemens-angegriffen-104.html",
+          "publishedOn": "2024-03-05T00:31:56.000Z",
+          "wordCount": 778,
+          "title": "Südöstlich von Aden - Erneut Containerschiff vor der Küste Jemens angegriffen",
+          "imageUrl": "https://bilder.deutschlandfunk.de/FI/LE/_a/ff/FILE_aff697a699e6065a48f1df4eff60df8b/dlf-die-nachrichten-header-2000x1125px-jpg-104-1920x1080.jpg"
+        },
+        {
+          "id": "baerbock-lobt-reformen-in-montenegro-auf-dem-weg-in-eu-104",
+          "author": null,
+          "description": "Bundesaußenministerin Baerbock hat die bisherigen Reformen in Montenegro bei dessen Streben nach einer EU-Mitgliedschaft gewürdigt.",
+          "link": "https://www.deutschlandfunk.de/baerbock-lobt-reformen-in-montenegro-auf-dem-weg-in-eu-104.html",
+          "publishedOn": "2024-03-05T00:31:56.000Z",
+          "wordCount": 778,
+          "title": "Balkan-Reise - Baerbock lobt Reformen in Montenegro auf dem Weg in EU",
+          "imageUrl": "https://bilder.deutschlandfunk.de/53/04/41/10/53044110-2ead-455e-83c2-35878e2141b5/baerbock-bundesaussenministerin-besuch-montenegro-milatovic-praesident-100-1920x1080.jpg"
+        },
+        {
+          "id": "erneut-warnstreik-im-nahverkehr-in-nordrhein-westfalen-100",
+          "author": null,
+          "description": "In Nordrhein-Westfalen beginnt heute früh ein weiterer zweitägiger Warnstreik im öffentlichen Nahverkehr.",
+          "link": "https://www.deutschlandfunk.de/erneut-warnstreik-im-nahverkehr-in-nordrhein-westfalen-100.html",
+          "publishedOn": "2024-03-05T00:31:56.000Z",
+          "wordCount": 734,
+          "title": "ÖPNV - Erneut Warnstreik im Nahverkehr in Nordrhein-Westfalen",
+          "imageUrl": "https://bilder.deutschlandfunk.de/a5/d8/24/eb/a5d824eb-02fe-45ad-b32a-ffb8711f5de1/oepnv-streik-102-1920x1080.jpg"
+        },
+        {
+          "id": "lokfuehrergewerkschaft-gdl-kuendigt-weitere-streiks-bei-der-bahn-an-102",
+          "author": null,
+          "description": "Die Gewerkschaft Deutscher Lokführer hat weitere Streiks angekündigt. Neben einer 35-stündigen Arbeitsniederlegung im Güter- und Personenverkehr soll es weitere kurzfristige Ausstände geben. \"Stur und egoistisch\", bezeichnet die Bahn die GDL-Pläne. Woran scheitern die Verhandlungen? Und wie lange reicht die Streikkasse der Gewerkschaft?",
+          "link": "https://www.deutschlandfunk.de/lokfuehrergewerkschaft-gdl-kuendigt-weitere-streiks-bei-der-bahn-an-102.html",
+          "publishedOn": "2024-03-05T00:31:56.000Z",
+          "wordCount": 1222,
+          "title": "Tarifstreit - Lokführergewerkschaft GDL kündigt weitere Streiks bei der Bahn an",
+          "imageUrl": "https://bilder.deutschlandfunk.de/FI/LE/_c/c7/FILE_cc76273994fc1b32da4169e57c7a9201/252974957-jpg-100-1920x1080.jpg"
+        },
+        {
+          "id": "im-nordwesten-wolken-im-suedosten-sonne-132",
+          "author": null,
+          "description": "Das Wetter: Nachts bewölkt, im Norden und Osten sowie im Südwesten vereinzelt leichter Regen. Tiefstwerte 7 bis 0 Grad. Am Tag dichte Bewölkung, zeitweise Regenfälle. Temperaturen im Nordosten 5 bis 9, sonst 8 bis 13 Grad.",
+          "link": "https://www.deutschlandfunk.de/im-nordwesten-wolken-im-suedosten-sonne-132.html",
+          "publishedOn": "2024-03-05T00:31:56.000Z",
+          "wordCount": 705,
+          "title": "Wetter - Im Nordwesten Wolken, im Südosten Sonne",
+          "imageUrl": "https://bilder.deutschlandfunk.de/4c/f0/20/98/4cf02098-33bc-4b73-9e6a-bbfd7dd69bac/pressefoto-funkhaus-koeln-nachts-100-1920x1080.jpg"
+        },
         {
           "id": "weitere-durchsuchung-bei-fahndung-nach-mutmasslichen-raf-terroristen-garweg-und-staub-100",
           "author": null,
@@ -14155,216 +14565,6 @@
           "wordCount": 815,
           "title": "Kosovo - Besorgte Reaktionen von EU und USA nach Verbot des Dinar im Norden",
           "imageUrl": "https://bilder.deutschlandfunk.de/7f/a0/bd/5a/7fa0bd5a-48bf-42c9-828c-b0649cce8c20/euro-muenzen-scheine-100-1920x1080.jpg"
-        },
-        {
-          "id": "usa-und-gross-britannien-greifen-erneut-huthi-stellungen-an-106",
-          "author": null,
-          "description": "Die USA sind gemeinsam mit internationalen Partnern erneut mit Luftangriffen gegen die Huthi im Jemen vorgegangen.",
-          "link": "https://www.deutschlandfunk.de/usa-und-gross-britannien-greifen-erneut-huthi-stellungen-an-106.html",
-          "publishedOn": "2024-02-04T01:14:18.000Z",
-          "wordCount": 783,
-          "title": "USA und Partner - USA und Groß-Britannien greifen erneut Huthi-Stellungen an",
-          "imageUrl": "https://bilder.deutschlandfunk.de/2d/ab/d7/3a/2dabd73a-67ba-4088-a220-3fdad9d84537/jemen-106-1920x1080.jpg"
-        },
-        {
-          "id": "1-000-festnahmen-nach-autobahnblockade-von-klimaaktivisten-100",
-          "author": null,
-          "description": "In Den Haag hat die niederländische Polizei nach eigenen Angaben rund 1.000 Klimaaktivisten festgenommen.",
-          "link": "https://www.deutschlandfunk.de/1-000-festnahmen-nach-autobahnblockade-von-klimaaktivisten-100.html",
-          "publishedOn": "2024-02-04T01:14:18.000Z",
-          "wordCount": 758,
-          "title": "Den Haag - 1.000 Festnahmen nach Autobahnblockade von Klimaaktivisten",
-          "imageUrl": "https://bilder.deutschlandfunk.de/82/95/1e/aa/82951eaa-043a-4c39-993a-78face0f25c2/denhaag-100-1920x1080.jpg"
-        },
-        {
-          "id": "uno-sicherheitsrat-beraet-ueber-us-angriffe-in-syrien-und-irak-102",
-          "author": null,
-          "description": "Der UNO-Sicherheitsrat wird sich offenbar mit den US-Raketenschläge gegen proiranische Milizen in Syrien und im Irak mit zahlreichen Toten befassen. Eine Dringlichkeitssitzung des mächtigsten Gremiums der Vereinten Nationen ist Diplomatenkreisen zufolge für Montagabend vorgesehen.",
-          "link": "https://www.deutschlandfunk.de/uno-sicherheitsrat-beraet-ueber-us-angriffe-in-syrien-und-irak-102.html",
-          "publishedOn": "2024-02-04T01:14:18.000Z",
-          "wordCount": 1075,
-          "title": "Nach Vergeltungsschlägen - UNO-Sicherheitsrat berät über US-Angriffe in Syrien und Irak",
-          "imageUrl": "https://bilder.deutschlandfunk.de/f0/2d/75/a6/f02d75a6-81f4-42ee-a93c-738ceb64d10c/uno-sicherheitsrat-102-1920x1080.jpg"
-        },
-        {
-          "id": "weiter-heftige-kaempfe-in-chan-junis-luftangriff-auf-rafah-gemeldet-102",
-          "author": null,
-          "description": "Im südlichen Teil des Gazastreifens dauern die Kämpfe an.",
-          "link": "https://www.deutschlandfunk.de/weiter-heftige-kaempfe-in-chan-junis-luftangriff-auf-rafah-gemeldet-102.html",
-          "publishedOn": "2024-02-04T01:14:18.000Z",
-          "wordCount": 794,
-          "title": "Nahost-Krieg - Weiter heftige Kämpfe in Chan Junis - Luftangriff auf Rafah gemeldet",
-          "imageUrl": "https://bilder.deutschlandfunk.de/e8/88/a4/dc/e888a4dc-94aa-47e6-9371-f4f0a14837a0/rafah-luftangriff-100-1920x1080.jpg"
-        },
-        {
-          "id": "el-salvadors-praesident-bukele-strebt-wiederwahl-an-100",
-          "author": null,
-          "description": "In El Salvador wird heute über das Präsidentenamt und das Parlament abgestimmt.",
-          "link": "https://www.deutschlandfunk.de/el-salvadors-praesident-bukele-strebt-wiederwahl-an-100.html",
-          "publishedOn": "2024-02-04T01:14:18.000Z",
-          "wordCount": 783,
-          "title": "Mittelamerika - El Salvadors Präsident Bukele strebt Wiederwahl an",
-          "imageUrl": "https://bilder.deutschlandfunk.de/4d/26/42/a0/4d2642a0-2f06-4791-a754-eddf8a380c6c/bit-100-1920x1080.jpg"
-        },
-        {
-          "id": "nach-zweijaehriger-krise-wieder-neue-regierung-108",
-          "author": null,
-          "description": "In Nordirland hat sich nach einer gut zweijährigen politischen Krise wieder eine Regierung gebildet. Das Regionalparlament in Belfast wählte die Abgeordnete O'Neill von der pro-irischen Partei Sinn Fein zur Regierungschefin. O'Neill kündigte eine \"neue Ära\" für Nordirland an.",
-          "link": "https://www.deutschlandfunk.de/nach-zweijaehriger-krise-wieder-neue-regierung-108.html",
-          "publishedOn": "2024-02-04T01:14:18.000Z",
-          "wordCount": 994,
-          "title": "Nordirland - Nach zweijähriger Krise wieder neue Regierung",
-          "imageUrl": "https://bilder.deutschlandfunk.de/54/a9/95/76/54a99576-1ff8-46a2-ab2f-1431af70cdb3/oneill-nordirland-100-1920x1080.jpg"
-        },
-        {
-          "id": "israelisches-militaer-mehr-als-50-hisbollah-ziele-in-syrien-beschossen-104",
-          "author": null,
-          "description": "Israels Militär hat sich zu seinem Vorgehen gegen Hisbollah-Stellungen in Syrien geäußert.",
-          "link": "https://www.deutschlandfunk.de/israelisches-militaer-mehr-als-50-hisbollah-ziele-in-syrien-beschossen-104.html",
-          "publishedOn": "2024-02-04T01:14:18.000Z",
-          "wordCount": 735,
-          "title": "Nahost - Israelisches Militär: Mehr als 50 Hisbollah-Ziele in Syrien beschossen",
-          "imageUrl": "https://bilder.deutschlandfunk.de/FI/LE/_d/50/FILE_d50214fa697aaa664daf2b696fde5308/dlf-die-nachrichten-header-2000x1125px2-jpg-102-1920x1080.jpg"
-        },
-        {
-          "id": "tausende-menschen-fordern-die-freilassung-aller-hamas-geiseln-102",
-          "author": null,
-          "description": "In Israel haben tausende Menschen die Freilassung der von der Hamas entführten Geiseln gefordert.",
-          "link": "https://www.deutschlandfunk.de/tausende-menschen-fordern-die-freilassung-aller-hamas-geiseln-102.html",
-          "publishedOn": "2024-02-04T01:14:18.000Z",
-          "wordCount": 785,
-          "title": "Israel - Tausende Menschen fordern die Freilassung aller Hamas-Geiseln",
-          "imageUrl": "https://bilder.deutschlandfunk.de/07/b0/a8/e3/07b0a8e3-dbb7-4973-9353-f3fb12c53a7b/tel-aviv-demo-100-1920x1080.jpg"
-        },
-        {
-          "id": "offenbar-tote-und-verletzte-nach-beschuss-von-russisch-besetzter-stadt-106",
-          "author": null,
-          "description": "In der von russischen Truppen besetzten ostukrainischen Stadt Lysytschansk sind nach russischen Angaben mindestens 20 Menschen durch ukrainischen Beschuss getötet worden.",
-          "link": "https://www.deutschlandfunk.de/offenbar-tote-und-verletzte-nach-beschuss-von-russisch-besetzter-stadt-106.html",
-          "publishedOn": "2024-02-04T01:14:18.000Z",
-          "wordCount": 739,
-          "title": "Ukraine - Offenbar Tote und Verletzte nach Beschuss von russisch besetzter Stadt",
-          "imageUrl": "https://bilder.deutschlandfunk.de/c7/72/61/65/c7726165-d9f9-4c2b-99df-8ffd69bb8644/lyssytschansk-raketenangriff-100-1920x1080.jpg"
-        },
-        {
-          "id": "mehr-als-250-000-menschen-demonstrieren-gegen-rechtsextremismus-102",
-          "author": null,
-          "description": "In ganz Deutschland haben erneut mehrere hunderttausend Menschen demonstriert, um ein Zeichen gegen Rechtsextremismus und das Erstarken der AfD zu setzen. Auf der größten Kundgebung in Berlin kamen Polizeischätzungen zufolge mehr als 150.000 Menschen am Reichstagsgebäude zusammen und bildeten eine Menschenkette als symbolische Brandmauer um den Bundestag.",
-          "link": "https://www.deutschlandfunk.de/mehr-als-250-000-menschen-demonstrieren-gegen-rechtsextremismus-102.html",
-          "publishedOn": "2024-02-04T01:14:18.000Z",
-          "wordCount": 1014,
-          "title": "Bundesweite Proteste - Mehr als 250.000 Menschen demonstrieren gegen Rechtsextremismus",
-          "imageUrl": "https://bilder.deutschlandfunk.de/18/a5/be/41/18a5be41-ad4a-4379-912c-f1e60d1176c2/berlin-demonstration-102-1920x1080.jpg"
-        },
-        {
-          "id": "piloten-der-lufthansa-tochter-discover-streiken-100",
-          "author": null,
-          "description": "Passagiere der Lufthansa-Tochter Discover Airlines müssen sich heute und morgen auf Ausfälle und Verspätungen einstellen.",
-          "link": "https://www.deutschlandfunk.de/piloten-der-lufthansa-tochter-discover-streiken-100.html",
-          "publishedOn": "2024-02-04T01:14:18.000Z",
-          "wordCount": 759,
-          "title": "Flugverkehr - Piloten der Lufthansa-Tochter Discover streiken",
-          "imageUrl": "https://bilder.deutschlandfunk.de/41/45/12/d8/414512d8-0100-4a4f-a009-cab6691996e6/discover-lufthansa-tochter-gesellschaft-flugzeuge-airlines-vereinigung-cockpit-warnstreik-100-1920x1080.jpg"
-        },
-        {
-          "id": "festnahmen-bei-protestaktion-gegen-den-krieg-102",
-          "author": null,
-          "description": "Bei Protesten von Angehörigen der für den Ukraine-Krieg mobilisierten Russen in Moskau hat die Polizei Medien zufolge mehrere Menschen festgenommen.",
-          "link": "https://www.deutschlandfunk.de/festnahmen-bei-protestaktion-gegen-den-krieg-102.html",
-          "publishedOn": "2024-02-04T01:14:18.000Z",
-          "wordCount": 784,
-          "title": "Moskau - Festnahmen bei Protestaktion gegen den Krieg",
-          "imageUrl": "https://bilder.deutschlandfunk.de/3f/05/b6/0d/3f05b60d-2c29-4811-a88c-08a2a5b7f1d0/demonstration-am-kreml-100-1920x1080.jpg"
-        },
-        {
-          "id": "ex-premier-khan-zu-haftstrafe-verurteilt-104",
-          "author": null,
-          "description": "Ein pakistanisches Gericht hat den früheren Premierminister Khan und dessen Ehefrau zu einer siebenjährigen Gefängnisstrafe verurteilt.",
-          "link": "https://www.deutschlandfunk.de/ex-premier-khan-zu-haftstrafe-verurteilt-104.html",
-          "publishedOn": "2024-02-04T01:14:18.000Z",
-          "wordCount": 758,
-          "title": "Pakistan - Ex-Premier Khan zu Haftstrafe verurteilt",
-          "imageUrl": "https://bilder.deutschlandfunk.de/9d/65/bd/6a/9d65bd6a-61f2-4531-8f40-55e897616af6/imran-khan-pakistan-100-1920x1080.jpg"
-        },
-        {
-          "id": "praesident-sall-verschiebt-praesidentenwahl-auf-unbestimmte-zeit-104",
-          "author": null,
-          "description": "Senegals Präsident Sall hat die Wahl eines neuen Staatsoberhaupts drei Wochen vor dem geplanten Termin auf unbestimmte Zeit verschoben.",
-          "link": "https://www.deutschlandfunk.de/praesident-sall-verschiebt-praesidentenwahl-auf-unbestimmte-zeit-104.html",
-          "publishedOn": "2024-02-04T01:14:18.000Z",
-          "wordCount": 778,
-          "title": "Senegal - Präsident Sall verschiebt Präsidentenwahl auf unbestimmte Zeit",
-          "imageUrl": "https://bilder.deutschlandfunk.de/FI/LE/_6/ba/FILE_6ba2b50442c1ff5adacde614966db74c/92204728-macky-sall-jpg-100-1920x1080.jpg"
-        },
-        {
-          "id": "diskussion-ueber-hoehere-parkgebuehren-fuer-suv-auch-in-deutschland-102",
-          "author": null,
-          "description": "In Paris wird heute über die Verdreifachung der Parkgebühren für SUV und Geländewagen abgestimmt. Hannovers Oberbürgermeister Onay plädiert dafür, einen solchen Schritt auch in Deutschland zu gehen und eine Preisstaffelung nach Länge der Fahrzeuge einzuführen.",
-          "link": "https://www.deutschlandfunk.de/diskussion-ueber-hoehere-parkgebuehren-fuer-suv-auch-in-deutschland-102.html",
-          "publishedOn": "2024-02-04T01:14:18.000Z",
-          "wordCount": 982,
-          "title": "Verkehrspolitik - Diskussion über höhere Parkgebühren für SUV auch in Deutschland",
-          "imageUrl": "https://bilder.deutschlandfunk.de/f5/bb/22/85/f5bb2285-a498-4b36-8454-c3c1724b9ed0/suv-parken-100-1920x1080.jpg"
-        },
-        {
-          "id": "deutsches-davis-cup-team-erreicht-mit-sieg-ueber-ungarn-gruppenphase-110",
-          "author": null,
-          "description": "Im Davis Cup hat die deutsche Tennis-Mannschaft mit einem Sieg über Ungarn die Gruppenphase erreicht.",
-          "link": "https://www.deutschlandfunk.de/deutsches-davis-cup-team-erreicht-mit-sieg-ueber-ungarn-gruppenphase-110.html",
-          "publishedOn": "2024-02-04T01:14:18.000Z",
-          "wordCount": 705,
-          "title": "Tennis - Deutsches Davis-Cup-Team erreicht mit Sieg über Ungarn Gruppenphase",
-          "imageUrl": "https://bilder.deutschlandfunk.de/8e/5f/0b/3c/8e5f0b3c-67de-4192-a912-bcb0c5ce7c38/daviscup-ungarn-struff-tennis-100-1920x1080.jpg"
-        },
-        {
-          "id": "bayern-gewinnen-gegen-moenchengladbach-ausserdem-siege-fuer-koeln-leverkusen-und-bremen-106",
-          "author": null,
-          "description": "In der Fußball-Bundesliga hat Bayern München mit 3:1 gegen Borussia Mönchengladbach gewonnen. Für die Bayern trafen Aleksander Pavlovic, Harry Kane und Matthijs de Ligt.",
-          "link": "https://www.deutschlandfunk.de/bayern-gewinnen-gegen-moenchengladbach-ausserdem-siege-fuer-koeln-leverkusen-und-bremen-106.html",
-          "publishedOn": "2024-02-04T01:14:18.000Z",
-          "wordCount": 750,
-          "title": "Fußball-Bundesliga - Bayern gewinnen gegen Mönchengladbach - außerdem Siege für Köln, Leverkusen und Bremen",
-          "imageUrl": "https://bilder.deutschlandfunk.de/b0/3a/f7/1b/b03af71b-58e9-4ec9-bf9c-ac639fcd442d/bundesliga-bayern-spiel-spieler-traune-jubel-muenchen-100-1920x1080.jpg"
-        },
-        {
-          "id": "3-14-19-21-23-104",
-          "author": null,
-          "description": "Die Lottozahlen: 3 - 14 - 19 - 21 - 23 - 24",
-          "link": "https://www.deutschlandfunk.de/3-14-19-21-23-104.html",
-          "publishedOn": "2024-02-04T01:14:18.000Z",
-          "wordCount": 701,
-          "title": "Lottozahlen - 3 - 14 - 19 - 21 - 23 - 24",
-          "imageUrl": "https://bilder.deutschlandfunk.de/FI/LE/_e/00/FILE_e005925befcb27849c1063f8cff9a58b/lottozahlen-l-jpg-100-1920x1080.jpg"
-        },
-        {
-          "id": "verbreitet-regen-oder-spruehregen-132",
-          "author": null,
-          "description": "Das Wetter: In der Nacht im Norden aufgelockert bewölkt, meist trocken. Ansonsten weitgehend bedeckt und zeitweise Regen oder Sprühregen. Tiefsttemperaturen 9 bis 3 Grad. Tagsüber wieder viele Wolken und zeitweise Regen. In Alpennähe aufgelockert bewölkt. 7 bis 13 Grad.",
-          "link": "https://www.deutschlandfunk.de/verbreitet-regen-oder-spruehregen-132.html",
-          "publishedOn": "2024-02-04T01:14:18.000Z",
-          "wordCount": 703,
-          "title": "Wetter - Verbreitet Regen oder Sprühregen",
-          "imageUrl": "https://bilder.deutschlandfunk.de/FI/LE/_a/cb/FILE_acbfcc9753c8ed9f9882b87974089c24/imago88325629h-jpg-100-1920x1080.jpg"
-        },
-        {
-          "id": "praesident-boric-46-tote-bei-waldbraenden-notstand-ausgerufen-100",
-          "author": null,
-          "description": "In Chile sind bei schweren Bränden nach jüngsten Angaben mindestens 46 Menschen ums Leben gekommen.",
-          "link": "https://www.deutschlandfunk.de/praesident-boric-46-tote-bei-waldbraenden-notstand-ausgerufen-100.html",
-          "publishedOn": "2024-02-04T00:42:50.000Z",
-          "wordCount": 757,
-          "title": "Chile - Präsident Boric: 46 Tote bei Waldbränden - Notstand ausgerufen",
-          "imageUrl": "https://bilder.deutschlandfunk.de/fd/7b/15/92/fd7b1592-adf3-4db9-813e-04ac553bd658/chile-waldbrand-100-1920x1080.jpg"
-        },
-        {
-          "id": "afd-chef-chrupalla-fuer-dexit-ist-es-zu-spaet-108",
-          "author": null,
-          "description": "Der AfD-Vorsitzende Chrupalla hat sich gegen einen Austritt Deutschlands aus der Europäischen Union ausgesprochen. Für den sogenannten \"Dexit\" sei es zu spät, sagte Chrupalla im \"Interview der Woche\" des Deutschlandfunks. Er betonte, dass dies auch die Position der Ko-Vorsitzenden Weidel sei.",
-          "link": "https://www.deutschlandfunk.de/afd-chef-chrupalla-fuer-dexit-ist-es-zu-spaet-108.html",
-          "publishedOn": "2024-02-04T00:42:50.000Z",
-          "wordCount": 929,
-          "title": "\"Interview der Woche\" - AfD-Chef Chrupalla: Für \"Dexit\" ist es zu spät",
-          "imageUrl": "https://bilder.deutschlandfunk.de/b6/6d/f7/e0/b66df7e0-3ac8-4671-9ba8-355850cfd933/tino-chrupalla-afd-100-1920x1080.jpg"
         }
       ]
     }
